@@ -2,7 +2,7 @@
 
 ## Description
 
-Suite à un mémoire de master réalisé à l'université de Strasbourg et portant sur une étude comparative et quantitative des revues *A Muvra* et *Corsica antica e moderna*, je me suis posé diverses questions sur l'anonymat des nombreux auteurs et articles. Dans le cadre de ce nouveau mémoire de recherche du master "Humanités numériques et computationnelles", de l'école nationale des Chartes, je vais essayer de déterminer quels sont les auteurs derrière certains articles en faisant de la stylométrie en langue corse.
+Mes recherches commencèrent avec un mémoire de master soutenu en 2021 à l'Université de Strasbourg. Il s'agissait d'une étude comparative et quantitative entre deux revues différentes en apparence, mais représentatives de deux mouvements régulièrement assimilés ensemble à la fin des années 1930. L'objectif de ce mémoire était d'analyser l'objet culturel et matériel que représente un périodique afin de démontrer que les différences de formes et de fonds sont influencées par des variations idéologiques fondamentales entre l'irrédentisme fasciste et l'autonomisme corse de l'entre-deux-guerres. A la suite de cette étude, je me suis posé diverses questions sur l'anonymat des nombreux auteurs et articles. Dans le cadre de ce nouveau mémoire de recherche du master "Humanités numériques et computationnelles", de l'école nationale des Chartes, mon objectif est de déterminer quels sont les auteurs se dissimulant derrière un pseudonyme dans la signature d'articles en employant des méthodes de stylométrie en langue corse.
 
 ## *Preprocessing* des données
 
