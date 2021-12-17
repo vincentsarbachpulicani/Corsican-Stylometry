@@ -1,0 +1,1 @@
+Il s'agit ici des différentes étapes du script ***Alsatia Numerica*** permettant de récupérer les métadonnées inhérentes aux revues des sociétés d'histoire locale alsaciennes qui ont publié des ressources sur la période médiévale du Rhin Supérieur.
