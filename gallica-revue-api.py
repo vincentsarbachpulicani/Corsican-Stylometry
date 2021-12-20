@@ -86,17 +86,14 @@ def api_ark_issue(ark, date):
 	xml = request.data
 	create_file(xml, "apiarkissue.xml", "wb")
 	tree = etree.parse("apiarkissue.xml")
-	with open('arkissue.tsv', 'wt') as out_file:
-		tsv_writer = csv.writer(out_file, delimiter='\t')
-		tsv_writer.writerow(['ID', 'source', 'start', 'end'])
 	for issue in tree.xpath("//issue/@ark"):
-		print("Edition of the periodic treated :", issue)
 		with open('arkissue.tsv', 'a') as out_file:
 			tsv_writer = csv.writer(out_file, delimiter='\t')
 			tsv_writer.writerow([issue, 'gallica', '1', '4'])
-
+			print("Edition of the periodic treated :", issue)
 
 api_nameper()
+print("Ark identifier of the periodic collected")
 
 csvfile = open('arkper.csv', newline='')
 spamreader = csv.reader(csvfile, delimiter=' ', quotechar='|')
@@ -112,6 +109,9 @@ for a in spamreader:
 filename = "datesper.csv"
 csvfile = open(filename, newline='')
 spamereader = csv.reader(csvfile, delimiter=' ', quotechar='|')
+with open('arkissue.tsv', 'wt') as out_file:
+	tsv_writer = csv.writer(out_file, delimiter='\t')
+	tsv_writer.writerow(['ID', 'source', 'start', 'end'])
 with open(filename) as f:
 	reader = csv.reader(f, delimiter = ',')
 	for row in reader:
@@ -120,4 +120,4 @@ with open(filename) as f:
 			date = row[1]
 			if(ark):
 			    api_ark_issue(ark, date)
-
+print("The .tsv file has been created with success")
