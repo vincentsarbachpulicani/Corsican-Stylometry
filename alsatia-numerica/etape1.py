@@ -18,7 +18,7 @@ def unicode_csv_reader(utf8_data, dialect=csv.excel): # définition de la foncti
 # Fonction de création de fichier
 def create_file(content, name, arg): # définition de la fonction avec 3 arguments : le contenu du fichier, le nom du fichier et sa répétition (w=création d'un nouveau à chaque fois / a=on ajoute le contenu au sein du fichier s'il existe déjà)
     file = open(name, arg) # la variable "file" prend la valeur de la fonction "open" (importée de la bibliothèque os) qui vise à ouvrir le fichier demandé
-    file.write(content) # on demande à la fonction "write" d'écrire le contenu (content) au sein du fichier précédemment ouvert
+    file.write(str(content) # on demande à la fonction "write" d'écrire le contenu (content) au sein du fichier précédemment ouvert
     file.close() # on ferme le fichier
 
 # Fonction qui interroge automatiquement l'API de Gallica
