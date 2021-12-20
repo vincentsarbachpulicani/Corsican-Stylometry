@@ -6,8 +6,8 @@ import re
 import sys
 import json
 import shutil
-from argparse import ArgumentParser
 import requests
+
 
 
 
@@ -89,10 +89,13 @@ def api_ark_issue(ark, date):
 	for issue in tree.xpath("//issue/@ark"):
 		with open('arkissue.tsv', 'a') as out_file:
 			tsv_writer = csv.writer(out_file, delimiter='\t')
-			tsv_writer.writerow([issue, 'gallica', '1', '4'])
+			tsv_writer.writerow([issue, 'gallica', '1', lastpage])
 			print("Edition of the periodic treated :", issue)
 
+
+
 api_nameper()
+lastpage = str(input("Number of pages of periodic issues to download : "))
 print("Ark identifier of the periodic collected")
 
 csvfile = open('arkper.csv', newline='')
@@ -106,12 +109,15 @@ for a in spamreader:
 			print ("Treated ark code :", a)
 			api_dates_per(a)
 
+
 filename = "datesper.csv"
 csvfile = open(filename, newline='')
 spamereader = csv.reader(csvfile, delimiter=' ', quotechar='|')
+
 with open('arkissue.tsv', 'wt') as out_file:
 	tsv_writer = csv.writer(out_file, delimiter='\t')
 	tsv_writer.writerow(['ID', 'source', 'start', 'end'])
+
 with open(filename) as f:
 	reader = csv.reader(f, delimiter = ',')
 	for row in reader:
@@ -121,3 +127,5 @@ with open(filename) as f:
 			if(ark):
 			    api_ark_issue(ark, date)
 print("The .tsv file has been created with success")
+
+os.system('python3 iiifcrawler.py arkissue.tsv')

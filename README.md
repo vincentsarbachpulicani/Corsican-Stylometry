@@ -25,3 +25,7 @@ python3 iiifcrawler.py example.tsv
 ````
 
 La commande ci-dessus permet de lire un fichier `.tsv` qui contient 4 colonnes : l'ID, la source, le *start* et l'*end*. Ainisi, générer automatiquement un fichier de ce type grâce à un script python qui exploite l'API de Gallica permet d'automatiser la démarche de récupération des images en haute résolution.
+
+J'ai donc adapté le script réalisé dans le cadre de mon stage pour qu'il puisse récupérer le code `ark` de la revue, puis de chaque numéros. Le script s'occupe ensuite de créer un fichier `.tsv` qui peut être lu par le script `IIIF-Crawler`. la question s'est posée de savoir s'il fallait intégrer ce-dernier au script `IIIF-periodic-crawler` mais j'ai décidé d'utiliser directement le code inital à l'aide d'une commande de la librairie `os` pour ma faciliter la tâche. L'intégration au code est une manière d'améliorer ce script à l'avenir pour n'avoir qu'un seul fichier à utiliser.
+
+Dans l'ensemble, le script fonctionne bien. Il reste néamoins très décevant car peu d'images en haute résolution sont téléchargées. Il va surement falloir trouver une autre idée.

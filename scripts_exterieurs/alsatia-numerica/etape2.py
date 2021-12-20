@@ -34,7 +34,6 @@ def fonction_API(url, arg):
             zere = "([0-9]{4})" 
             if re.search(zere, year): 
                 content = re.search(zere, year).group(1)
-
                 create_csv_file([arg, content], "datesrevues.csv", "a+")
 
 
