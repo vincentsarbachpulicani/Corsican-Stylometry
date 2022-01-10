@@ -29,3 +29,9 @@ La commande ci-dessus permet de lire un fichier `.tsv` qui contient 4 colonnes :
 J'ai donc adapté le script réalisé dans le cadre de mon stage pour qu'il puisse récupérer le code `ark` de la revue, puis de chaque numéros. Le script s'occupe ensuite de créer un fichier `.tsv` qui peut être lu par le script `IIIF-Crawler`. la question s'est posée de savoir s'il fallait intégrer ce-dernier au script `IIIF-periodic-crawler` mais j'ai décidé d'utiliser directement le code inital à l'aide d'une commande de la librairie `os` pour ma faciliter la tâche. L'intégration au code est une manière d'améliorer ce script à l'avenir pour n'avoir qu'un seul fichier à utiliser.
 
 Dans l'ensemble, le script fonctionne bien. Il reste néamoins très décevant car peu d'images en haute résolution sont téléchargées. Il va surement falloir trouver une autre idée.
+
+***À suivre***
+
+### Transccription automatique des textes sur eScriptorium
+
+Pour la transcription des textes, j'utiliserai le logiciel [eScriptorium](https://traces6.paris.inria.fr/) développé par l'Inria et le laboratoire [ALMAnaCH](https://files.inria.fr/almanach/index-en.html). SOn interface intuitive permet de délimiter aisément des blocs de transcription, très utile pour la presse. J'ai d'abord essayé de transcrire mes textes à l'aide du modèle [*Modèle manuscrit DAHN NFC*](https://github.com/HTR-United) développé par Floriane Chiffoleau et trouvé sur le dépôt GitHub [HTR-United](https://github.com/HTR-United/dahncorpus). Néanmoins, se révélant finalement peu efficace dans le cadre de presses écrites en langue corse, je me suis orienté vers le modèle *19th century prints - HTRcatalogs Artlas* sous les conseils de Jean-baptiste Camps. Bien plus efficace que le précédent, celui-ci sera une bonne source de travail pour entraîner un nouveau modèle propre aux presses corses afin d'avoir un taux d'efficacité optimal.
