@@ -34,4 +34,20 @@ Dans l'ensemble, le script fonctionne bien. Il reste néamoins très décevant c
 
 ### Transccription automatique des textes sur eScriptorium
 
-Pour la transcription des textes, j'utiliserai le logiciel [eScriptorium](https://traces6.paris.inria.fr/) développé par l'Inria et le laboratoire [ALMAnaCH](https://files.inria.fr/almanach/index-en.html). SOn interface intuitive permet de délimiter aisément des blocs de transcription, très utile pour la presse. J'ai d'abord essayé de transcrire mes textes à l'aide du modèle [*Modèle manuscrit DAHN NFC*](https://github.com/HTR-United) développé par Floriane Chiffoleau et trouvé sur le dépôt GitHub [HTR-United](https://github.com/HTR-United/dahncorpus). Néanmoins, se révélant finalement peu efficace dans le cadre de presses écrites en langue corse, je me suis orienté vers le modèle *19th century prints - HTRcatalogs Artlas* sous les conseils de Jean-baptiste Camps. Bien plus efficace que le précédent, celui-ci sera une bonne source de travail pour entraîner un nouveau modèle propre aux presses corses afin d'avoir un taux d'efficacité optimal.
+Pour la transcription des textes, j'utiliserai le logiciel [eScriptorium](https://traces6.paris.inria.fr/) développé par l'Inria et le laboratoire [ALMAnaCH](https://files.inria.fr/almanach/index-en.html). SOn interface intuitive permet de délimiter aisément des blocs de transcription, très utile pour la presse. J'ai d'abord essayé de transcrire mes textes à l'aide du modèle [*Modèle manuscrit DAHN NFC*](https://github.com/HTR-United) développé par Floriane Chiffoleau et trouvé sur le dépôt GitHub [HTR-United](https://github.com/HTR-United/dahncorpus). Néanmoins, se révélant finalement peu efficace dans le cadre de presses écrites en langue corse, je me suis orienté vers le modèle *19th century prints - HTRcatalogs Artlas* sous les conseils de Jean-Baptiste Camps. Bien plus efficace que le précédent, celui-ci sera une bonne source de travail pour entraîner un nouveau modèle propre aux presses corses afin d'avoir un taux d'efficacité optimal.
+
+### Nettoyage du texte
+
+Je me suis rapidement rendu compte lors de mes premiers résultats de transcription qu'il y avait un problème d'encodage des données textuelles. Certains caractères, qui semblaient identiques, n'étaient pas encodés en UTF-8 mais probalement en UTF-16. Afin de pouvoir nettoyer correctement le texte (accentuation et ponctuation), il m'a fallu faire un tableau de correspondance de ce type :
+
+| **UTF-8** | **Encodage ES** |
+| --------- | --------------- |
+| ‘         | ’               |
+| à         | à              |
+| é         | é              |
+| è         | è              |
+| ò         | ò              |
+| ô         | ô              |
+| ù         | ù              |
+
+Ainsi ce tableau, bien qu'en apparence simpliste, me sera très utile pour intégrer ces caractères spéciaux à mes scripts pour nettoyer mes données.
