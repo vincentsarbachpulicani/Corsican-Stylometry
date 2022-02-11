@@ -32,9 +32,26 @@ Dans l'ensemble, le script fonctionne bien. Il reste néamoins très décevant c
 
 ***À suivre***
 
-### Transcription automatique des textes sur eScriptorium
+### Transcription automatique des textes
 
-Pour la transcription des textes, j'utiliserai le logiciel [eScriptorium](https://traces6.paris.inria.fr/) développé par l'Inria et le laboratoire [ALMAnaCH](https://files.inria.fr/almanach/index-en.html). SOn interface intuitive permet de délimiter aisément des blocs de transcription, très utile pour la presse. J'ai d'abord essayé de transcrire mes textes à l'aide du modèle [*Modèle manuscrit DAHN NFC*](https://github.com/HTR-United) développé par Floriane Chiffoleau et trouvé sur le dépôt GitHub [HTR-United](https://github.com/HTR-United/dahncorpus). Néanmoins, se révélant finalement peu efficace dans le cadre de presses écrites en langue corse, je me suis orienté vers le modèle *19th century prints - HTRcatalogs Artlas* sous les conseils de Jean-Baptiste Camps. Bien plus efficace que le précédent, celui-ci sera une bonne source de travail pour entraîner un nouveau modèle propre aux presses corses afin d'avoir un taux d'efficacité optimal.
+Pour la transcription des textes, je comptais utiliser le logiciel [eScriptorium](https://traces6.paris.inria.fr/) développé par l'Inria et le laboratoire [ALMAnaCH](https://files.inria.fr/almanach/index-en.html). Son interface intuitive permet de délimiter aisément des blocs de transcription, très utile pour la presse. J'ai d'abord essayé de transcrire mes textes à l'aide du modèle [*Modèle manuscrit DAHN NFC*](https://github.com/HTR-United) développé par Floriane Chiffoleau et trouvé sur le dépôt GitHub [HTR-United](https://github.com/HTR-United/dahncorpus). Néanmoins, se révélant finalement peu efficace dans le cadre de presses écrites en langue corse, je me suis orienté vers le modèle *19th century prints - HTRcatalogs Artlas* sous les conseils de Jean-Baptiste Camps. Bien plus efficace que le précédent, celui-ci semblait être une bonne source de travail pour entraîner un nouveau modèle propre aux presses corses afin d'avoir un taux d'efficacité optimal.
+
+Néanmoins, la difficulté que j'ai eu pour entraîner un modèle de segmentation efficace m'handicapait et me faisait perdre du temps. j'ai pris la décision de basculer sur `tesseract-ocr` qui, en plus de posséder un module de transcription corse, permetd de compiler différentes langues notamment pour les textes écrits en plusieurs langues. J'ai créé un fichier `.bash` qui me permet de lancer automatiquement les commandes `tesseract` dans le terminal. Pour les almanachs, la transcription se fait en plusieurs étapes :
+
+```bash
+pdftoppm -r 300 -tiff texte.pdf texte
+```
+
+Cette commande permet de fragmenter en plusieurs autant de documents IIIF qu'il y a de pages dans un PDF. En effet, `tesseract` ne peut pas traiter un document unique et cette étape semble donc essentielle.
+
+```bash
+for f in *.tif; do
+	do tesseract $f $f -l fra+cos+ita
+done
+cat *.txt > document.txt
+```
+
+Cette dernière étape permet de transcrire tous les documents `.tif` grâce à une boucle et d'avoir en *output* un fichier `.txt` avec la transcription. Enfin, on prend la décisions de concaténer tous les documents en un seul, plus utile pour le nettoyage du texte.
 
 ### Nettoyage du texte
 
@@ -50,4 +67,6 @@ Je me suis rapidement rendu compte lors de mes premiers résultats de transcript
 | ô         | ô              |
 | ù         | ù              |
 
-Ainsi ce tableau, bien qu'en apparence simpliste, donne une idée des problèmes que j'ai pu avoir avec la normalisation de mes caractères. Suite aux conseils de Peter Stokes de l'EPHE, j'ai commencé à regardé des fonctions issues de librarires **python** pour normaliser l'unicode de mes textes. j'ai ainsi réglé ce problème avec la librairie `unicodedata` mais, ayant le projet d'utiliser **R**, j'ai donc décidé d'utiliser la package `stringi` et d'uitliser la fonction `stri_trans_nfc`. J'ai créé une fonction dénomme `clean_text`(à améliorer), disbonible dans le repertoire "script" du dépôt, afin de nettoyer mes textes facilement.
+Ainsi ce tableau, bien qu'en apparence simpliste, donne une idée des problèmes que j'ai pu avoir avec la normalisation de mes caractères. Suite aux conseils de Peter Stokes de l'EPHE, j'ai commencé à regardé des fonctions issues de librarires **python** pour normaliser l'unicode de mes textes. J'ai ainsi réglé ce problème avec la librairie `unicodedata` mais, ayant le projet d'utiliser **R**, j'ai donc décidé d'utiliser la package `stringi` et d'uitliser la fonction `stri_trans_nfc`. J'ai créé une fonction dénomme `clean_text`(à améliorer), disponible dans le repertoire "script" du dépôt, afin de nettoyer mes textes facilement.
+
+Le basculement sur `tesseract` m'a permis de régler ce problème dès la base, l'unicode étant de base normalisé. Néanmoins, je compte quand même garder cette étape de normalisation "pour être sûr". Ma fonction `clean_text` permet de normaliser l'unicode du document `.txt`, de réguler la casse, de supprimer la ponctuation et l'accentuation des mots. Concernant l'accentuation, il s'agit d'un choix davantage méthodologique : il s'agit de savoir si nous prenoms en compte l'ortographe exacte des mots ou pas selon notre volet d'analyse.
