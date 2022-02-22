@@ -50,13 +50,15 @@ pdftoppm -r 300 -tiff texte.pdf texte
 Cette commande permet de fragmenter en plusieurs autant de documents IIIF qu'il y a de pages dans un PDF. En effet, `tesseract` ne peut pas traiter un document unique et cette étape semble donc essentielle.
 
 ```bash
+pdftoppm -r 300 -tiff *.pdf document
 for f in *.tif; do
-	do tesseract $f $f -l fra+cos+ita
+	tesseract $f $f -l fra+cos+ita
+	tesseract $f $f -l fra+cos+ita alto
 done
-cat *.txt > document.txt
+cat *.txt > document-total.txt
 ```
 
-Cette dernière étape permet de transcrire tous les documents `.tif` grâce à une boucle et d'avoir en *output* un fichier `.txt` avec la transcription. Enfin, on prend la décisions de concaténer tous les documents en un seul, plus utile pour le nettoyage du texte.
+Cette dernière étape permet de transcrire tous les documents `.tif` grâce à une boucle et d'avoir en *output* un fichier `.txt` ainisi qu'un fichier en `xml/alto` avec la transcription. Enfin, on prend la décisions de concaténer tous les documents en un seul, plus utile pour le nettoyage du texte.
 
 ### Transcription automatique des textes : *layout analysis*
 
