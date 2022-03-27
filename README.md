@@ -36,7 +36,6 @@ Dans l'ensemble, le script fonctionne bien même s'il y a parfois quelques petit
 
 ***À suivre***
 
-<<<<<<< HEAD
 ### Traitement des images
 
 L'étape suivante est de traiter les images à l'aide du logiciel ScanTailor en rognant les images au textes et en binarisant. Pour cela, j'ai écrit un script qui permet de trier les images obtenues par l'étape précédente en fonction de leur numéro (voir le script `sorted_images` dans le dossier `rename_files`), c'est-à-dire réunir les pages 1, 2 et 3 entre elles, en les renommant en fonction de leur identifiant ARK.
@@ -44,11 +43,8 @@ L'étape suivante est de traiter les images à l'aide du logiciel ScanTailor en 
 L'étape de ScanTailor est nécessaire car il s'agit d'améliorer la qualité de l'image afin que l'étape de transcription se déroule bien. L'idée est donc de binariser avec la méthode Otsu (paramétrée en 30-Thicker). En sortie, nous avon des images en noir et blanc avec un contrast plus net pour faciliter la détection optique des caractères mais aussi les séparateurs de colonne des journaux.
 
 
-### Transcription automatique des textes
-=======
 ### Transcription automatique des textes : *recognition*
 
->>>>>>> be120a2822fa251a6fe9d542bd9239736fc2132f
 
 Pour la transcription des textes, je comptais utiliser le logiciel [eScriptorium](https://traces6.paris.inria.fr/) développé par l'Inria et le laboratoire [ALMAnaCH](https://files.inria.fr/almanach/index-en.html). Son interface intuitive permet de délimiter aisément des blocs de transcription, très utile pour la presse. J'ai d'abord essayé de transcrire mes textes à l'aide du modèle [*Modèle manuscrit DAHN NFC*](https://github.com/HTR-United) développé par Floriane Chiffoleau et trouvé sur le dépôt GitHub [HTR-United](https://github.com/HTR-United/dahncorpus). Néanmoins, se révélant finalement peu efficace dans le cadre de presses écrites en langue corse, je me suis orienté vers le modèle *19th century prints - HTRcatalogs Artlas* sous les conseils de Jean-Baptiste Camps. Bien plus efficace que le précédent, celui-ci semblait être une bonne source de travail pour entraîner un nouveau modèle propre aux presses corses afin d'avoir un taux d'efficacité optimal.
 
@@ -63,28 +59,20 @@ Cette commande permet de fragmenter en plusieurs autant de documents IIIF qu'il 
 ```bash
 pdftoppm -r 300 -tiff *.pdf document
 for f in *.tif; do
-<<<<<<< HEAD
 	tesseract $f $(basename $f .tiff) -l fra+cos+ita
 	tesseract $f $(basename $f .tiff) -l fra+cos+ita alto
-=======
-	tesseract $f $f -l fra+cos+ita
-	tesseract $f $f -l fra+cos+ita alto
->>>>>>> be120a2822fa251a6fe9d542bd9239736fc2132f
 done
 cat *.txt > document-total.txt
 ```
 
-<<<<<<< HEAD
 Cette dernière étape permet de transcrire tous les documents `.tif` grâce à une boucle et d'avoir en *output* un fichier `.txt` avec la transcription ainsi qu'un fichier XML/ALTO. Enfin, on prend la décisions de concaténer tous les documents en un seul, plus utile pour le nettoyage du texte.
-=======
-Cette dernière étape permet de transcrire tous les documents `.tif` grâce à une boucle et d'avoir en *output* un fichier `.txt` ainisi qu'un fichier en `xml/alto` avec la transcription. Enfin, on prend la décisions de concaténer tous les documents en un seul, plus utile pour le nettoyage du texte.
+
 
 ### Transcription automatique des textes : *layout analysis*
 
 Si les modèles de reconnaissance de caractères se montrent très prometteurs dans les résultats obtenus, que ce soient des modèles Kraken ou Tesseract, la vraie difficulté se trouve ailleurs. Les sources de presse ont des mises en pages complexes qui diffèrent des ouvrages "classiques", entendez ici des pages de textes avec une colonne unique ou deux au maximum. Le modèle de segmentation de base sur eScriptorium se trouve être très peu performant pour mes sources ce qui nécessiteraient l'entraînement d'un nouveau modèle adapté. Il semblerait que ce problème des *complex layout analysis* ait déjà été traité mais il est difficile de trouver des *dataset* de modèles dispoinibles facilement en ligne. On peut notamment noter l'initiative de *Library of Congress* et du [*Newspaper Navigator*](https://news-navigator.labs.loc.gov/).
 
 Ce problème est le même pour Tesseract-OCR, qui suit un modèle de segmentation basique de détection des lignes successives : très efficace pour les textes ayant qu'une seule colonne. Il semblerait néanmoins qu'il existe des paramètres de modifications des PSM (*Page Segmentation Modes*) afin de prendre en compte différentes mises en page.
->>>>>>> be120a2822fa251a6fe9d542bd9239736fc2132f
 
 ### Nettoyage du texte
 
