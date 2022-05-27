@@ -1,0 +1,1 @@
+co_stops = ["li","le","e","u","a","ellu","elli","ella","elle","quellu","quelle","quelli","quella","so","aghju","aghiu","he","simu","avemu","site","hannu","hanu","pe","par","seraghiu","sera","sara","oramai","tuttu","chi","quessu","quessa","quesse","quessi","bellu","bonu","bona","bon","boni","bone","boni","be","benche","mo", "lu"]
