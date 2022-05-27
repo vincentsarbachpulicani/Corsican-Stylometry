@@ -12,7 +12,7 @@ from spacy.lang.it.stop_words import STOP_WORDS as it_stop
 from stop_cos import co_stops
 import pandas as pd
 
-def clean_text_COS(filename, acc=True, pun=True, low=True):
+def clean_text_COS(filename, acc=True, pun=True, low=True): #Fonction de nettoyage du corse
     '''
     Fonction qui nettoye les rubriques de la revue en corse.
     
@@ -26,18 +26,18 @@ def clean_text_COS(filename, acc=True, pun=True, low=True):
     tree = etree.parse(filename)
     ETtree = ET.parse(filename)
     root = ETtree.getroot()
-    punc = ['!','+','=','|','“','”','(',')','-','`','[',']','°','{','}',';',':','«','»','"','\\',',','<','>','.','/','?','@','#','$','%','^','&','*','_','~','—', '–']
+    punc = ['!','+','=','|','“','”','(',')','-','`','[',']','°','{','}',';',':','«','»','"','\\',',','<','>','.','/','?','@','#','$','%','^','&','*','_','~','—', '–'] #Liste de caractères spéciaux personnalisée
     for balise in tree.xpath('//langue[@lan="cos"]/following-sibling::texte'):
-        x = balise.text
+        x = balise.text  #Parsing du XML et récupération du texte de la rubrique uniquement
         y = x
-        if pun is True:
+        if pun is True:   #Supression de la ponctuation
             for character in punc:
                 y = y.replace(character, '')
-        if low is True:
+        if low is True:  #Réduction de la casse
             y = y.lower()
-        y = re.sub(r"’", r"'", y)
-        y = re.sub(r" 1 ", r" li ", y)
-        y = re.sub(r"l'(\w*u\b)", r"u \1", y)
+        y = re.sub(r"’", r"'", y)  #La liste de remplacement est la phase de normalisation, grâce à des expressions régulières
+        y = re.sub(r" 1 ", r" li ", y) #Erreur de transcription commune
+        y = re.sub(r"l'(\w*u\b)", r"u \1", y)  #Par exemple, si le mot suivant finit par "-u", alors l'article est "u"
         y = re.sub(r"l'(\w*a\b)", r"a \1", y)
         y = re.sub(r"l'(\w*à\b)", r"a \1", y)
         y = re.sub(r"l'(\w*e\b)", r"le \1", y)
@@ -77,17 +77,16 @@ def clean_text_COS(filename, acc=True, pun=True, low=True):
         y = re.sub(r"nostr'(\w*à\b)", r"nostra \1", y)
         y = re.sub(r"'", r" ", y)
         y = re.sub(r"‘", r" ", y)
-        y = re.sub(r" è ", r" hè ", y)
+        y = re.sub(r" è ", r" hè ", y)  #Normalisation à la syntaxe moderne
         y = re.sub(r"  ", r" ", y)
-        y = re.sub(r" 1 ", r" i ", y)
-        if acc is True:
+        if acc is True:   #Suppression de l'accentuation
             y = unidecode.unidecode(y)
-        for element in root.findall(".//rubrique"):
+        for element in root.findall(".//rubrique"): #Remplacement de l'ancien contenu de la balise par le nouveau texte
             if element.find('texte').text == x :
                 element.find('texte').text = y
     ETtree.write(filename,encoding='UTF-8',xml_declaration=True)
 
-def clean_text_ITA(filename, acc=True, pun=True, low=True):
+def clean_text_ITA(filename, acc=True, pun=True, low=True):  #Même principe mais pour l'italien
     '''
     Fonction qui nettoye les rubriques de la revue en italien.
     
@@ -118,7 +117,7 @@ def clean_text_ITA(filename, acc=True, pun=True, low=True):
                 element.find('texte').text = y
     ETtree.write(filename,encoding='UTF-8',xml_declaration=True)
 
-def clean_text_FRA(filename, acc=True, pun=True, low=True, co=True, sw=True):
+def clean_text_FRA(filename, acc=True, pun=True, low=True, co=True, sw=True):  #Même principe mais pour le français
     '''
     Fonction qui nettoye les rubriques de la revue en français.
     
@@ -145,7 +144,7 @@ def clean_text_FRA(filename, acc=True, pun=True, low=True, co=True, sw=True):
             y = y.lower()
         y = re.sub(r"‘", " ", y)
         y = re.sub(r"'", " ", y)
-        if co is True:
+        if co is True:      #Légère subtilité, l=utilisation de la librairie Spellchecker pour une phase de correction automatique, j'ai été assez convaincu par son efficacité
             spell = SpellChecker(language='fr')
             mis = y.split()
             spell.unknown(mis)
@@ -187,7 +186,7 @@ def clean_XML(file, cors = True, ital = True, fran = True, acc=True, pun=True, l
         clean_text_FRA(filename, acc=acc, pun=pun, low=low, co=co, sw=sw)
         print("French done.")
 
-def delete_stopwords_from_dataframe(table):
+def delete_stopwords_from_dataframe(table):  #Suppression des mots-outils à partir d'un tableau pour raisons pratiques : comme ça j'ai le choix de les concerver ou non sans impacter la phase de nettoyage
     '''
     Fonction supprimant les mots outils du texte des rubriques. 
     Si l'entrée est un fichier CSV, alors la fonction renvoie en output un nouveau fichier CSV.
@@ -196,21 +195,21 @@ def delete_stopwords_from_dataframe(table):
     Entrée : CSV ou dataframe
     sortie : CSV ou dataframe
     '''
-    if isinstance(table, pd.DataFrame):
+    if isinstance(table, pd.DataFrame): #Si l'entrée est une dataframe
         print("Object -> dataframe.")
         data = table
         final_list = list(it_stop) + co_stops + list(fr_stop)
-        data["Texte"] = data["Texte"].apply(lambda x : x.split())
-        data["Texte"] = data["Texte"].apply(lambda x: [token for token in x if token not in final_list])
-        data["Texte"] = data["Texte"].apply(lambda x : (" ").join(x))
+        data["Texte"] = data["Texte"].apply(lambda x : x.split()) #Les string contenues dans les cellules de la DF deviennent des listes
+        data["Texte"] = data["Texte"].apply(lambda x: [token for token in x if token not in final_list]) #Pour chaque liste des cellules du tableau, suppression des stopwords
+        data["Texte"] = data["Texte"].apply(lambda x : (" ").join(x))  #On fusionne en une string toutes les éléments des listes des cellules de la DF
         print("Done.")
         return data
-    elif table.endswith('.csv'):
+    elif table.endswith('.csv'):  #Si l'entrée est un fichier CSV
         print("Object -> CSV file.")
         data = pd.read_csv(table)
         final_list = list(it_stop) + co_stops + list(fr_stop)
         data["Texte"] = data["Texte"].apply(lambda x : x.split())
-        data["Texte"] = data["Texte"].apply(lambda x: [token for token in x if token not in final_list])
+        data["Texte"] = data["Texte"].apply(lambda x: [token for token in x if token not in final_list]) 
         data["Texte"] = data["Texte"].apply(lambda x : (" ").join(x))
         data.to_csv("output_" + table)
         print("Done.")

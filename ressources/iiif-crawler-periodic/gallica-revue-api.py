@@ -24,13 +24,13 @@ def create_file(content, name, arg):
 	file.close()
 
 def api_nameper():
-	name_per = str(input("Enter the name of your periodic : "))
+	name_per = str(input("Enter the name of your periodic : "))  #Nom de la revue à définir
 	http = urllib3.PoolManager() 
 	request = http.request('GET', "https://gallica.bnf.fr/SRU?operation=searchRetrieve&version=1.2&maximumRecods=10&startRecord=1&query=dc.title all" + '"' + name_per + '"')
-	xml = request.data
+	xml = request.data #Après requête sur l'API de Gallica, on en récupère les données qu'on print dans un nouveau fichier XML
 	create_file(xml, "apicollection.xml", "wb") 
 	tree = etree.parse("apicollection.xml")
-	for record in tree.xpath( 
+	for record in tree.xpath(  #Phase de parsing où on récupère les métadonnées qui nous intéressent
             "//srw:record",
             namespaces={
               'srw': 'http://www.loc.gov/zing/srw/',
@@ -56,7 +56,7 @@ def api_nameper():
                       }
                     ):
                     
-						if relation.text != "": 
+						if relation.text != "": #dans la balise <dctype>, on isole l'identifiant ARK
 							myre = "(cb\w{7,10})"
 							if re.search(myre, relation.text): 
 								print("Name of the periodic : ", name_per) 
@@ -65,8 +65,8 @@ def api_nameper():
 								create_file(content, "arkper.csv", "w+")
 
 
-def api_dates_per(arg):
-	'''Permet de récuếrer les années de publications des per'''
+def api_dates_per(arg): #Une fois qu'on a récupérer l'ARK de la collection, on récupère les années de publication
+	'''Permet de récupérer les années de publications des per'''
 	http = urllib3.PoolManager()
 	request = http.request('GET', "https://gallica.bnf.fr/services/Issues?ark=ark:/12148/" + arg + "/date")
 	xml = request.data
@@ -80,7 +80,7 @@ def api_dates_per(arg):
 				content = re.search(zere, year).group(1)
 				create_csv_file([arg, content], "datesper.csv", "a+")
 
-def api_ark_issue(ark, date):
+def api_ark_issue(ark, date): #Enfin on récupère les identifiants ARK de chaque numéros, années après années
 	http = urllib3.PoolManager()
 	request = http.request('GET', "https://gallica.bnf.fr/services/Issues?ark=ark:/12148/" + ark + "/date&date=" + date)
 	xml = request.data
@@ -89,7 +89,7 @@ def api_ark_issue(ark, date):
 	for issue in tree.xpath("//issue/@ark"):
 		with open('arkissue.tsv', 'a') as out_file:
 			tsv_writer = csv.writer(out_file, delimiter='\t')
-			tsv_writer.writerow([issue, 'gallica', '1', lastpage])
+			tsv_writer.writerow([issue, 'gallica', '1', lastpage]) #Dans le fichier TSV créé, on écrit à chaque ligne l'ARk du numéro, 'gallica', "1" et la dernière page (choisie au préalable)
 			print("Edition of the periodic treated :", issue)
 
 
@@ -110,11 +110,11 @@ for a in spamreader:
 			api_dates_per(a)
 
 
-filename = "datesper.csv"
+filename = "datesper.csv"#Création d'un TSV permettant d'être lu par le script IIIF Crawler
 csvfile = open(filename, newline='')
 spamereader = csv.reader(csvfile, delimiter=' ', quotechar='|')
 
-with open('arkissue.tsv', 'wt') as out_file:
+with open('arkissue.tsv', 'wt') as out_file:  
 	tsv_writer = csv.writer(out_file, delimiter='\t')
 	tsv_writer.writerow(['ID', 'source', 'start', 'end'])
 
