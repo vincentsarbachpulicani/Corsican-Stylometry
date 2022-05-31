@@ -1,5 +1,14 @@
 # Stylométrie en langue corse
 
+## le dépôt
+
+base_de_donnees -> dossier contenant le fichier `.csv` de la base de données Heurist
+data -> dossier qui contient les données produites ou exploitées pendant la recherche
+projets_ext -> dossier qui contient des scripts produits par des chercheurs tiers ou lors des projets différents
+ressources -> dossier avec tous les scripts de traitement des données ou plus généralement de fonctionnement (scripts secondaires)
+statistiques_exploratoires -> dossier contenant toutes les ressources sur l'analyse lexicométrique du corpus en langue corse (moderne/ancien)
+topic-modeling -> dossier contenant toutes les ressources sur le topic modeling
+
 ## Description
 
 Avec l’émergence des nationalismes du XIXe siècle se greffent conjointement des mouvements régionalistes d’affirmations et de revendications de particularismes culturels. La Corse s’insère très bien dans cette dynamique et se présente même comme un lieu propice au développement de telles idées. La centralisation de l’État autour d’une capitale forte et les politiques d’assimilation des populations indigènes à la frontière de la France ont poussé certains acteurs à défendre ces particularismes. Tradition jacobine de la « République une et indivisible », parfois largement exagérée, c’est notamment à partir du Second Empire et du règne de Napoléon III que la francisation de la Corse prend tout son sens. Cela s’est traduit par l’apprentissage du français à l’école en lieu et place du corse, des plans de relance économique et industrielle du territoire ou encore par la participation massive des Corses à l’effort colonial. Dès lors naissent les premières brigues d’une lutte régionaliste sur l’île c’est-à-dire par la défense de la langue corse, centrale dans la préservation des identités. C’est le cas de Santu Casanova, poète et rédacteur en chef de la revue *A Tramuntana* (« la Tramontane ») dont il est également le fondateur en 1896. L’un des aboutissements des nationalismes du XIXe siècle est bien connu, c’est la Première Guerre mondiale. Le désastre que cet événement engendre se ressent beaucoup sur l’île que ce soit en termes démographiques ou sociétaux. Encore aujourd’hui le nombre d’insulaires morts lors de ce qu’ils appellent le *scumpientu*, la « catastrophe », est difficile à chiffrer. Par ailleurs, cela a donné lieu à de nombreux débats idéologiques autour du sacrifice des Corses pour la « Grande Patrie » ou au nom d’une guerre qui ne les concernait pas.

@@ -1,1 +1,0 @@
-Voici toutes les ressources bibliographiques qui peuvent être utiles à la rédaction de ce mémoire (thématiques et humanités numériques).
