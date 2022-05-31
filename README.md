@@ -1,6 +1,6 @@
 # Stylométrie en langue corse
 
-## le dépôt
+## L'organisation du dépôt
 
 **base_de_donnees** -> dossier contenant le fichier `.csv` de la base de données Heurist
 
