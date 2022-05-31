@@ -2,12 +2,17 @@
 
 ## le dépôt
 
-base_de_donnees -> dossier contenant le fichier `.csv` de la base de données Heurist
-data -> dossier qui contient les données produites ou exploitées pendant la recherche
-projets_ext -> dossier qui contient des scripts produits par des chercheurs tiers ou lors des projets différents
-ressources -> dossier avec tous les scripts de traitement des données ou plus généralement de fonctionnement (scripts secondaires)
-statistiques_exploratoires -> dossier contenant toutes les ressources sur l'analyse lexicométrique du corpus en langue corse (moderne/ancien)
-topic-modeling -> dossier contenant toutes les ressources sur le topic modeling
+**base_de_donnees** -> dossier contenant le fichier `.csv` de la base de données Heurist
+
+**data** -> dossier qui contient les données produites ou exploitées pendant la recherche
+
+**projets_ext** -> dossier qui contient des scripts produits par des chercheurs tiers ou lors des projets différents
+
+**ressources** -> dossier avec tous les scripts de traitement des données ou plus généralement de fonctionnement (scripts secondaires)
+
+**statistiques_exploratoires** -> dossier contenant toutes les ressources sur l'analyse lexicométrique du corpus en langue corse (moderne/ancien)
+
+**topic-modeling** -> dossier contenant toutes les ressources sur le topic modeling
 
 ## Description
 
