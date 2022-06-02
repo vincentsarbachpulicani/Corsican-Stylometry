@@ -4,6 +4,8 @@
 
 **base_de_donnees** -> dossier contenant le fichier `.csv` de la base de données Heurist
 
+**bibliographie** -> dossier contenant la biblio personnelle, le mémmorie de M1HN et le mémoire d'histoire contemporaine réalisé à l'université de Strasbourg
+
 **data** -> dossier qui contient les données produites ou exploitées pendant la recherche
 
 **projets_ext** -> dossier qui contient des scripts produits par des chercheurs tiers ou lors des projets différents
