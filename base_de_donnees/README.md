@@ -1,1 +1,0 @@
-Il s'agit ici de feuilles de calculs issues de la base de données sur la presse corsiste et irrédentiste dans les années 1930.

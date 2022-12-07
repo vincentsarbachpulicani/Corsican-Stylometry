@@ -1,0 +1,15 @@
+2022-10-28 17:50:05,644 - CRITICAL - root - Uncaught exception
+Traceback (most recent call last):
+  File "/home/vincent/miniconda3/envs/hn/bin/allennlp", line 8, in <module>
+    sys.exit(run())
+  File "/home/vincent/miniconda3/envs/hn/lib/python3.9/site-packages/allennlp/__main__.py", line 34, in run
+    main(prog="allennlp")
+  File "/home/vincent/miniconda3/envs/hn/lib/python3.9/site-packages/allennlp/commands/__init__.py", line 119, in main
+    args.func(args)
+  File "/home/vincent/miniconda3/envs/hn/lib/python3.9/site-packages/allennlp/commands/train.py", line 110, in train_model_from_args
+    train_model_from_file(
+  File "/home/vincent/miniconda3/envs/hn/lib/python3.9/site-packages/allennlp/commands/train.py", line 170, in train_model_from_file
+    return train_model(
+  File "/home/vincent/miniconda3/envs/hn/lib/python3.9/site-packages/allennlp/commands/train.py", line 264, in train_model
+    raise ConfigurationError(
+allennlp.common.checks.ConfigurationError: Multiple cuda devices/nodes need to be configured to run distributed training.
