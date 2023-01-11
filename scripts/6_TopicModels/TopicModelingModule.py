@@ -19,6 +19,17 @@ from statistics import mean
 from statistics import median
 from statistics import stdev
 
+from wordcloud import WordCloud
+
+from gensim.models import LdaModel
+
+import pyLDAvis
+import pyLDAvis.gensim_models as gensimvis
+import collections
+
+from tqdm.notebook import tqdm
+from gensim.corpora import Dictionary
+
 
 class PreprocessingCorpus:
     """
@@ -185,7 +196,7 @@ class EntropyAnalysis:
         
     def classification_sort(self, data, min_range, max_range, col_name="Entropy", between_values=True, inclusive=False, output="dataframe"):
         """
-        Allows to choose a subset of the original classification of entropies and weights.
+        Allows to choose a subset of the original classification of entropies ans weights.
         
         Parameters :
         
@@ -226,3 +237,206 @@ class EntropyAnalysis:
         data -> dataframe: with "Entropy" and "Weight score" columns and the tokens in index.
         """
         return list(data.index.values)
+
+    
+
+class GensimTopicModeling:
+    """
+    Initiate the topic modeling processing process using the Gensim library. The only parameter need is a corpus of tokenized documents. The differents methods existing are here to refine the results of the TM.
+    
+    Input -> Tokenized corpus of documents (List of documents tokenized)
+    Output -> DataFrame, TSV files or wordclouds
+    """
+    
+    def __init__(self, corpus):
+        corpus = [[token for token in doc if not token.isnumeric()] for doc in corpus]
+        corpus = [[token for token in doc if len(token) > 1] for doc in corpus]
+        self.corpus = corpus
+        self.dictionary = None
+        self.model = None
+        self.co = None
+        self.num_topics = None
+    
+    def compute_bigrams(self, n, mini):
+        """
+        Allows to compute ngrams of tokens in order to take into account most frequent ngrams in the analysis.
+        
+        Parameters :
+        
+        n -> int : ngram type
+        mini -> int : minimum of occurences of the ngrams
+        """
+        for idx in range(len(self.corpus)):
+            ngrams = nltk.ngrams(self.corpus[idx], n)
+            result = dict(collections.Counter(ngrams))
+            new_result = {i for i in result if result[i]>=mini}
+            for gram in new_result:
+                self.corpus[idx].append('_'.join(gram))
+                
+    def vocabulary_from_corpus(self, no_below=5, no_above=0.5):
+        """
+        Selection of the vocabulary directly from the corpus using the filter_extremes() function from Gensim.
+        
+        Parameters :
+        
+        no_above -> int : more than no_above documents
+        no_below -> int :less than no_below documents (absolute number)
+        """
+        dictionary = Dictionary(self.corpus)
+        dictionary.filter_extremes(no_below=no_below, no_above=no_above)
+        print(f"The generated dictionary contains {len(dictionary)} unique tokens.")
+        self.dictionary = dictionary
+    
+    def vocabulary_from_filters(self, index_words):
+        """
+        Selection of the vocabulary according to a list of words WE DON'T WANT to be in, using the filter_tokens() function from Gensim.
+        
+        Parameter :
+        
+        index_words -> list : it's a list of words that we want to be removed from the dictionnary. The words must be in the dictionnary to work
+        """
+        index_words = [word for word in index_words if not word.isnumeric()]
+        index_words = [word for word in index_words if len(word) > 1]
+        
+        dictionary = Dictionary(self.corpus)
+
+        for word in tqdm(index_words):
+            dictionary.filter_tokens(bad_ids=[dictionary.token2id[word]])
+        print(f"The generated dictionary contains {len(dictionary)} unique tokens.")
+        self.dictionary = dictionary
+        
+    def vocabulary_from_specific_list(self, vocab):
+        """
+        Selection of the vocabulary according to a specific list of words.
+        
+        Parameter :
+        
+        vocab -> list : list of words 
+        """
+        print(f"The generated dictionary contains {len(vocab)} unique tokens.")
+        self.dictionary = vocab
+        
+    def model_training(self, num_topics, chunksize = 1500, passes = 20, iterations = 400, eval_every = None):
+        """
+        Method to train a model from our corpus and data defined previously. 
+        
+        Parameters :
+        
+        num_topics -> int : choose the number of topics
+        chunksize -> int : number of documents to be used in each training chunk
+        passes -> int : number of passes through the corpus during training
+        iterations -> int : maximum number of iterations through the corpus when inferring the topic distribution of a corpus
+        eval_every -> int : log perplexity is estimated every that many updates. Setting this to one slows down training by ~2x
+        """
+        
+        self.num_topics = num_topics
+        
+        co = [self.dictionary.doc2bow(doc) for doc in self.corpus]
+        
+        
+        print('Number of unique tokens: %d' % len(self.dictionary))
+        print('Number of documents: %d' % len(co))
+    
+        # Set training parameters.
+        num_topics = num_topics
+        chunksize = chunksize
+        passes = passes
+        iterations = iterations
+        eval_every = eval_every
+
+        # Make an index to word dictionary.
+        temp = self.dictionary[0]  # This is only to "load" the dictionary.
+        id2word = self.dictionary.id2token
+
+        model = LdaModel(
+            corpus=co,
+            id2word=id2word,
+            chunksize=chunksize,
+            alpha='auto',
+            eta='auto',
+            iterations=iterations,
+            num_topics=num_topics,
+            passes=passes,
+            eval_every=eval_every
+        )
+        
+        self.model = model
+        self.co = co
+        print("The model has been trained successfully.")
+
+    def top_topics_and_coherence(self, mfw):
+        """
+        Print a table that shows all the topics generated by the model including their coherence and the most frequent words. return a dataframe.
+        
+        Parameter :
+        
+        mfw -> int : most frequent words
+        """
+        top_topics = self.model.top_topics(self.co)
+
+        # Average topic coherence is the sum of topic coherences of all topics, divided by the number of topics.
+        avg_topic_coherence = sum([t[1] for t in top_topics]) / self.num_topics
+        print('Average topic coherence: %.4f.' % avg_topic_coherence)
+        n = 0
+        dic_co = {}
+        for topic in top_topics:
+            print()
+            top_ = [topic[1]]
+            l_ = [w[1] for w in topic[0]]
+            print (topic[1], [w[1] for w in topic[0]])
+            top_.extend(l_)
+            dic_co[f"Topic {n}"] = top_
+            n += 1
+        
+        col_names = ['Topic coherence']
+
+        for i in range(mfw):
+            col_names.append(f'Word {i + 1}')
+        
+        df_coherence = pd.DataFrame(data=dic_co, index=col_names)
+        
+        return df_coherence
+    
+    
+    def draw_word_clouds(self, y, x, figsize=(20,10), dpi=150):
+        """
+        Method to visualize the topics through wordclouds. Return one plot with all the wordclouds in subplots.
+        
+        Parameters :
+        
+        y -> int : number of rows on the plot
+        x -> int : number of columns on the plot
+        figsize -> tuple of 2 integers : set the dimension of the image
+        dpi -> int : set the resolution of the image
+        """
+        fig = plt.figure(figsize=figsize, dpi=dpi)
+        
+        for i in range(self.model.num_topics):
+            ax = fig.add_subplot(y, x ,i+1)
+            wordcloud = WordCloud(width=600, height=600, background_color='white').fit_words(dict(self.model.show_topic(i, 30)))
+
+            titre = f"Topic {i}"
+            ax.imshow(wordcloud)
+            ax.axis('off')
+            ax.set_title(titre, fontsize=18)
+         
+        return fig
+    
+    def visualisation_pyldavis(self, html=False):
+        """
+        Method to vusualize the date with the library pyLDAvis. Return the interactive notebook of the library. Can also have an output in HTML to save the notebook.
+        
+        Parameter :
+        
+        html -> bool : save the notebook in a HTML file or no
+        """
+        
+        pyLDAvis.enable_notebook()
+        
+        p = gensimvis.prepare(self.model, self.co, self.dictionary)
+        
+        if html is True:
+            pyLDAvis.save_html(p, 'lda.html')
+        
+        return p
+        
