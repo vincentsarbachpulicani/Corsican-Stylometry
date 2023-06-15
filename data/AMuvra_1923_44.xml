@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1923_44
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     c est une vieille tres vieille histoire  je serai bref au lecteur de conclure voici les faits  le 11 juin 1914  peu de temps avant la guerre le petit bastiais annoncait la formation d un comite ce comite avait pour but d elever un monument a pontenovu il se composait ainsi m m ambrosi r president  casanova vice president  j p lucciardi tresorier  abbe ponzevera secretaire  le 16 juin dans le meme journal un anonyme  insularis  publiait un article intitule  le monument de pontenovo  ce qu'il doit etre  nous en detachons les passages  suivants   le monument n'est destine qu aux seuls corses tues a pontenovo  les soldats de m de vaux ne peuvent pas figurer il doit en etre obligatoirement ainsi si nous voulons conserver a cette commemoration tout son caractere de reparation tardive et de filiale ferveur    le 27 juin etait publiee la liste de souscriptions s elevant a 761 frs 50 parmi les donateurs  m m cesarauguste agostini de sainte marie poggio  denis gavini de campile ancien prefet de l empire  camille piccioni ministre plenipotentiaire  mgr girolami cortona  le 6 juillet une deuxieme liste portait le total des souscriptions recueillies a 1066 francs 50   et nous y relevons  m le comte sebastien cregorj  m l abbe leschi  m m jacques colombani d ismailia alexandre gaudin d fumaroli elc  etc  et dans ce meme numero le petit bastiais publiait une belle lettre de m agostini le plus fort donateur  nous nous laissons un plaisir de la reproduire integralement  cher monsieur ambrosi je vous donne cinq cents francs destines a eriger une colonne a pontenovo a la memoire de nos ancetres tombes au champs d honneur ils combattaient pour la liberte et l independance de leur pays   la lettre d adhesion de m gavini de campile etait elle aussi un hommage aux heros de pontenovu l ex prefet de l empire n oubliait pas que son grand pere denis gavini faisait partie des combattants de cette memorable journee a la tete du contingent de la pieve de casacconi   le 17 juillet nouvelle lettre dans laquelle m dominique casanova d arracciani exprimait un egal sentiment  a pontenovo disait il la force a prime le droit et nous ne pouvons que glorifier la poignee de braves morts pour une noble cause   on n affirmait donc en 1914 que la seule intention d honorer les martyrs de pontenovu et rien de plus m ambrosi n a pas alors emis une opinion contraire  11 sait fort bien que les vrais corses ne consentiront jamais a donner la moindre obole pour les soldats de m de vaux   unie dans la mort victimes et bourreaux  cet illogisme ne peut germer que dans l esprit malade d un valet   mais depuis  a muvra est venue et avec elle u partitu corsu d azione  nous avons fonde le comite de pontenovu le vrai celui qui repond au commun ideal de tous ceux qui n oublient pas nos gloires et no souffrances   revenons au comite ambrosi il n a plus donne signe de vie il est forclos la guerre l a tue  on nous assure que l argent recueilli en 1914 est en depot a la banque de france nous le croyons sans peine   m ambrosi voudra t il nous dire s il compte enfin nous verser les 1066 frs 50  nous attendons sa reponse
+    </p>
+    <docAuthor>
+     Eugène Grimaldi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

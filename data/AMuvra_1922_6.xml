@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1922_6
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     en citant l irlande un certain parallele s impose ainsi de la flandre de la boheme de la finlande et meme de la provence comme l a dit un grand ecrivain la langue d un peuple est son arbre genealogique   en effet n est ce point par elle qu une nation si opprimee soit elle revit et se perpetue  n est elle pas ainsi qu on l a ecrit l esprit de son peuple  le miroir en quelque sorte de ses moeurs  n exprime elle pas en outre cette fee adorable toutes nos joies et nos peines nos espoirs et nos desillusions c est d apres un membre du parlement irlandais qui lutte pour la sauvegarde de l idiome et de l independance nationales le sanctuaire de ses traditions  pour nous autres corses surtout  de ses croyances de ses ambitions  ce dernier mot vient fort a propos quelles sont donc nos ambitions  rester corses avant tout et maintenir par dessus tout notre langue si chere aux lucciardi aux maistrale et aux casanova  davis un autre irlandais a saisi l importance de l influence de la langue dans la vie d une nation ecoutons le plutot afin de le mediter   la langue qui croit avec un peuple est conforme a ses organes inseparablement melee a son histoire et de nature a traduire mieux qu aucune autre ses plus profondes pensees de la maniere la plus naturelle imposer une autre langue que la sienne a un peuple c est livrer son histoire a la derive parmi les ecueils de la tradition c est arracher son identite a chaque bien ne l'a t on pas deja fait chez nous  c est separer la population de ses aieux par un fosse beant  la langue de la jeunesse d une nation est celle qui convient aussi a sa virilite et a sa vieillesse lorsque la langue meurt la nation n a plus qu a se chercher un tombeau en verite ces lignes ne concernent elles pas les corses autant que les irlandais  impregnons nous de la derniere phrase meditons sans cesse et songeons a ponte novu et aux felibres de l ile  ailleurs cet admirable axiome que nous devrions toujours redire en guise de credo perdre sa langue maternelle et etre force d apprendre celle de l etranger est le pire des signes de servitude infliges par la conquete  helas  que faisons nous  que sommes nous  la fin d un corse n estelle pas d etre corse avant tout  qu etions nous done avant 1769  triste realite que celle qui nous contraint a avouer que nous fumes vendus   j ai mentionne plus haut les noms de plusieurs pays je vais essayer tres sommairement de les comparer successivement au notre comme il a ete fait pour l irlande  nous sommes un peuple vaincu c esi reel mais nous devons renaitre un risorgimento deja preconise est necessaire il faut comme chacun le voit l operer d abord par la langue  les bardes de gael quoique en lutte continuelle contre les oppresseurs ont laisse des monuments de litterature imperissable et c etaient comme chez nous des humbles de simples roturiers parfois  temoin ce fameux poeme du  desespoir d amour   ecrit par un fermier du comte de cork  l auteur des belles collines d erin  etait pauvre here en exil et bien helas n y en a t il pas de chez nous qui revent du pays sur des terres lointaines    l irlande ne perira pas parce qu elle garde sa langue qui la soutient et parce qu elle conserve ses traditions  ' pour reprendre la comparaison il ne depend donc que de nous corses de relever la petite patrie du moment que la grande ne nous vient point en aide   ne pourrait on pas puisqu on parle d universite corse creer une chaire de langue cyrneenne tout comme en possedent pour l enseignement du celtique   rennes et paris et pour le provencal aix en provence arles    mieux on pourrait on devrait selon l avis de tous ceux qui pensent comme nous la faire deja apprendre dans nos ecoles nos braves instituteurs ont donne bien des preuves de corsisme et  dans le mouvement de renaissance de notre cher dialecte une bonne place doit leur etre accordee  iii  la flandre grace a d admirables enfants tels que jean willems bloammert et d autres parvint apres 1830 a la suite d un mouvement national  qui aujourd hui encore ressuscite sous forme de conflit entre wallons et flamingants  a faire elever son idiome a la dignite de la langue nationale les docteurs les bourgeois les campagnards et les classes instruites l emploient obstinement et l on regarde d un bien mauvais oeil les grands messieurs qui brillent comme ecrit ed helsey dans la litterature francaise  ils possedent ces irreductibles patriotes une universite a gand dont ils reclament energiquement la reouverture  henri conscience n a t il pas ecrit ses meilleurs romans en dialecte natal et de nos jours un cyrill brysse voit ses oeuvres traduites en francais il existe de plus comme chacun le sait une loi qui autorise a rediger les decrets dans le royaume d albert i  en langue francaise et flamande alors que dans notre ile la douce langue de nos meres est entierement bannie de l'administration   le genie naturel d un peuple cependant ne peut et ne devrait exclusivement s exprimer que dans sa langue  la boheme de meme que la finlande et la serbie l ont compris il y a bien longtemps et aujourd hui le tcheque a remplace l allemand le finlandais a chasse le suedois et le serbe qui n e tait il y a a peine un siecle que le fruste parler des paysans et des montagnards sous la vigoureuse impulsion d un savant v oukaradjitch a pris la place preponderante de langue nationale   qu attendons nous pour agir en fin de facon salutaire
+    </p>
+    <docAuthor>
+     Marco Angeli
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="fr">
+    <p>
+     interview carnavalesque en ce jour de dimanche d avant mardi gras un de nos plus assidus collaborateurs habilement camoufle en pierrot bleu horizon et vieil or etai descendu dans la rue ajaccienne  flanque d un fantaisiste cow boy il se mela a la foule bigarree des arlequins folies mousquetaires triboulets et dominos qui menaient la sarabande place du diamant sous le jets de confettis et les fusees de rire des badauds   c etait bien amusant mais notre collaborateur se rappel soudain entre un tango diabolique et une ronde ensorcelee qu il avait recu mission en ce jour de funambulesque liesse d interviewer tout ce qui lui tomberait sous la main    la serie des interviews carnavalesques commenca par notre ami jean maki aussi brillant journaliste que revuiste distingue  mon compagnon me prie de vous demander quel sont vos dieux  interroge a brule pourpoint l audacieux  cow boy jean maki sourit finement sceptiquement examine attentivement la cagoule de l homme du far west et le loup vert du regionaliste pierrot puis continue sa promenade ensoleillee mutu cume un pesciu      cours napoleon m italiani suivant sa peripateticienne habitude  fait les cent pas ce perfide lazzo lui  est lance  mon compagnon de carnaval qui a eu recemment un entretien politique avec vous me prie de vous  demander quels sont vos dieux    mes dieux  mes dieux  je reflechirai  se contente simplement de repondre l ancien vice president du conseil general   comme c est l heure de la manille notre collaborateur en chapeau pointu turlututu circule autour des tables du napo ces messieurs de la faculte abattent nerveusement les cartes interviewe au sujet du relevement de la corse l aimable docteur stefat nini dit qu il y croi tun peu puis la docte compagnie sans se douter un seul instant de la vaste fumisterie qui en un bruit de grelots se trame autour d elle retourne a ses tarots    a la terrasse de la brasserie cyrnos ce grand ami de dodolphe qu est m massoni voit s approcher le pantalonesque  interviewer  question   croyez vous que m landry puisse relever la corse   reponse  enlevez d abord votre masque monsieur je vous repondrai ensuite  m massoni est un homme prudent   notre collaborateur prend le large  l apparition a la hauteur du cafe d ajaccio du vice consul d italie lui fournit l occasion de saupoudrer la  farza  de sel regionaliste  buona notte signor console i corsi sono corsi o italiani   sono italiani  es a premiere reponse mais presque aussitot l honorable representant juge convenable de faire une petite rectification  ma sono sopratutto corsi glisse t il a l oreille enfarinee de notre collaborateur lequel a deja mis le cap sur cet excellent m lihuis   question  quand donc le stade ajaccien sera t il construit   reponse precise faite sur le ton le moins assure du monde  revenant sur le cours napoleon l enigmatique camoufle s avance sur les derrieres d un imposant groupe de promeneurs d ou notre eminent ami m graziani emerge de toute la hauteur de sa science paleographique  monsieur l archiviste departemental etes vous musulman  lui demande le masque notre excellent erudit parait embarrasse  il contemple les etoiles explique que l etude prealable et approfondie des textes arabes s impose  etes vous musulman   reitere notre indiscret collaborateur tout en agitant les grelots de sa collerette  je suis musulman  finit enfin par repondre m graziani   et quelques pas plu loin c est un regionaliste notoire qui  est assailli semu corsi o pinzutti ainsi interpelle l homme du maquis recule d un pas toise dedaigneusement le bouffon qui devant la prefecture ose lui poser une aussi impertinente question puis il lance vers le ciel ce cri de foi et de triomphe il etait ecrit que notre farceur devait finalement etre demasque le hasard des interviews voulut qu il s approchat de cet aigri qu est m santoni conseiller d arrondissement et qu il lui posat cette malicieuse question voulez vous etre conseiller general  be pe a  vous etes beau ce soir fut il seulement repondu a l'inquisitorial pierrot lequel comprenant que la supercherie n avait que trop dure rajusta son masque et s en fut dare dare faire son petit rapport a a muvra
+    </p>
+    <docAuthor>
+     Mathieu Rocca
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

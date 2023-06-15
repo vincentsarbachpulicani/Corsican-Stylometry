@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330839b
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330839b
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 286 | Année 8
+     </edition>
+     <date>
+      1927-04-30
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     apnu VIII — Numaru 286 pe  Annu . Esce ogni dece iorni  30 Aprile 1927  À... ose HA © gia] SEE Sai : 4 RA ES HA€ . ER : Eesti to: aste. a 0 Sm A Cra nai : "nr  GIURNALE DI E PIEVE DI CORSICA  ABBUMAMENTI :  In Corsica. . . . ........ . 12 franchi  In Francia. . ........,... . 15  A. PEsteru  U Mumaru:5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     cuique suum  u novu vescu di corsica e suminatu   monsignor rodier succede a monsignor simeo ne  x    dopu ottu miesi di riflessioni e di trattative  roma ha sceltu un strangeru par guida i distini religiosi di   sta nutizia e stata una surpresa amara par tutti quelli chi portanu in pettu a fiamma di u patriottismu u novu vescu  si ell e intelligente  sara u primu a capilla  di altronde unn e rispunsevule di sta sciagura  ellu vene in corsica perch e mandatu da u papa  bene fra noi cume rapprisintante di cristu e  cume tale  i catolici li devenu ubbidienza e rispettu   iculpevuli so altri  u pri mu  le autore   almenu indi rettu   di sta nomina  e statu monsignor simeone chi ha fattu crede a roma  cu i so rapporti  chi in corsica ci vulia tin vescu francese  cume se i nostri veschi corsi unn avissinu amministratu a diocesi  cumed ellu  e megliu       ricurdatevi  o corsi  cun quali applausi avete ricevutu  in ajacciu e in tutte e nos fre parrocchie  monsignor simeone  cun quale cordiale simpatia le avete dettu addiu  quand ellu lasciava sta tarra cusi generosa e cusi ospitaliera  monsignor simeone  v ha pagati di ingratitudine a ricuniscenza era  in altri tempi  a virtu di le anime grandie nobili  ma oghie       dopu u nostru anticu vescu  i piu gran culpevuli so stafiirapprisintanti di a corsica  questi capi macchia  unn avendu in vista che a pulitica stacciata e vargugnosa  un so nusciti a mettesi di accordu sopra un nome corsu  quellu chi piacia ad unu un piacia a lu altru e cusi hanu sacrificatu   onore di u cleru e di u paese     di u nunziu  un ne parlenu  pare chi monsignor maglione sia in pariggi  piu per fa sella a u guvernu di a ri publica  ca per difende pin tessi di a chiesa    ti i lnantu a u papa chi e stasi annatu da gattivi cun  u po vanta di ave scun tu un cleru e un populu   sempre cusi divoti a santa sede sapemu chi u papa e un padre e da un babbu i figlioli devenu accitta tuttu  ancu i schiaffi   ma certi schiaffi las spu a marca   
+  s
+    </p>
+    <docAuthor>
+     Cirnu
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     vita nova  un gran sapiente dicia    la umanita e successione mai interrotta di stati cuntrari e diversi  pe i quali passa u nostru intellettu in un sforzu di speculazione    e un fattu chi lu omu si cunsola di i dulori e di i jorni duri cu a vindeita chi ellu tra e da nove cundizione di prosperita   domu si scorda di ciocch ella ha suffertu  piu forte si sara dimostrata la aversita  piu lu individuvu  cu gioia e chietudine barattara la anticaangoscia    un pigliu micca a lettera a definizione di u sapiente ma lu appliccu a patria     dopu a rotta di pontenovu  a corsica casco in languore  pogh anni fa si e realizzata a legge umana  e u dulore  scacciatu  ha fattu piazza a una mai vista tenacita    a u soluricordu di u gran pasquale  tuttu u sangue corsu e statu cummossu   li tempi novi si annuncionii   quellu soffiu impaziente e subitane u di a patria  ci funu chiusepenu raccoglie     e bastatu per sisillu chi un nucle u vergine di cuntattu malaricu  dissi     un zitellu dorme annant a u pettu di a mamma    dachie parole diventinu fatti     e a corsica  piena di a gioia di a so maternita grido    maladettu quellu chi si piglia ancu questi e avilena u spirtu di i me prediletti     dolce amore   orgogliu ri belle  quantu sete putenti in bocca a cirnu     lu intrecciu di vide e  di un trattu  cambio   un trettu di vita nova svegliol anime riscaldo u vecchiu sangue allagatu   a chiamasbatti da ecu a ecu  vulo da monte a monte e u rim beccu ribumbo da mare in la    i frutti diu mandragolu  un  avianu pussutu addurminta  si putente fussi u so profume  u tenace pinseru di a sterpa 
+  s
+    </p>
+    <docAuthor>
+     A. de Peretti
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     u prucessu di li autonomisti alsaziani  ogn unu e a u currente di u prucessu chi li autonomisti alsaziani  cu a so testa le abbate haegy hanu fattu a u gran quotidianu pariginu le journat  e nissunu non piu ignora cum ell e finita sta tribunalata   in cummedia irresistibilmenfe ridicula organizzata da cim a fondu da un armata di pulizziotti     a st occasione si po fa benissimu u paragone tra li autonomisti alsaziani e li autonomisti corsi   cume i nostri fratelli di alsazia noi riclamemu u rispettu di i e nostre usanze e di e nostretradizione   cumed elli noi vulemu chi i nostri zitelli imparinu a scola a lingua madre di paru a lingua francese   a nostra storia  u nome di i nostri eroi  e nostre vicende    in cunclusione vulemu una legislazione speciale   quella chi cunvene a un paese chi a so cunfigurazione e a so situazione geografica speciali mettenu ne la impussibilita di ubbidisce  cume qualsiasi dipartimentu  a e vulinta centralizatrice parigine   tutti quelli chi leghienu a muvra  e quelli chi un la leghienu a si facenu leghie  cunosceinu e nostre rivendicazione e u nostru prugramma chi no avemu piu di una volta espostu in chiare parole      tuttu cio unn impedisce i sumeri e i mannarini cudacciulati a tre culori di suffia cun anciu impestatu saccate di calunnie contru li autonomisti corsi e sia da a stalla  sia da a trovula sempre listesse litanie scappanu cume ronchi o cume grugniti ne la aria serena   la calunnia e un venticello    ma poi in quandu in quandu si alza una bella maistralata chi vi spazza stu cele in quattru e ire sette e u perfidu vinticellu finisce par diventa quellu chi ella linto in chiesa zia bastella     li autonomisti alsaziani eranu dunque accusati  da i jurnali francesi  di paspa soldi di u guvernu tedescu  e li avtonomisti alsaziani hanu tra  dottu i detti jurnali in ghiustizia   tuttu  si capisce  fu subitu messu in opara parstrangula a verita a quale usci da u tribunale nantu un catalettu sottu a u cantu di a marsigliese sgarganillatu da una folla di teatrine  di becchi a corne innurate e di ultra patriotti di cantine   ma a verita ha a vita dura  e facenu sbagliu quelli chi credenu di suffucalla cu articuli di jurnali  cu stalbatoghj o cu canzone   u sgio poincare presidente di u cunsigliu pare chi ellu la abbia bella ca capita postu chi  a strasbourg  ellu ha prununciatu e seguente parole      pour des motifs divers qu il ne faut pas negliger  il si est produit des malentendus regrettables qu il convient a tout prix de dissiper     on a fait croire a le alsace qu apres jui avoir promis de respecter ses tradi  tions et ses usages le gouvernement de la republique meditait de trahir les engagements bris   on lui a fait croire que la france voulait imposer a une province longtemps separee de nous  et rentree di hier seulement dans la communaute francaise  une legislafion que ne accepte pas la majorite de la population   on lui a fait croire  malgre les circulaires formelles et re   petees de mi  charlety  que le enseigne   ment primaire pouvait cesser pe u a  pe u di etre bilingue ou que le gouver   nement etait dispose a fermer les yeux sur la violation des instructions rectorales  on lui a fait croire que la france cherchait a faire disparaitre le dialecte alsacien ou a empecher les enfants de correspondre en allemand avec des familles qui ne savaient pas le francais et de recevoir en allemand  l enseignement religieux     tout cela est faux  et il est indispensable que cela reste faux  non seulement sur le papier  mais dans la realite    avete capitu  tout cela est faux  etil esi indispensable que cela reste faux  non seulement sur le papier  mais dans la realite   or dunque u sgio poincare ricunosce naturale e leghjtime rivendicazione di la alsazia e li face pieni dritti di ogni modu e in ogni manera   li autonomisti alsaziani hanu ragione  u presidente di u cunsigliu francese a li dice e a pruclama davanti a u mondu interu  in termini senza ambiguita   li autonomisti alsaziani hanu ottenutu ciocch elli vulianu   dipoi sett anni li autonomisti corsi dumandanu lisfessa cosa e cun tantu piu ragione chi a corsica unn e micca  cume la alsazia  saldata a u cuntinente francese   cumu si fara chi ciocch ellu pare leghjtimu par palsazia e spripusitatu pa a corsica    i  punimu a quistione a u sgio poincare chi un po fa almenu ca di dacci suddisfazione   o corsi  ritti   un ci fiacchemu di dumanda la autonomia    li alsaziani lu hanu ottenuta  lu otteneremu ancu noi 
+  s
+    </p>
+    <docAuthor>
+     Ghiuvanni Malatesta
+    </docAuthor>
+   </div>
+   <div n="4" type="let" xml:lang="it">
+    <p>
+     bologna  22 aprile 1917 signor direttore   nella muvra del 1o aprile  si fa questione delle origine  del nome apricciani  l autore dell articolo fa propria le opinione di coloro che pretendono di ritrovarla nelle voci aper e apricus  il significato delle quali ben risponderebbe alla natura del paese  e  se mi permette  un  etimologia alla maniera del buon tempo antico   si tratta di tutt altro   nessun etimo di nome di luogo e tanto facile a rintracciare quanto quello di un nome avente la terminazione ano  questa e la terminazione di un aggettivo  formatosi dal nome di una famiglia romana  per designare un possedimento di essa  presuppone pertanto un sostantivo fundus che soleva amettersinel parlare  tutto quanto il territorio dell antico impero e disseminato di nomi gentilizi in ao  nella massima parte dei casi  non si hanno ricordi di quelle famiglie nelle storie  ma la memoria di esse viene perpetuata inconsapevolmente da quanti pronunciano o scrivono il nome di quello che fu il territorio di loro proprieta  giascuno di cosi fatti nomi e un monumento o  se cosi vi piace  un blasone  in italia  i nomi di affigliano  cornigliano  fiamignano  acciano  secondigliano  stigliano  ecc  ecc   testimoniano di essere stati altrettanti fundi delle genti affilia  cornelia  flaminia  accia  secundilia  ostilia  e via dicendo  sono denominazioni di centri minori  in  fatti  i centri maggiori hanno  di ordinario  nomi piu antichi    nome apricciani deve sicuramente essere stato  dapprima  apriciano l  7 finale gli e venuto dall esempio dei numerosi nomi locali uscenti per i  cio forma una caratteristica della toponomastica italiana ed e dovuta a ragioni di ordine grammaticale che sarebbe fuor di luogo di esporre  per es  tivoli  frascati  ascoli  chieti  rieti  lodi  capri  ecc  ecc  in corsica  ricorrono  figari  poggiali  vittoli  car  bini   pinaccioli e tanti altri   apriciano  passando ad essere apricciani  non tengo conto del doppio cc facile a spiegarsi  ha subito la sor  te stessa di altri consimili nomi della isola   quali  vezzani  acciani  chigliani  ampiani  calviani  crovani  ucciani  loriani  olcani  pozzani ecc  di taluno di questi esiste il riscontro in ano nel continente  c e un vezzano in provincia di ascoli  uno in quella di parma  tre in quella della spezia  due in queha di reggio emilia  un acciano in provincia di aquila  un luriano presso siena  codesto passaggio mi pare affatto proprio della toponomastica corsa  ma e cosa da approfondire   nei primi tempi della era  volgare  apricciani fu bene  dunque  un fundus apricianus  un praedium apricianum vale a dire un possedimento della gens apricia   ii nome di questa gens non e ricor dato da nessuno scittoreromano  pero si ha egualmente il modo di accertarne la esistenza  il nome apricius  infatti  appare in due iscrizioni di roma  ri prodotte dal mommsen nel corpus inscriptionumt latinarum  ai volume vp  nn  8oo e 5415  la forma femminile apricia vien fuori da un altra epigrafe  pure di roma  ivi riprodotta aln  16694   ma ci ne   e trip ne  16694  ella  signor direttore  fa osservare in nota come le vecchie carte rechino  in luogo di apriciano  la forma bre ciani  non ho maniera di verificare se questa sia proprio la forma piu antica  a me  francamente  essa e un po   ospetta  comunque  anche se breciani  non resterebbe esclusa per questo la romanita del nome  e quindi le origine imperiale del luogo  giacche lo onomastico latino  v  forcellini  offre  pure proveniente da iscrizioni  ij nome personale briccius   scusi la chiaccherata e mi creda  signor direttore  il suo
+  s
+    </p>
+    <docAuthor>
+     Vincenzo De Bartholomaeis
+    </docAuthor>
+   </div>
+   <div n="5" type="poe" xml:lang="co">
+    <p>
+     cunduglianze   a  signora veduva p  borghetti  a talasani  ghiunsi la trista nutizia di petru  vosiru cunfortu    un pudaristi mai creda  la pena che ne supportu pensend a lu vostru caru chi v e cusi prestu toltu   ma di unn essa privenuti ci e assai dispiaciutu   e di a sucieta muvrista molt avarianu pussutu rendas ad accumpagna lu amicu tantu tinutu   a voi  afflitta madama   si  po rimpruvara nienti parch erati bell olfesa  e abbastanza scuntenti  si ellu ci e una mancanza e di li vostri parenti     a minima di li cosi era di avecei avvisatu   par noi altri era un duveri di vene a lu accumpagnatu e mischia li nostri pienti a quilli di u parentatu   ma lu piu gran dispiaceri e statu per petru rocca parchi tutt i nostri addii la avaria fatti a bocca ripunend una curona sopra ja tarra chi u tocca   avali la cosa e fatta   mancu si po piu rivena   credite puri  o signora   chi spartimu a vostra pena  e chi pinsaremu ad ellu   fin chi no  avemu la lena   circheti di ave pazienza   forza e curaghiu  o madama   pinsemu cosa po esse di perde quellu chi si ama   ma un vale     ciole a parta   quand ell e ghiunia la chiama   un vali a crescia lu mali   chi tanta bisogn a stacci   piegatevi a la alta leggi postu chi diu la faci   chi ellu li di a un bor cantu da ripusa in santa paci 
+  s
+    </p>
+    <docAuthor>
+     Ghiuvan'Paulu Codaccioni
+    </docAuthor>
+   </div>
+   <div n="6" type="his" xml:lang="co">
+    <p>
+     raconti di a muvra  u pedone di casinca  a u sgio barone di levotzow  so parecchie centinare di anni  a pieve di casinca cumposta di ondeci paesi  appesi a i fianchi di monte sant agnulu  unn avia che un solu pedone incaricatu di purta e lettere  tandu un si cunuscia in fatti di stradoni che stradaccie a ricciate di petre  a spin di sumere chi cullavanu e falavanu  di cresta in cresta  versu u mare  u poveru pidone avia u so bellu da fa  bench ellu fussi da cavallu a  so fera  per lampassi da san brancaziu in san tumme  paese disdruttu  da san tumme in san ghiabicu  altru paese sparitu   da penta in loretu e vescuatu  partia di bonissim ora e ghiunghia sempre in cor di notte  e bi rispondu chi ella era un omu spicciu chi bulava cume un acellu  fendu poche tette e micca chiacchiare francu cume lu oru e pienu di onestitai  ellu  facia u so serviziu senza mancu vuie rigali  differente di quelli di oghie chi ben pagati da u guvernu  ricoglienu piu cinquini in capud annu  offrendu lu almanaccu  ca u prete ind un annata   e si lagnanu   quellu  si tumbava di fatica e un si lagnava  ma a so mula  a forza di strazia durante quindeci anni di fila  cumincio a lagnassi e ad un bule piu fa tamantu giru     viaghia  o muvre   gridava u pidone  ancu per cust annu   dopu  ti vogliu mette in riposu e cumprammine una zitella   a mula si muvia  ma sempre piu cun isforzu e pianu pianu  una sera  inciampa e ti lampa u so cava  glieru        un bedi  chi io un possu piu   disse le animale  cu e lagrime pinduloni a li occhi  o buscati un altra fera  o accortami sta faccenda   si io era in te  une poche di ste letteraccie e tirava in su vaglinu e cusi mi francava di capula a casa di cristu   fiu so vecchia  tu si capelli grigiu e dumane sare vecchiu cume me     e a mula  veramente cassa e ficca  un si volse piu  arrizza  u padrone fu custrettu di caccialli briglia e sella di piattalle ind un sepalu e di cuntinua a so strada a pedi  cu a brisacca gonfia chi pisava cume un piombu    x  viaghia e viaghia solu sulettu  si da a riflette a e parolle di a fera      inno   mi tombu nanzu che di tira e lettere in du vaglinu  queste qui e purteraghiu dumane  e mi feraghiu impresta a so fera a cacciaguerra    lasciami vede cio chi mi ferma   abri a brisacca e lesse li indirizzi  una pe u pastore filicone di campu di arieta  duie per fiordispina di san ghiabicu  tre per don  matteo u vici curatu di lu ocagnanu  e pensava      si iomi ne sbarrazu  facciu una gattiva azzione   ma nimu mi vede  e nimu a sapera  e forse a mula chi ha raggione    e piu avanzava piu li sunavanu  in mente  limpanti  i cunsigli di a bestia   accoriami sia faccenda   tirale in su vaglinu      a tentazione fini pocu a pocu peraccendeli u cerbellu e tupalli li occhj  a u franca di u vaglinu  piglia e ti ribocca u fondu di a brisacca  u fiumicelli falava grossu   in quattru e tre sette  e lettere vultulendu  in la acqua torbida iunsenu in mare  fattu u primu passu  yomu ne face un secondu   poi un altru  e un mese dopu un cuntava mancu piu e lettere chi da u vaglinu  leste leste  andavanu a nuiri i  pesci marini   nimu un si accorse mai di u fattu    i fiume e u mare un palesonu mai   tre anni dopu  u pidone si ne morse senza ave tempu di vede prete  a so anima bulo subitu in celu      qual e   dumando san petru  sprezzante  qual e ssa bulatica fumicosa      so u pedone di a casinca   a u nome di casinca  un gene rale splindurente di lu esercitu innumeratu  si abbicino   era u santu san brancaziu  prutettore di a pieve  e stede a sente     si tu  dicia  san petru  quellu chi tirava e lettere in du vaglinu e festi tira tante biasteme    la anima trimmulava cume una calacaloce e patansciava      mi so pentitu   perdonu perdonu      allora credi chii paritoi possanu entre cui iusti in paradisu  vai a    i x    scusate  fece san brancaziu taglienduli a parolla in bocca  st omue u meiu  u cunoscu  tutt i jorni  mi salutava passendu davanti u mio oratoriu  ha peccatu si ma ci e a scusa di a mula  chi a pena sia raggiunevule  fatela per me  si bo u mandate a lu infernu  mandateci ancu a me chi lu accumpagnu     dateli a so brisacca  urdino lu apostulu  intantu  chi ellu ritorni da duve ellu vene  e ricoti tutte e lettere chi ella ha ghjttatu  eppoi    si videra    7     a notte stessa  i piscadori vipenu in ripa di mare di  casinca  versu u forte di san pelegrinu  un ombra bianca ci una brisacca nera chi cuglia pestasale tonde  po si ne bulava pe i paesi vicini  era vani ma persa chi facia a so penitenza e andava di casa in casa a ripone cotule bianche  nere e turchine dicendu   teni e vostre lettere     si po omu figura u stupore di i paisani videndu  nantu u sigliare di e porte  e pestasale marine   su stupore si cambio in paura quand elli scandaglionu chi una manu misteriosa spendia lettere  impetrite  quantu viaghj fece u pidone  un si sa    una notte  li ondeci maghiu  vigilia di san brancaziu cumu la anima passava carca davanti a chiesa di u gran   martire gloriosu  suspiro    o beatu san brancaziu quandu finisce u mio straziu    a sta chiama  u santu surti  in di un nulu di oru e focu  e alzendu versu u celente chiaru a so spada di argentu  disse    colla colla in fretta fretta   anima porga e benedetta 
+  s
+    </p>
+    <docAuthor>
+     Martinu Appinzapalu
+    </docAuthor>
+   </div>
+   <div n="7" type="poe" xml:lang="co">
+    <p>
+     coghia  e coghia  di pumonte paesellu    custruttu in istrana architettura  sorge a quattru gruppi a dislivellu  surridente cu bella atheratura  allinsu  montigrossi e piazzilellu li copre in verde mantu la natura e ammiranu lu sole quandu varca le onde di lu tirren cu la cinarca   a u centru chi ella incrocia in  stradone vi sta cacciaguerra caifittiera  ivi eughiesi fannu riunione  per divertesi cun bella manera   unu cun la alira senza distinzione di jornu in festa  e in ferial la sera   e circulu di pace e di murale   senza   rtifiziu e tuttu naturale   vers una sponda veg uha pasturella che porta a pasce pecure e muntoni  folta di grazie mi pare una stella  recrama e disciplina a  gregge impone  un cuntadinn intona una paghiella arafru in manu  e sacru  ne granu pone  vita semplice e pura  la piu bella  curanata di ponde di liamore 
+  s
+    </p>
+    <docAuthor>
+     D. Pinna
+    </docAuthor>
+   </div>
+   <div n="8" type="the" xml:lang="co">
+    <p>
+     teatru corsu di a muvra  a figliola di u banditu  cummedia in 5 atti e 3 quadri   seguitu   attu primu   scena v   ors antone e surtitu per anda a fa vindetta  entrenu clementina e franciscola   i  a cuntessa    ah diu       suspira  ah  site voi  allora  chi nutizie mi date di sa malata    clementina    u be ristora i chiuchi e i grandi  o ma  e alligerisce i suffrimenti   franciscola    bisugnava a vede  signora cuntessa  la allegria di quelli criampuli e quelle lacrime di a mamma     a cuntessa    brave   fate sempre u be e lasciate castiga u male da a manu di diu      suspira   franciscola    signora cuntessa  vi trema a voce  chi avete      clementina    site cuntrariata o ma  vi sentite male    a cuntessa    inno  e mio tesore  mi sentu be   cambia tonu  senti  o francisco  ti dispiacerebbe di sape a babbitu banditu    franciscola    signora cuntessa  fermu stupita da a vostra  quistione  babbu banditu   cosa chi un po accade perche cunoscu a so bunta  ma  si ella fussi    in seguitu di  difesa    onore a salva    mi ci resignerebbe   a cuntessa    e si ella fussi per vindica un parente  o un amicu ristrettu  chi ne penseriste     franciscola    mi ci resignerebbe  signora cuntessa  perche a vindetta e un sacru duvere   a cuntessa   ma a legge di diu a difende  o francisco  eppoi  ci e a legge di li omi per perseguita i culpevuli     franciscola    diu ha fattu i santi per suppurta tutti li affronti e tutti i mali  e ci ba datu a noi e nostre debulezze  inguant a legge di li omi  parlemune signora   basta poi a maladetta pulitica per fa di a justizia una vera inghiustizia  ne avemu abbastanza di esempj in paese     a cuntessa    vedi tamanti esempj di inghiustizia in paese  o francisco      franciscola    vulete di piu che cio chi si vede e cio chi si sente intornu a u conte di lavadella   per quessu cundanne unn esiste     a cuntessa    a jente certe volte esagereghia   e chi lu imponenu a u conte   $i  franciscola  signora cuntessa  un vurria riapre e vostre piaghe ma      un rumore   scena vi   entre ors antone di frombu a cispra in manu e scapigliatu   ors antone    vindetia e fatta  signora cuntessa   lavadella ha pagaiu e vostre lacrime   videndu a figliola  basgiami a mio franciscola  oramai si figliola di banditu  obbedisci a nostra cuntessa chi e a sola mamma chi ti ferma   franciscola    lampendusi in bracciu a u babbu  oh  lu mio corsciu babbu   povera me     cume feraghiu senza a to affezione di ogni jornu   ors antone    e cusi chi tu mi incuragisci   aghiu aggitu male   dimila    franciscola    perdonu  o ba  perdonu pe sta mio prima  debulezza  avete vindicatu i renabianca  era u vostru duvere   a cuntessa    come ringraziabbi    brava jente   ors antone    a bedeci  manda basgi   un penserate per me  i  attu secondn  scena i   in casa di u capitanu  quest posa a u una scrivania e leghie 7 so currispundenza   4  u capitanu     apre un di lettere real dr umi poi pigliendune una e esamine  dula a lesta  oh oh   una lettera a  u guvernatore   chi diamine vuras  leghie  cu    signor capitanu   risorte di a vostra inchiesta so  pra lu omicidiu cumessu da y lettu ors antone  chi questu averebbe amazzatu u conte di lavadena e agitu per cio in leghjtima difesa   vi pregu di osserva i regulamenti chi voi avete forse persu di vista  vale a di chi un ci vole mai ne a scrive ne a intervene in favore di in lu inculpatu  dunque u vostri dive  re e di cunsidera u dettu orsan  tone cume assassinu  ne  piu  ne menu        capizzeghia   vi e dunque ordinatu    1  di cessa tutta relazione eu i vostri parenti renabianca  i quale danu cunfortu a lu omicidiariu  ne avemu a certitudine   2  di impiega tutt i mezzi pussibili per pude arresta a u piu prestu y dettu ors antone   grangallu   guvernatore di a corsica     p  $  tengu ad aghiustabbi di capu chi vole be a i so subordinati chi i present ordini  ben esecutati da voi vi deranu drittu a un avanzamentu  un postu di disgrazia a forse una retrogradazione vi pom esse ocasiunate da un mancameitu di vostra parte  5   capizendu  pesta  avale so frescu   si paria di arresta ad or antone cume di magnassi una fravula  siccome lu omu unn e di stumachiccia  vegu propriu chi u nostru gi vernatore mette i banditi corsi a parua i nostri malfattori francesi  infine chi tuttu que unn acconcia micca i mio affari  beh     beh    picchianu a  porta   u capitanu    inguiuppai scar tafacci  entrate  i ne  scena ii   entre a cuntessa di renabianea  a cuntessa    signor capitanu  site salutatu  scusatemi sio yi disturbu in le vostre occupazioni  u capitanu    ma    inancu   ap pena      pero    ma pusate  pusate  cara cugnata   passa e bene imbrt gliatu da sa visita  ci vole chi bo sappiate quantunque    ne    a cuntessa    mi ritiru  sg  capitanu  perche realmente vi  dis  urbu     da e  u capitanu    no no  pusate   pregu    chi sarebbe cio chi vi af ga   so sempre prontu a server   a cuntessa    sperava sem di jornu in ghiornu di vedevi i  casa meia ma dipoi longu tempi un ci affaccate piu  ra  u capitano    un pocu di 1  gligenza  e vera  eppoi    st afiert  cin di ors antone mi ha un  po impeditu  a cunfessu  a  a cuntessa     ghia chi vo  pu  late di ors antone  mi aprite 4 sur da di u discorsu  e per su mute  chi eiu so venuta qui  vi dur  per gran serviziu di un persegni    mio omu di affari  mi ricumandi   vostra bunta per chi voi infetti gate  in favore di su disgre  chi ha tombu per difendesi 
+  s
+    </p>
+    <docAuthor>
+     U Vecchiu Sindacu
+    </docAuthor>
+   </div>
+   <div n="9" type="art" xml:lang="co">
+    <p>
+     pizzicafigu     icafigu e un bell omu  grande  fac pea ucchioni   nasu finu e fina ja  aper e giovanu e si dice chi el pet bonu appitittu   un ci e male  ha  un di cr  pa suddisfa st appitittu  pizzicafigu    durante a guerra  ha fattu u so du e ne 1 ve in un  ae cum ellu si deve in campu di a   ionea settanta chilometri di u fron14 a 1 e a a  one  re ug riesciutu dopu a sanguiniccia a te   4 i 1  ter siglia cume sigretariu da a cumisfassi pio u mn di  v  i  signe di riforma di     vescuvatu  ed ii  sione     x eccu cume   mi  e ci vulia pa esse numinatu a stu postu a passa un esamine a u centru di      yescuvatu    pizzicafigu  forte di i so gloriosi stati di servizu  custitui un dussiere pienu di colpi di cannoni  di atti eroici  di cita  sioni e tant altre belle cose      pi  a matina di le esame  subite in  usessu di u prugramma scrittu  pizzi piga  chi unn ha mancu u cirtificatu di studiu ma chi si ne sa passa in tutt e  circustanze  sur di a sala di esame e si p ando a u gran cafte di    vescuvatu  in duva  cu lu aiutu diqualchi cameradu ella fece una cumpusizione ad hoc       pizzicafigu oghie si dice u bracciu drittu di u medicu in capu di   centru di riforma    di vescovatu    e    quelli chi u cunoscenu be pretende  pu chi ellu ne saria ancu e duie a nche  ma dique un ne so sicuru   pizzicafigu dipoi tre anni e mezzu chi ellui si trova in stu postu ha pussutu manghia a so fame  ma puru cumu lu appitittu vene manghiendu  ellu ha sempre fame     e so pruvende abituale so e cuilazione chi ellu si face paga da quelli a quale dlu mette paura dicenduli   sapete chi u vostru dussiere unn e mica in re  gala   vi ci manca u certificatu di u vi ci curatu di a vostra parocchia  le attestazione di u capitanu di i pumpieri parigini  un scartafacciulu di u duttore voronoff un altru di u sindacu di 7rifouilly la saucisse ecc      utintu mutilatu  scalatu stancu persu da calasima o juntu da e fureste di aitone  pa passa davanti a cummissione di i   sperti     in vescuvatu  ne ferma cottu chi pizzicafigu unn ha piu e a magnallusi   e u si magna in una tena o una cullazione     pizzicafigu ha trenta tre anni   li anni di  jesu cristu  e come ghiesu cristu ellu pare chi ellu fi miraculi   di e mani a i bracci mozzi  e jambe aquelli chi lu hanu lasciate a flirey e a lice a i disgraziati chi lphanu persa sottu a i fulmini di l obus     ma que e qualchi volta un incunveniente seriu perche quelli chi ricupateghianu a vista ci vedenu chiaru  i bracci e pa dalli pattoni e i pedi  calci dndarretu        i  pizzicafigu un si r incommuda pa tisipocu e si dice    aghiu trenta tre anni cume ghjesu cristu e faciu miratuli eum ed elle   ma u scillaratu si scorda chi ghiesu cristu e statu precisamente crucifissu a trenta tre anni pa ave fattu troppu miraculi     ultimamente un incrocchiu di     stitutore  2  volse anch ellu paspa a u rastellu guvernamentale e cum ellu pussediva un scartafacciulu medicale in regula si prinsinto davanti a cummissione di i  sperti   di    vescovatu   pizzicaficu chi avia attentivamente studiatu u dussiere di lu incrocchiu si disse     qui ci e da pizzica   2    e quandu u    stitutore si prisento si misse in arrechia tesa   i sperti li dedenu un vinti pa centu quandu pizzicaficu si senti strappa u stornacu    e si avvicino      signori serti  dissi pizzicaficu  e impussibile da u vinti pa centu a stu brav omu   fate un isbagliu parch ellu unn ha mica certificatu medicale pa pruva a filiazione  1     tante scuse rispose lu incrocchiu 4 ecculu   pigliatene cuniscenza       questu un bale niente  cuntinuo  peminente sigretariu di a cummissione  di riforma di    vescuvatu    vi dumandu scusa      ma un ci fu nulla a gratta     sperti piegonu a testa comu i pini sottu a u libecciu  ficconu uiscartafacciulu dentru u dossiere e dedenu un 2o    sejzza origine a u stitutore      finita a   rapprisintazione   pizzica  figu chiamo lu incrocchiu da parte e li disse pianu pianu      u vostru certificatu di filiazione un bale nulla  u vi rendu  ecculu  ma cume eiu vi portu interessu   chi bi cunoscu be   mi incaricu di rittifica ciocch elli hanufattui sperti se boi vi sbrugliate a fabbi fa avanti che mi ne andia in    vescuvatu parecchj altri scartafacciuli  da u  vostra medicu  e purtallimi qui  bi aspettu    e bi do a me parolla che vo ottenerete u vinti per centu cun origine   lu incrucchiacciu si ne ando subitu in de un bancalaru a cummanda una croce di dui metri e mezzu di altezza    e tre soldi di chiodi   pizzicafigu ava cerca a fa un altra miraculu  ma fincrocchiu  ellu  li face una curona di prunalbellu     kyrn art  section   cronaca aiaccina  turismu   i turisti cuntinuanu a sbarca in corsica pa millaie e tutti fermanu incantati da tante bellezze naturale chi elle offre a nostr   isula  perla di u medilerrane u   duttori  letterati  igienisti  studenti e cummercianti ne affaccanu in banda ci sumenaru a manate cumplimenti soldi    e ancu critiche   i cumplimenti ne semu abiluati  i soldi un si po mai sape  in simule periodu  cioch elli pouu vale a u justu  ma bisogna che no ricunoschimu chi  e critiche so suvente piene di verita   e e criliche di i stranieri si eserciteghianu quasi tutte sopra a manera chi elli so ricevuti in cerle ustarie  u magna chi elli ci trovanu e i prezzi spripusitati chi elli devenu paga per ave pocu cena e mal alloghiu  i  e so critiche vanu a lu indirizzu di e municipalita chi un  sanu impone a i so amministrati le igiene e a pulizia  a u lascianda chi li ferisce li occhj in ogni paese chi elli visiteghianu   ricunuscemu chi parechj sforzi so stati fatti da e pupulazione pa mudernizzassi un pocu quist annu  in qualchi cantu i passageri ponu truva un albergu o un ustaria in di elli so aliughiati a pocu pressu be a prezzi ragiunevuli   ma quantu numarosi so i loghi in di ellu si paga cinquanta franchi pa due fetie di lonzu e un lettu sgangheraiu     e in di ellu un si trova a spessu manc aqua pa lavassi      in aiacciu   u quartiere di u fossu  una parte di u boulevard lantivy a piazza spinola  e sopratuttu u quartiere di a calata so perci  e  tutt i curtili di a citta so inzzosi e u corsu napulio  ellu stessu  u centru di a citta  lascia assai a desidera   di altronde un capimu micca parche certe fantasie  come quella di tuppa e guarine per inacqua   e pa fa nidi a zinzale  possanu esse tulerate a certi abitanti     infine chi aiacciu  capu locu di a corsica un presenta micce a fisiunumia di una citta   e pa falla cumpletta  straccia e finestre  ronchi di sumeri e ghialli e ghialline in molti catagnoni  7 di  e si parla di squari  di boulevards  di casino e di luce elettrica        o biata santa lucia     un gran ballu   sara quellu offertu da u cumitatu di l appel a u peuple sta sera sabatu  a 1o ore di sera in la sala di e feste di u municipiu  e  quasi tufte e carte di intrata so piazzate  ciochi vole di chi u sucessu di stu ballu si annuncia magnificu   turisti   u balellu   corinthia  di a cw nard line  vinendu da napoli  e arrivatu in aiacciu ghiovi dopu mezziornu cu 24o turisti   e partito in la sirata  via villafranca   sports   la ultima incuntrata di u campiunatu di i calciatori corsi si e fatta dumenica passatain corti tra  l union sportive cortenaise  eclathletic club ajaccien     li aiaccini  a i quali mancava tre calciatori  so stati vinti pa cinque puntia unu      umbe  tanti scupazzoni chi ellu si riceve st annu  che   amici mei   cani e cagnoli  le estate pare chi ellu vogli  vene    di estate  st annu   e iurnate so bellissime  li alberi scioglienu e so fronde e i mucchj profumeghianu   1 gran calori un so luntanu   1 jatti hanu fattu marzu  i sumeri aspettanu maghiu    ma a cani ci si mettenu tutt i jorni  e senza pregiudiziu di e murzicate  chi elli distribuiscenu di quandu in quandu  ogni jorni chi diuli manda elli ci offrenu en spittacula chi parecchj  ein particularu parecchie  si passarianu di cuntimpla   eli facenu scandalu e danu vargogna  un saria ora chi ella finisca a litania di i cani e di i cagnoli a lu abbandonu      iscemi   aiacciu  din a mantenga sempre sana  un ne manca   ma poi piu scemi so quelli chi prufittenu di isgnaiati e di li ianueenti chi   comu i cani a si spasseghianu in liberta pa e nostre strade  7  e dumandemu a i nostri amministratori una di ste due cose   o fa imbarca i scemi o mette drentu i scalzacani  e i fannulloni chi si distraienu di a miseria di altrui  i  st affare e propriu una gran vergogna pe a citta    arti   bella pittura di u sgio luciani peri in de cardinali   magnificu acquerellu di u sgio corbellini in de bassoul 
+  s
+    </p>
+    <docAuthor>
+     U Jattu-Pinnutu
+    </docAuthor>
+   </div>
+   <div n="10" type="art" xml:lang="fr">
+    <p>
+     l aimanach de a muvra   a ya a peine une cinquantaine d annees les almanachs constituaient a peu pres funique litteratnre du peuple en particulier des paysans et des ouvriers qui n a entendu parler qui meme n a feuillete en son jeune age le fameux almanach de mathieu de la drome  l on y trouvaitdes choses essentielles pour les agriculteurs les dates des principales foires des procedes de culture et aussi des recettes culinaires des remedes de bonne femme  quelques historiettes morales rompaient de temps a autre la monotonie du texte   mais l almanach comme du reste les genres litteraires s il en faut croire feu brunetiere  a evolue de nos jours certains grands quotidiens publient annuellement un almanach  il ya des almanachs religieux des almanachs politiques  des almanachs encyclopediques tels que le vermot et l hachette il y a aussi et cene sont pas les moius interessants les almanachs regionaux parmi eux brille en corse l alinanaccu di a muvra den est maintenant a sa cinquieme annee et constitue une veritable oeuvre d art qu on en juge plutot  te almanaccu di a muvra per 1927 se presente sous une elegante converiure ornee de la symbolique tete du mouflon fenilletons le il abonde en illustratioris  superbes photographies portraits de personnages celebres paysages caricatures cartes  qui eclairent un texte des plus varies des mieux choisis l amatenr d histoire le curieux d anecdotes celui qui se plait aux recits fantaisistes et aux  stalbatoghj  le poete enfin y trouveront chacun leur pature et de la meilleure qualite une serie de chroniques qui sont d une precision sobre et claire rendent compte de tout le mouvement litteraire et regionaliste corse en 1926  la pose de la plaque commemoralive de padulella le depot de la palme du centenaire sur la tombe de paoli la jjerindella des poetes a morosaglia plusieurs episodes de' l histoire de la corse de ses rapports avec pise et genes en particulier y sont evoques des biographies de corses illustres ou de personnages qui ont joue un  rele dans notre histoire rappellent le souvenir des grands hommes  citons entre autres mgr de la foata eveque d ajaccio andre doria et l ecrivain guerrazzi auquel m p graziani a consacre une etude avec deux portraits de l illustre homme d etat historien et romancier qui passa une partie de son exil chez nous les historiettes el les poesies et chansons sont signees des noms les plus aimes du public  martinu appinzapalu maistrale minicale codaccioni notini u sampetracciu  olivieri giuvanni di a grotta simone di li lecci filippini l orsu d orezza marchetti grimaldi et tant d antres qu il serait trop long de nommer tous ici des devinettes des proverbes des mots d esprit emaillent le tout   je tiens a insister encore sur l illustration entre les photographies en particulier les cliches tomasi tres bien venus il faut louer les sobres et expressifs paysages de corbellini les pittoresques coins du vieil ajaccio de rifflard les caricatures de kyrn de geronimi des feproduetions des cartes de bellin ajoutons les airs notes en musique de pla sieurs chansons celebres et nous donnerons une idee approximative de l interet captivant que presente ce beau volume de 230 pages c est plus qu une encyclopedie c est meme plus qu une oeuvie d art c est un magnifique et efficace instrument d'enseignement et de propagande regionaliste saine et probe ecrit d un bout a l anire en pur dialecte corse il doit etre le vade mecum indispensable de tout corse digne de ce nom et de tout ami eclaire de la corse cenx qui mediteront sur l admirable tableau de la page 178  notte in ponte novu ne me contrediront pas oui c est une oeuvre belle saine et fiere que cet almanach a la composition et a la publication duquel noire ami pierre rocca a apporte tous ses soins d editeur d homme de gout et de patriote
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="11" type="poe" xml:lang="co">
+    <p>
+     solitudine  so solu inmezzu a u castagnetu    en soffiu di vita appena treghia    u move de fronde  sordu e letu   piu dolcemente mi annannuleghia   canta un acellu senza richetu i  chiama la amica  e gni locu teghia    dopu chi acqua di amore aghiu betu sempre anca in de me un nome veghja  sbattula in pettu  sfughie a e labbre      aeuli  nomu divinu   chiave chi apre purioni chiusi a li affannati cori 5 succhin chi lava i piu matti dulori  lu amu in le estate u pregu in lu imbernu di esse a u fugone u mio cunsolu eternu 
+  s
+    </p>
+    <docAuthor>
+     Tonio.
+    </docAuthor>
+   </div>
+   <div n="12" type="feu" xml:lang="it">
+    <p>
+     a sro a mano che si accostavano  ki toro sembrava  e veramente si lo de di orrore religioso  pareva el oeco di un vasto torrente  qua  seminato di massi enormi  fra 1  i quali scendevano mille rivo acque  che ripetendosi da piu a tie gli echi  e confondendo le von andavano intorno come un fre tatto nc era vocale la terra cosi dal gala   iscendeva meno misterioile dei suoni   questi poi  po dalle fronde di castagni  secolari  i quali mossi dal vento su surravono  e a volta a volta  o co privano di ombre il sentiero  o vi  lasciavano penetrare un raggio fulgidissimo di sole  passato il torren   te le coste si alzano blande  a sca glioni alberati tutti di castagni  fra  cui lo occhio spazia lontano di viale  in viale  sicche tu credi infinito quel  bosco  non pertanto alla svolta di  un poggiuolo  custodita dalle ombre  di parecchi castagni apparisce la ca sa del paoli     qui e nato da giacinto paoli e da dionisia valentini mia cugina il generale paoli nel 1724   il boswell vide attonito due corpi di fabbrica coi tetti dispari  e formanti insieme una casa di cui il piu umile dei fattori si sarrebbe appena giovato  poche le finestre ed anguste  la porta ottimamente munita di imposta ferrata  alla quale non si poteva giungere che con molta difficolta  poiche rinvenne dello stupore il boswell chiese  se avrebbe potuto senza indiscretezza   visitarla dentro     signore  rispose francesca domenica  o chi para    e qui con una specie di fischio acutissimo incomincio a urlare    minugro  marifrance  orsanto   cotesti fischi avrebbero avuto la virtu di resuscitare imorti senza altrimenti attendere la chiamata degli angioli  pensate se di far correre i vivi  di fatto indi a breve tra la macchia si intesse un grido come di cuculo  dopo altro spazio di tempo comparve un villano che  riconosciuta la donna  con grandissima dimestichezza favello     o signora francedome  siete voi  il generale non ci e  e ne anche  minugro e orsanto  entrate a rinfrescarvi  dove siete stata   dande venite  questi signori chi sono    questo e mio figliuolo altobello  questo altro e un signo e nostro ospite e amico  sono andata a riscontrarli  e torno con essi a casa   il villano  dopo avere bene udito queste cose  schizzo fuori dei denti  uno spruzzo di saliva verde a cagione del sugo della erba  che masciava  e forbitesi col rovescio della mani manca le labbra abbraccio e bacio altobello  volendo in seguito praticare la stessa cerimonia col boswell  questi lo respinse mettendogli con quanto possedeva di forza il pugno al petto  per la qual cosa il corso aggrondato brontolo  per dio santo  o che frulla a costui    senonche altobello sovveniva pronto a quel frangente mormorando nelle orecchie al cerso    costa ne le parti di inghilterra bacio tra uomini non usa  e il vostro ospite e inglese       allora muta aspetto  e ripresa la cunsueta compostezza il corso soggiunse  passeremo dalla cappella  ne      entrarono in una stanza terrena foggiata a moda di cappella  ne priva di eleganza  certo poi netta e fresca come se fosse nuova  appena francesca domenica vide una lampada accesa davanti laimmagine  della inmacolata ed uno inginocchiatoio ci si getto giu di sfascio  altobello e il boswelll ebbero ad imitare a scanso di scandali  questi dopo  convenevole intervallo levo il capo per iscoprire marina  ma la donna teneva sempre gli occhi chiu   si  e la faccia bassa su le mani giunte  dop lui  e scorso altro spazio di tempo  si provo di specolare altobello  non ci era apparenza di prossimo fine  tossirono  starnutarono  peggio  ci volle pazienza  che la francesca domenica quinci non si rimosse se prima non  ebbe votato e scosso il sacco  per ultima fattasi il segno della redenzione  con un bellissimo inchino si licenzio della immacolata  allora passarono nel celliere  a giudicarne dai vasi vi narii di ogni maniera sparsi qua e la  donde per via di scala di legna  che metteva capo ad un apertura nel pavimento  riuscironoal piano superiore   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

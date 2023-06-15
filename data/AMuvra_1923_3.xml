@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1923_3
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     a separatistes et regionalistes seuls nous sommes dans la verite la corse ne sera pas relevee tant qu el le sera un departement et cela dises pere les politiciens des clans qui vrai genent la fin de leurs profits et de leurs ambitions  ne pouvant ralentir l essor impies sonnant de l idee corse des vittoli inscrits aux fonds secrets emploient contre nous l argument du separatiste  nos precedents articles et les sa tues du partit cru d zone font justice d une accusation aussi fausse que tendancieuse et l on oublie en outre que nous ne fumes point les premiers a parler d autonomie ou a protester contre la situation de notre ile abandonnee aux receleurs et aux politiciens oi u i  sens remonter trop loin nous signalons qu en 1887 landry conduisit une insurrection pour protester con tre les abus des politiciens me simoncelli de pareille proteste quelques annees apres de facon tres violente contre l inclure et l dois me de la france et ecrivit dans son journal non seulement une declara ton nettement separatiste mais une proposition de retour a l italie qui l a fait classer parmi les irredentis tes les plus ardents santu casanova avec sa tramuntanacontinua avec plus d ironie et moins de nocivite la defense de la race et de la langue courses aide par plusieurs aneanti des deux versant puis le journal la renaissance de a corse dirige par paul font eveille l ame endormie de la nation rose en lui rappelant de facon mou tante le massacre de pontenovo en 1914 4 visera vint saveur poli aide par j t verni laciardi et santu casanova precis en une preface qui est un pur chef d oeuvre la doctrine autonomie  la guerre et l exageration du sacrifice impose au peuple corse reduit d un sixieme par l epouvantable saignee devaient faire poser la question corse a la conference de la paix jean maki de suivi et boss presentent une petition couverte de nombreuses signatures et reculent de m wilson plusieurs lettres la petition de jean maki et de boss signalait l etat lamentablement de la corse demandait la revision du traite franco genie de compagne et attirait l attention de la conference de la paix sur la clause del risotto qui pourrait permettre aux heritiers d genes de racheter la corse en re bourrant les sacrifices en argent d la france qui sont de fort petite im partance en regard des sacrifices e sang de la corse  pendant la guerre henri d organe officier a l armee d orient me declara songer a l organisation d un mouvement protestataires et arrighi de casanova duc de plouc m exprime son accord pour unecampagne autonomisteetme declara son vif desir de participer meme a un mouvement separatiste violent mais mon malheur veux ami qui pour l honneur de sa famille et de sa race se battait en officier valeureux fut tue en serie en 15 16 et 17 magistrale mena le combat avec son organe a corrida la guerre finie jean maki pierre bernard et moi menaces une tres vive campagne dans z echo de la corse et paris corse ouverts a nos idees par p o poli et gaston colombani aux observations que certains lui firent p o poli replique qu il ferait du separatiste puisque les moyens legaux et parlementaires ne recevaient point la corse jusque la le mouvement regionaliste mene en desordre et sans liaison par desindividualites avait trop souvent depasse le cadre francais pierre rocca qui par son livre les courses devant l anthropologie avait donne des 1913 aux regionales tes leur meilleur argument decide d unifier la doctrine et de discipline les efforts il fonda a cet effet a mu va avec mathieu rocca comme re docteur en chef et rallie en peu d temps tous les vrais regionalistes depuis la corse nouvelle de frederick et de marchent la nou ville corse de jean maki les societes l academie crea et a longue crea de magistrale et de s casanova ont renforce l action regionaliste litteraire ou politique se lin le cas sur le continent nos amis leva r arrighi et bonifacio menent le bon combat dans l excellente revue l alors et l almanach l anti car il ne restait plus qu a organiser la propagande dans le cadre d un parti pour mener un combat farouche contre les clans leurs politiciens et leurs journalistes desagreges en outre la fondation du partit cru d zone pouvait seule permettre de discipliner en les mainte tant dans le cadre francais les midi tant les plus ardents du regionalisme u partit cru d zone dont l effectif augmente de facon impressionnante a donc marque par des statuts moderes tune propagande bien fixee l abandon de l action desordonnee ou violente des premiers regionalistes pour une action organisee soutenue et discipline dansle cadre francais nous desirons loyalement tenir de la france notre statut d autonomie e esperons etre compris des autorites delegues dans l ile a court d arguments des politiciens des clans des renegats et des ignorants essaient de jeter la suspicion sur notre mouvement qui tend a les eliminer de la politique corse aussi avons nous tenu a preciser de nouveau nos intentions elles parent avec les declarations de monsieur i president de la republique l avenir n est interdit a personne
+    </p>
+    <docAuthor>
+     Orsini d'Ampugnani
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="fr">
+    <p>
+     les courses les italiens et les francais sous ce titre suggestion le petit ma veillais edition de la corse du 4 he virer a publie un article assez venir veux on ose y affirmer que nous e prouvons du mepris a l egard de la na ton italienne e se de il m arrive parfois de lire le petit ma veillais ce journal ne m interesse guere jet lecture me donne autour hui l occasion de repondre a son correspondant ajaccien i i m leon maestrati auteur feconde je l avoue manie bien la plume et si je ne craignais de le peiner j ajouterait qu il estomac venu de se croire le porteparole de cornes cu une hirondelle ne fait pas le printemps et le petit marseillais qui n est pas un journal de chez nous ferait bien mieux de ne plus discrediter la corse revenons a m maestrati et abordons de plain pied le vif du sujet a l entendre les torses en fini que francais eprouvent pour le peuple italien des sentiments de fraternite latine mais lorsque ils jugent les italiens de leur point de vue il est exact de dire que ce n est pas de la facon la plus sympathique les courses n aimeraient donc l italie que pour l appui qu elle donne a la france au moment du danger mais il y a un mais une telle restriction est odieuse dans la bouche d un corse et il taut avoir vraiment perdu le sens commun pour afficher un realisme qui ne s accorde pas avec notre caractere nous n avons pas l habitue je pense de dire a un homme dois de chez moi tu es mon ami chez moi tu ne l es plus m leon maestrati ne justifie pas a nos yeux il abime latin qui script bis ledit je lui conseille de se relire avant de remettre sa copie 11 n us virerait ainsi beaucoup de choses 1lesaercables i 3 u ts  libre a lui de juger sandra ou bar 5solini sous un angle strictement perso ne mais qu il ne vienne pas nous di e que la corse considere le peuple i lien avec une hauteur distante 1 c est preter aux corse des sentiments ho ailes qu ils n eprouvent pas envers la grande nation soeur l italie 100 je lui concede volontiers que des it liens d immigration assez recente de viennent aussi courses que les corse autochtones cela prouve que v assis nation ethnique se fait rapidement entre courses et italiens j mais comme ilsrecoivent des l enfance une education toute francaise il leur arrive de ne pas voir l italie telle qu elle est  i il ne faudrait pas que paris nous fasse oublier rome nous autres courses nous avons donne plaintes preuves de fidelite a la france mais qu on nous per mette aussi de jeter un regard sur l italie cette noble nation dont le role glorieux est atteste par vingt siecles d his boire rome pendant longtemps fut la maitresse du monde et ce flambeau brille toujours d un vif eclat les retabli que italiennes du moyen age furent non seulement un foyer de culture et de progres au milieu de l anarchie universelle mais elles accueillent dans leur sein tant de courses aventureux i l italie de la renaissance fut l une des plus belles floraison de l esprit humain comment ne pas aimer et admirer e peuple qui a produit des genies si purs dans les lettres et les arts m maestrati nous parle de l egoiste italien sous sa plume egoiste est synonyme d ingratitude puis je me permettre de lui rappel les services rendus par l italie a la face au cours dela guerre en 1914 l italie aurait pu marcher avec les empires centraux elle prefera rester neutre et cette bienveillante neutralite rendit possible la victoire de la mer ne il n est pas besoin d etre grand stratege pour comprendre que le contraire nous eut valu une double et mortel invasion par la relique et les alles en 1914 au moment ou la russie mi nee par la trahison chancelant sur tous les fronts l italie entra en lice et nous sauva de nouveau en 1918 le 4 noraimbre exactement par sa victoire de victoria venez elle mit a genoux l empire autre hongrois et cet evenement memorable provoqua deux jours apres revolution allemande ou est donc l egoiste sacre de italiens n ont ils pas donne la preuve manifeste du haut ideal qui les a toujours guides parler d eglise c est soulager la memoire des 600 000 soldat italiens tombes pendant ia guerre c est blesser l amour propre d un peuple jeune et fort qui a fait beaucoup pout la cause du droit et qui peut demain encore faire pencher la balance du destin serions nous assez vils et assez laches de renier la nation qui fut le berceau des a eux de la plupart d entre nous les canadiens francais n ont i s pas malgre l espace et le temps conserve pour la france des sentiments de piete filiale sui les honorent mi un e nous autres courses ne devons nous pas avoir les memes sentiments a l egard de l italie beaucoup de voyageurs etrangers visitent la corse terre classique des miles vertus ils sont frappes de l abandon et de la misere ou nous croupissons is s etonnant de nous voir epouser les querelles de partis qui divisent la vieille france nous avons autre chose a faire pour relever notre malheureux pays et ne laissons pas se repandre cette opinion que nous sommes une race dechue un peuple de mercenaires n ayant
+    </p>
+    <docAuthor>
+     Eugène Grimaldi
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     era a u tempu spinziratu di a me rita ica  e curriu diciot anni  comme tutt i  cullighianti di a me ita  aviu u ciarbelle un supulu annivulatu a rumantesimu  aspissu  mi ni scapaiu verzu casone   tantu suminatu a sonnj di namurati  e cula  sutt a u parasolu capriciosu di un alivi  davanz a largura turchina di a cala aiacinca  mi accadia di scrivaciula calchi rimmi a una milusina di a me  magi nazione   parchi  cioli a di che mi figuraiu sem pri di scopra a cunfidenta di i me tessuli a cumpagna di a me anima  infini a sant chi avariu aduratu tutt a me vita   e sta santa  una bel sera mi si affache ti a u balconu di un palazzettu di i l intor ni  e u me cori  prontu a impueta igni co sa  li deti subitu i tratti e la ingermatura di una fata     bb sta santa  una del sera miu si allai a u balconu di un palazzettu di i l intc i  e u me cori  prontu a impueta igni   1  li deti subitu i tratti e lu ingermatu  una fata    mis  fe de era junta  sta fata chi si chjamma nreadea  da un paiese nurdincu dua sli e sempri bughju e u mari invitrat ella  cu iso ochja sunmiosi  culor nu   a so boci a lu accentu stragneru urtaia comm ellu si dici  u paradisu     eju mi ne innamureti comme un  puetu si innamora di una fiurareila apiattata o di un undiana di calche fola       e tuit i jorna  dopu meziornu  nanzi di andamini a u culleghiu  mi ni viniu sulingu a stughiacia  annant a la arba tennara di i prima fiurituri di aprili  e quan   da u balconu di u palazzettu si apria un  anghjcula par lascia bulassine una boci amalincunita di ghiuvanetta  mi sintiu u    cori gonfiu a sullevu      e a me musa chi  u cunnosci be su me cori  si avideti chi ella era cascatu inn innamuramentu pa a bionda  annadea        un ghiornu chi ci scuntretimi sutt a alivi  ella a pinnellu in manu ed eju magacendu calche quadrinu senza sale  ci parletimi comme se ci fussimi capiti r cunnisciuti da mori    o uu    e  una sirintina infusa a luna tepida  comme li dumandaiu si ella mi ammaia mi arrisposi inrussulita          cusi passo tutt a longa misata di maghiu e cun spavichju  vidiu accurtassi a fin di junghju in chi a so pruscissione di esamini chi lampanu u sbelu a  tanti poari stughjanti   mi cunzulaiu  pinzendu a annadea  e nant a i me libra  inni scola quand u prufissore si sgalinaia a faci inghjuta calch  amaru teuremu  eju ne u me catagnu che rivegu sempri anc ava  mi arrimintaiu cu  dilettu  li ori chi aiu sfiuritu accant ad ella   mi cunzulaiu  pinzendu a annadea  anta i me libra  inni scola quand u prufessore si sgalinaia a faci inghjuta maru teuremu  eju ne u me catagnu vegu sempri anc ava  mi arrimintaiu ilettu  li ori chi aiu sfiuritu accant ad elle e inveci chi u me spirtu si ne andaia uvalla sutt a li alivi  mi sintiu fala core una piscia jilata quand u prufissor veru  mi lintaia     susini  a u tablea u allora a me  boci si impastughiava ti firmaiu imbrulghiatu senza sape p   allora a me  boci  si impastughiava  e mi firmaiu imbrulghiatu senza sape  piu chi di     e rincatagnaiu a me piazza cun quattrori di ritinuta   a mattina di u baccu  nanzi di entra   am adea era attorr a me par incuraghjmmi     di i  a rivegu sempri dindumi  i se ochja impicigati a i meia  i    aghia priga  par te  u me filipu   ma malgradu a so bella fede e tutti   ammore  ne fu conzulu pa un fiascu mi avilano a pigondria          e quilla sera  allora chi u mari ci annanaia  e chi a  juna ci impumpunaia a son  niu  eju p a prima volta  intesi inni me  schinca  zivula u pinzeri  di un avena mal siguru      o  e i me basgia fumi tristi   tristi comme i singhiozza che assuffucaiu        un etima dopu mi ni rivultaiu a u paiesu  veduvu di ammori e di spiranizi   annadea  ella  si ne era partita cu u so babu a soda u friscume di altri climi par morassine  calchi mesa piu tardi  inna so luntana  tarra nurdinca    ed eju  culilighiante senza lora  anfarte scunzulatuami ni stava li urati e li urati   adibichia   da nant a un cantonu arbaciuta  li ultimi farati di u so e chi sini mucia  supr al cacculi immalmati di i cuatorna    inveci chi u me cori  simul a una barabulella pelegrina si ni bulaia cola  sutt a u parasolu capriciosu di li alivi chi vista nascia u me prima aminore   
+  s
+    </p>
+    <docAuthor>
+     Marco Angeli
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

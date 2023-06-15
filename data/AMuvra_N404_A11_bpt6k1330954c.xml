@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330954c
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330954c
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 404 | Année 11
+     </edition>
+     <date>
+      1930-06-15
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     annu XI — Numaru 404 Esce a Dumenica Dumenica 15 Jugnu 1930  dà à niu i È Mi ei È À A pi | eco CONTE  GIURNALE DI E, PIEVE DI CORSICA  ABBUNAMENTI :  in Corsica. . . . +. +. + . .. .. 15 franchi  In Francia... . .......... 18 »  Unione postale . . . . + . +... . . 30. »  U Numaru:5 soldi  Direttore : Pr ru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 38. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     u regnu di satana  tempora revoluta sunt    u ciclu di infamia di turpitudine e di corruzione predettu da tante vecchie scritture  da tante prufezie apocalittiche  e oramai apertu    in questi tempi  ci assicuranu li omi di diu  li istinti di a bestia guidata da u spiritu di y male  avaranu raghione di i dritti di la onesta e di a fede  ciocchi vale a di  chi davanti a valanga di depravazione e di viziu  lu omu onestu si firmara cume scemu  e lu omu di fede avara tortu di prega e di spera     u mondu interu sara in preda a e malversazione di ogni sorte e di ogni carattere  e vergine saranu viulentate  e donne oneste ghiucate a u sgiasgia  e  sottu a u sguardu di a multitudine di i populi sottumessi  a grande meretrice  triunfara   razze aspre e forte  esperte  in tempu di una volta  inde le arte di marte cume in quellu di cere  trafalaranu in mezzu a scandali e abusi di ogni catteguria  inseme cu e donne di mala vita  un ignobile briachezza  una vergugnosa passione per u jocu e per i maranghini  saranu a causa di a ruvina di molte famiglie  di innumerevule creature dutate di  intelligenza o di talentu   e cusi  u regnu di diu duvara cede    per un mumentu  u passu a quellu di satana      tempora revoluta sunt    in corsica cume altro  a bestia scatinata ha istallatu u so  duminiu di orrore  di vargogna e di spaventu  e cusi feroce  sta bestia  chi ancu u piu curaggiosu un po guardalla in faccia senza trima interiormente  a paura chi ella inspira si spiega da u fattu chi  pocrizia e menzogna so i dui capisaldi  i dui punti fundamentali di u so  regnu e di a so  azione  di modu chi lu omu onestu  a parsona scrupulosa  ancu dutata di e piu sane e virile qualita di a razza  un po che fermassi stupida e immobile in presenza di a bestia immonda   a vede u nostru paese abbandunatu a  fantasia velenosa di satana  u core si stringhie  ma  ancora una volta  a corsica un po francassi di u carattere ineluttabile di certe prufezie  cume tanti altri paesi  bisogna chi ella senti e granfie diabaliche ficcassi prufundamente ind e so  carne dighia  marturiate da u farru di le invasione e di le oppressione   forse chi certi un saranu troppu suddisfatti di sta cunsulazione filosofica   satana operendu in corsica piu acutamente e   in apparenza almenu   piu irrevocabilmente che in qualunque altra terra  e  si noi duvessimu da ascoltu a sti pessimisti  nissuna speranza ci ristaria di vede finisce u nefandu regnu  le anime e i cori  ind a nostra patria  so troppu avvelenati  troppu abbughiati  par chi omu intravedissi u jornu di a riscossa  satana si e iroppu be arradicatu ind e nostre macchie  inde i nostri rughione  par chi ellu sia oramai pussibile di scacciallu  e almenu ciocch elli pretendenu i rassegnati  i scuraggiti   un si avvedenu mancu stampa chi  raghiunendu in stu modu  elli si facenu i complici di u spiritu di u male  u quale riceve cusi una specie di apprubazione tacita per tutte e so  scellerataghjne  tutte e so  sevizie   noi  chi  invece  avemu a furtuna e a fierta di cunserva ardente a fiaccula di a fede autonomista  un pudemu  senza scunfessacci noi stessi  fa prova di tanta rassegnazione   chi ella trionfi puru dunque a bestia feroce e disgustosa guidata da satana  chi ella trionfi inde i jazz di i caf conc  e di i casinos  in mezzu a e strane e erotiche meludie  o attraversu u velenu di u pastiss o di a chansonette  suave  e virile ind u stessu tempu  a nostra instancabile preghera cursista cullara versu un celumumentaneamente annivulatu     inno  u regnu di satana un  sara micca eternu in corsica    e questa a nostra profonda cunvinzione  u gridu di speranza chi ellu ci pare di lampa in un atmosfera densa di jasteme  di maledizione  di rinunciamenti   u fattu chi satana  in corsica  ha elettu domiciliu inde a pulitica custituisce  certu  una cumplicazione  ci ne rendemu perfettamente contu   in sta manera  un regnu misticu trova appoghiu e risorze inde un duminiu essenzialmente pusitivu e reale  quandi u diavule si vede minacciatu inde a so  duttrina  chiede ajutu a i puliticanti  e viceversa  quandi i puliticanti induvinanu qualchi manovra tendente a dannighia i proprj interessi  si voltanu versu satana  depositariu di a manna mistica necessaria a  schiavitu di u populu      terribile alleanza  questa  a  quale  pero  a ripetimu  un ci impedisciara micca di prega e di spera   tempora revoluta sunt   satana si e scatinatu per questu povaru mondu  e piu particularmente in corsica  malgradu una cusi dulurosa custatazione  a nostra speranza in un mutamentu di cose e mutivata da u fattu chi i stessi scritti fatidichi chi predicenu u regnu di satana  annuncianu puru a so  finale scunfitta   dopu a notte tragica e ingluriosa duminata da le infernale orgie  i nostri cori  si elli dimostrant pazi    a  assistaranu infine a   alba radiosa prumessa da i altissimu a tutti li omi di fede e di bona vo lunta  satana duvara ripiglia u so  postu inde a geenna di focu  senza chi ellu ne possa maipiu esce   e allora  u regnii di a pace e di a justizia si iniziara in corsica 
+  s
+    </p>
+    <docAuthor>
+     Petroniano
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     ideali pulitichi  tuitu ideale puliticu  qualvoglia ellu sia  e rispettevule inde quellu chi senza vile interessu  o ambizione qualunque  u seguita e u pruclama a faccia aparta  dendu cuntinue prove di u so  attaccamentu  all oppostu  quellu chi un ne pussede alcunu  e per tornaconti materiali o altri si melte una casacca nova ad ogni fa di luna  deve esse scunsideratu ogni volta chi ellu vurra esprime in publicu 6 per iscrittu st idea chi unn e che passaggera per ellu e chi un la infoca che superficialmente per isbaglia li altri    tuttu u studiu di st ultimu sera dunque di circa a sapessi copre ellu stessu  e di cumbatte vilmenie cu le arme e piu disleale quellu ricunusciutu sinceru piu che ellu a una dultrina  per diminuiscelu a li occhj du u publicu  ma stu publicu chi suvente judicheghia fendu orecchia sorda a tutte e requisitorie  ricunosce semplicemente chi u biasimadore un mette in luce che u propriu ritrattu  per cusi di  di a so  anima torbida e currotta   le ideale puliticu essendu dunque una bona cosa chi permette di discute e di judica senza letega  di ritruva sempre lu amicu inde lu aversariu  duvia pocu fiurisce in corsica duve un pessimu regime  oppostu a tuttu prugressu materiale e morale  un permette di germuglia che a e cardacciule e a i lamaghioni di a puliticaccia   ad ogni inzuffata eletturale   e so cusi frequenti per nostra sfurtuna    videmu le incuscente elettore pruclamassi semplicemente cusistu o cutalistu  secondu chi cosu o cutale riprisenteranu per ellu u bursellu a manica a pensiunella ou frisgittinu  e cumunemente  videremu cusi parrubbaiu cunsumatore appughia u piu rapace marcantuzzu  donestu decadutu arrimbassi a u gonfiu pidocchiu rifattu  u bassu populanu anda di punta a u piombu per le incurriggibile feudale  u sacerdote sustene u piu sfacciatu anticristu  perche  un si tratta solamente di esse per un sgio cosu  ma le impurtante e di esse contru u sgio cutale  per un mutivu cuntrariu a  quellu chi omu esprime ad alta voce  ma chi nissunu crede   stu statu di e cose ind u  nostru disgraziatu paese duvia sicuramente purta i catelli muntanini di a pulitica a ghiudica u so  circondu secondu elli  di vede a pelle di li altri carca a listessu milingu e a listesse tacculature  unn esistendu  per  ssi sculuriti  ne bianchi ne rossi  ne inaculati ne triculori franchi  piu pocu pudia esiste non piu autonomisti in  una corsica digia male cusi  dunque beghiu si ella fussi abbandunadi so  propria sorte    ma partendu da ssu principiu  chi la aulonomia un puderebbe micca riesce a imbucca tutt i corpi famiti chi unn intendenu vule fa alcun sforzu  si va sinu a tassa di scimizia stu perfettu ideale   or cume scemi un ci ne e piu a stu mondu   so sempre i nostri detrattori chi parlanu   i pratesi autonomisti  chi unn esistenu   si servenu di ssa paraventula per suttra e danaru e spera altru  oghie da la italia cu e so  viste di annessione   dumane da falemagna per listessu filu che quelli di colmar  darretu da mosca per a terza internaziunale  dopu   qual e chi sa     forse da i gandhisti    un ci e dunque autonomisti  or perche parlanne tantu e richiede legge nove per falli a caccia    un ci e che antifrar cesi  ma per quessi marianna un deve manca di leggi  u regime  unicamente ricunusciutu pu liziottu  duvaria opera   si ell unn ha ancu abbastanza operaiu     ma inno  li autonomisti ci so   piu che chi vo  un pensate  o detrattori sculuriti  e ci ne e molti ancu fra i miseri chi u regime ha messu in obligu di serve per un pate  so quessi chi a maffia vurria culpisce e chi voi aliri  tutti seguaci o intimuriti da a detta maffia  vurriste veste cu i vostri propri stracci   ma vi tenerete ssu stumbone in lu vostru sturzile  sin a u jornu chi no  parleremu  chi noi vi suffochereinu dopu avebdi permessu di cuntacci   e in ssu jornu chi unn e tantu luntanu  serete obligati di ficunosce chi ellu po esiste un ideale puliticu  u cursismu    e voi sareste stati tuttu cio chi omu vole  ma sopratuttu anticorsi   
+  s
+    </p>
+    <docAuthor>
+     Altore
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     lettara da parigi  caru pipistrellu   vengu di riceve a to  lettera duve lu mi dici chi sei slatu un pocu malatu poveru amicu   ma speremu chi tuttu andara be avale     qui unn avemu a lagnacci  semu parecchj corsi in listessu casameniu  ed e par noi un gran piacere di pudecci riuni a sera e parla di la amata patria  sp  figurati chi vicinu a noi ci sta una famiglia   corsa  ben inlesu   u babbu  a mamma e un zitellu di quatordeci anni chi unn e ghiuntu qui in parigi che dapoi lugliu  dopu pigliatu u so acertificatu di studiu    se  una sera in veghia dumandai a u zitellone  dopu avellu felicita tu  per quale materia ellu si sinfa u piu di forza  avendumi rispostu chi ella era in storia  curiosu  li feci sta quistione  o     puderiste parlammi allora  o chiu  di a battaglia di pontenovu   pontenovu   sottu chi re      sottu luiggi xv   u zitellu mi guardo stupitu     cume  dissi  un sai mancu chi pontenovu fubbe u locu duve un pugnu di corsi  contru millaie e millaie di suldati di u re di francia  luttonu per mantene una indipendenza e una liberta  chi fiume golu si paro attempu a i se  corpi lacerati      ooh  innook      caru pipistrellu  eiu u scusu stu povaru zitellu  so be chi ad ellu  cume a me  cume a te  nissun maestru ha mai parlatu di quella stragge  ci imparanu inttu forche a storia di corsica  soga perch ell e troppu bella     ebbe  si tu sapissi  caru pipistrellu  cum ell e cuntentu ava chi li aghiu rigalatu una   storia di corsica di p  di ci   e che a lu insegnu ein  face cume aghiu fattu eiu  cum elli so stali e saranu obligati di fa tutti scularelli corsi  ampara a cunosce u so  paese fora di scola   ma chi vulunta di sape e di apprufundisce ci vene dopu   cume me  duvarianu fa tutti i nostri fratelli di fede autonomisti  nsigna a iso  figlioli e a quelli di li altri cio chi ella 1u a corsica  cio chi ella e  e cio chi ella duvaria esse dumane  si diu permette chi una bandera bianca a testa di moru sventuleghj dino sopra i nostri monti   i zitelli un devenu manca in lu to  carrughiu  un bisogna aspitta chi ella li pigli a disgrazievule passione di parte fora per fini di intusicassi    basta per oghie  altre nutizie unn aghiu a datti   ti basgiu fraternamente   u to  amicu e cumpagnu di fede 
+  s
+    </p>
+    <docAuthor>
+     M. Alessandri di Chidazzu
+    </docAuthor>
+   </div>
+   <div n="4" type="poe" xml:lang="co">
+    <p>
+     scappani     cu la parola e ja penna  oratori e ghiurnalisti  ognunu a la so  manera  fanu chiama a li turisti di vena in fisula bella a veda li maravigli unichi di quistu mondu    i furesti profumati   monti cintu e lu rutondu   cosi chi unn ha che ella   tant e molti stranieri   sottu sti prupusizioni   ni pigliani lu batteddu  pieni di bon  intinzioni e di idei generosi     ma  missu lu pedi in terra e cuminciatu lu jiru   qui ni cumencia lu teni   e qui cumencia lu tira  cosi piu maravigliosi   a  gni vultata di rota sentini strappa lu fiatu    a la prima cuddazioni   u bursellu e allibratu   e pensani a jn ritornu   nun sentini piu prufumi  nun vedini piu nieuti   e si ni vanu dicendu a li amici e li parenti  fornu  foran  piu ci tornu    oratori e ghiurnalisti   u fucili e mal piazzatu   cambietilu di spadda   tireti versu lu statu chi eddu si pigli primura di rifa li nostri stradi   e lu nostre  ustariaghju chi eddu nun cogli li fiori sulamenti che di maghiu   e a pera quand e matura   si  di san jorghiu
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="5" type="poe" xml:lang="co">
+    <p>
+     rughjnosa   per cumbatta la annoja  chi mi pigla  a mio capra  oghie  vogliu canta   e a muvra vogliu folla rigistra  perche su di la listessa famiglia    di nome ella si chiama  rughjuosa   e bench  na sia duianninca e maglia  videriste cum ell e sempre in laziu    alpestra sgnaltrissim ecapricciosa   ancu st enna fece un par  di capretti  e per cuntenta vecchj e zitellelli  ci du latti senza mai di che nu   pe  froncalla da lu occhiu la me sgiocca  cume i vecchj  li stuperaghin in bocca   chi diu ti benedica  o  rugbjndst
+  s
+    </p>
+    <docAuthor>
+     U Fiumurbacciu
+    </docAuthor>
+   </div>
+   <div n="6" type="cha" xml:lang="co">
+    <p>
+     cantu di esiliatu    cursichella  tu ne sei  di u mondu la piu bella     luci cume una stella  PS in mar tirrenu   sempre pensendu a te      cara patria meia    sentu a malincunia     crepammi u senu   quande u mare in timpesta porta luntan  luntanu    vers u to  ciel  serenu     un bastimentu    pensendu a quelli loghi   che aghiu sempre amatu     u mio core esiliatu  pienghie  cuntentu   o terra di alte muntagne  terra di larghe piane     eiu un piangu che a tene ti a notte  u jornu      ma ne riturneraghiu     lsperu prestu prestu   4 nu locu chi aghiu elettu ... pe u mio suggiornu 
+  s
+    </p>
+    <docAuthor>
+     Diunisu Paoli
+    </docAuthor>
+   </div>
+   <div n="7" type="art" xml:lang="fr">
+    <p>
+     pour les sinistres de castelvecchio sur la convocalion de m le maire d ajaccio les notabilites de la ville et les direeteurs des journaux se sont reunis le 44 juin a 47 h 30 dans le cabinet du maire en vue de constituer un comite charge de recueillir des fonds en faveur des sinisires de castelvecchio et de le leur distribuer  la presidente d' honueur de ce comitea ete acceptee par m le prefet de la corse monseigneur l eveque d ajaccio et m le mais re d ajaccio la presidence effective en a ete offerte a mme de bonavita presidente du comite d ajaccio dela croix rouge francaise qui a bien voulu l'accepter  m jules luciani secretaire general dela mairie a ele designe comme tresorier  le comite fait appel a la generosite eta l esprit de solidarite sociale de la population ajaccienne en vue de subvenir aux besoips urgents des quatre vingt onze sinisires ouvriers et petits employes pour la plupart que le sinistre du 14 juin a plonges dans le plus complet denuement  il fait particulierement appel a la presse aux cheis de service aux presidents des syndicats et des associations aux proprietaires des etablissements ouverts au publie en vue d ouvrir des souseriptiens et d en verser les fonds dans la caisse du comite  a l heure uctuelle le comite a deja recu la somme de cinq mille franes qui seront distribues aux personnes les plus necessiteuses samedi prochain a 47 h a la mairie   les noms des souscripteurs et le montant de leurs offrandes seront niterieurement publies
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="8" type="feu" xml:lang="it">
+    <p>
+     anche ad ambrogio  venuio come trombetto  tocco il benefizio del vento mutato  sicche invece di un nodo scorsoio ebbe in regalo dieci   juigi nuovi di zecca  che fece proposito depositare nella cassa pubblica  ma poi in onore del vero gli rimasero in tasca   tulta colpa  gia si intende  della cattiva memoria   altobello compito il comando iorno in camera dal generale scorato   cosi appariva nel sembiante disfatto  che il padre bernardino non pote astenersi da domandargli se si sentisse male     ohime   rispose altobello  noi non possiamo piu vincere        gia  proruppe il frate dabbene  nei decreti della provvidenza  per dio santo  dacche me lo fate dire  non ci ha anco lello nessuno   e dei miracoli se ne e visti anche ai di nostri  non cie stalo un david solo che abbia rotto la testa a golia   ed un popolo  fermo davvero a non lasciarsi vincere  sovenie opera miracoli da per se senza incomodare dominedio   ad ogni modo ci rimane morire      morire  morire  riprese altobello facendo spallucce  e il frate erucciandosi piu che mai gridava con quel suo fare avventato      certo   morire  per la immacolata   cosi disse leonida alle termopili ai suoi trecenlo  e nessuno fece spallucce   e chi era leonida   un pagano   e che disse ai suoi irecento   sia sera cenerele mecn  domani ceneremo tulli a casa del diavolo    mentre io posso assicurarvi altobello  che morendo per la paivia voi andrele a cena con gli an gioli diritto come un cero   e altobello     e  non e per questo che io parlo  bensi perche pensava che la patria si aspeliasse da noi qualche cosa meglio che morire     e ancora io lo penso   pero  figliuolo  io vo che tu sappia non essere cosa di piccolo momento lasciare a cui viene dopo una vendelta da compire   i figliuoli non possono davanti agli uomini  e ne davanti a dio ripudiare la eredita sanguinosa  datagli una grande stretia di mano se ne ando  pei falli suoi    altobello quando entro nello studio del paoli lo rinvenne sempre inteso sopra la carta geografica   appena ei lo avverti  rizzossi in piedi  e tale prese a parlare       lo non comprendo niente nell ordine di guerra del riostro nemico   affermano moversi in tre colonne  una nel nebbio  e sta bene  l al  tra per ia forra del golo  1inalmenle la ultima contro la casinca   si pare che non sappiano  forra del golo che sia e non iemano inconiratci ostacolo  oude scorrendo fino alla  costiera pigliarci alle spalle se con  trasliamo nel nebbio  tagliarci la rilirala se indietreggiamo   meglio cosi  se il lradimento non ci consegna a mano salva in potere dei francesi  potremmo anche sgararla  accoslalevi  altobello   se mai venissi a mancare  perche i casi della guerra imporla prevedere lulli  e per me non sono i soli che io deva temere  giova che voi conasciale i miei disegni e procuriate mandarli a compimento bisogna chei palriotti sgombrando subito il borgo si affrettino a ingrossarsi al ponte in foce di golo  e quivi alzando bastie e terrapieni adoperino ogni industria a ributtare il nemico dalla casinca  da cio due sequele   o il corpo nemico si ferma in capo al poule  o si ritira in bastia  e tanto minori forze avremo a combailere noi  ma questo non sembra verosimile  bensi repur to certo  che ei si unira alla colon  na la quale per la forra del golosi avvisa pigliarci alle spalle   se cio avviene  erat in votis  ora passiamo a  nebbio   qui andranno piu ga gliardi  perche per primo scopo con lo stare forti in patrimonie e in barbaggio vorrano separarci dal capo corso  e questo dubilo che sia per venire loro conseguito con molla a  gevolezza   e poi mireranno a spazzarci via dal nebbio cacciandoci dalla costiera di lento a canavagsia giu per la vallata del portenuo   vo  le forze non ci bastano a tutto   intorno a patrimonio e barbaggio  dopo avere sostenulo il nemico irrompenie quanto desidera le onore della milizia  i nostri si riliriio  6 rapale e murato  e si uniiscano agli altri a san pietro per  difendere le bocche di tenda  alzino terrapieni  assereglino strade  meitano travale alle case  i ponti rompano   ad ogni costo sisforzino sosienersi   avendo a cedere  riparino al campo trincerato di santo nicolaio  non si polendo reggere ne meno a san nicolaio  scendano giu per la costiera gellando rinforzi in lento e canavaggia  qui poi bisogna ienere fermoo morire   pero siudiate mandarci in fretta le robe e gli nomini che vi ho minutamente distinto nell  orline di numero 9  quanti ron capi  anno la dentro si riducano a valle   e passalo il fiume a pontenuovo riparino sopra la destra sponda del fiume  per ora basta cosi  commetlo il mio quartiere generale a murarato   dovendo lasciarlo lo trasferiro a rostino  laddove ci possiamo mantenere nel nebbio meglio che mai  se non possiamo  ecco la missima parte dell  oste francese stipala nel7 angusla e dirolta valle del golo  bra la corsica la tiene nel palmo della mano  solo chi  ella stringa le dita con lo usato valore ed eccola soffocaba   dalla destra le rovescio addosso i popoli di casacconi  ampugnani  santo antonio e santo angiolo co  circostanti paesi  a sinistra quelli di  bigano campitello scolca  volpaiola  e vignale lama  pietralba e ortenga di faccia  tutta la casinca alle spalle  padre bernardino e gia in via per letere bene edificati i popoli di casaconi e delle pievi convicine  ora voi pigliate tutti quesli ordini e speditedi  procurate affidarli a giovanotti  dalla gamba destra e dall  occhio acuto  sapete a cui potete fidare      quanto a cio non dubitate   e cosi rispondendo altobello pensava a tali di cui il nome dovrebbe leggersi nel calendario dei popoli liberi e che pur troppo nun vi si leggono  imperciocche i popoli di europa fin qui liberla che sia veramenle non sanno e calendario non poseggono  per ara e fuoco di paglia  forse avverra diversamenle piu tardi  e si avviava  senonche lo trattenne sopra la soglia il generale e dolcemente richiamandolo aggiunse   altobello  il dovere di cittadi no e la stima di amico mi persuadevano prima della spedizione di cotesti ordini a domandarvi se al vostro giudizio si fosse alfaceialo parlilo che vi paresse migliore per sal  vare la patria     rispondero leale come merita la leata vostra  ho sovente dito dire dal mio zio ed anco rammento avere letto  che sampiero  il quale fu eccellente maestro di guerra ai tempi suoi  diceva che le vere ter mopili della corsica erano alla stretta di omessa        ed e cosi  ma sampiero non si trovava con cinquaniamila vomini su le braccia da combattere   le artiglierie si traltavano allora con poca industria  massimi nei monti  ne aveva la corsica intera a difendere  per sostenermi a oniessa contro il de vaux mi decorrerebbero venti cannoni  munizioni in copia e artiglierie capaci   tutta la parte della isola lasciala scoperta  cedendo alle corruttele francesi  perderebbe le amore della liberta  di amica la sperimenleremmo nemica   a sampiero non capilo mai di vedersi cosi com  io ricinto da tutte le parti  finalmente omessa ci rimarra sempre per ultimo partilo  quantunque io tema forte che questa sia e ultima battaglia che coinbattiamo  se la fortuna ci si mostri contraria     il conte de vanx ton ventiquattro baltaglioni di fanti e lulta la cavalleria  eccetto la legione di soubise  stanzio ad olelta  dove avendo conviato il 3 maggio a  festivo  pranzo gli ufficiali superiori  levate le mense commise che con le arliglierie facessero gazzarra in segno di allegria per la vicina battaglia  invero all  alba del giorno veniente egli mosse con parte delle milizie ad assalire rapale  allre ne mando verso san piero e altrovea scorrazzare il paese per prendere lingua delle opere di fortificazione coslruile dai corsi  e dei difensori di quelle  certo pertinace fu la resistenza dei virtuosi capilani colle e pelone a rapale  pero non si deve credere che sarebbero stati bastanti a ributtare i francesi dove questi avessero deliberato di spuntarla  al contrario deve credersi che il de vaux  uomo rolto agli scaltrimenti guerreschi  a questo modo operasse per indurre i cersi nella fallace opinione chi ei tornerebbe ad assalirli in quel punto nel giorno venienle e cosi divertirli da murato dove inlendeva operare ogni suo sfoizo  pero non si deve tacere che il paoli  sia chesi accorgesse dello straitagemma del nemico  o no  difettavava di for ze per fronleggiarlo in due luoghi    anzi dove quegli appariva piu debo le  pure era tanto da vincerlo tre di  numero  la mossa di murato minac ciava tagliare il paoli fuori del centro della isola  ricacciandolo nel nebbio  nel capocorso e verso bastia in  mezzo al nemico grosso e padrone delle fortificate  non ci era lempc  da perdere  dato dunque il segnale della raccolta  si ritiro con sollecili passi al campo di san nicolaio  dove potendo avrebbe volulo soslenersi  ma il capitano di francia inseguendolo stretto non gliene diede abilita   e poi il campo di san nicolaio  ottima positura per chi puo campeggiare ad armi uguali al nemico  non apparisce fornito da veruno dei naturali vantaggi  onde si reputa dai maestri di guerra un luogo alto alle difese  perianto il paoli ebbe anco di li a sgombrare e ioslo   per questa mossa si lrovo separato dal nebbio e dal capocorso  dove i popoli stavano in aspettativa per sollevarsi  se non che   vista poi la mala parata  cagliarono   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     sogni e realta  abbandona lu sognu   e sempre vanu di a giuvenile fiara di u to  peltu  gol e lu fume chi  sopra lu lettu   y ventu torce eppo  spazza luntanu   ma cumu   senza sogni chi e la vita  le amore  di illusioni chi lu spogli   e perche mi dev esse pruibita  a corsa in st occanu senza scogli    ah   parte in le campagne  a le ore helle   chi la sera si move carezzente   u sguardu in la uria rossa di u ponente    cor le  tette e  seple da lu so  cor nasce le stelle     arrimpicassi sin a qualchi zenna e viula lu regnu di le altagne    duminendu le creste di e muntagne   pissi   oh   quant e povera la penna    a fronte in celu  cume un dio  slassi cunsiderendu inghio lu insettu umanu chi si sbatte  si strazia  e face in vanu tanti calculi strani e tanti passi   tale una piuma  lu penseru sia   persa da la culomba in altu volu    abbia per guida lu zeffiru solu   e la appartenga la infinita via    chiude li occhj  e truvassi in un castellu cume quelli di e fole di bahbone    scale in cristallu  di oru lu balcone   e chi ogni petra sia un bel gioiellu    duve in eternu risplende ju jornu   e suspiranu ardenti i viulini    accircundatu di esseri divini   gode di un ineantevule suggiornu    gira pe  li giardini senza fine   pieni di rari ed armuniosi acelli  ghiuchendu a piattatella cu li agnelli   fra mazzuli di rose curalline   scurdassi di u frastornu chi ci rode   e vive herculatu in le delizie   ad ogni pianta coglie le primizie   ave stu gridu solu   gode  gode   sape chi stu piacere unn e buggia  sentelu a piena carne  a pienu core   e sia cumplettatu da le amore stu paradisu di mitologia   gode di tuttu  cun premura ed asgiu  cume lu vignaghiolu tasta un vinu h  poi  incionfassi in un sonnu divinu  mentre vi sfiora le palpebre un basgiu     ma basta  statti zittu   se pueta    un sai cio chi veramente temu    chi la jente un ti pigli per un scemu a veste a realta di tanta seta   ma guarda attornu a te   nant a li elpali un ci e mai che corbi   li palazzi so solamente casarelle o stazzi   e li giardini un so che guaglinali   u stancu baftimentu di e to  vene   pocu si accellereghia da u piacere   ghiurnate torbide  e nuttate nere   e la eterna trifona di le pene    a realta  senti cio chi ella dice    un so ninfa ne rosa   stenta  stenta   sulicchia  o grandiniccia a piglia e lenta  sbrogliati  si tu poi  di esse felice    ogn alba arrega lu  so  rompi testa   e rinchinde un dulore ogni faccenda   a piu liscia esistenza unn e tremenda   di quante lagrime e fatta una festa    le illusione imbellisce  si po dassi    ma ne e di questa cume di un licore    un suppulellu vi locca lu core   ma di u dipiu si vole a disfidassi   lutta  tutta cun la disperazione   ma pe  sterili sogni un piglia gustu   guarda la vita in faccia  e vedi justu  quand ella dice   stenta  dilli   azione    sfidati  caru pueta  di te stessu   di la altiranza di un turchinu celu    un nulu traditore  cume un velu  ti impostughiera le ale  bellu spessu   si  pe  li campi  quandu vai a spassu  di on baccu o di un appollu se ghielosu  rifrena lu to  penseru ritrosu      ricordati di icaru  e statti bassu     
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     a morte di ziu ciccolu  all alba  un picchiu tristu di campane disceta a scarsa jente a u prisolu      qual  partera  bona anima  cu diu  eppur   nim era male arimane      ellu tintu   a si ha fatta ziu ciccolu     ah  no  un fu gattivu       babbu di an famiglione   e chi babbu    di ottu  tra masci e femmine spruvecchiu  si ne era morlu  solu  u tintu vecchiu  senza chi nimu li stringhjssi u capu   era un bel  pezzu chi ellu si sentia indebuli e jambe e fughie ne fiatu     ogni tantu  una lettera jugnia    ma caratevi  o ba   ecc un mandutu     magna   curassi   ah  unn era quessa chi ci seria vulsutu a u vecchiatellu    1 soldi  tutf accolti in un bursellu  appuntu pe  le cere  cascia e messa  limusina  pe  a notte  cumpagnia  a ghiente chi hanu i   so  affari a fa      u vecchiatellu  in se  ricunuscia chi era justa pudelli rimbicca      bale a pena di ave tanti figlioli   si  pe a passion  di u soldu e a vita vana  si ne vanu spepersi a i dui poli   e boi  qui  senz un hicchier  di tisana         e tisana un ci fu a pultim ore  per ammuglialli e labbre tant asciutie   un ci fu pientu  preghi ne amore    e mani pe  appaghja manconu tutte       o quelli chi fuimu a sarra li occhj di i nostri tantu cari genitori   e chi emu pussutu piega i jinocchj  a u spicca di ne piu puru di li amori  sapemu cio chi ell e st ultimu sguardu versu noi chi u gran dulore tocca    oh  morie santa  oh  ultimu riguardu per u nostru nome chi li more in bocca     per entre in casa  lu usciu fu spianlatu  pi  ziu ciccolu nant u so  guaglilacciu   occhj spurlati e corpu agghiumellaiu  tenia strintu in manu un scartafacciu   era un bigliettu juntu u jornu avanti da u so  piu chiucu  per  sse culunie   era u stessu parla di tutti quanti   eranu e sempre stesse litanie      ma curatevi  o ba  a la istatina mi affaccheraghiu  forse  per un mese    un state a rispara e medecine     eecu quici un mandalu per e spese      oh  quanti vecchiatelli  a i paisoli   so destinati a sti tristi talenti    mi ci vurtia pude  voi  i figlioli   leghieli in senu i veri testamenti 
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="11" type="art" xml:lang="fr">
+    <p>
+     la duperie du sain regionalisme avemu vistu da moltu tempu chi i mettodi ufficiali di contr aftaccu per pura l avanza a auton i lista eranu duizunu fruntale fat  ai vituperii di basse insinuazione di calunnie e di malafede l altru di fiancu destinatu a indebulisce e nostre forze sottu culore di regionalismu  u sgio unu di i capi di u partitu autonomista brettone in un articulu di u giurnale breiz atao chi no' riproducemu ci face vede u scopu di u regionalismu affidatu cume strumentu abburtivu a e mane di vittuli a faccia di patriotti  si tous les profiteurs du regime centralise sont d accord pour combattre l autonomisme ou le federalisme i en est peu qui le fassent au nom du centralisme i  le centralisme dont tous les frangais sauf les dits profitears souffrent et qui contribue puissamment a paraiyser le developpement moderne de la france ne jouit plus d aucun prestige devant l opinion   ses amis sont des partisans honteux qui trouvent plus habile de le defenire sans souci du paradoxe au non meme du regionalisme du plutot d une espece particuliere de regionalisme qui s appelle le  sain regionalisme  car nos adversaires les plus resolus se proclament regionalistes cetechappe de la prehistoire politique qui a nom georges le bail et dont le fanatisme unitaire fleure la convention n a pas d attendrissement suffisant pour celebrer l auteur de mireille dans la depeche du 21 mai il ecrit a propos de mistral  favorisons de nos voeux et du meilleur de nos efforts la decentralisation artistique et lit eraire au profit de la petite patrie  conser vons a notre region sa physiomie originale et maintenons debout l heritage de pensees personnelles et l idiome recus des ancetres  po voila ce qu ecrit un homme qui a  denonce comme des agents payes de vallemagne ceux de ses compatriotes qui ont entrepris de sauver l'ame et la langue bretonne et quinous promettrait le poteau de vincennes si nous demandions l autonomie de l universite bretonne excellent moyen pourtant de censerver notre  heritage de pensees personnelles  et notre idiome  voila ce qu ecrit un homme qui depuis soixante ans qu il fait de la politique n a jamais leve le petit doigt en faxeur des revendications bretonnes voila ce qu ecrit un homme qui considere comme ideal et definitif le regime qui nous condamne a la francisation forcee et fait litiere des interets bretons  ces contradictions s expliquent le pere le bail et ses semblables combattent le mouvement breton lorsqu il s appelle autoramiste 7  ce qu alors il s agit d un mouvement energique etorganise dont les progres menacent les prerogatives de l etat roi dont ils sont les suppots et ils vantent l idee regionaliste parce qu ils savent bien que les doux poetes et les inoffensifs erudits qui l'on lancee ne sont jamais entres et n entreront jamais sur le terrain des luttes politiques ou les jacobins n admettent pas la concurrence un il est si peu compromettant de se dire regionaliste cette etiquette engage a si peu de chose que nos prefets et nos ministres 1 eux memes le sont a l occasion il n est pas de plus fervent  regionaliste x qu un de monzie qui en 1925 condamnait a mort ja langue bretonne pour l unite l inguistique de la france   on est regionaliste ca fait bien ca vous pose en esprit libre ami des idees neuves et hardies mais en actes on reste resolument attache au regime centralisateur sans lequel la cuisine electorale perdrait ses plus succulentes recettes  il nous arrive de nous heurter dans des reunions publiques a des politiciens francais que leur positionoblige a combattre notre programme nous avons remarque qu ils le fontioujours au nom d'un  sain  regionalisme a les entendre  qu ils soient democrates radicaux ou conservaleurs  ils n ont qu un seul coeur pour aimer la bretagne  tous sont des partisans convaincus de ia consei vation de son originalite de sa langue  tous se proclamentles defenseurs de ses interets ainsi le veut une conscience regionaliste et tous s en tiennent fa  lequel d entre eux a fait un effort serieux pour obtenir l enseignement du breton  lequel d entre eux a souscrit cent sous pour l edition d un livre en langue bretonne  lequel d entre eux a fait campagne en faveur d une seule reforme decentralisatrice lequel d entre eux s est eleve ala chambre contre la sournoise et demente mystique de l unite ethnique et morale de la france au nomde laquelle on nie la bretagne  pas un  dans l'ouest eclair du 21 mai je lis un article de m pages sur le syndicalisme electoral le doctrinaire du journal demorate nomme jes  collectivites les associciations les groupes naturels  qui sont appeles selon jui a infuser une vie nouvelle dans les corps elus de la nation m pages est regionaliste le moment semblait venu pour ui de faire prendre publique j ment et nettement position a louesteclair en faveur de la doctrine regionaliste il s est bien garde de le faire il nomme successivement la famille la commune le syndicat etc pas un mot de la region c est qu en effet il ne s agit plus d un toast a ja fin du repas qu on peut ulterieurement imputerau bon vin ni d une replique de reunion publique quise perd dans les fumees du tabac ll s agit de fixer la ligne politique d un parti il s agit de choses sericuses et alors il prend bien garde de toucher a la divinite uneindivisible que tous les politiciens dela droite a la gauche s entendent comme larrons en foire a respecter et dont tous redoutent les colmaresques coleres  le regionalisme est comme le chiffon rouge qu on agite aux yeux du taureau pour le detourner de son ennemi quand la corne rencontre la cape elle ne perce que du vent  c estactuellement je crois la grande utilisation du regionalisme  il est devenu la meilleure arme des profiteurs de la republique de la pagaie contre le jeune et menacant corps de combat autonomiste  ou nous dit  soyez regionalistes et nous vous admettrons  autant nous dire tout de suite  cesse y action publique cessez la propagande cessez la critique du regime ne vous melez pas d elections cessez d'etre une force et nous vous admettrons comme idee pure  a d'autres  je m attends a ce que m doumergue salue bientot a plougastel l ame bretonne la langue bretonne et lereste vous allez voir qu il va se sentir un  celte du midi  comme poincare i treguier ou marin a fougeres sc entaient  cettes de l est  il vante ra aussi je sain regionalisme et quand il sera rentre a pa ris nous continucrons comme par le passe a subir ja dictature dej e1nt le plus centralise de monde auquel il demeure bien entendu que personne ne iouchera jamais car le  sain regionalisme c est celui dont on n'a pas besoin de tenir compte  duperie  1 se peut que le mot autonomisme fasse mauvais effet dans je creux de certaines oreilles delicates je vous avoue quant a moi qu il n est pas de mot qui eveille dans la mienne autant de mefiance que celui de regionaliste il ne manquera plus bientot a la republique des profiteurs que d ajouter lemot regionalisme a la formule sacree  liberte egalite fraternite  elle sait qu elle ne nous a jamais donne celles ci et qu elle pourra tout aussi bien se passer de nous donner jamais celui la
+    </p>
+    <docAuthor>
+     Olier Mordrel
+    </docAuthor>
+   </div>
+   <div n="12" type="div" xml:lang="fr">
+    <p>
+     giurnali sanguetta   la cic fraissinet n a ete chargec pas plus par l etat que par aucun organisme corse de prospecier a notre profit je domaine lou ristique national ou international  aueune autorile corse syndicat ou groupement qualifie quelconque n a dresse enfre lui et ja cie fraissinet un cahier moral des charges meme facilement etabli  cependant il apparait de plus en plus que la cie fraissinet se fait en agent de tourisme et cela est aussi inattendu que troublani  l entreprise touristique a laquelle elle semble s attacher avec une docilitPS inquiclanle pour nous dans son execulion sinon dans son esprit lequel ne nous saurait elre qu agreable est le resultat d une entente avec le p l m a qui nous n avons jamais rien demande de semblable   la nouvelle corse  on a eu la revelation que la tran quilite publique n etait pas suffisamment assuree dans notre malheureux pays du moment qu un hors la loi pouvait commettre un triple assassinat melire le feu a une auto postale et gagner lranquillement le maquis sans etre le moins du monde inquiele  les nombreuses brigades de gendarmerie qui sont installees en corse n'offrent donc qu une apparence de protection ll suffit d un mauvais garcon resolu ef audacieux pour en montrer la fragilite on doit oser dire puisque on le chuchote toni bas qu il suffit quun bandit jette l interditsur une region pour que les autorites civiles s'effacent terrorisees c est ainsi quele service poslal est supprime depuis le 18 mai dans le canton de sari d orcino parce que lelle est la volonte spada voila ou nous en sommes en corse au vingtieme siecle derriere une facade d ordre notre pays se trouve ronge secrelement par un abces purulent le banditismu a e avevano  il est temps d agir le gonvernement nous doit la securite   l eveil de la corse
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

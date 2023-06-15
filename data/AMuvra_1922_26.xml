@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1922_26
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="co">
+    <p>
+     i pinzutti chiamanu   renaissance   quellu muvimentu pienu di nuvita litterarie chi  ghiunse a tempu per salvi    a lingua francese  disprizzata  sfracicata di i duttori e  li umanisti di u mediu evu  quisti  durante   longhi seculi   avianu parlatu  scrittu  in latinu  si omu avessi cunsigliatu a a sapienti in us di scrive e so opare in lingua di u populu  si sarianu prima fattu una risata  e po dopu avarianu strascinatu u nuvatore davant a u tribunale di inquisizione per impafalli a crianza     belli pochi so dunque stati i scrittori chi fecenu usu di u  parlati cummunu   e per a so sfurtuna  i tosi parchi a  so vita divintede un beru infernu  un mintularemu cha dui di sti  strazj  ghiuvanni di meung autore di u  roman de la  rose   francescu villon chi ha scrittu  tante bene ballate   u primi fu   tribulati da la universita e trattatu di stregu u sicondu  scacciatu da famitu  odiatu da i monachie i prufissori  risichede di esse impiccatu e morse cume un pagiaghiu    st essempj ci mostranu  quant ella era necessariu u   muvimentu intrapresu da i ronsard  i marot  i montaigne  i du bellay e cetera       eccu chi oghie  in corsica  la idea di rinziuva  di fa rinasce u parlatu insulare  a datu iniziu a un listessu muvimentu       a  sta volta un si tratta piu di lampa in stretta u latinu  chi nimu un  ne ha   piu asgiu di scrive in sta lingua   ma  e u parlatu francese  divintatu a u so tornu un  strumentu  di schiavitu   e a lingua di  u marchese di choiseul  di miot  di clemencea u    di maurice  barres  chi  i  corsi  bolenu scaccia  fora  di la isula  bolenu sbandisce un parlatu  chi assuffoca e abilena la anima insulare imbece di falla fiurisce  in fatti  u francese e oghie per noi corsi cio che ella era u latinu in nanzi per i pinzutti   un toscu spavintevule una malatia piu terribile cha u colera o u varghiolu  avemu dunque u drittu e u duvere di dumanda chi li istitutori imbuffinu menu u chiuchinu di i so sculari e chiustudiu di a lingua e di li autori francesi  andissi di paru  in li culleghj cu u studiu di u corsu e di u talianu    questu e u solu mezzu di sarra a bocca e certi latinisti chi di u tempu in tempu  ci ne sciaccanu duie  a noi altri corsi di a muvra  sulamente culpevuli di difende a lingua di i babboni     arrimane era ghiuvan petru chi   sfrancisendu a piu pude ci liticava a prupositu di u nostru prugrammu di emancipazione  oghie e u sgio bincente di peretti   alt impjgatu in prifittura chi ci conde da sottu  a sente st omu dottu  scrivanu francese   di prim ordine a lingua corsa e bella che persa  un ne ha piu  nissun utilita parchi u francese la ha rimpiaziata inde la anima e u spiritu di i corsi     critichendu di tal manera u muvimentu corsu  u sgio bincente di peretti e tutti quelli chi ci tiranu a balla nera  si paraguneghianu  senza forze dubitassine  a i latinisti di lu iniziu di u rinascimentu francese  chi mancu per more un bulianu sente parla di a lingua vulgare  li frighianu le arecchie quand omu ricitava un sunnettu di u duca di orleans o une ballata di villon di lu istessu modu chi oghie i funziunnarj truiti si atappanu  li occhj davant a un articulu in corsu di a muvra  imbece di mettesi e spichiette   ste degne parole so state scritte a lu iniziu di u  rinascimentu pinzutuoghie a la alba di u rinascimentu   corsu  ne pudemu di altrettantu a lu indirizzu  di quelli chi  si abargognanu a parla e a scrive a lingua insulare  sog un avemu juratu di piglia a pratesa e di favuriza le illustrazione di a lingua di sampieru  
+  s
+    </p>
+    <docAuthor>
+     Matteu Rocca
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

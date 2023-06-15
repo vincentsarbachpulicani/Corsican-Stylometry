@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1331013n
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1331013n
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 275 | Année 7
+     </edition>
+     <date>
+      1926-12-30
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     annu VII — Numaru 275 Esce né  Esce ogni dece iorni 30 Dicembre 1926  GIURNALE DI E PIEVE DI CORSICA  ABZUNAMENTI:  In Corsica. , + - + + . . 1... . . 12 franchi  In Francia. . - . . . . . . . 15 »  a PEsteru  U Numaru:5 soldi  Direttore :. Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     a salbazio di la anima   maistrale  aghiu lettu e lettare a lumbrigone  vultim opera di  maistrale   all amici cume a i detrattori di u cursismu  di cio chi io pensu di le anfarte marignanese  mi pare um duvere     pe u nostru populu  maistrale e quellu chi face canzone cume lu arburu spunta fronde  quellu chi e sumena da paese a paese  cu mandulina  risa e canti  fendu scaccana gregge e pastori ind a cumuna di parapiglia    i  pe i nostri intellettuali  maistrale unn e che un rimadore cume di altri  ci una punta maligna di satara   un   rimator forbito   ha scrittu un so quale     pr    or bisogna a pruclama u veru   maistrale e un pueta populare e qualcusuccia di piu  si  a so penna  chi un posa mai  e una spada tagliente chi affetta  cuntinua  in versi e in prosa  a merolla di e fierta corse         ben intesu  altre spade si so livate chi cumbattenu u magnazzone di a dignita corsa  ma  a soia e una durlindana chi spaffa monti e zocca tesori a cufinate colme  i  date un colpu di occhiu a ste lettere ricolte da a muvra  emi darete nova di u prosatore   stu volume sta cume una petra di capimonte in punta di a casa chi stu corsu persu cima per fisula persa     quelli chi un bolenu vede fd onora  tra i nostri anfarti the un santu soiu  solu perfettu e degnu di li altari  si sbaglianu  u paradisu e 1on81 e largu  e maistrale  a ombu di pugnu e di jovitu  slch ellu jugne in celu di gloria     a so opera e diggia grande   punente  3  cume varieta e quantita   opera supranieghia quella si veli de ve e e a  cusi vantata di i scrittori premuvrisk    cume mutivi ideali di ispirazione   quelli chi mettenu la anima in corpu   maistrale vince  tutti quelli di lu anticu testamentu     mi spiegu  ci e talentu e talentu  arte e arte  quella di maistrale avera qualchi difettu  in qua e in da  qualchi mancanza  lasciemu a u tempu a cura di piglia e misure di italenti e di taglia e statule  ma  cia chi conta e bale  e di servisi di u so talentu per un  idea cume per una deita ghielosa chi un supporta dibulezza  fiacchezza di spiritu o cumprumessi  sp  sopra sta strada diritta  maistrale  viaghia curaggiosu e serve a corsica  quella di a lingua  quella di li antichi  quella di a storia e di dumane   a so manu e libera di trave  u sintimentu di a dignita corsa luccicheghia in tutti i so passi e guida a so attivita a pro di la urfanella e di e lettare  a so lingua e sciolta e a so  parolla unn e mai impeggiata da u viscu di a pulitica  ellu  un brusgia cio chi ella adora ne storce  per piace a i preputenti  avetita    si  lighjte e lettere a lumbrigoue  quantw belle pagine  corte  schiette  savurite  piene di vita corsa  colta fresca e attuale  ci si trova un pocu di tuttu   scene eletturale  sbarcu di li impiegati  nozze  alimeie  ritratti di pueti  quadri di paesaggi  ce evisa  vivariu  cristinacce  letia  portu  vizzavone  bastelica  cinarca  ci so i novi ricchi  i pastori  e merle  i senatori  ci e a fiera di niolu e ci e a festa di pontenovu    e    dicu chi stu libru insegna le amore di e cose corse cu veemienza  e per quessa  merita piu che un cennu  un applausu   mu  e  nemici di u cursismu  mittitevipuru in dolu  u cursismu  ispiratore di opere simile  e una pianta di forza chi un si spianta  i     chi a vostra stampa faccia silenziu sopra a stu libru   ludate e cuscogliole  micca a roba bona   biite u vinu fatturatu  a vinetta dissamurata  chiu vinu chi ricalda a curata unn e pe vostri denti neri cume a scunghiura     i
+  s
+    </p>
+    <docAuthor>
+     Martinu Appinzapalu
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     martiri corsi  prete bartoli di occhiatana  in corsica  pochi funu i preli chi si lascionu piglia da i   sculappati   di a prima ripublica francese  perche i patriotti corsi  dietru un motu di ordine di pasquale de paoli  facianu da partuttu bona guardia e spavicchiavanu i pocu curaggiosi suldati  scalati quindi cu a speranza di fa fortuna  a colpi di arcusgiate ed ancu di batarchiate   fra ssi pochi  si conta un curatu di pioggiola  o troppu zelante  o menu cautu  o puru traditu chi ellu sia siatu da qualchi ghiuda taglione  era originariu di occhiatana e si chiamava bartoli  ziu di una di e piu onorate  famiglie viventi a la epuca in quellu paese  avia una bella stofa di martire  ma balaninu  untu e strafinu  a volse fa ancu a u diavule e a i so suldati   eccu qui cio chi elli raccontanu anziani piuggiulaschi  per avella intesa di da i so babboni   don bartoli fu surpresu da i sbirri   sculappati    casernati in calvi  una mane all alburigghia  mentr ellu si dispunia a sorie per anda a di a   so messa ind una di e sale di pioggiola  graziosamente offeria  da e principali famiglie in ciascuna di i 4 casali di u paese     le operazione riusci a meraviglia senza sveglia le attenzione di nisun  altru che di a patrona di a casa aitaccala a quella di u prete  ma quella fu talmente impaurita da la vista di i suldati   chi unn  ebbe curaggiu di esce ad avverti li omi di u casale   u prete fu dunque cundotiu in calvi  duv ellu stete une poche di settimane  ma u cumissaru  bulendu impone timore a tutt a corsica  fece prestu trasferi u prigiuneru in corti e cula fu cundannatu a morte  a nutizia di sta condanna e di u jornu stabilitu per esecutalla fu sparsa cun gran cura in tulta a corsica  poi   per caccia ogni vulinta di risistenza fu radunatu in corti un bellu numaru di cumpagnie di suldati   allora  i parenti ed amici di don bartoli un pudendu impiega a forza  usonu magisiralmente di la astuzia  un carbunaghiolu  chi strascinava carbone pe a priggio  fu stradatu cu  mi ellu si avia da fa per fa sorte u prete a lu appiattu   a sera nanzu le esecuzione di u curatu bartoli  u pianlone e u guardia funu imbriagali a tappu da quellu carbunaghiolu  u quale  dopu sirinia a notte  riusci a piglia e chiave in manu a u guardianu chi surnaccava  apri a porta  fece veste u prete da civile inc un paghiu di e so proprie visture  poi si ne surti anch ellu tranquillamente e rimise e chiave in borsa a u guardianu  quesiu sempre surnacchendu  senza abbedesi di nulla    u lindumane da tulte e strade chi ghiunghienu in corti  si vidianu arriva numerosi paisani cuncorsi per assiste a u spettaculu di a decapitazione di un prete  uni pochi ti scuntrede  nu nantu a strada di niolu un carbu naghiolu tuttu bruttu di negru  chi sembrava un diavulottu  1 paisani li dissenu      o amicu  cum e   bi ne andate a travaglia oghie chi ci ha da esse in corti un gran bede       chi gran bede      un sapete chi ellu hanu da scapa un prete balaninu      eh  a so quessa  ma bisogna a da un colpu di occhiu a sse carbunare  perche ci vole a travaglia per nutrisce a famiglia  ma   cercheraghin di fa prestu  e biderete chi senza me un feranu nunda    u carcere essendu statu truvaiu biotu  si ne sparse subitu a nutizia  chi misse in alegria tutti i veri patriotti corsi di a citta e di i cuntorni  fu un veru trionfu per le intruvabile prete   balaninu  untu e finu     ma ellu  avia scuzzulatu a curona di u martiriu  di cui noi altri vaveriamu decuratu cusi bulinteri pe a maggior gloria di diu  e le esaltazione di a chiesa di corsica 
+  s
+    </p>
+    <docAuthor>
+     P. T.
+    </docAuthor>
+   </div>
+   <div n="3" type="poe" xml:lang="co">
+    <p>
+     boni di  bonu annu    muvrella  aio  aio chi e san silvestru    un perde tempu   e  prima chi ella spunii la alba di capu di annu  a pede lestru   corri e cerca di esse di i prima junti       boni di  bonu annu a tutti i to fratelli chi in te hanu fede e chi ti danu a pasce boni di  a giuventu  chi  a sturnelli  succhiendu lu to latte volrinasce i   boni di  a u vecchiu chi da u so fucone cunsiglia a i chiuchi di   mantene a razza  bon di  a la mamma di un famiglione chi ella alleva inntan di a vita dazza     auvrella  corri  salta  franca i mari   bai a da u boni di cunsuladore a i nostri cirneani tantu cari  e luntani da cirnu a contia core   dilli  chi piu che mai simu fieri  di a nostra poverta e chi luttemu e lutterema sempre contin i schieri stufi di a liberta chi noi vulemu   un ti scurda di nimu  appia e parolle e piu dolci di a mamma  taniu cara   chi vurria fini sta vita amara o e bede  di figlioli  ne sangne bolle 
+  s
+    </p>
+    <docAuthor>
+     Altore
+    </docAuthor>
+   </div>
+   <div n="4" type="let" xml:lang="co">
+    <p>
+     lettara capicursina  caru jannettu  chi conta e chi sconta     dicia ti ben di sciabulinu  cusi diceraghiu eiu       avia prumessu di fabbi sape e mio nutizie ma um aghiu pussutu  perche ci avia u jubileiu  u santu fubileiu  quellu chi assolve tuttu  cum ellu dicia faschese   ci avia un frate bianch e rossu  panzutu  grassu e tondu da invidia  un oratore di prima sfiera  ci un timpanu di voce lindu e chiatu cumea tintendula di e capre  di ciucciu  chi si sentia di a sulana a p ombria  parlava tantu be chi tutfimio parucchiani neranu incatutati  guardendulu a bocca spalancata  pe u caniu un si e mai intesu u simile  colla e fala  fala e colla da un pianu a lu altru  face prima  seconda e bassu  solu  quante tre pulaschesi  chi purtantu  so i primi peu cantu   durente u jubileiu  eiu mi senta male ind i mio panni  perche un so bonu ne pe u cantu ne pe usonu  pe a predica ancu piu pocu    facciu tuttu  rectu tanu    forse avaraghiu stravistu  ma mi paria chi i mio parucchiani mi guardassinu in calarrocchiu cume per dimmi    quessu e aliru che boi  o sgio curatu   e allora  diventava rossu cume un pevaru mattu e mi ne stava a capu calatu e arrecchie penciule     u missiunariu e statu cuntentu di a pupulozione e questa  cuntentissima di u predicatore  ha mustratu a so gioia a u puntu spirituale e materiale       tuttu sarebbe andatu be e me gliu si ellu unn era statu le affare di pilatu u pastore  u sola chi bive in piccatu murtale  uii  cuncubinariu  bench ella aghia sessanpanni sumati     quandu u predicatore parlava di u piccatu murtale  pilatu era cunvintu chi ellu si indirizzava ad ellu  eppoin piu  a fiancu ci era falcone chi u tuccava dicenduli in la arecchia   quessa e per te mi  ava ti ha mustratu cu u ditu    a sera dopu  pilatu  per unn esse piu indettatu si misse sola u pulpitru    lmi  u missiunariu ind u corsu di a predica  bense a parla di u  piecatu di pilatu di quellu chi si lavo e mani per uu cundanna a ghiesu christu  e  fendu un gestu di u ditu da cltu in bassu  disse inic una voce forte  da fa trima le osse    pilatu scendi a lu infernu    7  fu finita  u pastore pilatu $urti di chiesa e ancu di paese  scappendusine a  muntagna  per ave a so pace      unu di sti jorni  contu di mandallu a chiama per sente se pudissi benedisce u so matrimoniu  si le affare riesce a vi feroghiu sape in tempu e logu per  chi bo possaie vene a fabbi una scurpacculia di carne castratina   in tant eppoi  bi salutu 
+  s
+    </p>
+    <docAuthor>
+     Gnigninu
+    </docAuthor>
+   </div>
+   <div n="5" type="poe" xml:lang="co">
+    <p>
+     quadretti  u gerru  in lu stradone a mezza fanganiccia   a carica da sei mule e mossa   ghie legna di pullone  bianca e grossa  membre tagliate a nostra castagniccia   lu attaccu tira  lutta  ma si spossa   corre sudore callu e sanguiniccia   seccu  arrabbiatu  lu staffile piccia  guai si la rota tronca o pur si infossa    u carritteru trema e sta vicinu    chiamendu la muletta a bilancinu  cun voce duve sona tenerezza    vanu per quelle stese molli e nere   in la ciccona di le sunagliere  lasciendu appressu un nulu di tristezza 
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     de paoli e u pastore  a scena si passa in niolu ne u 1794  a rivoinzione  face macellu in francia e de paoli  messu for di legge da a cunvenzione si appron e a lascia a corsica     u pastore  solu canta    magna  magna  picurella    chi arba nun ti ne manca   profumata e tinnarella   un ne pare mai stanca   u ciucciu inde u viculellu aspeita u lo latte puru    fara di ellu un gran ciarbellu   un umone per sicuru    de paoli a u pastore   canta  o ro  chi se felice luitanu da i terramoli   di lu mondu le radice tremanu cu li despoli    si lu re di la natura   una biata creatura   e to quattru picurelle   la lana cu in so latte e cu tante belle agnelle     i poi lascia scumbatte   i scemi di u cuntinenie     chi ella ne sterpi a sumente    forse tecchj di la vita un volenu che flagelli    a so cuscenza e sparita   o li tinti curciarelli    si dicenu sanciilotti    li chiamu ciarbelli stolli   hanu juratu la morte  a li preti  a li ricconi  e credenu chi la sorte li mandara li bueconi tutt a fattu scuccagnati   ma nun lu hanu ancu manghiati   ghiesu christu e li so santi so cacciati da le chiese     e tutti sti lacramanti   cu libertai pretese   amazzanu li nucenti a li occhj di li parenti   in la nostra cursichella tutta ingirala di mari appruntemu a sacchitella gu lu arcusgiu ed altri affari  eppo  cu le pitturiccie mittimuci a e paraticcie    lu primu chi sbarca in tarra   di sia incredula vermina   li si taglia  para para   la testa chi si incamina a purtacci lu disturbu   pegnu di lu mondu furbu   u pastore   parli  chiaru cume un libru e da capu viramente   bogliu  tale un fieru tigru   piglia macchia presiamente e fa chi sa frattamaglia  resti piatta in la so vaglia   a  noi  la libertai  un ci accore sanguinosa   lu amemu pien di fiertai   umana e generosa    quella di li sanculotti a pigliaremu a cazzoiti 
+  s
+    </p>
+    <docAuthor>
+     Ciaffu
+    </docAuthor>
+   </div>
+   <div n="7" type="art" xml:lang="co">
+    <p>
+     festa pancheracciese  tant anni fa  a i tempi poveri  quandu iloghi  bellezze di cirhu si eranu cuparti di macchie  quandu piu che oghie si cridia in dio  maria curava iso agnelli  risorza di u paese di pancheraccia  in lu macchione di muntauzzu      fecia u callu   nissuna frutta ci era in  quella  terra arida  per pude  spenghie le ardente sete chi siccava in gola a po vera pasturella  dumando lu ajutu divinu  e fottense  a madonna affacco da un nulu  si impalificco davanti a quella chi purtava u so vergine nome  e dumandatuli gentilmente a cagione di quelle lacrime  fece  dopu risposta  cu so joitu   unciottu prufonduinun peritone vicinu e chiamo la acqua    7  mariuccia  si dissito e tutta cuntenta sin andava quandu a madonnali disse   senti  brava maria  vai in pancherac  cia  e  di a i to paisani di fa giu una cappella perme            la altra obbedi  subitu fu criduta da quell  omi devoti  chi dopu ave ritrovu quellu canale fattu da u sacru joitu  alzonu  cu dentru a spiscia chi tira sempre acqua fresca  a predetta cappella  quella chi esiste oghie ancora  chi ha festa vottu di settembre  quella chi e ammubiliata e decurata cun arte e gustu quella stessa chi tutta maestosa sorge a la iglia di u muntauzzu e chi riceve tuttil raggi di un sole chi spunta nantu marina   ee e     un simu che a vicilia di a festa  e digia  di notte  cu a luna chi innora u paisaggiu  affaccanu   prucessioni  di pellegrini stanchi e scalzi  chi ghiunghienu per passa in la cappella a nuttata in preghere      ne cu se ne  li scalzi si lagnanu   hanu i pedi cre  pati da u longu viaghiu e sanguinosi da e tagliature di vetri tesi dai criampuli   u paese e tuttu alluminatu da e lumere poste per divuzione nantu ibalconi  un si spenghienu che a matina  y alba  quandu tuttu ghiente e  cose  so in bisbigliu  u e  ci e assai automobili e cabriule  manc  unu   oghie un  viaghiendu piu a pedi chi simu saltati in scimeria   u feminugliu vole bula e per quessa sceglie e vitture di lussu  un si ne vede manc una in si vecchj cateri di camions un li volenu da cumerciu  fe  affaccanu tutte ridicchiulendu e fiere cu bastiariu  vignoli chi si ha compru una donnet zedel nova framante i solli cascanu  ma omancu so be ricevute   ma eccu chi a prucessio adunata in la parocchia si atteppa versti a madonna  e una fila chi unn ha mai piu fine i cantosi cume ziu luiggi e  barone so di sottu a scala  so elli chi anu tenutu un intera pupulazione inaffaccu    ghiuntu quassu i sebbiati soli trovanu piazza perche a cappella e chiuca   parecchj si stanu fora  ma a si campicchiuleghia omu listessu  si omu  vole gira nantu quella piazza adombrata da quattr olmi giganti  duve  u mondu e zeppu e appena si po circula   i masci  ben messi  scorrenu donne e ghiocanu  a sergenti  ringaggiati in da culuniale chi hanu tutti fattu a guerra di u maroccu  caccianu da un scornu di u  portafogliu  bellu allibratu  u solu cinquinu per paga una gazeuse a e damicelle  ma quessa us li ruvina piu  chi hanu u mese fissu           donne ci ne e assai  ma di  dui gradi differenti  e piu ben viste so quelle  chi hanu e so treccie  quelle chi so vestute modestamente   tante e tante  parenu carnava imbaschicciati  tose e mezze spugliate  cu i visi pitturati  parlanu francese e sempre di a corsica chi ha un altru parlatuche u soit  un sentite stu ci      sumerinu pedicurtacciu  stu tappu di bari  sta mezza donna  di  razza iudea  chi li dice     la corse est une rose  mais une rose couverte de poux      ma ste parullaccie li si fermanu in gola quandu una banda di petraserinacci  di quelli chi so corsi di sangue e di nome  orsu pauiu mariani  ghiugliu antoniotti e petru giacobbi  li dicenu chi ella e i soi  strangeri scalati un si sapia da duve  eranu un pidocchiu abbastanza maio per succhiassi a parte ritta di a corsica     eppo  un ne dicu nunda si ellu ci si era trovu ghianettu   la averia  cantatu a moda sicaramente   ma un si e vistu inloga    ci avia annunziatu a so decisione di fala cu i so artisti ma pare chi a vigilia di a festa  abbia cambiatu di idea  perche u so automobilista  credendulu pigliatu pe u collu  vulia prufittanne pe scughialli    micca a pelle  ma u portamune         un sentite ava  impulpitratu  stu prete chi leghie un predicozzu in francese   ma nimu u capisce  chi in pancheraccia simu tutti corsi  quessu ignora a lingua di u so paese e so quasi persuasu chi prete risteruicei di pe traserena averia predicatu in la lingua mustrana  perche  e un prete cumu ci ne e pochi in corsica   we  quist annu a fiera  e stata misera  duie  baracche sole  quella  di inte franzohie quella  di pumpe u  un bic chieru e a doppiu prezzu j un biscottu  arcidoppiu  la uva fresca costa cinquanta soia libra   a  i pippaghj orezzinchf facenu affari     dopu a messa  ognunu si stracqua a u megliu  chellu  po   nantu ste filette du castagnetu chi spende friscura  e salute  si miarighia cume draghia bocca piena  la acquetta di a madonna ci feria rode ancw e scarpe di san lazeru      dopu  a chi la allonga un pocu  a chi ritorna in fiera      allora  cummencianu e rise  i canti e isoni  si vede ancu qualchi briacu  tutti  so calmi  solu  un  pedicurtacciu un si po piu tene   ha trovu un debule in le amirale  un so paisanu  ma ebbe  u curaggiu di canta in mezzu a quelli chi sappiamu da duvellu  scatufan   ro  je suis corse  madonnaccia   et puis voila vi     a  u sole rivolta  cumiencia  sera  e a prucessio titorna in paese  a u  cantu di guerra corsu u   dio fi salvi regina   intunatu da ghian battista mariani  bassu petraserinacciu e senza paragone  di corn e e     per a seconda volta ind u jornu  u paese si riempie e finu a vatracchiata  pianu pianu  si biofa sempre e ritorna  dopu a partanza di quelli automobili carchi di boeca in bocca  in lu solitusilenziu    i  
+  s
+    </p>
+    <docAuthor>
+     Anton'Ghiaseppu Terrazzoni
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     culori  ciutta di sole aiaccinu  u sole fala versu e sanguinare  i    frai strati nivulati chi ellu incende    carchenda ipiu vicini di e so fiare      pur oru chi empis yocchj da u risplende   qualchi raggi  ficcati inii fistoni      di nuli bruni chi ella orla di argentu  i trapananu tinghiendn houmlorni 7    di culori variati  a centi a centu   mischiat e u verde chiern a u forte azzuru u latte di e nebbiole a ne rossu scuru        u grisgiu chi annirisce  alluntanendu     lu astru di ince ciotta  e da purente    manda une strada tantu luctichente     chi bi picchia in ne li occhi  abbagliachendu 
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="9" type="art" xml:lang="co">
+    <p>
+     machina minendu di vera fronte sopra a seconda petra di  mezza strada arresta a spaventevule  catastrofa  diggia  abbastanzimente accaduta  de da  u nostru prima muvimentu a tutti fu di corre a li avanti pe u curridore strettu furmatu da u trennu e a trincea  fra petre e ferramenti  per da succorsu  si ellu ci erd jente in periculu o feriti  o furtiina   u santu na   tale avia messu a so manu sopra di noi  in tamantu scuncassu  manc un solu mortu  vehaiiffeur  pienghia cume un criaturu  u capu di trenu surtia da u so furgone in pezzi e for di strada  ci una manu  sanguinosa  vedendulu corre pe u fussettu tutt affannatu  esamina i disguasti  e  dumanda si ellu ci era accidente di persone  avemu cridutu ad una insignifichente ferita  ma quandu volse piglia a penna per scrive u so rapportu  ci junse u freddu a 1 osse  abbidenduci chi u ditu grossu di a so manu dritta un tenia piu che pe a pelle  quel li povar omu stringhia i denti  ma pero  vulia finisce di fa u so serviziu perche sa chi a ci  f di  un burla  ci mettimu in opera per medicaliu perche sapemu chi u trenu deve pussede una farmacia  oh  ie l  era fresca  a farmacia   una striscia di pezza  per tutta furtuna  senza u minimu medicamentu  u  minimu liquidu a desinfetta    r ui tanu u    baccala pe a corsica   marmuttavanu in coru i passagieri         ancu di grazia chi ellu un  ci e graviferitil e e lo   dendu di manu a u telefonu  pur fativu  si annuncia u fattu  7      un trimate   risponde ajacciu  averete versu sett ore u trenu chi col la da qui   era u trenu regulare di a sera         curraggiu  nasitteghia corti  averete un trenu a sett ore ci un duttore e  u materiale per rimette e vitture e a machina in pede   infatti  a seif ore  dopu tre ore lunghissime per noi  scala u curtinese ci un ispettore e un medicu cu  86 mantellu echi pobbe da riscattua u ferite ci un  pocu di timu datu graziosamente  da ui passagie la eletricita  fiacca di avecci per  messu quelchi pocu tempu di vedi  ci e parlacci   si ne era morta dino ella  rendenduci piu  agaeevule  vi suggiornu in su belli lucale eu i so  scogli minacciosi e a timpesta  chi un cessava una minuta  u frenu curtinese chi avia persu u iarbellu 4 anutizia di u fratellu in perdizione  unn ayia  arricatu  che dui lampiunasci   mezzi cechi  campa  chi un viaghiatore trivo infondu di a so balisgia uf muzzicone di  candela   su muzzicone di furtuna ci schiari  u pranzu  di furtuna dino ellu  chi no fecimu  grazia a un sacchettu di amandule e fichi secchi chi un matalo misse graziosamente a lu abbottu  a svla donna chi si truvava fra noi sparti  ella corcia  quattru biscotti  un altru matalo chi pussedia tre ove crude  ando a ricaldalli a u fume di a machina e misse dino quelli in cumunu  fiu per mio paite  un pudendu fa megliu  mi cantedu quattru o cinque canzone  alligerendu cusi  u justificatu gattiv  umore  u freddu e lu appitittu   per accurtalla  u trenu ajaccinu scalo  anch ellu cu tutti i so cumudi versu l ott ore e mezzu  ma soga a cumedia un bastava   i passagieri a  destinazione di corti  micca avisati  si stavanu tranquilli in li so vagoni pensendu chi si arrestu fussi  una stazione  un sapianu   elli corci  chi ellu ci  vulia a sbarcassi  franca u trinnichellu mortu e mettesi in  lu altru chi la aspittava  e cusi  ta   thanta fila so  stupefazione  ricapitendu in vivariu e credendusi in  corti   e   sr  un  mi vogliu scurda di di chi su trenu chi  ci purtava versu  a capitale  fenduci fa un  ziguli manguli for di  misura si era appruvisiunatu  prima di vene a u nostru  succorsu  di scaldaghiole piene di acqua cudrata  a inajo parte di i  passagieri uii pudendu piu resiste si sbarconu a fofe a misura per istrada  chi in vivariu  chi in bucugnanu     fiu  a donna  i  matalo  tre o quattr altri viaghiadori e u feritu chi zucculava di frebba  ghiunsimu a portu a mezzanotte e meziu in un statu che an vogliu mancu  discrive  u peghiu era ancu quellu tinti capu di trennu feritu chi averebbe duvutu e pussutu esse medicatu a locu  salvu dipoi sei ore     circate  di facci almenu una bella canzona corsa   mi dissenu  in segnu di abbedeci   i mio cumpagni di viaghiu a a staccanza  in la stazione di aiscciu  6    un bi scurdate di a farmacia  di u lume e di e scaldaghiole   mi grido unu  pigliendu u galoppu versu a citsr  a    dite chi ellu un ci era manc un deputatu cu noi  aghiusto un telegrafistu      mi ne rientrava pianu pianu in la stazione per rimette in cunsigna i mio pacchetti di robba purcina tutti disciolti e sciincassati anch elli da a  jutta  ci uh giuvanottu e un impiegatu di trenu a u quale dumandedi per curiosita ci  a    ze chi li daranu pe sa disgrazia hi   e   a velerita     a  cla e sm i   l bh  si la inchiesta ghiustifiche  ghiaia so favore  tuccara a so mezza paga durente u so riposu     sr e u chanffeur di u trenou rottu chi e diventatu chi un lu aghiu piu bistu   doo sepi pue lie      beh  qiellu poi  e un altru par di maniche  en po abanduna a so machina edeve aspitta culi  cu e cantuneri mubilizzati  fin tantu chi tuttu
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="10" type="art" xml:lang="co">
+    <p>
+     cronaca aiaccina  u bambinu  come tutti li anni e feste  di u bambinu so state fatte cun divuzione ed alligria   i soldi so falati cume a grandina   e dicenu chi ellu un ci ne e    e butteghe so state assaltate tutt a jurnata di u 24 e i marcanti di bombo banu fattu ricette meravigliose     a mezzanotte tutt e jesgie e capelle di a citta eranu inzzuppitea ghiente e e cirimonie religiose hanu sbrullatu sot tu e volte  canti  musica  profumi e prighere da intinfari ancu le anime dannate   quellu chi un va a sente a messa maancuin la fiotte di natale unn e degnu di ave occhj per bede  arrecchie per  sente e anima da parduna   dopu si so fatte e magnate  u   reveilion    par celebra a nascita di u   no$tru signore jesu cristu  la umanita i ba capite chi ellu di vole a fa travaglia   ie mastucatoghie e a stappa e buttiglie   di vinu vecchiu    x   cum ell e fusu in parecchie case e nostre vecchiette hanu datu a magna a  i morti  dopuu pranzu di a mezzanottea tavula e stata parata pe a cena  di i spiriti   pesci fritti  baccala e vinu biancu       4   1 scarpucci di i zitelli so stati messi a u fuculagbiu da chi u vecchiu  barbibiancu ci mettissi ghiucattuii e dulciumi  le cu    ma quelli chi unn avianu scarpi un ha  a nu pussutu ave nulla  i  u vecchiettu unn amaiscalzacani     inia nuttata     prufittendu di u travaglio generale di e masselle e di u trustulu chi elli facianu i tapi di e buttiglie  uni pochi di bravi figlioli si so messia tafuria i muri di le orefice campi  avianu quasi finitu u so  interessante travagliu  quandu funu mulestati da urrimbecile chi si ne andede a chiam a pulizza  ci fu subitu uu fughj fughj   a pulizza pobbe truva un mandile marcatu da iniziali a ci   pienu di belle cosein oru e in argentu  un assurtimeritu cumpletu di attrazzi di ladri  attrazzi perfezziunati ghiunti  si crede  da marseglia o da tuio    e  ciocch e accadutu era da prevedesi  dipoi  quindici o vinti jorai in aiacciu a si spasseghianu una vintena di faccie brutte e    abbastanza curiose  ste facciette si vedenu tutti li anni a pocu pressu a l istess epuca  e  affate curiosu   a sf epuca ci so sempre uni pochi di magazzini abbuttati   ma  oh  forsa   chi la sa   e prighione ponu essa ancu troppu piene    e la  fuciiate   duie fucilate so state tirate a un chilomitru da sari di orcinu  sopra a lu au tombile pustaie  chi face u serviziu  alrceiu a lopigna  e  u cunduttore franchi e dui passagefi  so stati feriti  tra i passagieri feriti ci si trova a surella di i eminente avucatu campinchi  li autori di e fucilate so incunnisciuti     semu cuntenti     di rigistra chi a sucieta di le industrie adunite di a citta di aiacciu ha fattu pruvisione di carbone di manera a un piu lascia a citta in lu bughione   tantu megliu e chi ella campi spanetta    sa  a u caffe ne apulio  isimpatichi padroni di stu grand caffe ptiparanu pa u cinque jnnaghia una tombula gratis pe a so impurtante clientela li oggetti da guadagnassi so sposti a le interiore di u caffe e so bellissimi   a uteatru municipale    li aiaccini correnu a vede i belli  films  di sta gran stabilimentu  una pruduzzione di lussu  le brigand gentilhomme e veramente una maraviglia di le arte cinegraficu       i
+  s
+    </p>
+    <docAuthor>
+     U Jattu Pinnutu
+    </docAuthor>
+   </div>
+   <div n="11" type="feu" xml:lang="it">
+    <p>
+     sbiagio deltimatie in  mano 1a  gale    ta senza  far motto  e ne sernbiante di accorgesi di cosa alcuna    il  fratecasacconi sapraggiunse  comecche piu tardi   e vistala scena mutata si  fregava gli occhi    come trasecola  to    sentendosi il signor giacomo piu padrone di se  si accosta piacevolmente al capitano  e gli domanda  7    e ci vorra  molto tempo prima di arrivare      no  verso l un ora di notte ci7 saremo  colle bordeggiate ho fini457 duesta ultima e stata la piu  lun   ga  pensava di coriducesse fino a bastia  adesso ho stretto il vento  e come vedete vado di burina chi e un incanto   non vi par ella la ria galera cosi chinata un gabbiano che radendo il mare vi tuffa un ala  gradie alla immacolata siamo fuori di pericolo cosi degli uomini come del  mare    ni ptt  i corsi tornarono sotto cheti cheti  il boswel non si parti piu dal fianco del capitano  finche questi non gli disse  ci siamo adesso fac cio calare il caitco  che ci rimorchi fino alla spiaggia tol piombizio alla mano per iscandagliare il fondo    s ed ora ia quanti passi di acqua giudicate voi che peschiamo          nie giudito venti  i  boswell fattosi allora al boccapofto  vi si affacciava gridando   su  su che siamo a casa    salirono  la notte gia scura non dava luogo a contemplare la faccia della gente  ma si sentivano gli arieliti  i gemiti e per fino i brividi  segni tutti del tremendo affetto che  z1i agitava  dalla parte di terra non  comparivano distinte le cose   solo  fi contorni di monti neri  dipinti in   cielo meno fosco  e le masse dei  fabbricanti    pero di su  di giu sopra la spiaggia andavano e venivano persone con isthi ppe di pino accese nelle mani  rammientando le miriadi delle lacciole sfavillanti pei  bui sererridelle notti estive  il frate casacconi ando difilato a prua  e co  la  sporte le braccia dal parapetto della nave con voce di piante esclamavai      i a       o madre  o madre  mia    e eil boswel  che gli veniva dietro tisdose iti   i    o ete    bene  bene   mi rallegro con voi  signor frate  che abbiafe la madre  viva  deve avere a quest ora una bella eta    ni     ma it frate non io badando continuava        tu mi stendi le braccia    eohime lia te vengo  il boswell dietro      non sarebbero mica i vostri occhi di natura di gatto  che vi vedoho di notte    mentre cosi il signor giacomo favella  il frate spicca un salto di sopra al bugnpresso  e giu di tonfo nel mare          misericordia  grida il signor giacomo spendolandosi fuori della gakera   affoga    il signor frate si affoga   pare    tengo opinione    salvo suo onore    e che sia ammattito  d  e sopraggiusero giocante e ai tobello  i quali  chinandosi a loro posta  videro il fraterin mezzo alle oude  che sotto i suoi colpi vigoro si smagliavano fosforo  notare malgrado la sud fonaca come un tonno  parve non avesse a traversare gran tratto per mettere i piedi sul sodo  dacche fu visto sorgere ritto e rompere le acque  che gli gorgogliavano intorno alle gambe  con passi ve  loci  mentre anch egli alla sua volta gridava      tocco la madre mia   jasciatemi con la mia mattana  e voi signor inglese  restatevi con la vostra sa  pienza  che buon pro vi faccia  si    grande e le amore di patria  diceva in questa altobello  in ispecie se riposifio nel suo seno i nostri parenti  imperciocche allora ci appaia come le erede del loto affetto per noi     bene  siamo di accordo   ma non vedo ragione di bagnarsi senza bisogno fino all osso   e mettersi al cimento di troncarci il collo per voler bene alla patria      certo  rispose altobello  non cascava nel quarto ad aspettare tanto da scendere a modo e a verso    oh  sentite   sentite    f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

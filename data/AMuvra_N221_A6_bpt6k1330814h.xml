@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330814h
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330814h
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 221 | Année 6
+     </edition>
+     <date>
+      1925-09-27
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     ss» Sest' annata — Numaru 221 Esce a Dumenica Dumenica, 27 Settembre 1925  A MUVRA  GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI :  In Corsica. . . ..'. . ... . + . - . 12 franchi  In Francia. .~. . . . . .~. + + -.. 15 »  A. lPEsteru . ., ......-.... 25 »  U Numaru:4 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88,. Corsu Grandval 88. — ATACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     dialogu nominatu  francia e corsica  corsica    da centu cinquanta sei anni malediscu u destinu    so povara e abbandunata  e nisunu un mi aiuta in stu mondu    ti aghiu datu e francia  u mio sangue  u mio sudore    e quale fu a ri cumpensa  malanni e guai     francia    di cosa ti lagni e corsica mischinella    nulla ti manca e se ti aghiu levatu a liberta  ti resta sempre a mio bandera  7 7    corsica    chi bandera  quella a gigli di oru  fu per me u principiu di a schiavitu    u tricolore  ne  a guerra passata  i mio figlioli  cumbattendu cun onore  ti hanu salvatu di un gran periculu  i  francia    ognunu ha fattu u so duvere    guarda i senegalesi  i malgasci e tutti quaiiti    cosa voli di me  tu chi pienghj mane e sera     corsica    vogliu  a mio liberta  mica quella che tu hai inscrittu sopra i to monumenti  ma vogliu ave u  dirittu  di parla in casa meia      francia    questu e impussibile perche ben chi eo un ti ami  aghiu troppu bisognu di te    aghiu bisognu di u to sangue  di ito bracci e di i u to sudore    se tu ti ne vai  o corsica  quale fara a guardia diu mio imperu    o    corsica    lu imperu  senti chi meraviglia   cunobbi solu la acula e u fasciu littoriu  pare lami di napuleone   quellu ti fece vede u valore latinu   francia    ma cosa dumandi  mille millioni   ne riparlerem lu annu chi bene     corsica    so stanca di pienghie e stanca  di aspetta  i mio figlioli preferiscenu a mio miseria a e to ricchezze  u mio dolu a e to gioie  mi vedi sola e afflitta  senza amici ne parenti  ma quantunque aghiu u curaggiu di fa bale i mio diritti  un ti ne scurda  a francia  sopra a te e  sopra a tutti  avemu dio             francia    u to linguaggiu insulente un mi face paura    ti lu aghiu  detta  a frusta e sempre pronta  e si ellu ci abbisogna  ti possu duma in pochi jorni  assai piu prestu che    un  corsica    centu cinquan ta sei anni fa      no  i tempi so cambianti  aghiu per me a forza morale  e contru sta forza  un ci po niente 
+  s
+    </p>
+    <docAuthor>
+     Ageniu Grimaldi
+    </docAuthor>
+   </div>
+   <div n="2" type="poe" xml:lang="co">
+    <p>
+     vindemia   a petru rocca    cu tre caspe di uva   u sole di settembre  radulcitu  affacca e innora e pampane mature  cu ellu  affacca attempu da le alture  di giuventu un stolu in fila unitu   i canti allegri squillanu  e li acelli  salticchiendu fra i calzi intricciulati pizzicanu i  granelli inzuccarati   e  cu i vindemiador  cantan  anch elli   in nissun  altro loe u  la natura  si po mustra cusi  futia bellezza   u colpu di oechiu solu e una carezza  la oreechia di ogni voce si assicura      coglie in dolce cantu di e zitelle chi invianu terzini a i namnrati   i trilli di li acelli spenserati    e  in inniananza  u belu di pagnelle   vinti mannecie sgualtre  fra e rambelle  senza pieta pe i frutti culor di oru  facenu atagliataglia  e  in le curbelle  si amontanu le caspe    a chi decoru    ecenci  in fila  e nostre cursaechidle carche  ma snelle e di vivu culore     correnu a saltu in salina e fragnaghiole duvelu secchiu schizza e da licore   a vespa e la apa anch elle fanu festa  assamiintieri si vedennjugne    da puva vanu in facia senza pugne scurdendusi di ne bugnu in la furesta   tuttu e piace in vindemia    ancu a fatica  lu omu spustendii brama u lindumane    e  fiaccu  a sera  a lu abbagghiu di ne cane   si addurmenta pensendu a la so amica 
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     stanca e vinta  la alzata di a croce di poutenovu   si omu ne cridissi a stampa di tendenza chi face u mestiere chi omu sa   ebbe e significazione e piu inaspettate  es    i patriotti chi vulianu      a sente questu  vulianu semplicemente  pone un sucillu sopra a tomba di un passatu spentu chi un deve risuscita       a sente quellu  sta cirimonia fu un occasione cerca da i pueti per  cumpone ballate funebre e per li oratori di fa un pocu di litteratura mitologica  li eroi corsi so mintuati ma un ne intercorrenu nu u  discorsu ce cume i di i di lu anticu olimpu  o tu    asente tale altru  sta ma e nifestazione populare fu una prova  fra centu  la arciprova ichi  a corsica tene caru a francia e rinega per  sempre a so prima mamma  ancuquand ella lampa un  requiem  a i so morti gloriosi ella si imbene chi diu male surtiu beepinsendu a ugran napulione ripete  o felix culpa qua talem ac tantum nobis valuit redemptorum  a st ultimi chi puntanu a logica all estremu dicendu chi napulione fu a ricumpensa di pontenovu  ne piu ne menu  ci cuntinteremu di cita a parolla di u misticu tomaseo    pasquale paoli scusa ed espiazione anticipata del reo bonaparte    i  a tutti paltri  spiegadori di un attu chi di spiegazione unn ha bisognu   rispundere  mu cun altra parolla di dante alighieri     mi laggiu trovammo una gente depinta che giva intorno assai con lenti passi piangendo e nel sembiante stanca e    vinta  elli avean cappe con capuci bassi dinanzi a li occhi     1    per quale ha scrittu fat tissimu pueta  un si diceria chi ellu avia ind occhi a corsica di stu seculu vintesimi    nel sembiante stanca e vinta  so i 3  spattitudine di un populi domu per forza rassignatu a seguita  carcu di stracci  u carru di u vincitore  cumu a truvate     bella     allora va benissimu   ma ci ne eun altra forse  piu bella   quella di un pepulu eroicu chi cuntinua e so tradizione di fierta      per noi agloria di napulione un basta  ne per suddisfa a corsica di oghie  ne per intarra u sole di la indipendenza    le ideale paulinu di una nazione chi si move e fiurisce libera  accantu una nazione chi a rispetta  unn e ancu spentu  per ellu so morti i forti di isdraele chi casconu intondu a pontenovu     a rivincita di pontenovu un si e ancu vista  l imperatori un ci hanu piu pensatu si nostri rapprisintanti si cuntentanu di chiacchiare e di frigietti rosst  eccu a verita   sta rivincita intendimu di piglialla  micca per ispiritu di vindetta salbatica  micca cu u piombu  e cu le arme  nia pacificamente cum ella sende a ghiente di razza nobile 
+  s
+    </p>
+    <docAuthor>
+     Martinu Appinzapalu
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="fr">
+    <p>
+     pour le droit et la civilisation  les beaux jours de f union sacree sont revenus de nouveau les journaux s emplissent de communiques officiellement faux de portraits de generaux etoiles et aussi helas de  moris glorieuses au champ d'honneur  roc rien ne manque au tableau macabre la note comique est fournie par ce journaliste perisien qui reclamait des  marraines du rif  cet etat de choses est bien daus l ordre et ceux qui songeraient a s en etonner seraient d une incorrigible ingenuite  a le cartel des gauches tout comme l aurait fait le bloc a sa fagon a lui d imposer la civilisation francaise aux barbares doit on s ebahir de lui voir employer en guise d arguments persuasifs lebels tanks et mitrailleuses  le spectacle dela fievre tricolore qui recommence a rechauffer les bons patriotes ies agissements des nouveaux rousset et cherfils qui des eperons a leurs pantoufles et un sabre accroche a leur robe de chambre renouvellent leurs ruades inoperantes auraient pu  la vue de l'imbecillite humaine est chose si rejouissante  nous emplir d une douce joie si de nouveau et si tot nous n avions sous nos yeux la douleur les deuils la mort  ainsi six ans apres la derniere des guerres des jeunes gens tombent au nom du droit et dela civilisation au maroc voulue et entreprise par le proconsut lyautey general de boudoirset d academie c'est la guerre la plus impitoyable qui depuis des mois deja sevit en syrie sarrail cet homais sinistre jaloux sans doute des exploits de son collegue africain conduit contreles druses une lutte difficile et qui promet d etre longtemps meurtriere si pour nous nationalistes corses nous placant aux points de vue historique et social nous reprouvons ces formes de guerres qui pour etre habilement travesties constituent bel et bien des etran  glements de la liberte des peuples  nous ne nous attarderons pas trop cependant sur ces considerations car un probleme plus urgent et plus douloureux nous retient de quelle facon sont constituees les forces vives qui au maroc comme en syrie sont mises en oeuvre pelles sont composees en grande partie d indigenes soumis et de corses    vous entendez bonnes gens en 1995 le gouvernement democratique de france employe les corses et les africains a ses entreprises imperialistes  pour se convaincre de ce fait il n est que de lire les journaux locaux pas de jours ou la mort de l un de nos compatriotes n y soit annoncee et quand sauronsnous la verite entiere  pour le moment a muvra se propose de demander a chaque maire et a chaque cure de corse le nombre des blesses des morts et des disparus dans les aventures coloniales  nous aurons la une statistique edifiante   on peut d ores et deja assurer qu il meurt en corse en ce moment presque autant d hommes que pendant la periode 1914 18  et cette douloureuse situation n est pas pres de finir m jean de pierrefeu qui s est specialise dans les etudes de guerre assure que le conflit marocain pourrait durer deux ou trois nouvelles annees rejouissons nous d ailleurs pour  quoi nos gouvernants se generaient ils  ils savent par experience que pour mourir pour la pairie les corses sont un peu 1a
+    </p>
+    <docAuthor>
+     Pasquale Manfredi
+    </docAuthor>
+   </div>
+   <div n="5" type="poe" xml:lang="co">
+    <p>
+     corsica  pontenovu  curunata di boschi   bagnata da lu mare   a i pedi di un altare inghjnucchiata   sempre martirizzata da tarchi e da cristiani in li monti  in li piani  e pa le valle   daret a le to spalle  i vittoli imbuscati  si so sempre piattati a fatti focu   si spegn a poc a pocu  u to core in lu delu  e un ci e manc un figliolu chi ti chiama    a natura chi ti ama  cunsola i to dulori  danduti rose  fiori e dolce sole   nascenu le viole a tutte le staghione   spegne lu nivaghione u to clima   ma un se anc a la cima di futti li to guai chi un finiscenu mai  o mamma cara    intorn a la to bara  un ci e ca rinigali  cu li occhj spalancati di impustura   bella la to statura   celeste lu to visu ma ancu in paradisu sare trista   un si sara mai vista sorte cusi iurbata   povara  tribulata man e sera   torna la primavera  cu tutti li so fiori  rinascenu y emori di u passatu   u cuccu si e spartatu   cantanu i rusignoli   ma piegnenu li doli e la sciagura   firichi la mondu dura rinasce ogni billezza e torna la aligrezza  in tutti i cori   ma par te li duttori  un hanu midicine  chi se ghiunt a la fine di e to noie   so finite le gioie di li tempi passati   i to figlioli ingrali so a la festa   fa scuppia la timpesta  di u ventu pupulare  chi ella li port in mare e cusi sia   eccuci a ponienovu pien di sol e di rose ma par noi so cose    innaudite   sgottanu le firile  di i veri patriotti  chi hanu li membri rotti da lu piombu   e mutu lu culombu   e dipoi stamane  so sciolte le campane in lu dulore   si e scuratu lu sole mughia la onda di golu   un ci e piu un corsu solu in tutta a valle   tazzati da le palle    trascinati da u fiume   falanu tra lu fiume di a rirolta   copre la nebbia folta  sia luita cusi atiroce  marcaia di una eroce senza nome   finita e la funzione   sentu cania lu reguie e sona le esequie di a liberta 
+  s
+    </p>
+    <docAuthor>
+     U Monacu
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     lu apitittu di calabraga   cumedia in 5 pranzi e 13 culcullazione   pranzui  ancu par dalli un cinquinu   pa la salute o lu inale  calabraga un beie vinu   cusi dice lu jurnale    si vo fate lu cuntrollu si beie ancu lu pitroliu   fidiate   in prefettura   ellu a beie sempre chere  si beie   le essence   pura  e si succhia le lumere   e poi  castigu nostru   si sterpa tuttul inchiostru   a sera  nanzu di parte   tandu lu apitittu bolle   lu ossu par taglia le carte u ruzzica e po lu ngolle    dopu biotu u calamaru si ingutupa lu   buva   ru   quandu vede un impiegatu   li chere una sigaretta   un scarpu ancu tafunatu   un buttone di braghetta   e senza  guarda sumiglia   da masci e femine piglia    a la tinta purtunara   ellu la ha custrett afughie dicendu   vi tergu cara    pudariste dammi a sughie   cusi  par ave lu latte  di bada  vulia scumbatte   par calma lu so bisestu   a li povari furrieri   ellu li dumanda in prestu    a camisgia o li straglieri  e la mane  quandu ha lu asgiu  li dumanda   pane e  casgiu   quand ha finitu u travagliu    ech ellu ne sorte fora   tuttu chere senza sbagliu a la fin chere ancu la ora   quandu passa un figatellu   ellu 1eva lu cappellu   ista volta  in prefettura  di uva e stata malannata   nanzu  ella fussi matura ellu si la ha pizzicata    mai piu ci sbarcara simule filoxera   e malannata par tutti ancu pa li nostri gatti   dopu stirpatu  li frutti   ellu si lecca li piatti e subitu vistu un ossu li si lampa prestu adossu   magna pucie e calavroni   di i topi rode la pelle   si ruzzica li piantoni   magnaria umbasti e selle  calabraga  calabraga  sempre magna e mai paga 
+  s
+    </p>
+    <docAuthor>
+     Maistrale
+    </docAuthor>
+   </div>
+   <div n="7" type="let" xml:lang="en">
+    <p>
+     Intornu a Pontenovu  An Irish. Letter  To Mi. Petru Rocca Director of the MUVRA Ajaccio (Corsica)  Dear Sir,  We have just received your courageous weekly containing the relafion of the Pontenovo’s ceremony. We thank you with all our heart and we are felicitating to you very sincerly for your noble and patriofic campaign for the Liberty...  Your -eloquent discourse- so that of your brave comrades Maistrale, Eugene Grimaldi, Matteu Cirnensi, have been translated and published in our mnewespapers of Dublin. and have been very appreciated by the entire irish people.  You are continuing thé noble traditions of your glorious island of Corsica, so beautiful and so hospitable. You are the zvorthy sons of those who have defended the cause of freedoin and of justice.  Good luck and a hearty shake of hands.  Edward O'Connor.  Francis Mac Kinsey.  Lewis O'Sullivan. Members of the 1. P. C.  Dublin, the 2% of Angnst 4925
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="8" type="his" xml:lang="co">
+    <p>
+     u maritu di mariuccia  luigiolu e rusulina di santa lucia un hanu che una figliuluccia  di cinque o sei anni  fresca e teunara cume un brocciu di santu petru  e graziosa e bella cume un sole   benintesu chi un cambiarianu a so mariuccia per tnfl  i zitellotti di calasima ne quelli di orezza  e luigiolu si passa tutte e so sionde chi ellu un e occupatu a u so travagliu  a ghiucassi cu a so figlioia  a racuntalli isturielle e strufelle  una piu ridicula che la alira  per cuntentalla in tuite e manere pussibile     in di e serate di imbernu  cu e veghie cusi longhe  ci e tempu a gocesi li occhj  o a imbrustulissi e dinocchie da una panca all altra  cuntendue righette di a grafa intornu a un focu imburratu a la nataleccia   un ci e peura chi luigiolu abbia locu di annujassi  o trovi e veghie troppu longhe  per ellu  passanu prestu cume avemmerie   appena fattu cena  si piglia a so figliola in collu  a face balla e can  ta  si jocanu a scalla miana  a bella berba  a su maje  e li conta tante fulelte  stalvatughietti  e  intucciulelle chi facenu spanza di risa a so mariuccia  1 so scaccanetti  empienu quella casa  e parenu un stintiglia  mentu di pezze di oru e  di perle preziose chi si jochinu inseme     ma u piu chi ella ci trova gustu  mariuccia  e chi ella sta a sente cun piu attenzione  e quandu vo  babbu parla di dalli un maritu riccu  bellu  e di ogni qualita  su maritu li purtara tante cusarelle   scatule piene di cunfetti sopraffini  e di cicculata   vesiili in seta e in damascu  cu e campanelle di oru e di argentu  bitture iirale a cinnque cavalli  diamanti di ogni spezia ect       tulle se cose facenu iantu piace a mariuccia chi  tuft esere  ella cerca ataglia cortu a i jochi e dice    alo   ava dimmi cume ha da esse u mio marilu  e cosa mi rigalera quand ellu  junghie      gi 7  e luigiolu ripiglia  pe a millesima volta a stessa filistocca  sempre di piu in piu longa ogni volta   sere passate  cun  lu ultimu nivaghione di u mese di feraghiu  unu di i so vicini junse a passassi a serata cun luigiolu  e i dui amicacci a si ragiunavanu tranquillamente di tuttu un pocu   travagli in currente  racolie future  prugetti di avenire  e infine  di folein canzone  fininu per casca  nisunu e perfeltu   in pulitica  u discorsu era longu e passiunenie  e a serata filava a piu pude      mariuccia  chi paria chi ella fussi cherea di puce e di tignola  si riminicava infuria infuria e si strufinava e culappe nantu a so sediola  avia gia bullatu parecchie volte i so occhj vivi  ma cusi languenti  versu u sobabbu chi un facia piu casu ad ella  tantu u ragiunamentu la occupava  bidendu chi u discorsu  un finia mai  mariuccia si alzo  si ne passoin di un cantu  e cula si lampo cume una personna veramente fatigata  e  dendu un sguerdu pietosu a u so babbu  chi si scurdava cusi di ella  grido ci una voce unpocu stizzosa      di tuttu si parla siasera  ma di da maritu a mariuccia un si ne parla  no    e  eppo subuccio a pienghie   luigiolu taglio di colpu ne discorso  sgrigno a ride  licenziendu subitu u so vecchiu amicu  e corse a pigliassi a so mariuccia in colli  li fece tante carrezze  li calmo quellu piantu e quelli sugnozzi  e fini per acquista pienamente a cunfidenza e le affezzione di a so figliola  allunghendu assai piu che di abitudine  a filistocca di e belle cose chi u maritu avia da jun  ghie a la so cara mariuccia  cusi bella  e fresca cume un fiore appena sbucciatu in di i primi jorni di primavera    i
+  s
+    </p>
+    <docAuthor>
+     G. P. Lucciardi
+    </docAuthor>
+   </div>
+   <div n="9" type="the" xml:lang="co">
+    <p>
+     un bell impiegu  scena a 2 parsunaghj  sgio bartulume u  niguziante in legni    paulellu  scribus     paulellu  u capellu in manu     pudaria parla a u sgiu bartulume u  u niguziante in legni p      u sgio bartulume u    so e u stessu   cosa ci e pe u vostru serviziu te   p   mi piace assa  a sgio bartulume  di fa a vostra cunniscenza  scusatemi si e vi disturbu    vengu a vede    o per megliu spiegammi aghiu intesu di chi vo aviate bisognu di un sigritariu    i   bi   pusateia     bisognu di un sigritariu saria troppu  di    cercu piuttostu  qiialchidunii chi pudaria aiutammi inde u cummerciu chi e facciu  devu da capu a tante cosel        an  p    pensu  chi u sgio pippinu v ha parlatu di me    so paulellu    u figliolu di stefanini  u marcante di saracche e di anchiuve in borgu     bi    ah  ah  sete voi u figliolu di stefanini      p    ie  so paulu stefanni   bi    di fatti la altra matina  annant a piazza di u  marcatu  lu amicu pippinu mi a parlatu di voi   p    sicuru chi v ha dettu   chi e avia tutt i me certificati      bi    si  si  a mi ha detta   p    so ancu bacilliere   bi    un be     ditemia posta chi vo sete bacilliere  duvete ave una bella scrittura    p    a vi credu   so fa le inglese  a  bastarda e a ronda  basta chi vo sapessiti che aghiu ripurtatu u primu premiu  oo    bi    parfettu      eh  be  a sgio paulellu  a parte di oghie vi pigliu a u me serviziu    ma  sapete  a paga  per principia  un sara tanta     p    capiscu  o sgio bartulume u  ci e un cumminciamentu a tuti   nr  bi    posta chi vo sete bacilliere  vi daraghiu centu franchi u mese    un ne dava ca nuvanta a quellu  chi e partitu    e vera chi un avia micca certificati    so be chi a i tempi nostri  centu franchi so poca cosa   ma sete ghiovanu    in de me  vi farete a situazione    e po mi pare be chi vo viviti in famiglia    p    si  in famiglia  a sgio bartulume   i  bi   a videte chi un mi sbagliava      cosa vi dumandu e niente  o guasi    malgradu a me pusizione  un so micc omu a imbuffammi di orgogliu    p   u sgio pippihu a mi ha detta   bi    vivu simpliciamente  sapete    piglienduvi in cosa mea  un vi  cunsidareghiu micca cum un impiegatu  ma cum un amicu un  verue bonu cumpagnu     p    o sgio bartilume  grazia pe a vostra amabilita        bi    criditela puru  u me caru  sarete lu amicu intimu diu sgio bartulume u   bi    biramente  sete troppu gentile 1            bi    qui  inde me  a vi ripetu  sete  u vostri padrone    andate  vinite  pusatevine  marchiate  fate cume si e un ci fussi   cume si e un ne esistessi micca    basta chi vo facessiti per u megliu inde lu intiressu di a casa   p    cuntate puru annant a me  e e me  occupazione  e sgio bartulume  sariani      bi   e vostre occupazione   quasi nulla    ascultate   a matina vi ne ghiunghite  versu sett ore   mittite un pocu di ordine inde i scartafacciu sparsi annant a a burea u date capu a chi ogni cosa fussi he a postu    e po  diu me u  si vo videte un pocu di polva  a nittate    frattantu  niente  v impidisce di da  un colpu di spazzura    e cusi prec tu fattu       sr dies  p     un pocu va e 7gugnosu  sicuru i      84e   si  bi   a ott ore e mezzu  fumen  duvi una sigaletta  vi ne andate a  circa u courrier a posta    ricuti  te qualchi mandati    affrancate un   cintinara di lettare     p    e intesa    bi   di ritornu  ne prufittata per porghiemi u me latte  chi e vi prigaraghiu di fa riscalda ogni man tina    e po  a nov ore  andate a banca    strada facendu  lagate qual  chi fatture ind e pratiche   p    epo dopu    bi    a dec ore   cummencianu g scritture    vi ditteraghiu una  quin  dicina di lettare    e po trascri  varete lu articulu chi e do ogni iormu a u petit marseillais  u  cupiarete cu inchiostru speciale  e ne tira rete 15 o 2o copie  questu fattu   p   questu fattu     p    purtarete u tuttu a posta  e  po vultarete per leghiemi i ir  nali di a cita  senza chi vo vi scor  diti di indicammi u corsu  di u iornu  i    p    binissimu     bi    e po  a ondic ore a mez  ziornu  affare di passa u tempi  incullarete i buglieti di 5 franchi stracciati    ne farete pachetti  di 9o franchi par omu    a mezz iornu        p    impazienfatu  vagna pranza  speru p    coi   p  e appuntu cume vo dite    andate a pranza  ct  p    va be    e dopu pranzu    bi    dopu pranzu  fin a tre ore  mittite e scritture in regula  i al lucate priziosamente e cuminande    virificate u libru di cascia    tandu tagliate u fuglittinu di stu jurnale  e per me mugliere    iiibri so cusi cari a i tempi di ogfiiet    p    a quale a dite     e poi   bi    a quattr ere e mezzu vinite a circammi a u caffe nabulio  vi daraghiu e me istruzione pe a currispundenza    questu fattu  andarete ad aspittammi a sei ore a u solferinu    mi truvarete ghiuchendu a scopa cu nasu tortu    cula vi daraghiu qualchi piccule  cummissionei   se fa ne  p     piglienduli a narvosa  e tuttu   si    bi    credu  di si  a vi dicu  satete sempre libaru di fa cio chi ellu vi pare  videte o   paule  chi un avarete a da  capo a tante cese  e un impiegu commudu e sopratuttu di avvenire    cosa ne dite  vi cumbene      u  p     murzichendusi e labbra sicuru      ma pero  o sgio   bartulume  prima di cunsente  lagatemi di     ne   bi    dite    parlate subitu    bi    cu un tonu ironicu  5o ga sete cuntente di a serva chi vo avete in casa  he les  bi   ah  ah   questa po mi   ma parche  6   panle  fammi simile dumanda    7 unn  p    parche pi  bulete sape par che      e chi forse  e u  pudari isid a iurnata impanna a criatura  nittalli u mucichile  annannalla  addurminfalla    e si madama bartulume u e stanca  pudaria aguanta a sporta e anda a fa u marcatu    ancu  si ellu ci vole  mi ne  lavaria i piatti e faria lucica i chiapazzoli         bi    ci aghiu pinsatu    ma e brutte lingue di a citta pudarianu pinsa altre cose    ele  p     accicatu di a  rabbia  pitr sa altre cose       eh  be  e u  e  sgio bartulume  pensu chi circhetdu be pudariate truva qualchidi  na chi vi puliscessi i    stivali   bi     in collara  uh  chi scr anziatu   si lu impiegu chi e vi prit pongu un vi garba micca  un vi tocca piu chi a entre in casa mee come camallu     a parte  acchiappal    loi  p     scandalizzatu  un bi abbar gugnate micca      camallu    a pl  bacilliere    in chi mondu vive mu   a parte  sti ricconi so te listessi   bolenu ci omu si sciuppes   in corpu per elli      $
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     a moda  a moda  di e nostre moglie ne face un veru slrescinu    tra duie stonde e so boglie cambianu di berittinu   prima cu e role lunghette si spazzava li scaloni    ma dopu cu e role strette si cascava a ncciuppigoni   ma  grazie  lu hanu amuzzate piu ne su che le so dinocchje    prestu anderanu spugliate ancu piu che le granocchje     in quant a lu caracco   un esiste che di vita    cio chi manca u si purto a vecchja moda smarita   pare chi e pullezze  ava  voglian pavsa per gallocchj  mascu u sguardu ne e diggia postu che linti so li occhj   cun se polvere di risu si ne stoghianu a matina   in sorte che lu so visu  pare ciottu  in ja ferina   pe e labbre chi so sbiadite  hannu trovu lu pinnellu   tutte ava so culurite finament a lu bayellu   le arecchje sole un cambionu   $o restate tufunate   ma per dassi un altru tonu  ci hannu appesu    induvinate    cosi chjamati pendini    chi si bilanecianu appesi so piuttostu pisciatini   di si fighi calabresi   ci ne je di ogni misura e li vedenu anch i ceghi    ma le arrecchje  un ci e paura chi u libecciu le  trinneghi    certi  di si pendinagli   ponu passa per zucchini     tant altri passa per magli e molti per biulini     si so messe a puria u flace u e i ealzunetti sarati  he  i paremi colte in u saccu   cume riccioni pilati   hanu cacciatu le calze e mostranu pelle bianca   piu piu petturicce falze    si vede si ellu ne manca   1 so paracqua di avale  so corti di inffurcatura  e se scoppia un tempurale oh  povera criafura       ava si facenu a barba sottu la ala cume i ciocci   prestu pipperanu la erba e ci netteranu i mocci   ancu finament a eri  i un so state troppu iniatte     ma oghie li piruccheri   un sanu piu duve sbalte  i sedioni so chiappi di bon or la matina     e  pilati cume tappi   y tupezzi a guglittina   correnu pe si carughj cun e tante spazzulette    ghj e un veru scappa e fughj a firmassi in quattru    fette   in tuttu e nu lu rasa  si sa  u muta boga leslu  dunque a donna un po triga a fa altre e tantu pe u restu   sera forse chi ste moglie so stanche di lu so sessu   e burranu nue so voglie di u nostru piglia pusessu    un so le so intenzioni ma si ell e per imitacci   puo riesce pei calzoni   ma ci e dubbiu pe i mustacci   
+  s
+    </p>
+    <docAuthor>
+     P. Borghetti
+    </docAuthor>
+   </div>
+   <div n="11" type="div" xml:lang="fr">
+    <p>
+     giurnali lettre ouverte a m m les conseillers goneraux messieurs x  le parlement corse dont vous etes les membres va bientot se reunir je sais ce qu'il vautintellectuellement pour avoir eu la joie de l ecrire quelquefois j ai moins d admiration pour sa valeur politique viciee des le principe par cette cupidite electorale que je ne me lasserai point de denoncer et qui est plus nefaste a notre pays que la malaria i i la letire que voila vous fournira peut etre une occasion de miontrer que parmi vos nouveaux elus il en est qui n ont pas ete pousses dans la carriere politique par la seule ambition  personnelle ou une tres basse vanite de distributeurs d ecus  je l espere sans toutefois y compter fermeement mais la' conjoncture est trop belle pour que je n essaye pas d eveiller votre esprit critique et votre indignation  la france a donne l an dernier a la corse une etonnante preuve d attachement pour la premiere fois depuis qw elle nous acheta  la metrepole daigna s apercevoir que nous etions departement francais et autrement que pour nous reclamer des impots ou de la chair a canon   elle fit ceci qui est unique dans notre histoire parlementaire  elle crea une comrnissiori de la corse vous connaissez l importance morale de cette creation vous en avez suppute aussi l'importance economique et sociale  je n ai rien a vous apprendrea ce sujet  or dites moi un peu ou est cette commission  dites moi  sinon ce qu elle 2 fait du moins ce quelle a tente 2  rat  la commission de la corse il fallait de toute necessite qu elle commencat par se rendre compte sur place de l immensite de notre mi sere  la dessus tout le monde etait d accord dans l ile et sur le contitinent     les grandes vacances sont passees avez vous croise la commission par vos chemins  non la commission ne s est pas mise en route vers l ile desolee   pourquoi cetacharnement par action ow omission sur le corps de notre miserable pays   y a til oui ou non au parlement insulaire un corse assez corse encore pour exiger une reponse pre cise et claire a ces questions ou doit on desesperer de vous voir attaches au relevement de votre ile   messieurs la corse s est en cent ans deplacee de dix metres vers l est vers la lumiere   e  un seul de ses representants saurait il prouver que ce m est pas la un symbole  fallacieux   pierre bonardi la democratie corse 15 9 25 helas tout cela n est pas nouveau je signalais ici meme il y a quelques jours la grande pitie des petits fonctionnaires dont la pension n a pas encore ete liquidee et qui depuis plus d un an vegetent miserablement en attendant leur du  ou la mort  le grand argument  il n y a pas d argent dans la caisse du tresor   mais n estimez vous pas si cela est exact  et puisque l on deit faire attendre certaines categories de budgetivores  qu on devrait retenir quelque chose sur les traitements des ministres des hauts fonctionnaires des parlementaires et payer sans delai les vieux serviteurs deja si chichement pensionnes et qui sont desarmes devant les difficuites de l existence   oui on devrait  seulement ces vieillards sont justement desarmes  ils se sont uses au service de l etat  l etat ne les craint plus  ils ont donne leur fils ou leur epoux pour le salut dela patrie  la patrie ne s'en souvient plus  vae victis disait brennus   l eveil  les cheminots corses ne sont pas contents les lettres desolantes qui nous parviennent de cette ile malheureuse le prouvent surabondamment traites en veritables esclaves ils triment dur abreuves de toutes sortes de brimades de punitions d injustices ils n'en peuvent plus ils crient partout lenrs souffrances mais personne neles entend leur voix est trop faible  nous voulons vous aider en portant vos doleances devant l opinion publique par une serie d articles ou nous parlerons du repos hebdomadaire de la loi de huit heures des gratifications de la solde ou l on verra des auxiliaires contraints a travailler pour trois franes par jour allocations de l etat de la compagnie comprises dans cette somme des punitions scandaleuses infligees a tort et a travers de la taxe des marchandises des tarifs speciaux non appliques de l etat lamentable de la voie et des batiments  nous verrons apres si m fontaine continuera de regner en veritable esclavagiste en corse l exploitant la pressurarit la torturant narguant a la fois representation justice et presse  a i la democratie corse
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="12" type="poe" xml:lang="co">
+    <p>
+     a i martiri di pontenovu  un ghjornu 6 sacri morti  palma vinia da lu dulore immensu chi mi abbonda  mi viderete vene a quella sponda  chi u vostru sangue generosu ba finta   sera di maghju  a sera  a luce spinta  ogni vostra ombra surgera da la onda  e scuppiera ja mo pena prufonda    pena da longu ne u mo core striata   troppu zitellu ava per ave luttu devu fala nu lu arriugu di a vita rifrinendu cun forza ogni dulore   accettu a pugna  in cu degnu valore pe ritarnabbi  la opera finita sbrogliu  piu grande  a voi solu e tuttu 
+  s
+    </p>
+    <docAuthor>
+     A. F. Filippini
+    </docAuthor>
+   </div>
+   <div n="13" type="feu" xml:lang="it">
+    <p>
+     certo accettissime ci comparvero e fuori di misura grate le tante vostre lettere piene di ammonimenti e di avvisi   pero  a parlare alla libera  poveri noi se avessimo a condurre le imprese col consiglio dei lontani   deh   lasciate in pace la penna ed impugnate una volta la spada  che e tempo questo di sparbere sangue  non inchiostro   tempo di combattere fra i perigli  non gia di consigliare al coperto  ricordateyi curzio il quale ebbe a gloria di precipitarsi nella            no  signore     come no  signore   o non di   ceva per avventura cosi       gia   diceva in quest altra     ricordatevi che le amore santo di patria ha reso incuranti del fuoco  delle voragini  uomini fortissimi e onoratissimi   venite a morire con esso noi voi altri che con noi nasceste  ne vi spiaccia trovare la tomba la dove sortiste i natali          e vero  parlava come dite voi  dunque anco voi la imparaste a mente    u pe di      io   la scrissi        la scriveste voi  grido  sal tandogli al collo altabello   e il signor giacomo  stringendogli a sua volta e squassandogli la destra   esclamava     fa ui ri     ma dunque voi siete proprio un frate dabbene        pare   male possiamo supporre quello che il padre bernardino avrebbe risposto  caso mai avesse sentito cotesto sirano complimento   fatto sta che  preoccupato dalj alando  non ci pose avvertenza  i      oh  che credevi     soggiun geva il frate favellando con altobello    che il tempo speso a imparare a leggete e a scrivere me lo fossi giocato a  tarocchi  io  e poi quando si butta giu quello che scoppia di qua dentro  e il frate si picchiava il petto da rompersi una costola  e si fa sempre presto e sempre bene     benedetti quel cuore e  quelle mani  dunque posso smettere di ricitarvi la lettera  poiche le avete scritta voi       o che tu smetta o che tu prosegua  per me la e tuftauna    non cosi per me  salvo vostro onore   e se nulla impedisce  vorrei pregare ii signore alando ad essermi cortese perche continuasse         ripigliere la lettera  e  la dove sbagli  voi  padre bernardino  mi verrete correggendo  dopo avere discorso degli apparecchi formidabili del re di francia  dei bandi rigorissimi contro qualunque corso si attentasse in qualsivoglia maniera sovvenire alla patria  e delle pratiche fatte presso le corte di europa per metterci al bando dei popoli  cristiani  quasi nella sua superba vilta disperasse con ventisei milioni di uomini venire  a capo di duecentoventimila  prorompeva in questi lamenti     noi siamo considerati dai principi bersaglio degli vomini  fu lecito ai legni genovesi  ancorche neutrali  somininistrare nelle recenti guerre munizioni a tolone  nella sicilia  in cafalogna ed altrove   fu generoso noleggio ed onesto guadagno traghettare nel 1358 settantamila infedeli in grecia per la profanazione di cotesto popolo cristiano  aprire il varco ai maomettani nella europa cos tanta iattura dello impero di oriente  a scapito della fede cattolica   ma che adesso drizzi taluno la prua verso la corsica a causa di mercatura si reputa fellone e sacrilego   la sostanza rapinasi  il corpo apprendesi  cristiani siamo e combattiamo giustissima guerra e di incolpevole difesa   onde chiunque sovvenga noi meschini non puo temere le  scomuniche della bolla 22 cena domini  e vive sicuro di non offendere le santissime leggi del giu sto e dell onesto  anzi e certo del contrario  essendo stato sempre atto di misericordia soccorrere gli oppressi  ora voi vedete  fratelli  quanti mali ne circondano   guardivi dio dalla vergogna di starvene spettatori da lontano   non consentite che tanta ignominia si aggravi sul vostro capo   vi prenda rossore di chiedere nuove degli avvenimenti di corsica con le mani alla ciniola lontani  come se si trattasse di paese forestiero  di cui la curiosita sola vi muova a sapere le notizie  venite  venite  alla fatica e alla guerra che col sudore e col sangue o vinceremo o moriremo da forti   si moriemur enim  non morierum 1nulfi  con amarezza inestimabile la anima nostra tascorre a considerare come non anco vi punga il rimorso per avere tardato ad accorrere in sostegno della patria cadente  e come patiste aspettare le nostre grida di angustia   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

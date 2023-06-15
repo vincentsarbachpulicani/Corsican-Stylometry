@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1923_33
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     dimanche 9 septembre eut lieu au theatre municipal l inauguration officielle de cette foire sardanapalesque qui fait croire a m emile sari que la corse est desormais sauvee de la gehenne  ont pris place au bureau dresse sur notre grande scene m gcorges thome prefet de la corse ayant a sa droite m m de moro giafferi depute casalla conseiller general de cervione  boyer directeur des services agricoles de la corse  et ottavy veterinaire departemental  a sa gauche m m emile sari senateur maire de bastia  grassi president du syndicat agricole  ambrosi professeur  fantauzzi president de la chambre de commerce donali professeur d agriculture  d apres bastia journal  l assistance etait aussi nombreuse que choisie   mon camarade  matteu falcone pretend que j ai failli en n assistant point a cette inauguration a mon devoir professionnel d autant plus ajoute t 1l que nous n avons pas souvent l occasion de rigoler et que c en etait une franchement que celte inauguration officielle   figurez vous un ambrosi pretentieux et grotesque les yeux caches derriere d enormes lunettes a la herz doktor et faisant de sa voix de crecelle une lecon d histoire corse   la france messieurs celle bonne mere gigogne qui m a palme et qui me donnera demain le ruban rouge la france n a pas achete la corse  notre ile a ete abandonnee la france comme gage des sommes que le gouvernement royal avait pretees a genes  pontenovu messieurs un incident et un incident qui n aurait meme pas ete sanglant si les corses ne s eaient pas entre dechires la france n est pas une maratre pour nous et nous  devons lui faire confiance mais quel que soit son desir de nous etre agreable elle ne peut pas transformer notre ile qui est un rocher sterile en un veritable paradis terrestre m de saint genest qui fut prefet en corse l a dit  i n y a rien a faire dans ce pays ni avec les hommes ni avec les choses  quant a notre langue c est une deformation du latin et il n y a que les imbeciles qui la font deriver de l italien     je vous fais grace du reste  mais je fremis d indignation a la pensee que cet homme qui donne aussi insolemment la preuve de son inconscience et de sa corsophobie est l educateur officiel et retribue t de la generation qui monte   et croyez vous que la question ne se pose point de savoir si l administration academique n interviendra pas et ne rappellera pas a ce fonctionnaire en activite de service qu il lui est formellement interdit de s afficher en public et que en tout cas il n a pas le droit de travestir l histoire dans le secret dessein de servir nous ne savons quelle infame machination  car enfin on ne fera croire a personne que cet agrege d universite est aussi ignorant en matiere d histoire corse qu un enfant au biberon  peut il ignorer que l annexion de 1768 69 fut le fruit d un marche odieux et de la violence  ne connait il pas la belle page de voltaire son mot sur les blesses qui se firent un rempart a pontenovu des cadavres de leurs compagnons ceile page dans laquelle l auteur des lettres philosophiques s ecriait rageusement on n a pas le droit de vendre les peuples malgre eux  ne sait il pas que le traite de 1768 qui fit eclater paoli d indignation  nous sommes traites comme ni troupeau de moutons vendu au marche  qui desilla les yeux des corses fut l etincelle qui mit le feu aux poudres  le p grimaldi professeur a l universite de corte la corse d alors avait son parlement sa consulta son gouvernement son armee sa marine ses finances ses tribunaux son universite ses as chives  prononca un magnifique discours en faveur de l insoumission et evoqua les souvenirs de marathon et de platee carlo bonaparte redigea un courageux appel a la jeunesse de corse  que reproduisit un recent numero de giuventu le brave petit organe de nos jeunes amis corsistes  et cet appel emporta tous les suffrages parmi la jeunesse universitaire et les hostilites veritable guerre nationale eclaterent  le professeur ambrosi sait cela comme vous et comme moi pourquoi alors se fatigue t il les meninges pour fabriquer de toutes pieces une histoire apocryphe  oui dans quel but ce professeur qui pourrait etre un bon historien travestit il la verite et pourquoi ment il  il y a la un mystere qu il conviendrait d eclaircir pour l honneur de la corse et de son peuple nous en reparlerons
+    </p>
+    <docAuthor>
+     Fernand Lombardi
+    </docAuthor>
+   </div>
+   <div n="1" type="his" xml:lang="co">
+    <p>
+     a furesta di vizzavona  abbezza a u sbarabattula di tanti fruli signurili   istrangeri  culuniali  corsi e francesi   era lun dammane  in bellu sussuru   ma chi ce   dumandede ansiosu  u caracutu chi monta a var di a  accantu a so funtana rotta  chi ci e  chi ti impreme a te  rispose u faiu vicinu  lascia fa a chi vole fa   a vogliu sape  ci e qualcosa di insolitu  inn aria   rispondi    dicendu cusi dede una sprunata  ala mussolini   ind iglie molle di u faiu e ti li ficcai so biocculi carchi di lesine pinzute   ahi  zittu   un stuzziga cusi    chi a ti diceraghju subitu     aspittemu una visita  una  visita chi conta  quella di  trenta senatori chi apposta per vedeci  jugnenu da pariggi      a momenti i vidare affacca    ava scalanu  fischio u falchettu chi ariava sopra la gara e jalline di zia mariola  lu aghju visti  so una banda  omi e donne   i pini trizzinavanu  tutt inn aspettativa  i piu chjuculelli alzavanu a cresta tra e jambe di i piu anziani chi addirizzavanu u spinu e si allignavanu cume tanti sullati  i piu giovani si davanu  in fretta  un allisciata a i so capelli fini  i fai  unu inticcia lu altru  si lamponu un inferinata a i so fusti bianchi e panzuti  e appinzonu lu occhju foscu  pe i biottuli silenziosi  e pe u stradone  dui gruppi di jente stanca  tiravanu all insu versu a foce un omu vistutu di verde cu e botte gialle i ti guidava pianu pianu  e donne appese a i brecci di i so mariti sculisciavanu annantu e barbule  li omi  in pagliette  in berette risgie  dui o tre sghjacchettati  un ne alzavanu mancu li occhj per ammira a cironi lisci di a ricca pineta  un murmuru di scuntintezza corse tra le fronde di li alburi   so quessi i senatori      chi umerelli      mancu cappelli a decalitru     a  desillusione era amara   in stu mentre  u  piu grossu di i padri cuscritti  un capi biancu  cu e manselle tonde e rasate  linto un gridu e purto a manu in capu   una largia magnifica chi avia vistu passa a napulione trinnicava  i so biacculi a sessanta metri sopra ad elli   a guida tiro u rilogiu   un oretta dopu st incidenti amusanti  pianpianinu e bellu bellu  i nostri visitori  junsenu in piazza a la gara deserta   un gruppu  u primu arrivatu si arristo davanti li affissi di u partitu corsu  pontenovu   un omu cul aghette cinnerognule nantu i scarpi  pippa in bocca  si precipito e i si paro  lu omu a le aghette era listessu listessu a moro giafferri  listessu nasu curbulu  listessa andatura  di tantu in tantu si facia culla a manu in tapezzu allisciendusi a capillera di manera a piattassi a chjrga bianca   que pensez vous de la corse  dumandedu eiu a un bravu senatore chi fidiava e coste nude e in fondu brusgiate  di u monte di oru    pays devaste  mi rispose ellu tristamente  parola propiu justa  questu almenu  ci ba capitu e un si e lasciatu lampa polbera ind occhj  chi ella vivi a so faccia    un umettu distintu  magrintinu  ci un lorgnon  spassiava davanti a u trinnichellu   un site lu oculistu     allora  o sgio duttore fate u piace di aguarda appena a trinnichellu  u puveracciu cumencia a imbecchja  e un ci  vede piu  cavateli sa tilatica chi la annebbia    sempre cumpiacente u duttore carlotti   era ellu     sullevo a palpebra di lu occhju malatu   un occhju mustruosu  cicopleanu  pienu  di macchje   e dicchjaro    minutu cume una vincula  lestu lestu  appari u senatore di bastia  saluto  quinci e culandi  cu a so risetta urdinaria e si ficco abbuleghju   una seconda dopu   trinnichellu  u ventre imbuttangheritu   pe sta volta ebbe u so contu   stinzo a catena di u collu  annaso la aria e fisciulendu cume un merlu  si intufuno sottu frasca e spari 
+  s
+    </p>
+    <docAuthor>
+     Martinu Appinzapalu
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

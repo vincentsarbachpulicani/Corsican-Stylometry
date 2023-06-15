@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330824w
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330824w
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 231 | Année 6
+     </edition>
+     <date>
+      1925-12-06
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     fest” a — Numaru 231 Nos CE vs pe En a Sest'annat D 23 . Esce a Dumenica Dumenica, 6 Dicembre 1925   GIURNALE DI. E PIEVE DI CORSICA  ABBUNAMENTI :  in Corsica. « . . +... . . ... . . 12 franchi  In Francia... «-.~......... 15 »  à PEsterù. . 4, .......... 25 »  U Numaru:4 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Gràndval 38. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="fr">
+    <p>
+     parlemune sempre i lettori di a muvra devenu ricunosce che stu giurnale ha sempre apertu e so culonne a tuite e penne  imparziale chi belenu esprime un idea capace di coopera a u benesta d a corsica x quand un idea e esposta ogn unu e libaru d accettalla o di rifiutalla secondu cio che l insegna uso intelleftu o u so bon sensu a sola cosa che no dumandemu a u lettore d avvisu oppostu e di crede a nostra bona fede e a nostra sincerita cume noi cridemu a so sincerita e a so bona fede poi s ella li piace ch ellu ci faccia cunosce a so opinione senza accumpagnalla d insulti n errare humanum est u dogma di l infallibilita un esiste pe i scrivani e un sera mai a muvra chi l imponera a i so collaboratori   sta riflessione m ha indottu dipoi un certu tempu a espone in tutta sincerita cio ch eo pensu di l'autonomia d a corsica l aghiu fatta senza orgogliu e senza preienzione  asorte ha bulsutu ehi fra i tre mila e cinque centu lettori d a muvra un si ne truvessi manc unu per rifiula e riflessioni d un veru corsu ch aghiu publicatu nantu a stu giurnale  u prete corsu ha avutu piu suecessu che me dipoi ch ell ha sullecitatu sopra stu problema di l autonomia l'attenzione dii so cunfratelli l oghe di u capitoliu francese si so spaventate e hannu lampatu gridi strepitosi parecchi giurnali hannu detiu cio ch elli pensavanu di l autonomisti per elli l avionomia un e  qu une affaire classee n en parlons plus  e l autonomisti un so che des corses devoves et mechants eccu tutti i so argumenti argumenti di paecutiglia ch un hannu alcun valore  dn  saveriu malaspina nutava ultimamente ch a diffettu di logica e di bona fede i calunniatori di l'autonomisti corsi hannu l'elementaria prudenza d'un prununzia che ingiurie impersunali s addirizzanu a tutti e un s addirizzanu a nimu di modu che s omu i pigliassi pe a petturiccia e dilli  e a me chi tu calunnj  rispunderebbinu subitu  un bi cunoscu mancu un aghiu minca parlatu male di voi u vostru nome un e mai sbucciatu da e mio labre ne d a mio penna    lasciemu dunque racchia  ma di l'autonomia parlemune ancera  u prublema e sempre espostu e aspetta una soluzione un devemu teme di ripeteci   sa  dipoi 156 anni che a corsica e sottu a francia un ha faitu nisun prugressu e sempre u dipartimentu u piu miseru u piu disgraziatu quellu induve i viveri so i piu cari e strade e piu scumunicate e piaghie c piu malsane e zinzale ci caccianu l occhj e di piu in piui corsi so obligaii d anda a circa pane n altro a ferra chi l ha bisti nasce un li po piu mantene   tutte e cummissione parlamenlarie e siraparlamentarie senza dimentica quella di a sucieta d e nazione hannu cunstatatu stu fattu tutte hannu dettu cio ch eo dicu un imbentu nunda  ultimamente un giurnale ajaccinu guvernameniale fra i guvernamentali signalava una volia di piu l abbandonu n u quale a francia lascia a corsica e stampava in prima pagina ste quattru verita  e  notre pays a ete systematiquement ecarte des preoccupations de tous les gouvernements la republique a genereusement installe le rail dans les continenis les plus sauvages et les plus eloignes les negres des colonies lointaines oni des trains pourous de tout le confort desirable wagons couloirs dotes de w e etc etc notre voie ferree a nous s arrete comme par hasard en pleine foret et les pauvres trains qui circulent entre les deux principales villes de corse sont un anachronisme a cote de ceux des autres departements francais   les tarifs combines des chemins de fer corses et des transports maritimes rendent impossible toute exportation de nos produits ei font revenir a des prix sureleves les articles que nous sommes obliPSges d importer   ga e trois cents millions ont ete depenses en vertu du mandai que la france exerce en syrie la mise en valeur du maroc a coute a la mere patrie une somme globale d environ cinq milliards   un programme s appliquant a la france entiere d une depense de douze milliards a ete etabli par le ministre des travaux publics  canaux tunnels forces hydroliques weuvre d un caractere local regional national tout y est preou c est un travail qui fait honneur a son auteur la corse a cependant encore ete oubliee   quand donc posera t on nettement la question de confiance du departement isole et delaisse  je sais que la france traverse a l heure actuelle une crise sans precedents des credits par mil lions sont cependant votes pour toutes sortes d objets sur l intervention de parlementaires heureux lorqu il s agit d autre chose que des  choses de corse  la jeune corse di u 27 novembre 1925    chi ne pensa u sgio deputatu caitucoli  e dunque veru cio chella dice a muvra a francia un ha fattu tiunda per a corsica e un fara mai nunda  vede e signala u male e diggia una gran' cosa ma un basta ci vole a circa u rimediu   stu rimediu a muvra u irova in a savieza antica di e nazione espressa in stu pruverbiu  ajutati e dio paiutera   corsi ajutemuei dunque da per noi e per cio dumandemu a decentralisazione  riclamemu un parlalamentu corsu  femu da per noi i nostri affari   eu solu mezzu di falli e l autonomia centu cinquanta sei anni d esperienza devenu basta
+    </p>
+    <docAuthor>
+     Sambucucciu di Casinca
+    </docAuthor>
+   </div>
+   <div n="2" type="poe" xml:lang="co">
+    <p>
+     a corsica viagghia  1 giornali hanno riferito che  seconda calcoli seodesici  la corsica si sarebbe spostata  in cent anni  di 4o metri verso est   a gorsica viagghia    bella nova  un isula unn e micca terraferma   e da chi   in bera   a geodesia pafferma   un ci e propriu visognu di altra prova   a si piglia  peraltro  pianu pianu   un li quadra di corre a pricipiziu    ma pensa  da persona di judiziu    chi ba pianu va sanu e ha luntanu    dece metxi in di un seculu unn e troppu    e si ella viagghia sempre di stu passu   un ci e panra chi ella fia scunquassu   intigendu per biagghiu in caich intoppu   e a francia di sa mossa chi ne dice   versu livante      e  una faccenda seria   ci e casu  ajongu anda    per la miseria    chi ella junghi e si attacchi all altre arice   o francesi di francia  attinzione   po dassi chi la italia  astuta  quella     cu un canapu  sottu acqua  versu di ella a trascinghi pian pian  neciu nicione   mubilitate prestu a flotta  all erta    impidite chi st isula ambulante cuntinui a biagghia bersu livante   e lasci a poara francia a bocca aperta 
+  s
+    </p>
+    <docAuthor>
+     U Babbuziu
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     e tempu di parla chiaru  un povar omu  chiamatu  cyrnensis  face le amore cun marianna    ella  gran signora  ed ellu fieru cum un leone ma quantunque li basta a bede u minimu nuvulu per ave a a carne di oca     mariannella  antica serva  un ha piu ne galli ne galline  e ormai padrona  e  cyrnensis  u so amante  bulendu scimmiutta irumani  ci lampa in grugnu  caveani consules    santa madonna  guardateci di i  mouchards  e di buvaloni  simu corci e meschinelli ed elli so cusi gattivi    de  per un impiegatucciu  hanu tombu babbue mamma  e so pronti a strangula u diavulu e painieve  cuniscite a storia di u purtinaiu  di u lustra scarpi e di u spazzinu          trimmava tuttu ma lu amicu antocammellu mi suffio a la arrecchia    un tine fa  o save    quandu i francesi un  sanu cosa di  parlanu patinu         ed infatti  dopu ave lettu e rilettu lu articulu di  cyrnensis  aghiu capitu    li  vuliva risponde in latinu   argumentum baculinum  ma per timore chi ellu un ne trovi a spiegazionene u larousse  preferitu aghiu u corsu  e speru chi  cyrnensis    quellu tintacciu   mi capiscera     caveant consules   chi ellu vaga a dilla a i sbirri di a piazza beauva u  ma noi grazia dio un avemu bisognu ne di cunsigli  ne di minaccie    li uni e y altri ci lascenu indifferenti  simu abbastanza grandi per sape cio che noi femmu  e abbastanza forti per impiega u matare lu     un pruvuchemu nisunu avemu troppu u rispettu di le ide e altrui   ma sarebbe ora chi i rinnegati sapinu una volta per sempre che noi un bulemu suppurta ingiurie  e tempu di parla chiaru   per un occhiu  dui occhi  e si elloccorre tutt a faccia  simu dunque intesi   ca   acyrnensis  e un prete rabbiosu    u so rome  lu avemu sopre lab bre    aspettemu chi ellu ci parli a visu apertu     avemu gran simpatia pe i preti corsi  omi degni e onesti  a la infora di  cyrnensis  e simu fieri di cunta numerosi amici ne u cieru isolanu  difendimu a religione calpestata da li ebrei e i massoni chi ci guvernanu  a i preti di aiutacci ne la opera santa di u  risorgimentu   onuremu u passatu  difendimu u presente e preparemu le avvenire di a  corsica       e tuttu questu un piace a  cyrnensis  chi si prosterna  mane  e  sera di avant a i nemici di a chiesa    rinnegaiu e profanatore  ecculu in duie sole parole   u credivanu in penitenza  ma lu altru jornu  ci dede un novu  sciantiglio  di a so prosa stercoracea  ne avemu sempre u vomitu  ma femu un sforzu e legghjmu    ce ne sont pas quelques articles ecrits en mauvais corse et quelques chansons peniblement rimees qui  chan  geront les sentiments de nos compatriotes    pour la france    or dunque  noi  les  gallophobes  scrivimu inun corsu pessimu  ein povera rima so e nostre canzoni     a noi  cari fratelli  la ingiuria schifa di  cyrnensis   a noi chi sol avemu u curaggiu di difende u nostru dialettu cusi bellu e cusi chiaru  a  noi chi avemu u meritu di ave creatuuna scola litteraria  a noi chi avemu destatu una nova cuscenza    a  noi u lozzu nauseabondu di i mannarini di trovula    e  cosa ne pensate o petru e matte u rocca  o grimaldi  carlotti  mais  trale  sambucucciu  borghetti  mattei torre  manfredi  tristani  marchetti  rustincu  e voi altri tutti  cari cumpagni di fede  chi site a forza e le onore  di a muora   chi i lumbriculi luzzosi chi si nascondenu jevinu a maschera e li sputeremu in grugnu  li
+  s
+    </p>
+    <docAuthor>
+     Saveriu Malaspina
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="co">
+    <p>
+     u teatru corsu di a muvra in venacu  resu contu di maistrale  dumenica passata ci era u parapiglia in venacu  u teatru corsu di  a muvra   dava una grand riprisintazione  in sala di meria  graziosamente pristata da u merru   cume artisti ci era  a truppa di u sampetracciu  un mezzu palmu di neve  a tramuntana ed gju   u pruncipiu di a riprisintazione era par duie dre e  a un ora  un si sapia si omu avaria ricitatu o no  da tantu u nivaghione     cu stu tempurale  dicia unu  a jente e di nasu in lu focu    ghiust appuntu vinaranu parch un saparanu duve si anda     e megliu a ricita  e figlioli   dece mila franchi di benefiziu so belli e boni     umbeh  dece mila franchi  cu st annate bisestile  un si pudianu  ricusa e le porte di a meria si aprinu a sbalanchera   mamma mea tantu mondu  par quelle scale a tre  a quattru  a fiatu scappatu da tutt u cantone   quella sala tamanta  ava e troppu chiuga  e entri e chi ti entri    ci era babbi e babboni  donne belle   e piu belle di u paese   certe givanette bionde  e brune  chi   so sfidati par se francie   e po ci era zitillucci a banchi pieni  grassi e tondi  di razza sana e schietta       eju chi so furasteru  unn aghiu ricunisciutu ca u merru giacobbi  omu stimatu e pupulare  cu g  mi  salvatori  u gran giurnalista  cusi amabile e distintu   ma eccu u tendone chi si pesa e a cummedia chi cumencia  u primu e  cu pilone e baretta misgia  chi  par scusassi di quellu nivaghione  canta cu a so mandulina  a canzona di u cuccu   ava eccu a ghiannettu notini   u sampetracciu  chi canta una spurtillata di canzone  una piu curiosa ca la altra  u cuniscite  a nottini   figuratevi un diavule di omu di u partitu di u signore chi la ha rigalatu ogni donu  pueta distintu  di i piu distinti  cantadore   simpaticu ci una voce a sette piani  artistu chi pare natu fendu a cummedia  bonu cumpagnu  un bi aspittate da ellu  cume da certi varmi  incroccule  ne tradimentu  un altru donu  notini sa fa ancu i so affari  li sende ancu a zappa in manu   fundatore di u teatru corsu  di a muvra o quanta imbrogli chi ellu trova in la so strada  a jelusia  a pulitica  a mantalita paisana ognuna u li tira una pitrata  ed ellu canta  ride e cuntinua   quandu notini si trova assaltatu da li impicci  eccu chi ti affacca u so gran cumpagnu cantendu una paghiella  ghiuvanni olivieri    cu quella voce scarlattina  cu eso rime curiose  u so spiritu agutu figuratevi un mutore chi da curaggiu e forza a u teatru   olivieri ci ha cantatu   i me rigali   cu bella voce  aria pumuntinca e distinzione  ll    ava ne vene viola chi canta chi pare una cetara antica  un rusignolu di muntagna  bell ajacciu e u lamentu di u bandidu  un incantu par tutt a sucieta venacheese   inseme  cu notini  ci canta a vi ia cara  cursichella di petra rocca  u fox trott di catalina ed altre  a facci sbilliga da a risa   e po eccu e cummidiole  le azlucazione di lucciardi  u gran pueta  i pueta immurtale di santu petru di tenda  le onore e u mudellu di a litteratura corsa    usuggettu  figuratevi un tintu suldatu   in guerra   chi e rinviatu a la so casa rientre tuttu cuntentu  ma a moglia  ava  pirdara le allucazione  o diavule  allora ella li si affarra cume una zecca         inde chi ti mancava a u fronter 7   e 1  certe passate  u veru ritrattu di e scene di ogni paese e di ogni fucone   ci e da more di risa   a moglia era figurata da dorotea cesari chi pare nata apposta   un parlatu chiaru  stagliatu e pusatu  mancu stampa di timichezza  ci una voce  pa u cantu  chi bi addiletta a sente  un tisoru innaspittatu di u teatru corsu     u tintu maritu era alberti  un paisanu fine   pp    e intilli gente ci una maniretta chi pare fatta naturale parfa ride  oh  chi elli campinu sti dui artisti  dissenu tutt e scaccanate di a sala   appressi si ricito a pulitica cummedia di notini in tre scene di vitapaisana  spiritosa  ridicula e muralizzante  ci e pevaru  sale e bonu sensu  un si puo scrive megliu  7   li artisti hanu fattu maraviglie   ognunu sa u so rollu a mente e ricitanu chi parenu in casa soia   madamicella  elisa padovani  graziosa e distinta  parla cun finezza e naturale a so prisenza e una ricchezza e un onore pa u teatru corsu    5  saveriu alberti  ottaviani  olivieri e nottini stessu so artisti di sanna parchi parlanu e cantanu cu u core e a vulinta   un cumplimentu particulare  u devua casanova cu a so barbetta  pittinata e u so sguardu maliziosu  faria ride i spurtelli  un artistu simule e criatu par esse purtatu in trionfu da  ajacciu a bastia  criditemi puru     altrettantu ne dicu di a truppa  cu cummedie di attaccu  ben scritte e ben urdinate u teatru corsu si pudara prisinta in qualunque citta  u trionfu la aspetta 
+  s
+    </p>
+    <docAuthor>
+     Maistrale
+    </docAuthor>
+   </div>
+   <div n="5" type="art" xml:lang="it">
+    <p>
+     i lucchetti  storia di una famiglia corsa del secolo xx    o   tase  o  iase  tamanta bocca        canzoncina popolare corsa   fin dal principio del presente mese di gennaio  petr antone lucchetti fa parte della segreteria politica del signor de gregori maffei  deputato della corsica e uno dei piu notevoli avvocati del foro parigino  pochi giorni dopo che petr anione venne fatto segno alle cordiali  ma purtroppo iperboliche dimostrazioni del signor deputato  ricevette un invito a pranzo  al giorno indicato  si reco al piccolo ma confortevole hotel del signor de gregori maffei  e fu accolto da lui col sorriso e la  lusinga    ah  bravo compatriotta  quanto lieto sono di averlo a pranzo con me oggi  ho tante  tante cose da dirle    qui il signor deputato porto la mano alla spalla del giovane  il quale noto  da questo  gesto  pur semplicissimo  una sempre piu evidente inclinazione del deputato ad esagerare il sentimento ed a manifestare il pensiero  giovandosi di molteplici sorrisi  di boccaccie  dei cigli  delle strette di mano  insomma di tutta la gamina delle espressione   senza parlare delle risate  degli scherzi    tutto un insieme di attegiamenti fisici e di disposizione di spirito che dava un idea sintetica di cosa poteva  esser un tal uomo  lanciato come un bolide nel inondo del foro e della politica  impegnato in molteplici pratiche di ogni genere  che lo allontanavano sempre piu dal sentimento che avrebbe dovuto nutrire di dedicare tutta la propria attivita di uomo politico al benessere del paese  al quale doveva lo scanno di deputato al palais bourbon  della corsica  che cosi lontano sembra da parigi  dove pero si svolgono  i vari imbrogli politici coi quali viene intrecciato il suo destino  tanto ardente e febbrile e la vita della capitale  che finisce colassorbire la intera attivita della rappresentanza corsa  facendo  dimenticare il sacro dovere ai membri che la compongono   durante il pranzo  lo avvocato deputato  parlo  parlo  appariva a petr antone come un vero molino a parole   una specie di eolo del verbo  una sorgente inesauribile di frasi e perifrasi  una cateratta di esclamazioni  suggerimenti  un oceano verbale  una fucina di vulcano della eloquenza   qualcosa di inaudito e di mai prima visto     e poi si venne a parlare della corsica  della situazione economica sempre piu precaria  il tono convinto  le risposte giudiziose  del giovane piacquero ak deputato  il quale finalmente gli offri di entrare nella sua segreteria politica  in altre circostanze il giovane avrebbe rifiutato  perche sentiva un alta ripulsione per tutto quanto tocca la politica  quella politica che lentamente  ma sicuramente  fa morire la corsica  ma era stato gia infor mato della revoca del fratello  e maggiormente preoccupavasi della situazione della famiglia  queste considerazioni lo mossero ad accettare ja proposta  tanto piu che cosi avrebbe potuto agevolmente continuare gli studi     vedrete che buon lavoro faremo insieme  esclamo il deputato  col sigaro in bocca la corse avant tout  est ce pas  cher compatriote      e queste parole francesi  pronunziate con tono enfatico  produsse16 nel giovane petr antone un profondo sentimento di disgusto  di noia  ebbe le impressione di trovarsi di fronte ad un vero farabutto       i pochi mesi che petr antone lucchetti passo alla segreteria del  deputato de gregori maffei furono per il giovine studente  dalla anima  ardente  dal cuore generoso  un vero calvario  li fu iniziato alle molteplici e schifose combinazioni della piu brutta e repugnante politica  queila che consiste nel dare le impressione ad una collettivita che si fa qualcosa per essa  che ogni pensiero del suo rappresentante le e consacrato  che ogni passo di costui e fatto in vista di procurarle un piu grande benessere  mentre  in realta  la vita si passa nel piu dolce  ma anche piu colpevole  far niente   da quel maledetto giorno che petr antone fu messo dal signor de gregori maffei ad un tavolino coperto di mucchi di carta  domande di impieghi  di soccorsi  lettere  di raccomandazione ecc   vene istruito in tutte le piccole menzogne che  unite  costituiscono una specie di corpus fallaciarum politicarum  codice indispensabile per chiunque vuole riuscire in politica corsa  apprese  il lucchetti  il modo con euisi fa aspettare mesi e mesi la vedova che domanda la liquidazione della pensione del marito morto in servizio  o le elettore che sollecita un impiego di aguzzino a neumea o di guardia ufficio al ministero degli interni  conobbe petr antone di quanto  aiuto era in queste  come in tant altre simili circostanze  la pro  vvidenziale patola incessaruneni  collo scrivere  ad esempio  a un tale  abitante tale comune di tale cantone che il signor deputato credeva che la sua domanda sarebbe incessammeni presa in considerazione dal ministro o dal comandante il corpo di armata  si otteneva  il dopio vantaggio di conservare le elettore e di spostare al giudizio universale  e anche dopo  la decisione definitiva     petr antone conobbe ognuno di questi trucchi  et  il suo cuore  rimastu puro e saro  ne fu scandalizzato  e l  talvolta  il signor deputato ritornava alquanto brillo dai caffe dei boulevards  e allorala sua eloquenza ingigantiva    ricordatevi  giovane   soleva dire in queste occasioni a petr antone  con le indice teso verso il cielo in un modo satanico   che il segreto della politica cursa consiste  non nel fare qualcosa  ma nel dare illusione che si fa qualcosa    questa massime e tant  altre  petr antone  te ascoltava con un profondo sentimento di disgusto  conservando pero nel cuore la speranza di una pronta liberazione      e  e poi ci era le entourage del deputato che non poco contribuiva a aumentare in petr antone quei sentimenti di rancore o rimpianto  capi del partito gregori maffeista  consiglieri generali o consiglieri di circondario   residenti  in parigi  avventurieri  giornalisti famelici  tutti quanti sacerdoti della piu sfacciata adulazione  capitavano dal signor deputato  sempre pieni di appetito insoddisfatto     petr antone  perd compiva le sue incombenze con cura e attenzione  essendosi impegnato   non voleva lasciare apparire il suo disgusto  quarite volte gli successe di recarsi dopo cena al boulevard haussmann edi rimanere li fino a mezzanotte per sbrigare la corrispondenza in ritardo  niente lo costingeva a questo lavoro supplementare  ma lo faceva per non dare sospetto sui propri sentimenti ai   dal salottino attiguo all ufficio dove  durante queste serate  scri  veva moltissime lettere  gli pervenivano echi di non si sache strana  adunanza    spacconate  bestemmie in dialetto  scherzi venivano mischiati con discorsi di carattere politico  espressioni e frasi di uso nelle adunanze    messieurs  la seance est ouverte      monsieur le conseiller general de g    a la parole       messieur  la seance est levee    talvolta anche pervenivano all orecchio di  petr antone rumori simili a quello di tappi di bottiglie di champagne o di spumante saltanti per aria o di bicchieri urtati  di forchette e di coltelli     che razza di adunanza potevano esser queste   ll  bravo petr antone  tu  il cui cuore si era conservato innocente in questo ambiente viziato  ignoravi dunque clie in quel salotto  adunavasi  ire volte la settimana   7  comite consuliatif du relevemant de la corse dans le cadre frangais i  comitato consultativo del risorgimento  della corsica nel quadro francese  creazione del deputato  de gregori maffei  si  era quello stesso comitato i cui lavori vennero tanto esaltati dalla stampa insulare  dalle etoile  de bastia dall ajaccio republicain  dalla gazelte insulaire  e da tanti altri giornali in genere bene informati   ma che  volete  i competenti esperti  che formavano il comite consultatif  arrivavano talvolta al boulevard haussmann con un po di appetito  allora  si deliberava  e  dopo la deliberazione  si decideva  all unanimita  di mandare il ragazzo del portinaio ad un ristorante vicino per comprare vettovaglie   fette di rosbeef e di prosciutto  salami  sandwiches  bibite   liquori  vino  birra   tutto quanto  infine  aggiunto al buon umore  poteva  giovare a dare ai membri del comitato del  risorgimento dans  le cadre  frangais  la massima comprensione dei loro sacri doveri verso la patria corsa   
+  s
+    </p>
+    <docAuthor>
+     Matteo Rocca
+    </docAuthor>
+   </div>
+   <div n="6" type="art" xml:lang="co">
+    <p>
+     stu fidelissimu ritrattu di puliticante corsu e estrattu da u magnificu libbru  i lucchetti  storia di una famiglia corsa nel secolo xx chi maiteo rocca vene di publica ne u grand editore livornese raffaello giusti  i  st opara maestra di 136 pagine  aftempu passiunanie romanzu e acutissimu studiu di psicologia  scrittu ci un eleganza  una cuncisione e una precisione mai raggiunte da i scrivani insulare di lingua francese  riallaccia u cerculu naturale spizzatu  pe u piu gran dannu di u spirtu corsu  dopu a fivrita di i biadelli  di i giubega  di i renucci  di i viale  di i gre daremu ne u prossimu numaru li analisi di stu preziosu lavoru    o 
+  s
+    </p>
+    <docAuthor>
+     Pasquale Manfredi
+    </docAuthor>
+   </div>
+   <div n="7" type="poe" xml:lang="co">
+    <p>
+     a ghiuvanni olivieri  cogli cogli le castagne caru iuann olivieri ammansate infitte e pagne rent a li rataghi neri perche  quistannu  la sai balleranu fame e guai    vegu corre una bughiura da pariggi a i nostri forni lu acellu piglia paura e scappa per altri scorni u ventu chi scote e sbeste mughia rombi di timpeste   di li nostri maranghini tutti in carta frigiulata femu puru taglierini si ella casca a scuzzulata buleranu le turchine cume cascie castagnine   si ella fala la pienara addiu palazzi e ponti    la roba un sara piu cara chi un si pudera fa conti   sebiatu chi di manghiusca si avera chiosu la busca   tu  statti senza pinsere   attonda lu pulindaghiu fatte le to ruspulere sottu a lu arburu panaghiu   di lu anticu magnamentu thai cozzu u casamentu   eiu  pe sti loghi piani duv ellu ride lu sole ammansu volpe  fagiani   altagne cu russignole di fiure e di maranghini empiu saccone e cuscini    un ti parlu di u pastore chi guverna roba umana   oghie  a pecura chi corre un da piu latte ne lana dice    chi serbe lu sacru si spiumi filanciu magru     gira dund ella ti pare  da capi corsu ad aleria quellu chi canta all altare e ridottu a la miseria   pastori poeri in canna per faor di marianna   ma parlemu di altre cose micca sempre di nirore   eiu  pe le valle umbrose  di cirnu sentu lu core cki canta trinnendu e vette di e speranze e di e filette   cirnu e cuntentu di noi chi tinimu a so bandiera chi pe i martiri e li eroi sunemu sbattagliulera    chi ellu duri u serinatu e introni u celu stejlatu    tu po  all amicu jannettu da lu to colpu di manu isbintulate a lu trettu   lu teatru cirneanu mustrendu ste nove faccie vedive di ogni mustacce    giratu lu venachese tempu toccu lu veranu paese  andate  a paese culu risu frescu e sanu   fate piegne lisciappali e sbilliga li scurzali 
+  s
+    </p>
+    <docAuthor>
+     Martinu Appinzapalu
+    </docAuthor>
+   </div>
+   <div n="8" type="art" xml:lang="fr">
+    <p>
+     tribune libre les trepanateurs es lettres  j vous a ete donne a maintes reprises de souligner dans votre vaillant organe l ineptie de la chose  journajistique en corse et chaque fois vous avez tache de stigmatiser comme il convenait pinfame bourrage decranes anquel sont soumis les insulaires de par la flagornerie d une grande partie de la presse de file   quelques confreres ont paru vous approuver soit en commentant favorablement vos articles soit en reprenant pour leur propre compte la campagne ebauchee    d autres  les autres  non seulementse sont bien garde d'opiner du bonnet de crainte sans doute de s en decoiffer   mais ebouriffant de grotesque facon les fines barbes de leurs plumesils ont continue de plus belle a barbutter avec delices dans la bourbe de leur encre   ainsi se repaissant de tout ce qu ils trouvent dans les mares gouvernementales nos palmipedes eructent finalement sur le cerveau de nos compatriotes des matieres inommables    quand doncils ne nous tarabiscottent pas des peripeties de l emprunt dont le succes s annoncait effarant ils nous canardent de toute l artillerie des troupes francaises qui soitavec sarrail soit avec lyautey marchent triomphalement vers les sanglantes aurores de la nouvelle france  a moins que tout a coup un proces retentissant ne vienne mous planter la avec les trompettes guerrieres pour nous demontrer ffralement que   a locarno madelonette a remporte un succes plus que bryand  ... non moins brillamment couronne du prix nobel   pendant ce temps la malaria nous  fient compagnie les moustiques s en  donnent a coeur joie la region du sartenais attend toujours que la locomotive stridesur la place porta machin et tartempion n'ont pas cesse d'etre de fers crapulets et nous des poires tres juteuses   quel est celui d entre nous je le deinandea nos plantureux pingouins qui au heu de l assainissement financier auquel zous pouvonssi peu et dont on nous martele sans pitie le tympan ne prefererait pas l assainissement de nos plaines  et aussi celui evidemment de certains recoins interlopes du fonctionnarisme insulaire    2  le salut de la france dites vous   tres bien tres bien sauvez sauvez la france mais  et la corse  j entends bien que notresort est presentement lie a celui de la moribonde mais ne l etait il pas egalement avant hier avant que n eclata la grande tourmente alors que marianne puait la sante insolente et qu elle rutilaif de tout l or dont elle etait couverte   avant bier pareillement 2 aujcurd hui et comme il y a un siecle l ile de beaute n etait elle pas aussi l'ile de misere   et vous voulez avez vous dit que fous continuions a etre des enfants devoues pour celle dontle profil reveche se decoupe sans amemite dans la limpidite de notre ciel   i allez allez canards rentrez dans vos marais        a present la vague tumultueuse des aneries deversees en terre cyrneenne par les plumitifs auxquelsnous faisons allusion deferle avec une si grande fureur que beaucoup de corses tels des naufrages accroches a de providentielles epaves en arrivent a oublier le sol ferme et a croire que l infect liquide dans lequel ils se debattent en desesperes est un element naturel et est peut etre l'oeuvre de dieu lepere   on leur a fait croire qu ils sont de vils barbilfons on pourrait tout aussi bien leur suggerer qu ilssontautre chose  la conscience de ceux la est a ce point emoussee qu ils ne seraient pas autrement surpris persons nous si demain un facetieux anthropologiste leur affirmait par exemple que la conformation de leur crane les classe dans la famille des ophidiens et que comme tels ii serait plus conforme a leur nature qu ils se livrassent a la reptation  ce disant nous devons a la verite de le reconnaitre notre anthropologiste serait certainement d accord avec la realite du moins en ce qui concerne une categorie de nos compatriotes     parmiles glorieux artisans de cette oeuvre se place au tout premier rang un quotidien  le plus grand  qu il dit le mieux informe le plus repandu des quotidiens insulaires  dont le nombre d exemplaires qu il livre a la consommation menagere n a d equivalent que celui des tutu panpan qui ie maculent   i pourmieux mettre en vedette cette dame jeanne de cocose officielle nous ne saurions mieux faire que de lui coller sur la bedaine ses multiples etiquettes  les etiquettes qui l aident a passer en contre bande  du general fonville cette savoureuse causerie militaire 2  tout arrive la chambre a entin  vote apres une tres breve discussion un projet de loi impatieniment attendu par parmee c est celui que le general nollet avait depose au mois de fevrier sous le titre de  degagement et amenagement des cadres  et qui fut repris par m painleve en qualite de ministre de la guerre  ainsi que son nom l indique ce projet envisage un double but le  degagement consiste a purger notre corps   le bouchon a l avancement ainsi retire il s agissaitde rendre a la carriere d oficier assez d attruit pour y ramener la jeunesse frangaise qui pour le moment parait plutot disposee a porter ses preierences ailleurs  etc  allons la jeunesse francaise  qu attends tu pour penetrer dans la boufeille  dans le meme gout sans signature  voici je general sarrail de retour en france sans doute on ne saura rien de plus sur les evenements de syrie et les fautes personnelles du general seront couvertes par ses umis politiques peu importe apres tout  voila pour vous nobles victimes de la guerre du droit de la  etc  sur ta crise financiere de divers peres conscrifs  ... mais une fois la purt faite aux necessites de toute politique au grand jour n est t i pas opportun de rappeler a nos pouvoirs publics le grand calme exemplaire de la france actuelle   parcourez nos departements et nos colonies vous y trouverez tout le monde an travail point de chomeurs nulle part partoni l effort de la reconstruction de la production de l expansion  bravo bravo  6h 4dmirable france   mais par contre une inquietude emplit les esprits on vit au jour le jour on depense sans compter comme si l argent n avait aujourd bui de valeur que pour l agrement la jouissance du plaisir immediat qu il peut procurer d ailleurs un sentiment de lassitude de decouragement partant de paresse flotte sur toute la fiation la france  on travaille moins avec moins de emur moins d ardeur moins de courage et moins d espoir le prix de revient de la matiere ouvree en augmente d autant on produit moins plus cher et on consomme davantage i e qu est ceci   ah  malhewreuse france   une treve des partis un armistice des revendications sociales est ce que la france ne vaut pas cela si le gouvernement d accord avec le parlement apportait au contribuable l heureuse annonce ae ee pacte moral a la veille des nouveaux impots pourquoi les agriculteurs ne feraient ils pus une nuit du 4 aout et pourquoi les millionnaires ne sacrifieraient ils pas benevolement le dixieme de leur fortote sur l'autel de la pa tie   md  voila qui est parler au moins  nul doute que ce brave homme n ait tout sacrifie sur l autel de la patrie en ache tant de la livre ou de lalire  7  nous avons donne la quelques spe cimens pris au hasard d'articles que le plus repandu des quotidiens insulaires sert journellement a ses lec teurs   nous concevons aisement qu a cere gime ceux qui ne peuvent faire autre ment que de s alimenter dans cette gar gote doivent pouvoir superbement se passer des pilules durand dupont ot dupuis he lee   nous les plaignons bien bien sin cerement e
+    </p>
+    <docAuthor>
+     Jacques Santolini
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     dimulaja franca  seti tutti janghiulendu come ghiacari famiti   e in tra voi altri diti      chi sara u nostru malmendu    feti canzoni e lamenti   cridendu di ave raggioni   g  e qual e chi ne e caggioni di tutti i vostri turmenti       xx  vogliu cuminccia par te   che vedu inflacchinatu    un po  essa che impigatu e ti devi truva be   ma dici     so insultatu   so trattatu di cursacciu   di banditu  e che un stracciu menu so cunsideratu       e qual e chi fha mandatu    o chi elli ti caccinu li occhi    chi ti se messu in ghinocchi davanti a u to diputatu   e basgenduli fi peda   ha  dettu     signor  vi pregu  detimi anc a me un impiegu   e sempri pudeti creda   chi ellu sia rossu o biancu   saraghiu di u partitu   bastara a pisa u ditu e mi vidareti a fiancu       bulendu essa duganeri o aggenti di pulizza   ti se missu fa cavizza e un se piu che un sumeri   oghi chi tu se liatu   un vali hi to brionu   si tu arpi ci e u bastonu    e qual e chi la ha zuccatu    ma si tu se troppu mali   ci e sempri qualcosa a fa    si tu voli po  scappa strappendu u to cavizzali   ti vegu adighia pinzendu   a faristi vulinteri   ma    ti dicu  se un sumeri  ed eccu lu to malmenda   un temi piu ne u bastonu ne lu imbastu  ne a brilla   ne la inghiuria  ne a strilla   ti cuntenti di un bucconu e di una vita mischina    basta chi ghiuntu in paesu tu possa parla francesu   e fa veda la flacchina   par fa creda a parenti   a cumpagni e ad amici chi tu se piu che filici  e chi ellu un ti manca nienti   ma diu solu la sa  chi par essa inflacchinatu   piu di una volta se statu a sera senza magna   ma si ella ti po basta i di jurighia a di    je suis moa que j arrive  me voila     sta  u me fagianu  sta   parlata di sarte
+  s
+    </p>
+    <docAuthor>
+     Marcu Troncarocchja
+    </docAuthor>
+   </div>
+   <div n="10" type="feu" xml:lang="it">
+    <p>
+     religione non altro  il vescovo  chi efa malizioso piu di una squadra di sbirri  trovato il terreno morvido  non contento di ficcarci la pala  ci ficco anche il manico  disse mirabilia della  potenza del papa  promise roma  e toma  sicche i popoli ignotantie abbindolati si commisero al papa a patto che con validi aiuti li sovvenisse per superare i baroni di cliremonte  il papa rispondendo mette in sodo avanti tutto questa volontaria dedizione  poi gli ammonisce chi egli e per di piu  perche  eglino avrieno a sapere come li uni versointero 1o sa  il dominio della isola  appartenere alla santa  chiesa per diritto di proprieta  ladri  sacri leghi e dannati i tre imperatori  e tre re chela tennero senza prestare la obbedienza a san pietro  il legato si trasforma in governatore  si metfono da parte le cose della anima  per non parlare altro che di faccende terrestri  pero il carico assunto di difendere yisolail papa teneva per novella   in lui non era potere ne volere a sostenere la guerra  ond egli  inteso a mietere senza siminare  concesse la isola in feudo al medesimo landolfo  a condizione che gli retribuisse la meta delle rendite  non vi par egli generoso costui  al tributo di sangue ei renunzia ma cresce quello dei frutti da un quinto  come sotto gregorio iv  alla meta  dopo quattordici  anni daiberto  vescovo di pisa  uomo rotto  visto che ja carne non valeva i giunco  scrisse alpapa che egli a pescare per il proconsolo non la capiva  ripigliasse la isola  urbano   considerato tra se e se chi egli era come se il vescovo gli avesse risegnato la luna  rispose   mira larghezza  io te la dono   e lo altro soggiunse  manco male  ricattero le spese   pero quando fummo su lo atto del donare  ostico a tutti  ma perla chiesa piu dolorosa delle spasimo del parto  il papa mascagno insinuo nel contratto due cose  che donava isola alla chiesa pisana  quantevolte pero il vescovo fosse stato eletto canonicamente dal clero e del popolo e confermato dal papa   e retribuissero al palazzo lateranense yannuo censo di lire so in moneta lucchese  cosi quello che non puo tenere  roma dona   ma come i marinari quando gettano la ancora in mare ci lasciano sopra il gavitello galleggiante per ripescarla a tempo e a luogo  il prete studia chi esca fuori del dono un addentellato per poterselo ripigliare    giustizia vuole che io dica i come pisani dimorassero nella isola con garbo assai migliore di quello col quale ci entrarono   noi non reputa rono essi vassalli  ne noi reputamme essi  signori   ci accolsero come fratelli tornanti in famiglia   accomunarono con noi carichi ed onori  anzi ci alleviarono i primi  trovan   doci alle lunghe sventure ridotti al  verde  e di questa benevolenza  scambievole durano tuttavia i iestimoni sia nei monumenti publici    sia negli animi dei corsi  propensi a stanziarsi in toscana a prefe   renza di ogni altro paese  quando necessita o vaghezza li tira fuori di casa   e piu che tutto nella lingua loro  da noi conservata con tanta diligenza  che qualche voce costa disusata  o non piu intesa  quaggiu si incontra sopra le labbra dei montanari viva della sua primitiva si  gnificazione  i cagnotti di corte non cessano mai di infamare il popolo come ingrato  voi per ismentifli fate tesoro dei caso che vi raccontava  al quale aggiungerete quest altro   degli oppressori antichi  dei romani e dei saraceni qui non troverete memoria  ed in breve ne anchi dei genovesi  eccetto qualche   tomba  fama  delitti e ossa dei vecchi e dei nuovi tiranni seppellimmo interi dentro un medesimo   sepolero  7 e pure au  ora i genovesi sopportando molestamente la parzialita di roma per pisa  studiano ogni ora per levargliela convertendola in proprio pro  fitto  o almeno per pareggiarla  e la fortuna  come suole a cui sta su la intesa  ne porse loro il destro  urbano ii  per tenersi bene edificato daiberto  lo creo arcivesco assegnandogli suffraganei i vescovi di corsica  questi  subillati dai genovesi  ricusavano a viso aperto la  consacrazione  dallo arcivescovo di pisa  il quale pesta mani e piedi  e i genovesi li alle costole a mettere legna  sul fuoco  questo era tempo che roma voltate a genova le dicesse   acom entri tu in questi negozi   bada ai fatti tuoi  o che ti scaravento addosso un nugolo di scomunichez   e le scomuniche a atei giorni scottavano  pensate voi che lo facesse  ne manco per ombra   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

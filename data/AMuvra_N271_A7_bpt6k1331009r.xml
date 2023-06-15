@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1331009r
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1331009r
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 271 | Année 7
+     </edition>
+     <date>
+      1926-11-20
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     see VII — Numaru 271  Esce ogni dece iorni  20 Nuvembre 1926  A MUVRA  GIURNALE DI E: PIEVE DI CORSICA  ET i ABBUNAMENTI:. NÈ U  InCorsica. i; ~~ 4. - «.à «'.!. à 12. franchi  In Francia... + + . &gt;&gt;... . .... 15 »  à lEsteru. ...,. i... Qu "i. BO se  jsui FOU. OÙ Mumaru: 5 soldi  Direttore.:, Petru ROCCA  AMMINISTRAZIONE:  38, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="it">
+    <p>
+     ancora in tema di dialetto     arrivo in pochi momenti alles   femita del piano sull orlo di una riva profonda   e guardando in giu tra le   acchie che tutta la rivestivano   4ide la acqua iuccicare e correre  aliando poi lo sguardo  vide il vasto piano della altra  riva  sparso di pae   si  e al di la i colli  e  sur uno di  quelli  uha gran macchia biaricastra   che gli parve dover essere  una cit   ta           i    arrivo in pochi mumenti all estremita di u  pianu    all arice  di una ripa  prufonda e guardendu  in ghio tra e macchie chi a rivis   tianu tutta  bidi la acqua  luccica ei corre   alzendu poi u sguardu    bidi u vastu pianu dill altra ripa   sparsu  di paesi  e di la e culline   enanfa una di quelle  una gran  macchia biancastra chi li  paridu 1 de esse una cita     i    che differenza linguistica e che  differenza sintattica trovate tra queste due diciture  italiana e cor   sa   nessun altra  mi pare  che quel   lache corre tra  ia lingua italiana e  uno dei  dialetti nei  quali la hingua italiana e meglio sentita  non ci e  corso che non comprenda perfettamerite  non solo il senso di questi pochi periodi dei promessi sposi  ma  tutte e singole le voci  che li compongono  ho  mutato  or o in arice  giu  in ghio  vide  in bidi  colli in culline  sur in nantu  par vei pari  e modificato qualche altra voce secondo la parlata dialettale ina orlo  giu  vide  colli  sur parve  ect  sono  parole che ogni cofse infende  e che ogni corso  fnori di sur  usa quando si mette a parlare in pinta di forchetta         e ora mi si torni a dire che italiano e corso sonu  due lingue  disfinte         no  figliuoli cari   il  corso e un dialetto  un dialetto eminentemente italiano  un dialetto che e quasi lingua italiana  ma dialetto e solamente dialetto in vitan aeternam amen  volerne fare per forza una lingua propriamente detta  una lingua letteraria nazionale  e voler dare dei sapo ciecamente nell assurdo   canta 1a  toscana a lucca    e sono stato all inferno e son torziato    misericordia  quanta gente ci ene    e v era giuda tuito incatenato   quando mi vedde  scosse le catene   e poi mi disse    vattene co santi s  a quel che ci so  ia ce ne son tanti     canta il lazio a  roma   ce de taluti ve ne manno tanti   squante foje smoveno vi  venti   PS cquanti in paradiso ce so santi     canta pumbria  a gubbio     oh  che hello canta verso la sera     tefole  s abassa e le stella se leva   op  che bello canta nyer la mattina   l sole se leva e la stelfa si enciina     cantano le marche a fabriano   ls be variate  si soma arduo   ridotts  a nto alla maremma a zaorane       29 magnelo de lo pene asciutto  setma de  fontana mi ha fatto male         anta ta campania  a napoli  1 quante bello a ghi pemare       uu  ta maronna   de lg san fs  neonp e a nave   pa  ineeppe a lo immone   ge casio pe faarohe    ongiulille pe  marinare      cantano le puglie  a calimera       bedha ci fici a lie  cumpiu na stampa    ela cumipiu cu niuta   molta  maestria  cupiau na foglia di oru e poi na bianca  limbiccau la bellezza e fice e ha     li culuri squagghiau eul acqua santa   e pe farti cchiu bedha nu putia    canta la calabria  a cosenza    o cluccioriellu   asino  carrieu e munita   i    carica di moneta    du ti vinni ssa superbia tanta   e  mo chi abbuscali ssa guadrappa e sita   di selu   de li cavalli vw passari avanti  a      canta la sicilia  a palermo      lu studinsu si sfascia lu peltu   sittatu senipri supra un tavulinu      si un sona menzangitin vidi lett   esi susi i unora di matinu   e si elza di biion ora  soprali libbra perdi lu ntillettu    s affanna pri lu ventu lu mischinu     canta la sardegna  a nuoro     su ninnicheddu   il bambinello    non porta manteddu   nemmancu corittu   in tempur de frittu   nau narra tittia     ses   o he  dormi  bid e ccoro  vita del cuore   f reposa a ninnis     cantala corsica  a zuani     4 or eccu la mio figliola      zitella di sedici anni    eccula sopra le tola   dopu cusi longhi affanni    or eccula qui bistita  cu li so piu belli panni   cu li so penni piu belli si ne vole perte ava   perche lu signore qui   o     nun la vole piu lascia    chi nasci pe u paradisu    a stu mondu un po imbicchia     questi esempi  presi dalla litteratura di alcuni dialetti italiani  indicano essi che quei dialetii  sono altrettante lingue  diverse  dalla lingua italiana    tutt altro    e allora  perche il dialetto corso  non meno italiano di quelli  dovrebbe o pofrebbe costituire una lingua distinta dalla italiana    in italia sono dialetti  parecchi dialetti  anche piu dissonanti del nostro dalle forme letterarie della lingua  nazionale  e a nessuno e mai passato per la nente che essi  costituiscano  dingue distinte  u ours e did  ma  allora  la povera corsica costretta a non vedete nella sua parlata popolare e comune altro che un dialetto  dovra riconoscere  a sua umi liazione  dinon avere avuto mai e  di non avere presentemente gna  lingua letteraria sua propria    chi  la ha detto   dal  dialetto corso ras   chiate la ruggine vecchia  toglietene i termini indigeni  o ittportati di uso casalingo  non registrati nel vocabolario  italiano  correggetene un  po  la pronunzia paesana  ed eccovi la lingua italiana  lalingua letteraria  dei nostri padri  la lingud dei  corsi  in quanto corsi   la lingira dei corsi in quanto francesi e     un altro paio  di maniche      lu a  su la ultima  pagina bianca di un vecchio libro di teologia  appartenuto un tempo al convento francescano di alziprato presso calenzana ei venuto in possesso  di un mio antenato verso la fine  credo  del setten   cento  trovo scritto     si questo li  bro si perdissi  e di alfonso alfonsi del mocale     e  si  i  evidentemente mio nonno che scrisse  forse da ragazzo  queste  pa role  non si mostra qui un fine  letterato italiano non importa  ma qui  si vede la volonta di dare aldialetto  una certa forma letteraria col muta   re stu in questo e di win del  vale a  dire di dargli  una formia italiana    per i nostri signpi il dialetto  corso   non poteva avere  altra forma  let   teraria che quetta propria della lingua italiana   e quando avessero raggiunto un certo grado di cultura essi scrivevafio in italiano come i miglioti degl italiahi  ho qui sotto mano le novelle storiche corse di f  o   renucci  edizione  del  1838    e di tanto in tanto do  loro una scorsa  ve lo ho a dire  non erano molti gli italiani di italia che verso il 183o sapessero maneggiare come il renucci corso la lingua italiana  sapendo lo italiano  quel corso che pur si dichiarava francese  sapeva di sapere la propria lingua letteraria  e  scrivendo initaliano  lui principale e professore  di eloquenza  nel  collegio di bastia fino al 1826  sapeva di scrivere nella propria lingua isolana  se il signor direttore della muora vorra pubblicare con questa chiacchierata una delle novelle del renucci  la nona  per esempio  che e la piu breve  i lettori si convinceranno che non racconto fole   non sono uomo da potere dar consigli ad alcuno  grazie alla mia eta potro  almeno  esprimere liberamente il mio parere  e il mio parere e questo  che gli studi e gli sforzi  diciamo cosi ordinati all unificazione chimerica delle  diverse parlate corse con lintendimento  yuanto patriottico altrettanto inattuabile  di formare una lingua letteraria tutta nostra  tutta corsa  diversa dalla italiana   sieno volti a un fine piu ragionevole  e piu pratica   per esempio  a purgare il nostro dialetto da tutto cio che vi e stato introdotto  di eterogeneo e  di contaminatore  ed a renderci piu familiare la lirigua letferaria usata come propria dai nostri padri  oi i  siamo intesi  il dialetto  corso e italianissimo   ma se   corsi stimassero che col loro dialetto in bocca  col loro dialetto  infarcito di francesismi  essi possano percorrere da un capo all altro la italia e farsi intendefe  in ogni loto parola  tanto a napoli e a torino e a venezia quanto a firenze e a roma  me lo lasci no dire  sono in errore  anche gli italiani di italia  se sono di regioni diverse  per farsi intendere parlano in lingua  e non nei ioro rispettivi dialetti  certamente in livorno  in firenze  in roma  un corso  che  parli puramente corso  sara inteso meglio che un milanese che parli il suo sieneghin  e che un  genovese o un torinese che parlino i loro dialefti   ma meglio non vuol dire in tutto  e  se il corso non usasse il suo dialetto puro  ma il dialetto infrancesato divenuto  oggi  quasi comune a tutti i corsi  addio roba  della sua parlata  peggio che ostrogota  in nessuna citta e in nessun paese di italia se ne capirebbe una saetta     mi direie che il corso  capitandogli di parlare con italiani  sa arrangiassi e parlare italiano  ne convengo  e me ne compiaccio  per amor  di patria  ma  generalmente  se si tratta di corsi che non abbiano una certa coltura italiana  come la possiede la maggioranza dei nostri preti  essi riusciranno  si  a far comprendere tanto quanto il loro pensiero   ma faranno anche comprendere che di italiano puro ne sanno piuttostu pochino   ho accennato alla coltura italiana dei nostri preti  nei piu essa mi  sa di miracolo  i piu non hanno studiato lo italiano  come va studiata una lingua  fosse anche  la propria lingua   e predicano in italiano  il loro italiano e  se si vuole   un italienetto  cosi cosi  un italiano  tra corso e francese  ma in somma  e un italiano abbastanza italiano da  poter esser compreso anche dagl italiani  benche basti sia compreso dai corsi  ma come parlano meglio il francese  quello lo hanno studia1o    torniamo a noi  vogliamo avere una lingua letteraria tutta nostra  e va bene  ma lingua letteraria alla quale risponda il nostro dialetto non puo essere che la lingua italiana  e  cosi i e vano tergiversare e sofisticare   padronissimi i corsi di considerare come loro lingua letteraria e nazionale la lingua francese  e  convinti di questo  fanno bene a studiarla con tutto lo impegno  a rendersene  padroni  a far di tutto per riuscire a parlarla e a scriverla  non solo  corretiamente  ma elegante mente fino a meritarsi un seggio all accademia francese  aggiungo che  cittadini francesi  i corsi devono sapere la lingua francese  se non fosse  un dovere  sarebbe  almeno  una necessita     quando  peraltro  si tratti di cultura letteraria nostrana  tradizionale  che si riallacci alla cultura letteraria dei nostri padri  e che  per cio stesso  non dovrebb esser considerata come cultura letteraria di superrogazione  alla faccenda muta aspetto   allora non si puo far di meno dello studio della lingua italiana   non se ne puo far di meno  pers che  relativamente al nostro dialetto  la lingua italiana e la nostra lingua letteraria  unica e sola  e perche  data la odierna contaminazione del nostro dialetto  causa il suo infrancesamento nel vocabolario  e nella grammatica  non ci e speranza di salvarlo dalla totale degenerazione  se non sia restituito alla sua primitiva e genuina italianita  i nostri letterati se ne convincano   soltanto uno studio serio della lingua italiana potra risanare il loro gusto letterario in ordine al nostro dialetto in maniera da far loro distinguere facilmente lo aspro o lo scipito di un termine estraneo dal buon sapore naturale di un termine nostrano  come il loro palato distingue subito il sapore del vino corso sincero da quello del vino fatturato   lo studio della lingua italiana non meno nella poesia che nella prosa  produrra nei cultori della nostra letteratura dialettale un altro buon effetto   quello di far loro sentire tutta la armonia  della metrica italiana applicata alla versificazione corsa  e se a qualcheduno di loro dio ha dato lo estro poetico  non avremo a temere che questi ci regali endecasillibi di dieci o di dodici sillabe ottonari di sette piedi o settenari di otto  accenti fuori di posto  versi che sembrino una canzonatura della poesia  i  sento dire che la nostra poesia dialettale di oggi e una poesia dal sapore arcaico  salutatemelo tanto il vostro sapore arcaico  oggi viviamo nel secolo ventesimo  e  dalle sue origini a oggi la nostra poesia dovrebbe aver fatto un bel po di strada  non ostante la mia ammirazione per la ingenuita candida e gentile dei primitivi  non ostante la tenerezza che mi desta in cuore la innocenza delle culle  non riesco a comprendere come sia meglio balbettare da bambini che parlare da uomini  e non riesco a comprendete come possa esser vanto della nostra piccola letteratura  restarsene eternamente bambina  che volete che ve ne dica  all infanzia della poesia io preferisco la poesia della infanzia   convengo che la infanzia della poesia ne scusi i difetti   temo peraltro che certa poesia non sia difettosa perche infantile  ma sia chia   mata infantile per attribuire all infantilita della poesia i difetti del poeta non infante       per fortuna i poeti veri  che oggi fioriscono in corsica  sono uomini  sanno parlare e scrivere da uomini  e danno della loro virilita alla loro poesia  a loro  anche se talvolta scantinano  fo tanto di cappello  e li riverisco 
+  s
+    </p>
+    <docAuthor>
+     U Babbuziu
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="fr">
+    <p>
+     notre programme et notre action comment on combat a muvra le programme de a muvra est bien connu il a ete expose si souvent dans nos colonnes qu il serait inutile d y revenir si de recents incidents ne nous mettaient dans la necessite de faire connaitre aux personnes de bonne foi qui peuvent encore l ignorer quel est notre systeme politique lo nous sommes regionalistes nous avons constate maintes et maintes fois l echec depiorable des methodes administratives pratiquees par l etat francais en corse  nous avons montre comment la corse ne saurait constituer un departement et que sauf quelques rarissimes ex ceptions la france a toujours envoye chez nous des fonctionnaires ou inexperimentes ou ignorants et incapables ou moralement tares les representants de la corse au parlement sont presque toujours des amibitieux inveteres preoccupes uniquement de satisfaire les interets prives aux depens des interets generaux et permanents de l ile  ils tachent d assurer leur reelection en faisant distribuer des faveurs et des places qui attirant les corses hors de chez eux contribuent ainsi au depeuplement du pays  nous dirons au contraire qu il faut appliquer a la corse les strictes methodes regionalistes  decentraliserintensement la dessus nous sommes tous d'accord d autres regionalistes parmi nous vont plus loin ils reclament a la tete de l administration de la corse des corses instruits et desinteresses ils demandent la suppression de la representation legislative du pays telle qu elle est actuellement concue et son rem  placement par la delegation d un ou deux de nos compatriotes ayant le mandat exclusif de representer l ile dans la conduiie des grandes affaires nationales celles de la corse etant reservees a une consulte recrutee dans l'ile au suffrage professionnel c est clair comme de l eau de roche cela ne prete a aucune equivoque tous les regionalistes provencaux bretons basques flamands gascons alsaciens etc  sont de notre avis a cet egard  etce programme pose l oeuvre de a muvra consiste a le repandre a le propager a l expliquer a le defendre le succes est et continue d etre des plus encourageants notre jourhal s est evertue a degager la personnalite de la corse et du peuple corse  et c est en se livrant a ces recherches impartiales que le souci de la pure verite scientifiquenous a fatalement amenes a constater combien etait intimement melee notre histoire a celle dela peninsule italienne  elle a mis en relief ce que la corse devait a la civilisation romaine a la civilisation toscane a pise cetteimpregnation bienfaisante fut le travail de dix neuf siecles  pu   elle reconnut ensuite les exces de la domination de l aristocratie genoise exces qui provoquerent le grand soulevement du xviii siecle et lalutte d abord des peres de la  revolution puis de pascal paoli contre la republique ligurienne lutte dans laquelle nos ancetres furent aides materiellement par le roi de sardaigne soutenus par tout ce qui dans la peninsule sentait vibrer en soi un coeur latin  elle ne voulut jamais confondre genes la tyrannique avec l italie avec le peuple italien elle signala meme que dans la lutte contre le peuple corse au xviii siecle le principal allie de genes avait ete le roi de france louis xv  ti etait logique qu'avec ces sentiments et ces vues a muora mit en vedette toutes les etudes consacrees a la corse aussi bien en france qu ailleurs et reproduisit avec plaisir tout ce qui pouvait paraitre defavorable a la corse dans la presse peninsulaire comme dans la presse francaise le succes de notre propagande depassa tousles espoirs c est par milliers qu accoururent aux manifestations regionalistes organisees par a muvra et ses amis des corses fideles et fiers du passe de leur pays les ceremonies de ponte novo et de morosaglia en sont la preuve vivante  e it au a  ce succes ne pouvait plaire a tous ceux qui ont un interet a la decadence de la corse a tous ceux qui vivent de notre malheur aux politiciens et aux centralisateurs de paris  et d ailleurs voila un journal qui exposait et soutenaii des idees un systeme politique qui he se preoccupait point d affaires de clans et qui se lisait un pareil scandale ne pouvait durer et nos sportulaires nos meridigots ne pouvaient tolerer un mouvement qui etait capable de leuroter leurs os presents et futurs e e he un  j que faire pour combattre ce mouvement d une facon a peu pres efficace  i ils ne tronverent qu un moyen un seul e e  e a celui de basile beaurnarchais en a vante par la bouche de ce 1riste personnage les excellents resultats   au lieu de discuter nos idees de nous attaquer sur le terrain de la raison de l histoire de la science de la vraie politique ils ne songerent qu a nous discrediter  a nous salir ca  dn ils nous calomnierent  et leur manoeuvre fut simple ar nous avions mis en relief les verites incontestables eh  bien mais nons etions tout bonnement des mauvais francais   do e smu ce bruit fut repandu sournoisement il serpenta  grossit nous n y pretames pas attention bientot il prit d enormes proportions mais resta sans effet sur les gens de bonne foi la'police sontinua ses pratiques souterraines et organisa un systeme grotesque de sii veillance tout a fait vain puisqu'il n y avait ni crime nidelit a etre re gionaliste  j   e i la plupart de nos compatriotes ne temberent nullement dans le piege qu on leur tendait et ne broncherent pas au contraire a muvra compte des milliers d amis aux elections 1924 notre mot d ordre   abstention  fut ecoute et c est par dizaines de milliers que les electeurs s abstinrent de donner leurs voix aux farceurs c est ce qui irrita les corsophobes ils intensifierent leur campagne de calomnie la police trouva outre quelques ignorants plus excusables un quarteron de fameliques qui accepterent de nois accabler d'insinuations injurieuses puis de nous diffamer ouvertement dans des feuilles de choux inspirees en haut lieu et redigees en petit hegre i e aujourd hui la mesure est comble nous crions hola  il va falloir vous expliquer messieurs les diffamateurs et les calomniateurs
+    </p>
+    <docAuthor>
+     A. S. Franchi
+    </docAuthor>
+   </div>
+   <div n="3" type="poe" xml:lang="co">
+    <p>
+     cosa pensu   a a mid caro babbu  a  f  marfisi anzianu vitturinu rinumatu      cosa volete chi e pensi   in sti loghi chi un so corsi   in sti piani cus immensi   di u ventu sentu li morsi    qui un cijunghie sciloccu ne di campane lu chioccu    pensu a li jorni passati in mez a li mio parenti   a si belli serinati   a si balli  a si canti   sottu a la luna jentile   piu bianca che un mandile   sentu  di lu inio cavaliu batte lu pede farratu   vegu lu so capu giallu  in mezu fronte stellatu   deve sente anch ellu pena   chi un li scendu piu la vena   pensu    e vi vegu bagnatu sopra a le strade deserte   e ben che sempre malatu   in bastia pront a perte  cu lu cavallo   baiaru    chi e piu forte che lu acciaru   pensu a lu mio zi antone in mez a quelle bugghiure   a lu mio cane leone    chi sfidava le cudrure  currend appress a le capre pienu di scium a le labbre   pensu a tutti li  vicini a li amici e ji parenti   i mio zii  i mio cucini   i sfurtunati e i cuntenti   li pregi  tutta fiurita   una longa e dolce vita   persu a li mont infiarati quandu lu sole si ciotta    e ultimi raggi innorati empienu di oru la grotta   induva facia tanti  1 terzini  lamenti e canti    nulla  di sti loghi persi mi ramenta lu paese   1 belli jorai sb schersi   sottu a stu celu francese    ma l un so schers i mumenti duva pensu a i mio parenti   e vi pregu  caru babbu   longa vita senza guai   cun vostru ricordu in capu un mi scurdaragghiu mai chi per me    ete suffertu   e chi li occhj mi et apertu 
+  s
+    </p>
+    <docAuthor>
+     Dumenicu Marfisi
+    </docAuthor>
+   </div>
+   <div n="4" type="poe" xml:lang="co">
+    <p>
+     a pipa di orezza  aria di a pipa  ej  so la pipa di orezza   da la muntagna scalata   a me mamima fu la scopa sempre fiurita  e  granata   ej so la pipa di orezza fatta di una sola pezza   u me amicu e lu acciarinu   tengu all esca paisana   cu muscu di arba tabacca gratisi e la annata sana   u me amicu e lu acciarinu   a  dicu cu lu bucchinu   una merula mi pose sottu un albritrellu biondu   mi dede fors ancu le ale   parch ava giru  lu mondu   una merula mi pose    mi  mi  mitte donne tose    eju sfidu  terra e schiuma     di ceppu so naturale   facciu scappa li musconi  ci u me sputu minerale     eju sfidu terra e schiuma     mi  mi  sa donna chi fama   so cume la rundinella   incu me portu lu nidu   facciu pulbariccia e fiara eiu mondu intieru sfidu   so cume ia rundinella   vegu ancu sottu la ascella   a me fumaria e grisgia e colla sin a le stelle     ancu da sottu baleone    fuma facciu le zifelle        a me fumaria e grisgia       o donna senza  camisgia    un fate tastu le imgrate   par preservabbi di grippa  imburrate  di arba corsa     ogni tantula me pipa     un fate tanta fingrate            o donne sgambarazzate  
+  s
+    </p>
+    <docAuthor>
+     Maistrale
+    </docAuthor>
+   </div>
+   <div n="5" type="art" xml:lang="co">
+    <p>
+     un fattu di a persecuzione  revuluziunaria in corsica    e recente beatificazioni di i martiri di a rivuluzione francese stimuleghianu e ricerche di i documenti di quella epuca  ni ln    ne ne numaru di i preli vittime di a so  fedelta a u papa  trucidati  nu a chiesa priggio di i carmelitani  ci era un corsu   costa    prete abituatu chi si giadagnava ancu un pezzu di pane cu e so dite cum ellu ci ne era tanti a qu elli tempi  era un arilugiaru finu  assai slimatu ne u so quartieru    be i  sara statu forse  lu avucatu di u diavule  chi u ci ha scambattatu da natu a lista di 1mnagimj  u u  la avera trovu qualch azzingu duve meite coda  rinfie e corne di luciferu per isfradanalli  a fipulazione         a minimu chi u fattu di esse corsu  difficile a chiamassi francese  tandu ancu piu che ava  un la haghia latighiatu e riserbatu per un altra festa di beatificazione  e quessa sarebbe an    cu forse megliu  aspettemu dunque i pianpianissimi procedimenti di a roma eterna  e fast  ma ci ne e certamente di altri corsi chi un volsenu presta u iuramentu scismaticu  e chi per stu solu mutivu funu marturizati da i suldati detti  e sculappati   ne  e u ne cunnoscu unu chi si e francatu da a ghigliuttina  travestendusi da carbunaghiolu  a mane stessa di u iornu prefissu pe a so morte  i  era un balaninu troppu  unin e finu  chi squillo da e dite grasse di sangue  cum ella face la anguilla ir quelle di u  piscature troppu nasgiulu  does   cr  un altru prete  ancu quellu balanino  fu presu e cundoitu in francia  e morse nu e priggio rivuluziunarie di tulo   a e a u  cuntaraghiu e so storie a passa in la  si slu genere di lcilure  piace a i lettori di    a  muvra 3   facciu voti chi elle piacinu  da chi sta vubrica venghi alimentala per un pezzu da i nostri currispundenti seriamente  documentati      a u
+  s
+    </p>
+    <docAuthor>
+     P. T.
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     a casaccata  li vinti quattru di maghiu   tutta la gran signuria   in cu pette cu curaghiu   volsi piglia la merria    avendu fattu li tacchi   1   un pinsend a li casacchi   la caimpagn e lu paesi  in cu la bander in manu   feccinu tutti li spesi per  fa casca lu so pianu    cu lu capu di la squadra   una vera testa quadra   e ia folla sullivata   gridava cun allegria   evviva la casaccata   a bassu la signuria    vulemu la liberta di fa nostra vulunta    la casacch e la vestura usitata di all antichi   e fatta pe la figura   e ancu pe li fatichi    a voi nun e cuncessa   o jenti nati per  essa     la flacchin a stretta taglia   la portanu li signori   un la mette la canaglia   ancu menu li pastori    ma e passata di moda   com ell e l abit a coda   lu cunsigliu generale ha da cambia di bandera   femu lu  so funerale   a cummincia da sta sera   chi u partitu ha la   vittoriam ad majorem dei gloriam    la merria  in casa bianca   tinuta da capizzonu   cu lu magghiu chi si vanta di fa mott a ju balconu    e la truppa scatinata   festa la so ca$aceata   perditi pur la speranza   di  piglia l affar in manu  chi avaremu la custanza   di mira lu nostru granu    si vo un manghiati minestra  attenzion a la finestra   
+  s
+    </p>
+    <docAuthor>
+     Ghiuvanni di u Pinzalonu
+    </docAuthor>
+   </div>
+   <div n="7" type="art" xml:lang="co">
+    <p>
+     morosaglia  a festa di san pancraziu di de paoli    una bona  pari   zione  lt a e cor   u furesteru chi ghiunghie in mi  rosaglia a sera di li ondeci ma hi  resta incantatu  a pabrogu  dine tu i monti si imbruniscenu e chi pe campanile falanu  pietosi  i chio a u di le ave maria  tutte e purtetto cell lumineghianu di mille fiacculella a vinti fucaroni si incendeny sopra  18  piazze da duve si alzanu fin a y il mille e mille calisgine di oni si  a a tante stelle  5 a ple  tutti paisoli di marni     tutt i paisoli di morosaglia ba  u so focu in piazza e si face a quellu chi sara u piu majo  castineta e vignanu  cumune chi stanu in fe  a morosagiia  incendentciascufa ne pi e  ita un in ni ii os il  ga st e  un sora  soiu in piazza di a so chiesa  a a  e un aliegria generale   tutta a jente sta intornu a i foghj e di tantu in fantu una  fusee  du  fona la oscurita di a noite  appa  scendu cume una spiga di oru 7 di  telli so cuntenti e manifesteghja a so gioia cun gridi  e colpi di fui  gari    to    chi festa e     un sentite i gridi di i bitetio da un paisolu a lu altru facenu a chiama e rispondi i cu i     evviva de pa     oli    e lu ecu di i monti risponde    pa  oli p ci mn si      in corti  u 17 maghiu festanu a san   pasquale  e si  capisce  perche  de paoli si chiamava pasquale  ja morosaglia a festa di de paoli si face a sera di fondeci maghi  vi  gilia di san pancraziu    u   santi preferitu di  de paoli    cum elli  di cenu morosaglinchi   o li      chi e le origine di sta tradizio  ne      cos roe nu     a u justu un saperebbe dilla    vecchj hanu sempre dettu e intesa di chi de paoli avia per san pancraziu e pe a madonna di  u carmine una devuzione particulare           inn a so capella di morosaglia  ci e sopra alalfare un guadru di a madonna di u carmine   e  tutti sanu chi prima di chiode li occhj   y gran patriotin  dumando 4 esse  sepolte ne u campusantu di  san pan craziu  in londra      oo      inn i registri di a chiesa ave mu truvatu a cunfirmazione  di  sta tradizione chi e passata da babbu a figliolu  cio chi bene a di chi pas quale paoli avia  per principale prutettore  san pancraziu  eccu cio chi noi avemu pussutu leghie    l an 1881  le 27 decembre das le eglise du couvent de morosaglia  nous  cure soussighe   avons sole nellement benite sic june  statue de saint pancrace  principal pro tecteur du general paoli  les par rains et marraines etaient  mi m polidori jean  polidori luc polidori pierre andre  receveur des domaines  colombani cetile ete etc      be e     tempi fa a festa di  san par craziu eta preceduta da una fiuvena chi a municipalita facia celebra aso spese  ava e una famiglia chi a  face celebra a contu soiu  a   vigilia  di a festa  tuttii sculari di a 5o8 paoli  accumpagnati da i so maestfh chiappanu e macchie  circendu  l  gne e incendime pe i foghi di a ef u lindumane u direttore ha be  lu asgiu che suna  a scola  nisi scularu ci affacca  unn e  festa  a festa di de paoli       nr  bravi morosaglinchi   siate fieri di  u vostru cumpatriottu  lu orgogliu e le onore di a nostra razza   
+  s
+    </p>
+    <docAuthor>
+     Sambucucciu di Casinca
+    </docAuthor>
+   </div>
+   <div n="8" type="art" xml:lang="co">
+    <p>
+     cronaca  aiaccina  e puri sapa dopu i bughidli di acqua chi apali di fa di aiacciu una citta lagusira  pu er dipoi quattru o cinqui jorni si gode pe veranincu chi face rinasce e risuscita di or  or morti  di  quantu durara    pu nova battellu  ur attellu nuvu    e ghiuntu in  ma da dut a sera a oit ore  u e catomiscia e rtino se u so nome   e in approvu metal   la algeria  ha da fa un viaghiu lb e durante tre mesi   quindici novembre  en dicembre e quindici jnnaghiu      que   ie so scarse e u so corpu ci pamercanzie so  e iu a grande pa stu traficu      qe piazza di u diamante     1n pia si   x entre e fossi larghi e prufondi pe e nove piansi ap a cumuna ha da mette a u logu di tesine povari platani chi si ne so morli di sete u a a a i fame  ce da hear du a  e di ame  gas soc ci un pocu piu in la  travaglianu cu pale    bapo  e a polvara e focu    e scavanu justu pp ede di una casoria a cinque piani  cl    ji mumentu si e cridutu chi elli vulissinu fa sprunfundi a ce u   ma di semu rinsignati   facenu un fossu par elteci un  reservoir a essence    ava in  res ci e tanti antomobili chi ci vole depo siti di essenza tutti i deci metri    su  teen in duv ella avaria da picchia u parcittoe  micca nantu i sciagurati chi hanu pena a ieziina drentu iso scarpi rotti  una sulatura  visti eaqui lranchi  o cristiani 1    u prezzu di un paghiu di scarpi fini in 4943   parlendu di u parcittore       sppo di  di chi manera e imposta a tinta jente uu e  un pan lungarutu e seccu  nasi pinzatu e occhj di bilorba  picchia a tutti pusci e ci un gitbu e una risetta  pinzuta anch ella  ficca u so sgardu in casa vostra cume un duganeru e vi pone quistione  a  manera  di un ghiudice distrazione   poi  suddisfatu o no  vi lace un bell inchjnu e    si ne vanu   so dui      gi vole a di chi quellu di st annu e piu ag  garbatu ca quella di annu        ma forse saranu ancu piu aggarbate e cuntribuzioni    in lu 1927     sports  tcalciadori bastiacci di u si  ci  bi  hanu fatina so affaccata in aiaccin par disputa a   cou pe di encouragement de la f  f  f  4   dumenica scorsa sopra a u stadiu di e saline        u sporting  avia scunfittu i campioni di a corsica di annu   altri bastiacci   par 6 mar  che ad  fe  un paiaccini bi ench elli abbianu abbastanza he ghiucatu  una hanu guadagnatu che par un puni    unu a zeru    u    e u casu di di chi per un puntu martinu persele cappa  u capitanu aiaccinu si chiama martinu  7  a u nostru avvisu la a  ci  a  a u quale maneave dui bunissimi calciatori  e sempre eusi    ha fattu miraculi  e  e due sucieta miretanu tutt e felicitazioni di i spurtivi   quellu chi dirigia a partita e statu piu ca superiore  a so imparzialita li face onore   ipontie argini  sfamministrazione si beffa  di li aiaccini maie cose chi rilevanu di ella so andafe eusi male     un parlaremu di u quartiere di santa lucia chi  cu la acqua chi efallata  era un veru stagno  ma parleremu di palberi chi ell e incaricata tinfraftene   sopra e corsu napulio  davanti a ne teatru e ineltro ci so i pali arritti e e forche chi binchileghianu  fossi e fussetti  vicinu a valbei  chi un ci so piu  ss  9 e guadine so torte  traverse    e davanti a col lata di a posta  sopra a u corsu  ci e un fossu ehi si colma di acqua di tantu in tantu   stu stagou e natu quand ellu hanu rifaltu a strada e ci stara  forsa  sin a chi elli a rifaccinu  da qui a dec anni         a cumuna   anch ella e piu che disgraziata a  ghiudican re par cio chi si vede   strade sfundate  funtane scimpiate e curtili brutti     aufpunitu chi u sgio francescu coty pare ellu vogli not  rion e  ella vogli pigliahe pieta   si dice chi ellu fe ria rigalu a eitta di qualchi milioni  cu a quali si lampannin tarra u novu culleghiu e si faria travaglia par imbelli wi pocu u nidu di la acula   pesi e misure  o brave jente  chi avete un faculaghiu e chi sete infridduliti  aprite li occhj quande vo cumprate u legnu   i  inde ne marcante vi fanu u pesu justu   ma quandu u ligname vi junghie in casa ci ne e sempre quattru o cinque chilo di menu  deve cala di pesu per istrada    i  u jattu pinutu
+  s
+    </p>
+    <docAuthor>
+     Pinutu
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     u mio piu chiucu  u mio piu chiucu  e di casa u terrore   un teme nulla appena branenloni    si move annant a li so zancheroni      infu  chi  ne benedica  spezzanu a grassore   di a mamma  o din  ne face un stracciu  si per disgrazia vole malminalin   o puru solamente liticalin     a pela cume un zann  un canavacciu tene forse di piu ca u 5o fratellu   quandu li pesta li occhj  o  a u ciarbellu li face purta corni aggrumbulati    dai colpi chi ellu mena  addisperati  li oggetti  un si ne parli  un usina un basta per furnimmia purzellana   piatti  bicchieri  tazze  ogni simana mi ne seaudula piu di una duzzina    ava po  i parni    ohime   o chi strappellu   vestutu a mane   a sera e fatt a strisce   u  bellu e  chia face e a capisce    ma chi vulete fa    ride in piu bellu   figuratevi un pocu  l altrn jornu   armato di un   reveils di centu franchi facia caecia a e mosche nant a i panchi picchiendune da li unui all altru scornu    mi pigliatu di dalli una jezione    ma  cristu  soga un verieala mio volta  dicendumi  papa    mi    mocca molla  1  poum   capite   avia trovu cannone       a me  tutte le sere dopu cena    a  u sopiace e chi io lu pigl in braccie   mi carezza  mi alliscia  e  stat appena     ecen  una stinzatell a ste mustaccie    ah  ab  o figliule  ti aghiu chiappatu      ava colla sempre nant a u dinocchin  ma mi guarda tradito  ib cattarrocchiu capite   eut mi so tuttu sberbatu  
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     u cantu di cirneella     eiu son ninfa    di u mare piu turchinu   i  chi mi murmura lu so cantu divina   per me  suspir a tutt ora di zefiri u viulinu     u sol ridente mi guarda innamurato     da u so balcone  manda basgi  appughiatu  ed ogni sera mi pone   un diadema innoratu  i        sopra a mio fronte lucenu chiare stelle  le albe la mane per me si fanu belle   e  purpurine cullane  mi ne mandanu a vascelle   tutt e stagioni   per me so dilicate    dolc e lu invernu  frescalinu le estate    lu veranu regna eternu   in tutte le mio cuntrate      la mid curona   di verdura e tricciata       i castagnu  uliva   e morta profumata   ci una fiurizione viva   poi di pampana liata       maghiu una sciarpa stretta  nant a fu core  ghie lu tesoru  di u mio piu puru amore  ci e pint a testa di moru  e di a neve ha lu culore    si lu signore mi ha datu la bellezza     cu iu pusessu di un grembiu di ricchezza   e per cunnosce piu spessu pienti  sangue  ed amarezza   tempu felice   per me ne vense pocu     la guerra infamma   mi corse ci u so focu    e  addulurata mamma   persi figliol in gni locu    si parla sempre di la mio fiera manu    fubbe ammirata dall  universu sanu   quandu per piglia la spada lascio castagne  oliu e granu   contr a la forza finii per succombe    abandunata fra le adirate trombe   ava  di crespu ammantata piengu nant a le mio tombe   da la matrigna oramai negletta      u mio terrenu e preda di a filetta    e lu sangue di u mio senu   piu nisunu lu rispetta   7 pianu si tesse u paanu dulurosu   che furibondu  lu mal  ne ha digia rosu    oghie in lu mare giocondu ci mir un voltu frebbosu    chiamu lu aiutu   braccie l un si ne stende   a mio ragione   piu nimu la difende   per un pocu di affezione sacrifizi un valse a spende   so mesta e sola   senz una cumpassione    speru purtantu   cun ferma cunvinzione   chi a spunta l un stara tantu la alba di a resurezzione   
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="11" type="poe" xml:lang="co">
+    <p>
+     u siadore  4 g  di ia grotta   u granu e mainru a spiche culor di oru   una  trainuntanella la ondulegghia tuttu i ridendu lu omu la aramira  unicu fruttu di e so fatiche  ma per ellu un tesoru     a colpi di falce  st omu crudele  moru da u sole  di striscie di sudore bruttu   e da le ardente sete in canneliare asciuttu   u straquain pianu  oh  chi riccu decoru    nantu i campi rasi un si vede che sioppia si vede u siadore chi lea i mannelli e cu delicatezza dopu poi la accoppia     e in qua e in da si arrizza un cappale   di notte chi ellu u difendera da u cinghiale  di jornu da u pizzicu lestu di li acelli   
+  s
+    </p>
+    <docAuthor>
+     A. G. Terrazzoni
+    </docAuthor>
+   </div>
+   <div n="12" type="feu" xml:lang="it">
+    <p>
+     frate serafino di ampugnani  dio mi la anima sua   condotto alla enza ac dr un se ne  presenza iaboia  mfato a del  magliaboia  avendo  minas  un colonnello che con gesti valige voli e voce sdegnosa gli faxii va  comprese che non gli facelate egirico   non intendendo il le e  non capiva per lo appunto le spi e  onde pregato taluno glieorg ss  e udito come fossero pl  gli chat lex a  do je  gli sbatacchio sul mostaci vangelo dei ci   isu con tare o sei cinque evangelis ta da  ana grazia  che gli mando   denti in gola e subito dopo   e  arraffatto lo schioppo alla sentinella  glielo sparo contro stendendolo in terra morto   preso  e portato alla forca  ritto come un cero il frate dabbene con  alta voce  cante per tutta la via il tedeum  y genovesi si consultarono col magliaboia per mettere sesto a questa faccenda dei conventi    e proposero chiuderli additittura  mandando i padri gesuiti a predicare  conforme i miserabili loro istituti persuadono il servaggio  ma al magliaboia nos parve partito  buono  non fosse altro  per essere stato esso innanzi da altri   consiglio piuttosto far  venite  in corsica frati francesi  ormai avvezzi a chinare la schiena e mescolarli coi corsi  confidando che in breve gli avrebbero istruiti nella civilta  che cosi in francia  ed anto un po  in italia  si chiama le arte del servitore  ai genovesi  non meno piosuntuosi del magliaboia  non piacque  ne anche questo ripiego   pensatoci si offersero regalare alla francia tutti i parenti e fantori dei fuorusciti  non che i ribelli rimasli o fornati in ca sa  affinche ella  gli spedisse   alla luigiana o altrove  allora il magliaboia  come preso da orrore  rimproccio il senato ligure  che meritre gli altri principi si adoperavano popolare i propri stati  essi li disertassero   il francese ingegnoso tro fava differenza tra il bando da casa di un popolo  e il tenervelo dentro a mo  de  capponi nella stia  per tirargli il collo la vigilia delle solennita  ad un tratto  chi e  che non e  i francesi dopo avere ratcoman  data la loro memoria in corsica al fuoco e alla corda  lo abbandonano lasciando genovesi e corsi ad aggiustarsela in famiglia  mon dandosi un pensiero al mondo della umanita spaventata come con tanta legge rezza potesse accopiarsi tanta ferocia  i genovesi corisidefando  che durante la guerra della  successione avrebbero eso indarno ia mano lisa a chiedere petemosina di un po  di forza  si avvisano ad operare la altra deltradimento  monsignore mariotti vescovo di sagona  che  ormai dalla repubblica non isperava piu  pace  e lo diceva  pigliano  e meitono in fondo di torre i richiesto da   benedetto  xiv  negano darlo  scaldandocisi il papa lo rendono  il giorno dopo la sna liberta muore  i  genovesi avevano trovato   che il camposanto custodisce meglio della torre  e il veleno carceriere fidato cui non si fa le spese  rendutisi sempre  piu odiosi e privi di forza  per tenere il popolo in obbedianza sguinzagliano ladri e assassini dalle carceri  richiamano sbanditi  mettono sotto sopra la isola  e cio col fine che  lacerandosi  si mantenga debole  per poterle poi in tempi piu destri rimettere le manette ai polsi  i corsi non volendo andare a sacco e asangue  provvedono al casa eleggendotre uomini per sopraintendere al buon  governo  il chiamarono protettori  efu tra questi giovam   piero gaffori  la republica si risente  come quella  che perla creazione di siffatto maestrato  immagina of   fesa la sua autorita  il commissario giustiniano a suono di cannonate meite  in un mucchio  di sassi ta   casa del gaffori a corte  e ne catiora il figliolo  ma il gaffori non era nomo da spaventarsi della casa dis fatta  ne del figliuolo preso  al contrario  il pericolo crebbe la ira a lui ed ai suoi  ou  allora i corsi   combattevano in guisa che non ci era paragone che gli uguagliasse  e spero  prima dio   che combatteranno anche adesso  i soldati del castello rimasero come annegati da un ro   vescio di piombo  quando si arresero comeeannegati da un rovescio di piombo   quando si arresero nonne fu trovato veruno illeso  e parecchi con piu ferite  parrebbe che i ge    novesi non si fossero dovuti lamentare del commisario giustiniano  dacche in verita che cosa potesse tentare di piu e di peggio non sisa   vedere  non si tennero soddisfatti  lo richiamarono  e gli fecer cosi feroce bravata  che dalla paura il dabbene patrizio si rese frate sg   masco  ed india breve mori   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

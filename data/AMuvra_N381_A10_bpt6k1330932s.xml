@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330932s
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330932s
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 381 | Année 10
+     </edition>
+     <date>
+      1929-12-22
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     — Numaru 381_ x i Esce a Dumenica : 22, 29 Decembre 1929    GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI:  orsica. » + + * _....... 15 franchi in E 18 i  In Francia. esse... 18 a 20  Unione postale sue ss BO  U Numaru:5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — ATACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     le incredibile  bluff   lampala per i caffe di  ssa francia frequentati da i puvaracci di la isula  o per le umile ustarie e cantine di i nostri paisoli  1 avemu tutti intesa  st espressione   il fari honpeur a la corse    miserevule e scillarata espressione  assai caratteristica di i tempi inde i quali vivemu  parchi   ecci bisognu di dilla    ella si riferisce a u  bluff  mustruosu inde u quale i nostri puliticanti so passati ma inde u spiritu di u controversista  e u diputatu mi   u senatore di   ou ministru z     quellu chi face onore a  corsica  si allude   o disgrazia    a sti lazzaroni quand ellu si tratta di fa ricasca un pocu di gloria annant a u postru paese   espressione cunsacrata  dunque  e chi face effettu  sara forse prununciata in altri paesi e in analoghe circustanze  ma mai cu tanta deplurevule cunvinzione cume in corsica   si voi v intuppate cu fasgiulinu  tambusgiellu o calavrone  sarete surpresi sentenduli fa la apoiogia fiurita e infiarata di dumeri di dodolfu  di lederlini e di tanti altri   a vostra surpresa diventera veru dulore  quandu  attraversu e pietose chiacchiare di sti cumpatriotti  induvinarete u   bluff   le incredibile  bluff  chi si face sirada per mezzu di li incuscienti e di i taruccati   li attori principali si so piattati  annant a scena  soli  qualchi pagliacci di bona vulunta bataleghianu  sottu a la apparenza di raghione  i so  sprupositi facenu piegne   in chi modu  questu o lu altru fra i puliticoni face onore a la isula fiera  ah  fasgiulinu  tambusgellu e calavrone hanu prestu fattu di spiegallaci         pigliemu prima a dumeri   44 bien  doumer est un grand homme  mon cher  e una di e piu belle figure di a terza ripubblica  oui  ci est un des meilleurs soutiens du regime  guardate cu chi spiritu di stoica abnegazione ella ha seguitatu a so  leale carriera di servitore di a francia  ancu dopu immensi e crudeli doli di famiglia  un omu ordinariu  rnoncher  avaria abbandunatu a vita pulitica  ma un indi viduu di a tempera di doumer un  pudia rinuncia a a lotta  a  corsica  chi sa distingue fra li omoni e li omarelli  ha saputu ricumpensa a doumer  zi le illustre president du senat  en acceptant le siege qui lui etait offert  a fait honneur a la corse  comme il a fait honneur a chacun de nous   u bellu e chi i strumenti di una cusi sbargugnata riclama ci facenu un palmu di musu quande noi un paremu micca di u so avisu ci guardanu surpresi cu i so ucchioni  cume si noi jampessimu eresie     e dodolfu  sta vecchia cuniscenza nostra  dino ella  fait honneur a la corse  lu anticu ministru di la acqua salita a si merita  st attenzione di i cumpatriotti  postu chi ell e una di e piu giovane speranze di a ripubblica   sempre stessa  canzona     eppoi  ci e un fattu chi cuntribuisce grandemente a pone a u primu pianu di a scena pulitica st eternu adulescente   ella ha relativamente assai piu diplomi che i so  culleghi  avantaghiu cunsiderevule quand omu pensa chi u diplomu e un impurtante elementu di  bluff  a  dispusizione di quelli sfruntati   dodolfu  dunque  ne e caricu di sti scartafacciuli  sintite un pocu   ell e bascigliere  licenziatu  dut tore  pussedetutie le aggregazione di a terra  quella di matematica  quella di retorica  quella di filosofia   si e distintu ancu a le aggregazione di grammatica e di sofistica  peccaiu chi ellu un sia dino agrege de sciences charlestonesques  ma cu quella faccia di penitente  un si po assolutamente micca   dodolfu  infine  ha una mansa di certificati   tanti chi per alza u baullu pienu rughiulu di tutta quella carta bullata e carta pecura  ci volenu dui omi  dui erculi  per megliu di   in quant a pietri  un ne parlemu  tutt a so  carriera prova aburdsntemente chi ella ha circatu  fin  da u principiu  di fa onore a  corsica  grande argentiere marucchinu a trenta dui anni i applaudi  o fasgiuli     quelli populili devenu una riforma munetaria famosa fra tutte  ava  eccutilu ministru  ciocchi significa chi le ammirazione chi omu li dedica in corsica un fara che aumenta  ma si ellu colla troppu in altu  un ci sara piu mezzu di iru valli a duvuta ricumpensa   eiu a vi dicu  o instanchevuli apologisti   affirmendu chi ell e cusi chi omu face onore a u paese  sete in un  cerchiu viziosu   e le errore chi voi cummettite par dumeri  landry  pietri  a cummettite per tutti li altri      ricunuscite piuttostu chi voi vi prestate ingenuamente a un insuppurtevule  bluff   esaminate a pusizione particulare di ogni idolu vostru  cusi vidarete chi lu anticu guvernatore di la indocina pudia fa megliu che di sbatte in corsica  appuntu parch ell e un persunaghiu di impurtanza  1i saria statu fa   cile di rapprisinta un dipartimentu piu    rapprisintativu che u nostru  un si spiega  in stu modu  u so  amore sfrenatu per i fiadoni e e falculelle  i diplomi di landry  ovia     cu a medita  o a quarts  o la ottesima parte di quelli chi dodolfu pussede  cianfarinu pudia  cumed ellu  diventa ministru e pusassine a u burea u de colbert  i tituli pulitichi di pietri   sog un bi abbidete chi si ellu vi ne parla  e cu lu unicu scopu diacquistanne altri piu impurtanti    a  vostra barba    pero  di distrugge a superstizione  di li idoli chi fanu onore a  corsica  ova piu che a cundizione chi elli ponenu ad ogni realizzazione  a so  elezione  si elli fussinu sinceri  si veramente elli circhessinu u benessere di la isula  dimustrarianu un attivita piu sana  piu diretta  questu   putente statista  pudaria busca i capitali necessarj senza sul  lecita un mandatu  parimente  stu riccone  invece di incruccassi per megliu ficcassi ind a gabbia di oru  pudaria istalla qualchi manufattura  qualch  impresa chi daria a prova di una attivita industriale messa a u serviziu di la isula miserevule   ma stemu pur  tranquilli  invece di custringhieci a spalanca li occhj da le ammirazione davanti a i risultati  a sterpa di i puliticanti preferisce accegacci cu un pocu di poudre aux yeux e assai  bluff    e per sia raghione chi noi videmu tante mascare anda predichendu pe  ste citta e paesi   u diputatu mi     u senatore di   p ils font honneur a la corse 
+  s
+    </p>
+    <docAuthor>
+     P. di C.
+    </docAuthor>
+   </div>
+   <div n="2" type="his" xml:lang="co">
+    <p>
+     u livellu di a moralita     lu avucatu generale di aix  parlendu di i banditi corsi chi hanu participatu a lu assassiniu diu poveru loudier ha lettu un scrittu duv era dettu chi elli appartenenu a un paese induve u livellu di a moralita e bellu bassu   stu paese e a corsica   sottu sta staffilata  lu avucatu campinchi ha saltatu e prutestatu  micca abbastanza pero  per una volta  u so  talentu di oratore si e trovu in difettu  quantu campinchi averia avutu meglior successu  rilevendu fieramente ecun curaggiu e parulle di lu avucatu generale  dicenduli    si  signor avucatu generale  u livellu di a moralita e trafalatu in corsica dipoi chi elia e francese  dipoi sti 16o anni  a corsie stata allevata a una pessima scola e da una nazione chi scapo u so  re  spuglio chiese  cristi e cumbenti   mando in esiliu  impicco o annigo preti  frati esore  e chi un ricunosce piu u supremu fattore  quellu chi tuttu vede e tuttu indichera   si  signor avucatu generale  dipoi sti 16o anni  u livellu di a moralita e abbassatuin corsica e a rispunsabilita casca sopra a u spinu di marianna     dimi cun qual  tu pratichi      bulete riieva u livellu di a moralita in stu disgraziatu paese   ristituiteli a so  liberta  dateli a so autonomia  e allora i figlioli di quelli chi casconu in pontenovu per difende u  dirittu e a justizia u un averanu piu bisognu di riceve lezzioni di moralita da i discendenti di quelli chi affugonu in golu ogni dirittu ed ogni justizia    si  ci    racontu natalescu  a castagniccia e spilandrata  e muntagne hanu diggia messu e so  cappuccie bianche   spessu  a malina a la arrizza  si vede candileri di jacciu a i telli    ne strade  i pozzi di acqua di eri facenu specchiu elroncanu cun fraju sollu i passi di a jente o di li animali  e lu invernu duru chi ghiunghie  e nalale cun cllu   natale   oh  chi dolcie diverse evucazioni per u populu corsu e cristianu  i chiughi aspellanu cun impacienza a nascila di u bambinu chi  ji purtera       perche in le nostre campagne unn e papa noel chi cuntenia u crialurame  venerdu ad cmpieli i scarpi  lasciali a u fucone  di dolci e di jucattuli   pensanu  ed e un grande evenimentu  a  messa di mezzanolle   lanli lampioni per e slrade e in chiesa  u bambinellu in lu so  veculucciu pienu a prglia  in mezzu a u boie e u sumere     i majo pensanu a chi megliu passera a la esla  stabiliscenu programmi per e selle veghie cu u pranzu di dopu mezzanolte   bia  malgradu e cudrure  tuttu e a la gioia in paese  soli  agnula lucrezia cun so  figliolu marcvcciu so tristi  u zilellu un si vede mai a  scola  perche e scalzu e mal vestitu  a mamma unn affacca mai a e nuvene  occupala chi ell e  a puverina  di anda a  jurnata per stenta u pane  e veduva dipoi dui anni   in ste serate di frigidina  a si passa sola cu u so  figliuleliu  fendu calza a lucenda di focu  e suspirendu  marcucciu li ha dumandatu cosa li purtera u bambinu   cosa li purlera      agnula lucrezia e slala seriamente malala e unn ha pudulu mancu impalla i so  affavi  u pane di u mese si e impagatu  unn ha mancu pudulu cumprassi u minimu siracciulellu per copresi da u freddu     ah  si u to  babhu ci era sempre  u bambinu si serebbe affacca tu ancu inde noi per cunlenlatti  o marcu   ma    u to  babbu e mortu  quassu in furesta  inciaccatu da un castagnu chi ellu lampava in pianu     e agnula lugrezia dice  ne un signozzu    inde noi  u bambinellu un ci jugnera        a  veghia di natale  uni pochi di giuvanolli si eranu cuncertali per una sopracena seguila di ballu  a casa di ziu ciccolu cu sala spaziosa  era lulla indicala  di altronde  u figliolu  studente in drittu in bacanza  un dumandava megliu  ziu ciccolu dino unn e  di  sse persunelle nimiche di a sucieta  disse a la affaca di a cumpagnia  tultu ridendu      a vegu  a vegu  e u ballu  chi bi allira   ma  caru figliolu  per empie u corpu a luita sta giuventu       un bi impenserile   rispundi quellu  avemu fallu a questua fra noi e arricollu mille passati franchi  grsula e maseppa si so dale capu pe u manghia  e un ci custera micca piu di cinque centu franchi  ci ne ferma per rinfrescacci ballendu  perche simu numerosi  a videle  e piu seremu in la nulata  tulta a giuventu di u paese e cunvucala qui  stasera  5  zia ciecolu avia pigliatu un aria pensosa  guasi  trista  dede di mann a so  pipa  a senzzulo sopra un ceppu di u fuculaghiu  poi  empiendula  fece  trinnendu u capu     e  ie     bi ferma piu di cin que centu franchi per cumpra robba di stravanzo  robba chi un po che fabbi male  dopu ave manghiatu sicuramente for  di misura   sebbiala giuveniu  chi un pensa che a i gudimenti      ma pensate chi mentre fale festa e spulate solli ho  sile a u calore e ben cuparti da un teme a frigidina a  surtita  pensate chi ellu ci e a stu mondu jenle chi unn avera nunda a niellesi soilu i denli e chi un pudera mancu anda a  messa per unn ave cuprende a lampassi addossu    ci fu un silenziu  poi  mezzu in timiconi  u figliolu ripiglio      sicuramente ci ne sera di  ssa jente  o ba  ma un simu micca noi caggione di  ssi palimenii      ma u duvere ci indetta di succorreli  sopratullu quandu sli suffrimenti so imposti da u destinu     e cosa intenderiste chi no  facciamu  allora     una bunissim  opera  si bo  mi slessile a sente  eccu  cuniscile tulti ad agnula lucrezia  sapete chi u so  corciu  marilu  mortu sopra u travagliu  la ha lasciata nuda cun una criatura  in piu  e stala gravemente malala  vicinu a  morte  ed avale e in la empia miseria  bi avanza solli  fate opera di carita andendu  avale chi i mervanli si so sempre aparti  a cumpra una vestitura e un paghiu di scarpucci pe  u so  crialuru  orsula i purlera inde agnula lucrezia  subilu a le esce di a messa   mossi a cumpassione  i giuvanolli fecenu cio chi ziu ciccolw avia prupostu  u vestu di cenlu e lanli franchi  dopu regulatu a vesture e i scarpi  fu lasciatu a  povera veduva   quandu marcucciu si discilo a matina fu tantu cunlentu di lruva cusi bellu rigalu di u bambinu   bedi  disse a mamma  perche  tu si stabu astulu  u bambinellu ha pensatu a le  falti u segnu di a croce e recita un paternostru per ringraziallu  dn
+  s
+    </p>
+    <docAuthor>
+     L'Orsu d'Orezza
+    </docAuthor>
+   </div>
+   <div n="3" type="poe" xml:lang="co">
+    <p>
+     canzunetta  quandu vi state a lagnliu  penserose   e senza du di manu a le faccende   chi u vostru core languidu si accende   sele amurose   riturnella  fra boi  o zitelle    l amor face danni      fughjielu puru   ellu  di sicuru   quandu move in caccia   chiappa le piu belle    vostri quindeci anni vi lucenu in faccia come tante stelle    quandu li veli bianchi di le spose   di musulina fascianu un bel  sognu   di cireu lu perche nun ci e bisognu   sele amurose    quandu ln culore di le rose  vi salta in faccia senza che ne comu   quandu piu nun fighjate in li occhj lu omu  sete amurose    quandu perdite stondale preziose    a ju specchiu accuncienduvi le treccie   quandu in jellu vi basgiale le breccic  sele amurose    e quandu  in le nuttate luminose  cuntemplate lu celu a in balcone  suspirendu  ascoltate le canzone   sele amurose    quandu v assedianu ide e affannose   chi per pienghie  ferile  vi piattate  lu elettu incunnusciulu pur  circate   sete amurose    ma quand  ellu vi dice dolce cose   chi a vostra manu si stringhie in la soia  v illumineghia la divina gioia di esse amurose  
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="4" type="let" xml:lang="co">
+    <p>
+     un branu di lettera  toul  u 16 12 29       vi feraghiu sape che ava eiu ricevu regularmente a muvra        troppu pisante e per me u tristu esiliu  e me  povere spalle so fruste e un ponu piu purta u pesu terribile di a luntananza  i me  pedi so insanguimati da e strade straniere chi eiu calcegu da tant anni   i me  pulmoni  infusicati da e fumate di a lussuria ci e vampate di u molla molla morale  chiedenu un pocu di quella aria pura chi elli hanu respiratu in la me zitellina   u me  esiliu e duratu troppu  i tre quarti di a me  povera vita lu aghiu passati for  di patria  oghie un possu anda piu inla   so stufu di sta vita di cane  in lu me core adduluritu sentu a voce di a corsica madre  ella un mi lascia piu ribosu  ghiornu e notte  eiu pensu a e sponde fiurite di u mar  tirrenu     eiu vurria riturna a i loghi di i me antichi    se  aghiu lasciatu la isula e chi cula a vita era impussibile          ah  chi piacere per me di rivede a corsica amata e di un mai piu lascialla       lisandru marcelli
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="5" type="div" xml:lang="co">
+    <p>
+     impicci e  mbrogli  pe i gialli e pe  i neri  u ministru francese di e culunie   dicenu chi ellu serebbe corsu   averebbe dichiaratu chi  dopu e regulari apprubazioni di a camera e di u senatu  u guvernu emetterebbe un imprestitu culuniale di tre miliardi e mezzu di franchi  cu scopu di duta madagascar  la indocina u togo e u camerun di tutti li armamenti economici indispensevuli per rende fertili certi territorii di e dette culunie chi so sempre improduttivi  in seguiti venerebbe un secondu imprestitu di un miliard di franchi  in favore di e vecchie culunie francesi specialmente bisugnose di un megliuramentu in le so  strade ferrate  jn  li abitanti di  sse culunie devenu ave avutu nasu di le ultime installazioni di ardigneria  strade ferrate ecc  fatte in corsica  e  ghielose  devenu ave erpiatu      allora  u ministru   dicenu chi e corsu   per un fa bede chi ellu un travaglia che pe  i soi  e in lu so  paese  pigliatu pe  u collu  unn avera pussutu di ca no   di piu in piu bella    piu si campa e piu   in corsica   si ne ampara      fressineghiu  avemu annuciatu chi sanguetia avia finitu per capi chi lu arrivu di u battellu di nizza in lu portu di ajacciu aetre di mane era un veru sprupositu per un di piu  e ne avia ritardatu lu arrivu di due ore   ie  ma fressineghiu un seria piu quellu si ellu un facia torna parla di ellu    sanguetta ha dunque decisu chi u battellu di marseglia chi arrivava u marti in ajacciu a cinquore  arrivaria oramai e e 3 dopu mezza notte   mai piu chi po  ci cuntentimu   tuntia pinzuta  i giurnali annuncianu chi  ghiorni fa  a u teatru municipale di montpellier  u gran tenore di mazzei volse canta in italianu un passaggiu di rigoletto  opera chi era a u programma   u publicu si scatino  e  cu fischi e  taccate  impedi a la artista di zuffa una sola nota     di mazzei avendu ripresu u passaggiu in francese  li applausi risiconu di fa sfunda a volta   sariamu curiosi di sape si la orchestra ha sunatu in francese o in italianu      pacifismu  a  camera francese  a la ultima discussione di u bilanciu di a guerra  u relatore bouilloux laiont ba dichiaratu chi stu bilanciu tocca i 6 495 mi lioni e chi ellu era      inferiore     a  quellu di u 1913 chi si ammuntava a 1 4ooo milioni oru  ci e a di  7 miliardi di franchi attuali   u capu di i radicali socialisti daladier  si e subitu alzatu per cuntesta tale cunclusione  eccuti e so  proprie parole  2   avemu un esercita chi ci costa 6 394 milioni  chi conta 29 mila ufficiali  di  i quali 2 milain le culunie   numeru mai raggiuntu  ancu da luntanu  da alcun  paese di u mondu  a so  forza tracolla a 49o mil omi  senza parla di a burocrazia militarizzata  si omu aghiusia e spese metropolitane  quelle di e nostre pussessione di mare inla   non cumprese e culunie   i crediti di le aviazione militare e e spese distribuite in  li bilanci piu pacifici  si trova cume spesa militare reale 8 45o milioni   u bilanciu di a difesa naziunale  intendendu cu sta denominazione e spese di a guerra  di a marina  di e culupie e di la aria  vanu a tucca i 12 2o7 milioni   qual e dunque u paese chi a la infora di a francia cunsacra di piu a e spese di difesa naziunale che a e spese produttive    a quistione la ha posta daladier   un vale a pena chi no  a pongamu ancu poi   amore  pochi jorni fa una squadra francese  a li ordini di u contrammiragliu dubois ha lampatu le ancure in lu portu di tarantu   lu ammiragliu dubois ha visitatu  pautorita  e  asera  u cumandante di a siconda squadra italiana  ha offertu a bordu di a curazzata   andrea doria  un pranzu in onore di li ufficiali francesi   dipiu  lu ammiragliu dubois ha inviatu u seguente dispacciu      a si  e  lu ammiragliu sirianni ministru di a marina  roma   aume  arrivu a tarantu  aghiu le onore di rivolge a  vostra eccellenza u salutu rispettosu di a quinta divisione jeggera di a quale cumandanti ufficiali ed equipaggi so felici di visita dino una volta i so  camerati di a regia marina italiana  eiu v indirizzu in me  nome persunale le espressione di i me sentimenti di fedele e cordiale amicizia     belli seniimenti   ci vole a ricunoscela   ma andateia a scrive chi u dialettu corsu e un dialettu italianu     e vidareteicani  nufriti cu a brinnata di u guvernu  chi v abbaghiaranu a e zanche   decadenza  a direzione di a statistica generale di a francia ha recentemente cumunicatu a  stampa u seguente muvimentu di a populazione di i 9o dipartimenti amministrati da u guvernu di a ripublica per li ultimi dui trimestri 1929 e 1928   lu avanzu di e nascite sopra a e morte  pe  u secondu trimestre di quist annu  e statu sulamente di 9 416 urita invece di 22 oo1  avanzu di u stessu trimestre di fannu scorsu   ma  sicuramente  st avanzu saria turnatu disavanzo  sie prulifiche minuranze naziunale di francia  brettagna  alsazia lorena  corsica  fiandra  paese bascu  unn avianu datu   modu di parla   un culparellu di manu 
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     a un amicu  lettor  si qual ell e  talvolta un sai cerca  chi nu sti versi u tritrerai  ghia chi lu vinti nove si ne scappu    ila boglia anch ella di anda  nde l un ju cumpagnia di tutti quelli amighj edi  a lu agnu ha lu ampatu ja so  zappa   i  ne junghiera un allru nova novu    novu perch ellu vene  ma u vecchium fiernu lu irescina senza lume    e tutto a ricumincia  o tristu sgovu   tuttu  ancu li augurj     i li mandu   e una nave di voti pe i muvrisli     in la aunala  chi a corsica ne acquisii onore  lilertu e u so  cumandu   ti sianu cuncessi pe  a famiglia  1 favori piu noli chi u to  core  ne po richiede in grazie a lu signore  in la gloria tu  mbecchj a ja 1o  zigliu 
+  s
+    </p>
+    <docAuthor>
+     L'Orsu d'Orezza
+    </docAuthor>
+   </div>
+   <div n="7" type="feu" xml:lang="it">
+    <p>
+     e le direte che ho pensato alla sua angoscia  e ne rimasi impietosita  dacche tutte le donne che soffrono sono sorelle  ditele ancora  che presentandosele occasione di sollevarequalchemio poverocompatriota ella lo avrebbe fatto in virtu del suo buon cuore senz altro ecciia  mento  ma sela memoria dello aiuto prestato al suo figliuolo rendera piu consolante la sua voce  piu benevola la sua carita  io pensero che mi abbia rimunerato oltre il merito     il capitano rinaldo a notie inol trata  posto come si pote meglio su di un mulo  era condotto in bastia  certo sofferse molto  e due volte svenne  tuttavolta la sirada che mena alla liberta non sembra mai tanto dolorosa da dissuadere veruno dallo scorrerla sino in fondo   mentre il generale paoli stava per mandare intimazione alcomandante ludre di arrendersi senza indugio  gli fu annunziato un parlamentario per parte dei francesi  fattolo subito mettere dentro la stanza lo accolse secondo il suo costume in piedi e passeggiando  il cane nasone tornato a casa aveva ripigliato il suo  ufficio standosene a giacere in mezzo alla sala  l ufficiale dopo i consueti saluti espose con parole succinte  il comandante ludre avrebbe reso il borgo se in capo a 24 ore non fosse stato soccorso  intanto gli mandassero i corsi provvisioni di bocca  che verrebbero pagate a prezzo corrente  passate le ore 24  senza che alcuno uscisse ad aiutarlo  gli fosse lecito abbandonare il borgo  con gli onori di guerra  le bandiere spiegate  tamburi battenti  e tornarsene con tutta la sua gente a bas  tia portando seco cannoni  bagagli e munizioni di guerra     avete da aggiungere altro      non ci e altro     tornate al signor comandante  salutatelo in mio nome editegli  circa agli onori di guerra gli avra tutti   le sue bandiere porti seco   millanterie ne iattanza garbano ai corsi  e chi abusa della buona fortuna dimostra non meritarla  e umiliazioni inaspriscono gli animi e piacciono ai barbari o ai vili  rispetto alle armi e alle munizioni noi nesiamo privi  bisogna che ce le diate   non vi farebbe ne manco onore vincere gente disarmata   gli arsenali di francia poi ne possiedono a macca per rifornirvene fra giorni  potrei esigere il giuramento  che finoa guerra finita non ripiglierete piu le armi  ma ci rinunzio perche avendo veduto come per ordinario siffatte promesse non si osservino  voglio risparmiarea voi  la vergogna di mancarci  a me il disgusto di punirvi  caso mai mi ricapiste fra mano   tutti i francesi con queste condizioni escano dal borgo fra un ora   gli altri rimangano  andate      signor generale  rispose il parlamentario con voce alterata facendo sforzi infiniti percontenersi  signor generale  voi ci trattate come se ci aveste messo i piedi su  collo   un ora   ma ci vuole piu tempo a sellare i cavalli  questa condizione non palesa punto la cortesia che presumete mostrarci     per dio santo   urlo il generale picchiando col pugno chiuso su la tavola  intanto che i suoi occhi baleriarono   e chi siete voi per vituperare in altrui quello che voi stessi stimate potere fare con lode   vi rammentate   qui    sono pochi mesi  quando contro la fede della tregua voi scorrazzavate per capo corso  il nebbio e la biguglia  mandai da lento un messaggio al marchese chauvelin perche mi concedesse sei giorni di armis tizio al fine di radunare i rappre sentanti del popolo perche soprale proprie sorti deliberassero   avete obliato quello  che mi mando arispondere  noi lo ricordiamo  se vi piace sottomettervi sottomettetevi  tregua non vi si concede ne manco un ora  e a ridurre un popolo fiero  che da quaranta anni combatte per la liberta  al giogo amarissimo del servaggio straniero  mi sembra  signore ufficiale  che ci volesse un po  piu di tempo  che a poche centinaia di vinti per uscire da un riciuto di case    quando voi mi pagaste cotesta moneta la dicevale fatta di oro di coppella  perche coniata da zecca francese  ed ora che io ve la restituisco tale e quale  non la riconoscerete piu   osereste sostenere chi io ve la abbia falsata  a cui sputa contra vento la saliva ritorna in faccia  non una parola di piu  partite   e levandosi lo orologio di tascalo pose sopra la tavola  l ufficiale si parti pensando forse poteva darsi  tutto il torto non fosse del generale corso  e per la presunzione francese non era poco   il comandante ludre raduno da capo il consiglio di guerra   veramente non si intendeva a che fare   mae nelle malattie non si manda pei medici ed anco piu famosi quando lo infermo boccheggia in arficulo mortis   l uomo e schiavo legato alla catena dei costumi  la milizia francese indi a breve conobbe i patti della resa  e le parvero ostici  perche la cosa che abbia virtu di percotere piu forte le menti dei francesi sia la umiliazione  e volentieri lo confesso  quella che sopportina meno  e vendichino piu presto   ma la necessita gli strin8eva con tanaglie di ferro   si trovava allora per caso ira i francesi al borgo un mattei di lota traditore e spia  il quale si era condotto al borgo per rivendere anima sua a minuto indicando  tade  scoprendo imposcate  commettendo anco di peggio se di peg81o avessero avuto i francesi bisobo  ed egli protesto di farlo  av vertito dei patti della resa se gli senti appuntare al cuore come la cima di una spada  pero non mise tempo fra mezzo di condursi ai quartieri del ludre per dimosirargli il debito  anzi la nessita di salvarlo ad ogni costo  respinto dal piantone schiamazzo  prego e per ultimo minaccio   e furono parole perdute  convinto finalmente chi ei diceva le sua ragioni agli sbirri  si apprese a nuovo partito quale fu questo   sali sul tetto della prossima casa  e quindi arrampicandosi giunse a quello del quartiere del ludre   qui rovescio la lavagna murata ad angolo su la cappa del camino  e bravamente si caccio giu per la gola fuligginosa  mentre il comandanteapprofittandosi del tempo brevissimo stava per mettere fuoco ad un fascio di carte portate sul camino  ecco con molta paura  rotolare giu una figura mostruosa  che non avrebbe cosi di leggieri riconosciuta  se non si fosse dato pensiero di gridare subito       noa dubitate di nulla  signor  comandate  sono il vostro confederato mattei  ho sentito cosa alla quale mi riesce impossibile credere  voglio dire che quel tradidore del paoli nonvuole ricevere a patti che i francesi soltanio   in quanto a lui  cotesto ribelle di s  m  cristianissima  lo conosco capace di questo e di altro  ma voi spero  signor comandante  che siete quanta lealta e quanto onore vivono nel mondo  rigetterete di certo il vituperio di simili condizioni     non ista in mio potere farlo  dopo la ritirata del marchese di chauvelin non mi avanza scella     voi vi disonorate      io  grido il comandante  e gli si spinse contra con mano aperta per dargli uno schiaffo  poi si ritenne aggiungendo con ineffabile disprezzo   voi non meritate ne anco uno schiaffo   che debito ha con voi s  m    voi vi siete venduto  egli vi ha comprato  e a parere mio piu caro di quello che meritavate  la e partita saldata  uscite   11 mattei voleva ripetere  e dalle  labbra frementi e dagli occhi che schizzavano veleno si poteva argomentare di che razza parole  ma due granatieri lo acciuffarono  e lui repugnante e sbuffante di un solenne spintone cacciarono a capitombolare giu delle scale fino a mezza strada   cotesto modo di palesare la propria intenzione parve anco al mattei tale da dissuaderlo a tentare da capo col ludre   si provo a procacciarsi miglior ventura co  suldati  aveva dimessa ogni petulanza  dalla procaccia trapassanno alla piu abietta umilta  supplicava io ricevessero nelle loro fila  sopportassero fingerlo camerata  la carita non fa macchia  o fatta  ella stinlgerla con le proprie mani subito  deh  non impedissero che vestita iassisa soldatesca  si mescolasse fra i granatieri   la piu parte di cotesti militi repugnava non comprendendo  o ricusando capire  che se il tradimento frutta infamia  meta appartiene a cui lo commette e meta a cui se ne approfitta   ma un sargente che  gia fu usciere di parlamento  e risegno lo ufficio affermando  che gli pativa meno la anima di vedere ammazzare la gente colla spada che con la penna  chiesta ed ottenuta a parlare licenza osservo come il punto adesso stava nel ricattarsi   pero piu che mai abbisognare essi di gente devota che per un po di danaro mettesse a repentaglio per loro anima e corpo   considerassero che incominciava allora la guerra   anco le spie comporre fra loro un arciconfraternita  e di che linta   questo rispettabile corpo si terrebbe offeso dello abbandono di uno dei suoi membri  non per lui certo  ma per proprio interesse persuaderlo a tenerlo bene edificato  non rifiutandogli lo ultimo rifugio nel quale confidava la sua salute  cicerone non poteva orare di meglio ne persuadere piu arguto   lasciarongli pertanto vestire la militare assisa e confondersi fra loro   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     a e damicelle  i icelle voi altre damicelle  un ocu vurria discorre    mitti lu biancu pi mittite tantu dolu    dastetta e acqua di odore  pe mica in ssa manera chi ellu si inspira le amore   e ju naturale solu  chi po allaccia lu core   sppuru  ste giuvanelle fa tamania muffura 1   si mascareghianu in faccia da mellevi la paura 3   a cio chi lu mondu dice  mancu ci facenu cura    di fa la bella lrinnada e 19 so sola primura   jegaraghiu cantendu  pa faccia male  un ci avemu piu zitelle propriamenle in nalurale i pet ji falzificatori ci so le legge penale    pe  ste falzificatrice duvaria esse ugnale   rimarchendu una figura carc a neru biancu e rossu  si piglia pe  una pillura     oh   chi fattu vergugnosn   tutta quella chi si tigne  nissunu ne sia amurosu    diciarete  o zitellette   ghe su pocu generosu    forse  le vostre tenuie so ciu chi eiu ammettaria   mi piacite hen vistute e fendu la fantasia   ma  di mascarassi in faccia  quess e una vera follia   e vegu chi a tutte voi   bi e ghiunta  ssa malalia   si ellu parte damicelle  in banda a la passighiata  le pudemu seguita solamente a la fumala   in stu paese di osani   polvera unn e risparmiata   si ella si impastassi in pane  ci e da fanne cna furnaia   e nun ne compranu piu farina da la pulenda   chi la polvera di risu costa piu che le pruvenda  di quessa la farinella   qui  marcanti un ci ne venga  ma facenu le cumande    per paralle un ci e sarrenda   giuvanelle campagnole   ista moda cittadina   or si ho  nun la lasciate  fate la vostra ruvina    ri prupunaria  o belle  di adupra la pisticcina   quella ha la fumata forte  altru che polvera fina 
+  s
+    </p>
+    <docAuthor>
+     Menicu d'Osani
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     ritti  ime  figlioli   a pasquale manfredi  videti la vostra mamma solu  sola abbandunate   soffri li alroci martiri   e gravementi malata sopra un jeltu di agunia  ne duttori ne rimediu   per ella nun ci e nienti   veduve ed urfanella   nimu seuti li so  pienti   e mori a la malavia   mancu vo  li me  figlioli  sola ed unica spiranza   nun v accapeti di me  di umori aveti scarsanza   nighendumi lu succorsu  seli sempri in divisioni  mai di listessu bordu    unn a dritta e lu altru a manca  nun seli mai di accordu    si perdi lu sangui corsu    ma chiama la vostra mamma i nun sentili ju so  gridu   cuncurriti iutt insemu all infondn di ju nidu   a la materna carezza  sogu la mamma di lutti   per tulti  lislessu affettu  cuncurrili tutt insemu all intondu di iu lettu     ritti  pe  la me  salvezza
+  s
+    </p>
+    <docAuthor>
+     S. di San Ghiorghiu
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     ti ringraziu     a sm  a  di chidazzu  aghiu lettu e aghju in mente le amabile puesia   mi ha toccu sinccramenie e mi ha parlatu una cria di un chi cume un parente  piu bicinu a me burria   ti do eo lu ringraziu   pe  lu nostru bambinellu   quandu in bon  umore e saziu  vegbia in lu so  veenlellu  di canta mi de lu jaziu  tant ell e vivace e bellu   tant e felice la mamma  chi un lulascia una seconda  eo ne aghiu piu che brama quand io mancu di una stonda  e mi par  di sente a chiama di sla cusarella bionda     pregu chi u mio fiore raru  dio in faccia  ngrandu   certu piu di un ghiorn amaru  la sorte ci ha da manda   ma lu celu  amicu caru  omi fatti un ci ne da     di avellu male allevatu nun bulemu lu rimorsu   dolce quante lu colalu  sara fieru cume un orsu  eo vecchiu  a lu mio latu  ave bogliu un veru corsu   caru  di ave la so  stella  so chi a lu to  cor  li premme   pigliala in la eta piu bella  chi unn e piu tempu di gemme  e si ti hai una zitella   li mariteremu insemme   a faremu  e cosa detta  finiscu sta puesia   ciu chi lu lo  core aspetta  lu signore ju ti di a   cun pamata giuvanetta  mille grazie  e cusi sia 
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="11" type="poe" xml:lang="co">
+    <p>
+     cunsigli  oghie mi decidu anch eiu a serivene a lu junrone  quantunque pocu capace a cumpita le canzone    ma so figliolu di un babbu chi un si fiacca di cumpone   cara muvra chi ti sini leggiadra per lu altu monte  pasci la arba tinnarella    e porti alta la fronte   da la piaghia a la cullina  spieg  a u corsu a so  ruina   dilli chi pe  a giuventu cio chi ghie lu peghiuaffare   e di vendesi per pocu  pe  a carriera militare   credenu truva furtuna    partendune tutt appare   si parte a le culunie   duve ci e tante suffranze  dopu  anie prumissione e dopu tante speranze  chi  cula so pene e mali e piu triste circustanze   dop un tempu di suggiornu  si ritorna a lu paese ingrunchiati e musinosi  cu le membre tutt offese   e si mord omu le dite di fa u servu a lu francese   quelli chi un credenu a me  forse  perche so zitellu  dumaudinu a ji piu vecchj si ellu ci  ole ave cerbellu per crede a tutt i prugressi chi elli contanu li affissi   un guardate  sse riclame affissate pe  i paesi  appuntu ponu cumbene a mori e senegalesi   chi  nati cerbelli foschi  un ponu avelli piu offesi   voi  cari cuscrilli corsi  lasciate  ssi cumplimenti   aspittale u vostra tacca  un firmale ingaggiamenti  ne averele ancu di troppu pe  sfuga li vostri pienti   paulu di 
+  s
+    </p>
+    <docAuthor>
+     Minicale
+    </docAuthor>
+   </div>
+   <div n="12" type="div" xml:lang="fr">
+    <p>
+     un pocu di storia accenni a teodoru e a maillebois avemu estrattu e poche righe chi seguenu da dui volumetti di u mercure historique et politique chi ci so capitati in manu  u titulu cumplettu di sta raccolta publicata a la haye chez henri scheurleer fara cumprende a i nostri lettori l interessu di i passaggi chi noi riproducenu mercure historique contenant l etat present de l europe ce qui se passe dans toutesles cours les interets des princes  ce qu il y a de plus curieux pour le mois de    le tout accompagne de re flexions politiques sur chaque etat  unn avemu in manu che u secondu eu quartu trimestre di l annata 1740 e i mesi di jennaghiu ferraghiu marsu aprile 1743  numero d avril 1740  de toscane  les nouvelles qu on recoit de l isle de corse sont si contradictoires qu on ne peut y faire aucun fond a en croire les francois ils ont reduit cette nation  a en croire les genois ils n en croyent rien  a en croire les corses meme on peut bien croire que les genois n ont pas tort  puisque ce n est que la force qui contient pour un tems cette nation feroce qui n ecoute ni loi ni raison ni conscience ni religion ni interet public  qui se livre sans reserve a la basse passion de la vengeance le baron jean frederic baron de neuhof rauschenburg que le roi theodore qualifie de son lieutenant general en corse est a ja tete d un parti qui grossit tous les jours dans les pieves au dela du tarao on attend dans cette isle un nouveau corps de troupes francoises pour relever celles qui y ont servi jusqu a present vu pour les renforcer car l air la saison  les mecontens les ont beaucoup diminue ce qui n effraye point les corses qui paroissent redouter moins la mort qu une domination etrangere aussi en execute t on tous les jours qui vont au supplice avec une fierte inconcevable la plupart d entr eux esperent encore que leur roi theodore viendra les secourir surtout depuis qu on leur a fait accroire qu il etait passe de venise en allemagne  de la en angleterre d ou il doit disent ils se rendre dans son royaume avec des secours considerables effectivement on scait qu il a ete a cologne ou il a publie ses titres de cette maniere theodore etienne baron de neuhof seigneur de pungelscheid glind rade lybach meuchausen  sasseran ne a cologne le 24 aout 1694 elu e couronne roi de corse sous le nom de theodore i le 15 avril 1736 feue son epouse etait une comtesse de kilmalok niece du duc d ormond elle est morie a paris en 1724 en couche d une fille aussi morte sa soeur la marquise de trevoux est morte sur ses terres pres de metz laissant un fils  une fille le roi a trois cousins de la famille de neulrof fils du frere de son pere dont l un jeanfrederic baron de neuhof rauschenburg execute les ordres de sa maj en corse en qualite de lieutenant general d infanterie  c  c  numero de mai 1740   de la lombardie  la situation presente des affaires generales de l europe est cause dit on de l incertitude ou l on est encore par rapport au sort de l isle de corse on assure que la cour imperiale avec qui celle de france a concerte lorsque celle ci resolut de secourir les genois ne paroit pas contente de certains arrangements pris par rapport a cette isle ce qui suspend aussi la decision de cette affaire en attendant les ministres genois a paris  a vienne negocient vivement avec les ministres de ces cours  envoyent souvent des couricrs a genes quant a la situation des affaires domestiques de cette isje elle est toujours la meme  la vengeance les animositez le mecontentement  l esprit de revolte y regnent comme auparavant les officiers francois s y divertissent aux depens du front des bourgeois qui ont de trop jolies epouses  de tems en tems les corses en assassineni quelques uns souvent des soldats ont le meme sort les coupables qu on decouvre sont pris  pendus sans beaucoup de formalitez ce qui ne rend pas les autres sages au con1raire il semble que le sang des autres les porte aux memes crimes ensorte que le marquis de maillebois a fort affaire avec cette nation les montagnes  autres endroits inaccessi  bles sont remplis de rebelles  de bandits qui font de tems en tems des courses de cote ov d autre  pillent e saccagent tout on dit que je baron jean frederic de neukoff est a leur tete mais d'autres en doutent   numero de juin 1740  de la lombardie  toutes les nouvelles de corse continuent a annoncer les arrangemens que le marquis de maillebois prend de concert avec le commissaire dela republique puur retablir la tranquillite dans cette isle  tenir les habitans en bride pour cet effet on continue a retablir les grands chemins qui peuvent rendre plus facile le passage  la communication d une pieve a l autre  on a abattu plusieurs forets ou inutiles ou qui servoient de retraites aux mulins   on travaille a force a augmenter les fortifications des places ou il est necessaire de tenir garnison quant aux habitans ils sont toujours les memes inquiets  remuans  ne pouvant se soumettre a aucun ordre  les ecclesiastiques sur tout donnent beaucoup d embarras au general francois qui a ete oblige d en faire executer quelques uns particulierement des moines pour servir d exemple aux autres mais inutilement  c est une race incorrigible on assure qu un neveu du roi theodore erre encore dans les montagnes de la rocca a la tete de quelques bandits tachant de trouver une occasion de sortir de iisle  mais deux fregates frangoises croiseni vers le midi de l isle pour empecher qu il n y aborde  n en parte aucun botiment sur tout du cote de portovecchio quant au sort de la couronne de corse il reste encore tres incertain les genois voudroient bien ne la point perdre cependant il paroit que les arrangemens sont tout autrement pris mais qu ils ne seront executez qu apres que l espagne  la grandebretagne seront reconciliees  numero d octobre 1740  de la lombardie  on apprend de l isle de corse qu on y arretait  qu on rouoit ou pendoit on arquebusoit tous les jours quelques uns de ceux qu on appelle bandits dont plusieurs sont revenus dans l isle apres en avoir ete chassez  qui ont eu ja hardiesse d y rentrer avec des armes le neveu du roi theodore qui a si longtems erre de grote cn grote dans des montagnes inaccessibles est enfin sorti de l isle avec 6 ou 7 de ses plus fideles adherans en promettant aux autres qu il revicndroit bientot a leur secours toute la conduite des genois laisse entrevoir qu ils se flattent encore de rester en possession de la corse ce qui paroit n etre pas le compie des habitants de cette isle  a fine a u prossimu numeru
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

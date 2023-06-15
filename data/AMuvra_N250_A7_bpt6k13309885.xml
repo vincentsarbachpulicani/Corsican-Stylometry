@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k13309885
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k13309885
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 250 | Année 7
+     </edition>
+     <date>
+      1926-04-25
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Annu VII NU ue di Esce a Dumenica Dumenica, 25 Aprile 1926    GIURNALE DI E PIEVE DI CORSICA  ASBUNAMENTI :  In Corsica. . + . + . . . . . ~~ ... 12 franchi  jh Françia. . © 4. . . . . . . 18 »  AL l'Esteru. ... ..:........ 25 à  U Mumaru:4 soldi  Direttore : Petrù ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     tandu     mi arricordu cun pu gnimentu in pettu  ci un puonimentu acuiu quante una o di     ne stilittata  mi mi arricordu di quelli iorni scorsi  sfuggiti cu a velocita di pacqua sciumosa di a catena   mi warricordu    so scumparsi arrimane eppuru ne parenu travolii ne u grisgiognu attristitu di a luntananza   tempi allegri e dolci di una cusi corta zitillina sbucciata tra i muri antichi e cari di un borgu pumunticu   giuventu   giuventu    una volta e po non piu   giuventu sciolta e dilagata in lu bollaru di li auni cume a fumata di una ziglia sottu a lu alitu di u marinu   ava vi suspiru  ghiorni persi   vi travegu in la nebbia di u passatu      eppuru sete vicinu  state ascosi a la umbriccia di u me cedre chi voi riscaldate e schiarite  lumirella chi veghia e lampa raggi in lagnone di um anima affritulita  i    vi vegu   vi sognu    v adunite ad ogn ora   carezze di mamma  ariate di babbu  saltere imparatu a balbuttumi  ghioghi      o ghioghi amati   caloscia  erigulinu  e rucchiatellu  e signetta  e sardella   sardella  pesciu salatu   a chi picca ci sta    accumpagna li topi   purteniul a suttarra   ghiorni persi  quant e vo mi attipidite valma        ucchiata di a prima namutala  u so prima  surrisu piu frescu ca a bazza chi scintilla a valbere in punta di ogni fiore di u pratu   a son di cetra e di mandulina  e sirinate     i pizzicati lintinneghianu cu note argentine in le me arecchie supli late da musiche strane  e patdle e sentu  armuniose  tro  e apposta da cunfondesi cu 1 soni     canzone di tandu sindiatm a i jarganelli corsi  cu chi dricisione echi puesia elle pigliavany u so bulu per salticchia da un labbru ardente a  finestra induv ellu trimulava    bianculinme di e tindinei f sbrullavani a fruvuli cu di mpagnamenti narborsi ta ghitara    o pescator di le onde       alirimenti si tu ne din     ne dormi su letto di piume     ghiorni sfuggiti quante vi piengu  e quante vo mi ripicchiate in senu 1      u filu chi vi tratene sempre in giru ad ogni pinsere e sempre carcu a trizzini  parchi ciasche suvenire  farfalla di malincunia accorre sempre sopra a la ala leggera di u cantu   o le funzione di iesgia   ne affaccanu da varca di e cose trapassate cun adore di candelu e di incensu  e si accopianu sempre di fremiti di organu e di voce schiette chi ribombanu in le volte  perdono  mio dio     e prucissione sfilanu cu e croce nere  i gunfaloni ricamati  e tabarine di i camisgi  e sentu u lagnu di u jovi santu    acqua piove e sangue allaga     eppoi  ricordi di zitilloni imbarbazziti  e lotte elettorale di e quale un resta che sistine satiriche o rabbiose    o lu nostru lu partitu     e dino      li si mena di spronu inde vilia      a stanostalgica retrospettiva cunvene di aghiugne a partenza di i cuscritti  loff a vinu chiarasgimi  e chi a si attippavanu cust addiu   quando sero di guardia  col mio sacco completo   la gibern e il moschetto   tutto transportero     tempi scorsi    ci so riturnatu in lu paisolu di i me primi passi  ci aghiu trovu  tra i muri anniriti  i cumpagni di cudacciula  di trent anni fa  faccie annivulate di a tristizia osepolteingrisgi barbazzali     ci so riturnatu    un trettu frisculinu mi ha cutratu     e farfalle di malincunia  oghie so buvomi neri chi si cuzqanu in pettu e pugnenu cun agu carcu a velenu     canti di prima  ciatte fris giulate a mille culori  avete abandunatu ne rusulaghiu di a giuventu  fatti chi e labbre chi parianu fiori si so assiccate o so impure       so intratu in ghiesgia  una voce di cristallu lampava   il est la sur l autel   celui que mon coeur aime     una notte inunzuffuluscher  zosu di ghitara  aghiu iniesu   elle avait une jambe de bois     a maghiu passatu un aria da negri briaghi mi ha  firitu le arecchie   di  et nous l avons gangne     e  da le automobile chi strass cinava zitilloni di vint anni versu i macelli maruccani surha  ci un rombu di motore incatarritu  u cantu suldatescu di a madelon mal filtratu da gole inadatte   e  la madelon pour nous dontier r a  boirr e     ghiorni persi  un sete micca i mei chi egoistamente ghiaguulate   sete i iorni scumparsi di una razza tramutata chi stilittate uni core chi  cu u palmu di u dulore  ha misuratu a spelunca abbughiata induv e vo sete trafalati   
+  s
+    </p>
+    <docAuthor>
+     P. di B.
+    </docAuthor>
+   </div>
+   <div n="2" type="poe" xml:lang="co">
+    <p>
+     barbari  semu varbari   e detta  la evidenza quale a discute   barbari in de i custumi   in de a cuscienza bestie curnute   barbari i vabbi e barbari i figlioli    razza di infernu    cum ell e u calzu e cusi so i maglioli  in sempiternu   u vattesimu all altri i fa cristiani   a tempu nali   a dallu a noi e cume a dallu a i cani   oh  disgraziati    rassignemuci  o corsi  e a nostra sorte    chi ghiova u tediu    tantu astu male sulamente a morte   po da rimediu   ma  prima di cripa   per lu antiveru     mi piaciaria chi un anima curtese   spigasse e a mo ignuranza u gran misteru  di stu paese   beggu a corsica sana suminata di ruvine di tempi e di cumbenti   beggu jege chi di arte raffinata so munumenti   o fhann fatti i varbari si tempi   ava fidiati con rimpientu piu    se velle jege lu hanu alzate l empi a unor di diu    si livo le arte a cusi altu segnu per opera di un populu prufanu   chi avia barbaru u core  aspru lu ingegnu  tronchiula a manu    si ell e bera chi un populu rispecchi a si anima in de le arte  a dilla franca   a poara civilta di i nostri vecchi   ava ci manca   tiremu avanti  tutte se ruvine di cumbenti  in de e valle  nantu e sare  reniu e mure di e nostre citadine   in ripa a u mare   un bi dicenu nulla   e nosiri padri fabbriconu  da varbari scimiti   tanti cumbenti per rifuggiu a i ladri ed a i banditi    di prighera e di pace eran suggiornu se case trafalate  e scole a tutti di u vangelu di cristu  chi a lu intornu dava i so frutti   e li omi  chi di jornu e in cor di a notte prigivanu e laudavanu u signore   e alzavanu  paceri  in mezzu a e lotte   boce di amore   e inc u bonum et paz   di san francescu appacciavan firissimi nimici   chiamenduli a magna a listessu descu  7 turnati amici   eran barbari anch elli   un biduinu   o unsalbatie u isciutu da a $o tana u santu taumaturgu bernardinu di calenzana    cu a chilga o senza  i contanu a euntera   j corsi illustri in scienze  arte  dirittu  pulitica  e sape di ugni manera   eren di egittu    tano   e scurgende ruine in mezzu a a terra incolia   dicu    unn era salbatica a corsica una volta     lu hanu insalbatichita quelli chi a civilta purtonu in casa nostra ghiunti da mare in la   i lasciammu padroni di fa ugni so capricciu   tinendu e racce in croce  dicendu    unni ne impieciu     pigliendu per vangelu  e fole e parriconti  di omi chi prumittianu  a i corsi mare e monti   poi lu emu cunnisciuti   ma un suppulellu tardi   quandu  imbece di rosule si e bistu nasce cardi   ci semu abbisti  i corci  di tutte e nostre colpe quandu  per facci liberi  ci ebbenu rose e polpe   cusi  ignuliati e poari  emu infte e magagne    rozzi  ignuranti  perfidi 1     finitela      chi ragne    o tonti  un la sapete  chi puerta unn e biziu   e chi omu po anda scalzi senza perde u judiziu   un cavallu e cavallu ancu tusatu a coma   zappadore un rumanu resta figlio di roma   eppo qui  in iond a la anima buscica calcusella   segnu  forse  e principiu di una vita nuvella   e cum e a pianta u succhiu chi li scorre in de e vene   e risuscita a vita  e pruduce e mantene cimule e fronde nove an sole viranincu   chi cun dolce villizzichi fa ride ancu u lustincu   or sara ghiuntu u termine di a riggida staggione   chi ci aggrancava e vembre fin accant a u fucone    e purtara u viranu  in de e jente ein de e cose divizia di energie  ficonde ed uperose    ghiolafia      si elle un mancanu ste spirate risorse  fiurisciaranu insenie  anime e terre corse 
+  s
+    </p>
+    <docAuthor>
+     U Babbuziu
+    </docAuthor>
+   </div>
+   <div n="3" type="poe" xml:lang="co">
+    <p>
+     maghiu  en e piu maghiu  a u pastore  cie   maghiu ui  cume all usu   ha cambiatu off  face fa un palmu a    isu  a la vacca e a lu mursone  e lu nostru pecuraghiu  dice    maghiu un e piu maghiu     lu asinellu e derelittu   un ha erba  lu mischinu   per cacciassi lu apitittu   tuttu carcu e di musinu      prestu prestu mureraghiu       dice  e la colpa e di maghiu    e lu vecchiu infritulitu  si ne sta strettu in le anghione  arrabiatu  incatarritu  bestemiandu ia stagione     prestu a diu  mi ne anderaghiu   dice  e la colpa e di maghiu    tutta in dolu e la natura  nulla sente la allegria   senza fiori ne virdura e lu mese di maria   tuttu resta per viaghiu e la colpa e tutta a maghiu   lu ucellettu piu nun canta la canzona abituale   febu ognor sempre si amanta e prepara un tempurale   senza rose e u rusulaghiu ela colpa e tutta a maghiu   sinu a la apa verginella     trova a maghiu assai crudele    per quist annu  puverella  dice  nun si face mele   lu travagliu lasciaraghiu     e la colpa e tuita a maghiu    sonu gia guasi marcite  le chiarascie a la campagna  le vigne tutte transite  da la pieghia a la muntagna  fave  pisi e gierdinagiu   e la colpa e tutta a maghiu    e li grani vidaremu cume miarchia la facenda   la castagna ha gia lu tremu  nun prumette piu pulenda  partira prestu in viaghiu     e la colpa tin e piu a maghiu    lu pueta ti ha cantatu  sempre  o maghiu assai vizzosu   ma sta volta ci hai burlatu  e ti trovu assai ritrosu  y incustante  ancu scurtese   tutt a fattu un bruttu mese 
+  s
+    </p>
+    <docAuthor>
+     Paoli di Taglio
+    </docAuthor>
+   </div>
+   <div n="4" type="poe" xml:lang="co">
+    <p>
+     poesia  sopra a provincia di vicu parlendu di li so pueti e di la so pura parlata  la pruvincia di vicu  ba da ritondu a savone  curunata di muntagne bagnata da liamone  ci si parla sempre u corsu  quellu di de paulone   a bicu in particulare   a guagnu ed a marignana un si sente ca la lingua di ziu santu tramuntana chi la ha cultivata tantu par tenella fresca e sana   ava si tante speranze so puru binutu a luce   petru rocca cu la muvra ci rileva e ci cunduce   si balte cume un lione contru tuttu ciocchi nuce   maislrale a marignana incu la so puesia diverte vecchj e zitelli  puvarelli e signuria   da pontenovu a la santa minicale e cumpagnia   sparendu cu la so cispra paoli lu liliese  ci imbito da veru corsu a dicchiaracci ciinese  questu era pocu pinzutu a cosa e piu ca palese   in bicu  di quelli antichi un manca baruna cosa   ci e balchera e ci e pilone cu ja brisacca pilosa   e ci ela bareiia  misgia chi ne stampara sta losa 
+  s
+    </p>
+    <docAuthor>
+     Paul'Andria Leca
+    </docAuthor>
+   </div>
+   <div n="5" type="the" xml:lang="co">
+    <p>
+     pe u teatru di a muvra  induva passa la istatina    scena a 2 parsonne  francescu bernardini  impiegatu  42 anni  paulina bernardini  so mugliere  38 anni  paulina   battendusi u frescu  uh  madonna  chi caldu  ci e propriu da sciuppa     francescu  e u  invece  trovu a timperatura bella suppurtabile     paulina  allora e chi tu se di marmaru  a dici  ma un la pensi micca     francescu  amu megliu a sciuppa di caldu ca more di freddu   paulina  tu si chi un sare mai diu me avvisu      intantu  vedi i tartarini  e da una quindicina di jorni chi elli so a vichy   e noi     francescu  ironicu   e noi  i bernardini  malgradu a nostra signuria  semu ancora in ajacciu    paulina  cume tutti li anni  so partiti a u cuntinente per fa una cura   francescu  partiti a u cuntinente      soga ci e bisognu di parte a u cuntinente per bagnassi pe i stabilimenti di a barrie  chi ne fai o  pauli   tantu piu chi si omu  preferisce i bagni di acqua dolce  ci e a gravona      paulina   ironica  senza parla di a liscia      francescu  a i bell a di a me culomba  ma in ajacciu si sta be di istate    u casone  u salariu  san ghiaseppu  asprettu  tante belle passighiate         paulina  a ie  parlamine un zuppulellu di  sti dilizi  piglia u tram a mattina per anda a pranza a u scudu e vultassine a pedi a li imbruni cume veri accugliancci  bella gloria per i vicin di casa      francescu  ab  e po sai  o paule  ci vole a fassi una raghione  cu me mese un si po anda tantu luntanu   soga ti scordi chi no avemu dui zitelli in balia e un terzu a u culleghiu      fa  e  paulina   piglienduli a narvosa  e una donna in casa       francescu  u fatte choghiedi tutt e incaritu   paulina  ancu la avarizia   francescu  tutt e for di prezzu   i pruprietari trovanu mezzu di cresce a pighione ogni tre mesi  si ellu ci e qualchi muru sfundatu  qualchi porta scannata qualchi chiapazzoli rotti  naturalmente e u  lucatariu chi paga     paulina  a i bella battala     francescu  chi boli a me culomba   bisogna anda  pianu quand ellu ci e poghi quattrini     paulina  parche allora  fora di u toimpiegu un cerchi di fa nulla  a u scagnu  a u caffe  passi u  a tempu a chiacchiara  a fa puliticu  a bufala intorn a u muvimente nazionalista     francescu  e tu  a me cara  sogain casa unlati sciali fumendu sigalette inbece di fa lucicca u furnellu    paulina   indignata  sintiteia canta u merulu  saraghiu forsi ato serva per un pute fumammi di quand in quandu unasigaletta   chi diciaristi  o   pridaghio si tu duvessi paga una cucinara    francescu   quasi in collara  basta  basta      per misericordia  femula finita    mi fai sempre dui palmi di musu  e purtantu  ti portu spessu a u caffe  a u cinema  a e veillees litteraires  cosa ti manca per l amor di diu  hai robe e gunnelle per ogni stagione  cappelpelli  di ogni forma  anc arrimane  ti se compra un paghiu di buttine imbarnicciate    face a mezza duzzena  e ti lagni quantunque    paulina  bularisti forsi chi e passeghiessi annant a u corsu vistuta cum una paciaghia  questa po no      francescu   cu  aria decisa   inno ma infine    epo voli chi e a ti dichi franca    paulina  eh   be     francescu  ti imbuffi tantu di or gogliu  a me cara chi ne diventi ridicula    aio  via  sii piu mudesta  si ognunu si ne stava cui pari soi  u mondu viaghiaria megliu     paulina  imbuffammi di orgogliu e u      ah inno  po      certu  so fiera di a me parsonna  ma chi donna  a i tempi di oghie un ne face altrettantu  e una necessita di a vita moderna   francescu  e una vargogna  duvaristi piuttostu di  per estrade  un si vede piu cammina ca sfasciate ci unasu rittu e e manzelle culuriti a i  paulina  infine  e u vi dicu chi u laziu di fa a spaccata mi divora    a trent ott anni una   donna un deve micca esse inessa da cantu so ghiovana  e bularia     rrancescu capiscu      bularisti buscammi  una mansa di amichi  e purtantu quand e ti aghiu cunnisciuta simplice cummissella va eri tantu fiera     paulina    cuvivacita   altri tempi  altra musica  arnicu chiarasgiu 1 stimu chi ell e ora chi no cambiessimu di vita  un videmu mai un anima  vivemu cume salvatichi   francescu  cume salvatichi    civilizzati   paulina  ogni volta chi tu mi vedi parla a qualchidunu  mi fai un scinariu    se glilosu cume un  gallu  e qualcosa di incredibile      francescu  un so ghilosu ca di cio chi e amu  e a sai be chi e ti tengu cara  chi et amu  chi e     paulina  chiacchiare    francescu  le  a me cara  so ghilosu  a jlusia e una pianta chi eresce cume u canofaru indentr a una cascietta       paulina  impazientata  laga bolle u canofaru pensaci  una bona volta o   france  1 tartarini ci hannu invitatu per anda a ritruvalli   krancescu  invitatu     un si tratta micca precisamente di un invitazione    e po sai  tra le invitazione e le accettazione  ci e un bellu passu   paulina  o1 france un ti imaginare mai quant a jente e inficcanasu  ...   francescu  chi ella li infichi quant  ellu li pare u so nasu       paulina  a ti dicu  un possu fa un passu senza chi qualchidunu un vinessi a me riscontra per dimmi  eh   be  o madama bernardini  un andate micca en orilegiature quist  annu  cuniu e      noi partemu du mafie per vizzavona  falaremu a l hotel de la gare  i geronimi     sogu un sapete chi dapoi arrimane so a urbalacone pi tartarini  e dapoi uni pochi di jorni chi elli so a vichy   i gambetti    passanul istina a la bourboule    i bianchini      so a i bagni di guagnu   francescu  intantu  tutti quanti a si scialanu ancora iu ajacciu    paulina  chi estru ti ha pigliatu  o france   perche  via  rifiuta stu piace a to  paulina   cosa ti custaria   aio  videmu     francescu   ironicu  ob  nulla     paulina  bellu pocu  in ogni manera  ti custaria unu o dui biglietti di mille   francescu  una bagatella  un e vera      paulina  st invernu  per rimpattacci  faremu y accuzzu    dunque  si tu boli  ci ne andaremu a u mont saint michel       francescu  o gran san michele  mi raccummandu a voi   si piglia a testa ind e manu  eh  be  a me paulina  aghiu be riflittutu   i bernardini lagaranu ajacciu dumane senz altru    paulina   piena di fubiliziu  uh   chi gioia  uh   chi cuntintezza beni bellu qui  u me maritellu  chi ti vogliu da un basgiu    francescu  pigliu subitu u me cappellu e mi ne vagu a dumanda a me licenza   intantu da capu a i bauli  senza scurdatti di i me culletti inzugati    sai induva no andemu  o pauli     paulina  ma    a u mont saint michel     francescu  oh  ma vai  tue u to mont saint michel   paulina  ttuduva voli strascinammi  allora   erancescu   strufinendusi e manu di suddisfazione  ci andaremu a passa quindici o vinti jorni a petretu bicchisanu     paulina  a petretu bicchisanu    francescu  andemu a truvai nostri zitelli   i chiucarelli sarannu cuntenti di vedeci  e fernandu  u majo  ci fara festa    bona aria  acqua fresca    ci camparemu  ati dicu        paulina  un ne dubitu mancu stampa  o france  ma     francescu  nissun spesainutile    una  vera cuccagna    a  pranzu  ci manghiaremu una bona piattata di fasgioli   a sera  ci liccaremu i ditti ci una minestra a u finocchiu    per i jorni  di festa  ci faremu tumba un pullastru ecu a so salsa  ne cundaremu una diliziosa pasta asciutta    pansa piena  bon  riposu  dopu manghiatu  una longa siesta  chi boli di piu  a me cara   e po  faremu  ecunumie      paulina  si  ma a jente diciara     francescu a jente diciara cio chi ella li parara   ascoltami    andendu in prifitiura  mi cansu a  jeune corse e pregu di annunzia inde u carnet mondain chi   monsieur et madame bernardini  nos distingues conciloyens  soni partis en villegiature en suisse   cusi  a cummedia e ghiucata   petretu bicchisanu bale be vichy  diamine      x  paulina   ironica  a svizzera    di u sartinese   cu tutt i so belli boschi fiuriti  francescu  1 tartarini  cu tuttu u so orgogliu  ne hannu fattu altrettantu lu annu scorsu   i  paulina  e qual e chi a ti ha detta    francescu  qual e chi a mi ha detta   sog un sai chi a u scagnu lu avemu jucati a u sgiasgia una sittimana sana   so andati a vichy cume e u so andatu a roma per vede u papa    annu fattu una marsa di vezzi per anda  sai induva    paulina  inno  dillami prestu    francescu  a carbuccia  a me culomba    paulina  a carbuccia      a questa po e magnifica      a  francescu  te  vivianu cula a e spalle di un cucinu un parente strettu di madama tartarini  a cio chi amu dice    un cucinu di a parte manca     paulina  mi ne diciare tante  o france   e pinsa chi elli facenu tante pataracchie     francescu  in quant a u povaru sgio tartarini  u mandavanu a caccia di a man a sera    e mentr ellu si scunquassava per quellemacchie  so mugliere        paulina chiacchiarava ci u so cuginu     aghiu capitu    maallora  u zitellu chi e natu ultimamente  saria pl   francescu  un be  chi ne so  cu    basta chi tu sappi chi u cucinu ha bulsut esse cumpare a ogni contu   cusi cummencie a parentela         paulina  tantu piace yistate  e nove mesi dopu    i  francescu  ti ne falo un accidente annant u tapezzu di u maritu       paulina  airaghio o france  andemucine a petretu a vede i nostri pargulettti elaguemu e villes di eaux di u contineni a tutt i matarani di corsica e di altro       fala u tindone
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     a u colomba quandu per vie longhe  dure  incerte  si slancia  la culomba ad ale sperte    spianendu lenta  in su mare infinitu   soffice  e di azzuru solu culuritu     dall avia  ella si sente imbriacata     e tutta la so forza la ha sfrenata  cuncentrata in le larghe vele bianche fragili vele  ma chi un so mai  stunche  di ricoglie li soffj di lu spaziut volu    e poi  cume sensa piu laziu si ferma in aria  si feghia  si bilancia e ripiglia pelenu   poi si slancia piu allu  torna piu  piu altu appena  li occhj di a lerra scorgenu cun pena  duve par chi la volla si finisce   una laccucciancra chi sparisce     ma lu acellu  le so zampe ingrunchiale bizzicu strettu  e palpebre calate   vola sempre  nerbosu  mai saziu  apparenu le stelle  piu vicine   vola sempre  tn sa strada senza fine  si efernita di silenziu e di spaziu duv e persu stu povereftu mondu    lceulu sudisfattu   gira tondu  aaestosu cum un cunquistadore     a frescura viva li spezzu core     annialu inun liquidu di lume  chi squilla  su le lisec e bianche piume di gioia  e di fierta lu sguardu pienu  i si riposa  spianendu un vol serenu    chi cerca   un so   ma pazziu sublime di andassine a lu assaltu di le cime da lu signore solu cunnisciute 1     la mio anuna e cume sa culomba     in le sfere di in su vergini e mute colla  cun la forza di e so ale   versu ne un so chi teneru ideale    lasciendusi lu corpu qui  in la tomba   
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="7" type="div" xml:lang="fr">
+    <p>
+     giurnali hier pour la premiere fois le cours de la livre atteignit 144 r 50 c'est un nouveau degre descendu par la france sur le chemin qui mene a ja misere 7 ce qui est le plus inquietant dans la situation presente c'est que personne pour ainsi dire ne se rend un compte bien exact ue la gravite et de l inexorable fatalite de la crise ou vous nous debations crise financie re et crise sociale a la fois celle ci plus perilleuse encore que celle la  i personne dans le publie ne se rend comp te de fa erise parce qu elle se developpe len  tement sournoisement a la maniere de ces maladies qui vous minent ef vous emportent sous les yeux stupefaits d une famille aveugle  la liberte ainsi l'on assassine en douceur le peuple de france les citoyens que la malchance choisit pour premieres victimes dans ce lent et vaste abaissement se demandent  quel est done le secret de notre malheur le secret il est que la france nourrit une corporation de politiciens mais qu elle n a pas de repre sentation nationale  le figaro
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     a maistrale  ava chi la istatina si prepara  a fassi un affacata in sti reghioni  sbarcanu li impiegati a rughia para in cerca di aria pura e boni buconi   e noi  e maistra  cumu feremu   chi ellu un sianu guai e cio chi io temu     oghie si chi so tutti adanarati   senza contu li paga marianna   per cresceli ogni tantu ella si affanna frabighendu biglietti frisgiulati   ma si ellu un vene prestu un empi fondu chi ci emu piu da fa noi in stu mondu    tandu aliora seremu tutti pari  da lu altu sin a lu piu chiuculellu  seranu regulati ancu li affari  di quellu chi nasci piu mischinellu   e ia sorte di cirnu addulurata sera da le catene liberata   e lu peghiu sera pe la matrigna chi fighiera cun occhj spalancati quelli chi ella lescid malabbiati rosi di ogni macagna e da la tigna   ma se ci fussi un ghiornu una sentenza un so quale seria la penitenza  chi ti cunvenerebbi o mamma ingrata  per ave suminatu tante spine ci lesciasti spira    a chi ruvine    sopra una terra ricca  invidiata  duvutu aviamu vive fra li fiori ma nun funu per noi che dulori  
+  s
+    </p>
+    <docAuthor>
+     Ghiuvanni Olivieri
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="fr">
+    <p>
+     pour la corse mon admirable pays   a j p codaccioni poete de propriano a maistrale poete corse   la cite de toulouse est rose sur ses toits et son ciel est bleu  moi poete je suis morose  de joie au coeur n en ai que peu  toulouse pent se faire belle autant que femme de grand vol  crois le bien poete pour elle mon enthousiasme sera mol  je veux passer dans ses allees  ses lumieres ses magasins  dans ses antiques cours dallees  ses theatres et ses jardins  sans regard comme sans oreilles  sans la moindre emotion  ne irouvant pas pour ses merveilles un seul mot d admiration  je ne lui ferai poiul l aumone de l'un quelconque de mes sens  devant son si splendide automne je veux rester indifferent  car surgie du flot qui la mire  belle et sauvage et vierge encor  sans fard pour que mieux on l admire  la reine kalliste m a promis ses tresors  grace aux soleils des matinees de ses golfes j aurai le miroitement blanc  du roux vieilli de ses montagnes patinees te ferai des manteaux immenses de geants  de l avalanche rouge des calanches je ferai le palais des reves somptueux  reves ou voleront mille colombes blanches entre l azor du golfe et l azur des grands cieux  au cap du nord je cueillirai ses emerandes  les collines se couvriront du sang des arbousiers  et l ete le maquis ou dit on la mort rode  me fournira l'acre parfum de ses brasiers  jadmirerai les oliviers de la balagne  et j aimerai parmi l encens des orangers  et je dispenserai ignorant tonte epargne  les vins de mes coteaux etlesfruils des vergers  des vergers cyrneens la gamme est infinie  peches cerises noix grenades et cedrais nefles amandes mandarines litanie qui si je le voulais ne s acheverait pas  mes vergers lourds oh  quand vous n etes qu es perances vous etesbeaux couverts devosneigesdefleurs et que votre hymne est bean quand toutes vos iragrances a la gloire de pile elevent leurs paleurs  et j aurai pour bercer mes heures paresseuses j aurai pour fustiger mon sang aux moments durs  pour mieux aimer ma terre aux luttes valeureuses  j aurai pour etre fier vaillant pour etre pur  j aurai les chants des bardes insulaires  poetes par amour et en bumilite  heros d un verbe grand meconnu de la terre poetes de la corse et de la liberte i mes aines je vous aime et je vous aureole  vous etes pour moi la lecon  a d autres vous abandonnez la gloriole  le succes d une annee les prix et les facons  les articles les conferences les medailles les succes de revues les admirations   vous qui etes plus hant de toute votre taille vous ecrivez sans bruit tout a votre passion  vous ecrivez pour une foule hmitee  pour un public rude et vos chansons s en vont s epanouir dans les lneurs de nos veillees  et la mer leur defend les cieux d outre horizon  vous etes grands vous durerez plus que les hommes  les mercantis d ailleurs mourront avant leur mort  et lorsque sur je petit monde d ou nous sommes tout auradisparu vous resterez encor  sur l infime rocher que deviendra notre lle quelque patre s'il reste a la face du ciel dans le silence immense en votre lan guehabile redira vos vers eternels
+    </p>
+    <docAuthor>
+     Jean Noaro
+    </docAuthor>
+   </div>
+   <div n="10" type="feu" xml:lang="it">
+    <p>
+     i mon a torto il frate parlava pa  cavventate  che il capitano franri bianco come un busto di mar vota pareva non sapesse a qual santo tana di modo che il frate dubi tecnst se  inerzia  paura  gli si ma  borbottando     ai cani  e ogni lupo par feroce  me occhi del capitano balenaroue un lampo solo  e le labbra rido poste al consueto risolino  risfose   x    padre b i i pi   ernardino  a voi piachomo i provate  a    1 proverbi  e garbano anche a  me  ora meditate su quello che dice  dove la pelle del lione non arriva bisogna aggiuntarvi quella della volpe     3  senz altre parole scese sotto coperta  dove venutigli intorno gli ufficiali e i passeggeri cosi paleso con succinto sermone il suo concetto     signori  abbiamo soppravvento due sciabecchi francesi  pero noi non possiamo fuggire  che il bastimento oltre a trovarsi stracarico  a cagione del mare grosso i remi non giovano  ma quando fossimo vuoti  e il mare piu tranquillo  col vento che tira non potremmo mai salvarci dalla caccia dei francesi  quanto a menare le mani  noi non dobbiamo combattere    o come non dobbiamo combattere   usci fuori frate bernardino arrapinandosi  e il capitano franceschi di rimando      state zitto  padre  per lo amore di dio  chi io so quello che mi dico  noi non possiamo    noi non dobi biamo ricevere palle a bordo  innanzi chi essi ci chiamino alla obbe dienza io faccio conto di andare ad incontrarli  meme  buttate in mare il caicco  voi  signore inglese  vorrete usarmi la cortesia di accompagnarmi   mi pare che  siate munito di passaporto per bastia  firmato dal console francese di livorno     cosi e rispose il boswell e danco porto meco lettere commendatizie per parecchi gentiluomini francesi      tanto meglio  voi lascerete parlare a me  solo approverete quanto staro per dire       bene  non ci e da fare di meglio   tuttavolta chiedo licenza ammonirvi  che se le cose le quali voi siete per esporre fossero troppo lontane dal vero  io non saprei in coscienza approvarle       confesso che questo intoppo mi imbroglia la matassa   ma andate franco   io procurero che le cose intorno alle quali attesterete le sieno vere  quanto al rimanente non ci porgete attenzione  figuratevi  che non sieno fatto vostro     e badate  aggiungeva frate  bernardino  che le bugiarderie fra noi altri cattolici si pagano sette anni di purgatoriol una   onde voi vedete il bel guadagno che fareste a confessarvi cattolico  e non finisce qui  che per le bugiarderie che vi accadesse proferire adesso  come dirette a fine di bene  voi potreste contare sopra il ribasso almanco di un cinquanta per cento     eil signor giacomo sorridendo rispose   7    un bel ribasso in verita  maggiore di quello costumano le fabbri  che di birmingham  ma e meglio non mentire     meme  continuava il capitano angiolo favellando al pilota  il quale aveva fatto gettare il caicco nell acqua  intanto che noi andiamo a bordo al francese  voi senza parere fatto vostro vi scosterete bel bello uscendo dal tiro del canonne   allora se vi riesce mettetevi alla cappa  se fra due ore  o meno  vedrete tornare il caicco con bandiera a prua  aspettateci  se non vedete nulla  approfitiatevi del campo preso e salvatevi  all elba   giacomo canale  che senza  dir verbo  mentre questi casi avvenivano  aveva tratto fuori le armi ed osservato sela polvere siava bene nello scodellino udite le parole ultime del capitano le rimise da parte borbottando      qui isoldati fanno da cappuccini  i cappuccini da soldati  ma tradimento non ci e       altobello  che pure lo intese non sapendo che cosa pensarne si strinse nelle spalle  quanto al signor giacomo  che aveva assunto per regola di condotta la impresa della accademia  del cimentoprovando eriprovando  disse fra se     tiriamo innanzi  che chi volge il dorso non fugge sempre     e poi a voce alta riprese   eccomi pronto a seguitarvi   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

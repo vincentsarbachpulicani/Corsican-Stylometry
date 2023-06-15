@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1922_7
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     aucun journal corse n'a encore publie le bilan pour 1921 de la compagnie fraissinet et aucun de nos representants ne semble avoir lu et examine le document le plus ecrasant de l exploitalion scandaleuse de notre ile par une compagnie de pirates certes il ne faut pas demander aux politicien desagreges et a la presse froussarde qui les appuie de dire nettement au peuple des paludeens les verites qu il doit entendre s il veut sortir de l orniere de misere ou le peuple de millerand le retient prisonnier  mais les regionalistes ont le devoir d eclairer l opinion insulaire pour secouer enfin la torpeur mortelle de notre peuple et lui faire sentir tout le poids du joug economique qu il supporte  en 1921 les benefices officiellement avoues de fraissinet ont ete de 5 188 292 francs et ont permis de distribuer un dividende de 60 francs fraissinet par action comme en 1920 le capital est passe de 11 millions a 17 millions et demi et il a ete affecte d autre part aux amortissements 11 831 385 francs au heu de 9 050 000 francs l an dernier la reserve pour eventualites s'est elevee en outre  de 375 000 francs a 2 375 000 francs en meme temps qu il etait affecte 2 400 090 francs de plus que l an 1920 a la reserve pour grosses reparations qui se totalise par 5 600 000 francs sans prejudice d'une dotation de 800 000 frs environ au fond de prevoyance  en resume les reserves diverses et amortissements s elevent a plus du double du capital social et en augmentation de 8 millions sur le bilan de 1920 d un autre cote le materiel naval est porte pour 15 334 000 francs en plus value de 7 200 000 francs au portefeuille les recettes et valeurs d etat sont de 53 543 659 francs en augmentation de 15 800 000 francs  en somme en outre de l'augmentation de la flotte l'actif liquide ou realisable totalise par plus de 77 millions a augmente d une annee a l autre de 26 millions et demi alors que les comptes creanciers sont passes seulement de 20 millions a 35 millions  le benefice realise par fraissinet en 1921 n est donc pas celui inscrit en tete du bilan mais bien celui que l on obtient en retranchant l augmentation du passif de l augmentation de l actif soit 26 500 000 moins 15 000 000 egale onze millions et demi difference qu il y aurait lieu d augmenter des benefices  realises par le jeu tres adroit des assurances maritimes et de transport qui permettent souvent des combinaisons sur lesquelles nous reviendrons en temps utile  d autre part si l'on compare les dividendes distribues par les diverses compagnies de navigation l on s apercoit que seule la compagnie  fraissinet a pu maintenir le dividende de l annee 1920 le tableau ci apres precise utilement la situation de la compagnie fraissinet comparee a celle d une compagnie plus forte la compagnie des chargeurs reunis 2  fraissinet a donc pu sous le masque de l exploitation en regie realiser en 1921 des benefices considerables sur les lignes de la corse car  contrairement a ce que l on pourrait croire ce sont ces dernieres et non les lignes du levant peu renumeratrices depuis la guerre greco turqne et le blocus de la mer noire qui ont contribue pour la part la plus importante au benefice de douze millions ressortant d un examen attentif et comparatif du bilan publie par le bulletin economique et financier du semaphore de marseille  19 rue venture a marseille  et pendant que fraissinet continue a exploiter la corse pour le compte du gouvernement nos desagreges et nos rempiles voient des credits pour recevoir le president millerand et sa suite de galonnes les fontana fameliques de de toutes les reclames et de tous les profits offriront au president un repas sur la mousse  mais ce repas fera t il oublier les billets de mille recueillis par la renaissance de la corse pour le monument de pontenovo  mais les billets de mille de pontenovo ne nous feront pas oublier les douze millions de fraissinet car un philosophe l a ecrit le malheur des peuples est la faute des gouvernants
+    </p>
+    <docAuthor>
+     Orsini d'Ampugnani
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

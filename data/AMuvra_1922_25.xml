@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1922_25
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     une terrible affaire l origine du dialecte corse  comme nous epiloguions par un large sourire a une chicane philologique dont nous venions d etre le temoin un des controversistes italianisant distingue et professeur de college nous morigena en ces termes ne riez pas malheureux s ecria t il sachez que cette histoire du dialecte a fait couler autrefois dans les republiques italiennes presque autant de flots de sang que d encre   nous avons depuis longuement reflechi sur ces paroles notre professeur allait sans doute un peu loin quand il assimilait la corse d aujourd hui aux anciennes republiques italiennes  mais enfin il y avait dans son observation un enseignement utile a savoir qu il ne faut pas jouer avec le  feu surtout dans une question interessant au plus haut point la conscience d un peuple  nous croyons avoir trouve le mot conscience oui le probleme du dialecte  corse nous semble avant tout une question de conscience laquelle si l on n y prenait garde risquerait de degenerer en une terrible et brulante affaire  une verite sur laquelle s entendent tous les controversistes est que le dialecte corse est un dialecte archaique italianisants et corsicisants sont parfaitement d accord la dessus mais les difficultes surgissent des qu il s agit de fixer de delimiter cet archaisme de le caser dans l histoire de lui restituer ses ambiances et ses accointances chaque adversaire fera alors valoir ses arguments avec plus ou moins de chances de succes incontestablement cependant la partie est avantageuse  pour l italianisant  son point de vue base sut la science experimentale est celui ci     le dialecte corse est un dialecte toscan lisez les vieilles chroniques italiennes du quatorzieme siecle lisez dante lisez boccace vous trouverez dans ces auteurs quantite de mots qui ont survecu dans le dialecte corse faites mieux que cela au lieu d hiverner betement a nice cannes ou menton allez vous en a pise florence ou livourne si vous  ne vous sentez pas chez vous si l harmonieux dialecte qu on y parle ne flatte pas votre oreille corse c est que vraiment vous etes difficile  tels sont les arguments de l italianisant remarquons qu ils sont de nature a etendre la question a l amplifier  a lui fournir des bases  scientifiques  et  experimentales nous hesitons a ecrirc e mot lourd de consequences  en effet s il peut etre experimente que le dialecte corse est un dialecte toscan le reste ne saurait tarder a etre prouve dans ce cas il faudrait s incliner la corse en ce qui concerne sa langue son histoire ses traditions son avenir meme rentrerait definitivement dans le cadre italien   c est volontairement que nous mettons cette derniere phrase au conditionnel  parce qu heureusement ou malheureusement il n y a pas que des italianisants en lice leurs adversaires au lieu d expliquer l archaisme du dialecte corse par l histoire lui assignent au contraire une cause ethnique  anthropologique  d apres eux la race corse d origine primitive se serait forge un dialecte d elle meme dialecte qui au debut tout  au moins aurait eu qu un tres lointoin rapport avec les autre langues mediterraneennes l italien en particulier   d un cote les italianisants avancant pour prouver la filiation toscane de la langue corse des arguments objectifs corrobores par la philologie l histoire la sociologie et une tradition seulement interrompue de nos jours    de l autre les corsicisants tablant pour avoir gain de cause sur  des donnees subjectives puisees  dans l ethnographie et l anthropologie cette categorie de plaideurs notre souci de la verite nous contraint de le signaler est soutenue par le sentiment populaire qui a tort ou raison repugne a une operation chirurgicale consideree comme inevitable par certains  la transfusion du sang italien dans les veines corses
+    </p>
+    <docAuthor>
+     Mathieu Rocca
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330970g
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330970g
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 420 | Année 11
+     </edition>
+     <date>
+      1930-11-30
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Annu Xl — Numaru 420 Esce a Dumenica ' Dumenica 30 Nuvembre .  A MUVRA  GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI :  in Corsica... . . . . . . . . . +. 15 franchi  In Francia... . . . . . . . . . . 18 »  Unione postale . . . . . . . . . . . 30 »  U Numaru:5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     ottimismu  da u fattu chi lu autonomismu  per sviluppassi  ha bisognu di u terrenu polemisticu  certi ne inferiscenu chi u cuntinuu inasprimentu di una fatidica quistione ci custrigne a mustra sempiternamente e zanne  in un attitudine difensiva e pessimista  si  or e be chi omu sappia chi stu pratesu quadru di a nostra situazione morale un risponde affattu a  realta  custituisce tutt a u piu una mediocre e  infedelecroute pitturacciascuperta in qualchi bughiu catagnone di sulaghiolu  e chi merita di turnacci in eternum   un ci e niente  invece  inde a nostra fisionomia  u nostru carattere  e nostre abitudine  chi possa ghiustifica tutte quelle tenebrose suppusizione duvute a le instancabile e morbida immaginazione di qualchi ciarbellu esaltatu  si u turmintatu e periculosu camminu  per u quale deliberatamente ci attippemu  un permette certu un beatu ed eccessivu ottimismu  le eventuale cunseguenze di u sviluppu di un generosu pianu un ci cunsigliedenu mai  di altronde  un inopportunu e vigliaccu pessimismu  e questa e ancu piu vera oghie che erimane   e difficulta incuntrate   nimu  speremu  vulara facci of fesa di crede chi una assoluta cunvinzione di parla in nome di la isula disgraziata possa esiste in noi senza una corollaria e chiara nuzione di e rispunsabilita  cusi assunte  ma si ell e opportunu  relativa   mente a li autonomisti  di accinna a gravi periculi  a cunseguenze sfavurevule  un pare justu di stende u sensu e a purtata di ste parolle sin a a corsica  inclusivamente  u periculu di asfissia  cloroformizzazione  o semplicemente di repressione  da u quale semu minacciati  e u stessu chi rende cusi faticosa a tribulata vita di un paese in preda al ingurdizia di i puliticanti e suggettu per quessa a e piu basse manovre abburtive a le intimidazione cuntinua  a i crudeli castighi preventivi ed e precisamente la intima cuscenza chi noi avemu di subisce  in quantu che autonomisti e militi di la idea cursista  inghiustizie e persecuzioni analoghe a quelle patute da a gloriosa vittima di ponte novu  chi ci rende cusi accaniti inde a lotta  cusi  tenaci inde e speranze   semu dunque ottimisti  e ghiova di dichiaralla davant a tutt i puntefici e ierofanti di a grande incommensurable patrie  i  a diminuisce u nostru ottimismu  ottimismu chi   una volta ancora   unn esclude u spiritu di vigilanza  un valara certu quant elli ponu scrive e cumbina cu scopi brinnaghj e intenzione ultra sciuvine     si questa affirmazione un bastassi per cunvince i detrattori di lu autonomismu  i disfattisti di la idea cursista  elle pudarianu truva a prova di un evidente ottimismu  inde a sorte chi noi femu a i so  scritti e calunnie   e qui cunvene di apre una parentesi in vista di megliu dimustra appuntu u carattere di assoluta fantasia di quelle croutes  chi certi matalandati appartenenti a scole esotiche vularianu fa passa per capulavori di pittura anti autonomista  piu di un pinnellu  infatti  ci ha dipinti cume incapaci di risponde a lu aversariu  altrimenti che cu manifestazione di odiu  di cunfusione o di rabbia imputente  niente di piu falzu   a lettura di una accusa   pallida e insustanziale per quantu viulenti ne sianu i ter mini  lu annunciu di una cungiura o cospirazione anti autonomista   unn ha mai suscitatu in noi che un sensu di perfetta cumpassione  a u quale si aghiunghiaria un irrefrenabile desideriu di ilarita  si noi fussimu menu decisi a staccine inde i limiti di un discretu ottimismu   fra e due attitudine  a nostra e quella di   li impiastroni  le opinione scigliara  intantu  faremu osserva chi a vilta di certe asserzione  in piu di offende u semplice bonu sensu  e assolutamente incumpatibile cu quelli principj di solidarieta di fratellanza corsa chi omu duvaria cunsidera  in ogni tempu e circustanza  cume i capisaldi di una vera e sincera intercullaborazione   appare dunque iecita  da parte nostra  a pretensione di innalza fieramente a bandiera atesta di moru di u nostru partitu  di e nostre aspirazione  per quantu possanu avanza li eterni denigratori di un nobile ideale  ella cuntene inde e so  pieghe u sicretu di una ineluttabile rivincita   e  formulata sta cunvinzione  chi omu a ci permetti o no  cuntinuaremu ad esse sanamente e virilmente ottimisti 
+  s
+    </p>
+    <docAuthor>
+     P. di B.
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     sambucucciu e sampieru  avemu esaminatu in un primu articulu e sfacciate falzificazione di i cumpilatori interessati  e sbuffulatu  cu lu anciu di a verita  a bufeghia artifiziale chi oscura la alba di a nostra storia   ista volta andaremu piu avanti  fendu jugne i raggi purificatori in li agni i piu bughjcosi e i piu malsani  dunde a bugia e a malafede banu rinchiusu e piattatu a gesta naturale di un populu   molti cumpatriotti saranu stupiti di vede casca da e facce sane di i nostri eroi naziunali e mascare abbrisgiulate chi omu la avia appiccicatu   sambucucciu  eccune unu di u quale la agitata vita e cume un calmu lavu apparagunatu a u sciumicsu tragone di u so   rumanzu  cumpostu cu a piu sfrinata fantasia da centu e centu autori a incadramata cuscenza   a crede tali     storici  sambucucciu fu u plebeiu capurale chi  a u spunta di u seculu xi  mosse guerra a i dinasti  i vinse  spianto i so  castelli e iscrisse   ottu cent  anni avanti u sciaguratu 1789    a i publici fruntoni e demagogiche parolle  liberta  uguaglianza  fraternita  appuntu per quessa  la isula fu battizata terra del comune   tale fola  annebbiata da a luntananza medievale  un manca ne di culore ne di originalita  ma  per disgrazia  unn e che una fola   eccuti cumu a cosa e stalbata   tre seculi dopu    sambucucciu di alandu  in lu 1358  fece dicchiara da una cunsulta generale chi u cumune di corsica si unia a u cumune di genuva  cusi  la isula  dopu u juramentu di fedelta fattu in presenza di u doge simone boccanegra da una delegazione a capu di a quale era u stessu sambucucciu  e dopu apprubazione di tale unione da parte di u papa e di u re di aragona  fu detta  terra del comune    di genuva   sampieru corsu  cu u gran bastelicacciu tucchemu u piu svergugnatu tentativu di travestimentu storicu chi sia statu faftu  malgradu un facile cuntrollu per mezzu di numerosi documenti   per li annessionisti a fous crins  sampieru rappresenta   dopu i monumenti megalitici        u piu sodu legame di a corsica cu a francia  appena lasciatu e sponde di u zippittuli e di u prunelli  dund ellu avia intesu e voce  cume a pulcella di domremy  le eroe si impasta un ideale dettatu da un esoticu amore pe  a vecchia gallia e  per guasi un mezzu seculu  cu lancia e spada  u so  pugnu sara sempre un fieru sustegnu di a bandiera a fior di gigliu di i cristianissimi putentati   ma abbandunemu lu intrecciu di stu puema eroi comicu e seguitemu a  pediata u fieru capitanu   natu in lu 1498  u videmu  vint anni dopu  arrullatu in le bande nere di fiurenza  a li ordini di juvanni de  medici  in lu 1527  u truvemu a u ser viziu di li imperiali  e  pocu dopu  ecculu a roma  seguace di u cardinale ippolitu de  medici   in lu 1536  piglia parte cu i cuntengenti italiani a e campagne di la italia  di pruvenza  di russiglione edi u nordu di a francia  contru i stessi imperiali chi ella avia servutu   in lu 1548  torna in roma cu a speranza  delusa  di esse numinatu cumandante di e truppe di a chiesa   in lu 1553  arrigu ii avendu decisu una spedizione contru a corsica  sampieru ne face parte cu mudestissimu rangu e senza chi a so  influenza e i so  cunsigli ci fussinu stati per nulla   ne la armata cumandata da u maresciallu de thermes tutt i capitani so francesi o italiani di terraferma   duca di somma  giurdanu  maarbal e francescu orsini  villa  vitelli  ghiuvanni di turinu  caraffa  fantuzzi  morettu di calabria e valleron   unu solu e corsu   bernardinu di ornanu   le evidente suburdinazione di sampieru un l impedi  pero  di dimustrassi un viulente suldatu in varie circustanze  fra le altre  u 18 sittembre 1554 a  bocca a tenda  duve cu ghiacopu santu da mare e montastruc  ellu vinse e truppe genuvese di brancadoro     a tale prove di curaggiu  disgraziatamente  u bastelicacciu ne aghiunse un altra  passata sottu silenziu da a majo parte di i storici  preludiu a un altru drama   lu assassiniu di vannina di ornanu  di una so  serva e forse di altri membri di a so  famiglia  per mutivi abbastanza diversi da le amore patriu    sampieru  ghjlosu di u talentu militare di u cuginu carnale teramu di bastelica  culinellu di e truppe italiane a u serviziu di u re di francia u stilitto in pienu ajacciu   solu  dopu u trattatu di cateaucambresis  pe u quale u re cristianissimu abbandunava vigliaccamente a corsica a  so  scillarata sorte  sampieru face figura di capu   di capu naziunale pero  e micca di agente di a francia    i  in lu 1561  decisu di libera  a corsica  u tenace bastelicacciu si rivolge  per ottene succorsi  a u duca di toscana  a caterina de  medici  a i re di navarra e di aigeri e a u gran turcu solimanu  un ricevendu da tutti che prumesse e curtese accuglianza  in lu 1563  entre in campagna e  riduce i genuvesi a u solu pusessu di e piazze marittime     e fu questa a guerra di sampieru   i falzificatori scrivenu  e guerre di sampieru  mittendu a so  contu    si capisce per chi mutivu   a spedizione di de thermes   un fattu degnu di rimarca  e  naturalmente  pocu divulgatu  risiede in stu cuntrastu   si ellu ha chiestu la assistenza di i monarchi francssi  sampieru  parecchie volte  ha inviatu ambasciatori a cosimu i de   medici per offreli a suvranita di la isula   offerta  chi u principe toscanu un pobbe accetta per via di le oppusizione di filippu il di spagna e di le imperatore massimilianu  tale richiesta fu rinuvata in 568 da u figliolu alfonsu   a morte stessa di u gran basteicacciu e stata acconcia per fanne casca tuttu lu odiu sopra a genuva  oghiesi sa chil agguattu di cauru  u 16 jennaghiu 1567  fu tesu da i so  parenti  i tre fratelli michel  agnulu  ghiuvan  antone e ghiuvan francescu di ornanu  i quali vindiconu quellu jornu a morte di a surella vannina   ci arrighiemu per stu mumeru  turneremu    a vignale  a settimana chi vene 
+  s
+    </p>
+    <docAuthor>
+     Pasquale Manfredi
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     parzialita pinzuta  bonu quindi  gattivu culandi  u francese un si definisce micca solamente  1 homme qui ignore la geographie  definizione chi ellu si e applicatu da per ellu per dassi un avia di benignu e oneslu je ne enfoutisme  noi stimemu chi u so  veru qualificalivu saria  omu chi unn ha nisun sensu di a justizia   precisissima definizione chi si po  verifica in tutti li alti di a vila  ma chi appare ancu piu vera in ju cam  pu di a pulitica e di u patriuttismu      u sciuvinismu in stu beatu paese accega ognunu   u piu cumunista di i cumunisli parigini ha sicuramente tamburu in corpu  trumbetta in senu e cuccarda tricolore in tupezzu   li immurtali principj di u 1789 un so  veri che quand elli jovanu a  na  zione chi pretende avelli inventali  i dritti di lu omu un so una guarantizia che quand elli un portanu ombra a lu imperialismu giacubinu   fraternita   bella parolla   ma da chi unn avele pruvatu a mettela in valore a pro  di i tedeschi quandu  da boulogne a marseglia  on mangeait du boche  e pruvalecia la efficaccia in cio chi chi cuncerna li ilaliani a i jorni di oghie  duve  da givet a bayonne on mange du maccaroni    uguaglianza   andateia a di a l ouverrerier pariginu chi ell e le uguale di u bicot chi coglie a rumenzula pe  i carrughj  i  liberta   eccu per st ultima un esempiu lra mille  collu frescu sopra a candide  grand hebdomadaire parisien et litteraire  sie     un ci saria da dedica dece sciaccamanale a simile infiarata difesa di un populu oppressu e di u drittu di i populi a dispone di elli stessi    lu avariamu falta vulinteri si no  unn avessimu leltu  in lu precedente numeru di u stessu fogliu  sottu a penna di u stessu autore e a u slessu postu  sla provocazione a u sterminiu chi e li antitesi di u branu ripurtatu qui sopra   ecculu in luttu u so  orrore sanguinariu  scrittu da un discendente di quellu populu chi si e accumudatu di la arruganza duminaltice di u re sole e di u taglia e mozza di u 1793      adunque  si no  avemu capitu be  i fiaminghi hanu raggio di lulia per a so  indipendenza  cum ellu avianu raggio li irlandesi  e cum ellu hanu raggio li egiziani  li indiani ecc   ma li indocinesi hanu toriu  cum  ellu hanu sicuramente tortu li alsaziani  i brettoni e i corsi     per quessi  u plulone e basta   u redattore di  candide  cu luil i francesi  sara dunque staiu suddisfaltu  leghiendu stamane in tutti fogli di a grande stampa u dispacciu seguente  
+  s
+    </p>
+    <docAuthor>
+     A. F. Franchi
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="fr">
+    <p>
+     on commence a efre convaincu en france que flamand et meme flamingant ne signifient pas forcement anti francais et c est heureux tous les representants de ia republique a bruxelles ne s en soni pas toujours rendu compie on en a connu un qui refusait obstinement de faire une visite officielle a anvers sous pretexte que le bourgmestre d anvers est un des chefs du parti flamingant un autre il est vrai qui se flaftait  c efait au lendemain de l armistice d avoir decouvert la litterature flamande portait aux nues a paris et meme a bruxelles des ecrivains notoirement ef furieusement hostiles a la france  le mouvement flamand est un fait aussi evident que la lumiere du jour et aussi fatal en democratie que le flux et le reflux de la mer l emancipation des peuples et leur droit a disposer deux memes devaient avoir pour consequence la renaissance des idiomes nationaux il y a lieu de se tonner pour le dire en passanti que certains champions de la  france emancipatrice  se rebiffent la contre est il impossible de concilier les progres dela langue flamande en belgique avec l unite du pays et le rayonnement de la culture francaise non c estune question d adresse et aussi de patience le gouvernement actuel vient de se decider  enfin  a deposer un projet de loi edictant des peinesseveres contre les mauvais belges qui insultent sous pretexte de pamingantisme le drapeau national et la personne du roi ce n est pas trop tot tous les gouvernements qui se sont succede depuis 1919 ont plus ou moins pratique a l egard de l extremisme flamingant la politique du chien creve ll parait que la reaction pour etre tardive n en sera pas moins energique acceptons en l augure et souhaitons qu on facilite la tache des patriotes belges ef des vrais amis de la france en decourageant les aveugles et les exalies qui s escriment a persuader les francais que le dechirement de la belgique pourrait etre une aubaine pour la republique   l agitation n est pas terminee en indochine loin de la  elle s est seulement deplacee la repression qui a suivi les assassinats yen bay a ete quoique incomplete salutaire les paysans fonkinois ont compris qu il etait plus prudent de se tenir tranquilles et ce sont eux memes qui nous ont livreles chefs bolchevistes  moscou a transportela revolte dans le nord annam terre benie des societes secre es et en cochinchine l annam esf pn protectorat  la justice des mandarins y est rapide aussi peut on esperer que l insurection sera etoufjee avant de s etendre mais la cochinchine eshune colonie la justice y est organisee comme dans la metropole c est dire que le maquis de la procedure rerid toute repression impossible  on coffre quelques malheureux excites qui sont pris en flagrant delit de violences ou de cris sediteux  mais les vrais meneurs echappent toujours sion en prend un c est une ins truction interminable defaut jugement appel en attendant la grace que le ministre des colonies ne manquera pas de demander pour le coupable nous en avons en cochinchine une armee de juges et de policiers et la revolte y gronde  ll ne se passe pas de semaine sans incidenis graves mairies occupees miliciens assassines rassemblements de cing cents ou mille personnes qui pillent lesboutiques a vinh il a fallu faire disperser par avion une troupe de 8 000 indigenes armes  pourtant le pays est riche et la crise agricole y est tres attenuee mais l indigene a perdu confiance dans la france l impuniteabsolue des agenis de moscou a absolument deconsidere la justice on ne la craint plus on la meprise les communistes sont peu nombreux  instituteurs indigenes boys domestiques garcons de cafe coiffeurs plus ou moins frottes aux idees revolutionnaires mais ils regnent sur tout le pays par la menace ils levent des contributions obligent les villages a se soulever eta manifester ces menaces ne sont point vaines les assassinats sont frequents frequents et toujours impunis les temoins terrorises se taisent et c est un peu plus de ridicule sur la police    si l on veut eviter une revolte qui exigera ensuite une expedition militaire envoyee de la metropole il est urgent de changer ces methodes la justice doit etre reformee sans arder si c est necessaire il faut dessaisir les tribunaux ordinaires ef proclamer l etat de siege dans les cantons agites encore une fois c est le seul moyen de nous ebargner le pire   hanoi 24 novembre  dans la matinee a eu lieu a fhutho l execution de cinq des dix indigenes condamnes a mort par la commission criminelle du 28 mai et dont les pourvois avaient ete rejetes par le president de la republique ce sont nguyen van toai dit do thuy  tran van hop tham nham dit do diet le xuang huy dit quihuy et bui xuanmai dif lymai  liberte liberte cherie
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="5" type="poe" xml:lang="co">
+    <p>
+     prighera a i sordi  4  vengu cun bassu lenore a cunta sta canzunella  parlu cun afflittu core   u fialu mi si puntella  videndu chi lult ognunu parte e liga a gursichella   burrebbe esse induvinu di sta cosa lantu rara  ugnunu face caminu  per luga la isula cara   giovani vecchj e zitelli  tuttu iu mondu a la para   o corsi  sialemi a sente  parlu sempre a benefiziu   lugale la vostra jente   chi ha fatt ogni sacrifiziu   dopu di avebbi ingrandatu  a lampate in precipiziu   queste su gallive azione   u piccalu e troppu forte  mancu le assoluzione  si po da in puntu di morie  senza varunu mutivu  li sarrate infaccia e porte   chi bi ha fattu cursichella  spunile e vostre ragione   a corcia e ja mischinella  di niente unn e cagione   a mittile inde lu ubbliu pa le vosire passione   sapete chi e in lu so  logu chi boi pigliaste pianta   sapiate chi a lu so  fogu  sopra la so  terra sanla ci pudiate ave fiuritu     e di un velu oghie si ammanta   prestu riturnate  o corsi   siateli fidi e sineeri   orgugliosi cume orsi   di stu nome ancu piu fieri  un le abbandnnate mieca  un siate cori neri   vegu in tonte e piu edizione di foglie corse e francese  chi  a nuli  le parsone laganu lu so  paese par anda in altri loghi a sceglie una sorte a prese   pare chi  da cursichella   ci vuliu a fa partanza    u core fermava ad ella   era pe  la migliuranza    que so ricapiti a beghia  per fa prestu la spiccanza   quanl ella piegne sta mammu  chiamendu ji so  figlioli  ognunu parle e si affanna tn loghi deserti e soli   chi in cina o a u maroccu  a stringhie li currighioli   corsi  riflettile appena  abbiate un pocu di core  parate la grande piena chi in corsica digia corre  saria par sempiternu  par noi tutti un disonore   riturnate in cursichella  la isula di fa bellezza  duv ella lue e la stella piena di tanta chiarezza  duva a vita e passaggiera  ma la gioia v accarezza   cambiate le vostre ide e  chi un fariste micca male  sumigliatele ne le meie  chi elle sianu sempr uguale  sinamenie a l ultim ora  sempre fidi a lu lucale   riturnate  o cari amici  tutti li me  camarati   di marseglia e di parigi  e in  gni locu suminati  a luvostru palriu nidu duve bo  sete ingrandati   benche solu in lu rughjone incu quajchi damicella  cantu e facciu le canzone  passu iu tempu cun ella  facciu festa e mi distrattu     sempr evviva cursichella  
+  s
+    </p>
+    <docAuthor>
+     U Curzacciu
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     nostalgia  a u sumpetrarciu  eviva la nostri aia ta nostra munrg   vive ta mostra munrg   a corn inlurchj a nostra  corn  inturchinta 1  ogni tantu  ne la mio portu vene a fassi un alfaccata e la mio musa chi more    tandu  ripiglia vigore     ne salta or cu pughjali  are un ulmine  im pianuy  1 bracchi di marianna   tremanu da le peura      barca u mare  lesia lesta senza teme la timpesta  ghie la mio porla speranza a mio cunsalazione    u jornu chi ella ne alfacca ghiunghie carca di canzor dmung ile carca di canzone   e cantenaule a ja ziglia  rallegra la mio famiglia  mi fama di cursichella  i lu mio tempu i dicendumi   o gua  ta perche festi un imp i abbandunendu lu bel festi lu piu gran peccatu   cummess hai siu  k peccal inversu di cursichella   perche ti ne si andatu   e mancu piu pensi ad  nan ad ella  o figliolu senza core    agguarda  chi  si ne more   o mure  la mio surella sai chi io ti tengu cara ni tengu cara a cursichella e passu una vita amara  credi pur  se so partutu  piengu e mi ne so pentutu   mi avianu fattu crede  chi  quindi  manna piuvia  era sempre un zitellacciu  pocu e ne unda cuniscia    e cusi  mariannone prufitto di a niscentria   parlendu da casa mea   ci lasciai lu mio core  dunque  ci riturneraghiu  si ella piace a lu signore  intantu  per cursichella  in cu te so prontu a more   ghjlormu
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="7" type="feu" xml:lang="it">
+    <p>
+     tu poi o patria  appena uscito al mondo mi consolasti con le luce e col calore   vivo mi nutrisci col tuo serio e nel tuo seno sazio di giorni mi raccoglierai  perpetua madre  tu non ti stacchi in verun tempo i tuoi figliuoli dalle braccia   iu doni sempre e non ricevi mai     benedetta la patria   82     bella la patria mia  tu in grembo al mare rassembri quasi un mazzo di fiori messo in fresco dentro un vaso di cristallo  satana stesso passandotiallato  nel contemplar ti tanto divina per forza di amore  li ebbe a salutare come lo arcangiolo fecea maria  ave italia piena di grazia   furono udite dire le labbra del diavolo   ma lo straniero e venuto  ha visto le magnificenze del tuo valore  fa gloria delle tue antiche liberta  e la vipera dell astio gli adatto sopra il suo arco due strali  con uno  che gli dette giuda  ti feri la ala destra   con lo altro  che gli per se attila  sotto la ala sinistra  o nobile falco pellegrino  ecco tu giravi in terra e del tuo sangue e rossa la aria  intantoche un grido corse di valle in valle pei tuoi casolari   ia patria e spenta      lo straniero si ammanisce a strapparli ingegno  liberta  figliuoli e favella e memoria  come il cacciatore costuma con le penne dello uccello poiche lo ha morto     maladetto lo straniero       oh  no la patria non e spenta ancora  che cosa vuoi per riaverti  o patria  il nostro sangue  gli e poca cosa   lo uomo sparnazza questo  liquore delle sue vene peggio del liquore della vite  vuoi la nostra vita  la e poca cosa   ella quotidianamente si disperde come spuma di cavallone  rotto  sopra la costiera della morte  vuoi la nostra fama  ella e poca cosa  fumo di incenso  che il fuoco abbruciando consuma  noi ti daremo anco la anima quando pure dandola a te la togliessimo a dio ma questa la e una stolia parola  e la putria sono una cosa sola     benedetta la patria     vuoi tu sapere dove sia la reggia dello straniero  quando incominci a vedere costole e stinchi rotti  di   fo sono sula via che mena alle reggia dello straniero  quando ti occorreranno cumuli di teschi come davafiti la apertura dell aniro di polifemo  fermati   cotesta e la reggia dello straniero  vuoi amminare il tempio delle glorie dello straniero  eceglo la   riconoscilo ai trofei di donne appese  di vecchi lacerati  di infanti percossi alle pareti  vuoi  sapere che cosa semini tra i corsi lo straniero   l odio e ja morte  quello che egli vendemmia e che miete  maledizione e sangue  vuoi tu leggere la storia dello straniero   ecco  ei la stampa dove passa con caratteri di fuoco e di rapina    guardate le mura fumanti dei paesi del niolo  ha detto lo straniero  noi lo abbiamo guardate ed abbiamo gridato      maledetto lo straniero      ma benedetia la patria  benedetta nel cielo che la copre  esultanza nei giorni di gioia  consolazione in quelli della sventura  benedetta nel mare che la bagna  benedetta nelle nevi dei suoi monti e nell erbe delle sue valli  benedetta nei suoi 1aghi e nei suoi rivi   benedetta nella eterna primavera  che la fa parere gemella con ogni alba che nasce  benedetta nel verde immortale dei suoi aranci  dei suoi mirti e dei suoi allori che le procaccia il titolo di sempre giovane     benedetta la patria  benedetta   fosse perche tulti quelli che si trovavano a bordo cosi marinari come passaggieri  intenti al mesto addio  trascurassero il governo della nave  o fosse per altra cagione  essi piegarono a mano stanca  onde no potendo piu agguaniare il vento si trovarono spinti fino in sardegna   dopo parecchi gioeni di navizione 1ravagliosa toccarono portoferrario  e il 22 luglio approdarono a livorno termine del loro viaggio   la nave condotta dal capitano smittoy al contrario bordeggio a mano destra e le riusci schivare il venio e il mare grossi   ma per compenso si trovo tra capo corso e if capraia  appunto dove il signor giacomo incotrava altravolta gli scia becchi  o poco discosto  la fortuna sovente si compiace con bizzarra in sistenza rinnovare i medisimi casi  almeno in questa occasione accade cosi   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+   <div n="8" type="the" xml:lang="co">
+    <p>
+     scena ii laura maria  sola     e dalli a  sse buggie   infila chi mit infila  a i jorni di oghie   si da ad assestassi anch ella  or videremu un pocu  ssu nostru pratesu jenneru     cuntinta a mette in ordine  avale  inquante a me  minichellu ci face a croce in sta casa  puverinu  chi sgottu  quand ellu a sentera      passe e vene  uh  dino petru paulu avia da anda a circammi i so  parigini di casa del boia  aviamu pussutu accumudacci qui  tutti fra noi  cu ghiente cunusciuta  cusi  batti e pescala   e qual e chi sa   rimore  ecculi  e quella  chi si sta culandi a impumpuniscesi   cusi mi tocca a me sola  ignurante cume so  a da capu a uni pochi di sminguli parigini     si da un ultima assestata  unh  oh  oh    unn e micca a me chi ella ha da spusa  simai    scena iii  laura maria  petru paulu  e minichellu 2ucunuscevule     petru paulu  prisentendu    ti prisentu a mamma  chi ne dici  i porta be i so  sessant anni    minichellu   felicitazioni o madama  noi  a a vostra eta  seremu     gestu    laura maria   deh si cerca di campa  ma voi  chi diu vi benedica  un mi avete la aria di esse scarsu di salute   minichellu  rifenendu a risa   unh  cusi cusi     ma ci e piuttostu la apparenza  quelli di oghie  un simu piu zuccati inde listessu legnu che voi   petru paulu  cuntinuendu    questu  o ma  e un amicacciu  la ha pensata megliu ca me  e impiegatone in parigi   laura maria   si vede  ma pusate  pusate  o mansiu   petru paulu  purghiendu una sedia   le  accumudeghiati  o toto   laura maria   scusa    vi chiamate    minichellu   tofo burlamondi  o tony  cum ella casca   laura maria  da parie    pariginu    unn e maraviglia   e di li animali anch ellu    petru paulu   o ma  deh surellama  duve je    laura maria   e     e a u rusariu  un stera tantu   petru paulu  p anu    dunque  o ma  st amicu serebbe quellu chi vurrebbe a arcanghiula   minichellu   ie  o madama  e scusatemi se unn aghiu avanti st ora dumandatu u vostru pare  aghiu pensatu chi u fratellu bastassi   laura maria   niente di male per quessa  cio chi ellu face petru paulu e ben fattu      distratta  eppo  i vecchj di oghie     minichellu   parlate  parlate  o madama   laura maria   no  no  aghiu dettu   minichellu   vegu chi bo  un site micca troppu suddisfatta      laura maria   si  si  e megliu cusi ca ave dopu u pentimentu di essene stata a causa  si mio figliola e cuntenta  so cuntenta   sentendu un passu  ava lu avemu  mira   scena iv  i listessi  piu arcanghiula   arcanghiula  entrendu impumpunita    bonsoir mi seiur  dam      minichellu  alzendusi  e cun forfe accentu    bonsoir mi dam    pardon  mi m sell      petru paulu  presenta    mio surella  o toto   a arcanghiula  tony burlamondi  mio cumpagnu  o    o nana     minichellu  cun inchinu    madamicella  mi videte incantatu di cunoscevi     megliu ca per detti e scritti  sta volta   arcanghiula   mi ci mi sieur  cuntenta altrettantu  ma accumudatevi   scusateci di un pudebbi riceve megliu  a sti paesi   si sa      posanu    petru paulu   o ma  alo  pigliaci intantu un bicchierucciu di quellu chiarasginu di stoppianova  1  cu dui biscotti   arcanghiula  a minichellu    piuttostu un cherry  non   minichellu   cume bo  vulete  madamicella   arcanghiula   si  un cherry     o ma  piglia u cherry  i  laura maria  fendu gesti addisperati     cume        che pp     arcanghiula   sta  sta  ci vo ciu  piglia i biscotti e i bicchierini    si danu a serve  grande silenziu   minichellu  cu curtesia    mi gi  mi selle   arcanghiula   oh  mon ghie u  cusi pocu   minichellu   ben voui  mi m sell    tengu pocu  voyez vous  a i spiriti   a ru silenziu   petru paulu   chi vale po  di sta a sente vula e mosche e di guardacci cume canucci in terra cotta   u mutivu di lu arrivu di u mio amicu  u sapemu tutti   a minichellu  caru amicu  parlate puru a faccia aparta   minichellu  fendu lu imbarrazzatu    madamicella  vostru fratellu vene di dilla  sapete u mutivu di sta mio visita   arcanghiula  calendu u capu   si mi ne ha messu a capu   minichellu   mi ci so pigliatu forse male  averebbe pussutu sente prima a vostra idea  circhendu di vedevi in parigi  scusatemi   arcanghiula   no  preferiscu cusi  aghiu cunfidenza assoluta in mio fratellu   minichella   allora  madamicella  mi e permessa di spera    arcanghiula  calendu u capu  cunfusa    postu chi mio fratellu la ha decisa cusi       petru paulu   lu aghiu decisa  lu aghiu decisa     ma unn aghiu mai avutu idea di furzatti a niente  eiu   minichellu   ben intesu   avale mi indirizzu a voi  site a vostra sola padrona  accettate sinceramente a mio offerta    arcanghiula   si   si   ssi   a laura maria  o ma  tu  chi dici    nen    laura maria   eiu dicu cume tutti  cio chi bi acconcia  mi acconcia   petru paulu  pisendu u bicchiere    or alo  a a salute  quella di i prumessi  eppo  dino  a nostra  o ma   a laura maria  ma cambiate di piazza avale  lesciateli pusa accantu   ssi felici    laura maria   sortu  sortu  eppoi  sarebbe ancu la ora per me di pensa a a cena  unne   minichellu   un mumintellu  o madama   caccia un anellu di stacca  assistite ancu voi  a so  mamma   oramai nostra mamma a tramindui   a u saldamentu di a nostra parolla   pigliendu a manu di arcanghiula e mettenduli lu anellu  cara prumessa  accettaie stu picculu pegnu  di insignifichente valore bensi  ma offertu da un core chi bo  rendite felice     petru paulu  alegru  pisendu dino  u so  bicchiere    salute  pace  e bona unione    tutti  arritti    salute  salute e pace   prucedenu a lu abbracciu  secondu u vecchiu usu corsu    petru paulu   ava poi  o ma  andate puru pe  a cena  e sfrissughiate puru  perche qui ci e ghiente chi a si sente  di a bivanda mi ne incaricheraghiu dopu  eiu   laura maria  surtendu    un bi precipitate  a i vecchj  a sapete  li ci vole u tempu  simai  vi cuntenterete di cio chi ci e     minichellu   si  si  madama  e un vi mettite in frazzu per me   scena v  arcanghiula  petru paulu  minichellu   minichellu  alegru    eccu li affari   oghie un si cunosce omu  e dumane si diventa piu che cari   petru paulu   cusi  mi date u laziu anc a me di buscammi un pezzacciu di donna  tantu  mamma imbecchia   minichellu   e credila puru  caru cumpagnu  a la longa  a vita di fantinu diventa un biota capu   petru paulu   eb  tu  ancu zittu   in parigi averei riesciutu sempre a tumba u tempu  or cerca quindi   si ell unn e quella partitella a morra o a carte    cume distrazione  un ci ferma che di cecesi a u fucone lu invernu  e tendesi a u sole le estate     minichellu   ancu parigi vene sopra sto   macu    a arcanghiula  un dite cume me    arcanghiula   ah  no   o   o   scusates io vi contradicu  qualla  ci so i belli teatri  e viste     minichellu  stufu    bu  u  ffi  ne aghiu sin a qui   gestu    arcanghiula   eiu un dicu quessa  e i balli     minichellu   ah   i balli    per me     petru paulu   cum e   un balli micca   minichellu   a  a  ah   e chi fa    arcanghiula   site in dolu  no    minichellu   ne mancu  a videte a i mio panni   suspira  ah   ssa guerra   ssa maladetta guerra      cambia di discorsu  mentre arcanghiula u fissa cu stupore  e chi e   o petru pa   tu  si tu ti mariti  conti di andattine in parigi      petru paulu   qual e chi sa       minichellu   cumu   si qui inde i fiori  e  voli anda a circa piu che pan  di  ranu   petru paulu    deh guarda a te  allora   minichellu   eiu ci aghiu fattu a croce   arcanghiula   cumu   ma a vostra lettera dicia chi unn erate in corsica che per dui mesi   minichellu   ma unn era ancu fissatu  vegu chi qualla un mi si cunface ne aria ne ghjente ne custumi  cusi  a u paese  aghiu ingaggiatu una squadra di operai a un scassu  e un altra a u rifacimentu di a mio vecchia casa  per  occupammi  si dicerebbe chi ellu vi dispiace    petru paulu  tagliendu a risposta    ah  dispiace o un dispiace  a donna deve sempre accumudassi a i debisi di u maritu  un dici cume me  o sure    arcanghiula  sguttata    i   i   ie 1     minichellu   eppoi  mi e impussibile di laga dino  a mio mamma quindi   petru paulu   quessu  e un santu duvere  ma  cambiemu un pocu discorsu  u matrimoniu  quandu cuntemu di fallu    arcanghiula  cu pocu calore    oh  ci vole    ci vole un pocu di tempu  li omi so prestu pronti  ma per noi altre le affare cambia   minichellu   cara prumessa  pigliatevi puru tuttu u tempu chi bi ci vole  un mese     arcanghiula   un mese   minichellu   dui  se vi piace   arcanghiula   ne dui ne  tre  un mi bastanu   minichellu   simu intesi  tantu  niente mi richiama in parigi   petru paulu   allora e longu le affare   eiu dicerebbe di fassilu in quattru e quattr ottu   arcanghiula   ah  no     un possu  un possu    minichellu   o petru pa  un la cuntrariate  u tempu lu avemu  vi ripetu  andemu puru ad agostu chi bene  si ella le intende cusi   cambia discorsu  ma scusate  eiu mi so sempre bruttu e pulverosu da u viaghiu  guardate qui   si guarda e mani  mi vurria da una rinfriscata  vi scumudeghiu   petru paulu   mi  mi  manc appena   un la pudia ave detta nanzu   veni  veni cu me inde a to  stanza   minichellu  surfendu    una seconda  cara prumessa   permettite    arcanghiula  tristamente    si  si  pigliatei vostri comudi   scena vi  arcanghiula  laura maria   arcanghiula  calendusi a piegne sopra u tavulinu  inh    ih   inh      laura maria  entrendu    oh  oh  deh chi diamine ci e avale    arcanghiula   inh    ib   inh     mi a   a   mi a    ih  inh     mi avete burlatu    laura maria   ti avemu burlatu  cumu  quale   chi e accadutu ava  santu diu    arcanghiula   mi avete fattu di ca si  nan zu di mettemi a u currente  e cusi un mi va  unmi si cunface  mi so disgraziata   in    ih    ih   inb      laura maria   da me un la vule  chi un la ti aghiu cunsigliata    pigliati a minichellu   dicia  pigliati a minicheliu      arcanghiula   mi averaghiu da infunga qui  cu quessu  ohimella  eppo  batti esappia u perche chi le impedisce di balla   unn  hai vistu cum ella ha subitu cambiatu discorsu     laura maria   calmati  chi vene to  fratellu  calmati  chi noi un siamu a le rise   scena vii    e listesse  entre petru paulu   petru paulu   chi ci e  chi ci e  chi so  ssi pienti    laura maria   ghie chi si pente digia di a so  parolla  i  petru paulu  finghiendu a collera   ancu quessa  ih  scandalu di i scandali  averemu da ferma per pruverbiu  attenti  beh  finimu e scimita    arcanghiula  sempre pienghiulosa    e perche un mi avete fattu capisce cap avanti chi quessu mi vulia cundanna a sta qui in sempiternu   sta per sta  mi pudia ave pigliatu anc a minichellu  era quessu u to  pariginu      petru paulu   ih  e donne  bulabulelle  bulabulelle  ma chi ne pensera mio cumpagnu si ella abbenta qualcosa    laura maria   figliolu  unn ha mancu troppu tortu  surellata  e stata  si po di  pigliata di assaltu  e ludendu e so  passiunelle chi avianu da esse suddisfatte  parigi cusi   parigi cula  e canti qui   e balli cula     
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="9" type="art" xml:lang="co">
+    <p>
+     prucessu di stampa  omu sa chi in un prucessu intentatu da u nostru direttore a u gerente di u giurnale   la corse  di marseglia  u tribunale curreziunale di ajacciu  avia cundannatu i nostri avversari mentr ella avia rijettatu una richiesta di u direttore di   la corse   in danni e interressi  per un disegnu apparsu nant a   muvra 2   sopra a appellu di u procuratore di a ripublica e di u direttore e di u gerente di   la corse    le affare era chiamatu pe  u 4 dicembre davant a corte di appellu di bastia   eranu avvucati   i sgio colombani di bastia e luciani di ajacciu per petru rocca  i sgio montera e porte per i nostri avversarij   u celebre avvucatu de moro de giafferri  di a corte di appellu di parigi  avendu fattu sape chi ellu difenderia persunalmente a causa di u giurnale   la corse    ha chiestu  per pude esse presente a la audienza  un rinviu chi sara prubabilmente accurdatu da a corte 
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="10" type="art" xml:lang="co">
+    <p>
+     satana cunduce u ballu  quandu si parla di pace e di disarmamentu  e tandu chi a guerra si abbicina      ne vulete una prova    un si sente per la aria che ste voci   pace  pace  bulemu a pace  chi tutte e nazioni disarminu    e cume cunsequenza  la inghilterra  ci dice u news chronicle  ha fattu una cumanda di 25o aeroplani di guerra chi seranu pronti pe  u 1931    a francia  chi unn ha mai una baiocca per cursichella  dumanda a i deputati di vuta a u piu prestu altri e 65o milioni pe  i ministeri di a guerra  di a marina e di la aria    e altri 476 milioni pe  spese supplementarie   piu che una milierda e mezzu    e tuttu que    tuttu que perche la italia vole a guerra   difatti  mussolini ha dichiaratu a guerra     e a vita cara  ha messu u pane a 3o soldi u chilo  un bi pare un scandalu    eppoi  la italia ha apertu tutte e so  fruntiere per lascia anda i so  figli  troppu numerosi per bive  ne a penisu   la  a stanta a so  vita altro    un bi pare un altru scandalu    eppoi  a framassoneria internaziunale un po ingolle di ave ricevutu da  mussolini un calciu maistrale       a  quellu locu  e allora  si prepara a bindicassi  armendu e nazioni contru la italia  e principalmente a francia   ognunu sa chi  la fille ainee de le eglise  e dipoi  un tempu  la fille ainee de ia franc maconnerie   ma dio  un ci sera per nunda   sin a quandu satana cunducera u ballu    xx 
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

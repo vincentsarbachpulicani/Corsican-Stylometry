@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330980v
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330980v
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 242 | Année 7
+     </edition>
+     <date>
+      1926-02-28
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     'Annu VII — Numaru 242 Esce a Dumenica n Dumenica, 28 Farraghiu 1926  A MUVRA  GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI :  In Corsica. «.... + « i... + «“ .. 12 franchi  In Francia, «....:........ 15 » PEst i 25 i  A PEsteru . , , +. + . « + + 25 Lo  U Numaru:4 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="let" xml:lang="co">
+    <p>
+     a cumuna di parapiglia  caru lumbrigone   aghiu fattu un libru  un libru chi pare tuttu una cummedia   un nome e  a cumuna di parapiglia   ci e viramente u teni piglia e para  in quattru aiti e sedici scene  in centu pagine cume centu agnuli diu paradisu         un si dica nulla a ziu cardi  di marseglia  sinno pigliaria a macchia   una volia  e statu ellu chi e partitu a vende u me libru  risa e canti  mancu  par arba tabacca  un timpurale  e u sumere in collara  acqua in bocca  sta volta si vo videte a ziu cardi          parchi le affare di parapiglia e un affaracciu  numicizie e bastunale a ricute  a chi e bonu pa a pistola si fia cunosce   a prima numicizia sara cu u sicritariu di a meria  la intrata  in scena palesa chi ellu guadagna pocu e chi ellu un po piu dura  par fa soldi  ellu mette a paura a i paisani  pitrinu vole arrigistra a figliola chi si chiama  dumenica  ma dumenica un e  luni e ci vole a paga   u paisanu lampa un cinquinu   nome di diu     falettu vole u strattu di nascita di u figliolu elia  ma elia e purtatu cume femina e un po fa suldatu   par arrangia le affare    un cinquinu   ci  7  ava ne affacca u stimadore a fassi scrive una espertizia  quindici franchi  par una scappata di capra di u mese di marzu     umbeh  dice u sicritariu  face un mezzu cantaru di fenu       metti dece  allora     ma u padrone di a capra e be cu u judice  parente di u diputatu   prutettu da u pricuratore  u dannu da quindici franchi fala a dece soldi  da  an sta  ma eccu u  merru chi entre in meria e vede i dece soldi a u so numicu  le oc    cumu  mancu quindici franchi  a un dinunciatore  chi vulia lampa u partitu  u dannu colla e colla  e colla a quindici franchi e mezzu     falchetta vene a piegnesi di a pace   im ti prussiani sapianu cio chi elli facianu quand elli ci dedenu a pace     si  picurone jugne a fa caccia a marzu da annant a lista   le istitutore vene a piegne  un guadagna ca dece mila  franchi  dece mila  a moglia  e dece e dece un facenu ca vinti  un puo piu campa a u paese  dumanda un picculu succorsu    e  carm e pomi  grida u merru  si  si  civele a cresceli       a sesta scena e quella di u duttore chi va a vede a zia sacra maria     sete andata di corpu     di corpu  un possu anda di dedi e vulete che vaga di corpu    ava ne vene a partita a scopa tra birbantellu e calavrone    e stata su diavule di donna di peche   chi u diavule si piglia e oe e a chi la ha imbintate   i   chi u diavule si pigli a te  o  o  chi fusti a me ruvina  grida   moglia chi era piatta   ma eccu a gambetta  un rifurmatu di guerra  chi vole cinque carnets medicali  pa u rifurmatu  u duttore  u spiziale  un marcante di profumaria e quellu di le acque minerale  tutti signi    falchettu prisenta a u merru u so pupille di a nazione   di sittant anni  di a guerre di sittanta   u diputatu rende visita a u merre  un elettore e u solu in paese a uii tucca pinsione  ne vole una     quant ha firite   si ella avia e firite un avaria bisognu di voi   dopu ne veiie un affare in ghiustizia di pace  in la bilancia  cceun  capreettu da una parte  da more da arisa    mn  cunclusione  a cumuna di par rapiglia   a man di diu contru a picondria  costa 5 franchi a la stamparia di a muvra   ci e pochi libri stampati   chi i me amici si spiccinu  li garantiscu un annu di risate  i
+  s
+    </p>
+    <docAuthor>
+     Maistrale
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     a muvra       previsione di tommaseo      quel muffolo chi e tra il capriolo  la pecora e il cervo  bello animale a vedere  e snello e di gaja pelle  che nasce sulla neve  e spicca salti lontani di roccia in roccia  e cade da precipizi altissimi senza danno  mi pareimagine viva del corso      1   ne  nn  or dunque  guasi cent anni fa  un grand italianu   tommaseo   parlede di a muvra chi li pariva  imagine della corsica   e fece intravede  chi un ghjornu st animale sarebbe  un simbolu e una bandera     e propriu cusi  a muvra spicca salti iuntani  e malgradu i buvaloni  ella casca senza dannu  si rialza subitu e rompe e corne a i diavulelli impinzutiti  e nata sopra i monti viculesi  e dopu un esiliu in parigi  si ne e riturnata in corsica    cuniscite u   pruverbiu    dio ti salvi di e corne di a muvra       e bera  ma difende e sante cause   o muvrina  muvrarella   eri bella chiuca u jornu che tu scaledi da le alture  ognunu ti guardava sottu occhiu  e avale che thai e corne inturcchiate  i sumeri roncanu sempre quandu ti vedenu da luntanu 
+  s
+    </p>
+    <docAuthor>
+     Saveriu Malaspina
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     un gran pueta corsu  monsignor di la foata  a rinascita di a litteratura corsa e veramenti magnifica   libri  libraccioli  publicazioni varii  e chi so letti  sortini da li stamparii  fra i quali quidda di a nostra muvra e dili piu attivi   pueta numerosi e scrivani  dani aijurnali corsi versi e prosa di qualiu valori un e piu discussu  e  in quista bedda rifiurita corsa  di un veda ripariscia a tramuniana di santu casanova  u pueta  geniale  principu incuntistatu di li nostri anfarti rigionali e u nostru solu rigrettu   sti letteratori corsi hanu avutu pricursori rinumati  a quist ora  e vera  so un pocu diminticati  ma circaremu di falli riviva in cu lu ajutu priziosu di petru rocca     fra sti pricursori  parlaremu oghi di monsignori di la foata    anticu vescu di ajacciu  di un alta cultura litteraria e cuniscitori istruitu di tuttu cio chi e belle arti  fu giovanu preti  prufissori di ritorica e di musica a u piculu siminariu   fu un pueta eccellentissimu e la so musa un avia bisognu di fatigassi par fa versi latini  francesi e corsi  di la foata  tuttu parlendu  in cunversazioni currenti  pudia pueta  e i parolli chi ovidiu avia dittu di eddu stessu     quidquid tentabam dicere versus era     si poni applica a u vescu pueta   dunque a musa di monsignori di ja foata si esercittava in latinu francesu e corsu  ma so sicuru chi eddu era moltu piu applaudita ai monti sacri di u parnassu e di la elicona quand edda puitava in corsu     a leghia i stanzi corsi di u vescu  natu in azilone   impiega ne i so opari corsi a parlata di a pieve di ornanu   a parsona si avvedi chi eddi poni lutta pa a richezza di a rima  la armonia di a forma  a finezza di u travadu incu i piu beddi pezzi di ipueta chi formanu a pleiade francesa   ein quisti stanzi ci si trova tantu  spiritu  tanta osservazione tantu sali atticu chi monsignori di la foapo sustena una certa cumparazione incu u piu gran pueta satiricu di tutti tempi  u grecu aristofane   e nun viniti micca a dimmi chi i so versi un so di attualita    tuttu quiddu chi ha pudutu fa be a critica suciali ha fattu un capu lavoru eternu parchi la anima umana un ha mai cambiatu dipoi chiu mondu e mondu  di manera chi sta critica e di ogni locu e di tutt ora     in versi corsi  monsignori di la foata ha lagatu un libru   preti santu   stu libru  manuscrittu  e a pruprieta di u so eredi  u comti p  mi  di la foata  chi  un si sa  parchi  un u voli laga publica  aghiu avutu a bona furtuna di leghia varii brani di preti santi a me cummunicati da u canonicu ci       ogni filaru  saria a cita da un capu all altru  in fattu  un ce che finezza spiritosa  osservazione profonda   u piaceri a leghia e tali chi un si ha mai finitu di rileghia e di rileghia dino   vuleti  a littori fidi di a muora   sape  comu di la foata tratta a crucchiolu  un niguzzianti di u forciolu chi spirava di figura annanta u festamentu di ceccu bozzi e chi era pocu onestu    po ci e crucchiolu chi vurria la mancia   vendi u tabaccu  ma u pes un e di francia  u pizzich eddu lu falcu    un si compra una balancia   tibbi   tibbi   acconcia e sconcia  pesa sempri e manca la oncia     preti santu   testamentu di ceccu bozzi  stanzia 154     ma a forza satirica di  monsignori di la foata si mostra sopratuttu na predica chi preti santu fece una dumenica sopra a lu piccatu    preti santu  mal dispostu  quiddu jornu  un vulia pridica  ma iso parucchiani li forzani a mani    or pridicheti    ci e genti chi v ascolta   un ci e travadi ne ci e da fa racolta   e u preti di risponda    oh   cantemuci la messa  e attimpem a  un altra volta chi se mettu mani in pasta  la jurnata nun mi basta     preti santu   predica di u piccatu   stanza 4a   e mittendu   mani in pasta   preti santu da u primu all ultimu gradu di a scala suciali passa in rivistai piccati di ognunu e un risparmia nissunu   da u jurnataghiu chi ruspa a terra a u scarparu e a li oziosi  passendu pa u muradori e u vinaghiolu  da la donna chi ghiastema a lu omu qui ghiura  da u merri ingiustu a u judici di paci parziali  ni junghi a li avvucati e a li duttori e tutt ognonu ni pida a so bedda fetta       dici di quiddi chi facini i trattazioni cummerciali in cu malizia     si nimu vendi  si circa un bacineddu ma si eddu cumpra vurria un capiteddu   un facci piu nigoziu  senza volpi sotti tedu  par fortuna un ci e piu tonti e sa ognunu li so conti    idem se  162   e di li oziosi ci e giovanotti    chi un  mancani di taglia   ma grazia a diu    si posa e un si travaglia  bedda pampana e micc uva granu pocu e mor di paglia anc u pioppu cresci be ma lu fruttu po duv e     cusi oziosi ci  ci ne per ognu locu   di istati all ombra di invernu  sd a lu focu   si passeghia par li piazzi e si parla che di jocu   ma finitu lu bricconu u so ventri e a lampionu    ibidem si  19e e 234   e di muradori   u muradori  un ci e pighio canaglia   par fa piu prestu  do i quatri ed edd i taglia   buffa terra e mazzacani    cusi avanza la muraglia     o mae  ma quista po       tinara quant edda po      ma fighiuletti mi pari chi edda tremi   a una vintata  chi sa po ched un jenni     caru meiu set un bricconu  tinnara li vostri antenni   anc a coda a li animali tremma sempri  un casca mai    ibidem si   4o1 e 472   di u vinaghiolu   u vinaghiolu sa nimu com edde    chi compra a quattru  e po rivend a tre      eddu e turcu ma u so vinu e cristianu piu che me   lu miraculu di cana lu fa spessu la funtana   gbidem  st 488   e di li avvucati   dill avvucati  qual tocca sta cantina    sani la leggi  si e  e trovani la uncina  poni fammi un bonu prucessu e pagata la jaddina    e mi buscu a currizzioni li jastemi e li canzoni    pur lu aghiu ditta  e un vardu in faccia a nimu resca chi resca  li lodu tutti e stimu  ma ci voli a so passata tant all ultimu che a u primu e parchi po li avvucati    forsi un facini piccati    la sa u clienti  chi un porta lu rigalu si lu avvucatu e bonu o si edhu e malu   e quand eddu lu li porta ci vole ancu di prigallu   faci finta di an vulellu e ha la lingua di lu meli   stu picchi all usciu di pedi e non di mani   sta pur sicuru chi subit aprarani si li mani po so bioti sara grazia ancu di entrani e stu entri sara prova si tu piazzi una parola   sponi la causa ed eddu nun ti ascolta ripeti ancora      andeti   un altra volta aval so tropp occupatu   dopu fattu la racolta turnareti e vidaremu chi vantaghiu no avaremu    parti u clienti   ma e peghiu chi un capi   vulto all aostu     cume  se sempri qui ma chi asseccu chi tu se  fors a juntu po qualchi      e po certa li so braccia cume di     qualchi fugaccia     li da dui scuda allora cambia tonu   un e per quista    ma sete troppu bonu     e u cliente bassu  bassu     oh ti jungh ellu u fuone  aval dici  unn e par quista  cusi perdi tu la vista    la causa e mala    ne importa   venga qui  si edd era bona  si un ci era po da chi   parchi studia lu avvucatu che par causi cusi    e pa u falsu e non pa u veru  dicia be preti sampieru     o bona o mala la causa un po scappa   un si cerc altru     che ghialli da spiuma e piu grassu e lu clienti piu la causa durara    comu so tutti li uguali li avvucati po di avali   quiddu di ajacciu e quiddu di bastia   ti joca an stacciu   ha la ogna di la arpia    quil di corte e quil di calvi paga forte e dall a bia    lu avvucatu di sarte libera  nos  domine    thidem  di a se gia a 792   midispiacci di nun pude cita piu a longu i brani di preti santu chi e mi so pudutu prucura   ma un possu abusa di a bona vulinta di u direttori di stu jurnali  un po da  si cumprendi che una piazza limitata a i so cullaboratori  du  ma a passata di la avarizia  a strada di u paradisu  a junta di a mamma di si  petru a la porta di u cieli  a tustizia chi si laga torcia u nasu  i dunaccioli chi mettini u diavuli in cunventu  li istitutori chi facci piu i so affari chea scola  u sgio nutari chi spedda i so clienti  tuttu e trattatu di ura manera parfetta e speru be chi un ghiornu u comte di la foata si dicidara a fa stampa preti santu  chi  in biblioteca un fara micca cattiva figura accantu a i souvenirs poetigues di monsignori di la foata  i parlata di sarte
+  s
+    </p>
+    <docAuthor>
+     Simonu di li Lecci
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="fr">
+    <p>
+     petites querelles m p m que je n ai pas l honneur de connaitre du moins quant a ces initiales se livre a mon egard a des insinuations personnelles imprevues  e il m attribue un article de l eveil sur l'autonomie de la corse se demande pourquoi mon nom ne parait plus dans ce journal et suppose que sollicitant une justice de paix je serais amene a une prudente reserve par la  campagne  d henri omessa contre l administration  il affirme qu il reconnait mon style filandreux daigne faire allusion a mon physique et me traite enfin de zoile e  7 venant a propos d'un article de l ordre le plus general et sur une conception administrative ou politique de la corse un tel penchant pour des investigations si particulieres ne  situe t il  pas  j imite l elegance de son langage  sori auteur    am e je n ai pas evidemment du journalisme l opinion que revelent ces tendances    je ne m inquiete jamais de savoir ce que mon prochain sollicite s il est beau laid grand ou petit ni toutes autres choses du meme genre j essaie de tenir ma pensee a un autre niveau i je n eprouve aucun embarras a repondre a m p m il se trompe voila tout    si mon nom ne figure plus a l eveil ce n est pas pour les raisons qu ilimagine  je vais le prouver non par des mots mais par les faits  ce n est pas d aujourd hui seule ment que l eoeil a adopte certaines attitudes sur divers sujets  mais depuis sa fondation souvent elles furent meme plus accusees  j y collaborais sans difficulte la liberte de pensee de chacun y etant absolue   je n ai jamais entendu etranger d ailleurs a la partie politique du journal partager toutes les idees de mes voisins pas plus que je n avais la pretention de leur imposer les miennes  ceux qui me connaissent le savent et cela seul m interesse  le moment actuel serait il plus delicat en raison des ambitions que m p m me prete  j ai tout d abord appris ma candidature au posie indique par un ami  je l ignorais voici que m p m la confirme force m est de m incliner devant ces concordantes  si tout s arretait la je n en serais ni desole ni surpris et je n aurais pas a l etre   o   fn tout cas une telle circonstance ne m invite pas a cesser d ecrire surtout contre l autonomie x le calcul le plus avise  ces calcuis me sont indifferents  m engagerait plutot a le faire car  suivant un illustre precedent sur lequel je n insisterai pas  des articles de cette inspiration sont faits pour appuyer une candidature quelconque en haut lieu non pour l y desservir est ce clair  reste zoile zoile n'eut pas toujours tori puisqu homere on ie sait sommeillait quelquefois cependant pour que je puisse encou  rir cette epithete assez demodee il me faudrait un homere et l on n en voit pas du moins pas encore  et je m excuse d entretenir de ma personne les lecteurs de a muvra mais ils voudront bien se rappeler que ce n est pas ma faute
+    </p>
+    <docAuthor>
+     Vincent de Peretti
+    </docAuthor>
+   </div>
+   <div n="5" type="his" xml:lang="co">
+    <p>
+     foia di natale  un prete vistutu di oru    o bapo  una fola  cuntateci una fola         vi ne  cunteraghiu una  disse u vecchiu  una fola corta e bella e verifica perche e stalbata in bivariu   a vi contu cum io lu aghiu intesa da a ben di bapu chi la avia intesa da quelli chi funu tistimoni di u fattu     una notte di natale  secondu lu usu di una volta  e populazione  di a pieve di vivariu eranu andate a sentesi a messa in la antica iegia di sane ta maria chi serbia a i sette paisoli cifcambicini  arca  sussunaccie  perelli  tatti  vivariu  costa  muraccioli  a iegia si esiste semipre scantata e sulitaria nant un scogliu  a mezi chiosi  cu a la intrata di a porta di e donne  un iscrizzione latina chi lampa un tremulu a le osse   maladettu quellu chi tomba u so fratellu  semer zo dunane hifi ce der    dunque  tuttu u paese  oi e don  ne  giovani e zitelli assistenue a messa bella longa e sullennizata  bagianu  un per unu  u bambinu e finita a funzione si ne ritornanu in casa soia per fa sopracena e tasta i sanguinelli cu a pulenda  nimu si accorse chi un zitellucciu addurmintatusi  rentu u pulpitru  mancava a lu appellu  quandu  versu quattr ore di mane  u piuvanu vulto in chiesa pe a messa di la alba ti trova u zitellu chi pusava tranquillamente davanti  a le altare maggiore      cumu ie  si digia qui  disse u curatu accarizzendulu  si ghiuntu prima che me       so ghiuntu    chi mi era firmatu qui  rispose quellu  li occhi lucicheni ti cume duie stelle  mi era addurmintatu e un mi saria mancu sbegliatu si ell unn era vinutu un prete tuttu vistutu di oru chi bulia di a so messa      umbe  chi prete  e unn hai autu paura a vedeti cusi solu solu     manc appena      u prete vulia di a so messa  avia accesu tutte e candele e stava a u pe  di le altare dicendu  infroibo ad altare dei  introibo nd altare dei  biu  vulia subitu risponde  ad deum qui letificai  ma mi era quassu insunnulitu  allora ellu si e bultatu e un videndu servente si ne e andatu  in sacristia   u piuvanu  a bocca abbarta  ascultava i detti semplici diu ziteliu  un anghiulucciu biondu di ott anni  senza malizia   li passavanu  cume accendite infugate in du cerbeellu in cimentu  turno a di    i    e tu  unn avie paura     inno  a    e si no u fessimu turna  a momenti  queliu prete   unn averisti paura   7    ah   fatelo puru vene  disse u zitellu cu a 5o vucetta sviscerata e risa in bocca   aliora u piuvanu piglia  cotta  stola e rituale  mette u zitellu accant ad  ellu ci una candela accesa e leghie  a voce di cumandu e parolle chi levanu e scunghiure   o meraculu   le altare si illumina da per ellu  u bambinu ride tra i fiori e di la ombra si avanza a u pe di i gradini un prete in pianeta di oru  colla all altare  ripone u calice  apre u missale e cumencia a di      introibo ad altare dei     a deum qui letificat juventutem meam  risponde u zitellu in dinocchie   a messa cuntinua  a u gloria  campanelle e campane si mettenu a  suna   un cantu di anghiuli risona  musica divina       quandu u prete fini lu ultimu vanlgelu  u piuvanu li dumando     di  quale tu se  anima benedetta  i    so prete omobonu  e sette cent anni chi io vinia in sta chiesa per celebra ma un ci era mai servente  avale  so liberu  aghiu finitu a mio penitenza  grazie  a bedeci in paradisu   dettu ste parolle spari  e u primu albore di natale spanno u ceiu  mustrendu sopra a bivariu e muntagne carche di neve   
+  s
+    </p>
+    <docAuthor>
+     Martinu Appinzapalu
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="it">
+    <p>
+     monserato  giace sopr a bastia circondato d alberi e di ammirabile verdura   lo storico antico bello monserato dove vezzosa ride la natura   di giardin  vigne  e ville  egli e adornato  e nel mezzo gli fa santa figura  una cappella dove e venerato  il nome di   maria   beata e pura   nella stagione estiva ivi il sereno fresco  si gode all ombre  dense  il giorno e la brezza che monta dal mar tirreno   oh  bella villeggiatura  oh  bel soggiorno  qui si respira la aria pura appieno tranquilli  senza aver rumore  attorno 
+  s
+    </p>
+    <docAuthor>
+     Giuseppe Giovannelli
+    </docAuthor>
+   </div>
+   <div n="7" type="let" xml:lang="co">
+    <p>
+     una lettara  caru petru     aghiu  scrittu chi ella era megliu di riceve danari di a francia  in paga di unimpiegu che di tuccanne nant i fondi di a sicurezza ginarale per spia e denunzia i boni patriotti  e dicu ancora chi questi codardi i cunoscemu  un aghiu mica volutu falli 1 onore di numinalli  i  un vedu mica  dunque  parche u sgio bi  j  pigliaria stu rimproveru per ellu  i iu  di altronde in  sta  discussione  eiu un so mica ne discurtese  un e mica vera chi u bi  j  mi ha rimproveratu di maledire a francia  chi mi paga  e cio sara magari una  cortesia   e poi ste quistione di persunalita un ponu mica interessa u pubblicu  ma cio che resta  e chi bi j  face una campagna chi aiuta moltu i scopi e le intreccie di i denunziatori e di i vittoli echi li face piace  ed eiu vedu qui un imprudenza e ancu una colpa  nulla di piu  3  affettuosamente 
+  s
+    </p>
+    <docAuthor>
+     U beccu
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     i e  a lu amicu petru rocca per ave falt a ricciata    piu grande chi un era lu ortu  aghiu pres una cascata   ohime   so guasi mortu   parlendu di la suttana   scatteno la tramuntana    tutte le curpurazione   hannu pecura rugnosa   ma ci e sempre le eccezzione   pe la casta riligiosa chi biuadise i cunjunti   ed assiste li defunti   un prete ne u so paese   cunduce cum un pastore   tutte le personne attese   chi l ascoltan a intt ore  parch insegna la bunta   printu di la carita   di campagn un pretirellu  mi insegno lu so latinu  l ascultav u puvarellu   bench eju fussi mastinu   e di tuttu stu passatu   nun mi so dimenticalu   in la familia matrina   si truvav un monsignore   seguito la so duttrina   ci una sentila fervore   e se di penna so pronin   nun me ni teniie contu   si ellu ci foss un messere   che mi tenisse rancore   tengu com u me duvere   di falli scuse di core   eju scrivu senza frenu   parche nun tengu velenu   or lasciati la me musa   travia per ogni ventu   di parabula nun usa   piutostu di sentimentu   e se mi fosse sbagliatu forza saraghiu scusatu   sti tre o quattru filare   i me bravi paisani   vi racontanu le affare   e stetimi fresch e sani   parch in tuttu quessu faltu   un ci e da frusta nn gattu 
+  s
+    </p>
+    <docAuthor>
+     U Pinzalonu
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     pariggi  farraghiu 1926  a petru rocca  bonu giornu  sgio direttori  rivaritu e salutatu   di tuttu lu me ritardu chi ne avareti pinzatu    nun e pa cattivu cori   ma sogu statu occubatu   oghie che sogu a riposu  prufittu di lu mumentu pa mandavi dui righi  un picculu cumplimentu  prighenduvi longa vita chi vo varchiti li centu   e fa chi la nostra muvra ni risoni da per tuttu   par chi ziu santu e gia vecchiu e ci po da pogu aiutu  ellu chi mi era lu capu i tantu stimatu e finutu      circheti di rimpiazzallu   chi vo ni seti a la cima     avali tocc a noi altri   ellu si e distintu prima  circhemu si no pudemu a goda di la so stima   ellu un purtava rispettu a diputati ne merra   a tutti li traditori  la ha fattu sempri la guerra   e quandii si tratta di ellu diu in celi  e santu in terra   bench ellu ni sia vecchiu   non e da metta da cantu  manc oghie si trova in dogu lu cumpagnu di ziu santu    si vo  li assiti da veda salutetilummi tantu   la minima di li cosi   di purtammi sta parola   mi salutareti atutti quilli di la mirindola   a giuvan petru lucciardi a mertinu  ed a vidla   poi salutetimi tantu lu nostru capu architettu   chi vo cumprenditi beni    lu nostru amicu ghiannettu   a la fiera di aulleni dicciareti chi e lu aspettu   nun lasciareti a nissunu   chi so tutti amighi stretti  abracciareti par meni ancu a paulu borghetti  e ditili che lu lodu  pa li so  belli virzetti   addungua mi adrizzu a voi chi ni seti lu amiragliu   det una strinta di mani ancu a paoli di tagliu  aghiustareti lu restu  si mai se facciu sbagliu   lu me amicacciu pincu   lu mi abbracciareti solu   par chi ellu lu puvaracciu   ne e culpitu da lu dolu si po cumprenda la pena   surell appress a figliolu   po a la fini  dareti   un salutu ginerali  a simoni di li leci     a babbuziu  e maistrali   e un basciu a pizichellu lu dareti a minicali   
+  s
+    </p>
+    <docAuthor>
+     G. P. Codaccioni
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     carnavale in monacia di aulle  quist annu in monacia si affaco zi carnavale   suminendu aligria  feci intrata triunfale   ghiuntu a meta di paese piseti u so pasturale       dissi   e diu chi mi invia  par scugnurisce ogni male spignite oghie ogni tristezza  cuntentezza generale    guai a chi un mi seguita sara piccatu mortale    tempu intesu sta nova un suffio piu maistrale   u sole fu risplendente   un gallu sciapitto le ale   u prete dicendu messa  lascio casca lu missale   afrigu lu nostru merre  accolse lu so vicinu cu dui colpi di archettu   deti boce a u so viulinu e invieti a chiama a palliolu e a rucchinu   so ghiunti sti musicanti   a chi nanzi a chi appressu  rucchinu stinzendu la anca  palliolu  come un expressu  ghidetimava la so manima  ohime   se sempre a stessu    francescu di lucianu   fu numinatu presidente riempii lu so duvere    a tuttu fu sempre afiente  mancu in a so pasta asciutta nimu si trunco un dente   subitu pienu di ajente fu u caffe di tafanelli   ci si visti ancu a zia cecca   ci ne era vecchii e zitelli  mascarati a chi da omi e a chi da damicelli   tafanelli da pagliacciu ci feci rida a cripera   ballendu paria un orsu   avia una sunagliera di tintenne a mezz anchi da li chiapp a la braghera   ghiuvan antone affannatu  inchiuppo la so lavisa   li deti guasi un pattonu   par rendela piu dicisa   e strinnendu un fox trot ci feci cripa di risa    michele di beccu santu   avia missu li calzoni di la so moglia raspanti   cu raccami e fistoni   la apartura era agraffata par piatta li so    jnocchj   i sgio bismarcu e matte u  fecinu la manfarina   cu molti trosti e fracassu   a sonu di mandulina   lestri come sparaventi  quandu piu soffia la brina   per parlani di u pranzu o musa dammi talentu   un si risparo lu  sale   fu fattu cu molti stentu $i  per disgrazia si e annicata   a scicca di arrigu dentru    u vinu era furiosu   vulia aqua in abundanza micca chi ellu fussi acetu   ma un era roba manza  sbiutendu lu me bicchiere  mi junsi ja minivanza    comu si precipito   quandu affacco lu agnonu  apaghiendu li canteghj lestru santu di tindonu piu che un poccu si sturzo tnghiuttendu  un bucconu   pa a i pp ugnunu  capi bassu  ni  masselli era occupata   un si sintia un zittu  ne frombu ne alinatu un firmai  3 u  un i di di    p  firmeti manc un ossu  lun fussi be ruzzicatu   ca fni di stu pastu     cuntinuo la danza archi nimu era pisente  ne troppu cordu di panza    cu bella voce vincenti   ci canteti una rumanza   ne cantaraghiu una anch eju dissi dopu tafanelli   patronu dilu caffe   lampeti qui suldarelli chi bisognu ne aghiu avale per crescia li me zitelli    beatu san  carnavale ti adoru cu tant affannu   e tu santa elezione  vinite puru ogni annu    chi eju spacchii lu me vinu cu prufittu e mai dannu    parlata di sarte simonu di aulle
+  s
+    </p>
+    <docAuthor>
+     Simonu d'Aullè
+    </docAuthor>
+   </div>
+   <div n="11" type="art" xml:lang="co">
+    <p>
+     resuscifatu cume lazaru  lazaru  inno  petrantunettu  era andatu cu u so fratellu pasqualettu a piglia u mulu ind e partighe  a u rilornu si bulia coglie  a u mula   i pasqualettu di no  ellu di si  e pasqualettu chi era piu grande li mino un pattone    i 3  a u colpu petrantunettu casco in lerra   sticchitu  senza riminassi ne parla    pasqualettu si ne andede a cavallu  e zia pagnocea truvo u zitellu distesu in terra chi paria mortu   aviso a mamma francesca  calasima chi corse stritencu ed in un mumentu tuitu u paese fu a a casa di a sciagurata  te su  misenu u moriu nantu un littinu orrizincu u si missenu a collu per purtallu a a casa    e e i  passendu davant a chiesa di galeria u povaru gliiuvari dizione disse    a chi pro purtallu in casa  purtemulu in chiesa  tantu dumane bisogna ad arrigallu pe e funzione      allora u  mortu  si sgurgo  era resuscittatu       
+  s
+    </p>
+    <docAuthor>
+     Ghiuvan-Paulu
+    </docAuthor>
+   </div>
+   <div n="12" type="art" xml:lang="it">
+    <p>
+     poeti corsi e la toscana  con lui ci era maistrale  un altro poeta corso  di cui non diremo nulla  di proposilo   per poterne  parlare a parte e a lungo  come si merita   non sapevamo come chieder canti ai due  in intimita non cantano  perche vogliono essere ascollati da iulto un popolo  perche imparino i giovani e ricordino i vecchi  la sera  dunque  quando i boscaioli  fossero tornati dal bosco  ed i pastori dal pascolo  avrebbero cantato  si andasse intanto con loro a visitare il cimitero del paese     la si capi quanto fosse familiare il luogo a minicale   egli ci  aveva portato gran parte di quei morti a seppellire  e sapeva le giaciture di ognuno sotio ai cumoli gonfi di terra  come  vi fossero semi  a germinare  specialmente sapeva le tombe dei morti in guerra  parti di li il pensierosu tuttii cimiteri  della corsica  su tutte le tombe sparse  come si usa  nelle foreste  lungo le vie  od immezzo al campi  e  1 morti in guerra  di coisi  sono quarantamila  sulla popolazione di trecentomila isolani  a  tornando   minicale  era sereno lo stesso  e noi sovrappensiero     si guastava il  bel tempo verso il mare  e si faceva notte prima del tramonto    a  la notte si senti cantare     attorno ad una soglia di casa ci dettero i posti di onore  sopra due panche  la strada su cui eravamo in breve sarebbe  slata alla foresta  la vista non era angusta  si vedevano le montagne scendere fino al mare  ed il mare altissimo colmare la spelonca  soito la statura dei castagni  il cielo era infocato di stelle e  di aeroliti che fiammeggiavano ovunque     molta gente si radunava con noi silenziosamente  senza neppur salutare  vero e che il buio non faceva leggere sulla faccia di nessuno  ma parecchie barbe di vecchio si scorgevano nell ombra    qualche sospiro precede il canto del pastore che slava con la testa posata sulla destra  in attitudine di quiete e mestizia       si riportano le strofe del suo canto   non si possorio riportare le note della canzona  ma la aria per un toscano  cra nota  variava su quei mutivi dei cantori di ottave che viaggiano per lo piu sui barrocci  e che all osterie dove arrivano cantano  ritrovandosi con altri  gianti in altra ora  o per altra via   tanto piu mesta pero  come si addice al caraliere corso   ma anche a riportare le strofe  siamo incerti        le poesie di minicale sono cosi compiute che non si posson cilare per strofa  dopo la prima non si puo abbandonare la seconda  ci cosi fino in fondo  che si chiude   ne riproduciamo una intera   o corsica  amatu nidu   patria dolce e diletta   ogni iornu e te rimiru   parche stai cusi negletta   di quelle antiche virtu   ti ne se  privat e netta   p  cosi cominciato il canto  benche la notie  si inoltrasse  ed il freddo  su quelle panche  intormentisse le gambe  non si sarebbe piu smesso  lui di cantare  e noi di seguirlo       l alba ci avrebbe ritrovati insieme  minicale col viso inargentato  e noi col visu pallido perla veglia  ma anche allora non si sarebbe detto quasi nulla di quello che ci balteva in cuore  per quel pudore di  fratelli che si ritrovanu stranieri  come  passato la mezzanotte  dicendoci addio  minicale non mando un saluto in patria  e noi non gli lasciammo nessuna confidenza del nosiro amore per la corsica  ci si tenne pero le mani per lanio tempo  che il campanile balte e ribatte je ore     egli e corso  minicale  lasciandoci torno alla sua casa di evisa   e il iorno dopo  altraversandola  noi ve  e omana quanto fosse bella la foresia di aitone  di ovegli e diventalo poeta   egli e dunque veramente corso  minicale  ma noi si e voluto riportare la sua memoria in toscana  di dove venne anche il suo seme 
+  s
+    </p>
+    <docAuthor>
+     Piero Bargellini
+    </docAuthor>
+   </div>
+   <div n="13" type="poe" xml:lang="co">
+    <p>
+     vecchj vociali  una muderi piegni u maritu prima buiatteru eppoi divintatu e mortu banditu  e stata piena fatali  da luntanu chi si e storta  chi ha ghiuntu quistu surrenu par sarra la noscia porta   nanzi che vide sti cosi medd era che fussi morta    altru chi a li to affari   lu me tintu  nun pinsai   cun mansonu e cun lumbatu discurrendu ti ne andai   e tirendu lu to sulcu  di bel voci tu cantai   ma tu ti eri sminticatu di lu anticu jacaronu   di lu latru tumba boja   di lu vecchiu sacchittonu   tra vo ma nun v era paci da lu to arci babbonu    prima di fatti banditu tu ni se vinutu a duru   lu me tintu  ti hani missu cu li calcagn a lu muru   ma quandi tu cumincesti    almenu nun mi ni curu    quantu ti hani fattu scherzi   ti hani lampatu li mura   missu focu a lu paddaghiu  taddatu la arburatura   ada fin  dilu so statu nimmu piu nun si ni cura    ti hani tumbatu li boja ghiacend a lu to paddaghiu   ohimme  fu quiddu jornu   chi piccio lu cinnaraghiu    tu mittisti man in pasta e ni facisti lu straghiu    mi ricordu quiddu jornu chi ghiunghisti sculuritu  denduti di punghi in capu  murzichenduti lu ditu     ohimme  tu mi dicisti  avvidecci  so banditu   hani tumbu corp a corpu a manzonu ed a lumbatu   lu sangu di li me boja ha da essa vindicatu hani tumbu li me boja  abbastanza so campatu    li me mansi e ghiuvativi chi nuu ci ne era in paesi  senza fa dann a nisciunu  corp a corpu seti stesi  v aghiu a fa li funarali  chi ma si saran intesi     la tinta  quandi ghie  intesi di cusi da la so bocca   mi so miss a li briona  e po li man a li fiocca  dicendu    si tu faci quissa qui di mora aval mi tocca     ma lu me disgraziatu  a suppurta nun tu bonu  quandu visti in piazza rida lu latru di jacaronu   li fec entra par la bocca lu cartucciu elu stupponu    qual sara statu lu vili chi si e missu a fa la spia   nun facii mal a nimu   nimmu mali ti vulia   e statu qualchi famitu    per andassin in bastia   eri banditu di onori  o lu me ommu cumpitu   se cascatu ad armi in manu e nun se micca fughitu   ma prima di chiuda la occhia li nimici ti ha scumpitu    avvidecci a lu altru mondu 7   o tamanta e quista scossa   unghi jorn a la stess ora vultaraghiu a la to fossa    fatt a mezz ad un zuccali  pinghia sopra a li to ossa   parlata di sarte
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="14" type="div" xml:lang="fr">
+    <p>
+     giurnali la nouvelle corse l injustice fiscale ou plutot la lourdeur des impots qui nous menacent a reussi a faire dans cette ville d ajaccio ou toute initiative est a priori suspecte de profiter a tel ou tel autre clan politique l unanimite dans l opinion c est donc que la cause est bonne  seul aussi parmi nos confreres de la presse la jeune carse crut devoir se singulariser en tenant pour nulle la decision du syndicat elle essaya meme par des arguties fort specieuses d en critiquer  l'opportunite et tenta de discrediter fesprit qui presida a l envoi d un telegramme de protestation suggere par pierre rocca directeur de a muvra au sujet dela nouvelle convention maritime  a supposer meme le pire  au sens de ja  jeune corse  que pierre rocca ait saisi cette circonstance pour nous signaler l occasion apres mil le autres de nous plaindre a juste titre et de renforcer la campagne de legitime mecontentement a laquelle nous avons toujours apporte notre appui ici a supposer cela inemie pierre rocca et tous ceux qui adopterent l idee de cette protestation n agirent qu en qualite de corses fermement resolus a ce que notre ile ne continue pas a trainer les fers de pergastule economique ou elle ge mit depuis trop longtemps  e l m ecrivait  il a ete decide une greve de trois heures qui a la pretention de tenir fermes les magasins pendant toute une matinee   cette pretention fut en effet si exorbitante que la totalite des commercants et industriel de notre ville observerent la consigne de fermer leurs maisons pendant la matinee de jeudi a c est une belle manifestation de discipline et de visible accord que donnerent les interesses  quand a la question marginale en l espece de la convention maritime je deplore qu il n ait point ete fait a la presse de communication officielle par l envoi du texte integral de la convention soumise aux votes du parlement i ce qui nous apparait pour yinstant c est que bastia hurle  avec raison sans aucun doute  par la voix autorisee s il en fut de notre ami henri pierangeli bastia hurle disons nous  ce qui revele defa une lacune grave de la convention proposee au surplus il apparait comme evident selon la juste observation de m pierangeli que la tarification kilometrique est une duperie toujours repoussee a l epoque ou le tarif kilometrique des chemins de fer etait tel que nous n avions rien a perdre a une assimilation et parceque disait on la distance en matiere de transport maritime ne joue pas le meme role que dans le transport par terre on l applique aujourd hui et au moment ou le tarif des chemins de fer est devenu prohibitif  au surplus il ressort du premier coup d oeil que nous ne nous apercevrons des bonnes clauses de cette convention que dans quatre ans en viron tandis que les mauvaises nous seront appliquees pendant cette attente    il ya bien matiere a discussion ca n est pas niable  bastia journal  j ai lu avec toute l attention qu un pareil document comportait l expose des motifs de la nouvelle convention relative a nos services maritimes postaux a vrai dire je ne m attendais pas a cette publication en ce moment rien en effet ne laissait prevoir il y a 15 jours seulement que nous etions a ja veille de voir voter par le parlement le projet de loi d'ou devait dependre tout notre avenir d'insulaires '  si je me rememore les phases anterieures celle qui a precede la convention de 1903 celle plus recente qui preceda la convention du 25 juin 1920 si je me reporte enfin a toutes les periodes qui precederent chaque nouveau regime de nos services maritimes postaux je demeure eonfondu devant la facilite avec laquelle on a pu faire la conspiration du silence autour d une question que l opinion publique corse avait toujours si passionnement suivie  cette opinion ne saurait comprendre en effet qu au moment ou le probleme de nos relations avec la france continentale entre dans la phase parlementaire aucune preparation aucune consultation locale n ait eu lieu et qu on engage l avenir socia et economique de notre ile pendant 20 ans sans avoir d abord entendu les doleances et des corps elus et desgroupements interesses  c estje le repete la premiere fois que nous sommes surpris par l annonce d une discussion aussi precipitee  si cependant l expose des motifs qui precede le texte de la loi proposee s etait inspire de quelques unes de nos revendications s il avait laisse entrevoir qu une amelioration allait etre realisee sur le passe ceux qui comme moi n ont jamais temoigne d'un optimisme exagere auraient pu convenir que somme toute nous pouvions saluer comme un progres l avenemerit de la nouvelle convention  mais qu i nous soit permis de le dire ce projet de regression contient des lacunes il porte des dispositions dont il estdu devoir de la presse locale de signaler energiquement le danger a qui de droit  l action francaise en 1914 ori ne voulait pas croire que la guerre fut possible en 1926 on ne veut pas croire que le franc tombe a moins de vingt centimes puisse en vertu de la loi de pesanteur qui a deja agi sur notre monnaie tomber a deux liards et a zero le gros dela nation refuse meme de se rendre compte du fait que la monnaie legale a perdu les quatre ciiquiemes de sa valeur et que de ce dernier cinquieme il faut encore deduire pour calculer sa reelle capacite d achat les 40 pour cent que represente felevation de ce qu on appelle les prix mondiaux absolument notre franc ne vaut plus qu a peine douze centimes   cette situation il n y a peut etre pas un francais sur cent qui s en rende compte ce qui peut se traduire par cette formule  un pays ou le president dela republique croit qu il gagne deux millions par an est psychologiquement incapable d un assainissement financier monetaire   ne comprend meme pas  et comme il ne comprend pas la signification des choses visibles lui echappe la democratie ne comprenait pas non plus ce que voulaient dire les preparatifs militaires de l allemagne et ce que voulait dire par exemple l ultimatum a la serbie ainsi l on put afficher sur tous les murs de france quand la mobilisation fut devenue inevitable que la mobilisation n etait pas la guerre  de meme qu on repete aujourd hui que l inflation n est pas la banqueroute   sor quoi la democratie compte t elle en 1926 comme en 1914 sur un miracle une idee simpliste ignorante et paresseuse une idee de foule veut que l on s entire un matin par quelque operation magique  un  mais les miracles financiers sont encore plus rares que les miracles militaires d ailleurs un miracle de la marne lui meme s il podvait yen avoir un pour le franc nous laisserait comme celui de 1914 avec toutes les consequences de charleroi ces consequences dix departements envahis et ravages  nous sont restees integralement de meme si par une intervention miraculeuse le glissement de notre monnaie venait a s arreter la destruction des quatre cinquiemies du franc resterait acquise et c est deja un desastre suffisant  la livre au dessus de 136 francs le dollar a 28 ce sont des chiffres qui n avaient jamais ete atteints ce sont des records qu on se mette bien dans la tete qu il n y a pas de raison pour que la livre ne soit pas a 150 a 1 500 a 15 000
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="15" type="art" xml:lang="fr">
+    <p>
+     la revue de la corse janvier 1926 mon cher confrere  en vous temoignant toute ma gratitude pour je concours bienveillant que depuis six annees vous avez bien voulu apporter a la revue de la corse je vous prie de bien vouloir cette fois encore accorder a la note ci jointe paimable hospitalile de vos colonnes  l actif et perseverant directeur de la revue de la corse m a clavel nous fait part dans le n 36 de decembre 1923 terminant la vle annee de son irrevocable determination de renoncer en presence de l augmentation incessanie el exorbitante des frais d impression a la continuation de l oeuvre regionaliste qu il a creee voulant assurer jusqu au bout malgre les pertes subies la dignite toujours maintenue a sa publication il a fait paraitre un dernier numero plus important que les autres et des plus interessants avec onze gra vures et les remarquables articles de ses savants collaborateurs que le manque de place nous empeche d'enumerer  nous deplorons amerement cette regrettable decision mais nous apprenons toutefois avec satisfaction que la revue dont les corses ont apprecie la haute valeur historique et litteraire ne cessera pas de paraitre et que m a clavel tout en conservant ses bureaux et sa librairie de la corse a remis la charge de continuer celle interessante publication a un groupement corse de paris qui l editera desormais  a clavel
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="16" type="feu" xml:lang="it">
+    <p>
+     voi altri meridionali costumate come i selvaggi che per raccattare il frutto tagliano lo albero mirate un po i genovesi  non si chiamano contenti finche non hanno schianiato i baroni  dopo i baroni ecco il popolo  che non sa od abborre le vie di composizione  ed ecco per ultimo il principe  che piuitosto che reggere con giusto impero  si da in balia di potesta straniera  a questo menarono le stemperatezze cosi dei popoli come dei principi in italia     sigaor inglese  salvo vostro  onore  vi diro che dallo anteporre che voi fate la vostra gente alla nostra  anzi a quella dell universo  vi lodo molto   ma che vi serviate della vostra predilezione per crescere la soma dei gia troppo carichi  questo va contro alla carita ed al giusto  alla carita  perche bisogna  compatire i miseri  non avvilirli  contro il giusto  perche ho letto che i vostri re quando ci si misero fecero di tutto  e guglielmo  il tegolaio e giacomo paglia informino che cosa importi anco tra voi fidarsi a pergamene regie giurate o non giurate  sigillate ovvero senza sigillo  e quando il popolo prese la rivincita non mondo nespole  che non si tenne prima di avere giusti ziato re carlo  cosi un capo regio saldo il conto di due capi plebei  e non fu caro  egli e vero  che il re condannareno i giudici a modo e a verso e i plebei mandati alle coltella  ma cio non vale  nelle faccende di stato  sicarii o giudici  mannaia o pugnali sono tutti una cosa  rimane inteso sempre che  con le  solennita o senza  il vinto ha da morire  e il coltello in  questi casi parmi piu spiecio  sopratutto piu sincero  quanto poi a chiamare lo straniero  voi ce lo chiamaste merce le  nozze di maria con lo spagnolo   ce  lo chiamaste quando  cacciato li ulti   mo stuardo dal trono  vi commet   teste alla fede del suo genero olandese   ce lo chiamaste  quando morta la regina anna andaste ad accattare un padrone in germania  quasi ve ne mancassero in casa vostra   celo chiamo giacomo ii  e potentissimo e cupido dello altrui  sicche dalla dominazione straniera vi preservaronoo la tempesta  o la morte  qualche briciola di virtu  ma di prudenza ne anche un chicco  leggiamo le storie anche noi altri  sapete  e leggendo  e meditando  siamo yenuti nella sentenza di pregare dio che non ci voglia male   imperciocche allora i  senno degli uomini diventi cenere ed il ragazzo spacchi la testa al gigante   tl signor boswel rimase percosso dalle parole del frate  e non ardi  per allora rispondere   seguito un lungo silenzio  durante il quale la destra del signor giacomo era ui via va un via  vieni dalla tabacchiera al naso  quando non ci trovo piu tanto tabacco  che bastasse ad essere preso tra il pollice e le indice  ne verso ogni residuo nella fossetta che contraendo i nervi si fa tra la iggiuntatura della mano col braccio  e tiro su su da riporne i granelli in mez2o al cranio   alla fine quasi a a dispetto disse      signor frate  io ve lo confesso schietto  da prima quanto si trova nelle mie vene di sangue avvocatesco  e tutti ce ne abbiamo anche troppo  si era risentito per disputare ogni virgola e ogni punto del vostro discorso  ma poi pensandoci su ho veduto  che nel sottosopra voi avete ragione  ringraziovi per tanto di avermi annacquato il vino della superbia  e questo reputo tale guadagno  che  quando non me ne venisse altro  io giudicherei non avere giitato dalla finestra tempo ne danari nel venire in corsica   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

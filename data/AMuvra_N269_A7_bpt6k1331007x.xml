@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1331007x
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1331007x
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 269 | Année 7
+     </edition>
+     <date>
+      1926-10-30
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     sanu VII — N u 269  a a | “Esce ogni déce iorni | u : 30 Uttobre 1926 . sisondd DES: Cè .  GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI :  In Corsien. « + +. .... . ,... . .'12 franchi  Francia. à ~~. &lt;&gt; pù &lt;&gt;. 1. 15  à PEsteru. ......:...:.. . 230 »  U Numaru; 5 soldi  Direttore: Petra ROCCA
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="fr">
+    <p>
+     comment m marlier fait de l union latine sputi une monstrueuse machination policiere fusto ndi la verite sur la manifestation  anti italienne de bastia  nous nous excuserons d abord d ecrire cet article en fran gais mais comme nous l ecrivons uniquement pour les iustucrus qui ne savent plus se gargariser qu'en sabir on com prendra que nous delaission pour une fois notre riche et pro cieux dialecte   la manifestation du 19 sep tembre n a ete connue du pu blic et de la graride presse que parun compte rendu d une fan taisie debordante publie dan vobservateur du lendemairi  le n de cejournal que nous qualifieronsdespecialoffraitde  ja n premiere page un grotes  que article d un autetr qui ne nous est pas inconnu intitule en italie attentat simule bombes policieres la far ce est grotesque a la troisieme page sous le titre pompeux de nofre cable on pou valt lire le fameux telegramme  provocateur annoncant queles livournais avaient oblige le commandant du liamone a  baisser le pavillon francais eta  hisserle drapeau italien ce tex legramme sans provenance autait du emouvoir ce nous sem ble monsieur le procureur de la republique car it eonstitue une excitation de l opinion pus  blique contre unenation amie excitation pouvant amener les suites les plus graves nous donnons ces mentis details afin de faire tenir au lecteur le fil d ariane qui lui fera saisir sur le vif la machination poli fiere que fut cette manifesta fon nous accusons en eftet  o formellement monsieur marlier prefet dela corse connu  archiconnu  65 et orbi  pour la retentissante histoire  lon encore tetminee de l as 2ssinat du fils de leon daudel d avoir monte cette affaire  itr les conseils du forcene ita lphobe moro dit de parsa vapae grassouillette de moro de giafferi  nous reviendrons l ailleurs sur la darigereusemame de ce celebre represenkat de 1a corse  le  pour la mise sur pied de la  i estation noustenons les is de la bouche meme le l organisateur m fernand inbardi  qui les confiaa un de nos amis sur les molles banquettes du cafe gasparini a bastia ses qualites  si nous osons nous exprimer ainsi   de fils de renegat italien d ecrivassier passe partout capable de noircir un papier avec un egalmanquede scrupules pour le bien de jacques ou le mal de paul et de farnelique jeune homme  poursuivant  avec acharnemient sur le seuil delatrentaine le croutoii sustenta teur le designerent tot natutellement aux fonctionnaires policiers et aux bas politiciens qui tramerent cette affaire pour jouer le role en apparence trop lourd pour sesepaules d agiteteur    i il ne fut donc pas difficile aux officiels tentateurs de faire  miroiter aux yeux eblouis du maurice rostand bastiais une plaplace de choix en rapport avec sa distinction physique  pourlesvomparses un peu de provende aspergee a droite et a gauche pour les mentis frais generaux et des promesses ba byloniennes qui se realiseront a poques ou a la' trinite   adoric  voici notre heros en catipagne de buvette en tripot le voici semant la parole de haine et anonnant les faux tele grammesredizespar une main aussi experte qu'officielle   i som effort porta uniquement sur la basse pegre italienne qui empoisonne litteralement bastia fuorusciti presque tous condamnes de droit commun lelendemain au rendez vous fixe a 1a salle de l assistance publique 250 de ces chenapans etaient presents mais tes lauriers du le flaoutter en miniature devaient etre fauches a ce moment car des competiteurs au capitanat manifesterent aussitot l intention de fai re elire un comite  des mentons bleus de la politique du journalisme et meme du volant poserent aussitot leur candidature repeterent a la foule les memes merisonges  incendiaires et le cortege des 250renegats d'outre mer grossi  d une cinquantaine de bastiais parmi lesquels au moins tesi te pecheurs napolitains prit bravement le chemin du con ulat italien garnisonne par un vice consul et un secretaire la foule des badauds naturellement coulait au long des trottoirs et donnait aux profanes l impression d une importante manifestation  si  il n en etait rien pourtant car a hauteur du consulat seul un groupe de zoo hommes osa se porter en avant   la manifestation fut nettement anti italienne les eris de abbasso savoia morte al duce a bas pitalie furent pousses avec une ferocite sans pareille par des gosiers de nationalite motinee les couleurs italiennes furent criblees de pierres tandis que quelques forces de police jouaient la comedie du service d'ordre il serait inutile de nous etendre longuement sur les incidents des quais ou quelques malheureux de ces navigateurs qui parcourent les mers sur de lilliputiennes balancelles et qui fournissent a bastia le gros de son commerce furent lachement interpelles    nous n aurions point parle meme a titre documentaire de ces incidents si dans l appel du comite provisoire inexistant redige par le sieur lombardi etsigne par ij signor pietro sbolli nous ne nous etions sentis nettement vises le hasard voulut que le chotiment suivit de pres car notre collaborateur serafinu rocca fencontrant fortuitementj organisaleur de la fameuse journee lui demanda des explications au sujet de la matamoresque menace que comportait son manifeste et pour quelles raisons alors qu il etait de fiotoriete publique que son frere terrasse parune grave maladie etait au lit depuis 50 jours lui et des comparses de sa valeur a vaient  cru bon de se livrer a des atta ques aussi inopportunes que commandees avec insistan ce par le palais lantivy le sieur lombardi ayant eu alors un vague geste de menace il se vit secouer d importance et il fut contraint d avouer de vant la foule tres nombreuse a ce moment la qu il sta qu un renegat   en realite nous fe pouvons rendre que pour de la c  en aton le passage ou le comite brovisoire veut nous designer lans son appel puisqu il n est as coutume d aller au klondice pour manifester contre des ens qui habitent le sahara trouver s ils veulent se faire chatouiller les cotes a leur guise e di  d'autre part nous prevenons charitablement m marlier qu il assume la un role d excitateur dont nous pourrions lui demander compte plus tot qu il ne pense qu il sache que nous avons sous la main les amis  necessaires pour l embarquer sur un tacot de fraissinet a la premiere occasion son gant crasseux de policier a ete jete subrepticement dans l arene nous le relevons   a muvra
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="2" type="let" xml:lang="co">
+    <p>
+     lettare a lumbrigone  e stampatu u libru di e lettare a lumbrigone di u nostru pueta maistrale  ne sorte novu framante di e furnace di a muvra  un libru di 22o pagine impastate di roba corsa     tutta a corsica cunosce u talentu di maistrale  un sunador di rivergule  di mandulina e di cialamella chi alza teatri corsi di und ellu passa  e canta e  sona pa a patria corsa   45   state a sente a prefazione fatta da ellu stessu    in cortu  u me libru  fate contu di vede una cappella duva si canta  a vocerivolta  li usi antichi  lingua di a liberta  a patria corsa  a chi un vole sente ste canzone  stia luntanu da me cu me da a focu   5    aso prima lettara e di u ro maghiu 1923  a corsica rie ca   qui si suda pocu e si carpaassai        la ultima e diu 3o jinhaghiu 1926  napulione  quandil imperatore venne da lu altru mon  du a rimette ordine  pace e benista in francia  un centu di lettare in tuttu e piu distinte duva spampilluleghia a fierta corsa  una prosa chi pare un  cantu di gloria un mazzulu di fiori posti sopra a le altare di cursichella  di  da 1923 a 1926  truvarete  in se leftare  tutt e nuvelle  tutti li avvenimenti di a nostra isula  elezione  caldu  frescu  magnuscula  feste  piantazione  esami  impiegati  pastori  ecc   tutti si fatti so cuntati ci una  penna allegra cume da un vostru parente strettu chi vi tene caru   ci e murale a la antica  amor sinceru e studiu fine  ogni cosa e sirvita in di una frittella chi rinchere   a gioia     ogni lettara e cume una campagna a pro di a corsica   u pannu  le alimie  e pipiniere     7   le 72 la agricultura a nostra lingua    du   tutte so un mudellu di litteratura chi ristara cume esempiu a e giovane generazione   ci e spiritu paisariu  agutu e ridiculu  una mina di risate     maistrale cunosce u tigliu 22 tn e di ognun di noi  a so penna e cume un pinnellu chi vi dipigne drentu e fora     quessu ha fattu u pastore  disse un picuraghiu  una volta     bi cridia un vecchiu sapiente  li dichiaro u banditu micaelli chi un manca di bonu sensu   voi sapete tuttu  e cumi bo sapete di li affari in poche parole      infatti e pitture di maistrale so fatte cu poca pasta ma cu assai virita  tal e quale   u talentu di u pueta marignanese e oramai cunsacratu da tuttu u populu corsu   i paesi sani lu accoglienu cu archi di trionfu   sti favori so una prova chi a so prupaganda e sana e pura   e lettare a luimbrigone satanu prestu compre e ricircate   u libru un costa ca 1o franchi a la stamparia di a muvra 
+  s
+    </p>
+    <docAuthor>
+     L. M.
+    </docAuthor>
+   </div>
+   <div n="3" type="the" xml:lang="co">
+    <p>
+     a signatura di zia catalina  cumediola tragica in i baruffa e 5  inciuffati    dedicata a ghianettu notini  in casa intorn a ziglia di novembre zia catalina lucchini posa in culionu e teni in manu  un ardoisa    scrivi ci un pezzu di biancu e parla cu stizza     zi francescu  u maritu  posa an nant un scambellu e dormi u capu ar rimbatu a una cassita   ir inciufata  zia catalina  in furia    e magiuscu  lu   e magiusculu  oh  mi so sminticata  e stu magiusculu chi mi castica   e talmente inturchiatu e atturcinatu che un me possu mai invena   diavulacciu      un lacciu qui    e ghjira e voglii    un nodu cula e po un altru cappiu        zi francescu  scitendusi     un cappiu da strappati u collu  sangue di la miseria   un sara mai finita quista la canzona         zia cafalina   veri subitu scitatu  di puri ciocehe tu voli  a me signatura   zi francescti   a to scemmia o    o  o    mugina     zia catalina       ci voli che imparia falla   zi francescu   a settanta cinque anni  a  zia catalina    a settanta cinque anni  tre mesi cinque jorni    e megliu a qualchi tempu che mai   zi francescu    un ti basta piu a sape fa la cruci cu a piuma   zia catalina   un mi basta piu   zi francescu    pa yinfernu  un faci piu altru da la mane a la sera   pardoisa in grembu    si tu avissi tanta primura di a to pignata  e  zia catalina    ti da fastidiu    zi francescu   sicuramente chi mi da fastidiu a to spaternustera    e lu maginculu oghie       zia catalina   emu magisculu    zi francescu       e lu magiusculu dumane     zia catalina    ellu magisculu    zi francescu    un si senti piu cal  tri   un cheti che per magna e sempre semu a ricuminciola  chi a toia la lingua  dina salvilun e mai stanca in   casa  un ci si campa piu mancu la notte    le  zia catalina   un ti riteni nimu  zifraucescu   sii un pocu raghiunevale   ha principiatu di veranu  conta cui diti   marzu  aprile  maghiu     zia catalina    maram  aprile maghiu         zi francescu     ha seguitatu di istatina  jugnu  lugliu  agostu      zia catalina     jugnu  gliu  agostu     zi francescu    ha perseguitatu di vaghiimu   sittembre  ottrovi  novembre   zia catalina    sittembre  ottrovi  novembre    oe    zi francescu  tucchemu a dicembre e sempre ne semu a lu magiusculu   zia catalina    ellu  magiusculu  mai piu chetu capischi   zi francescu   passara la invernata  vultara e po rivultara u veranu una volta  dui e in sempeternu      zia catalina    e in sempeternu       zi francescu    e be  mi tagliu lu collu si iu iripari a scriva u fo nome nanzi di renda la anima       zia catalina    parchi     zi francescu  parchi     a voli senta      se capra    zia catalina   so      zi francescu    capra ti aghiu spusatu   zia catalina    o signore  zi francescu    capra ti aghiu strascinatu e ti strascinu   e  zia catalina    cioccheavia da sente infine di li me jorni      zi francescu    capra ti si pigliara i 28 pr e u signore     zia catalina   salva   si faci a cruci  7  zi francescu    e capreandare     zia cafalina  in paradisu     zi francescu    in infernu  chi mi ha sempre casticatu e devi  si ellu ci e un diu justu cula in su  pesa u di tu  purga lu me peccatu  pa lu saera mentu       pesa li occhii  signore  so quarant an ni di galera chi aghiu  passatu  vi rem du testimoniu   inciuffata it  cumari ceca zia catalina zi francescu    zia catalina    passa e veni cu l ar  doisa in manu   pari chi ella aghi u di avuli a dossu       coghiu di beccu   so u troppu posu e a ticchiina chi ti hannu datu tamant orgogliu   nanzi unavii tanta porraca  ma trattavi lu zapponu e urulava la fame in i to minucci     zi francescu     chi era surtitu si affaca da la porta   u  mi ha missu tu lu pane in casa cu a to lingua a rustaghia o prusarpi    si ritira   cumari cecca    entri lestra  alo  alo chi so sti canzoni  tutti li vicini so in asculticchiu e si ridinu di  vo  fetila  finita  o  nt    zia catalina    un aghiu primura  o cuma  a tuntia un si po para  epiatta e piatta ci voli chi ella si faci cunnoscia  ma chi sapeti vo  cosci curtu   oh di quale mi era impazzita  era statu megliu che mi fussi trapentata da un ponte    i   zi francescu   sfunati o  capro  cu to magiuculu    sorte     cumari cecca    un briuneti chi feti accoglia lu paese     zia catalina     piu forte  oh quale mi si ha guditu  oh lu me fiore  la me giuventu in manu a quale         cumari cecca    chiteti o cuma     zia catalina    aghiu da chita     ma vo uri li aveti intesu   tamant a arasii  si e afuscatu lu celil   ha dittu mire o cuma  ha dittu e ripitutu chi eju lu aghiu casticatu  eju  chi un aghiu avutu  a sapeti be  che  strapazzi in tuttala me vita lu aghju casticatu  eju chi aghiu vivutuin i pettini aconcia lana per crescia la me famiglia comu  diu voli    2    so capra eju  si avicina da la porta  ah ma tu se lu sinnatu   ha raghione chi ti so stata sempre fida  beccu simile un divia sta cociu   un ti mancava cilagni e fruntalizzu da purta una bella incurratura  pa a  zi francescu    un ha truvatu chi se troppu brutta  ne  cumari cecca    alo  alo o  cumpa andeti un pocu luntanu    le  zia catalina   so bratta  avete be intesu o cuma    7 a e  zi francescu       brutta di mucchi le  brutta di anima e poeu pulita di lingual     zia catalina    oh a macanatu   basta  lu asinu chi chiama pitaghiu lu cavallu  ne  zi francescu    un fi vo apressu chi se     ma   gin   culita         zia catalina   un ci facciu casu chi  un hai piu ju foia a locu      cumari cecca     tracciendusi veri sula porta  oh li vecchii pazzi  a piu persa so eju di circa di metta la pace  forsa v intazzareti       zia catalina   bonu viaghiu o cuma   un vavia chiamatu nimu  si vo un aviati tantu linguittatu e missu male    7  cumari cecca     da la porta  eju  linguittatu eju missu male  o biatu sant antiocu  o  zia catalina    si vo unaviati sempre missu a vostra sguerza  5  gimiari cecca    sorte     a mei sguerza  alora seti capaci ditutiu  zia catalina   un sariami a stu  passu     zi francescu   a stu passu tha ghiuntu lu maginculu  va finimu sta cumedia  a bastanza e durata   zia catalina   lu agbiu da finiscia sunaria la corra si  e tempu chi eju mi sfochil aghiu mi a pappula grassata subr a u cori  so capra ha dittu so capra avia da spusa a te o becc ucchia si eju ti avia li me occhii aparti   mi man e  cava soga la intelligenza  si era andata a i scoli e a li cullegi si cuntava  pudia     essa diritrice   zi francescu    oh chi tu perdi u    salaghiolu    sorte    fala u tindonu
+  s
+    </p>
+    <docAuthor>
+     Simonu d'Aullè
+    </docAuthor>
+   </div>
+   <div n="4" type="poe" xml:lang="it">
+    <p>
+     pulitica  i giorni scorsi un pollastrone mi domandava   spiegazione della signora detta   politica   e dicia     cosa significa      inogni via  per ogni anghione il molinaro  da un cicerone se ne diverte      cosa significa   di parlar tanto sopra politica   lr ciavattino e il carettiere  da diplomatici pien di sapere piu non ragionano che di politica   amico taglio cosa significa    ii zappaghiolo il muratore   nelle campagne ea tutte le ore piu non si tratta chi di politica amico dunque  cosa signifiica     il magistrato    come il pastore  ii prete ancora  l istitutore  sempre discutano questa politica or dimmi amico cosa significa    il servo ancora come il padrone t  mendicante come il ziccone se la discorono   sopra politica amico taglio   cosa significa   nelli paesi o nelle cita        han giorno e notte rogna a gratta e tutto questo non e pulitica amico taglio cosa significa     e pugni e schiaffi e bastonade sovente ancora archibugiate per questa ignobile brutta politica amico ormai  cosa   significa    quante fridezze gattiv azzioni   hanno comesso tanti briccone per questa porca brutta politica su  su  mio caro cosa significa    PS straziata  la poverina  da tutto il mondo sera e matina non so piu cosa questo significa   di straziare tanto politica  e donna onesta   o una grisetta   e donna seria  oleggieretta   questa signora detta    politica rispondi ormai cosa significa 
+  s
+    </p>
+    <docAuthor>
+     Paoli di Taglio
+    </docAuthor>
+   </div>
+   <div n="5" type="poe" xml:lang="co">
+    <p>
+     quadretti  castagne  in un nulu tn sole sta nfossatu    filtra po li spugliati primaticci   luce a castagna in vorn di li bicci   regna un rumor di cartone stracciatu   ruspendu in fila  la spinu calatu  venu li englidori sepz inticci   u padrone  con manicu pisatu  di raspaghiola  mostra i cascaticci    un zitellettu cure i sumerelli   e ribocca in le balle  li spurtelli colmi di u frattu a tutt i corsi caru     utmide  in mezzu a euscoglinle e pruni   e castagne  cume belh occhi bruni  sembranu piegne un rimproveru amaru   
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="6" type="art" xml:lang="co">
+    <p>
+     u furmagliu venaghese  sta mane versu 9 te u sgio  matteiu guiderdoni impieg   4 u canada ci ha invitatu a fa un spuntinu in onore di i so 29 anni  ne   ne  eramu prisenti  u sgio duttore luciani di mocca croce  u so chauffeur  paulu guiderdoni  cipriani u scarparu  matteiu guiderdoni e pergola  u spuntinu fu eccellentissimu  a prisuttu rossu cume una carotta e a furmagliu merzu di zigliara  arrusatu di vinu novu e becchiu  imbutigliatu di molti anni  a sposa guiderdoni ci servia cu molta amabilita  e avemu rimarcatu chi tuttu u so piacere era di taglia in pienu u prisuttu e u furmagliu merzu  tutti i nostri ringraziamenti a  mi  e madama guiderdoni     quandu eramu a u furmagliu  u duttore luciani disse  raramente a olivese aghiu magnatu farmagliu cusi bonu   o sgio duttore  disse cipriani  lu aghiu magnatu megliu u 27 agostu scorsu  vigilia di a nostra festa  se bo un cridete a me  dumanderete a ziu giuvanellu  u cantuneru  state a sente a passata  eramu in piazza di a baracca di pasqualellu  u bancalaru  frai quali ci era lisandru foatellu  mariu micheletti  pasqnalellu  giovanella lucianu  pergola e ejui  fecia un caldu malignu  ma quantunque lu appititu ci era  lisandru disse   seria un gran mumentu di magna un bucunettu  servera per ghiudica si u furmagliu chi pergola  ha purtatu da venacu e realmente cos ellu dice  eju e micheletti avemu dettu   si pergola mette u furmagliu   andemu a circa u vinu vecchiu  pergola ha dettu   u furmagliu ci e  a cundizione chi u cantuneru pigli u lonzu  giuvanellu sentendu parla di vinu vecehiu e di furmagliu merzu si avicino  e  disse  so di accordu a spezza u lonzu ma  cio chi resta u mi portu in casa mea   tutti cunsentinu a mette u prugettu in esecuzione  ognunu fece u so pussibi le per puita cosa avia prumessu  pasqualellu u bancalaru disse a anghiula maria a moglia  fa gira sa roda chi io areti sti cultelli   si elli taglianu i cultel   ii  pocu lonzu riturnera in casa  lonzuinfiucatu  furmagliu mezzu venaghese  pane frescu di ziu muse  e cultelli arru dati  tuttu era prontu in tavula  a pre ferenza fu data a pergola in qualita di  furesteru chi taglio una fetta di lonzu piuttostu minuta per tastallu  ma  a $e  conda volta cumu i cultelli tagliavanu  per so partea u cantuneru  li resto a funicella in manu  bense u tornu diu furmagliu venaghese   bulendu piglia a vindetta di u so lonzu  giuvanellu fecia come niulinchi a la uva  di quellu vinu chi sciapava e petre  versu a fine di u spuntinu  u sole era ghiuntu in baraeca e avia pichiatu in capu a futti  ma u piu a 6 cartuneru chi dumandava  a anghiula maria a cugnata  chi ora  ell era  a braghetta spuntata e a camis gia di fora    un    a mane di a festa giuvanellu truvo u so amicu lisandru  e li dumanda cum ellu si sentia  lisandru  disse benissimu   su spuntinu di eri mi ha campatu   giuvanellu  disse a me  u spuntinu mi ha tombu   sappia chista notte sa sta  tu tre ore cu u mio ci    a mogliu   sof fru da e merodighe e u picante diu furmagliu venaghese mi ha infugulitu e stintine  ti juru  chi mai piu magneraghiu di sa roba  se tu ne hai  disse li sandru   e po sai  o giuvane  un si face micca cume te  chiu ti vulia compie tuttu  si ne lescia ancu per u ghiornu dopu  cumu dice o lisa  hai vistu u mio lonzu   un aghiu mancu  si bo di tastatu  allora  o giuvane  dalli  solamente chi u to e    ne paghera e pene sappiachi venaghesi hannu fattu l im pussibule  e credu ichi u furmagliu fa cia listessu  a o    chine dite  o sgia duttore  di quesse e passate    1    umbe  disse u duttore luciani  dist storie  di furmagliu  un avia mai inte su e po  quatidu trovu a giuvanellu 1 feraghiu i mio cumplimenti      
+  s
+    </p>
+    <docAuthor>
+     Lucianu Pergola
+    </docAuthor>
+   </div>
+   <div n="7" type="poe" xml:lang="co">
+    <p>
+     a mammona  e a figliulina  la a mammona o la mio speranza sela   corri  corri  corri qui       corri qui ta mio figliola dammi un bagiu a pizighi  la piu astuta  la piu cara   abbraceia ja to cacara    o cume tn si grandone ava pari una signora   a figliulina si caccia   u cappellu e u mantellu  o beatu sant antone    i me ma chi e chi cusi adora   e le  se braccie cusi scutechie     poi un hai piu treccie  le  o povera figliulella anpcu tu si impinzutita   o cume si mal vistita si vede coscia ed ascella    u sanghiozzu mi strangola ti pudia manda a la scola   un bulia sente discorsi pigliava la to difesa  e di  chi io nun guerdava spesa per perdene l usi corsi    ni dai un colpu murtale o quantu mi faci male    a figliulina  uf i state zita o missiva site sempre a la antigogna a donna troppu era schiava emmencipassi abbisogna  e piglia la direzione  di la casa e la nazione   a la moda si vieghia  e si seguila ne progressi   oghiel omu ci fideghja  cume un cane corre apressu  un ha piu decisione   divinta cume un pingone      gi tagliemu li cabeli  e purfemu lu bastone  e per fa cume i zitelli    metteremu u pantalone   cure li omi un semu ceghi  ancu noi vulemu impieghi   simu forse indietra ad elli  no on pudemu cummanda   un simu pin sciucarelli  chi mi hata da dumanda per esse lu mio maritu  un sara mai tant ardito    j a maminona ah  mi pare che tu ciarli  so que discorsi alla moda  li mariti per truvalli a donna indiziu approda ciedu lu meglin piacere e di ave caste manere   guerda lu iallu pumposu   cume face a la iallina    lu omu ti sent e scerzosu a dice    a donna sempre si inclins cum un fior a tramuntana  eli toccala suttana 3   quande ti averai figlioli belli stretti a lu  o senu nerifletterai a piena    a cio che tu credi e bali  so que falze pantumine chi bolenu fa ruine   si met everai zitelli  li darai le educazione gh una forte   strazione da duttori o eulineili penserai  o cara tandu  a levalli ju cummandu   a figliulina ma mettitevi in le ide e     a mamrmona  basta ehiei in casa mea    di
+  s
+    </p>
+    <docAuthor>
+     L'Orsu d'Orezza
+    </docAuthor>
+   </div>
+   <div n="8" type="art" xml:lang="co">
+    <p>
+     frasche vecchie  ma   batti  un si arrangia      in una cumuna di a casinca a battaglia   eletturale  si presentava particularmente  accanita per li elezzioni municipali di 1924    i dui pertiti eranu pufenti  e u spiritu individuale di ogni elettore  zirbu notte e ghiornu in le sgheze diu prisuttu e bagnatu in le onde di u vinu vecchiu  era a u colmu di a pazzia  di quellu di e donne un vi ne parlu perche mi caccierebinu tutte li occhi  eppuru ci vole chi io a dica  una di st ultime  a mio cumarona maria mertina  a moglia di batticelesanu  u scherparu  era piu che terribile  per ella  era necessariu di lutta fin a lu ultimu fiatu  sinno si sarebbi scatinatu plutone   un si par  lessi di accordu  di intesa e moltu piu po di tradimentu     i    ora un so per chi raggio  u rumore si sparse  a un mumentu datu  chi i dui capi pertitu  si eranu precisamente intesi per evita ogni discordia   o oo ps  cumare venne a sape chi ci era     arrangiamentu            ah  ah      si so arrangiati  disse allora ella asciuta  asciuta  si so  arrangiati   ma batti un si atrangia  e ci volse a lufta  fi
+  s
+    </p>
+    <docAuthor>
+     Rustincu di Loretu
+    </docAuthor>
+   </div>
+   <div n="9" type="feu" xml:lang="it">
+    <p>
+     ai genovesi disperditori un gior ro della potenza pisana  ai genovesb che misero a un pelo  la rovina  della veneta  temuti padroni dei ma  fino a caffa ea trebisonda  ora  fimangono le mani per limosinare   a spada straniera che li difenda o  per trattare lo stiletto  in prima troaono grigioni e svizzeri  dei pri j da ne vennero dodici compagnie  mo  secondi tre reggimenti  e fu per  i ee tornarono anco piu tardi  e tata a  ioni  la repubblica nego bali con altrettanti corsi  noial lora li liberammo senza compenso  a patto che le tre leghe non mandassero gente ai danni nostri  questo promisero   e questo mantengono  e noi ciloderemo degli stranieri quante volte non si mescolino nelle nostre faccende in bene ne in male    partiti gli svizzeri  i genovesi ricorrono alla francia  e le chiedono gente per due milioni  poco cacio fresco  poco san francesco  gli fecero capaci che piu di tremila soldati non ci incastravano ed anco per breve tempo  genova rispose  per ora basterebbero  il conte boissieux ce li condusse  il canonico orticoni e giampietro gaffori  wotro dal cuore di ferro e dalla bocca di oro  a nome dei corsi scrissero  al cardinale eleury  che novita era cotesta  o come ci entravano i francesi  che volevano dai corsi    i francesi  che ai tempi di enrico ii mandavano navi  armi e soldati in soccorso dei corsi combattenti contro genova per la liberta della patria  que  dessi che  non potendo piu combattere per noi  spedirono danari a sampiero  e  le bandiere col motto pugna pro patria per  confortarlo a durare nella guerra   si signori  quei medesimi sotto luigi xv  interprete dei serisi loro il cardinale fleury  scrivevano ai corsi  sottomettessersi ai legittimi padroni genovesi  poco importare  come lo fossero  bastava il possesso antico  e la conferma delle potesta straniere  non essere lecito resistere ai principi stabiliti da dio  e il sacro testo parlar chiaro in proposito  i mali delle rivoluzioni superare di lunga mano qualunque incomodo fosse per partorire la obbedi  enza  pero essi non  mirare ad altro che a sottoporli di nu6vo alla repubbica  che gli acconcerebbe pel di delle feste    o francesi  o fran cesi  ofrancesi  diro tre volte come fece creso quando condotto a morte chiamo solone   e piu non voglio dire   tanto e  i francesi vennero in fregola dfenfrare pacieri  invano i nostri dichiarano ogni accordo con genova torriare loro piu amaro che morte  invano  concludevano co  maccabei volere piut tosto morire che contemplare i mali del popolo  e   vollero un  memoriale che spiegasse in che si dolevano  e come intendeseero che ci fosse riparato  e lo ebbero  poco dopo domardarono utto ostaggi per sicurezza che il regolamento o lodo per la pace sarebbe stato osservato  par  ve  e fu duro patto  ma gli ebbero  e mandaronli in francia  allora venne illodo  e il conte boissieux impose ai deputati lo approvassero a nome di tutti i corsi  i deputati rispondevano  che  i corsi non gli avevano investiti di tanta autorifa  e quando  gli avessero  non  poterlo fare se prima non vedevano lo scritto  qui ilconte da nelle stoviglie  e  minaccia bestie e cristiani  non crediate mica che fosse un tristo il conte boissieux    egli era francese  allora sentite il ripiego  attela su la spiaggia del mare i suoi 3ooo uomini  ci chiama il commissario genovese  e poi commette al suo ajutante di campo goumai lo legga ad altra voce  e in italiano  poi parendogli questa solennita fosse poca  or dino a parecchi suoi mandati che lo leggessera ad alta voce alla foce di quanti piu monti potevano  questo lodo era una cosaladra  concedevasi un tribunale di giudici forestieri  ma il senato aveva a sceglierli  i corsi pagarli  le condanne ex informata conscientia abolite  ma data facolta ai genovesi di arrestare e tenere in forze isospetti  la francia e la austria mallevavano lo adempimento del lodo  salva pero la sovranita della repubblica su la corsica  tempo 15 giorni a deporre le armi  e accettare  altrimenti guai  avete visto i cavalloni  che dianzi si cacciava davanti il libeccio  tali voi dovete figurare che fossero i corsi raccolti a orezza per sentire questo siupendo portato del cervel  lo francese   il boissieux per mostrare chi ei diceva da vero  manda 4oo uomini a marana per operare il disarmo  egli si apparecchia a correre la biguglia coll altra gente   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

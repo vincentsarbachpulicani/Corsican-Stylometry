@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330791z
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330791z
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 198 | Année 6
+     </edition>
+     <date>
+      1925-04-05
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Sest'annata — Numaru 198 i Esce a Dumenica | Dumenica, 5 Aprile 1925  MUVRA  GIURNALE DI E. PIEVE DI CORSICA  ABBUNAMENTI :  In Corsica. ... . - - . - . . + +. . 12 franchi  In Francia. . . . .......... 15. »  A VEsteru. . :,, .......... 25 »  U Numaru:4 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  38, Corsu Grandval 38. — ATACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     sicondu centennariu di pasquale de  paoli 5 aprile 1725 1925  babbu di a patria   chi bellu nome     stu nome di oru u populu corsu   populu liberu  unitu e cungregatu   in segnu di alta ricuniscenza  la ha datu a un corsu   stu corsu e piu grande di i veri corsi       u piu grande un fu  ne sambucucciu di alandu  ne sampieru di bastelica  ne marcu napulione   no   man cu napulione    per chi quellu  natu corsu fu un cesare francese rinegetore di la idea corsa  u primu lume di i so vint an u piu grande di i nostri e pasquale paoli  u figliolu di un paisanu di castagniccia  natu  ingrendatu  fiuritu e sfiuritu e interratu in terra corsa       paoli e la ala di a nostra sterpa  j  aia gloriosa chi sulleva all aria la anima di un populu eroicu pregna di virtu rumana   ci ina palla rossa  u distinu ladru li trunco u volu   di un  colpu di falcione u furzutu diccennullo e speranze pronte a spiga  a  ma fin chi ellu ci e fiatu ritreghianu le aure di e sacre speran ze   u cinque di aprile 1725  le aure cantavanu  cu li acelli  nantu i pulloni  chi adombranu merusaglia  a quellu cantu spunto un fiore  u figiolu di tacintu chi duvia da   a la isula piccula e corcia una piazza splendida nu a storia di u mondu     1   o corsi  guai a noi  sino ci scurdemu di festiggia fanniversarii di i nostri maid      o  piseti  anfarti  fratelli  chi vergogna sulenne per soi  sie nostre labbre stanu chiuse e mute davanti u veculu di  u duce supremu  corsorum supremus dux  dice u latinu     aid  figlioli di a listessa mamma  andemu in pelegrinagpiu in merusaglia  a quelha tasa antica  demi un piuseru  un bagiu a quelle petre chi  duie cent anni fa  palpitonu quandu nasci pasquale    pe biensenu  quandu u tonu   lampo a terra sfracassatu     fieri di u nostru passatu ascultemu a voce parlante di u so epitafiu    il padre della patria e qui sepolto  la dove nacque ei giace   il pio voto di cirno e sciolto requiescat in pace 
+  s
+    </p>
+    <docAuthor>
+     Prete Carlotti
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     de  paoli e u pueta  quandi u pueta corsu picchio a la porta di u paradisu  pasquale de  paoli  u babbu di a nostra patria  li sbalango la intrata e e po li disse   qui si canta ogni sera   eternu cantu   par prighera si dice   a muntagnola    ma conta   e bera chi fra guai e piantu  cirnea si trov abbandunata  e sola 2 cumu sta corti   e bastia   ed ajacciu   e bera  a patria e divintata un straccia   allora u pueta  stancu di ave cantatu in vanu  apri aso brisacca e caccio i scritti di i patriotti   a prima fu  a muvra   chi cu e so corne ha datu da corre a tanti bastardi  a vera chi sona u cornu di a liberta   da  tantu chi ell e biastimata  u pelu li luce       e poi li fece vede li apostuli corsi   pincu  u strampalatu  martinu appinzapalu  di altimonti  minicale  nottini  olivieri  angeli  paoli di tagliu  lucciardi  e maistraie  e po tant altri  a  de  paoli basgiava a tutti e di tutti era cuntentu e fieru  ma vulia sente e nutizie  tutte e nutizie corse   allora u puetali cunto      a patria un esiste guasi piu  a majo si ha magnatu a chjuca   a nostra lingua e tutta piena di pruni e di arbaccia frustera   in piu li si e affaratu una malatia chi vene da mare inla     u castagnu e distruttu e macillatu e vindutu par apisentu  a castagna face a pena in corpu atutti  i e  a scola di a liberta  di la indipindenza e sarrata  tempu e di trova sumirina e di rinchini   i paesi si spopuleghianu  a chi scappa a purta u zanu militare  a chi corre a mettesi pumbasti di lu impiegu      u pilone e persu  a moda ha vultatu u ciarbellu a e donne   e raccolte so bundante dilamaghioni e di prunalbelli  u pane di lu orzu  e mortu  e suttaratu  i mulini  senza tettu  guardanu ti celu e piegneriu     bonannata e di parcittori e di carta bullata   quessi crescenu cume a rimigna   e strade e i stradoni si facenu  ma a le culunie     a francia tene caru u scogliu corsu  la isula  di noialtri si ne passa  ne   a roba cumprata e distinata a esse vinduta  vinduti o rigalati saremu da dumane a dopudumane    e      a nostra padrona ha a morte apressu  i topi si hanu quasi ruzzicatu a bandera corsa    ava si vede a volpe annant a i chjrasgi  ma unu sconciu face uri  acconciu    u ritrattu di a patria e pessimu  ma curaggiu  grido u pueta a sumente e posta e a stella luce    
+  s
+    </p>
+    <docAuthor>
+     Maistrale
+    </docAuthor>
+   </div>
+   <div n="3" type="poe" xml:lang="co">
+    <p>
+     un pelegrinaggiu  a merusaglia   di  mesi scorsi  in merusaglia  ghiuntu per occasione     a la casa di de paoli   cun rispettu e divuzione   per duvere e per omaggiu   ci andeti in pelegrinaggiu   appena francatu a ziglia mi sente cummove u core  pensendu che mi truvava in casa di u fundatore  di sta patria tanta amata   e sempre piu venerata   vidi quelle sale biote chi mi fecenu pieta   e micca  o pochi ricordi cari  ci pobbi truva   da u dulore che ne sentu u mio core sbruccia in pientu   dopu ave scrittu a u registru so passatu a la cappella   duv e un bustu di de paoli   cula  nant una chiappella  in dinocchie mi lampai   e pienghiendu li parlai      vurrebbe sape da voi   paoli  cosa pensate di a cundotta di li corsi versu le cose passate   puderanu esse accusati  cun voi di esse troppu ingrati    vecu che li scappa u pientu   e  colmu di emuzione   face  trinnighendu u capu   gesti di cumpassione   si asciuva  si sporga  e dice   ma cun eria assai felice     un credu chi abbia da fa  ci una persona impuriuna  nemenu ci un temerariu   chi  senza ragione alcuna   trovi gustu a discitammi nunda che per annuiammi    di li corsi uh mi ne lagnu mancu di a so indifferenza   chi nun ghie  ne aghiu le prove  che un pocu di negligenza   dunque un ponu eese che amati  e da me sempre stimati  sl    tenenu a lu so paese   ghie la cosa principale   di i so antichi ne so fieri   e pertuttu in generale   e nostre glorie passate so da ognunu venerate     schiavi di la so parolla   all amici assai fidati   so li corsi tutti apparu ben visti e cunsiderati   ciocchi piu li face onore   certu  e di esse omi di core    uli trovu piu che un difettu chi cuncerna u so parlatu   li ignurenti e li struiti  ava lu hanu abandunatu    e un si parla in stu paese   piu ne corsu ne francese   si elli mi stessinu a sente   in dinocchie i pregheria di parla cume i so vecchj    sinno prestu all agunia cirnu si ata da truva   priva di ogni liberta       quellu chi lascia a so lingua mancu tene a la mamma    un e lu to casu  o corsu   dunque un sta sordu a sta chiama  e ghiura chi u to parlatu sara  intattu  cunservatuz  li feci un altra dumanda chi mi stava troppu a u core   per sape cosa pensava u nostru legislatore   di quell enime valente  chi so  in golu sempre errente  li vecu aggrunza le ciglie   e un rimproveru mi aspettu     ma  mi disse in sottuvoce   per pietta iu so dispettu      forse alzaste a tanta gloria   una croce per memoria     mi sentu infiara all istante u mio voltu da u russore   provu a circa qualchi scusa   ma un ci ne e    cum e  signore  paoli  dund e pigliatu   averaghiu sunniatu   forse si  ma se parolle so la pura verita    di un pensa piu a i nostri  eroi ci duemu vergugna   e dipoi riposu un trovu   o morti di ponte novu     
+  s
+    </p>
+    <docAuthor>
+     G. P. Lucciardi
+    </docAuthor>
+   </div>
+   <div n="4" type="div" xml:lang="it">
+    <p>
+     ritrattu      visse sobrio vigilante operoso  bella e complessa la persona  ne curva per gli anni  che le  conciliavano venerazione ma non ispegnevano la bellezza  la fronte alta pinsosa e serena  segno di ampia mente ed onesta  capelli lunghi  sopracciglia folte  e nell aggrottarsi terribili  occhio  ceruleo  guerriero  acuto fino in vecchiaja  sguardo intenso  severo  o  soave come volesse  la  forma e lo atto delle labbra indici di  7  bonta e di fermezza  colore chiaro e vermiglio  pace nel viso e modestia  e sincera risolutezza  capace di maschi risentimenti  voce sonora  piacente  pronunzia posata  scolpita  tremula nello sdegno  dignitose le maniere e cortesi  il gesto rado  celere il passo e franco  vestiva abito largo  decente non pomposo  di color verde con oro  cavalcatore non destro  poco sedeva  ammesso taluno a colloquio  passeggiava seco senza parola  per dare e aver tempo al pensiero  nel parlare brevita pronta  ed affabile  non soverchiatrice  come del buonaparte  dire preciso  fine  talvolta eloquente  semplice sempre  nel piglio sicuro e imperioso  autorita da chetare le querele ed imporre silenzio  umore piacevole  frizzi ingegnosi  ma non prurigine di facezie  e diceva che il riso rielle cose politiche denota sciocchezza  sorrideva  anzi che ridere  un sorriso arguto e li avrei voluto vedere nell atto chi elesse le parole delle arcade  marat  il quale chiamo iui  dico il paoli  homme exiravagant ei sanguinaire  l ingegno desto  ed ornato  se disadorno lo stile  sapeva passi di antichi a mente  sapeva di storia  e le inglese leggeva il pope  elo swift  e la sua libreria  per la scelta  era la lode dell uomo  a scrivere gli si rompeva la testa  dettava  e non molto   io sento  solea dire  non ragiono     ma sentendo  ragionava sulla provvidenza di dio  e sulla lingua de bruti  discorreva su vari soggetti  franco e fondato  e non sapeva mai il di del mese  ma il popolo tenevano chi egli antisapesse il futuro   senti le ammirazione  la gratitudine  la amicizia  patriota  parente compare  non gli erano nomi vani  le parole amorevoli nelle sue lettere son parche  e per questo efficaci  sebben trite dall uso 
+  s
+    </p>
+    <docAuthor>
+     Niccolo Tommaseo
+    </docAuthor>
+   </div>
+   <div n="5" type="art" xml:lang="co">
+    <p>
+     vita di pasquale de  paoli  nasci pasquale de paoli in 1725 a la stretta di merusaglia di rustinu  u babbu di pasquale  ghiacintu  era statu a ucapu di a grand insurrezzione corsa ma  dopu a disfatta di i corsi da maillebois  si rittiro in napuli  cu i so dui figlioli clemente e pasquale  fu in sa citta  inn u i loghi stessi chi bidenu u splendore di u geniu latinu  chi studio u giovanu pasquale   a lepuca chi ellu studiava  cu  minciavanu a sperghiesi  e famose ide e di voltaire  di roussea u e di montesquie u  ide e chi passate in u so cerbellu cirnese  persenu tutt u so velenu  e conservonu tutt a so bella significazione         elettu ginarale di u regnu di corsica  paoli lascio napuli per bene in corsica duv ellu sberco u 29 aprile 1755 a so amministrazione fu maravigliosa  paoli  cum ellu dicia napulione    avait reussi a faire renaitre a u milie u de la mediterrannee les beaux jours de sparte et di athenes    as corsica smaraviglio tutta la auropa  in un isula cusi chiuca  si videnu in opara tutte li istizioni di un regnu ideale   istituzione chi mai avanti si eranu viste altro  cunobenu i corsi  allora  ghiustizia  struzione  pace e prosperita  cose chi lu eranu sempre state tolte    creo paoli un universita in corti  centru di pisula  a u capu di a quale messel omi piu sommi di la epuca  e pe a quale avia fattu fa un pianu minuziosu di studj  e di a manera di insigna  u scopu di st universita era di da a la valurosa e studiosa giuventu corsa una direzione patriottica  x  incuraggi la agricultura  fece fa strade  fundo la isula rossa  creo una muneta naziunale  fundo una stamperia e un ghiurnale   stabili un mulinu a polvara e una fabrica di erme    a u puntu di vista murale  calmo e numicizie di e famiglie  nimicizie chi eranu a piaga di a corsica      ma quand ellu si sfurzava di da a la so nazione e stituzioni chi servia u di mudellu a la auropa fu suscitata un altra guerra       umiliati di a so disfatta i genuesi si vultonu versu a francia e chersenu u so aiutu  a francia occupo u furtezze di san fiurenzu  calvi e aincciu e  pocu dopu  cumpro a a republica ligure i so dritti sopra a corsica     a l annuncio di tale nutizia  paoli cunvuco una cunsulta generale chi dicchiaro  chi i corsi  un si lasceerebbenu bende cum una banda di pecure   tutti patriotti risposenu a liberta o a morte      u marchese di chauvelin avia  appena iuntu  dicchiaratu   ribellu tuttu corsu chi un si serebbe sottumessu ala francia   a guerra cumincio  dopu a suttumissione di u capi corsu  chauvelin assalto in listessu tempu nebbiu e marana    a  i corsi  chi eranu in loreto  si lamponu nantu i francesi  e i spazzonu di a casinca  i patriotti  sottu a u cummandu di clemente paoli  i perseguitonu fin a bastia puglien  duli prigiuneri e cannoni   in nebbiu u nimicu fu cacciatu di oletta  e i nostri si impadtuninu di san fiurenzu  patrimoniu e barbaghiu   pasquale paoli dede ordini a u fratellu clemente di attaca subitu  per cuntene u generale chi occupava a strada di nebbiu   i francesi  chi finianu a borgu  attacconu tre bolte  ma funu rispinti  tn ne piezze  in ne cherrughj  e in  ne case  a lotta fu crudele   i battaglioni di chauvelin funu rotti e polverizzati da e milizie corse  ste miliziej duve ci eranu ancu preti e donne  funu  eroiche  mille e ottu centu francese  tra morti  e feriti  ristonu nant u campu di battaglia   a guerniggione  di borgu cumandatu da de ludres si rese  lasciendu a i corsi  seite cente omi e binti cannonni   a vitioria fu cumpletta  paoli ne a le onore eternu    i corsi vincitori pruposenu a pace a choiseul  per risposta  u ministru di francia  mando un altru generale  u conte de vaux  cun nove truppe     tandu  paoli chiamo a li ermi  tutt i p omi di sedeci a sessant anni per salva a patria       paoli purto u so quartieru generale in merusaglia  de vaux u seguito   lacie  tre ghiornu le ermate si guerdonu senz attacca  de   vaux cumincio tattaccuma dopu una lotta di itre dre  i francesi funu rispinti cu perdite  cinque volte  i corsi i fecenu rincula  ma a la fine de vaux  piglio lentu e canavaghia        e     lu oru di a francia e i traditori dedenu u colpu mortale a l indipen za corsa  i taliani di la epuca  hapu indicatu i mezzi impiegati pe a cunquista di a corsica  cu su disticu famosu     gallia vicisti   profuso turpiler auro   armis pauca  dolo plurima jure nihil   chi traduce be i fatti   de vaux avia accampatu annantu e custere cu di arcambal in ostriconi e marboeuf prontu a lampassi in casinca   u quertieru generale di paoli era in rustinu  clemente paoli cupria a bocca di sant antone e i paesi di bisinchi e pastoreccia  gaffori era ne ponte leccia   lu ottumaghiu  i patriotti impazienti di cumincia a battaglia  collanu fin a lentu  in duv eranu i francesi  ma de vaux  li st mette appressu  la ala dritta di i francesi  stabilita in canavaghia  si move anch ella  i patriotti si voltanu   ma un ponu rissite a la mitraglia pinzuta  ingutupati fra dui fochi  i patriotti falonu fin a pontenovu per franca u fiume  ma nant u u ponte  ci eranu i prussiani  chi sirvianu sottu a  paoli cu i miliziani corsi  chi per malintesa  o per furza quelli chi fughianu a tene fermu  tironu sopra a elli  malgradu u culunelli gentili  u disordine fu spavintosu      da rescamone paoli bide golu rossu di sangue di i martiri  e a morte di la indipendanza  chi ella avia vulsutu da a la corsica   a cunquista di u nostru paese fu da su iornu cumpita   paoli parti da corsica u 12 iughu  1769  quand ellu sberco in livornu  cunnobbe tutt a simpatia chi un populu italianu  avia pe i so frattelli corsi  curria u populu   quasi frenetico  or qua  or la per dove  dovea passare  non mai saziandosi di vederlo  denendo acclamato da i piu sensibili  ed ammirato da i piu riflessivi  e finalmente da altri compianto per la sua boca furtuna  in quest ulmi incontri  avendo dato bastantemente a cunoscere le di lui operazioiii  quanto  aveo saputo adopraisi  per rendere libera e culta una naziane stata per l addietro serva e ignorante    di altronde  un solu a folla li rese st onori ma ancu i scrivani italianii piu grandi di la epuca   lorenzu  pignotti cunsacro a l   invitu eroe  una magnifica poesia   vittoriu alfieri dedico a u   prugandor maguanimo dei corsi    a so tragedia timoleone     dopu vint anni di esiliu  quandu fu permessu a tutti patriotti chi avianu lasciatu cirnu dopu a vittoria francese di rientra in li so rughioni  paoli parti da londra induv ellu si era ritiratu e si rese in pariggi  qualla fu presentate a luigi sedeci chi li dede u titulu di tenente generale  cu u cummandu militare di corsica   ma u iornu u piu caru a u padre di a patria fu u iornu chi ellu sberco in macinaju di capi corsu  tandu si messe in ghinochie e bagio a terra cirnese tant amata           guvernd allora a corsica  segondu legge francese  ma su guvernu fu cortu  perche subitu bensenu i flagellu di revoluzione sanguinaria     fu ciochi l alluntano da i principj revuluziunarj  preferi da a corsica a la inghliterra chi a guverno dui anni   durente a duminazione inglese  paoli avia duvutu turna un altra volta in esiliu  si era difinitivamente ritiratu in londra in duv ellu morse u cinque feraghju 18o7 
+  s
+    </p>
+    <docAuthor>
+     Mattei Torre
+    </docAuthor>
+   </div>
+   <div n="6" type="div" xml:lang="it">
+    <p>
+     lettera a cocchi  isola rossa  u 7 xmbre 1768   mai dunque cesseranno le diffidenze  credono che possa aver mano per sot  toscrivere il contratto della servitu day la mia padria   mi credono cosi poc  attaccato ed impegnato a sostener que   la forma di governo che e quasi tutia mia opera   mi credono cosi poco sen  sibile all atroce ingiuria  fattami  o che sia cosi imbecille di mai confidare nelle promesse della corte di francia    ne miei scritti  assicurate pure che non parlo il linguaggio del cuore  ma quello che conviene alla povera padria  alia quale convienne che io temporeggi a me riesce di vieppiu animare il po  polo  facendogli vedere che  non ostan  te la sincerita delle mie intenzioni per la pace  li francesi sono sempre  duri  perche ci vogliono come pecore  arr  vai al punto che quasi non mi restava piu che mio fratello  e non cedei  e cedero ora che traluce qualche speran  za   ah  mi credano piu onesto o piu ambizioso  mi credono di intelligenza con i francesi  nel tempo che questi non lasciano mezzo per far privare di vita me e mio fratello   si insospettisco  no perche tratto bene i prigionieri  ne ho le mie ragioni  e dovrebbero essere informati del mio modo di pensare  non saro mai inumano perrappresaglia   fra questi prigionieri ci ho degli amici  che al par de  zelanti corsi detestano questa guerra  quando sarete qui col vostro abito di marinaro  resterete persuaso che io mi regolo bene nella circostanza  il maggior timore sapete quale e   se i francesi conoscono che la inghilterra voglia prender parte  essi non mancheranno subito di far patti larghi  ed asserire di trattar sull antico piede  a voi noto  se io rifiuto  li lor partigiani ingrossano il partito   i buoni  se non vedono scoperta e dichiarata la inghilterra  diranno sempre  ma cosa volete aspettare  ci offrono i presidj  ci vogliono riconoscere liberi e idipendenti  e non volete accettare   avrei bel dire allora   i francesi vi ingannano  e vi mancheianno come per il passato  rifiutiamo la offerta  prendiamo a forza  questi presidi   si riderebbero di me  e mi direbbero  cosa perdete a trattare lo accomodamento su tal piede  bisognerebbe che io fingessi di ereder di buona fede i francesi  e destramente mantener il popolo fino a fargli scopri re la astuzia e malafede del nemico  se io avessi rifiutato assolutamento lo armestizio propostomi   li avrei sbagliata presso  il popolo a  ma se osserverete bene la mia risposta  la troverete equivalente ad un rifiuto  pare a voi chei  francesi volessero abbandonare i posti chge anno  e farsi bloccare ne presidj   eppure questa mia risposta  inorpellato con termini apparentamente moderati  e stata graditissima al popolo  ognun conosce meglio di ogni altro il suo paese  se pero  in tempo delle proposizioni che potessero fare i franeesi  la inghilterra si fosse dichiarata  allora si che sarei inteso  ed il popolo per mano de francesi rifiuterebbe ancora il paradiso  oh quanto ognuno sarebbe invogliato di vendicarsi e del disprezzo che di noi anno mostrato e della su perchieria fattaci  non mi conviene dra prender tono alto  abbastanza dicono al popolo che ei sostiene una guerra  chi   non ha altro oggetto che la mia ambi zione privata  questi sono i discorsi di zerbi  di buttafoco  marengo e peres  boccheciampe ed alessandrini  ma se una volta potessi dire  abbiamo una potenza che ci protegge  e che vedesse rouna qualche squadra in questi mari  i  popolo non sentirebbe che a me  che mi fa le onore di credermi zelante della sua liberta e del suo bene  ho detto al padre maestro che faccia de giornale   io non ho tempo  sappiate che dormo vestito da che sono princi  piate le ostilita per aver comodo di alzarmi la notte a scrivere  altrimenti il giorno e poco  in una burrasca com questa  devo aver lo occhio sopra tul  ed accorrere a tutto  noi non siamo   greci  ma il re di francia e potert  quanto il re di persia  ed usa la for  e le arte per vincerci  non trovate sim le il ritratto delle inglese   ma voi dovet   sapere che io era allora e sono ancor  molto cambiato  sarebbe un bel colp  se di improviso uscisse il corsaro che  segnate   farebbe un tesoro  finisce assicurandovi che  se dio non mi ca  bia il cervello  i miei amici non si 251o7 siranno di me  e sostenerd la causa de la  liberta ancorche mi vedessi sotto bn mannaia  se la machina mi neghe   i coraggio comune a tanti granatiefi  le mie massime mi conserveranno quello che distingue gli onesti uomini de 4o7 li parla orazio  justum et tenace i
+  s
+    </p>
+    <docAuthor>
+     Pasquale de Paoli
+    </docAuthor>
+   </div>
+   <div n="7" type="div" xml:lang="fr">
+    <p>
+     une visite a pascal paoli je parvins enfin a la vue de sollacaro ou etait paoli et je me sentis en approchant rempli de trouble et de timidite mes idees sur cethomme celebre avaient ete fort exaltees par les conversations que j avais eues sur son sujet avec des liabitatants de l isle de toutrang et de tout etat qui tous s etaient accordes a le representer comme un etre au dessus de l humanite je desirais avec ardeur pouvoir juger par moi meme d un caractere aussi grand aussi distingue mais je craignais que le motif de ma visiteet la presemption que j avais d aller l importuner ne me fit paraitre bien petit a ses yeux j eus presqu envie de m en retourner sans le voir ce combat de sentiments differens m agita et m occupa l esprit pendant que je traversai le village et jusques au moment que jarrivai a la maison qu il habitait   je laissai mon domestique avec mes guides et passant les gardes je trouvais quelques uns des gens du general qui me conduisirent dans une antichambre ou je vis plusieurs cavaliers corses qui l'attendaient   m boccaciampe lui avait annonce mon arrivee et l on m introduisit dans sa chambre je le trouvai seul  son air me frappa il est grand robuste et bienfait sa physionomie douce et ouverte annonce de la sensibilite et de la grandeur d ome   ty sa dematche est male tous ses mouvemens sont nobles il etait alors dans sa quarantieme annee et portait un habit verd et or son usage autrefois etait de porter l habit ordinaire des corses mais a l'arrivee des francais il crut qu un peu d elegance et de magnificence exterieure pourrait contribuer a donner au gouvernement un air plus respectable mn   hl me demanda ce qu il y avait pour mon service je lui presentai la lettre du conte rivarola et quand ill eut lue je lui fis voir celle de rousseau il fut poli mais tres reserve  jai parle dans ma vie a bien des princes mais jamais non jamais aucun ne m a fait eprouver ce que je sentis ern la presence de paoli    i jai deja dit qu il est grand physiohomiste et par une suite du danger continuel ou ilest d etre trahi du assassine il s est fait une habitude d observer avec une attention extreme tous les nouveaux visages qui lapprochent      pendant plus de dix minutes que nous nous promenames ensemble en long et en large dans sa chainbre a peine dimes nous quatre mots mais il m examinait d un oeil fixe et percant comme s'il eut voulu penetrer jusques au au fond de mon ame  j avoue que cette entrevue me parut pendant quelques moments tres penible et que je fus bien soulage quand perdant peu a peu son air de reserve je le vis commencer a parler davantage  je hazardai alors de lui adresser oe compliment pour les corses je voyage monsieur lui dis je j arhve de rome apresy avoir va les ruines du peuple le plus cou i eux de la terre je viens ici contempler le commencement de felevation d une autre peuple qui re cede point aux anciens romains d valeur il recut mon compliment d un air gracieux en observant ln y avait peu d apparence que pa frs puissent jamais comme ch omains devenir un peuple pa rat et que teur situation da ip moderne systeme politique ais europe rendraient impossible  ten n empeche ajouta t il  que la corse ne puisse devenir un etat heureux et florissant  il marqua beaucoup d admiration pour rousseau que mr buttafoco avait invite a passer en corse pour aider la nation a former ses lois   quelques uns des  nobles enfrerent dans sa chambre et peu apres on avertit que le diner etait servi  le general me fit l honneur de me placer a ses cotes sa table etait de 15 ou 16 couverts ayant toujours plusieurs des principaux de l isle a manger avec jui son cuisinier etait un italien qui avait demeure longtemps en france mais il aimait a n avoir que peu de plats simples et solides et ne buvaitjamais de vins etrangers evitant avec soin toute espece de luxe  je ne pus me defendre de sentir une sorte de gene au milieu de ce cercle de heros i le general parle beaucoup d histoire et de litterature et je m apercus bientot qu il avait fait d exellentes etudes son esprit est orne d une grande variete de belles connaissances et la conversation a table etait aussi amusante qu instructive avant diner il avait parle frangais a table il se servit de la langue italienne dans laquelle il s exprimait eloquemment nous nous retirames dans un autre appartement pour prendre le cafe bientot je ne pensai plus a moi meme et ma timidite se dissipa a mesure que je fixai toute mon atfention sur cet illustre chefd une nation entiere i
+    </p>
+    <docAuthor>
+     James Boswell
+    </docAuthor>
+   </div>
+   <div n="8" type="div" xml:lang="fr">
+    <p>
+     pascal paoli les flots ont de nouveau vomi des mercenaires trainant comme un boulet peste honte ct miseres ei la mort du pays qui faillit au devoir  et livre a ses voisins les portes du pouvoir venez de l occident du levant et du pole  une derniere fois accomplir votre role  vous qu ont noircis l haleine et le sable brulant des arides plateaux du sombre continent     puisque seul par le sang ou peut feter des eri mes  le sang coulera donc et l aube sur les cimes rouge se levera quand sur l horizon clair  le maquis jettera un long et vaste eclair  justice et liberte droits du faible en tutelle  mots vides et trompeurs  fourberie eternelle  que n affranchit on pas ceux qu un desir per vers courba violemment devant cet univers  temoin desaliere mais qui toujours exise  qu a l antique bucher d autres corps on fustige  souveni sans grands desseins le patre et le pecheur savourent lentement dans sa rude fraicheur la manne d'un rocher que le soleil parfume l activite sans frein et la libre coutume  ils ne vont pas semer sous d enervants climats des tares des ennuis ou de tristes soldats  mais forts d honnetete o intteurs pacifiques dormiriez vous heureux sous des mots heroill  ques  d etre objet de piete seriez vous satisfaits  or l humanite rit et lesticux sont muets  un homme au iarge front s eloigne des recifs qui virent s eerouler ses vieux espoirs natifs 11 a fout engage dans la inttc inegale 5 voulant au moins fixer en cette heure fatale l acte viril et fier d un peuple de geants portantlefer vengeur sur de vils trafiquanis des compagnons sans foi ou ronges par l'envie oni lache pied et seuj noble coeur quoi tenie le chef parle evoquant du peu qu il a sauve  le souvenir des jours dont il est abreuve  je ne chargerai pas du fait epouvantable l un ou l autre canton le rendant seul coupable us furent tous vaillants du cap au niolo pourtant chacun de nons di mal porte son lot certes en implorant di maitre qui gouverne l eponge de l oubli sur notre ile hors d ha sr me  eine je pourrais renegat jeter quelque faveur poison cent fois plus st que celui du vain di i e i si je vous trahissais pires rois ef monar  ef 1  ques viendrajent me prodiguer de souveraines mar9 sg 7 e ques  teserais honore  et ruine je fremis de penser qu a cette heure un cupide ennemi souille nos morts sacres et de la corse inerte ses siecles de combats et d incessante alerte et je vais indompte ou me poussent les vents et du froid de la faim le penibles  tourments  d aucuns glotifiant l infortune cruelle qui fondit sur les mieris et chasse ma nacelle assurent qu aux parias simeme par l exil le doigt de dieu reserve un lendemain viril musion sans fin   ecoutez les hlasphemes   la haine des proscrits des vicux les anathei mes  et la clamenr croissant des peuples pressures foules au pied detruits par les rois rassures je vous exhorte encor ceux d'un ciel fatidique d expliquer par un mot quelque signe mysti e que  la raison d etre grand pour de nobles amis et voue an billot par tqus mes ennemis 1  vous ne repondrez pas et a travers les ages je revois defiler vision d'esclavages  le cortege infini des peuples erichaines prets pour fous les enfers comme de vrais damnes  je ne sais si un jour le monde en ses coleres se nettoiera des loups des renards des viperes degageant du travail de la selection i les fronts males epris d emancipation  je ne sais quand viendra le progres sans ferule mais par le sang bouillant qui dans mon ceur circule  je jure que jamais rien n'ira engloutir  cette masse en granit qui guette l avenir  il ne m appartient plus le demain insondable qui verdissait mes ans ef l etre charitable qui m offrira le toit et un morceau de pain ne pourra que nourrir mon elernel chagrin  si mon reve est douleur si mon corps se cons  x sume  je sens pourtant bruler dans des flots d amere val tume  la vindetta sublime et ce vivant brasier me defend de mourir et d apostasier  comme on voit des enfants grises par la fortone  jeter aux quatre venis for qui les imporiune ainsi des nations ivres du bien d autrui  et de boue et de sang crouleront sans appui seuls radeaux dedaignes dans la noire tempete les dechus de jadis releveront la tete  que je laisse au destin la noble mission d assurer a chacun paix et reparation comment utiliser les instants profitables quand le bras ef l esprit nese font redontables plustard jeme verrai recouvert d autres fleurs mais aussi je verrai bien du sang bien des pleurs  du fond de mon tombeau j eniendrai d auires plaintes tant que persisteront les penibles contraintes de scrupule et d envie imperceplible ecueil qui de lourds batiments est souvent le cercueil  et si la force est droil pour ceux qui ont ja force  terrassee ou debout resle forte o ma corse
+    </p>
+    <docAuthor>
+     F. C.
+    </docAuthor>
+   </div>
+   <div n="9" type="div" xml:lang="co">
+    <p>
+     lettara scritta a franceschi  casinca  4 ottobre 1768   ll vostro zelo ed onoratezza ha riscossi gli applausi di tutta la nazione  dalla quale sarete contraddistinto   ed io vi faro conoscere quanto vi sono particolarmente tenuto  se tornano a fare proposizioni indegne al nostro coraggio  fate dire per unica risposta   viva la liberta   state pure allegro  che lecose hanno cominciato a prendere buona piega  e si spererebbe fra non molto che i nemici fossero ristretti nei loro presidi 
+  s
+    </p>
+    <docAuthor>
+     Pasquale de Paoli
+    </docAuthor>
+   </div>
+   <div n="10" type="div" xml:lang="it">
+    <p>
+     lettara scritta a u conte rivarola  agostu 1768  in bastia aspettano a momenti quat  tordici in sedici battaglioni  e preparano di gia gli alloggi  vantano di aprir la campagna di buon ora  a queste notizie chiamai le pievi di questa giurisdizione  e di quella di aleria  furono prese alcune determinazioni  di cui vi acchiudo un ristretto       con tutto che vantino lo immediato arrivo di questo  rinforzo  mai cessano di sollecitarmi per entrare in un trattato di accomodamento  danno ad intendere che il re prometterebbe di mai piu rendere il regno ai genovesi  e di tenerlo senza la minima dipendenza da essi che per venti o trent anni nori esigerebbe alcun dazio  che tutto accorderebbe  contento dei vantaggi politici che siripromette di ritirare dalla situazione del nostro paese  con queste insinghe non guadagneranno il regno  l avversione e ora troppo forte  ed a segno che sembra diminuita quella che avevamo contro i genovesi 
+  s
+    </p>
+    <docAuthor>
+     Pasquale de Paoli
+    </docAuthor>
+   </div>
+   <div n="11" type="div" xml:lang="it">
+    <p>
+     lettara scritta a u conte rivarola  6 dicembre 1768  mai cessano insidiarmi la vita  ora che vedono scoperte parte delle loro congiure  detestano tali massime  ii galantuomo che mi prevenne del tra  dimento che il piccolo massese volea farmi in lucciana  mi ha prevenuto ora che chatuvelia e ammalato  credo che sia per aver veduto fallito il colpo anche questa volta  egli avea differita espressamente  la  sua partanza per francia  crede riuscir  molto dopo la mia morte  si ingana  i corsi sarebbero piu forti allora  benche per poco fossero apparsi confusi  come avvenne alla morte del mio antecessore  che divennero piu arditi e intraprendenti   le notizie le saprete dalla monaca  parto dopo dimani per nebbio se mi riesce un colpo che medito ci sentirete piacere  ora vengo avvertito che in nebbio macchinavano contro la vita di mio fratello  che perfidi   
+  s
+    </p>
+    <docAuthor>
+     Pasquale de Paoli
+    </docAuthor>
+   </div>
+   <div n="12" type="div" xml:lang="it">
+    <p>
+     al luogo natale  di pasquale de  paoli  era gia tardi quando giunsi a rosfino o morosaglia  con queste denominazioni si designano diversi casali disseminati sull aspra montagna  nel labirinto dei sentieri che  si perdono fra i boschi  con molta  difficulta trovai la via che conduce    va al convento di morasiglia  in   nanzi al convento  cosa rarissima  nei villaggi del paese  trovai un al   bergo dove conobbi un bravo gio   vanotto che me disse di essere ili direttore della scuola paoli e si offerse di farmi da guida   ij mattino seguente mi recai alla stretta  luogo natale dei tre paoli  visitando la casa paoli  noi comprendiamo meglio la storia dei corsi  e sentiamo per quello uomo illustre un ammirazione anche maggiore  la casa paoli e una vera e povera abitazione da contadini  che sorge presso ad una fresca sorgente  la casa costruita in pietre mal connesse  diroccata come una vecchiatorre  ha piccole finestre sprovviste di vetri munite di semplici imposte di legno  quando pasquale paoli acclamato generale dei corsi era atteso da napoli  il fratello clemente si preparo  a  riceverlo e fece mettere i vetri alle finestre per rendergli piu comoda la dimora nella casa paterna  ma pasquale  entrato nella sua camera  rimarco subito quel cambiamento e spezio col bastone tutti i vetri dicendo chi egli tornava nella casa di suo padre non come un gran signore  ma come povero figlio del paese   un giovane e modesto contadino della famiglia tommasi  parente di paoli  mi fece entrare nella storica casa  tutto conserva una rustica impronta  una rapida scala di legno conduce ad un modesto appartamento  si vedono ancora la tavola e le seggiole di legno che appartennero a paoli  io mi  sentivo felice nella piccola catnera di pasquale  piu felice che in quella ove nacque napoleone  e    mi figuravo quella grande e nobile figura presso le maschie fisonomie di suo padre e di suo fratello  fu qui che nel mese di aprile del 1795 il grande pasquale vide la luce  sua madre  dionisia valentini  bella e forte figura di donna  era nata presso quel pontenuovo che doveva essere cosi funesto al figlio  il padre giacento lo abbiamo gia co nosciuto   esercitava la professione di medico quando con ceccaldi e  giafferri fu nominato generale dei corsi  per le grandi virtu che egli stesso possedeva era ben degno di dare un tal figlio alla patria  oratore distinto egli era anche noto come poeta  fra il rumore delle armi quel genio vigoroso trovava ancora lo agio e la forza di staccare la anima dalle preoccupazioni di una dura reaita per abbandonarsi all ispirazione di una poesia alta e fiera che ricorda i versi di tirteo  ecco un sonetto che giacinto paoli indirizzava al bravo giafferri sulla battaglia di borgo     a don luigi giafferri    a coronar le eroe di cirno invitto morte discenda  e se gli inchini il fato    ei sospiri del lignre sconfitto diano alla tromba della fame il fiato   fatto appena di golo il bel tragitto   del nemico espugno fortesteccato   sprezzo i perigli  e al disugual conilitto virtu prevalse ov ei comparve armato  cirno lo scelse  e il suo destin gli arrise   e il gran litigio a cui l PSuropa e attenta ai suo valore  al brando suo commise   ti brando chi anche il fier destin paventa alyingrata liguria il crin recise    f  i scettro a cirno la sua man presenta   tutti questi uomini sono eroi di plutarco  simili ad aristide ad epaminonda e a timoleone  essi erano cresciuti nell azione e non nelle teorie  la alta nobilta dei loro principii aveva per fondamento la esperienza dei fatti   3  ho sott occhio un ritratto di paoli   non potevo rappresentarmelo al trimenti  la testa e forte e bella  la fronte alta  la capigliatura copiosa  le sopracciglia folte  un pu  cadenti sugli occhi  sembrano pronte a raccogliersi in una espressione  di collera  mentre i grandi occhi azzurri  rischiarando il viso imberbe  gli danno una espressione di doi cezza e di nobilta   la festa di paoli ha una spiccata somiglianza con quella dell aifieri  sebbene questi fosse  come byron  un aristocratico orgogliosoed egoista che dev esser collocato molto al disotto del suo contemporaneo paoli  del grande cittadino la cui anima serena riboccava di amore per la umanita  l alfieri possedeva un ammirabile energia  il suo cuore ardeva di odio feroce contro gli oppressori ed era quindi  assai piu di federico il grande  in condizioni di comprendere il carattere di paoli   frederico invio un giorno a paoli  in questa stessa casa dove mi trovo  una spada di onore sulla quale erano incise  queste due parole  liberta e patria   paoli aveva le amore dei libri e la sua biblioteca era accuratissima  era inoltre dotato di felicissima memoria  un vecchio mi racconto che nella sua infanzia passava un giorno per la via con un suo compagno di scuola ripetendo un passo di virgilio  paoli chi era per combinazione dietro di loro  lo tocco su di una spalla e cuntinuo la recitazione di un lungo brano   un gran riumero di particulari della vita di paoli corrono ancora sulle labbra del popolo  vivono tuttora dei vecchi che ricordano di averlo veduto passeggiare sotto i castagni vestito coll abito verde ricamato di oro  colori nazionali della corsica  e delsuo gilet di seta nera  appena egli usciva di casa era  circondato da una quantita di con  tadini che lo trattavano con la massima famigliarita  era affabile con tutti   ricordava spesso quanto dove  rimproverare a se stesso di esser una volia  rimasto per un ora intera chiuso nella propria camera  era la epoca in cui si combatteva la ultima guerra per la liberta   trovandosi a sollacaro affranto dalla stanchezza  aveva dato ordine alla guardia non lasciar passare nessuno poco dopo giunse alla porta una donna vestita a lutto  seguita da un giovane armato  la quale chiese di parlare al generale  ma la sentinella la respinse   richiamato dal rumore che si faceva nella camera vicina  paoli apri la porta e domando brus  camente alla donna che cosa volesse   signore  gli rispose la donna con una gravita piena di tristezza  sono madre di due figliuoli  uno e stato ucciso alia torre della girolata  valtro eccolo qui davanti a  voi  l offro alla patria  prendera il posto del fratello caduto   poi rivolgendosi al giovanotto    figlio mio  gli disse  non dimenticare che prima di appartenere a tua madre appartieni alla patria   e si allontano  paoli resto per un istante come trasoghato   poi raggiunse correndo la donna fabbraccio con emozione ela presento a gli ufficiali che gli stavano attorno  ripeteva spesso che non si era mai sentito turbato come davanti a quella magnanima donna   paoli non si ammuglio  il suo popolo era la sua famiglia  ebbe una sola nipote  figlia di suo fratello clemente  che dette in moglie al corso barbaggi  egli pero  che sentiva in modo cosi delicato  non doveva esser insensibile all amore  nutri una tenera affezione per una donna di alto sentire e ardente di patriottismo  alla quale gli vomini piu considerevoli della isola  venivano a confidare le loro congiure e le loro patriottiche aspirazioni  questa dama corsa nonaveva salotto  era una monaca uscita dalla nobile famiglia dei rivarola  un solo atto ci mostrera qual parte attiva essa prendesse alle lotte per la liberta  dopo la ardita conquista della  capraia  compiuta da achille murati  essa ne provo tal gioia che  volle recarsi iu quella isola a prenderne possesso in nome di paoli  il generale le indirizzo gran numero di lettere puramente politiche   per farsi un idea della grande attivita di paoli basta leggere lu sua corrispondenza  le lettere piu importanti furono riunite in un grosso volume da nicolo tommasco  esse rivelano uno spirito forte ed illuminato  pasquale non scriveva volentieri di sua mano  dettava come napoleone  stava raramente seduto  il suo spirito irrequieto non gli lasciavaun momento di tregua   la memoria di paoli e sacra presso il suo popolo  sentendo parlare di napoleone il cuore dei corsi si gonfia di orgoglio ma sentendo parlare di paoli il loro viso si illumina  come quello di un figlio al ricordo del grande e nobile padre perduto  fimpossibile che un uomo  dopo la morte  possa ispirare 4 tutto un  popolo piu amore e venerazione di pasquale paoli  e se la gloria postuma e come una seconda esistenza  quest uomo  il piu grande della corsica e di italia nel secolo xvii  e mille volte vivente  egli rivive nel cuore di tutti i corsi  che lo chiamano padre della patria   paoli forma un bel contrasto con napoleone  la filantropia opposta all egoismo  ad un cenno di napoleone milioni di uomnii venivano sacrificati per la sua gloria e la conquista  ma il sangue che fece spargire paoli fu sempre sacrificato alla causa della liberta  e nessun morto si alza dietro a lui per maledire   il ricordo di paoli non e illustre per battaglie   la scuola da lui fondata qui a morasiglia basterebbe a dagli una gloria piu bella di quella di marengo e delle piramidi 
+  s
+    </p>
+    <docAuthor>
+     Ferdinand Gregorovius
+    </docAuthor>
+   </div>
+   <div n="13" type="div" xml:lang="it">
+    <p>
+     lettara  a napulione bonaparte  bastia  2  aprile 1791  colla vostra lettera del 16 marzo k  ricevuto le stampe che mi avete tan dato  non vi date pena di smentire   imposture di buttafoco quello uomo un puo aver credito presso un popoli che ha sempre stimato le onore e chi ora ha riacquistata la sua liberta  ca nominarlo se gli fa piacere  egli un puo aspirare ad altra celebrita che a quella che cerco lo incendiario del tem  pio di  efeso  egli scrive e parla per far credere che qui ei sia di qualche conseguenza  se ne vergognano li stessi suoi parenti  lasciatelo al dis  prezzo e alla publica noncuranza   non posso ora aprire le cascie e cercare li miei scritti  d altronde a storia non si scrive negli anni teneri  permettete che vi ricomandi di formar  ne il piano sotto la idea che ve ne dari pabbate reynal  e frattanto  potreste applicarvi a far reccolta degli arine di doti e de fatti piu rilevanti  la nos  tra storia deve rilevare la sua im portanza dalla qualita de caratteri chi vi hanno figurato  per se medesima non e di alcuna conseguenza al letti   re  perche li suoi succesi etransazio    ni sono state troppo piccole  e qua   si indifferenti al gran mondo  ma si volete umiliare i miei nemici non avete che a dir loro che sono arrivi  to ad una certa eta troppo vicina 4 disinganno sopra le umane vanita e sono il primo a dire che di me sie detto troppo bene e troppo male  quel che mi si attribuisce di merito se ne deve la magior parte alli  zelanti pa  triotti ed amici meco impegnati nella buona causa  li miei nemici possono accusarmi di errori e svisti nella mia amministazione  non sono reo se la natura non mi doto di talenti  proporzionati all impiego addossatomi mio malgrado   mi fanno pero torto met  tendo in dubio la sincerita del mio zelo per  la liberta  non ho merito per essere stato disinteressato nel servi zio della patria  il denaro che ho speso per essa e quello che non ho voluto ricevere dall altrui generosita  conosceva bene io chi era meglio im  piegato per il mio onore che se ne avessi fabricate case ed ampliato il mis tenue patrimonio  son contento perche non mi rimprovero  e perche fn pochi anni la invidia e la parzialita  cesseranno di agitar li malevoli  e gli amici mi vedranno al coperto di tit  te le vecissitudini  e non andra mdr to che dovro dire  oh fossi stato mei noto agli altri e piu noto a me stesso  rebe  diu viximus  possano li futuii patriotti spingere tanto avanti il le merito che di me piu non si parli st non come di uomo che ebbe buone ir tenzioni  mille complimenti all abbate reynal  vi saluto di cuore    vostro aff  servitore obb 
+  s
+    </p>
+    <docAuthor>
+     Pasquale de Paoli
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

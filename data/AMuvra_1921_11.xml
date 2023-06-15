@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1921_11
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     nationalisme litteraire la nation corse existe elle domine intangible les evenements politique et les discussions humaines les hesitations des timides et les negations des aveugles volontaires comme les rocs de nos cimes elle se colore des teintes variees que lui imposent les aurores ou les couchants des epoques historiques mais sous ces nuances ephemeres qui ne trompent que les regards superficiels demeure le bloc inebranlable de l atavisme national les continuels assauts qu il a subis n ont mis que mieux en relief ses formes caracteristiques rudes peul etre et anguleuses mais imposantes comme les colossales architectures des laves primitives c l originalite de notre temperament les aspirations propres a nos esprits et a nos coeurs sont des signes indestructibles les luttes seculaires par lesquelles la nation corse a affirme sa volonte de vivre sont des pages indelebiles de l histoire a d autres de predire ce que dans le cadre de la nation francaise decentralisee l avenir reserve au nationalisme corse renaissant force toujours latente bientot formidable peut etre et d ou si elle est sagement dirigee pourrait sortir notre salut la nation corse de quelque facon qu on la concoive doit avoir une langue et une litterature nationale l heure est venue de grouper avec methode d eclairer avec zele de diriger avec ordre d encourager de tout notre coeur et de toutes nos forces les bonnes volontes dispersees ou hesitantes car le cote litteraire du nationalisme corse est des plus interessants le mouvement nationaliste et le mouvement litteraire n ont jamais ete aussi accentues depuis des annees l un a t il provoque l autre on ne saurait le dire tellement etroite est leur connexion quoi qu il en soit a la base de ces manifestations de notre reveil se trouve l imperieuse necessite pour tous de faire revivre intensement la langue qui doit en etre l expression la plus efficace que ceux qui ne croient pas a la langue corse parlent chinois si bon leur semble mais que les corses encore dignes de ce nom ne dedaignent pas de parler le langage de leurs pere et ne negligent pas de l enseigner a leurs enfants pour le perpetuer comme un depot sacre du passe comme l antique flambeau qui a eclaire le berceau de notre nation douloureuse et qui doit illuminer sur l autel de la petite patrie reconstituee l apotheose de nos heros tutelaires cette langue est celle de sampiero des soldats de paoli des morts de ponte novo c est encore un mot corse que nos martyrs de la grande guerre avaient sur les levres en mourant pour la france le mot le plus doux de toutes les langues plus doux dans la notre o ma cultiver la langue nationale c est montrer que malgre tout nous savons conserver notre personnalite collective celle ci se manifeste deja dans notre litterature regionale qu elle soit en langue francaise ou italienne elle repond mieux que toute autre a nos besoins intellectuels et affectifs fils de cyrnos lisez les ouvrages inspires a des corses par l ame la nature l histoire corses du fond du maquis embaume zilla nous appelle saveria et tegla vous sourient a travers leurs larmes n avez vous pas reconnu dans leurs yeux sombres l ardeur des regards aimes il y a mieux encore des poelts ont chante la corse ses beautes ses heros ses legendes et ses coutumes dans la langue meme de notre pays pourquoi les ignorerions nous alors que nous nous interessons a toutes les nouveautes francaises aux productions de cubistes dadaistes et autres deliquescents la saine philosophie de nos aieux leurs passions et leur heroisme revivent dans les oeuvres de lucciardi l esprit de grossu minutu petille chez santu casanova et maistrale pour n en point citer d autres les connaissons nous assez les apprecions nous a leur juste valeur il ne suffit point de leur accorder une attention fugitive dans la nation corse nous leur devons une place d honneur ils secondent le nationalisme corse en montrant au dehors qu il est legitime ils prouvent sa vertu on le realisant pensons y bien quand il nous faudra subir l epreuve qui nous declarera dignes du titre de citoyen corses nous devrons prouver que rien de national ne nous est etranger pour nous sauver il suffira d un couplet de spanetto ou d une strophe du cantu corsu tandis que les refrains de phi phi ou de mon homme dont parfois nous osons souiller la virginite de nos montagnes nous precipiterons dans les tenebres exterieures
+    </p>
+    <docAuthor>
+     Paul de Renno
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     catachjsimu regionalistu    cosa ci fu in oletta a u tempu di   pasquale de paoli   in oletta  i giuvanotti di u paese bolsenu manda fora e truppe francesi  a cuspirazione un fu abbastanza secreta e i giuvanotti di oletta funu arrestati  una  vintina funu straziati e mutilati da i granatieri pinzuti e po ammazzati annantu a    rota a colpi di barra di ferru e lasciati    le osse rote  senza sepultura in piazza a a chiesa   i corbi si manghjonu pezzu a pezzu i    martiri di a liberta   cosa e   maria jentile     un drammu storicu scritu da lucciardi di per che i corsi un si scordinu di u massacru di oletta   cosa fu a battaglia di pontenovu      lu ultimu cumbattimentu di e milizie corse contr a la armata francese  dui mila corsi funu massacrati da quaranta mila francesi   quandu fu felice a corsica      quandu pisa a si piglio per guvernala     cun dulcezza e affezione  e quandu de   paoli ne fece un statu liberu e fieru   cosa sara le avvenire     le avvenire e corsu  sara cio che tu u farai  se tu se corsu fa da corsu  
+  ssss
+    </p>
+    <docAuthor>
+     Orsini d'Ampugnani
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

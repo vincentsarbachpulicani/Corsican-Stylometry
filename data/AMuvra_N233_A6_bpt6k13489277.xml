@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k13489277
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k13489277
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 233 | Année 6
+     </edition>
+     <date>
+      1925-12-20
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Sest' annata — Numaru 233 x SI | Esce a Dumenica Dumenica, 20 Dicembre 1925 mm dd ee ai nen  sla Cisa bero : asi nd a ST PESCA, fi È a I Pi dA sn "EI ig, MET a à ir i CE Lu e, : " Ppi À em sei me * do EEE: MA Ci | ta MÈ vn È E AR eà EN DERE ARE, ee TA Ùn à Rs atà CECU san EE CEL : i à) nm . up OR sô CES AA ESE  GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI :  In Corsica. . . . . . . . . . + +. . 12 franchi  In Francia... .......,..... 15 »  A. VPEsteru... ,.......... 25 »  U Numaru:4 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandvai 88. — ATACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     a sanguetta  a cumpagnia fraissinet aumente a tariffa di i viagghiatori  di francia a corsica e vice versa  i  contru st aumentu inghjustificatu  chi mettera un po piu di miseria ind a nostra isula  prutestemu cun energia  e prutestemu di altronde chi fraissinet  un ebreiu  pinzutu  ruvina a corsica dapoi cinquant anni   avemu  pe disgrazia  a u parlamentu francese  omi di pocu curaggiu  deputati et senatori imbruglioni o macchiavelli  a  oghie  femu cunosce a seguente prutesta diramata da punione departimentale di i sindicati operai di a corsica      la commission administrative de l union departementale des syndicats ouvriers de la corse    vi les nouveaux prix des passages  appliques par la compagnie fraissinet depuis le 1  decembre  1925      considerantque les services maritimes entre le continent francais et la corse sont une necessite di ordre national ef que l etat doit en assurer la bonne marche e i l entretien commeil assure l entretien des routes nationales      considerant  di autre part  que la compagnie fraissinet a essaye de legitimer cette augmentation en mettant ses tarifs a u nivea u deceux des chemins de fer du p  l  mi       mais que cette comparaison est injustifiable     1  parce qu on ne peut songer serieusement a comparer un bifea u fraissinet mettant toujours 18 heures pour couorir les 387 kilometres qui separent marseille de bastia  avec un train rapide ou express qui fait les 862 kilometres de paris a marseille en ir heures et demie ou 17 heures       3  que cette comparaison ne se soutiendrait que si a le arrivee de chaque train de paris a marseille  un batea u partait immediatement pouf la corse    proteste energiquement contre les nouveaux  tarifs de la compaguie fraissinet  et surtout contre l augmentation duprix des passages sur le pont qui interesse particulierement la classe ouvriere       simu di accordu cu i scio castello e pezzini  capi di sindicati operai corsi  e felicitemu pu  di  di ave fattu cunosce a verita a u paese  ma e brutestazione platoniche e i discorsi un bastanu    si deve impiega le azione cullettiva e per azione bulemu di chi tutpi corsi degni di u nome  fac nu sape a u guvernu  a i du sm ti 13 na  i    mentari chi un rappresentanunuli      pp  777  e da sini  di  cumpagnia frais  i qu u u nel  una de srito higol  ce sette piaghe di a  corsica   che noi simu stanch di aspetta un miglioramentu chi un bene mai e chi mai venera   lpropriuuna vergogna di esse obligati asta in mare dicianov ore per anda in francia  i primi battelli  cent anni fa  mettivanu solu diciottore per u listessu viagghiu     e propriu una vergogna di vede i nostri povari corsi  vecchi  donne e zitelluci     cudrassi sopra u ponte  in pienu imbernu  e fa a traversata cume tanti animali    e una vergagnach un si vede in nisun aliru paese   ma a francia di moru e di fraissinet ci da stu spettaculu    o quante povere jente chi hanu pigliatu brunchite e pulmunie sopra i battelli di a cumpagnia sanguetta   operai corsi trattati peghiu chi i senegalesi  cittatinie paisani chi suffrite di u caru vives ri  industriali e cummereianti chi bedite u francu andassine  ogni jornu  a catafasciu   agricultori ezappaghioli a i quali fraissinet pruibisce le esportazione  un avete che un solu rimediu contru a pulitica disastrosa chi omu face in casa nostra   stu rimediu e ti autonomia  e le autonomie bi dara   u benesta  a dignita e i porti franchi cioe a suppressione di a dugana e a liberta di viagghja sopra a ne importa chi battelu   corsi  se boi vulete fa cala u prezzu di a vita  se boi vulete anda in cuntinente  in poche ore se boi vulete fa cessa i nostri guai  dumandate i porti franchie la autonomia 
+  s
+    </p>
+    <docAuthor>
+     Pasquale Manfredi
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="fr">
+    <p>
+     breve reponse a une  note breve  b j  a onze ans et demi redigeait un journal ou il etait seul a ecrire des articles qu il etait seul a lire il les signait nous conte t il d un nom qui n etait pas corse il n a pas perdu toutes ses habitudes  il se plaint aujourd'hui que  a muvra  n ait qu un redacteur pour lui repondre il lui reproche de manquer d arguments et aussi de commettre je ne sais quelles obscures incongruites  je ne suis pas le redacteur unique et proteiforme de  a muvra  mais je lis bastia journal et avec l autorisation de pierre rocca je voudrais dire ici mon opinion sur la  note breve  du ro xbre  je ne me plaindrai pas du style de bh  si etranger que je sois par l'heredite et la tradition a la langue eta la culture francaises l'enseignement artificiel qui m a ete inflige pour apprendre la syntaxe et la grammaire des  gens d oil  me permet neanmoins d apprecier de gouter cette aisance et cette elegance de vrai francais ecrivant dans sa langue maternelle je proclame sans detours sa superiorite quand je compare ma prose laborieuse de naturalise a celle de ce vainqueur deux fois francais  mais pour les arguments je consens a devenir franc comtois ou pi se o e card a renier mon pere mon grand pere et tous ceux dont je suis ne s il s en decouvre le quart d un dans l article dedaigneux et railleur que je lis a la premiere du tout pour la corse    du 10 decembre  peut etre en trouvera t il uri qui vaille dans le fait que je m evertue a user non pas de ma langue maternelle mais de celle qui m a ete imposee a ponte novo les armes a la main en versant le sang des miens assimilation   pourtant sur ce sujet plein de douleurs et de regrets b j me permettra de ne pas m etendre et il voudra bien me lire sans tirer d excessifs avantages de sa double qualite de conquerant et d ecrivain de race   au surplus iln ya la qu un cote de la question  un debat s est institue en corse  debat auquel bastia journal lui meme n a pas rougi de se meler tant il s impose   sur le droit qu a notre peuple d evoquer son histoire ses traditions ses gloires de faire revivre sa langue etsa personnalite en somme tout son etre qu une politique ambitieuse imperialiste a opprime par la violence et qu ontente d aneantir par d intolerables machinations  ce debat dramatique et dont la rumeur s enfle chaque jour ne sera pas resolu par les conclusions peremptoires ou imperieuses de b j il peut m en croire  repetons le pour bastia journal tout arbre se juge a ses fruits voici entre tant d autres deux constatations qui ne seront pas discutees  apres 156 ans de vie commune   vantera t on les bienfaits de l'assimilation francaise dans le domaine economique alors que la plaie hideuse la plaie mortelle de l emigration ronge aujourd hui notre race a ce point que nul pere de famille cor se ne peut esperer maintenir au fo yer sur la terfe natale un seul de  sesenfants ni meme helas lesouhai ter  dans tous les pays a natalite  vivace et saine c est le trop plein  le moins bon contingent qui aban donne la patrie ici ce sont les  meilleurs qui partent les premiers  avec un funeste empressement et  qui s etonnera que notre jeunesse  dont les projets d avenir ont pour  condition prealable l exil fremis se et s insurge contre une si detes table necessite  le mal s aggrave a tout instant mais il est encore peu de chose a cote du desarroi moral ou se debat la population qui demeure et voici ma deuxieme constatation les peuples les plus farouches de l europe connaissent aujourd'hui la paix civile et les bienfaits des lois sagement preventives contre la violence et l effusion du sang ici sous un regime d indulgence meprisante tout le monde est arme arme pour tuer son frere et que nous sommes loin de cette giustizia paolina dont un haut magistrat francais dans une audience solennelle evoquait l autre jour le souvenir majestueux  mais b j est satisfait b j estime que 1769 marque une ere de bonheur et de prosperite pour la corse  ce francais aune belle sante
+    </p>
+    <docAuthor>
+     B. C.
+    </docAuthor>
+   </div>
+   <div n="3" type="trd" xml:lang="co">
+    <p>
+     litteratura  due puesie rumene  a lilteratura francese un e micca sola maestra di u mondu  eccu cio chi ellu  ci vole a di e a ripete  posta chi una mansa di incrocculi so sempre pronti a pruva u cuntrariu   ogni populu ha avutu a so littera  tura propria  in strettu rapportu ci u geniu di a razza e di a lingua  una litteratura di importazione po suddisfa fin a un certu puntu i bisogni intellettuali di un populu  po esse cul tivala cu abbastanza successu da u populu induv ell e stat introdotta  ma si  firmara quantunque litteratura di importazione  e questu e appuntu   u casu di a literatura francese in corsica   proseguendu a postr opera di propaganda  in favore di e litterature frustere altre ca a francese  ci e parsu a prupositu di da oghie a traduzione di due paesie rumene  ghiavendusi di u testu originale  du vidara chi tra rumeni e corsi ci e una certa sumiglienza  duvuta non solu a enmmunita di sterpa   a sterpa latina   ma ancu a cummanita di ispirazione poetica    i  i  zori de zina se revarsa  priema di costachi honaki  1   zori de zina se revarsa      zi si ochi anca  ne am inchis  cum cie tua  pr   cua e cum sa 1 inchid  cand e i varsa para e de foc aprins       me vai ig cu suspinuri me vait  strig cu suspinuri   dar nu gasesa ajutoriu    mur a ce pot lacrimi  ce pot chinuri  cand durereai de amoriu       ah moarte   numai la tine scaparea mea poate fi   dar la  necaz meartea vine    siomul poate muri    repizi te  dulce raza   din doi ochi mangaitori   si vino de invicaza pe alti doi  ce si muritori    aceasta i ata putere   acesta i daru  cel a i     mera ig a  ca mumai printr o vedere viata iei si viata dai  necazul die u este mare    este te u  este cumplit si sa 1 vinde e nu am stare   ca tu lai pricmuit   dar puterea tai mai mare   si dei i ti di 3 vre indata poti   vai e mp numai co imbratosare din focul luisa ma scoti   traduzione  quand ella affacca la alba   eccu chi fi ne arriva la alba  cunn ad arancia a  a     mes a eunn aghiu ancora chiusi li occhi  cume i chiudaria posta chi elli sguar torrenti di focu ardente 2     mi lagnu  lampu suspiri   a nissun affacca per cunsulammi  chi ponu elagrime chi ponu lafanni  quand u dulore e di amore    o   morte  in te sola pu possu truva a me liberazione   ma sog a morte vene quand omu e affannatu    fala  o  fala  dolce raggiu di dui occhi  accarezzanti   e chi ella scoli a toluce   ind u sguardu di un muribondu  e  questu potere toiu   e  questu donu toiu    ci un solu sguardu di i to occhi po toglie o tnrna a da a vita  cum ell e tamantu  u me affannu   cum ell e acutu  e penibule 1       ma un possu rimediacci   parchi tu ne se a causa   ma grande e u to potere    e quand ella ti garbara   cu sdlu un basgiu mi strappare a famanfangoscie  mi  o noapte pe ruinele targovistei  pueme di heliade radulesen e   goarele dupa dealuri mai straluceste inca  razele i rubinoase vestese al lni apus   si seara  panditoare sub fie care slanca  cwncet si ntinde umbra cutezatoare ne sus   muntele al sa u erestet isinalta si priveste linui cobor al zilei  isinienl e i sfintit    si raza cea din urma pe iruntea lui izbeste ce mandra tine fata cu cerul cel rosit   vantul de seara sulla si frunza nfioreaza  rona seminui varsa verdeata reinviind  dealurile incununa  campia incoroneaza si raul pe a lui cale sopteste serpuind   toteste viu in juru mi fronza pe zid sopteste  farba pe muschiu intreaba aici cine mi a pus  zidul ca o fantome de asupra mi se lateste   ca vrias la spate mi turnul se nalta ne sus   o ziduri   ramasita din slava stramoseasca  oturn   de unde ochiul de mii de ori vazu biriunta sa sboare p ostirea romaneasca      in muta voastra soopta cate mi vorbiti acu    rosaste rasaritul  muntele rubineaza   inganat printre aburi deglurile verzese   raul adapa campul  cerona insmalteaza   racoarea da veata si stelsle albese   turme  cai  dobitoace le opa se coboara  clopote bat  se scutur cu al diminetii svon   la vajaitu  morii undele se niasoara  deschis o ochiul zilei acun pe orizon   tratuzione  una notte inde rovine di tergoviste  u sole ince ancora dl di la di e custere   iso raggi dirubiui spnunzianu u tramontu  a sera  pianu pianu darret a i scogli     alza  fina in ciele e so ombre temerarie   u monte addirizza a so cima  e fighiula  a dolce agonia di u jornu  misteriosa abrucata  unultima raggiu casca antant a quellu granitu  chi risiste  altiere  a u ciele impurpuratu   di ventu di a sera soffia  fendu trimula afoglia  falendu di a insu annant a virdura  a rosata ineroscia i prati  bagna e custere   u jargala cu dolce musica sguilla   tuttu e vita  ingir ame a foglia trimuleghia  le erbadice a u mucchiu   qual e chi mi ha postu  qui   u mare  altu e neru  mi supraneghia 3  eatorre  cume un gigante  si alza fin a in ciele   o muraglioni   povare ruine di a gloria di i bab boni    o turrone   da induva  u me sguardu  piu di  mille volte   a bistu l ale di a vittoria spargesi annant a i   suldati rumeni     quantu vo sete eloquenti  benche mutti 1  le oriente arrussisce amuniagna pare un rubino attraversu i nivali  e custere  verdeghianu   tjargali inaquanu u pratu  pregnu di risata  la aria e fresca  e e stelle so sbiancate   pecure  cavalli  bestiame falanu in piaghia  a  campana sbatiuleghia  e e note pian pian si perdenu inde la aria   a u mulinu  a rota  voga inde la agna   e ava  lu occhiu di u jornu affacca a le orizzonte  rosicciu     traduzione di       1  unu di i piu gran pueti popolari rumeni  natu in 1577  mortu in 1848  e so produzione  limpide e sapurite  sguillanu cume un fiumicellu di moldavia  a so patria amata  piu ca un anfarte  e un cantore  un impruvvisatore a u paru di u nostru miziicale  infatti  in quelli tempi  u spifitu rumenu un era micca guastatu da una cultura esotica      2  heliade radulescu e natu in 18o2  a targoviste  la anfica capitale di a valachia  e unu di i piu gran pueti di a rumania  ma inde i so scritti disgraziatamente  soffia u spiritu romanticu  in speccie quellu di u francese lamartine  inde so puesie ci e guanfunque un fondu originale chi un mancara di fucca u mostru core corsu  in 1841  heliade radulescu scrisse un opera intitulata   paralelisiul intre dialectele roman si italian  parallelismu fra i dialetti rumeni e faliani  inf a quale ellu pruvava chi tutti sti dialetti furmavanu una sola e stessa lingua  stu pueta  chi fubbe ancu un gran pafriotta rumenu  e mortu in 1872 
+  s
+    </p>
+    <docAuthor>
+     Matteu Rocca
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="co">
+    <p>
+     a vera storia di lu infernu e du paradisu   in orezza  lu altru jornu si parlava di a divina commedia    e fova piuviva a secchie    eramu dodeci crisliani   omi e donne   intornu a u fucone   un becchiu pastore ci spiegava u cantu vi di u purgatoriu   i  non so se intendi  io dico di beatrice   tu la vedrai di sopra  in sulla vetta di questo monte  ridente e felice     e quand ellu fini  si alzo un mercante balaninu  stu balaninu  si chiama orsu petru  e bene tutti li anni in orezza a bende lu oliu     or dunque  orsn petru si alzo e  dopu ave dumandatu scusa a le onurevule sucieta  principiece cusi      dante e un bona pueta e amava di core a so povara beatrice  chi elli sianu tutt e dui in bonu logu    ma    ci e un ma      ellu pratende esse statu a lu infernu e dopu  in pa  radisu    bo  quessa un la credu    ed infatti  ci e dui sbagli ind a so cummedia  e dui sbagli belli grandi     parla di altru restu  o orsu pe     ma e u parlu di cosa so  vendu lu oliu  e bera  e tuliu quest un mi impedice di cunnosce a me storia  x   i  u paradisu e un stabilimentu di belezze e di delizie   e u ricunoscu prima di arrivacci   in nutritura  in piaceri e in tutt e sorte di amusamenti  crediva chi ellu fussi abitatu da preti  frati e di u seguitu insin a u papa  i  e avale  eccu u  primu sbagliu   ne u 126o   1   una sora di un gran cunventu di roma  morta a   lu impruvisu  un ebbe u tempu di piglia l estrem unzione  art vata a le porte di i paradisu  truvo subitu a san petru  u depositaria di e chiave  sic      duv andaie  di bella figlio         mi ne vo in paradisu         site cunirita         no  caru san pettu       mi dispiace tantu  ma aghiu le ordine di u padre eterno  di un lascia passa nisunu    i    mancu e sore         ne sure ne frati    mi ci vole un  bigliettu di cuntrizione         allora a sora dumando si ci era un prete di risidenza in paradisu   san petru invio un agente di pulizza a circa un prete  ancu in paradisu abbisogna a pulizza   e dopu tre ghiorni e ire notti  le agente disse a san petru     un ci e mezzu  di truvanne aleunu       e allora san petru chi e un bravu omu e chi parla tutt e lingue  dede a  sora  stu cunsigliu      mes regrets  voyez le etage en dessous   ma quantunque  un la trovu justa    i preti di stu mondu  induve sonu   povera sora   si ne resto a le porte di u paradisu e forse  ancu ne e jorni nostri  sta cume sentinella davant a pulvariera di tulo    sic   per circunsianza son arrivatu a lu infernu   so intrafu ne u primu salone  induve nu ci e che tenebri oscure          fume e acque abundante    ne u secondu salone  induve ci e una gran furnace assai piu majo di u volcann di napoli     e piena di laghi di focu    una volta pe ghiornu  sia furnace  e spazzata e a calligine fala nant u   pave    sic  e avale  eccu valtru sbagliu  aghiu rimarcatu che stu pave e fattu di chiocche di preti    bisogna a sente e strida e li urli    pensate im pocu   a rusia si ne va ogni jornu  sopra a chiocca di sti disgraziati    un si lamentanu in latinu ma in fuite lingue di u mondu  e per di a verita  un aghiu intesu nisunu lamentassi in corsu  l   e sempre per cumbinazione  si affacco un archanghielu    o santa madonita  cosa putiva fa stu bravu figliolu ind a   citta dolente     bueva unu di i preti pe eunfessa a sora    ma demoniu si ricuso dicendu     o miche un femu chiacchiere     ti piacerebbe chi eo venga in casa toia     lascemi tranquillu    ognunu i soi       a furnace di l infernu avendu datu farzura a u balaninu  questu si fece fala un bellu bicchiere di vinu cerviunincu  e cum ellu  ripigliava a so piazza a u fucone  una vecchiarella  zia minnina  ji dumando     hai parlatu di tultu  fora di u purgatoriu         u balaninu rimase un pocu umiliatu  ma avendu fattu fala  un altru bicchiere di vinu  cusi finibbe u so discorsu      u purgatoriu e un bungnu induve si meftenu i stravei per pulilli    ci so qualla tutte le anime chi banu peccati a scunta    e allora  colpi di lisciva pe caccialli u lozzu    lu hanu he capila i fascisti in ltalia      quandu un omu ha a rugghjne ne u cerbellu e i vole a strufinallu  e quand ell e pienu di mi     in corpu  bisogna purgallu    eccu a storia di lu infernu  di u purgatoriu e di u paradisu    
+  s
+    </p>
+    <docAuthor>
+     Ghjuvacchinu
+    </docAuthor>
+   </div>
+   <div n="5" type="art" xml:lang="fr">
+    <p>
+     l enseignement professionnel en corse sous quels auspices se presente la creation de l ecole nationale de corte  le souvenir en est encore frais  tournee electorale de politiciens promenent comme une ostensoir aux alouettes monsieur le di recteur de l'enseignement technique labbe  les projets exposes furent plutot refrigerants savoir l ecole professionnelle ne li miterait pas ses efforts a la formation  to d ouvriers instruits et habiles pouvant gagner largement leur vie en dehors des emplois administratifs  lo d artisans qui trouveraient a s embaucher facilement dans l'industrie  ile de main a'oeuvre eduquee qui permettrait a vinitiative privee d'entreprendre avec succes dens notre iles les realisations industrielles possibles  oni il yaurait peut etre cela mais il y aurait surtout une colonie de jeunes martini niquais que l ont instruirai dans divers me tiers specialement dans celui de larbin afide les expedier ensuite vers les palaces les hotels on chateaux auxquels il fant une domesticite bien stylee  i nous pensions nous que pour faire le succes de l'ecole natioriale de corte pon aurait cree en meme temps dans les autres chefs lieux d arrondissement des cours d initiation manuelle ou seraient recrutes au fur et a mesure les eleves de pecole na tionale  cree un pre apprentissage elementaire qui aurait l avantage en outre d eliminer des le debut de cet enseignement les elements inadaptables de ce contingent de jeunes apprentis par le moyen d un petit examen qui precederait l'admision a l ecole nationale de corte  mais rien de tout cela dans fes projets of ficiels les ecoles privees existant a ajaccio et a bastia seraient transformes en ecoles nationales pratiques de commerce et d industrie  beau programme que celni la dans un pays agricole comme le notre  mais tontes ces belles choses font bien dans le tableau et pour ce qui est des resultats   l essentiel est que la gonle eleciorale soit satisfaite
+    </p>
+    <docAuthor>
+     Jean Maki
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     a strepitosa ruttura     di un buttiglione pienu di vinu  e re u di morte   si  morte a tanaglinu   per ave in centu pezzi e piu mandatu un bultiglione pienu di bonu vinu   che a mio moglie la avia cunfidatu   assicuratu ind un bel panerinu   perche ne fussi da bastia muntatu  a monseralu  e messusi in comminu ghiunlu ne a strada nova la ha sciappatu    se si la avia betu  pazienza   un ci era nulla a di  essend un forte e fieru bevitore  ma un presenza   di sta ruttura  senz appellu  a corte   di baccu  per ghiustissima sentenza u codice in manu  u cundonna a morte    ghjseppe giovannelli
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="7" type="feu" xml:lang="it">
+    <p>
+     roma in mezzo a  cotesto tafferuglio non vide chiaro che una cosa sola   raspollare quattrini  in effetto considerate che spedienti adopera per aggiustare due emuli insatanassati   innalza il vescovo di genova alla medesima dignita dell arcivescovo di pisa e gli assegna per suffraganel tre vescovi corsi di mariana  di par e di accia  a patto che oa san u nd una libbra di  oro  mmentee tu ci si intende  natural cololio  wal o spegnere lo incendio    c allora in poi fra genovesi  e pisani non tregua mai ne pace  ne si rimasero i primi finche non a  bero ridotti in piana terra i secondi  j innanzi pero della rovina della me   loria  ecco come i genovesi arrivarono ad incastrarsi nell isola  gli uomini di bonifazio esercitavano la pirateria  mestiero a quei tempi tenuto nobile  quantunque fatto a minuto  recando continui danni ai genovesi  frequentatori di coteste spiaggie per loro traffici di  cio meritamente stizziti  commisero   ai propri consoli che andassero a ri chiamarsene ai consoli di pisa  e questo essi fecero  venuti al cospetto dei pisani favellarono    e non ci pare onesto  uomini dabbene  che mentre la pace dura fra noi  i vostri concittadini corrano addosso ai nostri e gli spoglino  i vostri castellani bonifazini fanno il diavolo a quattro a danno della nostra mercatanzia   cio non ista in chiave  ordinate pertanto a costoro che restituiscano il mal tolto  altrimenti  sara rotta la pace  e cui avra torto  faccia tristo dio   i pisani rispo sero   quello che voi ci dite ac cora forte  perche avreste a sapere  che il castello di san bonifazio non  ci appartenga  e i castellani  innan zi di essere nostri uomini  ci contra diano in tutto e come i vostri met  tene a ruba i mercanti nostri  ac  cordiamo  a raccogliere insieme  un armata e andiamo uniti a farli  stare in cervello    non dissero a sordo  i genovesi  allestito un naviglio poderoso alla chetichella  assaltarono i bonifazini quando se lo aspettavano meno  ed occuparono la terra  se i pisani levassero scalpore per la presa di bonifazio ve lo potete figurare  ima i genovesi respondevano    voi vi lagnate di gamba sana  invece di ringraziarci davervi levato un bruscolo dall oci chio senza che vi costi un quattrino  perche ci maledite 7  e aumentavano le provvisioni per difendere lo acquisto  perche i genovesi quando mordono tengono maladettamenite cosi  vero questo che  per ram mentare genova  stringono le mas celle per paura che  non che altro  il  nome della patria caschi loro dai  denti  rimase ai pisani con le bef fe il danno  pagando la pena della  doppiezza loro  donde io piglio oc casione di ridere dei barbassori i  quali si mettono in quattro per sostenere la diplomazia trovato   moderna   no  signore  la diplomazia e vecchia  quanto la bugiarderia anzi una volta si riputava un  cosa stessa con lei   soltanto ai di nostri a taluno essendo venuto talento di separare la diplomazia  ci ha rinvenuto la bugiarderia e la gagliofferia rinterzata con la sfrontatezza  appena i genovesi ebbero  messo il piede nell isola  incominciarono a gittare con la pala ai bonifazini danari  privilegi  insomma ogni bene di dio  donde entro se non in tutti   almeno in corpo a moltissimi la voglia di venire a parte della cuccagna  arti antiche e inttavia sempre efficaci   le mosche si pigliano col miele dacche mondo e mondo  cal vi fu la prima a non si poter regge  re e  accordatasi a patti  mise dentro i genovesi  poi  continuando  a declinare le fortune pisane  parecchi conti  voltate le spalle come suole ad occidente  si girarono a oriente  allora si consigliarono spedire in corsica giudice di cinarca con armi e navi per mantenetsi  nella devozione i vassalli fedeli  i ribelli reprimere   questi veduta la mala parata ricorrono ai genovesi che agguantano la occasione a braccia quadre  cristo giudico la lite contra i pisani non senza ammonirli prima che si imbarcassero  lasciandosi cascare di cima allo stendardo in arno  che non era per loro  se fu come la contano  certo non lo mossero i meriti dei genovesi  forse in quelli orai peccati dei pisani pesarono piu su la bilancia della giustizia divina che quelli dei genovesi  roma  origine di tanti guai  considerando adesso che i genovesi da un lato non erano pesci da  abbocconare lo amo di san pietro  e   dall altro che i pisani erano sfidati  f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

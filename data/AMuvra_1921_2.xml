@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1921_2
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     mauvais berger le socialiste jesuite banquise fonlante et egaree de la sacro sainte politique parigo indo chino insulaire visant a effacer devant deux generaux et deux prefets de france et d italie l impression produite par notre propagande de verite et de probite a prononce au etes du centenaire de buonaparte les phrases patriotardes en usage en corse depuis que marboeuf jeta les bases de 'espece d'esclavage militaire ou nous sommes tenus  depuis la fondation du royal corse  des politiciens a gages et des professeurs desagreges ont servi a nos jeunes gens la drogue empoisonnee qui les a detournes de leur terre  au nom de deroulede et de jeanne d arc une foule de sergents recruteur 'ingenie a arracher a l ile miserable de nouveaux encadreurs d annamites et d 5enegalais du materiel humain pou imperialisme insatiable d une race qui e faisant plus d enfants veut assujetti au vieux monde avec le sang ce tous ceux ont les ancetres ne furent point les gaulois et nos communes elevent sous les chataigniers seculaires qui virent les grenadiers de maillebois pendre les miliciens de la guerre sainte des monuments grotesques ou l on apprend que de pauvres bougres de chez nous sont enterres sous les brumes du nord ou dans le bled macedonien pour que vive montmartre et perisse la corse et l on nous parle de verdun avec des larmes dans les yeux jeune homme qui aspire encore pleins poumons l air tres vif et tres pur de nos montagnes c est a toi que je veux parler  la verite la voici et rien ne saurait contredire l eloquence des faits  en lorraine et sur la marne tes freres sont tombes pour sauver la f rance mais la plaine orientale est un marais et un tombeau  l a en champagne et sur l'yser grossetti a sauve la france et dans le ravin de la mort le sergent aliotti avec sa mitrailleuse a repousse deux bataillons prussiens mais brundsaux a organise le raccolage et les morts du  balkan  hantent les roches rouges de la giraglia   et tomasini a ete fusille    et tomasini a ete fusille   sur le front de fer et de feu de la guerre execrable les enfants de cyrnos se sont couverts de gloire et de sang mais cela n a rien rapporte a ton pavs i landry ministre de la marine a renouvele la convention qui livre la corse a un pirate et la pieuvre insatiable du tortillard franco belge pressure le paysan  et affame les villes  et la corse a battu le record de la misere en europe  jeune homme sache le si la france est grande ses politiciens sont si petits si petits qu ils ne comprendront ni ta soif de bonheur ni ton desir de liberte  et le drapeau d austerlitz continue a  et le drapeau d austerlitz continue a flotter sur la misere du peuple de paoli et de napoleon  i et landry sera encore ministre et doumer sera encore ministre et toi chasse par la misere tu entreras dans la multitude des gendarnmes corses des flics corses des rempiles corses des douaniers  et des gardiens serviteurs harnaches de  la grande patrie francaise a patrie d ambrosi de landry de doumer et de fraissinet  voila jeune homme de nos monta  gnes ce que landry a ajaccio ne t'a voila jeune homme de nos montagnes ce que landry a ajaccio
+    </p>
+    <docAuthor>
+     Orsini d'Ampugnani
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="fr">
+    <p>
+     la corse filmee pour la seconde fois a la grande satisfaction du public parisien colomba repassait a l ecran i u nous fallut en attendant que la toile s irradie des splendeurs cyrneennes voi se derouler un pornographique cine roman signe d un feuilletonassier a la mode et assister aux bebetes peripeties d un film americain   helas  un metteur en scenes peu documente nous a presente le chef d oeuvre de merimee atrocement affadi et sans l'in contestable talent de madame mareo vic qui fut une colomba emouvante  d'une miss leydia sensible et romanesque  d ui orso antone vraiment francise  d un colonel newil tres galant homme et d une petite ghilina naivement sauvage dnne i piece eut infailliblement provoque les huee de la foule en effet de flagrantes imperfection choquerent les regards les moins avises profondement grotesques ces voltigeurs en costume de grenadiers de la garde en grande tenue culotte de peau et bottes  ecuyere fouillant le maquis pendant 1 nuit en s eclairant avec des feux de benga le  atrocement fausses les attitudes faubouriennes des freres barricini  courteli nesquement bouffons les exercices de caserne executes par les partisans des des familles ennemies pantalonnesques l'allu re et l accoutrement de brandolaccio et d castriconi  anachroniquement insupportables ces hommes armes en 1816 de fusil hammerles et de carabines winchester a repetition  i par ailleurs le scenario n epouse pas etroitement l action du roman  escamote le prefet continental ce bon prefet qui n en revient pas supprime le recit de la plaine de vittoria  passe sous silence l episode du feuillet accusateur fil tenu ce toute la trame   i  resume  quelques bons artistes et les  emouvants paysages ou se deroule l action  ont seuls empeche cette lamentable paro die du drame puissant de merimee de tourner a la gasconnade un metteur en scene peu erudit a fait de bien rudes accrocs a la beaute du chef d oeuvre et a la dignite insulaire  nous ne saurions trop lui conseiller de s en tenir aux scenarios de m pierre decourcelle
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="2" type="feu" xml:lang="fr">
+    <p>
+     saveria par pierre rocca chapitre premier les yeux s ouvrent et le poing sf ferme  la servante s empressa   que l on fasse monter le be la servante s empressa   que l on fasse monter le berger lertora bondit dans la piece  marco griffonna ces mots sur du papier le fils de paolo est de retour i coil   gardez vous il se garde    ayant fait le geste que commandent 1 toles strictes de l honneur corse avait attenter a la vie d un ennemi il tend a feuille au patre   porte ceci chez     inutile interrompit l homme en e uissant un sourire inutile de preciser  ais les noms et l adresse l aine de la f lle lea le noulet avant qu il soit minuit   inutile interrompit l homme en esquissant un sourire inutile de preciser  je ais les noms et l'adresse l aine de la faaille lira le poulet avant qu il soit minuit   justice est faite   je comprends tes scrupules  tu ne les as jamais vus il est naturel que tu veuilles etudier leur physionomie avant de la leur abimer avec du plomb  ne badine donc pas vieux birbe   mes renseignements sont precis ils franchiront le pont de la catena avant ure demi heure tu pourras les devisager a ton aise i les defigurer veux tu dire  tout doux mon brave a pareille  tout doux mon brave a parelle di ance ce serait imprudent  cette conservation avait lieu pres de i chapelle de san rocco quelques jours apre l'arrivee de marco entre lertora et le jeune homme tous deux dissimules derriere l e  pais rideau d un arbousier  les trois silhouettes attendues surgirent au tournant du chemin se rapprocherent  les freres damiani defilerent sous les yeux ecarquilles de cerni  il etaient dans la force de l'age de larges barbes noires encadraient leurs visages energiques    a present ricana le berger lorsqu ils eurent disparus dans la direction de vico te voila fixe  les poitrines sont assez vastes pour fournir un serieux point de mire si ton bras ne tremble pas je crois que ton fusil portera juste     au diable tes conseils  repartit marco qui regrettait de ne pas avoir fait usage de son arme  ils penetrerent dans le fourre des gries s envolerent a leur approche
+    </p>
+    <docAuthor>
+     Pierre Rocca
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="fr">
+    <p>
+     simples propos  aupres d un talus un etat major rutilant ecoutait un chef galonne faisant la critique de l'action arrete en plein soleil au beau milieu du sentier a cheval sur un canon un gamin depenaille les cheveux en brousaille mais le regard vif sous les longs cils noirs regardait la scene  le palabre avait pris fin le groupe se disloquait avec un cliquetis de sabre un scintillement de decorations un capitaine se tourna vers l enfant et sur un ton qui voulait etre amical et badin mais qui restait bourru lui demanda   et toi gosse ou vas tu    a son age devant cet homme a longues moustaches j en connais beaucoup qui se seraient surement enfuis ou auraient tout au moins rougi jusqu aux oreilles  cette fois il n en fut rien l ane broncha l enfant impassible supporta le regard et n eut qu une phrase  moi je vais ou il me plait  puis sous une pression de son jarret nu la bete partit tranquille laissant quelques officiers ebahis   tout le temperament corse etait la resume dans l'attitude et les simples mots de ce galopin fils de paysan pauvre mais independant libre et nullement ebloui par le flamboiement de quelques ors et de quelques chamarres   en me rappelant hier cette histoire authentique j ai trouve que dans un cadre moins champetre et moins pur avec ce modeste organe nous ressemblions comme deux freres au jeune heros de l aventure comme lui nous sommes humbles mais ficrs autour de nous se croisent les passions s etale le luxe et tel un dieu s erige le capital  sur notre chemin deja nous avons rencontre le tentateur et en un appel eloquent on nous a demande   mais ou donc voulez vous en venir      tranquillement nous avons repondu  ou bon nous semblera    nous voulons insinuer a quelques uns qu ils sont avant tout corses et que leur pays a un besoin vital de relevement economique et moral    a ceux qui imbus de science heraldique oublient trop facilement leurs origines modestes nous rappelerons volontiers que porter un simple nom insulaire constitue peut etre le plus beau des titres nobiliaires reveillant les uns fustigeant les autres jouant les travailleurs imposant silence aux bavards nous continuerons ainsi notre route et meme si m pessimard s en mele nous irons toujours de l avant  puis on verra  ce qu on verra
+    </p>
+    <docAuthor>
+     C. Cancellieri
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

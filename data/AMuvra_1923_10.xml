@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1923_10
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     nous nous excusons aupres des lecteurs de a muvra de reparler du juif rinaldi nous tenons le renseignement de plusieurs italiens qui ont connu le scier de long qui fonda en corse la famille rinaldi rinaldi joseph parle a ce sujet de son nez mais ce n est pas toujours au nez que l on reconnait les juifs c est une femme qui nous l a dit et puis etre juif n est point un deshonneur et nous ne sommes pas antisemites nous n avons donc indique l origine juive italienne de rinaldi que pour faire ressortir que le regionalisme corse ne le regardait pas d ailleurs cette histoire est une vraie scie comme l origine de joseph rinaldi n joseph rinaldi me sert du perfide parce que j ai retourne sa phrase sur notre galere i il a declare a nice que je voulais faire allusion a un membre de sa famille condamne pour meurtre joseph rinaldi se trompe j ignorais cette chose et ne l ai apprise que tout dernierement il n y a donc pas eu allusion joseph rinaldi a menti je lui donne le dementi le plus formel en ce qui concerne un incident tres vieux deja au bal de la cornes j ai dit publiquement a joseph rinaldi vous etes un double desagrege vous reniez l italie d ou voire pere est venu et la corse qui vous a vu naitre joseph rinaldi a encaisse mais m en a voulu sa haine s est manifestee en fournissant a z eclaireur un compte rendu de la fete qui ne mentionnait point la partie regionaliste en publiant des articles de walls contre moi qui y etais appele hobercau ayant reproche cela a joseph rinaldi j ai termine par un mot violent qui semblait le qualifier joseph rinaldi s est leve et a lance son poing qui a atteint le bras de m belette place entre nous l on nous a empeche de nous saisir au collet mais rinaldi s etant assis de nouveau je lui ai dit je tenais a vous dire ce mot publiquement c est fait c etait repeter et recidive mais joseph rinaldi a encaisse joseph rinaldi a donc menti ennuye de l incident m belette m a demande chez lui de faire la paix j avais eu tort en parlant violemment a joseph rinaldi au lieu de le dedaigner j ai donc fait la paix cela n a point empeche joseph rinaldi de voiler la verite en se vantant de m avoir gifle or si rinaldi avait fait cela je l russe tres severe ment puni je l ai fait en d autres occasions et j en appelle a prison zevaco crucial et pantalacci qui m ont servi de temoins i d ailleurs si ce monsieur avait de l education il eut evite de parler d une affaire d honneur reglee par un ami comme belette joseph rinaldi invoque le temoignage de pascal flippe je suis desole de le voir meler un nom synonyme de droiture et de probite a une scie qui peut ennuyer nos lecteurs et acceder les compatriotes pierre rocca a dit a pascal flippe rinaldi se vante d avoir gifle oursins ce n est pas vrai a repondu pascal flippe il y a eu dispute mais pas gifle comment peut on punir un juif en fermant son porte monnaie joseph rinaldi voulait 60 000 fus de subvention annuelle je ne dirai pas de qui comme des deux cotes l on me connait l on m a demande des renseignements sur ce monsieur j ai repondu gardez votre argent car un juif n a ni idee ni patrie mais un seul but gagner de l argent et j ai montre des articles tour a tour consiste italophiles anti consiste italophobes de rinaldi et de walls cela a suffi et joseph rinaldi attend toujours rinaldi furieux de ce que cette mythologie n avait point publie sa photographie me dit avez vous lu a preface insipide de paul arrighi celle de x poli de a visera etait fille fois mieux envoyez la moi je a publierai en la faisant preceder l une critique table de l anna cousu je n avais point de cette publication pareille opinion et je n ai pas envoye a visera au contraire j ai encourage de mon mieux bonifacio et leva dont j admire le talent et l tradition joseph rinaldi soutient m belette qui est contre coty m coty qui est contre belette il soutient maintenant paul arrighi qu il essaye d opposer aux juristes et dont il disait du mal il n y a pas longtemps rinaldi a mene soutenu caitucoli mais celeste a la langue pendue et rinaldi ne le soutient plus bref rinaldi soutient tout le monde et se croit puissant helas pour les 60 000 fus j ai trouve a joseph rinaldi que j etais plus puissant que lui mais pourquoi diable s est il jete si vite contre nous j ai un peu d argent rinaldi le savais et vint s asseoir un jour a ma table de restaurant pour me dire brusquement i voulez vous que nous le fassions a nice le grand organe regionaliste je fis de vagues reponses et le laissai tomber je ne plaque pas des courses pour un juif et voila pourquoi rinaldi nous attaque nous avons fait rater deux combinaisons juive lucquoises il nous en veut c est son droit mais pourquoi n avoue il pas la cause de a colere vos oui coty a donne de l argent a a muvra et nous avons divulgue cela nous meme en rompant avec le grand vaporisateur nous attendons que rinaldi en fasse autant pour ce qui le concerne rinaldi joseph me reproche mon pseudonyme et cela me rappelle jean valais me traitant de petit hobereau je ne suis que de la pieve d ampugnani mais ma parente avec les de casabianca les de mari et les battent et mon mariage avec une del val me dispersent de comparer ma famille a celle di u sigantinu luncquese et puis que diable tout le monde ne peut pas etre de jerusalem l on peut etre d origine pauvre juive et turquoise et n etre point deshonore mais les lecteurs me comprendront j eus tort de ne pas dedaigner rinaldi joseph par ailleurs ce monsieur m a averti qu il ne saurait me demander raison de l avoir traite de juif et il a ecrit cela sur le courrier du 31 mars or nous sommes le 15 avril et n ai point recu les temoins de ce monsieur cela m ennuie car j auras voulu avoir l occasion de dire aux temoins de rinaldi messieurs je vous remercie de votre demarche mais je ne puis pour ca et pour ca me battre avec joseph rinaldi la correctionnel voila ce qu il faut a joseph rinaldi qui apres un article trop habile a lu ma petite reponse et s est enterre les termes de pale toque si lache etc que ce monsieur me sert representant 60 000 fus de depit je demanderai satisfaction pour autant au tribunal j aime la france ou je suis ne ou je me suis marie la france que j ai servie la france qui apres quatre blessures deux citations mes freres tues m a decore de la legion d honneur et pour prouver ma fidelite au cadre francais je fais appel aux lois francaises lois que j admire parce qu elles sont celles de la france que j ai servie a l attaque pendant que rinaldi joseph etait secretaire au pc
+    </p>
+    <docAuthor>
+     Orsini d'Ampugnani
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

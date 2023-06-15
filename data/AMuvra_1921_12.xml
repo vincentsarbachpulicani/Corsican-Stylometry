@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1921_12
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     dormez bonne gens de l en deca et de l au dela des monts il est minuit dormez les divinites tutelaires veillent sur vous la cathedrale politico administrative immense et grouillante de tours de pinacles de campaniles de clochetons d are boutants de fleurons de gargouilles d ogives de rosaces de profile fierement dans la nuit violette et mysterieuse du moyen age corse en son langage de pierre et de marbre elle symbolise toutes les aspirations religieuses toutes les saintes esperances du bon peuple de sampiero comme tout ciel medieval le ciel corse est bas tres bas des astrologues assistes de mandarins et de docteurs es science politique en ont depuis longtemps catalogue les astres et les etoiles oubliez un moment les vanites de ce monde bonnes gens de corse levez un peu la tete soyez saisis d une crante mystique a la contemplation de toutes vos divinites voyez ici la grande ourse dont les etoiles les plus brillantes sont adolphex et la mort giafferrea admirez plus loin antontonea la plus radieuse etoile de la petite ourse pensez quelquefois a vc tr salut bonnes gens de corse 1 monde present est perissable sur le siecle a venir est d eternelle duree cette brillante constellation tout proche de l etoile que les anciens appelaient polaire et que nos astrologues ont baplisee du nom de prefec forca c est tremblez d une sainte frayeur croyants la sublime l ineffable la sacro sainte constellation du conseil general dormez d un lourd sommeil bonne gens de l en deca et de l au dela des monts dors jeune homme de nos maquis la pitie est grande au royaume de corse mais la benoite france te donnera pain et vin a satiete argent nymphes et ariettes a foison tu serviras dans ses glorieuses milices pour que douce et galonnee soit ta vie colossale et fastueuse ta retraite la gabelle et la marechaussee t ouvrirons tout grand leur huis revez des reves d or gentes filles de corse pour vous pour l ornement de vos corps prestigieux pour que la coiffe fleurie remplace sur vos mignonnes tetes l antique mezzaro et pour que le bas de soie enserre de ses mailles tenues vos jambes olympiques freres fiances peres et maris s enrolent en masse sous la banniere administrative les caravelles de fraissinet quittent nos ports bondes d intrepides croises impatients d explorer le continent fantasmagorique ou l orient legendaire le moyen age est dans tous les coeurs dans toutes les pensees dans tous les desirs corses les rues et les carrefours de nos cites ont beau disparaitre sous une mer de boue fetide generatrice de moustiques et de fievres les gazettes ont beau faire entendre la voix de leurs bombardes et coulevrines la mentalite medievale des baillis et echevins s oppose a ce que le moindre cloaque soit desseche la moindre fondrie re comblee lorsqu un elu de la plebe apres un lustre ou deux d absence retourne dans la terre du commun son oeil morne encore rempli des byzantines visions de la capitale considere avec hebetude les campagnes arides les villages deserts les cites abandonnees ha une foi trop absolue dans le moyen age corse pour penser un seul instant au mea culpa se contente t il de marmotteret la foule qui l a elu l a hisse sur le pavois a paye de ses deniers le train princier de sa maison l absout aussi tot de tous ses crimes de lese patrie corse et peches d abandon de l ile infortunee moyen age moyen age dans la medievalite corse la science vaut ce que vaut la conscience point l enseignement public national un vice secteur titre bien moyenageux n est ce pas espece de grand tortionnaire de l ame corse enjoint a ses suppots acolytes et autres gens d apprendre au enfants corses que leur pays s appelait autrefois la gaule et ses habitants les gaulois l emploi de la langue corse ainsi que l enseignement de l histoire de corse constituent une heresie flagrante prevue et condamnee par les us e coutumes du moyen age dormons a poings fermes et que nul souci ne nous hante o freres de corse nous avons nos dieux politiques nos heros civils et militaires nous avons des vierges fortes et secourables l ecole la politique l administration la caserne la retraite
+    </p>
+    <docAuthor>
+     Mathieu Rocca
+    </docAuthor>
+   </div>
+   <div n="1" type="his" xml:lang="co">
+    <p>
+     a rama di oru  ci arricurdemu di ave lettu un becchiu libru arabu intitulatu nechq el azaharfi adjaib el agtar  ce a di  u parfume di i fiori ind emaraviglie di    i paesi   induva le autore spiega chi avendu trapassatu la ultima citta di u mogureb el agga  ce a di  u puneute u  piu luntanu   avanti di ghiunghie a    le isule furtunate  visse un muru assa altu  e chi pisandusi par ghjtta un colpu di occhiu da la altra parte di stu   muru un visse cha arburi di oru  fiori di ogni culore  accelli maravigliosi  ma mancu un christiarnu  ce a di  un musulmanu  parchi li arabi un mettenu mai u pede in chiesa       avemu anchu lettu una traduzione araba di un libru intitulatu   torah    ce a di  a leghie   e questu un ne e   opara di biculesi ma di preti ghiudei     cum inde   u parfumu di i fiori    inde  a leghie  e fattu minzione di un   ghiardinu maravigliosu chi li hebrei  i turchi li arabi e i persiani chiamanu eden       u patrone di stu ghiardinu si chiamava iahve o iehovahe avia dattu a   so pruprieta in affittu a un certu  adam   ma un bellu ghiornu silitiche  denu parchi malgratu a vulunta di u patrone  eva  donna di adam  avia tastatu una mela di oru  tempi fa scuntredemu un bastelicacciu amicu nostru chi un aviamu vistu dapoi un eternita    era  cascatu ind un tafone piu scuru cha u fiumorbu e piu prufondu cha lu infernu  ci   disse ellu a barmi piu grossi cha lecce   mi liecchavanu a faccia   rospi ghialli e ranocchie nere mi currianu adossu un ti parlu di mosche cavalline calavroni  ragni e vespe  parchimi facianu un bistitu piu neru chi a sutana di u scio curatu  inquant a sarpe e scurpioni  ne so statu pizzicatu piu cha   da pruni di fighiringhj    e ci havj fattu par casca inde st infernu maledettu  dumandedemu a  lu amicu bastelicacciu       avia lettu un libru francese  mi rispose ellu 
+  ssss
+    </p>
+    <docAuthor>
+     Michele Coranu
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     realita  per una pulitica astuda  sta volta cappiu li intellettuali chi sanu scrive ma  un sanu fa  e parlu a i veri corsi  quelli di a muntagna e quelli di a piaghja  a i paisani e a i ciltadini di la isula di a miseria          e scriveraghju semplicemente  cume ellu si parla in su pezzu di corsica chi si ne sta tra alandu  pontenovu  borgu e merusaglia  tre u paese di sambucuciu e a tomba di de paoli   sentidemi o corsi  e ditemise haghju raggio   li ci vuolea nostra corsica una pulilica astuda  una pulitica di travagliu  una pulitica di realita  li ci vuole a u nostru paese una pulitica economica e mica una pulitica pulitica   cumu sta in 1921 la isula bella e povera   cumu e a so vita  cumu si svolge a nostra attivita   se bo site agricultore un pudele campa  per cosa        perche una botte divinu bi costa di tras  portu tra bastia e marseglia assai piu di la istessa boite mandata da u vostru cuncurrente  di algeria in francia  allora cosa si passa  quandu a vostra botte di vinu ghjunghje in francia costa  un terzu di piu che quella di lu algerianu e u cliente cunsummatore compra u vinu chi costa u menu  allora cosa  fate   lasciate la agricultura e bi fate duganeru  e guadagnate di piu che  a zappa a terra e scassa e macchie  ma unite piu corsu   site piu nunda  un site mancu francese site  mortu per boi  pe  a corsica  pe a morale  per la umanita  pe a liberti   site mortu per boi e per li altri  site un   schiavu argentatu e indoratu  site un   sbiru ridiculu o un ridiculu sbiru       se bo site intesterdu bi firmate in    corsica  bi cuntentate di a vostra miseria    e  sudisfattu  a sera a u fucone  dite a vostra moglia    semu poveri ma un semu schiavi un semu ne duganeri ne presidenti ma semu corsi                   ma cosa v accade   bi accade chi un ghjornu bi ne falate in fulelli  in casa mozza  in galeria e in sagone  per zappa a vostra vigna o sumina u vostru chjosu se bo sete pruprietariu in marina per taglia a paglia o u ligname se bo sete artigianu o  sultantu  se bo un sete che poveru e muntanaru  per aspetta u batellu fracigu di fraissinet o u trenu serpentinu di fontaine  la armata di e zinzale bi attacca  bi chjappate una frebba perniziosa e i vostri denti stintineghjanu e u vostru sanguesi guasta  e bine campate cume un cane malatu e bi ne murite cume un cane malatu e per un esse duganeru  per un esse sbiru  per un esse impjgatu  per un esse presidente  per un esse pinzutu  bi sete fattu cane malatu   ma avete un figliolu e su figliolu  cume boi cume tutti i corsi  e forte e intelligente  bole esse  su figliolu  struitu e cultivatu  bole esse un omu al disopra di un duganeru    e cosa fate   u mandate a  scuola  ma a scuola e francese  i libri so francesi e u stidutore e piu pinzutu che un chiodu  e allora cosa si passa   si pasa una lotta terribile tra u cerbellu di u vostru figliolu  chi e corsu  e quellu di le istitutore chi un e piu corsu   u stitutore  tene i so libri pinzuti cume  u strappadenti tene e  so tenaglie  e strappa  e stappa  e strappa e a forza di strappa  trappatuttu cio chi e corsu  tuttu cio chi e fieru  tuttu cio chi e liberu  e a bint anni quandu u vostru figliolu e statu in nese duve le istitutore  a bastia duve bittolu  ambrosi  e in parigi duve u prufessore dodolphe landry  un e piu u ostru figliolu  e un bastardu  e un shja u  e un duganeru  cultivatu o un cultiatu duganeru  un e piu ne corsu  ne francese ne pisanu  un sa piu cio  chi elle e    e quandu u sangue di u vostru sangue ghjunghje in corsica  un sa piu di ne zappa ne filetta  si vergogna di voi  di a so famiglia  di a so  patria e di a so razza     e persu per boi  perellu e pe a corsica e interratu vivu in la tomba di la universita francese   dunque in 1921  a corsica ha quattru sanguette annatu a u spinu  ci vuole  o corsi  a truva sei batelli per fa una cumpagnia di navigazione corsa nemica e cuncurrente di fraissinet    ci vuole un trenu piu largu  piu rapidu e menu caru      ci vuole a dissecca e palude  i stagni i pozzi duv elle campanu e zanzare chi danu a frebba   ci vuole stitutori corsi  prufessori corsi  ispettori corsi e bici rettori corsi e mica vittoli stitutori e  prufessori vittoli   ma per cumpra i batelli  allunga e ferrovie  asciuga e palude e fa un uni  versita ci vuolenu millioni e millioni di   dibulo  e a francia  o corsi  soldi un   ne hia  piu chi a sarra   u  maroccu e a  siria i si  pigliahu tutti per forza dunque mi pare a me chi elle e megliu a lun aspelta piu  chi elle e a truva in corsica i millioni chi a matrigna un bole o un   puo da  vo o tu u   chi ci e di piu bellu pa una nazioni che la armata distinta di i so litteratori  di a so litteratura     so ancu libri armi par cumbatta benissimu  certi volti cun piu di effettu che li armi verich un facenu che massacri e rimori        ma per cumpra i batelli  allunga e ferrovie  asciuga e palude e fa un universita ci vuolenu millioni e millioni di   dibulo  e a francia  o corsi  soldi un  ne ha piu chi a sarra  u maroccu e a siria i si  piglianu tutti per forza dunque mi pare a me chi elle e megliu a un aspelta piu  chi elle e a truva in corsica i millioni chi a matrigna un bole o un   puo da    e allora  chi bo siate gavinisti o ca sabianchisti un avete  dirittu di rifiuti u cuncorsu di quelli chi hanu un core corsu e una furtuna cuntinentale  e duvete preferilli a i puliticaglioni di a camera e di u ministeru     da prima ci vuole a esse corsi  bale a di  regionalisti  e po dopu bisogna  esse veristi e realisti per esegui  effettuo realiza  ci vuole a lampa in stretta i deputati  ministri e senatori circataghj li voti e di portafogli    e infatti megliu pe a corsica di sta a sente quelli chi ponu e bolenu fa  e i millioni e a cumpetenza di coty so megliu che prumesse bugiarde di do    dolphe landry  ci vuole a lampa in stretta e catene di a miseria 
+  ssss
+    </p>
+    <docAuthor>
+     Orsini d'Ampugnani
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

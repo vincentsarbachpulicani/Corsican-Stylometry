@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1923_40
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     mal doue pour la  critique  et surtout a cause d un certain vers de boileau je ne m aventure qu'a regret dans le  maquis de l eloge obligatoire ou du blame jaloux  bruler de l encens me repugne et ereiniter quiconque par la plume ou autrement n est pas dans mon cacractere  si je me risque a passer outre a mon indecision c est que j ai pour parler de bonardi  les raisons majeures que me dicte ma foi corsiste  le livre qui m occupe porte pour titre  la mer et le maquis   il vient d etre lance il 7 a quelques jours a peine sans vaine reclame ni tapageuse publicite dans ce maelstrom  tourbillonnant qu est la curiosite intellectuelle il porte comme dedicace  et debute par deux citations  e bergerat et gregorovius  la dedicace et les citations resument tout l ouvrage car elles donnent et la source de l inspiration de bonardi et le but qui a guide son sentiment de piete corse  la trame du roman denote une imagination aux tendances romantiques sur laquelle la mythologie n a pas ete sans deteindre la fiction batie par bonardi pour servir d assise a son argumentation de corsiste convaincu importe peu elle plaira par son originalite et je sais plus d une cervelle qui suivre nonce caravelli chevauchant sur l onde amere son lamantin apprivoise prise aux charmes du style ardent et colore robuste toujours et quelquefois brutal elle se passionnera jusqu au bout du rouleau de dentelles et peloni ourdi par le poete qu est bonardi  mais bonardi n est pas que poete s il n elait que cela il ne me serait pas venu a l esprit de discuter de son talent je me serais contente de subir sa maitrise des que cessent les fugues de son esprit amoureux de couleurs et de parfums de lumiere et de beaute des qu il cesse d admirer son sol du haut des sommets qui le magnifient des qu il revient a la realite navrante qui le bouleverse bonardi cesse aussi d etre poete pour se transformer en un pamphletaire energique en un journaliste a la plume vindittera  a la phrase cinglante mechante meme pour protester de tout son coeur contre l infame abandon dont meurt son ile de beautee sa terre benie et c est alors qu il me plait dans sa sincerite dans sa colere dans son courage  donner un avant gout de l ouvrage par des citations  je ne le veux j ai la conviction absolue que s il est des continentaux et des corsophobes qui pourront s abstenir de lire la  mer et le maquis  par contre quiconque aime la corse s interesse a elle s inquiete de son avenir s etonne de son abandon s epouvante de sa destinee lira le roman de bonardi pour ressentir imperieux le frisson d indignation et de revolte qu il a provoque en moi mais treve aux appreciations j ai hate de conclure et de degager pour mon compte l essentiel de la pensee qui semble avoir dicte le roman corse du jour  le livre de bonardi parait a son heure il est indiscutablement un signe des temps et il signifie a quiconque pourrait encore douter que l ame corse s eveille s emeut s irrite et gronde il signifie que toute une race et combien fiere lasse d'etre tenue en tutelle et menee l encontre de ses interets vitaux lasse d'etre dedaignee et ridiculisee lasse d'etre spoliee et denigree lasse de tout donner sans jamais rien recevoir lasse d avoir faim et d etre serve se prepare a influer sur la destinee trop indolente et trop complice pour chercher a bout d espoir et de patience une orientation meilleure vers un plus clement a venir  le  lamento  de bonardi est l indice avant coureur de la resurection de la corse d antan  qu ils prennent garde les mandarins rentes aux quiets sourires la chaine de servage rivee un jour dans la boue de la trahison et le sang des martyrs pourrait se briser bientot au clair soleil du renouveau sous le giclement du baume redempteur
+    </p>
+    <docAuthor>
+     Cervoni
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="fr">
+    <p>
+     une initiative episcopale c est avec ces paroles si amplement rythmees de celui qui aima le regionalisme d un si fervent amour que je veux saluer mgr gieure eveque de bayonne dont l initiative en matiere de formation educatrice fera date dans l'histoire du regionalisme  appliquant les doctrines cheres a mistral ce prelat vient de prescrire dans ses etablissements diocesains l'enseignement des langues regionales  voici a ce sujet quelques passages de la circulaire qu il a adressee a m m les superieurs des seminaires et colleges libres de son diocese  l etat ecrit le prelat a bien etabli dans quelques facultes des cours de langues regionales les auditeurs ne sont pas venus parfois pour les attirer on a eu recours a la musique nous pensons qu il y a eu erreur de methode c est par en bas qu il fallait commencer et non par en haut il fallait un enseignement elementai re on a debute par un enseignement superieur  notre dessein se resume en quelques mots nous desirons introduire dans nos maisons diocesaines d'instruction secondaire l etude des lanyues regionales par consequent l etude de la langue basque de la langue gasconne de la langue bearnaise l etude de la litterature de ces divers idiomes accompagnera completera ce premier effort l histoire de chacune de ces provinces fera l objet d un second enseignement 11 y aura donc deux cours  un tours de langueet de litterature regionales et un cours d'histoire regionale  les cours dureront trois ans ils seront suivis par les eleves de 3  de 2 et de 1  pour l etude de la langue regionale le professeur procedera comme pour l etude des autres langues  dictees explication des textes redactions themes versions etc  pour etre pratique et fournir des sullais surs et rapides l'enseignenent des langues regionales devrait commencer a l ecole primaire c est bien notre intention de l introduire dans les ecoles primaires libres les maitres sont prets ils ont les qualites que possedent les maitres de l enseignement secondaire ils sont de la region et ils connaissent la langue mais il leur faut des manuels elementaires pour les eleves comme ils en ont pour l etude de la langue francaise et de l histoire de france ces deux manuels de langue et d histoire nous les avons demandes aux professeurs des nouveaux cours des qu ils seront composes ils deviendront obligatoires pour les eleves de l enseignement primaire et secondaire libres   en regrettant qu une pareille initiative ait ete prise ailleurs qu en corse nous soulignons avec plaisir le geste de l ecclesiastique pyreneen qui montre une fois de plus que l eglise dans le domaine de l education spirituelle sait occuper lorsqu elle le vent une place d avant carde ainsi dans toute l ancienne provence et que le comtat le bearn et la navarre le bigorre et la gascogne le roussillon et la cerdagne partout de bayonne a st tropez par toulouse montpellier marseille et toulon l'enseignement regional penetre comme un chaud et gai rayon de soleil   seule la corse malgre les efforts de ses anfarli continue de vivre en marge du mouvement regionaliste comme si elle avait honte de son histoire de ses moeurs de sa langue  c est un peu pour ca croyez le que les francais sourient d incredulite lorsque nous leur parlons de notre fameux esprit d independance et de notre attachement au terroir  et il faut avoir le courage d avouer qu il y a bien de quoi
+    </p>
+    <docAuthor>
+     Fernand Lombardi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

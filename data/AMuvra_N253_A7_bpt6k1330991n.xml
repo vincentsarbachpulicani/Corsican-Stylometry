@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330991n
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330991n
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 253 | Année 7
+     </edition>
+     <date>
+      1926-05-16
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Annu VII — Numaru 253 Esce a Dumènica Dumenica, 16 Maghiu 1926 A: . LE es CA fru | li . si o Fa si La È Pri E: Ea x. cn : Fit to jr ana à A, bo red în ei Sy Cla . FEES) ‘EI Vi NERU È Sa De ar Ù Ta FE Pi Cità ES dr el | aa 8 uti a Resi Ma ~ &gt; AURA pio — È e OR GEA i VE i wi «o eta, ra RE CRETE ARTE cù bo e Serata cime. E A di Gua PEE LS. Sp : 5 CDR DORE MI RA US iin È a a = GIURNALE DI E PIEVE DI CORSICA Direttore : Petru ROCCA AMMINISTRAZIONE: 88, Corsu Grandval 88. — ATACCIU Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     u presente et le avenire di a corsica da centu cinquanta sei anni  a corsica e sottu u  duminiu francese  e dapoi i jorni di a rivoluzione insin a la ultima guerra  i corsi hanu sempre servi tu a francia lealmente  eppure  malgradu i sacrifizj di sangue chi ci simu impostu per elia   un avemu  in comune ne lingua ne tradizioni   suftrimu oghie piu che mai     suffrimu moralmente e materialmente  e bel modu avemu di fa bede cume cristu  e nostre sante piaghe  simu rinnegati da quelli che noi avemu servitu cun onore e fedelta   cuniscimu i culpevuli di tanti guai  e u jornu benera chi chiameremu a sbarra di a storia    i culpevuli  so millaia e millaia ci ne e di ogni cundizione   guvernanti eamministratori  funziunari e militari  so quelli chi ci hanu rapitu e nostre liberta  fratelli  sapete quantu sangue fu sparsu sopra i campi di la ultima guerra di indipendenza  e sapete cum u vincitore tenne contu di e nostre aspirazioni     un si vide piu che un armentu impauritu  u culomibu resto mutu inde nostre muntagne e un velu caliginosu ricupri a terra di corsica  oghie  dopu tamantu silenziu dopu e tenebre chi ci hanu annebbiatu u spiritu dutante piu di un seculu  a muvira e u p ci a   eredi spitituali di i martiri di pontenovu sveglianu a corsica di a so longa letargia  riaccendenu a fiamma di la eterna verita  proiettanu nova luce sopra a furmazione di a nostra cuscenza naziunale e mostranu a tutti a vera strada  gli sguardi  fratelli volgete al futuro  la via che calcate la vostra non e      solu a muvra ha li occhi aperti e bi grida ogni jornu    attenzione   simu minacciati di un gran periculu  e stu periculu e murtale pe a nostra razza  bccu cosa vi dice a muvra nel so scritti  ne i so discorsi  in prosa e in rima  e ancu quand ella canta e ride  a corsica dede sempre proe luminose di quelle virtu chi cenu l onore di a nazione   ti corsi so animati da li instinti generosi e serbanu ind u cote le antiche tradizioni ma si lascianu anda  spinti di a fatalita  quandu  pero  elli cunosceranu assai megliu le origine di i guai chi piombanu sopra a noi  quandu saperanu apprezza u vantaggiu immensu di 7 autonomia  quandu infine capisceranu cos e a patria  cos e u prugressu  cos e a liberta  averanu allora cancellatu per sempre centu cinquanta sei anni di servitu  fratelli i bisogni di a corsica so innumeerevuli  e nostre cundizioni infelici   campemu in mezzu a richezze narurali  ind unaisula fertilema incolta  respiremu una aria pura  sottu un celu benignu eppure nul  la e statu fattu e nulla si fara    simu abbandunati da dio e da li omi  tuttu langue  tuttu more tuttue in ruvina  qual e u rimediu  la autonomia    imali di u nostru paese so grandi e profondi  ognunu a vede ma i puliticanti chi rappresentanu lu ingannu  a menzogna  a malafede e a froda  un hanu altra cura che quella di perpetua le errore e a miseria  le avenire ci insegnera se a corsica sara sempre disposta a ghjmba u spinu  e inutile fassi illusione  di u statu quo un ci e nulla da spera  nulla che u disdegnu a non cufanza  lu abbandonu e a calunnia     simu oramai davanti a duie strade  unaci cunduce a miseria e a ruvina sottu a guida demagogica di marianna e la altra a  ricchezza  e a dignita  a boi dunque a scelta  a servitu o la autonomia   fratelli  site la ultima  speranza di la isula persa  e da voi dipende u nostru avenire  etempu di parla chiaru a quelli chi ci guvernanu  e siate cun noi i propugnatori di la antica liberta   fratelli  udite a voce di i martiri di pontenovu  e stringhjtevi a la ombra di a nostra bandiera     se boi vulete campa degni e liberi ind  vostri paesi  se boi vulete chi a corsica un sia piu scempiata in pace cume in guerra leghjte a muvra  e cun noi senza tregua  esigite la autonomia 
+  s
+    </p>
+    <docAuthor>
+     Saveriu Malaspina
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     di male in peghiu si parla assai attualmente di un trattatu di alleanza tra pitalia e la inghilterra per cuncessione reciproche che questi paesi si farebberu lu unu all altru ene u quale sarebbe entrata o entrarebbe a francia  la italia per v eritrea  la inghilterra per la africa orientale  sarebberu di accordu sopra i cunfini di e so culonie e a francia ella stessa ottenerebbe facilita per e so ferrovie di a costa dei somali    tuttu questu ci interessa pocu anoi altri regionalisti corsi    cio che e impurtantene questu negoziu e a cunstatazione seguente   a francia ha costruttu da djiboutia addis abeba una ferrovia di 78o kilometri  qualchi mesi fa  i giurnali pinquii annunziavanu triunfalmente che a u sudanu francese si avia finitu una strada ferrata di 12oo kilmetri longu a u niger   lascemu da parte cio che si costruisce in algeria  a u maroccu  in siria  pare che ques ti paesi so i giujelli di a francia  bisogna a trattarli cun gran riguardu secondu i so meriti  a nostra isola invece e un paese semplicemente di curiosita naturale  di bellezze turistiche  bisogna a cuntentarsi di ammira  ses gorges rocheuses  les jeux de lumiere sur la mer bleue et ses golfes    la couleur locale de ses bandits  armes de pied en cap  surgissant  a u detour di un che  min  du maquis parfume        e altre simile fandonie  ma porti  ferrovie  ponti  acquidotti  un ne e necessariu di farne    pocu importa che u corsu un trovi micca a manghia ne a so isola  si nomina duganeru  fattore de e poste  sargente di fanteria culoniale  agente di pulizia    a corsica si spopula  diventa deserta  nei paesi e case si sfondanu    tantu megliu  la isola sara piu originale  li artisti pinghierannu i so siti strani  e queste curiosissime pitture ornerannu  les salons de la capitale  de la ville lumiere   a ferrovia di a costa orientale si ferma sempre a ghisonaccia e se a strada ferrata  cominciata appena fine a solenzara  va cuntinuandu cusi fine a bonifaziu  i figlioli di i nostri figliulini un la viderannumica finita  e durante questu tempu i negri di u sudanu e quelli di a costa dei somali cuntinuerannu a viaggia in ferrovia ne bellissime carrozze   e una vergogna   sarebbe dra chi ella finissi  
+  s
+    </p>
+    <docAuthor>
+     Picciafuocu
+    </docAuthor>
+   </div>
+   <div n="3" type="cha" xml:lang="co">
+    <p>
+     cantu a cursichella terra di eroi  di fiori e di amore  mazzuli profumatu chi u signore surridendu a ju mondu  pose in le onde  celu chi mai si videanniulatu  mare azurru e prufondu mai turbatu  chi canti  assediendu e corse sponde  pugghiali tondi di furtune pieni  chi spuntate in le piagghie cume seni  e ci date a settembre vini ardenti  creste lucenti di sole e di neve  castagni chi vestite e nostre pieve  fiumare scemme  e fiumucci indolenti  antiche case  a teppe arrimpicate  bianche cittai in rena riposate  paisolelli pietti in le verdure  chiese e mulini persi in le campagne  torre e castelli  in su per se muntagne  duve le muvre si stanu sicure  pastori chi vi tenite un pilone  vecchiarelle ingrunchiate a lu fucone ricurdenduvi forse di la rocca  vecchj chi mormorate nannarelle  zitelloni ferventi di e paghielle  e per voi  stu gridu di a mio bocca  e tuttu cio chi io chiamu patria santa   e per voi soli  la mio voce canta ste meludie languide di amore   natu e cresciutu a la ombra di ipulloni  nutritu di lu soffiu di i macchioni  o cursichella a te  do lu mio core   
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="4" type="div" xml:lang="co">
+    <p>
+     a cuntribuzione voluntaria caru sgio direttore  u guvernu francese face appellu a tutti i cittadini per fa a so offerta di cuntribuzione vuluntaria  ogn unu e liberu di fa cum ellu vole  e per stu mutivu e u ricusu di risponde a lu appellu di un guvernu in u quale un aghin fede  e mio raggio  eccule   coty chi ci capisce piu che me in le finanze  benche dispostu a sacrifica centu milioni  ricusa di dalli per peura chi elli un sianu sciupati da i puliticanti  in secondu locu  u ministru di a publica istruzione bene di ricusa a i societari di a cummedia francese le autorisazione di presia u so cuncorsu in favore di lu institutu catolicu di pariggi  stu ricusu ha mativatu una lettara di prutestazione di u cardinale di pariggi a u ministru  a vi mandu cun preghera di stampalla afin che i preti e tutti i cristiani corsi chi leghienu a muora ne piglinu cuniscenza  sta lettara e quella chi mi ha dicisu a mandabbi vinti franchi  cume cuntribuzione vuluntaria deposta nantu a le altare di a patria corsa  a muvra  ne so sicuru  la impieghera per a dilcsa di a nostra fede e di a nostra liberta   
+  s
+    </p>
+    <docAuthor>
+     Un prete Corsu
+    </docAuthor>
+   </div>
+   <div n="5" type="let" xml:lang="fr">
+    <p>
+     eccu a lettara  monsieur le ministre permettez moi de vous exprimer ma douloureuse surprise en apprenant par la presse de ce matin l interdiction faite par vous aux societaires de la comedie francaise de preter leur bienveillant concours a la soiree organisee au trocadero au benefice de l institut catholique et de la caisse d aide aux etudiants pauvres francais et etrangers rien ne me parait legitimer cette i nterdiction elle survient inopinement la veille meme de la representation projetee elle bouleverse un programme elabore publiquement depuis plusieurs mois  surtout elle nuit aux interets de la grande oeuvre d enseignement et de la caisse des etudiants pauvres que les organisateurs ont voulu favoriser l'institut catholique est un organisme libre mais legal et je n ai pa besoin de dire la grande part qu il prend au rayonnement de la pensee francaise dans le monde les etudiants sans fortune sont grandement dignes d'intereis le deviendrafent ils moins s ils sont secourus par leurs camarades catholiques  je le sais la comedie francaise est un theatre subventionne  mais il n est pas cou tume de refuser aux societaires la permission de se devouer s ils le veulent aux ceuvres d interet public il en etait ainsi il n eusseat pas repondu comme ils pont fait des le premier jour a l appel de l'uu d entre eux avec une sympatuie genereuse qui les bono re et dont je leur sais gre vraiment je ne saisis pas la raison de l'interdiction portee par vous monsieur le ministre mais j en vois tres bien les consequences et je les depplore elle est susceptible de decourager de bons francais au moment ou leur concours est officiellement sollicite pour une grande oeuvre  l oeuvre necessaire du redressement financier de ja france  veuillez agreer monsieur le ministre l assurance de ma hante consideration louis cardinal dubois
+    </p>
+    <docAuthor>
+     Archevêque de Paris
+    </docAuthor>
+   </div>
+   <div n="6" type="art" xml:lang="co">
+    <p>
+     a i parlameniadori chi so scalati   cari signori  i corsi sinceri o no  quelli di a pulitica e quelli di e narpie  vi hamu diggia dettu tante parolle  sintite ancu questa   sn giratea corsica di tonduintondu  fate contu di esse in casa vos i tra  ma un guastate e delizie di a vostra girandulata dendu retta a qual boglia sisia    ne  peiru v indetta   fatte cusi   paulu insiste  fate cula mertinu   so eiu  per azardu   e vi dicu   nunda  un fate nunda  unu istate a sente a nimu  andate arecchie laccate di cera  cume i cumpagni di ulisse  occhi impiumbati di sonnu  lasciate canta a chi bole canta   un pigliate note  un dinnerate carta  dio vi ne liberi  agguardate u sole  ellu si leva  tutt i iorni  vede a corsica e passa  fate cume di ellu  a e ne di allora si chi u vosiru viaghiu sara dolce e bellu   e sara utile   perchi  quelli di i principi  di u terzu napulione  di i presidenti di republica e di centu cumunissione  funu tantu fele  per noi  2o    oghie a corsica un vi dumanda niente  un crede piu in li duttori chi un sanu mancu curassi da per elli  a verita unn e che una   a corsica  cari signori  e pisula persa e bell e che persa    si u signore fessi u meraculu di salballa  in puntu di morte  vi scriveremu  ll intantu statevine alegri 
+  s
+    </p>
+    <docAuthor>
+     Martinu Appinzapalu
+    </docAuthor>
+   </div>
+   <div n="7" type="art" xml:lang="co">
+    <p>
+     in morosaglia ghiovi seorsu u pievanu di morosagliacu cnratu di lento hannu dettu a messaina cappella di pasquale di paoli  molte personne ci assistianu cu a piu profonda pieta a  fine di a messa zia maria fiora offria in casa de paoli caffe e canistrelli mi ci truvava anch eo e fui tuttu cuntentu di piglia u caffe in casa di le illustre generale  u caffe era squisitu  e a unu chi line facia cumplimenti zia mariafiora li cunto stu stabatoghiu     so figliola di un babbu chi li pracia u caffe  un ghiornu  in osteria di corti  dopu collazione  chiamo  u patrone e li disse      chicoree ne avete     si  rispose losteriaghiu     purtatela tutta qui  a li porto pensendu  fra di ellu   ma chi ne avera da fa  e quandu a chicoree  fu tutta in favula  babbu li disse   oravaandateefaiemi un caffe  avete capitu   e cusi facciu e u  chicore un ci ne mettu in u caffe  chi e rubbaccia  dopu u caffe bisitai li appartamenti di de paoli  spugliati nudi    e in una vera pieta  solu  in salottuci si trova in un guerdaroba  u bastone di u patre di a patria  una sella scurticata e tre o quattru cispre  un si puteria cunsiifui un muse u di anfichiia corse  di manera che i turisti  bisitendu sia casa  ci trovinu qualchi curiosita chi li interessi   e bera che la ombra di u gran patriota corsu riempie a casa  ma quantunque ci manca qualcosa      chi ne pensa a muvra  
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     lamentu di sari   sari sari  sei nasi lulli spari   eju so sari  emiliu batizzatu  mer di bastia e barbi pittinatu   incu le me rivarenze ghiuntu son a lu senatu  di tistamentu  fa vogliu duie righe a bastiacci  a li amici  a le amighe a quale facciu passa  e lanterne par buscighe  a me furtuna e stata a me dintera  cume li cani ej  lu apru man e sera  una risetta in lu pelu  eccu di me la manera  cume di nasi   a me valisgia e piena  tutti li portu cume un artistu in scena e ne cambiu  ogni simana  poc apressu una duzena  par bastiacci ci e lu nasu in cartone  u veru mezzu  ia manifestazione  di attira la pupulaglia cume apressu a sant antone  un nasu rossu  vicinu a lu cristeru  portu in parigi par entre in ministeru e cusi  di marianna  burlu a tutti e ne so fieru  un altru nasu  pare quell  di arlicchinu  mettu in ajacciu   cu lu garbu piu finu par dilli   par me vutate  vi jurgu  sogu ajaccinu   nasu di frate  ej mettu a lu sucellu  cu monsignore e basgiu lu so anellu   di san roccu basgiaria a coda di lu purcellu  nasu ad ancinu lungarutu e curtese  cu i sinatori mettu  mai a palese   cu prumess e belle cose par fa paga le me spese  di i diputati  tantu ne facciu casu  chi elogi  in faccia  ej li ne tiru un vasu ma quand elli si ne vanu  li facciu un paimu di nasu 
+  s
+    </p>
+    <docAuthor>
+     Maistrale
+    </docAuthor>
+   </div>
+   <div n="9" type="his" xml:lang="co">
+    <p>
+     cuscogliule dialogu  un pastore chiamava u figliolu maio    o pe  quandu u to fratellucciu si disceta  dalli una fittarella di pulenda     chi dite  e ba     quandu u to fratellucciu si disceta  dalline una fittuccia      un capiscu  o ba     manghiatila tutta      ieoba l  a te rossu  un prunellacciu si spasimava a spegne una fughera e sudava com un brundaghiolu  battia  battia  ma un pudia fa nunda    a a fine spazienttatu   a te rossu  a te mascaro     ughiuio lampendu u so frascone in a furnace  e andendusine sottu un pullone    u merrone  unu di a razza di quelli chi un cunoscenu piu a filetta era scalatu in paese    un ghiornu passighiava in un ortu  e cianfrisava a piu pude  in piu bellu  bipe u merrone    qu est ce que ci est que cela  moa jene connais pas cette chose    o tonto  pare vera  li disse u cumpagnu  ma eccu  chi bieghiendu  u nostru omu mette u pede nantu a cresta di u merrone  chi li inino di manicu in fronte fenduli scappa     maladettui merroni    
+  s
+    </p>
+    <docAuthor>
+     Matteu Cirnensi
+    </docAuthor>
+   </div>
+   <div n="10" type="div" xml:lang="fr">
+    <p>
+     moro  s en va t en guerre   u scio giafferri de moro de deputatu d a corsica  face trima u mondu interu e quand ellu cappia un bentu in parigi c e subitu una timpesta in bastia  a ne vulete a prova u 24 aprile in occasione d u bilanciu d a marina mercantile ha dichiaratu in pienu parlamentu francese    h n y a pas de question italienne en corse maisily a une question corse en italie  le gouvernement doit s en inquieter  il y a en effet une propagande italienne en corse elle est reelle elle est vaine elle ne sera jamais efficace elle finit par etre irritante  je repete que du point de vue national et le patriotisme de mes con citoyens en est le meilleur garant ij n y a rien a craindre mais lorsque j apercois les sacrifices enormes consen tis par l'italie en faveur de la sardaigne l'ile voisine lorsque je songe que les tarifs kilometriques des lignes italo sardessont par rapport a nos tarifs dans la proportion de 1 a 5 lorsque je me souviensque cet effort tente par l italie n est pas du seulement a sa sollicitude de mere patrie pour file tributaire mais que l on a la bas quelque souci d etablir une comparaison entre ja politique italienne en sardaigne e la politique francaise en corse j eprou ve une inquietude  e cusi in poche parole u scio moro ha risoltu u prublema corsu dichiarendu guerra a l italia  ma u piu bellu di sta famosa cummedia d u 24 aprile fu a risposta d u ministru mario roustan   m le sous secretaire de la marine marchande   vous avez bien fait de signaler le danger de la concurrence italienne ici je suis tres minutieusement renseigne je recois un grand nombre de documents tres precieux qui suffisent a me pousser a veiller avec plus d activite encore  vous avez dit qu'il y avait une questi on corse en italie s'il y a une question corse en france  sic cela signifie que nous sommes prets a faire tous nos efforts largement genereusement  resic jpour la prosperite d une province chere dont l eloignement  n empeche pas qu elle nous soit chere entre toutes fresic et dont m de moro giafferria fait entendre avec tant d eloquence l inquiet et emouvant appel   1 me u ministru mario roustan face sbagliu s ellu crede ch u scio morogiafferri parli in nome d a corsica  un rappresenta nulla  e poi quantu a di ch a francia e pronta a fa per noi sforzi larghi e generosi  queste so chiacchiare dopu cena  cun moro scumettinu mille franchi contr un scldu li demu tempu cent anni e simu sicuri di guadagna  ch a francia un fara mai nulla pe a corsica  e moro a sa megliu di noi  iu poveru tintacciu  s un avemu ne cammin di ferru ne strade ne battelli se noi simu abbandunati dapoi 156 anni e si e zinzale cantanu sempre in piana d aleria un e colpa di choiseul e di fraissinet ma  di mussolini  eccu cosa ci vole fa crede le soidisant giafferri re d i mori e di pappagalli  7 o scio avucatu  un cunsigliu  prima di parla imparate a leghje e se boi un cuniscite a nostra storia fatevi da una lezione ma fin a tantu smettimula per carita
+    </p>
+    <docAuthor>
+     Pasquale Manfredi
+    </docAuthor>
+   </div>
+   <div n="11" type="art" xml:lang="it">
+    <p>
+     la donna corsa  seguito  simpatico e commovente e lo episodio attribuito a margherita paccioni  detta   la vedova di renno    durante la guerra di indipendenza di pasquale paoli  il generale venne un giorno avvertito che una donna in lutto  accompagnata da un giovanetto  chiedeva di parlargli  condotta alla di lui presenza  gli disse     generale   avevo tre figli  due sono morti per la indipendenza  la legge dispensa il terzo dal servizio militare  ma io ve lo ho condotto ugualmente  egli vendichera i fratelli o morra da prode come essi  prendetelo    con le lacrime agli occhi  paoli abbraccio la vedova dalla anima  spartana ed il di lei figlio         un giorno del mese di maggio 1756  il generale paoli  trovavasi assediato nel convento dei francescani di alando  da matra  capo dei ribelli conniventi con genova  il pericolo per il   padre della patria   era grave  se non sopraggiungeva qualche suo fedele partigiano a liberarlo  non lungi  a soveria  si trovava tommaso cervoni il quale  per una futile questione col generale  se ne stava inattivo  sebbene gli amici lo scongiurassero di accorrere in soccorso di paoli  coi suoi uomini  non voleva muoversi  perche il generale lo aveva offeso con un rifiuto pubblico      si tratta qui di ben altro che di un ingiuria personale   gli disse la madre presente     si tratta della liberta  che pererira col suo difensore  fa il tuo dovere   muoviti  o io maledico il sangue ed il latte che ti ho dato    a questa fiera rampogna materna  tommaso cervoni senti rimescolarsi il sangue nelle vene   le onore della patria era in giuoco  coi suoi vomini  ai quali si aggiunsero parenti ed amici  si mise immedia tamente in marcia   rapido come il fulmine  piombo addosso a matra  che rimase anche ferito gravemente dapprima e poi ucciso dal manipolo comandato dal capitano valentini  accorso egli pure nel frattempo    e cosi  il generale  dovette la sua salvezza  meglio ancora la vita ad una donna  un poeta cosi celebro lo episodio   il peregrin che valica ver falpi di genesto con mente e sguardo eupidi cerca l asil modesto della spartana impavida che al figlio il braccio armo  al figlio allorche di alando alle fatal pendici ratto piombio qual fulmine sul capo dei nemici   la patria grata e memore due nomi allor segno  questo tommaso cervoni  fu padre delle illustre  generale napoleonico cervoni  caduto alla battaglia di eckmuhl il ee  aprile 18o9      la corsica  come molti sanno  venera santa devota  la quale subi il martirio  lo anno 3o3  sotto il regno di diocleziano  ed e con santa giulia  altra sua contemporanea  patrona della isola    giovane e bellissima  appartenente ad una ricca famiglia patrizia di mariana  devota era stata una delle prime ad abbracciare la fede cristiana con sincera convinzione ed entusiasmo  volgevano peraltro tempi tristi per ia religione di cristo   accusati di minare le basi dell impero  contro i propagatori della nuova fede di amore e di pace  veniva scatenata una feroce persecuzione  la guidava barbarus  governatore della isola    invitata devota da questi a presenziare ad una festa in di lui onore  ed essendovisi essa rifiutata  venne senz altro denunziata dal senatore ponziano  come propagatrice zelante del cristianesimo incarcerata assieme ad altri correligionari  respinse energicamente le imposizione fattale di adorare gli dei pagani  con una ardente confessione che fu un inno sublime a cristo redentore  posta sulcavalletto  il suo corpo venne orrendamente straziato  mentre la folla chi assisteva al supplizio la ingiuriava volgarmente  spiro fra gli spasimi coi nomi di gesu e di maria sulle labbra  il giorno dopo  il suo corpo do veva essere bruciato  se nonche q  fedeli cristiani  coadiuvati da te pia matrona  riuscivano a depori  in una barca eda trasportarlo am si naco  ove ebbe sepoltura  o altre figure di donne  degne qi essere ricordate  non fanno difetta nei fasti storici della corsica  ne ci  tero qualcheduna   vittoria mal  pina detiala   virginia corsa   e    lia celsi  moglie di giordano one  ni  governatore di ajaccio nel a bella e colta quanto pia e caritate le   rosa paganelli gentildonna de tissima  figlia di un generale alg i do di venezia e madre del re generale abbatucci  ucciso nel im   all assedio di huninga   davia fra  ceschini  donzella di agiata fami i di corbara  diventata  per fortune se vicende  imperatrice del maroc  co  morta nel 1799   agnese di cal vi  distinta poetessa  cieca  le cui opere vennero pubblicate a roma nel 166o  rossana serpentini chi combatte strenuamente a borgo ont  tro i francesi  giuseppina jacobi la quale col suo intervento  decise del  la vittoria delle truppe nazionali a venaco  contro i ribelli  1762   e po  trei enumerarne parecchie altre ancora  fra le quali colomba carabelli la nota protagonista del conosciuta simo romanzo di prospero meri mes  famose sono rimaste nell immagi  nazione popolare le donne di boni  facio  lo eroismo delle quali rifulse durante il celebre assedio posto ali  citta nel 142o da alfonso v  re di a  ragona  fu una popolana  certa mar gherita robbia a dare le allarme con  tro gli assalitori  lo storico pietr cirneo  scrive che le donne ajutaro  no validamente gli uomini nel res  pingere gli assedianti  trasportand i feriti  seppellendo i morti  e nu trendo col proprio latte i parenti ki le leggende in corsica fioriscon a centinaiare molte e di esse hannc per protagoniste delle donne  ni raccontero una la quale  mi sembra si discosti dal genere solito  presso il pittoresco villaggio di renno  esiste un masso di  granito che presenta la forma quasi perfett di una contadina a cavallo  narra una antica tradizione  chi nella vicina foresta di libbio  vives se una leggiadra pastorella  delle quale  innamoratosi il castellano di cirnaca  volle farla sua sposa  do po la celebrazione delle nozze  av venuta con feste e banchetti  l or gogliosa pastorella  riempiti i baul con quanta piu roba pote  se ne par ti col suo signore e sposo  senza nep pure salutare la vecchia madre  pian gente di dolore per la separazion assai trascurata  sono tutte ottim spose e madri affettuose  nell isola i casi di infedelta coniugali sono pitt tosto rari   amano la casa e ci ten gono ad abbellirla  a renderla con fortevole  
+  s
+    </p>
+    <docAuthor>
+     O. F. Tencajoli
+    </docAuthor>
+   </div>
+   <div n="12" type="art" xml:lang="co">
+    <p>
+     una brutta cummedia a cummissione parlamentare in corsica ghjorni passali  emu avutu in corsica  a visila di trenta parlamenari francesi  grassi   tondi  fra i quali  dui ministri   de monzie e ma   rio roustan  eranu accumpagnali da i parlamentari isulani  anu ca cosa pare  sta famosa cummisione bole arricchi la isula persa denduli strade  battelli e funlane  porti  cammin di ferri ec hotels   u pane a sci soldi e u vinu di rigalu  1  nostri   deputati  bulemu intende i macchiavelli chi sbergognanu a corsica  ci volenu fa crede chi sta volta a francia fara piove i lonzi  e sal  ciccie ci biglielli di banca  ma pe disgrazia  u francu un bale che un soldu e mezzu a londra  or dunque  lu 8maghiu a pore  u pierre loti  avendu a bordu a famosa cummissione  arriva in ajacciu     pocu  mondu sopra i   quais    a riceve i delegati di marianna  fe mu sbagliu  ci eranu i camalli di u portu   e jua a minestra 1  iduganeri  rien a declarer   u prefettu marlier  suldati  gendarmi e puligialli     circulez   ricevimentu freddu  nisun sciaccamanu   ti lu avivamu detta o caitu   marianna e bella malata in corsica      a cummissione parlementare  saluez bien bas  mm  les fonctionmaires   un e micca a prima che noi vedimu in corsica  ma credemu sincerament chi ella sara  la ultima    amen  bulete sape quante cummissione ghiunsenu in corsica da u 1826 a i jorni noslri   33 esaltamenie  cosa fecenu  nulla e sempre nulla  una prova  lampate un colpu di occhiu sopra i nostri paesi abbandunati e sopra e nostre campagne paludose e spopulate    ci fu ne u 19o8  a cummissione delanney clemencea u    bi ricurdate di clemencea u quellu famosu vecchiu chiamatu le  perd la victoire e chi ne u 1871  ne 4 marzu    sustenne a la assemblea di bordeaux  quella famosa petizione induve si vuliva restilui a corsica a la italia   oni  messieurs  la corse est indigie di etre francaise      clemencea u  u piu gran nemicu di i corsi    ne u so discorsu  a u cunsigliu generale  u ministru de monzie  ha parlatu press a pocu cusi  u prublema corsu un csisfe    ilya un probleme francais   je ne suis pas venu ici pour vous admirer  sic  ce que je viens faire ci est etablir un programme restreint    mais quantaux routes rien a faire   vesic  avemu u pianu dawes    se falemania paga averete qualcusella  ma se la alemania un paga  sous ne pouvons rien pour vous        stu discorsu ha fattu una brutta impressione    hanu circatu parcechi deputati a scusa u ministra   cosa vulete u mal di mare e u champagne vavivanu santabugliatu   ma de monzie fece sente di novu ste parole strane   messieurs nous e pouvons rien pour vous      e allora  cume dice l eveil     qu eles vous done venus faire ici        se ognunu sa chi i membri di a cummissione so partiti di ajacciu  in mezzu a la indifferenza  generale    u lindumane   12 maghiu   funu ricevuti in bastia  a g ore di sera  davanti a u palazzu di justizia    e cume sempre  gendarmi e puliziotti     ma u populu bastiese un ha acclamatu i   manghjoni pinzuti    mancu un evviva    e di a folla  a un mumentu datu  so partiti i fischi  li albergatori corsi e iutt i sinda  cati di iniziativa hanu  credutu chi de monzie duviva dacci f  letels    poveri sciocchi   buleie vede cume i membri di a cummissione hanu incuraggiiu u turismu e la industria alberghiera  leghjmu u prugramma di u viaghiu di a cummissione   9 mai ajaccio diner et coucher a bord  1o mai propriano diner a bord  porto vecchio  diner et coucher a bord  ii mai bastia  coucher a bord 12 mai    dineref coucher a bord  13 mai   coucher a bord ecc  ecc  quand elli manghianu in terra  bole di chi elli so invilati a spese di u dipartimentu  povera corsica   ci dumandemu cos ellu hanu vistu in corsica e cume hanu pututu studia i nostri bisogni   in ajacciu  12 minuti pe visila u portu    in sarte  una mezz ora pe rendesi contu di stu circundariu  u piu disgrazialu di   francia   in bonifaziu  ottu minuti  in cervione  un quartu di ora    se i battelli di fraissinet benissenu cusi prestu in corsica  megliu sarebbe    la corse est a l honneur diciva qualchidunu ma u lindumane   11 maghiu   si scusava di un pute da ragguagli precisi   za modeste pres se corse ne ayant pas e u  comme la grande presse dt midi  l honneur di etre invitee a suiore le  voyage di etudes  de la dommission parlementaire    baccala per corsica   e avale per fini sta cummedia  una sola parola a i nostri avversari   scummellimu cun elli  cenlu franchi contru un soldu   e li demu tempu sei anni   chi u viagghiu di a cummissione un avera nisun risullalu pe a corsica  si  un solu risultatu   doppia miseria e doppiu ingannu  lu avemu sempre  della  un ci e nulla a spera da mariannona  bi la faremu vede e tucca 
+  s
+    </p>
+    <docAuthor>
+     Pasquale Manfredi
+    </docAuthor>
+   </div>
+   <div n="13" type="poe" xml:lang="co">
+    <p>
+     partenza di clemente viola stamane da lu paese parte u mio pegnu preziosu  era digia piu di un mese chi io nun truvava riposu  ma oghie so ammutulita e mi sentu anda lavita  maladi bogliu la sorte chi ti ha mandatu a la armata  bogliu chiude le mio porte chi nisun speranza nata  sapia chi io mi so vivente u mio tesoru    a clemente  oghie di li giuvanelli ghie sfiuratu lu cantone  e pe li to vecchiatelli o chi pessimu buccone   a to zia un sera sola a soffre sta lisca in gola  lu altissimu re divinu quantu volte aghiu pregatu   chi tu fussi destinatu a fermati qui bicinu per chi di esse rifurmatu un era pe lu to statu  ma un so state esaudite o cleme le mio preghere   ghiorni andati duve site   di quelle serate intere ci ne passeremu piu   questu e lu unicu pensere   mi ne vurrebi fala sinament a la culletta  ma chi ci aghiu piu da fa  a mio pasta benedetta  chi tu mi lesciassi sola e a chi mi li avissi detta  ti vogliu fa un mazzulettu di rosule di ogni spezia   u ti stringhierei in pettu pensendu a la to lucrezia  cerca di piglianne cura cunservali la friscura  un de senteraghiu piu quelle belle canzunette  chi tu cantavi la sera pe li chiassi e pe le strette  a sonu di mandulina per fa sente a catalina  ancu in chiesa parucchiale quand e ti alzavi la voce  sin a ghiesu cristu in croce   da u to cantu originale  per certu chi ellu ne e statu  tante volte innamuratu   gia chi lu destinu vole fammi campa in lu adisperu  prumetti prima di parte chi tu mi serai sinceru  cusi un seraghiu piu sola o cleme la mio viola 
+  s
+    </p>
+    <docAuthor>
+     Una giovina Sampetraccia
+    </docAuthor>
+   </div>
+   <div n="14" type="feu" xml:lang="it">
+    <p>
+     dn la lettera che sopra tutte le dn ge ose il capitano fu quella rena  a sta eccellenza luigi carlo   o conte di marbeuf gentitia pa di camera del fu re di polouse dl lorena e di bar  luogodettate  sl re nei quattro vescovati on a  bretagna  commendatore  ta  ttenant ri rente generale delle mitera tegie in corsica  eccetera eccegello  questa trovandola senza sug   spiego e lesse  le i i essa ci ne o e si lodi che in mo       yano al signore giaco  comeche peccassero di esage tazione e non poco  bisogna dire pero che nella massima parte egli meritava  eravi ricordata la sua qualita di membro del parlamento inglese  ne vi si taceva il grandissimo conto in cui lo tenevano i medesimi minisiri della corona  poiche il capitano le ebbe scorsa fino alla firma  che trove nientemeno essere quella del segretario del duca di choiseul  si affretto a restituirla ripetendo piu ossequioso che mai  mio signore  viaveva pur detto che non faceva caso  e mi sono piegato a leggerla proprio per farvi piacere  capitano semidei  quanto avete operato in servizio di sua maesta nostro padrone e signore vi manifesta perfetto galantuomo   in francia si ammira lo zelo  e si premia  signor boswell sono disolato  che con questo mare sottosopra non poto farvi la accoglienza che meritate  ma imperversino mare e vento quanto sanno e vogliono  non sia mai detto  che essendosi incontrate tante brave persone non abbiano bevuto un tratto alla salute del re      bene  contutto il cuore  rispose il boswell stringendo la mano al capitano e scotendogliela a la dirotta  intanto che aspettavano il vino  il capitano angiolo  cui premeva avere carte in tavola  usci con queste parole        illustrissimo  della ottima  mente che vi degnaste mostrare verso di me vi rendo grazie quanto posso maggiori   spero e desidero  che come questa fu la primavolta che ci incontriamo cosi non sia la ultima  ora vi pregherei a mettere il colmo alla vostra cortesia veramente di gentiluomo francese concedendo  mi due cose  di cui la prima e il presto di una bandiera di sua maesta cristianissima  affinche la mia galera possa con quella fare il suo onorato ingresso nel porto di bastia  la altra un certificato  che renda testimonianza delle mie dichiarazioni  e della obbedienza prestatavi prima di qualunque richiamo    ma cis intende ci si intende  anzi vi chiedo perdono se non vi ho offerto prima la bandiera  capisco benissimo quanto vi angustii entrare senza di lei in un porto francese   pero voglio darvi la bandiera  ma ad un patto  ed e che ve la teniate in dono per amor mio  circa alla dichiarazione ci aveva gia pensato  e mi corre anzi lo obbligo di munirvene per discarico mio non meno che vostro   solo mi rincresce  che gli sbalzi del bastimento non mi consentiranno dilungarmi quanto vorrei io  e meritate voi    illustrissimo   o breve o lungo voi non potete fare altro che bene   rispose capitano angiolo abbassando le palpebre per nasconde gli occhi che gli smagliavano come quelli del gatto salvatico   poiche volete chi io tenga la vostra bandiera  sara mia cura darvene un altra  in questa venne il mozzo coi bicchieri e col vino  allora il capitano francese con bella cortesia sollevando il bicchiere  invece di propinare pel suo re  fece brindisi per sua maesta giorgio ttl re di inghilterra  cui il signor giacomo prontamente replico bevendo alla salute di sua maesta luigi xv re di francia  e 11 capitano angiolo facendo coro ad entrambi con urli da spiritato gridava  viva il re  viva il re  vivano tutti i re  la marineria comecche non con vitata a bere  pure a cotesto grido senti commoversi le servili viscere  e dal ponte  dalle coffe  dalla sentina con tuono formidabile di voce rispose viva il re  lo sciabecco intero parve avere preso senso di umanita francese  per fare atto di servitu    a  cotesti tempi  bisogna pur dirlo  i francesi erano ebbri di dispotismo peggio che di vino  e per le storie occorre  come a certa ciurma di vascello in procinto di sprofondare nell oceano  nulla calse di patria  di famiglia  e ne di dio  bensi coll urlo di viva il re  disparve nella morte  di tai gente nacquero coloro i qualinel passato secolo vennero a insegnarci liberta  e in questo a ministrarci servitu  aspetto diverso di una medesima tirannide  f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+   <div n="15" type="art" xml:lang="co">
+    <p>
+     a u teatru a truppa di operetta marion ha inizialu  marcuri scorzu  a u tealru municipale una serie di rappresentazione di prim ordme  donna perduta  operetta in 3 atti diu maestru g  pietri e stata per li aiaccini un veru incantu  ne u quadru di una grandiosa messa in scena  a graziosissima lydia monti fu una doretta tutta di vivacissima grazia giovanile mentre pina verzicco incarnava una giacomina soavemente peccalrice e chi primo di gennaro  artista finissimu e pricisu  mutatusi in un inenarrabile professore galileo tinia in alenu un publicu numerosu  ne la danza delle libellule  tutu  elena  e bouquet blum lu unu tre revelazione e ne madama di thebes lydia monti  miche  si mustra gigoletta divinamente ondegiante e di gennaro  michelangelo  fu sacratu da i speltatori re di a capriola e di a mimica  ingiru a st arlisti di razza  u tenore foglizzo e signore schelino  signorotti  amendola  e i signori nello  clemente  amendola  ghirotti  maffezzali  gerardi  bisacria  ece    furmonu una ricca cullana di grazia e di arte  la orchestra  sottu a sapientissima direzzione di u maestru signorolti  si muslro in tuliu degnu di tali interpreti  aghiungneremu chi i decori di a truppa so un incantu per li occhi  felicitazione a i fratelli ricei li amabili direttori di u nostru teatru 
+  s
+    </p>
+    <docAuthor>
+     Minutu Grossu
+    </docAuthor>
+   </div>
+   <div n="16" type="div" xml:lang="fr">
+    <p>
+     aux titulaires de pensions militaires fondees sur la duree des services les nouveaux tarifs de soldes militaires ayant ete publies les titulaires d avances sur pension ou de pensions remunerant des services accomplis posterieuremeni au 1er janvier 1925  date d application des nouvelles soldes peuvent demander le benefice des dispositions consecutives a ces tarifs dans les formes ci apres  1  militaires actuellement titulaires d une autorisation d avances sur pensions ef ayants cause de ces derniers les interesses pourront demander a dater de la derniere echeance payee sur leur autorisation provisoire d avances l attribution d une avance determinee d apres les nouvelles soldes cette demaride devra etre adressee au sous intendant militaire bureau regional a marseille accompagnee de l autorisation en leur possession 2  militaires beneficiaires d'une pension concedee au titre de la loi du 14 avril 1924 et ayants cause de ces derniers x les interesses pourront demander la revision de leur pension au sous intendant militaire chef de la s d p a ajaccio en mentionnant dans cette demande le numero montant et date du decret de concession de leur pension
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

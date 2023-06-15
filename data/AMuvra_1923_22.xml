@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1923_22
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     pour vous et pour la corse saignee a blanc apres des siecles de torture en l etau sanglant de la tyrannie apres cent soixante ans d etreinte francaise la corse de meure belle riche souveraine qu importe si dans les cervelles obtuses le mensonge ignoble d une corse pauvre hideuse taree et deguenillee s est inscrute  les yeux s ouvrent la verite flamboie  quand tinta le tocsin le materiel humain guide de loin  par les etats majors fui dirige vers la tuerie les gars de cyrnos ont su mourir paix a ceux qui ne sont plus revenus leur sacrifice a ete consenti pour la plus belle corse non pour la plus grande patrie  il en est qui ont pu revenir aveugles amputes tuberculeux intacts quelques milliers d entre eux que la maratre avait designes pour l hecatombe preservatrice ont repris leurs vie d ilotes sous le ciel natal  ceux la parce qu ils ont beaucoup vu et beaucoup retenu reflechissent  et comparent ce qui est avec ce qui devrait etre   mais ils ont tort de se taire et de s enliser peu a peu dans les mesquines habitudes et les errements ils surent se montrer sans pareils alors qu ils agissaient pour les droits et les libertes des autres se pourrait il que les destinees de leur race les laissent indifferents et veules   combattants corses c est en votre  action que j ai foi aux quelques uns qui m ont connu pendant les annees tragiques avec lesquels j ai communie par les nuits sans sommeil en evoquant la corse lumineuse du fond boueux des tranchees je ne puis que dire  rappelez vous  et soyez fideles aux serments echanges  aux autres nettement sans ambages je demande  qu attendezvous   vous vous etes groupes organises vous avez des presidents des secretaires vous avez des reglements et meme  des journaux pourquoi faire  dans vos statuts que signifie cette phrase idiote que je ne puis relire sans colere l association s interdit toute immixtion dans les' affaires politiques quels sont les meneurs qui vous ont conseille d abandonner la politique de votre pays aux embusques de jadis qui sont aujourd hui les maquignons de bas etage speculant sur votre mansuetude de lutteurs fatigues  pourquoi cette abdication volontaire des seuls droits que vous ont cree nos souffrances  n'avez vous donc tout ose que pour en arriver a jouer le role d ennuques par persuasion  votre pension vous suffit elle a vous permettre de vous desinteresser de l avenir de votre race  et pouvez vous rester impassibles a l appel des freres d armes encore capables de vous crier  debout les corses  pour la corse   mais je m egare en supposant pareil affaissement de vos ames leonines vous avez emboite le pas avec votre bonne foi derriere les meneurs payes pour dissocier vos energies gruges et roules vous ne vous etes pas encore apercus que vous serviez de vos bequilles les assembleurs de squelettes qui  veulent apres avoir exploite la tuerie s attabler pour la curee  liberez vous des mesquines coteries ou l on pretend s occuper de la sauvegarde de nos interets  des groupements multiples sont une heresie fusionnez en un bloc unique le bloc des anciens combattants cyrneens pour defendre par la politique et l action tous vos droits et ces droits  qui priment les votres de la terre natale a un avenir de justice et de liberte reconquise
+    </p>
+    <docAuthor>
+     Cervoni
+    </docAuthor>
+   </div>
+   <div n="1" type="poe" xml:lang="co">
+    <p>
+     so chi tu mi teni caru  e chjiu piegni di core   ma un cie lerme ne danaru ne manc intrigu ci accore ti ringraziu di u to moffu ma u bas e bellu che rottu   que so stati ladri fini e di longu tempu abbezzi a sminuzzula catini e di portassi li pezzi or cerca tu di mpezzallu e piu pogu a rimpiezzallu  e po chi boli aspetta da sta justizia di francia un ti poi fa rispetta chi la inchiesta mai piu stancia da lu usceru    a lu gendernme  megliu e di appendesi a le erme un sai cum ellusa in francia senti  ne serai surpresu u tortu e nant a bilancia e ciole a fa contra pesu i cun lu oru   osinno a ragione entre    e si infunga in prigione   centu azzinghi   ella   mi trova di sta cagnara so stancu ciorebbi chi io fessi prova chi u neru e listessu a biancu or cusi    u mio testimone sera u mio ceppu a lermone  fra poqu capiscerai chi oghie piu nunda mi impachia a momenti senterai chi io mi so messi a la machia gia di piombu aghiu incagnatu a cherchera di tagnatu   ellu   sera bindicatu o cascheraghiu in battagli appost aghiu spendicatu u mio fucilone a scaglia e bai puru chi si io u schercu qualche sia portera mercu   di casca ne so sicuru chi mi cura lu taglione ma un ne imporia  un mi ne curu bogli affronta un battaglione e scherca la ultima palla e more ...a fucile in spalla   un bogliu chi i mio figlioli  diganu chi io fui bigliaccu   un si so che dui maglioli cun pena  di elli  mi staccu  ma da u ceppu nasce a mazza un bogl esse un guasta razza    poi pensa quantu mi piace di sbirba da u mio fogone duv io mi spertia in pace quellu pezzu di u boccone per lescia soli a la ziglia  mama e moglia cun famiglia   bravu so  un tantu chi basta e un pretend esse malignu ma si io mettu mani in pasta  ma si di a mio casa sbignu o frate  un crede chi io ciarli bogliu chi ellu si ne parti    a ragione un ha che un bersu tronca si   ma mica cede  tripa   si io so un omu persu  ma un bogliu scaglia di un pede so decisu  e pertu apposta sta sera  a mettemi in posta    e si io morgu  femu pattu chi tu mostrerai cun ditu a le abbene u mio ritrattu si ellu si e fattu banditu  dicerai  un fubbe a casu piglio bindetta di un basu ti salutu  ti abbrecciu  e addio
+  s
+    </p>
+    <docAuthor>
+     A. F. Tristani
+    </docAuthor>
+   </div>
+   <div n="2" type="let" xml:lang="co">
+    <p>
+     una lettara  caru direttore   postu chi avia prumessu sabbatu scorsu di scrivevi qualchi bolta un vogliu manca di parolla e ne prufittu per cuntabbi un affarucciu chi mi e accadutu in stu viagghiu di aiacciu a benacu   essendu amatore di pesca di canna a e truite  mi avia buscatu in aiacciu un coppiu  di canne di bambu di circa quattru metri di lungura   un impiegatu di a nostra  preziosa bedendumi entra in gara mi dumando cun poca grazia cio chi io cuntava di fa di   st affari qui    eh     contu di purtalle in benecu per divertimi quandu falu a bede a mio vigna bicinu a tavignanu      purtalle   e came e vulete purta    un cuntariste micca di mettele in bagone cu boi  di le volte       inno diavule    avia cuntatu di ligale a u   marche pieds   per un imbarrazza a nimu   po   e cridiate chi ella passassi cu si liscia    cume  cusi liscia   crederia di ave dirittu di purta trenta kilo  ste canne ne peseranu tre   infine  chi mi dite di fa  ci vole chi io dichiari    un mi riguarda      inbarrazzatu passu a u   guichet   e dumandu spiegazione a lu omu di serviziu  scusate cum agghiu da fa per ste canne chi mi dicenu di un pudelle purta    fate a vostra spedizione       una spedizione   lupa  ma almenu parteranu attempua me  e quandu arrivu in benacu e puderagghiu ritira      ta ta  ta  site pocu lestu voi  per ogghie un partenu sicuramente  avissite fattu a vosira spedizione prima che ava      teni  a foglia       feci a spedizione   ne  a ajaccio  expedie  a ne  venaco 2 cannes a peche  3 kilo  grande vitesse  port du  non garantie pour la casse   bi pregu di crede  caru direttore  i chi si durente u mio viagghiu un avia avutu alettura di i libretti chi boi mi aviate datu a matina  mi sarebbe rosu le unghie di rabbia sempre pensendu a cumedia di e canne   infine  per accurtalla  agghiu ricivutu qui in san petru  lu avisu di gara u jornu dopu  per un perde a mio jurnata e fa sei kilomitri  tre a fala e tre a culla  agghiu datu cinque franchi a un zitellu per chi ellu falassi a ritira e mio canne  li so state rimesse conru 2 75 di trasportu e cinque soldi di franchizia  so statu stunatu di un bede scrittu nanta a foglia di espedizione dui o tre franchi di tassa di lussu   or benite a fami crede chi li affari in corsica un vanu be e chi a nostra un marchia a u taccu  avia cuntatu di tammi manda da pebbu chi sta bicinu a aiacciu dui o tre carchi di canne per pala i mio fasgioli  ma vedendu chi duie canne sole mi so custate ottu franchi di  trasportu  so a dumandammi cio chi elli avarianu da catella i fasgioli per impatta e spese di palera  dopu riftessione  caru direttore  bi pregu di di a u mio amicu tomasi  chi ellu avissi a babbu di tenesi e canne  i fasgioli  i pianteragghiu senza palu 
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k13308667
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k13308667
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 314 | Année 9
+     </edition>
+     <date>
+      1928-03-10
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     nou IX — Numaru 314 . » au à ‘E Li A VA cieli  Esce ogni dece iorni Si e Io Marzu 1928 | (ZU 192 PS | “= |   GIURNALE DI E PIEVE DI CORSICA  In Corsica. . ....., e Ci i vot ~ + + « . 12 franchi  Francia. . . . . m Lee, 18  A PEsteru. . .., a OU Te + 4 4 +. 2 . . 30  U Rumaru:5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIGNE:  88, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     a casa di cristallu  in la so lettera aparta a u sgio raymond poincare  petru rocca ha dimustratu chi u guvernu di a ripublica  a le istigazione di i sarraut  chiappe  marlier  susini e altri mignoculi mariannuneschi  fendu nece di vule da una scapizzunata a hindenburg circo di fa la anchetta a mussolini   a raccolta di i documenti accusatori essendu stata misera  tuttu fu messu in lu zanu di mosca e u piu prufondu silenziu succedi a u trostu artifiziale di a stampa circataghia   per puntella lu argutu ragiunamentu di u nostru direttore e fa un altra volta a prova di  pnbliamna mana  dits   incaricatu di  istruisce  u pru cessu fattu da u gabinettu dettu di unione naziunale a i patriotti alsaziani incarcerati a mu1house unn ha fattu che i primi iorni di ferraghiu a sensaziu nalissima scuperta di l esisten   za di u cumitatu di e minu  ranze naziunale di francia  di u quale a fundazione e stata annunziata cinque mesi fa da a zukunft  da breiz atao e da a muvra  e i resi conti di re u  nione o e decisione so sempre stati inviati a le agenzie di infurmazione  e quale  li ignoccari soli un la sanu  prima di mette u publicu a u currente  chiedenu u visa di a piazza beauva u    cumu e chi magistratura e pulizza hanu legalmente abbuttatu a sede di u giurnale cursista u 3 ferraghiu  mentre chi e perquisizione inde i nostricumpagni bretoni unn hanu principiatu che u 5   e risposte a ste quistione faranu a contruprova di u cumplottu massonicu    a  scuperta  di la esistenza diu cumitatu di e minuranze naziunale di francia  centu cinquanta jorni dopu lu annunciu di a so creazione  dimostra cu chiarezza chi sta scuperta duvia custitui a scusa di un intempestiva azione anti cursista      e perquisizione di quimper  di guincamp e di rennes  duvian  in lu spirtu macchia ve licu di a banda sarraut  chiappe  marlier marca chi a justizia un circava che a vede chiaru in la nebbia di le affare di alsazia per diser    v rdine datu dui jorni digu fiascu di ajacciu palesa u veru scopu di lu accampu impunente di a nostra muora   chi i sbirri di u lantivy  di apiazza beauva u e di a rue des saussaies ne faccianu u so dolu inseme a i   diplumati  di u quai di orsay     eccuti un bellu equivoco chi arristitu briand si pudara sturza a dissipare      la intrata di li ufficiali di pulizza giudiziaria a u 38 di u  questu e fattu  ognunu 4 cumprendera  per culmacci di fiducia e di    speranza   u primu metodu  quellu di a calunnia  di a diffamazione giurnalistica  di e cunversazione tendenziose  di li agenti provocatori e di i falzi amici inviati a pigliacci a temperatura  era cosa piu dannosa per noi chi duviamu lutta contru le invisibile reta di a maldicenza e di a malafede   e piu basse insinuazione stampate o dette  e sentenze falate da bocche eloquente da da darretu quante mute da dananzu  i ramori alarmisti di mane prese in lu saccu  di imminente repressione  di sequestrazione  di interdizione e di prigiunia  rumori ingrussati da labbru a timpanu  pudianu intimuri i piu fieri  scuraggi i piu decisi inturbidi u penseru corsu  fa passa i vittuli per eroi e li omi di core per vittuli   ma  cuntrariamente a e speranze e piu schifose  oghie  a li occhj di ognunu  e dimustratu chi aguagliula di a muvra e una casa di puru cristallu   un ci dispiace micca di vede chi u guvernu stessu  cu a perquisizione di u 3 ferraghiu  si sia datu a pena di cuncedeci publicamente un brevettu di onesta   chi mariannona ne sia ringraziata 
+  s
+    </p>
+    <docAuthor>
+     A. F. Franchi
+    </docAuthor>
+   </div>
+   <div n="2" type="let" xml:lang="co">
+    <p>
+     lettera ajaccina  caru cumpagnu   ajacciu e sempre quellu di dui mesi fa  a parte e nove mensule chi elli piazzanu pe a cumpagnia di a luce elettrica  e qualchi nova palazzala versu a barriera chi colla pian pianinu per tappa a vista di a palazzata chi l e in faccia     a petra pe u casino e digia accalastata sopra a locu  ma lu edifiziu un si fara sti dui jorni perche u prefellu un vole scaglia u primu quadru  si aspetta  qualchi altru azzingu per intarra le affare e manda in listessu lempu a sepultura i prugelti di u novu e di u vecchiu cullegiu   u nostru mare e piu bellu ca mai  cicarrughj un so maistali cusi brutti u mutivu saria chi u mare si porga da per ellu  e chi per i carrughj cumbene di aspitta a fine di u carnavale e di a mezza quaresima per ispazza lozzu e cunfelti altempu   di pulitica  poe u frombu  chi tan du ancu a quale da u votu e cunfida i destini di a corsica  i capi partiti  elli speranu sempre a   grazia di diu   una di e cose chi ha passiunalu un pocu a populazione  e slaiu lu accampu di a muora siu mese passalone  sentendune u mormoriu in cilla era corsu anch eiu a buleghiu a i curiosi per circa di vede e di senle  ma un cipobbi capisce un cavulu  quelli agenti di fazione chi un lasciavanu enlre ne sorle a nimu  parianu stalu le e aggruilavanu misteriosamente e ciglie  u  umbeh   pensai   le affare e seriu   ghiudici  capitani di giandarmaria  cumissari  giandarmi  pulizzeri       oh diamine  qui un so bucchiule     accampanu in palazzu  quellu chi ha assaltalu eri sera lu impiegatu di banca per piglialli i vinti mila franchi  affirmo cun appiombu un omu chi smanicciava  sta volta  un la si franca    si    pare chi elli appianu tombu una criatura e chi elli lu appianu intarrata secretamenie in lu orlu darretu a casa  dicia un fascinaghiolu  chi si scurdava di u so carcu  a una laila ghia chi un pudendu capizza a causa di a stagnala si cuntentava di fa   oh  madonna   oh  madonna  chi elli li faccianu fa listessa morte         cercanu un omu chi ha faltu scappa una zitelletta di 14 anni  ella corcia   sussurrava una vecchielta a unasculara chi  des  eg rfia   bi puis  alore  bek   com    si a 14 ars nous ne savions pas   ni        arrestanu quelli di a muora chi cercanu a bende a francia  sentenzio un anzianu giandarme a un so vicinu chi dev esse siatu anch ellu di u misliere in li so giovani jorni     bellu colpu pe i culleghi   oh   averanu sicuramente a croce    a sopralluiu chi pare chi elli appianu scupartu un depositu di bombe e di altre munizioni       tandu infatti  tutt a forza surtia di casa ci un pachiliellu chi un mi avia la aria di cuntene dinamila  a cum ellu u purlava cu pocu precauzione un pulizzeru  u direltora di  a marne  olpu murtale a a muora  venendu circa  sollu a scusa di affari  alsaiani  a prova di altri aifari   cume tu averai lello  inttu divento ummedia e un ci sara ne croci ne nidaglie per sta volta   per compie ti diciaraghin chi quisi  dipoi una quindicina di jorni avemu un tempu tantu tepidu e bellu da un credesi mancu di invernu   ma  cume tutti li anni  u sole marzulinu e nucificu a salute perche da i picchj a u ciarbellu e sumena i catarroni  bellu mese pe i speziali e pe i duttori chi  essendu avale quanle i sturnelli  avarianu piu bisognu di malati a cura ca di altre chiacchiare   contu di fammi un affaceala in pasqua per  ssi vostri loghi si da qui a  andu a salute si mantene  salutami in tantu a lo moglia  e basgiami i chiughi 
+  s
+    </p>
+    <docAuthor>
+     Altore
+    </docAuthor>
+   </div>
+   <div n="3" type="the" xml:lang="co">
+    <p>
+     teatru corsu di a muvra  a pulitica   cummedia in PS atti di   ghiacumone  merre   bilancia    ghiudice di pace   na fidu di jacumone   me secretariu di merria  hjlormu  anzianu elettore di jacumone    cara e  ors antone  altru elettore fratellu di jlormu   dorotea  moglia di jlormu  fiordalice    moglia di ors antone   segretarii  cunsiglieri municipali e numarosi elettori   attu primu   in casa di jlormu   scena i  ghjiormu  dorotea  fiordalice   do     imo di lots bella gamba  o scimo  si ti un voti per ghiacumonel le ace    tautu co den parecchj succorserel vas  dorotea   ma fammila finita  o pendigo  umbeh  e chi succorsi     qualchi minuzia ogni seculu  limosine    cume si no  fussimu circataghj  i  ghjiormu  sempre timicu    inno    micca sempre minuzie   un ti ricordi di quelli cinque centu franchi chi ellu ci fece tucca per una vacca morta da u tonu   e    diu sa si noi avemu mai pussedutu vacche ne vitelli     dorotea   madonna  chi miraculu  ne arrubba tanti ellu a u guvernu  ancu un ja sai  soga credi chi ellu faccia u merre per nulla  chi ne dite  o fiordali      fiordalice   capiscu   more piu ghiumente ad ellu nant a u pullitta  li brusgia piu ad eliu pedi di olive e di castagni ca che unn aghiu eiu capelli in capu  crediteci puru  o cumpa  si ghiacumone face un ditu per li altri  si ne piglia un bracciu per ellu    ghjlormu   purtantu u sgio ghiacumone e cunusciutu per u onest omu e sapete cume me chi ell e bravu e caritatosu     dorotea   macaru per e duie cuncubine chi ellu  si mantene      ci vole a piumaliu stu povaru guvernu quand omu ha tre fochi nantu e spalle   su    fiordalice   senza cunta ciocch ellu li costa juvanni matanghellu chi li face u mezzanu e u segretariu  quellu si  chi insacca    ghjlormu   alo  via  via  ma perche dite simile cusaccie   una volta u truvavate cumpitu  e avale ne fate un omacciu pessimu in tuttu   dorotea   beh   ci vole a campa per amparanne  quesse si sani   ava poi ci sara cio chi unn e ancu a u palesu   ghilormu   tempu di guerra  buggie quant e terra  dice ne pruverbiu  avale chi simu in pulitica un sanu piu comu insuma stu pover  omu   fariste megliu di un da micca troppu arecchia a i detti  di i nostri aversarii      dorotea   dino   un vurriste micca intende per aversariu u novu cuncerrente  un vurriste micca  di le volte  apparaguna u sgio cavicchia a ghiacumone   altru bellomu  altra struzione   altra ricchezza    ghilormu   piu riccu  po dassi e inquant a u restu poi li e e ricchezze si ellu la ha  so e soie  micca di li altri   dorotea   oscimo  chi un capisce rei mai nulla  sappia chi accant a u be  tuttuu mondu ci sta be  sopratuttu quandu quellu chi u pussede e un mari largu   fiordalice   ma chi vale  o cumma  di allunga a fola   spieghemu uv fattu a cumpare senza circa piu tante avvinte   ghjlormu   chi fattu    fiordalice  abbicinendusi  a ghjlormu   o cumpa  vi site be resu contu chi quist annu li elezioni so luttate    ghilormu   chi vulete chi io ne sappia  eiu un mi biotu u ciarbellu pe a pulitica  tantu  credu e vegu chi ella da pochi rivenuti   dorotea   si omu un vole o semplicio  a sapemu cusi noi cio chi si passa e cio che ci voie a fai     ghjlormu   fa cosa  spiegatevi  perche eiu un so tantu antivistu     dorotea   pocu  ma ancu di grazia chi tu ne hai truvatu  una cume me  cu li occhj aparti    ghjiormu   allora  parlate  cuntatemi   chi ci saria di novu   dorotea   eccu  un momentu fa  avemu avutu a visita di u sgio cavicchia      ghjlormu   u sgio cavicchia   u novu cuncurrente  qui   in casa nostra        dorotea   mira  oh oh chi miraculu   un ci po entra  soga   sentitemi qui chi raggiunamentu  e u to nimicu  inquant a me       ghjlorma   nimicu no  ma    in stu mumentu     sapendu cume noi  sentitelu qui  lu astutu p  ghjlormu   alo alo  un ti infuria  e    ripigliate u filu di u vostru discorsu  chi averiste ragiunatu cu cavicchia  poi   fiordalice   pudariste ancu di u sgio cavicchia  o cumpa  date be di sgio a ghiacumone chi ne ha piu pocu meritu  e  ghjilormu   ah  ie      da parte  oh diavule  lu aghiu tutte addossu     a elle  allora  chi avaria detiu u sgio cavicchia    dorotea   ha parlatu cume un agnulu   chi ne dite  o cumma    fiordalice   al  caru   chi bella manera   i  dorotea   eppo cum ellu si sa tene    fiordalice   eppo cusi simpaticu   a ghjilormu  uuh  o cumpa    quande u vi sentu apparaguna a u chiocchi pilatu di jacumone        ghjlormu   si diciarebbe  o cumma  chi voi         fiordalice   ah inno  tengu troppu caru a vostru fratellu   ma sapete   ci sarebbe guasi da    alo  chi tanti affari  lu omu e veramente quellu chi po esse  mira   a dorotea  avete rimarcatu  o cumma   ssu gestu largu di benefattore    dorotea   si io lu aghiu rimarcatu  capiscu         ad biz ne a e anz a i   abbrcinendusi capu a capu di u maritu  tre mita franchi o jilo    tre mila franchi  mi      micca una    chiacchiara    ghjlormu  a zendusi di colpu    chi dite  allora cavicchia e venutu qui per cumprammi  e voi circate a vendemi    si posa pigliendusi u capu fra e mani  oh  disgrazia la meia  un so piu un omu     dorotea   mi  mi  mi a pendigone  e qual e chi ti ha parlatu di  vende o di cumpra    fiordalice   un ci e penseru  o cumpa  bi sbagliate a lu ingrossu  u sgio cavicchia e piu pulitu ca cusi  ha vistu u nostru bisognu in sti tempi critichi  e si e offertu di so spunta vulunta per vene a dacci un colpu di manu      ghjlormu   pussibule    dorotea   pussibule chi e cusi   allora  un sarebbe a minima di e cose disoblighendusi avale chi le occasione si presenta  mi    conta sopra e dite   site tre  tu  to figliolu e to fratellu ors antone      scena ii  i listessi  entre ors antone   ors antone   deh  si dice male di a jente  qui   vedendua moglia  ah  si ancu tu qui  o fiordali    dorotea   ancu di grazia  o ors anto   ghiunghjie attempu  pigliatevi una sedia   ors antone   infatti  aghiu intesu prununcia u mio nome cullendu pe a scala    allora  chi ci sarebbe di novu    ghjlormu   ah  caru fratellu  e nostre donne so saltate in pulitica e ci volenu fa vulta cappa    dorotea   ma chi ellu ti volti u boia   a ors anione  un si diciarebbe  o ors anto  chi ell e appiuttulatu a ghiacumone   scumettu chi un pensate micca cum ed ellu  voi  chi ne dite   fiordalice   ors antone unn e cusi scemu  credu    ors antone    graftendusi   u capu  beh  beh     per diancine    so quattru volte chi io votu sempre per u partitu  e credu chi       fiordalice   un ci e ne credu ne salve regina  tre mila franchi in tre  un so micca una bucchiula  a cosa chi elli ci avanzanu i pedi da u lettu    ors antone   allora  mio fratellu ha raggio   circate a vendeci   dorotea  cun voce bassa  per persuadelu    inno  o ors anto  fr miancassi per quessa dino i che  o ors anto   ors antone  digia mezzu cunvintu    di sicuru  ma    chi diciaranu dopu di noi  in paese  mira  mira  ava passanu i boi ineuppiati    dorotea   avete da pensa  voi  a i detti di e gattive lingue   riflettite piuttostu a i vostri affari accunciatoghj cu sta bella somma  senza cunta chi mio figliolu avera una bella piazza in francia   fiordalice   e chi tu  o ors anto  sarei guardia cainpestra   dorotea   e chi tu  o jilo  sarei cantuneru municipale  chio  chio  centu franchi u mese  senza fa nulla  chi ti ne pare 
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="4" type="his" xml:lang="fr">
+    <p>
+     film du maquis ll nous revient que quelquesuns de nos plus celebres compatriotes parisiens oni lanceun nouvel appel au peuple  corse de la capiiale l'engageant non a prendre les armes comme on pourrait le penser mais a deposer des bulletins de vote en faveur des dupont durand tartempion el autres candidats a la deputation o ces messieurs sont parait il tout devoues a notre cause autant que nous le sommes sans doute nous memes a celle des morutiers et oni le plus grand attachement pour notre pays le meme probablement que nous avons pour le yorkeshire ou le palatinat  on voudrait donc les faire essaver a nos freres corses de paris pour les leur faire adopter mais nous douions fori que ceuxci puissent s assimiler un chepiel aussi continental il faudrait oraiment pour cela qu ils aient un estomac d autruche ou alors qu ils n aient rien dans le venire   les apetres parisiens du relevement corse appuient chaudement ces candidatures car cela fait partie comme tout le reste de leur programme de francisation a outrance ils appartienneni  on le sait a cette fameuse categorie d hommes d action qui travaillent au salut du pays en embrassant et en couronnani force rei ne de beaute dans la tiedeur de la salle d horticulture et en favorisant l essor dans nos campagnes de formidables legions d employes de metro si on les laissait faire ces gaillards la se chargeraient en cing sec de nous envoyer tous et jusqu au dernier poingonner des tickeis  la mise ein valeur de la corse  est ce que par hasard ils se fi cheraient de nous quand grace a eux il n y aura plus de bras en corse ils enverront peut etre teutie pays lutsque celtil ct sera devenu une sorte de succursale de la ville lumiere avez service direci d autobus gare de vestle casone lorsque tous nos jeunes gens seront de beaux gosses  que le cours napoleon sera debaptise pour devenir le cours franklin bouillon et que toutes nos grand meres auront la nuque rasee   nous arguons nous au coniraire que nous serons bien pres de la fin le jour ou zia pitruccia sera a meme de lancer un chauds les marrons et que a muvra muee en le pekinois remplacera ses stalbatoghj par une chronique canine  les insulaires de paris restetoni sourds nous en sommes cerfains aux avances dont ils sont l objet nous leur conseillons d ailleurs des maintenant de se faire porter malades afin de corder a la nauseabonde corvee dis urnes tinettes pour laquelle ils seroni surement commandes le no avril
+    </p>
+    <docAuthor>
+     Romanetti
+    </docAuthor>
+   </div>
+   <div n="5" type="div" xml:lang="it">
+    <p>
+     un pocu di storia   prucessu verbale di a sessione di u 14 jugnu 1794   seguitu   io confido nella comune sagacita per credere che li riempirete con puntualita  e che ne riporterete la publica riconoscenza  e la gloria universale      il presente discorso e stato sentito co trasporti della piu profonda emozione  e la assemblea lo ha dimostrato con replicati contrassegni     in seguito e stato proposto da un membro di dichiarare che tuttele operazioni politiche  e le misure prese da s e  il signor generale de paoli  nell intervallo della presente rivoiuzione  sono state conformi all universale sentimento  ed aspettativa  e ie sole che combinavano essenzialmente  e direttamente colla gloria  e coll  evidente interesse della nazione corsa   l assemblea  e i circostanti hanno unanimemente acconsentito a questa proposizione  e quantunque essa sia scolpita in tutti i cuori dei corsi  egualmente che quella della solenne  e totale separazione dal consorzio dei francesi  nondimeno per calmare i transporti delle emozione   e del senti mento  che ha prodotto in tutti lo spettacolo della presente sessione  e le cose che vi sono state pronunziate  le due proposizioni sono state rin  viate alla sessione di domani alle ore dieci della mattina  e la assemblea e stata aggiornata   solloscritti  pasquale de paoli presidente  carlo andrea pozzodiborgo e gio  andrea muselli segrelarj   sessione  del 15 giugno alle ore dieci della mattina   l assemblea essendosi convocata nel luogo solito  e stata fatta lettura del processo verbale della sessione precedente  e questo e stato approvato per decreto nei termini di sopra espressi e contenuti   in seguito e stata  riprodotta la prima proposizione rinviata nel giorno di jeri per essere definitivamente  adottate e 88815 nella consulta scuo rale del mese di maggio del precedente anno  sono quelle che convenivano alia conservazione della liberta ed alle quali il popolo non solo ka cooperato sostenendolo colle armi  ma anche approva e ratifica solennemente riconoscendole conforme ai sentimenti universali di tutti i corsi  ed indispensabili per preservarsi dagli orrori  e disagi della guerra coi francesl  e per procurare alla corsica fopportunita di stabilire un governo libere  ed appoggiato ad una base solida di potenza e di stabilita  che lo renda superiore alle violenze de nemici stranieri  ed alle interne commozioni   dopo di che la assemblea si e occupata a dichiarare i motivi  che giusti ficavano e  rendevano necessaria la totale e definitiva separazione di quest isola dal consorzio de frincesi  quindi si e determinata di esporli al mondo imparziale  ed alla posterita con il candore e la precisione che caratterizza un popolo stimolato dai soli sentimenti di giustizia  di verita   e di publico interesse   decreto  del assemblea generale di corsica   che pronunzia ia totale separazione di questa isola dai francesi  ed esposizione dei motivi che lo hanno determinato     abbenche la condotta ostile dei francesi contro la corsica sia nota non solo alle vicine centrade  ma anche ai piu lontani paesi della europa   nondimeno dovendo noi separarci tctaimente da essi  e far procedere questo atto a quello della nostra asso  luta indipendenza  la estrema cura  del nostro onore  e la grande fn   e fa grande importanza del sogsetto  ei    e impor  a grande impor tanza del soggetto  ci prescrivono il  dovere di esporre i motivi che ci han   no determinato ad adottare questa  ste e necessaria risoluzione dascuno si  la segno si rammenta che essendo   a corsica sotto il governi e no del re di francia  effetto di    a no assoluto del fe si prencia  effetto di una conquista violenta poe e   vedemmo pres   spsuinaris  noi  niu presentarsi con piacere ne 1879 le occasione di potere alleserire i mali pubblici che ci affligevano  sostituire al governo militare  che ci  dominava allora  quello delle leggi che le disposizioni di una rivoluzione in francia  permetteane di sperare con fondamento   questa rivoluzione che divenne generale nel continente deila francia si comunico in corsica  senza pero alcuno dei caratteri atroci  che dis  graziosamente la macchiarono in molti luoghi  ed in molte circostanze  noi ricevemmo le leggi della prima assemblea constituente senza commo  zione  e giurammo la osservanza della costituzione che  essa avea creato  e che il re avea accettato coll universa  le consenso della nazione   quando noi confidavamo sopra ja stabilita di questa forma di governo riconobbimo con sorpresa e dolore che la fazione dominante dell assem  blea legislativa la attacca nella essenza per dare occasione di distruggerla ra  dicalmente  siccome iniervenne per opera della riunione di nuovi rappresentanti che si eresseroin conven  zione   noi poteamo allora con ragione sepa  rarci dai francesi  perche essi aveano rotto il patto che ci univa insieme  e richiamato il popoloai diritti ed alle condizioni primitive che ci costituiva  nonuovamentenella assoluta liberta  pure avendo ancora qualche confiden  za  sebben lontana  nella sagacita di una gran nazione  ed  essendo spinti per la forza delle attrazione  verso la direzione che prendea il popolo fran  cese   noi mandammo deputati  e rice vessimo le prime leggi della assemblea  convenzionale   vedemmo con dispiacere e con tre  more la tendenza dei principj che regolavano quella assemblea  gli im  mensi mali che essa preparava alla francia  ela nuova forma di tirapnia  che sotto nome di liberta  e di sucurezza si esercitava in alcuni dipartimen  ti di francia dalle commissioni straordinarie  illimi si genere e dimensione   ne li  che per qualu  battisteri  monumenti davano ad infest eu  stuccu  cimentu altre contrade vani  tu sca   astra tro vo della flotta fra  cese in ajaccio che era destinataa molestare la sardegna   le insubordi nate milizie  ed i marinari piu turbo  lenti ancora commisero ogni violenza  ed irreligione  consumarono poi il piu crudele assassinio sopra due oresti cittadini nostri cumpatriotti  che furono barbaramente lacerati a brani  e le reliquie palpitanti portate in mostra per tutta la citta con una ferocia senza esempio  tale era il disegno delle milizie provenzali che sbarcaronoin    fiorenzo  e si portarono 2 bastia nel mese di marzo dell   anno 1793  e che furono tenute a dovere dalla fermezza dei corsi  guando ayeano gia pubblicate le proscrizioni  e che portavano pubblicamente per le strade gli  instrumenti di morte   muelio che la sorpresa non avea potuto effettuare io medita ja perfidia la piu raffinata  soto vani pretesti e supposti motivi  la convenzione man  do in corsica una deputzzione  composta di persone  capo e mani della congiura universale che dovea distruegere ogni persona da bene  impadronirsi delle proprieta altrui  abolire ogni culto ed ogni religione  e domi   nare sopra il popolo  o lusingando i suoi vizj  o soggiogandolo col terrore     questa deputazione fu annunziata in corsica celle piu violenti minacce  nondimeno un eccesso di moderazione ci determino a permietterli lo accesso nell isola  ed anche nelle piazze forti che tutte si trovavano allora nelle mani dei nostri nazionali corsi   la nostra buona fede fu pero disingannata dal decreto dei due aprile che ordinava lo arresto ela traslazione alla barra de s  e  il sig  generale de paoli e del procurator generale sindaco pozzodiborgo   i motivi di questo decreto si viddero espressi con  una inesprimibile stravaganza nei fogli periodici  le cause reali pero erano quelle di voler sacrificare ai perfidi loro disegni lo uomo  che per la sua popolarita  e perle sue virtu  inspirava terrore ai loro cuori inumani  ed aftaccar il governo animato dagli stessi principi nella persona del procurator sindaco   a questo atto di ingiustizia il popolo corsosi commosse ed accorse da ogni  parte per impedire  le esecuzione
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     signor conte pittittone  mane ju conte mazza  causi la spassighiava fis long inlargu in la piazza  gliu  a qualcosa pensava  avia in manu u so bastone  tj so solu cumpagnone   in sevasi di rustinv    scalat e stu persunaghiu   pi cerbellu e picculinu   isp di taglia    un veru maghju    a cap altu  orgogliosu  gia cume un ghjallu pamposu   di le chiavi di fingannu ne e ellu la pusessore   e di talentu supranu   e un sapiente prufessore  cappia certe parulloni chi tappan ancu i tafoni   in cosa un sera capace   u sgio avucatu blagone    fa chi sera chi ellu un piace  lu sgio conte pittittone      a so eloquenza v incanta   vila prova e si ne vanta   trinnighendusi  ne marchia cala so pipa imburrata   si e accuppiatu cu canarchia  per fanne meglior sbaccata   unu falzu e vagabondu  lu altru bruttu e birbu a fondu   stu distintu persunaggiu vive da tapunzulese   chi ne ponu alza lu bracciu su dui numari in paese  conte mazza e   nu mulinu  u sgio barbiziverinu    fa un altra wu   parenu tanti falchetti spepersi per sti pughioli    un lascianu   ssi stercaghj  manc ove ie li pullinaghj   ma  per sti soli talenti  ci sarebbe lu perdonn   peghin chi parla di batte  e minaccia cume un tonu   bughiacone si e dicisu  di da colpi a pimpruvisu   ma cerchi di ave malizia  signor conte  in li so scorni  si ellu un face la justizia sentera suna li corni e pudera preparassi   afaghie da i nostri chiassi   circhemu di sbarrazzallu cu trecentu mila cani     currite per ben fischiallu  puresteri e paisani    si ellu sparisce su mostra  oh  chi be sera lui nostra 
+  s
+    </p>
+    <docAuthor>
+     Curneriu Santini
+    </docAuthor>
+   </div>
+   <div n="7" type="poe" xml:lang="co">
+    <p>
+     caccia muvrina  povera muvra    bulianu tumballa   centu cartucci avianu carchi a palla   pigliat  avianu le poste per trapanalli le coste   i muvidori cu li cani adestrati  facenu a mossa chi eranu cumandati  sperendu di fu carneghiu giungnenduli a lu abuleghiu   versu nov ore   la eaccia hanu truvatu    i muvidori hanu tutti gridatu    state aitenti o pustighianti  tirateli da duvanti      era un muvrone chi la si pasculuva  in iu rughione chi a liberta li dava  quand ellu intese li cani  piglio li monti per piani   fece tre salli eppo li vulto faccia cume un cignale ci una fiera ghignaccia   in se stessu si dicia    avanti  la caneria      poste unm ha ioecu   e piantatu a lu abbaghiu   paria un toru di lu mese di maghiu  disfidava tutti quanti li cani e li pustighianti   tutti cuntenti di vedelu in la chiostra  accintu di arme      ma di colpu si volta   ranfiana  rasinu e corni longu   per rigalallu a u prefettu   di a pelle fapne un iapeltu   a la baitagra  tutta la jente corre  gridendu ogn unu piutostu in so favore     lasciate sta lu muvrone chi in gni cantu ci ha un padrone    1 cacciadori partinu spenciulati  cu li so cani tutti codi lentati   la caccighiata muvrina  fu vana pe la matina   pampasgiolu
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     lu orsu a stu mondu  quandu nasci eo piuvia malanni   u tredeci ferraghju novanta sci   di un accidente chi i carco di affanni  pienghianu a u fucone tatti mei   ricorsenu a lu prete  e lu duttore  nissunu mi credia pe stu mandu  passavanu hi jorni   nn balia more  duvia campi persoffre nun lu escondu   sempre malaticciosu e straziolu  tuttu stizza e tamantucchiu cusi    ott anni    altru accidente novu dolu  chia sorte mi e cuntraria piu che si   a pisticcina e la eria muntagnole cu iavolif e i  chi vurristi    paterni permettinu va pricucciu di scola  ma soldi  nun ci ne e peranda interni 1   da prima giuventu vidi le albore  di e muse perche so dilu razzinu 2  duve quand unu nasce o unu more  pianti o gioia  si accoppia lu sestinu   u ticchia mi piglio di vede terra  anch eiu cume quellu di a fortuna  partii    navicelle leggera   partii ma non pobbi chiappe luna   girai la tascane lu piemonte    in parigi tant anni ci so statu   di u desertu scuprii le orizzonte   ma in corsica  ju core era restatu   malgradu  lu miosanguc ele sacr os  se  3   chi mi chiomann in fi campi nurdine chi   di u spasimu di cirnu senta e scosse  mi volenu e filelte e li lustinchi   mi vole a cardellina e u petti rossu dicennapiu ca totti ta la soi  chi si natu pe la miseria e iguai i cumea to mammarella 4  pover orsu   infine  feci nidu indue so natu   per massima  fede e speranza  amore   da mio moglia a u travagliu ojutatu   surridente scuprimu un novu albore 
+  s
+    </p>
+    <docAuthor>
+     L'Orsu d'Orezza
+    </docAuthor>
+   </div>
+   <div n="9" type="let" xml:lang="co">
+    <p>
+     caru direttore   or que e bellu le affare    ma ci vulia ad aspeltacisi dopu quellu di alsazia   allora i sgio marlier et sarraut un sanu micca chi a muvra e un animale lestu  e chi le alpiccie un li fanu paura  volenu fa crede chi ella e senza muvrelli e muvroni in giru  si credenu permessu chi un puliziottu possa cundanna a ne rinchiusu a bandera di i corsi di pontenovu   e  speru  chi li affari anderanu di ba in megliu  sopratuttu mustrendusi piu arditi ca mai  in tuttu casu  iengu a rinuvabbi tutt a mio simpatia e dibbi chi per tuttu so sempre prontu     ringraziamenti per lu almanaccu  e un capu lavoru   sempre fieri dunque e in salute   cu voi di core 
+  s
+    </p>
+    <docAuthor>
+     Ghiaseppu Filippi
+    </docAuthor>
+   </div>
+   <div n="10" type="feu" xml:lang="it">
+    <p>
+     in sequela di cio i naufraghi affricani dopo risarcita la nave ebbero ia facolta di tornarsene a salvamento in affrica  non ingrato il bey  avergli spedito un oratore  che venuto alcospetto gli disse   il mio sir gnore ti saluta e ti vuol bene  poi donatogli il cavallo  ed altre robe di valsente  gli fece profferte grandi per parte sua in ogni emergenza si ritrovasse    in questa si udiroro parecchie voci  che dissero  eccoli  ela gente in fretta si ammucchio curiosa di vedere  di un tratto  con un mediocre stupore del boswell uscirono dal palazzo alquanti vomini ottimamente vestiti di pan no scuro  con rovesci al collo e alle mani di velluto verde  armati come gli altri cavalieri  che rispettosi ri masero a piedi finche il paoli non sali sopra il suo cavallo  dove non  lo avessero avvertito  a gran pena  il boswell lo avrebbe potuto ravvisare  imperciocche adesso gli comparisse davanti coi capelli colti  e ripresi dietro al capo in un nodo  e il capello a tre punte piumato   vestito da capo a piedi di velluto verde trapunto di oro su le costure enegli orli  oltre il consueto doviziosa no to essere la spada che gli pendeva a  fianco  tutto insomma  sembianza  gesti e addobbi  iramandavano un misto di grandezza e a impero  per modo che il nostro signore giacomosbalordito non sapeva che cosa pensare  a   un tiro di archibugio fuori delle ultime case di corte la cavalcata incontro il cavaliere valcroissant accompagnato da un ufficiale e da pa recchi suoi famigliari  appena si  scorsero  che da una parte e dall al tra smontarono alternandosi urba ne accoglienze secondo che porge va le indole diversa  aggraziate nel  francese  sostenute nei corsi che risaliti a cavallo posero in mezzo al generale e al comandante achille murati  con molta cerimonia  le oratore francese  mutando a quando a quando fra loro qualche motto senza costrutto  in questo modo procedendo erano arrivati quasi presso al palazzo  allorche fu vista comparire fuori della porta di una casa certa vecchia a capo nudo  segno nelle femmine corse della massima costernazione esprimente nel  le sembianze sconvolte lo estremo della angoscia  e del terrore  appena vide gente lascio cadersi giu di sfascio in ginocchio  e con le mani aperte  e con le grida implorava soccorso     aiuto  per carita  ella esclamava  lo ammazza  lo ammazza  mio marito ammazza il suo figliuolo   t1paoli in un attimo sbalzo da ca vallo  il cavaliere valcroissant anch esso  prima di pensare a quello che facesse si trovo col piede a terra  gli imitarono gli altri  e tutti di corsa alla casa dove stava per commettersi le atroce misfatio  ne la donna aveva punto alterato il successo  imperciocche il paoli trovo un vecchio infellonito per tutte le membra tremante  che ad ora faceva lo atto di accostarsi alla spalla lo schioppo  e spararlo contro un giovane di piacevole aspetto  il quale ritto accanto alla parete opposta aveva la aria che non si trattasse di lui     fa lo atto di contrizione  borbotfava fremendo il vecchio  se non vuoi andare di posta all inferno     ma  signor padre  sentite la ragione       non vo  sentir nulla  preparati a morire   intanto il paoli sopraggiunto costa  mirando che il cane dello schioppo era inarcato  fu cauto con un colpo del braccio voltarne la cauna al soffitto  e altempo stesso diceva     per dio santo  quirico  hai dato la anima al diavolo  che vuoi ammazzare il iuo figliuolo       non ci e cristi che tengono  ha da morire  non lo ho generato io  lo rinego per figliuolo  deve morire     e deve morire        pare che la abbia fatta grossa costui      eh  una cosa da niente     vedete  dianzi gli ho detto  vito  varia sicarica dalevante avremo presto burrasca    il generale raccoglie una compagnia di mille giovani  fiore di cersi per combattere questi prepotentacci di francesi  che dopo avere finto amicizia per quattro anni  adesso ci si scoprono nemici  non istare a gingillarti  procura essere dei primi a segnarti  perche i savelli non sono usi di farsi aspettare   ora sapete che mi ha risposto  quel figluolo ribelle     mi ha risposto  che chi ne aveva voglia  andasse dunque se non vuoi difendere la tua patria  va fuori  carnaccia da ingrassare gli olivi   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

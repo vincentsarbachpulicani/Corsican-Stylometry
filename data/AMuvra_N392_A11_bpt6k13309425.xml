@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k13309425
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k13309425
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 392 | Année 11
+     </edition>
+     <date>
+      1930-03-23
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     annu XI — Numaru 392 Esce a Dumenica Dumenica 23 Marzu 1930 Lu  A MUVRA  GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI:  in Corsica. . « + * ........ 15 franchi  In Francia. 4 « 4 + + + + + 18  Unione postale + 4 « + + . + + + + 30  U Numaru:5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  38, Corsu Grandval 38. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     storia nostra  nissun  paese  piu di u nostru  po vantassi di ritruva ind a storia  a so  propria efedeje immagine  quella chi u destinu li ha tracciatu da ogni tempu  ni   di aspettu muntagnosu  abitatu da jente aspra e valente  duminatu da lu eternu sentimentu di u mare chi u circonda  u nostru paese duvia furzatamente spende in energie  in viulenti sfoghi di ogni carattere  cio chi madre natura avia depusitatu in ellu   cusi  man  manu che i seculi passaranu  si assistera a lotte sanguinose  a ardenti cuntrasti sociali e morali  ribellione e reazione  sopra a u sfondu immutatu di li alti monti e di macchie   e u studiosu  le osservatore  u consciu di cose storiche un duvara mai perde di vista stu quadru animatore  si ellu vole ben capisce lu antagonismu di li omi  di i partiti  di le aspirazione     a la alba di la epuca storica  truvemu  divisi in tribu sparpigliate inqna e inla  inde i valdi e fureste  una manata di indigeni  feroci  salvatichi  ma decisi a difende ad ogni costu a so  liberta contru le invasore  si chiamassi questu iberu  etruscu  o ancu romanu   ritinemu sta parolla   7iberta  parchi  per u corsu  e stata sempre una parolla fatidica  illuminatrice  altri  populi  cume ad esempiu li unni  i normanni  i gotti  i tartari  funu di spiritu bellicosu  ma a raghione determinente di a so  attivita era la invidia  u desideriu di cunquista e di rapina  u corsu  invece  fu mossu da istinti assai piu generosi  e per questa raghione chi ellu un duvia micca  cume li altri  firmassi barbaru  u so  ardente amore pera liberta cuntenia in germe tutti li elementi di una civilta chi ellu un duvia tarda a raghiunghie   infatti videmu  stu valente populu apprufitta di a luce divina di roma  prima ancu che i galli  i celti  li iberi  i dalmati e i daci  le oppida menziunate da strabone  antiche    furtezze di a virtu autoctona  diventedenu in stu modu municipia eppoi vescovati  seguendu a norma chi facia passa i populi cunquistati da a barbaria a u cristianesimu  mediante lu interventu fatidicu di roma   di u stessu modu  chi a natura si rinova  grazie a successione ininterrotta di e primavere  cusi a storia corsa  specchiu fedele di la anima  di le aspirazione di u populu  duvia trasfurmassi  muvendu versu un ideale sempre piu spiccatu di civilta   u mediu evu  dopu u crollu definitivu di a putenza romana  purtede in se e forze regeneratrice di a nazione e di u spiritu naziunale  scacciati in cunseguenza i mori  i quali eranu riusciti ad impianta indel isula un regime chi custituia una vera anomalia storica  u populu corsu percorse allora  attraversu i duminjpisanu  aragunese e ghienuvese  una serie di cicli piu cunformi a i so  destini di isula mediterranea  investita iniziaimente di tutti li attributi di a civilta latina  e esclusivamente latina   qui mi pare chi ellu saria tempu di intavula a discussione sopra a u cuncettu chi i nazionali corsi si fecenu  fin di allora  di u stranieru  parchi u fattu di cunsiderassi se stessi cume una nazione  cumporta cume cunseguenza  aimenu apparente   quella di attribuisce a mumentanii cunquistatori una naziunalita differente   per esce da sta difficulta  bisogna stende a discussione  denduli un caraitere generale  cusi  lampendu un occhiata intondu a  corsica  omu scopre isule  paesi  regni  chi i hanu avutu una storia analoga  a natura agiscendu sempre ind u stessu tempu   e inde i quali u problema di a naziunalita si e postu esattamente cume in casa nostra   qui cume culandi  le ambiente fisicu  a pusizione geografica e  in piu di un casu  a tragedia di u mare  hanu suscitatu ribellione  cunvulsione e moti di ogni generu  senza parla di e guerre fratricidie e di e lotte intestine   e inutile dunque di stabilisce per u nostru paese  a stu prupositu  regule particulare  mentre esiste una norma precisa  generale e ineluttabile   evidentemente  lu assolutu rigore di sta norma  e qualchi volta turbatu  attraversu 1 seculi  da cunvuisione chi omu un po sempre prevede  ma  si no  ci ricurdemu u strettu parallelismu esistente tra natura e storia  un saremu micca  troppu surpresi di ritruva in questa i stessi fenomeni  e stesse trasfurmazione  i stessi tempurali  per cusi di  che in quella   si tale spiegazione un bastessi  ghiuvaria allora di ramminta i mumenti piu tipichi di a nostra storia  e per mumenti tipichi  intindemu e curve piu caratteristiche  i punti piu essenziali signati da a sopra accinnata norma  a  dittatura  di vincentellu di istria  la epopea di sampieru  ma soprattuttu u guvernu di pasquale paoli  ci furnisciaranu ampj esempj di esplosione nazionaliste degni di esse meditati  prucedendu in stu modu  eviteremu e difinizione i distinguo storichi  per un occupacci che di i risultati pratichi   invece di ricorre a e varie  teorie  ci bastara  per ritruva le aspirazione nazionaliste a i tempi di le eroe di merusaglia   di ricurdacci varj fatti e ab benimenti  consulta di sant antone di a casabianca  presa di capraia  vittoria di borgu   disfatta di ponte novu  ecc    e similmente  per capisce i bisogni suciali e intellettuali di quell  epuca  ci sara di gran prufittu a lettura di a custituzione corsa o di i statuti di la universita di corte  stendu sicuri chi a latente aspirazione nazionalista e maravigliosamente et perfettamente rinchiusa in tutti sti fatti di guerraein ogni riga di st istituzione legislative e didattiche   oltre a risparmiacci e longhe digressione teoriche  stu metodu ci offre ancu u mezzu dievita a perfidia di certi eterni sofismi tendende a ghiusti fica e cunquiste arbitrarie e le assimilazione viulente   per cunciude stu breve studiu chi noi avemu vulsutu essenzialmente objettivu  faremu osserva chi omu pudaria riassume la intiera storia nostra inuna sola parolla  liberta   parollaeminentementecuncretizzatrice  e rappresentativa   cume dighia avemu nutatu   di un populu  di una razzanaturalmente predispostu ad una incessante lotta per utrionfu di u so  ideale  parolla chi significa un donu preziosu chi omu cerca di riave  quandu per disgrazia si e persu 
+  s
+    </p>
+    <docAuthor>
+     Petroniano
+    </docAuthor>
+   </div>
+   <div n="2" type="poe" xml:lang="co">
+    <p>
+     far  niente  mi sto solu  appughiatu ad una calle  li ocehj persi pe  lu piaghja deserta   la alma ci un  ala in pianu e la altra sperta  pronie a parte in un vol  di frasche gialle   guardu la borga nant u mare aperta   a cullina o lu fondu di la valle   lu aghiu da perde per nn piu truvalle ste stonde di meditazione incerta     o tanta prufittevule pigrizia   mi anneju in te  cume in una delizia   fora di stu mundacciu chi appatella    fughji  o tempu  piu lestu che ln ventu   ma chi premura   ogn ora  ogni mumentu  di cirnu in cor  mi lampa una candella  
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     parolle di fede  oghie un basta    o cumpagni  ma chi circate a pruvammi chi tutti quelli chi hanu indi e vene u sangue corsu si ne stanu in brama di i so  paesi quand elli se custretti di scappassine per  sse pinzutie    chi siate a dimmi chi tutti i spaisati un piantanu di parla di e loghe chi ellu hanu abbandunatu e chi elli un pensanu che a riturnassine prestu in casa diiso antichi     chi state a cuntammi chi a chi e corsu un si scorda mai di quelli omi superbi chi sapianu vive e more da fieri    eiu vi ripetu chi oghie un basta a parla di a nostra cara corsica a pinsacci quand omu mi e luntani  a luda li umoni chi fecenu  a i tempi  vammirazione di u mondu intieru e chi impersuneghianu sempre a so  indipendenza  struncata centu sessant anni fa   bisogna  oghie piu che mai  a pinsa da corsi  a fa da corsi  a cumbatte  a resiste  a vince da corsi   a cumbatte  a resiste a vince     ogni jornu ci e una battaglia  e ci vole a da vassaltu  ad affrunta unimicu  e ci vole a resiste  a fa ghiurnata sulenne   e ci vole a triunfa   cumpagni  fratelli  o cari  un siale intimuriti e paurosi  ricurdatevi di i vostri arcibabboni chi facianu trima la oppressorieluttavanusenza teme altru che cristu   multiplicatevi  e multiplicatei vostri stretti  a battaglia per le onore e a risurrezzione di a patria e iniziata   chi ognunu di moi valga centu di elli  chi cinque ne valganu mille  chi i nostri sguardi secchinu e braccie di  o  i vittuli  chi e nostre parolle sianu tante saette pe  i judei  chi i nostri petti si empjnu di quell orgoglin tremendu  di quella fierezza stupenda chi pomi cume circinellu  cume zampaglinu  cume vinturone fecenu vede a i cunquistadori   e battaglie pe  a liberta un so micca tuite sanguinose e qualchi volta u figlio di lu omu face vedemiraculianc a i ceghi   ma si ellu ci fussi bisognu  si arrizzarianu ancu i martiri  di quella santa guerra  sarianu cun noi a mezza baruffa per dacci rinforzu   si arrizzarianu guelli di marana   si arrizzarianu quelli di u nebbiu  si arrizzarianu quelli di balagna  si arrizzarianu quelli di casinca  si arrizzarianu quelli di u fiumorbu  si arrizzarianu quelli di furiani  si arrizrarianu quelli di  oletta  si arrizzarianu quelli di   rustinu     si arrizzariamu q a si s arrizzariani quellidi bocc a tenda   si arrizzarianu quelli di lentu    si arrizzarianu quelli di vezzani  si arrizzarianu quelli di zicavu  si arrizzarianu quelli di ponte novu   si ellu ci fussi bisognu  o fratelli  si arrizzaria anch el e petroncule di a so  tomba si spezzarianu a a nostra prima chiama  se  bastaria chell a fussi una chiama filiale  o  allora  o cumpagni  da a citta santa di morosaglia un staria tantu a parte linsuperabilearmata di vl anime corse  chi a voce di u babbu di a patria avaria richiamatu da lu altru mondu     maforse chi i vivi si ajutara nu da per elli e chi ellu bastara a fa da corsi  sempre eppo  sempre  i
+  s
+    </p>
+    <docAuthor>
+     Ghiacintu di Muru
+    </docAuthor>
+   </div>
+   <div n="4" type="poe" xml:lang="co">
+    <p>
+     o mare   a u sampelracciu   a barca lu so  portu avia lasciatu   tirava forte lu ventu di u nordu   e di li cinqu omi chi eranu a bordu  manc unu solu unn e piu riturnatu   da li scogli di u fondu  stracciati   i so  cadaveri viaghiaranu    sottu le erbe marine durmeranu   o da i pesci saranu  divurati   nisunu a sa  nisunu po risponde   ma sinche spuntanu je prime stelle   le mamme  orfani  le  veduvelle lu aspetteranu sempre sopra e sponde    lu aspettanu  fissendu le orizzonte    a  gni vela chi spunta  ognunu spera    ma no  quest e bianca  l ultr era nera   calanu le addisperale fronte   o mare  quandu ti metti in furore  quandu mughj  so belli li to canti   ma quaniu ne facesti neri manti   ma  lacrime  quantu ne festi corre   o mare  devi ave core di legne   e la dulore umani nun capisci   ancu quelli chi ti ami li culpisci    e anc a me  crudele  festi piegne    una volla  anc a me snduluresti  tant anni fa  eru sempre bambinu     nun ti ricordi piu  mare assassinu   di lu me  babbu chi tu mi arrubbasti    a bordeaux imbarcatu si ne era incu tant altri sopra an battellone    ma tu  senza ne scuse ne ragione   u li inghiultisti  quella notte nera   mi arrubbasti lu babbu tant amatu   senza pieta di me  tintu figliolu   tu  lo me  core li empisti di dolu  eppuru  dimmi  chi la avia fattu    e quantunque ensi  un possu  un vogliu imprecatti cun collera sincera   perche lu me  piu gran piace  la sera   e di pude sugna sopra un to  scogliu    ava  di te lortanu eiu ne sonu   ma mi tengu lu to  ricordu in core    e si  u mi dasti tantu dulore   o mare bellu  ti amu e ti perdonu  
+  s
+    </p>
+    <docAuthor>
+     M. Alessandri di Chidazzu
+    </docAuthor>
+   </div>
+   <div n="5" type="art" xml:lang="co">
+    <p>
+     festa corsa in ucciani  aviamu intesu parla di prete felce  parroccu di ucciani  ma ci e vulsutu chi noi u videssimu a la opera per cumbene chi tante lode a so  indirizzu unn  eranu micca esagerate     in pede nott e ghiornu  nienie u fiacca  nienie u scuraggisce  pur chi a so  chiesa    unica preocupazione    in prima  sia messa for  di periculu  poi  imbellita  arricchita infine di piu in piu   ma e questule ed altre chieste di  ssu genere jugnenu a pocu  per pude pensa a grandi rifamenti  a sti jorni duve u materiale e a manu di opera so a prezzi impussibili   or chi fa allora    eccuti chi a u prete piu  si aghiunghie lu omu di scarapiccia  di rumenue di iniziativa  un idea li vene in chiocca  e feste  li attrazioni sane  doppiu e ludevule scopu  rapportu e educazione   arma un cinema  inardigneghia tuttu di so  propria manu  custruisce un palcu scenicu  struisce una corale pe a chiesa  truppe artistiche per riprisentazioni   a critica e sturzata in quattru salti  i soldi cumencianu a rientre  i conti si facenu in publicu  e un scappa una bajocca in fora di a chiesa  i paisani ad una para acclamanu a so  man  di diu  prete felce   ma per a recita  li elementi   letterati  un si trovanu che la isfatina  eccuci chi allora picchia a lu usciu di a classa rimanente e operaia  sa chi sottu a pelle di ogni corsu cista una intelligenza chi un dumanda che a sviluppassi  cusi una nova truppa si forma  e quessa sera una truppa corsa chi un recitera  un cantera che corsu   e ogni sera  durente mesi interi  eccuci u paziente curaiu  inturniatu da i so  allevi a u fucone  bisogna prima ad impara a leghie  dopu vene a dizione  infine u gestu e lu appiombu   e tuttu que educheghia una giuventu  forse purtata per i gattivi divertimenti  que a ritene a u paese chi elli untrovanu piu cusi mortu  que li sapera fa sceglie piu tardi a sana da a pessima distrazione     una chiama a a muvra  questa corre cu u so  saccu di e publicazione adatte a la opera  e a  purtata di tuttel orecchie  corre u sampetracciu cu e so  creazioni di teatru e di e di cantu   e in ssa manera  u 18 e 19 marzu scorsu  feste di a misericordia e di san ghiaseppu  avemu pussutu assiste a duie belle rapprisentazioni corse  e accorgeci di ustupendu risultatu ottenutu da un cusi ludevusforzu     davanti a un publicu incatastaiu   a cummedia in 4 atti  i suceessi di natale zuccone  si e sbuginata frai  scaccani e li applausi  i recitanti    ghiaseppu casanova  filumena    saveriu poggioli di crucoli  lisandru   ghiasepp antone silvani  natale zuccone   attiliu vergari  ghiannone   saveriu poggioli di ucciani  saveriu   stefanu mariaccia  rusina   dumenicu multedo  mariuccia   matte u  poggioli  pasquale    dumenicu poggioli  anton dumenicu silvani  paulu biondi  e santu calzaroni  i jucadori   tutti ad una para  mancu stampa cunturbati da u publicu chi elli affrontanu pe a prima volta  si mostranu maravigliosi  sicuramente  u risaltu serebbe statu ancu piu grande si a partita di rusina e mariuccia era stata recitata da attrice  ma speremu chi per le abbene prete felce truvera ad apparina ancu ssa difficulta   pudemu riassume u successu di u sampetracciu cu i so  canti  in sta rimarca di un vecchiu  u jornu dopu   oh  oh   or quessu mi  zittaie  chi mi sentenu sempre e custigliole  oghie  di altronde serebbe inutile di allungacci sopra i so  meriti e capacita  e abbastanza cunusciutu   e duie serate si so chiuse cu u  cantu corsu  cursichella   di petru rocca   assistianu a  riprisentazione   petru e zarafinu rocca  paulu graziani prete giusti  cullati da ajacciu  avemu pussutu ricunosce in la folla  giocanti  stitutore e anzianu cunsigliere generale  cu a famiglia  sgio ottavi e madama  milelli ricevitore di e poste e famiglia   pinelli  capu stazione  e famiglia  sgio mariaggi  poggioli  silvani  giocanti e tant altri chi ci scappanu da a mente   numerose publicazioni   almanaccu  barretta misgia  canzone di u sampetracciu  so state vendute a prufittu di la opera  ammuntendusi cusi a una diggia bella sommua   chi ellu campi prete felce  dicenu uccianesi   ma  a ponu puru di     
+  s
+    </p>
+    <docAuthor>
+     Pasquale Manfredi
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     lamentu di un fidanzatu  paisani e ciltadini pristelimi li attinzioni   una simili vargogna  metti u sangui in cumuzioni  sin a fa trima la jenti  di forti custituzioni   e un fattu propriu tristu che vogliu meit a palesu   un fattu chi di so  paru si ni sara mai inlesu    ma com  ellu mi ha affliltu  vogliu chi ellu sia  ntesu   duva si sara ma vista  chi un babbacciu di famiglia dop ave colpu la mamma abbia ingannatu la figlia   bisogna di lu dimoniu  ave pigliatu sumiglia    fu cusi chi la me amata e cascala inde  ssu statu   e fu doppia la vargogna   chi ci era lu imparerlatu    par un cucinu di sangue un si e micca rispeliatu       e li me diciannov  anni fiurinu di poe  onori   a causa di un scillaratu senz appena di russori   ci ol di ave cori di un tigru par cummetta tali errori   a st essare maladellu un vurria parduna   ma com ell e di la casa   un so manch eiu chi fa    or detimi stu cunsigliu   se mi devu vindica   senza pietai nissuna   ci e da brusgialli ia testa   ma ci e moglia cu figlioli   ed e quista chi mi arresta   ma lu ricumandu a diu chi ellu li mandi timpesta   eccuci li risultati  di li penseri amurosi   accadenu tant affari disonesti e vargugnosi  ghiovani chi mi asculteti  guardetivi di sti cosi   a colpa riveni intiera a stu vili scillaratu   babbu di quattru figlioli e di eta bell avanzalu    a zitella ha quidici anni  guardeli si ella ha peccalu    par amor di sti figlioli e sta mamma tant afflitta un pigliaraghiu vindetta   a rabbia si stara zitta    e quella chi mi ha traditu cerchi altro lu so maritu 
+  s
+    </p>
+    <docAuthor>
+     S. Scarbonchi
+    </docAuthor>
+   </div>
+   <div n="7" type="div" xml:lang="co">
+    <p>
+     impicci e  mbrogli  ci vulia a pensacci  quellu chi ha cinque soldi di judiziu sa chi a majo parte di ci nazione attuale un so che arbitrarj aggregati di sterpe chi unn arrivaranu mai a pudessi capi    na  fra ste nazione  a francia custituisce u paese u piu braganatu di europa   un parlemu non solu di i brettoni  di i fiaminghi  di li alsaziani  di i corsi e di i baschi  i quali custituiscenu minuranze naziunale talmente vive  chi ell e impussibule a un qualsiasi di bona fede di unn avvedesi a  prima vista chi elle un so che rami spiccati  da e vicente storiche da i so  ceppi originali o residui di qualchi razza trafalata in le bughiure di a morte   ma  puntendu u speculu in le visce   re piu intime di quellu statu artificiale  si po facilmente accorgesi chi u  vecchiu sangue gallicu e una fizione senz alcun valore e chi ell e da gran tempu chi i pratesi figlioli di brennu e di vercingetorix so scandinavi in normandia  germani da dunkerque a le alpe e latini da loira inghio   a pastetta chi ha  fin qui  impiccicatu st inseti for di natura fu a cultura di roma     aval ava u tira e molla sgangarera ciocchi e statu ammazzulatu a la fara   u periculu e di impurtanza  pero la france moderne ha trovu la incolla per appiccica tuttu   eccuti a so  ricetta    pourquoi ne organiserait un pas ie jour de la fete nationale  un grand defile partant de l arc de triomphe  comprenant les membres de toutes les societes provinciales de paris  en costumes  car il en existe encore  avec leurs deputes et senateurs en tete de chaque groupes   puis  sur la place de la concorde les societes se masseraieni devant les sfalues des grandes villes de yrance qui symboliseni leur region ou qui geographiquement  se trouvent les plus rapprochees de jeur pays di origine   et la  a tour de role  des musiques feraient entendre du milie u de chaque groupe des airs alsaciens  bretons  auvergnats  provencaux  etc  puis  toutes en choeur  a la fin  elles feraient monter vers le ciel notre immortelle   marseillaise    le hymne de la patrie commune qui dirait ainsi a tous les echos de la france l union de la nation tout entiere    cufie e berette  flaviti e rivergule   a cosa era piu che semplice ma    ci vulia a truvalla   u regionalismu e una bella cosa    legnu e acqua  intrattene e fureste vole di intrattene la acqua  quest e una prova digia vecchia e inutile a sviluppassi dino a longu   simu dunque fissati in corsica sopra u nostru abbene  postu chi noi assistemu a un sistematicu scumpjmentu di tutta a vegetazione chi ricopre a nostra sfurtunata isula   chi ellu ci sarebbe un rimediu  u guvernu francese a sa  postu chi a stessa situazione si prisentava a u maroccu quandu liautey ne piglio a direzione  e chi in pocu tempu i risultati si so pussuti custata  e    un circhemu dunque i quattru pedi a u muntone   i chi po e un face  soga un vole   per quattru cannoni nant un scogliu un bisogna tant acqua ne tant alberatura   mahatma gandhi  dopu a spina di a rivolta diu tonkin ficcata inde la ilia di lu imperialismu francese  eccuti a lisca di u naziunalismu indianu chi si cuzza in le schinche di lu imperialismu inglese   ma  tandu chi in indocina u rombu di li arcusgi ha intrunatu vallie monti  i mistici indiani inizianu ci una prucessione 1 prutesta di 3oo millioni di anime impastughiate da un populu troppu ingordu   da u monasteru di satyagraha  gandhi ha inviatu a u vicere di la india un ultimatum duve u rappresentante di i duminatori era chiamatu  amicu caru   questu ha fattu risponde subitu in sta manera   caru sgio gandhi   si e  u vicere mi incarica di accusavvi ricivuta di a vostra lettera di u 2 marzu   e dolente di sape chi voi intendite inizia un azione chiaramente rivolta a provoca a viulazione di e legge cu periculu pe  a publica tranquillita   sinceramente vostru   a  cunningham   i or fattevi  per dui minuti  la idea chi u p ci  a  ha inviatu a u prefettu di   marianna un ultimatum di u genere di quellu di li indiani   certamente  a risposta di u proconsule di ajacciu un principiaria micca cu un caru sgio presidente   megliu  u rappresentente gi a ripu blica in corsica si ascundaria subita sottu a la ala di u so  ministru  u quale  pe  a virtu di i so  fondi secreti  faria  subitu publica da giurnali locali sp   dirigenti di u muvimentu to chii quattrini da la italia  da lai ani da u papa    e ancu da mosca  magna   ebbe  sta cosa un  sogna a pe   la  postu chi ella e accaduta  nsassi  l ultimatum lu avemu postu e a x posta e stata tale  ingiurie e dif ss zione    ama   in regime di infantamata dem gia un si sa che sputa sopra a e ss dicazione e piu ghiuste e i dritti jens assoluti   1 piu  minuranze  un altra  prova di li i i   pros intransigen h i demagoghi di parigi risorte da e ra relazione di una seduta di u cunsi hal naziunale svizzeru   eliu  le onorevule zimmerli  deputatu di  lucerna essendusi fattu portavoce di quelli chi in lu ticinu e in ia svi  a i interna vedenu u periculu di a del denza di a cultura italiana sullecita i  parte di a cunfederazione un a  u finanziariu destinatu a e scole di i tura italiana cul  dll deputatu luganese  l onorevul ollfus ringrazio u cullega di lucer  r   a na pe uso  interessamentu a favore di a che italiana in svizzera e ap pughio calu i   8h1o calurosamente la idea espressa   a diversi altri deputati di lingua te  esca e francese si dichiaronu elli   dre a dino  favurevuli a lu ajutu di a cunser  vazione di a cultura itali in  la azi aliana ticiou    a   ala  particularmente interessante fu a relazione chi ellu impruviso u minis tru di li interni  on  pilet golaz  l o  ratore di u guvernu fece daprima nuta chi u ticinu unn e micca sola  mente un cantone cunfederatu ma una minuranza linguistica  e cume tale u custode di a cultura italiana chi e una di e parte essenziali di u patri  moniu naziunale svizzeri  le oratore aghiunse chi si a cultura italiana in svizzera era culpita  era a svizzera stessa chi era ferita a u core e chi u guvernu era pienamente di accordu per suvvenziuna e scole italiane di y ticinu   u miuistru  annunciendu chi un prugettu duvia esse preseniziu a papprubazione di e camere  ha cunchiusu dicendu     noi vulemu ajuta u ticinu a fa u so  duvere  ci e a di  a difende a so italianita     cumu mai pudariate imaginavvi un landry oun pietri chiede a u guvernu francese un  ajutu finanziariu per mantene la italianita di a corsica   cumu mai pudariate imaginavvi dino un poincare  un herriot o un tar die u dichiara a  tribuna chi u guvernu mariannescu e decisu ad ajuta a corsica a fa u so  duvere  ci e a di  a difende a so  italianita   i fiumi vultarianu piuttostu a e so  surgentel    
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     cirnu  cirnu  superba e dolci parola chi a tuttu bonu corsu li ramenti u campenili en ja so  chiesola   l amor di diu e di li parenti     cirnu   se la muntagna e la furesta duve la capra pasci in liberta    ndn  lu omu e francu e la donne uneste  locu di fedj e di ospitalita     cirnu  se lu campu di orz e di granu chi u ventu movi  simile ad nn mari   li prati e li cuddetti chi  di branu   so fiuriti e parinu tanl altari      cirnu   se lu bajaghiu e lu arghiaghiolu  lu celu cusi sirenu e turchinu   se li castagni e lo paisolu   la murta incu lu rosumarinu     cirnu   se lu passatu gluriosu chi a futtu corsu la menti rinova   sei lu golu tintu sanguinosu da tutti li eroi di pontenovu   cirnu   se u locu santu e sacratu  induve lu omu prega e si inghjnocchia sopra la tomba di le essere amatu   e brusgia una candela in la parocchia     ma se dino  o cirnu  di le avvene la spiranza chi codda pian pianinu    lu sangui e sempri caldu ind e vene   e lu capu a la barretta vicinu   si  di san jorghiu
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     primavera  so turnati li fiori e li violi e ghie ringiuvanita la campagna   da una serra a la altra di a muntagna ricucea v cantu di li russignoli   tutt e cambiatu  tutt e culuritu    si e vistita altrimenti la nalura    si ha messu li so  panni di virdura etutt adornu a fiori e  ssu vistitu   fughjtu ne e lu invernu  la stagione di li gran freticini e li pinseri   a jente si ranima   e li sumeri     guardu di u miu paese a cambiazione   ammiru lu so  celu e la so  serra   gridu di cori   evviva primavera  
+  s
+    </p>
+    <docAuthor>
+     F. Mondoloni
+    </docAuthor>
+   </div>
+   <div n="10" type="div" xml:lang="fr">
+    <p>
+     je ne pouvois des lors manquer d'etre bien recu tous messicurs les officiers me feliciterent de n etre point tombe entre les mains de dom guillio  de dom vergilio deux rebelles des plus obstines e des plus dangereux qui m avoient suivi pendant pres de quatre lieues je les remerciai de l interet qu ils daignoient prendre a ma conservation  leur racontai les mesures que j avais prises pour rompre les desseins des ennemis j avois partage mon escorte en quatre pelotons que j avais ainsi disposes le premier marchoit devant le second sur ma droite le troisieme sur ma gauche e le dernier tout proche de moi  j avois ordonne a ceux qui marchoient a droite  a gauche d arreter tous les rebelles qu ils trouveroient  de les desar mer en leur otant jusqu a leurs couteaux s ils en avoient il y en eut quatre qui effectivement furent arretes sans qu ils fissent la moindre resistance apres avoir repondu aux questions de ces messieurs je pris la liberte de leur en faire a mon tour e leur demandai comment ils se trouvoient dans le poste qu ils occupoient nous sommes me repondirent ils sans cesse inquietes par les insulaires quine laissent presque passer aucun jour sans venir tirer sur nos gens pourquoi dis je ne les previent on pas en faisant le premier feu sur tout ce qui se presente  on ne le peut  me repondirent ils sans risquer de l tuer les habitans avec qui l on se trouve  qui ne font aucun mal plutot que les rebelles qui ne cherchent qu a nous surprendre la crainte que nos gens avoient de se meprendre en tirant au hasard surtout ce qui se presentoit devant eux venoit de ce que parmi les habitants plusieurs portoient une longue barbe ainsi que les mutins c est une coutume en corse que ceux qui ont recu quelque injure dont ils veulent se venger laissent croitre leur barbe jusqu a ce qu effectivement ils avent assouvi leur ressentiment je resolus malgre la coutume de faire tomber ces funestes barbes du menton des habitans de lento  des environs PS voici comment je m y pris  je fus trouver m le commandant e le priai de faire doubler la garde qui montoit a la place  il me demanda quel etait mon dessein je lui repondis que c etait de procurer de la tranquillite a la troupe  que s il vouloit me laisser faire j etois sur d y reussir que la grande gar de etant doublee comme je le voulois je choisirois dix hommes avec lesquels j irois de maisons en maisons pour y faire prendre tous les habitans a longue barbe e les faire conduire au ccrbs de e ou bon gre malgre je les ferois raser afin que lorsque les montagnards approcheroient on put les reconnoitre  faire d abord feu sur eux sans craindre de se meprendre m le commandant entra dans mes vues  m accorda tout ce que je demandois  la dessus j envoiai chercher le plus ancien barbier du detachement de bearn  je lui dis d aller chercher ceux de ses confreres qu il connoissoit en etat de raser  qu ils se irouvassent tous au corps de garde a une heure apres midi pour qu aucun n yj manquat j ajoutai qu il y auroiti bonne recompense il en amena huit qui attendirent mes orares au lieu prescrit ou j avois eu soin de faire faire un bon feu cependant je fus en qualite de nouveau venu dans toutes les maisons faite ma visite  en envoyai au depot tous les habitans a longue barbe attendre que ma tournee fut faite j en ramassai environ quatre vingt des que je fus de retour a l endroit ou etoient mes barbiers je fis commencer l operation quand il y en avoit six de rases je leur faisois donner une gourde pleine de vin que je leur faisois boire a la sante du roi tres chretien de m le commandant  de l aumonier au lieu de bouteilles on ne se sert ordinairement en corse que de gourde apres les avoir ainsi fait boire pour les consoler je les renvoyai chez eux les uns plus les autres moins mecontens  il y en eut un age de 8o ans qui mourut deux jours apres du chagrin qu il avoit concu de la perte de sa barbe je donnai a chaque barbier un ecu de trois livres  un louis a partager entre les soldats qui ce jour la avoient ete de garde je fis de plus porter un ordre par lequel ceux des habitans qui ne se seroieni pas raser au moins une fois la semaine seroient obliges de donner cinquante parparioles a ceux qui le seroient cela fit que personne ne manqua d'etre exactement rase a l egard des ecclesiastiques j obligeai egajement tous ceux des environs de venir chez moi se faire aussi raser en ma presence  c etait un cri universel contre moi mais je laissai crier  fus toujours mon train enfin pour que l ordre ne futignore de personne je le fis afficher dans differens endroits de lento  sur tout a la porte de l eglise  a l egard des paroisses circonvoisines je chargeai les pretres  les cures de l intimer  de l afficher  de facon qu aucun ne pit pretexter cause d ignorance par ce moyen les rebelles de cette pieve n osant plus paroitre furent reduits a se retirer dans une autre partie de l isle fort eloignee  la troupe delivree des allarmes continuelles ou elle etait auparavant n'eut desormais rien qui l empechat de s acquitter des devoirs du saint temps de paques  m de mailleboisconnoissant combien la perte de lento etait dangereuse  n en recevant point de nouvelles crut qu il etoit ou force ou du moins investi par les enne mis pour s instruire de l etat des choses il envoya un detachement avec ordre de ramener tout ce qui pourroit encore y avoir sur cet ordre m bornard evacua ce poste  reconduisit sans aucune perte sa troupe au corps e fut rendre compte au general du moyen dont je m etois servi pour procurer du repos  de la tranquillite aux soldats m de maillebois se divertit extremement de mon siratageme  me temoigna dans les termes les plus obligeants le contentement qu il ressentoit de toute ma conduite  ce fut a peu pres dans ce temps que le maitre d hotel de feu m le marquis du chatel fut assassine pres du pont de tenavo un des plus redoutables coupe gorge de l isle a cause de son horrible situation la plus propre qu'on puisse trouver pour commettre impunement tous les meurtres  tous les brigandages cet infortune portoit a son maitre une somme considerable en or  en argent qu il venoit de recevoir a la bastia on le trouva depouille  absolument nud perce d un coup de feu dans les reins  de dix coups de poignard dans le reste du corps deux malheureux soldats qui retournoient a leur camp de merosalia  eprouverent le meme sort on n'entendoit tous les jours parler que de meurtres  d assassinais  certains cantons n etoient remplis que de bandits  de scelerats qui n ayant rien a craindre de la justice de plus que ce qu ils avoient depuis long temps merite tuoient  egorgeoient impitoyablement tout ce qui avoit le malheur de tomber entre les mains
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="11" type="feu" xml:lang="it">
+    <p>
+     lella lo agguardava fisso dentro gli occhi mentre egli la avellava  dapprima le pupille del giovane sfuggirono colesto ardente sguarde  per ultimo ne rimase vinio e tacque tome ammaliato   la fanciulla conlinuo a guardarlo e a pensare  ad un tratto rompendo il silenzio disse     1 danari si potrebbero trova re     ah e come   sposandomi   un ma questo sarebbe toccare la cima dei miei pensieri  voi sapete   lella  quanto vi abbia amata   si ebbi a venunziare a voi fu colpa mia  lella      certo fu mia   io non volli ascoltarvi  e ne anco adesso vi ascollero     dunque mi desiderate morio e infamato      no io intendo essere vendicata  sul corpo di giovan bruno giurai che non avrei tolto a marilo se non quello che avrebbe vendicato i  suo sangue       io lo vendichero     voi     to     ci avete pensato     ci ho pensato     e ne sarete capace     vedremo     e farete quello che vi ordinero     tutto      allora venile     e presolo per un braccio lo spin se dietro la stanza  dove dormiva il padre suo orso  gridando     babbo  babbo    eal punto stesso spalancava le finestre   il vecchio scombuiato a cagione del sonno rotto  dell urlo  e della luce improvvisa che gli feriva gli occhi  balzo a sedere sul letto  strepitando a sua volla     demonio di figliuola  non si puo chiudere un occhio con conslei    i    li terremo tanto chiusi quando saremo morti  babbo   e poi ho faria  vi ho condollo un uomo  che mi vuol essere marito  e al quale io voglio essere maglie   orso strofinandosi gli occhi esclama  ua    e faltro   e lo altro        perche vendica lo altro  e voi e me       ah   come si chiama costui  e donde viene        viene da corle esi chiama matteo massesi     il figliuolo del gran cancelliere   questo e un tradimento       babbo   fin qui avete condotto voi la traina della vendetta e avete rovinato voi e me   adesso lasciate un po   che mi ci provi io   cio che  non valse a fare granfia di leone lo pote dente di topo  dunque acconsentite voi che io lo sposi    i    piglia il diavolo che ti porti  ma a quel patto     siamo di accordo       ma come ti assicuri chi ei te lo mantenga      questo e mio pensiero     ma egli ti sposera      e pensiero mio  scrivete il vostro consenso e shrigalevi   il vecchio sopra di una tavoletta  che leila gli poso su le ginocchia  scrisse e firmo il suo consenso   il quale lella dopo avere letto ripose in seno  allora si fece a richiudere le finestre e le imposte dicendo   buttati giu  babbo  e piglia sonno confento nel pensiero che  mentre dormi la tua vendetta cammina   quindi agguantato matteo pel braccio riprese     su via andiamo   dove andassero  che cosa statuisserro sara chiarito altrove  intanto imporia sapere che matteo iornato al ridotto del gioco pago come un banco i suoi creditori   invitato alla  rivincita si scuso allegando la sua partenza avere a succedere da un momento all altro ed usci   pero in tulto quel giorno abbandonava bastia  e fu visio aggirarsi per le strade a mo  di trasognaio in compagnia sempre di uno zitello lesto e vispo i come una scimmia   non lo riconoscendo persona  pensarono fosse venuto con esso lui   il di appresss essendosi recato dal conte di marbeuf per domandargli la conclusione del negozio pel quale era venulo  lo rinvenne focoso  lo guardo truce  gli porse un plico sigillato  edolire questa non gli fece altra parola    qui dentro e tutto     lo zittello  che non si scompagnava mai da matteo  allora si accosto al conte  il quale fissatolo lo riconobbe e sorrise     o damigella  voi siete proprio una maga     or bene  riprese lella  spero che non mi dissuaderele da accompagnare il mio novello sposo     f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

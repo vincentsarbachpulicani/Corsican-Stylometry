@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1923_31
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     l avenir  pourquoi nous serait il interdit de l entrevoir dans la paix du travail en liberte  emancipee entre la mere oublieuse et la maratre egoiste trait d union au lieu de brandon de discorde la corse serait la terre heureuse l eden de la mediterranee  essen sous l autorite d un magnat la firme krupp fonctionne depuis des lustres pour l accomplissement des ceuvres de mort avec 80 000 ouvriers organises a l allemande ne peut on concevoir une corse economique organisee suivant les souples donnees du genie latin avec ses 300 000 habitants volontairement astreints a l edification de la prosperite commune  centre du vieux monde en facade sur les grands boulevards de la civilisation la raison sociale calliste capable de produire aurait toutes les facilites de negoce l espagne et l italie la provence et le nordafricain seraient tenus de lier avec le comptoir corse des relations commerciales de plus en plus soutenues  mais que produire direz vous de tout  et d abord pour les besoins directs de la population insulaire dans la plaine assainie debarrassee des anopheles propagateurs du paludisme le ble les cereales la betterave les cultures a gros rendemen dans la zone temperee la vigne l olivier l oranger les fruits de toute sorte  sur les hauteurs le chataignier les paturages gagnes sur le maquis et par consequent l elevage mamelle sainte du domaine ideal que sera corse de demain  par voie d echange et grace aux relations suivies qui s etabliront des l achevement d'un reseau routier concu pour desservir jusqu'au moindre val la plaine nourrira la montagne et la montagne substantera la plaine  pas d exportation de matiere de premiere necessite une sage reglementation prudente et prevoyante ne permettra les sorties qu apres le complet approvisionnement des greniers d'abondance de l ile  marchant de pair secondant et facilitant l'activite agricole la solution de la question industrielle feconde en resulats s imposera  une force de 200 000 chevaux travaillant nuit et jour sans rien couter s offre a l initiative d une race entreprenante pour toutes les realisations a quoi serviront ils ces 200 000 chevaux  a a mise en valeur des richesses naturelles du sol et du soussol a l exploitation des nombreux filons metalliferes de toute nature des gemmes precieuses que sont nos carrieres de granit et de marbre de nos forets de pins et de hetres l industrie du meuble et de l ornementation architecturale pourront occuper des milliers de bras  grace au courant electrique domestique par la dynamo toute maison de montagne pourra pendant la dure periode hivernale se transformer en atelier d horlogerie ou d ajustage des innombrables pieces de precision reclamees par la mecanique moderne et combien d antres applicaions peuvent etre envisagees dont e detail serait oiseux  mieux encore si les 200 000 chevaux prevus ne pouvaient etre completement utilises pour les besoins directs de l ile si la matiere a transformer se trouvait etre hors de proportion avec nos disponibilites en force pourquoi n irions nous pas chercher a l etranger tout ce qu il serait possible d ouvrer le long de nos cotes a l abri de nos rades  je vois tres bien de saint florent a bonifacio de bonifacio a bastia une trentaine de puissantes usines mues par l ame de nos torrent cardant le laine ourdant la trame cristallisant le sucre fabriquant le savon malaxant le cuivre l aluminium le nikel epurant le cristal distillant les fleurs ajustant la charpente produisant en un mot et a vil prix tout absolument tout ce qui peut etre utilise pour les besoins de la societe contemporaine   peu ou pas de droits aux entrees de tres faibles droits de sorties calcules strictement pour equilibrer le budget general de l ile la plus large liberte de travail consentie au capital qui viendraient fructifier la corse une compagnie de navigation capable de porter au loin les produits obtenus dans le pays une organisation administrative simplifiee mais fortement etablie ce sont la je crois les elements suffisants qui permettraient a la race corse affranchie de toute tutelle de s epanouir largement sous le soleil et de prosperer sur le roc que la providence infiniment sage lui assigna pour domaine
+    </p>
+    <docAuthor>
+     Cervoni
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

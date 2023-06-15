@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330790j
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330790j
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 197 | Année 6
+     </edition>
+     <date>
+      1925-03-29
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Sest'annata — Numaru 197 Esce a Dumenica * Dumenica, 29 Marzu 1925  MUVRA  GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI :  In Corsica. . « . + ........ . + . 12 franchi  In Francia... ........... 15 »  A PEsteru ..., .......... 25 »  U Numaru:4 soldi  ~Direttôré : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     cose andate  di juvan petru lucciardi     a musa di tuvan petru luc  ciardi  dipoi una vintina  di anni  empie a corsica di strofe alate  e di prose chiare  armoniosu tesoru chi va criscendu ogn annu e face e delizie di u populu chi sa leghie e  forse ancu piu  di quellu chi un sapendu leghje ritene  a memoria  cio chi ellu sente  ricca e preziosa e la opera di u nostru amicu   si appresenta cume e so belle macchie  chi verdieghianu  a u sole veranincu  mustrendi sopra e vecchie e cacciate nove stellate di fiurucci diversi   occhi di latte e di ovu chi si aprenu mudesti e casti tra e palpebre lustrate di a fronda    gall rivali  19o9  a vindet   ta di lilla  19o  maria ientile  1912  u martiriu di santa di vota  canti corsi  192o 21   eccu li mazzuli i piu maio chi ellu ha ripostu  da   figliolu divuziunosu e curale  annantu   le altare di a patria  e  ci ne e di altri piu chiughi chi io un ramentu   tutti sparghienu dulciura e sintori   tutti magnificheghie a u inobili fatti  i ricordi  i sintimenti di la anima corsa  cu la unica lingua nata apposta  per dalli scorgu  a lingua corsa   davanti sta pila di libri e libretti  u lettore si fermava un pocu imbarrazatu    qualessu sceglie     oghie a muvra ci apre u stangaghiu e ci dice   aghiu sceltu per voi  sivoi un pudete gira tutt u giardinu di u patriarca  ammusca tutti i so fiori  muscatevi sti poghi chi io vi porgu da la intrata  e mi ne darete bone nove     sia ringraziata a nostra muora chi sa cusi capi i nostri bisogni spirituali   i piu difficili saranu sudisfatti  si elli volenu dassi a pena di scartula e pagine di cose andate   chi so sie cose andate    so dodeci    cume i dodeci apostuli   a prima e a lumera accesa  la ultima vi saluta cuu zenu accollu e ui fiaschettu cintu  ci si vede a roc   ca chi porghie a punta di u so fu   sua u tizzone di a deda chi cac   cia a hiugua per allicculallu  ci si vede u fornu chi apre a so bocca larga e mascherosa sintentu u    tarata di u stacciu  a chiccara  discorre  pianu pianu  cua fallei  ta  a barretta migia parla cu a   cherchera  u pilone di u pastore si cala  cun amuranza  versu palo  diu mandile di capu  i  sile curiosu di cunosce cio chi el  le dicenu  tra di elle  ste cose andate  u pueta chi vha intese chiacchiera e lagnassi vi cuntera quant ell e statu cummossu da quelli umili discorsi  e forse vi vinera anc a voi una lagrima a li occhi  perchi  a sorte di e cose chi si fermanu all abandonu o finiscenn orfagne sottu a sminticaghine di e ge i azione  e trista infinitamente     ln ti lagnu di e cose chi si balatann   e ci so e chiame di a terfa nativa chi pugnenu in core   tandu  corsu auto paese e paci la notte e u 1ornu  a eh   o casa paterna a te ogliu fa ritornu   et soppa le mio terre fa novu iu fornu    vogliu anda duve so morti  u mio babbu e u mio caccaru  duve u pane chi si stanta  un si frova mai amaru     dimula franca  quelli chi chiudenu le arecchie a u picchiu di sta voce  a u sonu di ste parolle  un volenu veramente asculta  ne musica  ne canti   sti poghi versi semplici e dilicati esprimenu   si po di   a manera di le anfarte nebbigincu   limpidita  fermezza  fluidita  frischezza  mele vivgilianu    lacrima rerum   nisunu shighera a lu arlistu i tasti chi a so manu cagiuleghia cun santu fervore   sola   quasi esiliata in santu petru   a so cialamella riboga cantalena  tra una lezzione e la alira  a i so sculari  splendidu esempiu di travagliu tenace chi meriteria un segnu di ricunuscenza da parte nostra  ma a corsica un ha ancu avutu tempu  di mette curone in u   guiloru in capu a i so pueli   i  alo  via  a chi e bramosu di aggusta mele sauritu  si di a a  pena di tasta una buccunata di ste cuserelle andate chi so merollu di tanti iorni  cari  i  un so cio chi u tempu lasciera sopabbive di le opere chi la anima corsa pariurisce a i nosiri tempi  tra quelle chi sbattuleghianu  cap altu  cume e spighe sialine sopra i campi di u granu   si io un fac  ciu sbagliu   si deve pone cose andate    i  ste cose    un si ne anderanu ma piu   7    dumeenicu carlotti
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="2" type="poe" xml:lang="co">
+    <p>
+     ricordi  un sognu tandu mi era un tenneru giovinetta   e di corsica inparava la storia    le sera  inciucciulitu in lu mio lettu  facia ricorre in me le ore di gloria   mi adiirmintai  allora in la memoria mi rimbombonn colpi di schioppettu  fugghia  nera di fume ia vittoria   e vidi omi in tu sangue sinu a u pettu    golu curria  rossu ed intorbidatu   versu marana  scemmu e spaventatu  grossu di lu miglior sangue cirnese   tn mezzu a quellu campu di tormenti  liberta  sorse di a massa di i morenti   e le ale purpurine in celu stese   
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="3" type="let" xml:lang="co">
+    <p>
+     lettera a pianellacci  cari amici   dunque me fratellu  avarebbe un cuncurrente   un tinente di guerra chi a si vole ingolle      un pocu ad asgiu1 st aversariu un sa mica chi a ricuniscenza e una virtu di pianellu   eju mi ricordu  in tempu di querra  quantu volte uu vostru merru mi ha scrittu par ricumanda isa paisani  par le allucazione  tandu   ellu scrisse quante san paulu  ne fece tucca anc a 15o numici        quantu volte  in ajacciu  avemu ricivutu lettare di rieumandazione par unu  laliru o quil lu altru   visite  contra visite o rinsignamenti in prefettura    avete un omu di core  a serdiziu  intilligente e stimatu in tutt a corsica e si parlara chi una frazione   piccula  e bera   pagara cua muneta di le ingratitudine   mai chi ella sia    e un merru mudellu  i giurnali lu hanu ricunisciuta piu di una volta   e unu di i piu gran pueti corsi in ogni scornu  cantanu eso canzone  rinumatu e onoratu da tutti    dipoi chi ell e merru  un ha mancu fattu furtuna  onestu e mudestu  ha sempre piu pinsatu a li altri ca a se stessu   e si parlara chi       un sara mai   mai si vidara chi pianellu seguiti una falza strada    alo  tutti cumparil intuppate su muschettu e gridate  evviva  a cumpare   rite  tutt e cumare   agguantate su pulindaghiu e colpi in tapezzu a chi si e scurdatu di tantu  ene   suldati morti  vinite a raminta tutt e belle azione diu merru  cunsulazione a e vostre famigliole  pinsione  munumentu   firiti  voichi avete bisognu di ricumandazione par ave u vostru drittu  tinite e ingrandate a chi e unu di li omi piu infuenti di corsica   pastori  voi chi sete minacciati bar li arbatici e par roquefort  tinite forte stu merru chi e u babbu di i puvar dmi   tra lara lara chi la vittoria e nostra   tra lara lara ha da triunfa  
+  s
+    </p>
+    <docAuthor>
+     Maistrale
+    </docAuthor>
+   </div>
+   <div n="4" type="let" xml:lang="co">
+    <p>
+     lettara mandata da un corsu a un altru corsu  moita  u 22 lugliu 1924   a ghiuvanni si   lione   caru amicu   si i corsi avissinu  cuntinuatu a vive di a vita sobria e frugale di i so nanzani  oghie  sicuramente  a si camperebbenu a a megliti e serianu felici  felicita relativa  e vera  felicita di u saviu  ma felicita quantunque  chi ferebbe a gioia di un giovanu rumanticu e e delizie di un gh  gh  roussea u mudernu  disgraziatamente  un e micca que u fattu di i cumun mottali  ogni periodu di a storia cumporta inde lu omu un generu di vita speciale  u quale ubbidisce inevitabilmentea e leggi di le evoluzione  u disideriu di una miglio vita materiale  di una vita piu cunfortevule  spinge sempre piu lu omu nant a strada di u prugressu  e cu u prugressu aumentanu i so proprii bisogni chi ellu cerca  ad ogni costu  a suddisfa   per noi corsi  cume per  li altri populi di europa  a vita  al antica  ha fattuu so corsu  ma mentre chi per li altri populi u generu di  vita si mudificava parallellamente a i prugressi materiali di a civilizzazione  prugressi attuati  renduti affettivi per cura di i guverni suprani vigilenti  per noi isulani u generu di vita si mudificaya  si  ma senza chi i detti prugressi sianu stati  ne u nostru paese  resi effettivi da u guvernu francese  in altre parule  allorch i publichi  puteri  in francia ed altro  prucedianu o veghiavanu a lu ingrandimentu di i porti  a lapertura di numerosi stradoni  a a costruzione di parecchie linie ferruviarie  a u stabilimentu di linie di navigazione marittime  rapide e pocu costose  a a creazione di banche di creditu  a a formazione  infine  o a riformazione di tuttu cio chi raprisenta  in generale  i grossi organismi di a produzione  in corsica  i publichi puteri harinu fattu e cose in modu cusi rudimentale   quand un e a  dispettu di u bonu sensu    chi in verita  sfidu ogni populu a umondu di pode  cu i mezzi archaici  o novi  ma embriunali   di produzione chi no pussidemu  fa in stu paese qualcosa di seriu   e senza parlatti di le organizzazione difettosa di i servizj ferruviarj  di a poverta di a nostra reta ferrata  senza parlatti nemenu di i nostri servizi di navigazione  fraissinet e basta     sopra i qualine sai altrettantu che me  ne veneraghiu subitu a e strade chi costituiscenu i mezzi principali  essenziali di cumunicazione a le interiore di un paese  la cundizione indispensabile di u sviluppu regulare di u cummerciu locale   infatti  supponendu chi e nostre linie ferruviarie e marittime sianu perfette  ad ogni puntu di vista  un ponu veramente  inn un picculu paese cum u nostru  ghiovacci che per u cummerciu esteriore  e nanz u cummierciu esteriore passa u cumimerciu internu  u primu e funzione di u secondu  ne quale e ellu stessu funzione di a quantita e a qualita di e strade   si un paese un pussede abbastanza strade  chi importanu i piu belli   i piu rapidi servizj di navigazione  i piu belli  i piu rapidi servizj di ferruvie   e  strade costituiscenu dunque una quistione vitale per lecunumia di un paese     or  in corsica  e strade mancanu   a mancanza di strade e  senza cuntrastu  a cagione diretta  immediata  di a situazlone lamentevule ne a quale si trova u nostru  paese  ghie cagione di st emigrazione intensa chi addebulisce  chi tomba a corsica  e si capisce  in la assenza di un numeru sufficiente di strade  u trafficu di paese a paese  di pieve a pieve  e necessariamente quasi nuliu  per cunseguenza  a produzione e ridotta a a so piu semplice espressione     si produce per se stessi e niente piu  ecume i soli prodotti in natura di u nostru travagliu un bastanu per suddisfacci  e cume u corsu un po micca sempre vive a fagioli e castagne  cerchera  privatu chi ell e di u numerariu indispensabile  da la impussibilita di cimmercia  cerchera  dicu  a qualunque sia prezzu  di procurassi su preziosu danaru chi li permettera di vive una vita piu larga  piu dolce       cerchera un altru travagliu  ma rimuneratu  cun a quale rimunerazione porra pruvede  infine  almenu in parte  a i so novi bisogni   la usciua salvamentu li e apertu da  fi guvernu francese  questu  cun insistenza  li offre u travagliu speratu  cu a rimunerazione tantu disiderata  davant a u corsu infelice si aprenu spalancate e porte di a caserma e di li amministrazioni francesi  custi  in  iscambiu di un travagliu pocu fastidiosu  ricevera u pane cotidianu  trovera u mezzu di vive di una vita piu dolce  piu   spenserata sin a a sessantina  e dupu  una pensione di ritirata li permettera di passa i sovecchj jorni tranquillamente  u core in pace   u ventre suddisfattu     e    e cusi a corsica spopuleghia a pocu a pocu  manu manu  i paesi si biotanu  manu manu  a corsica si more  u guvernu di bricconi chi ci leia e braccie cunsidera su spettaculu cun lu occhiu placidu di un borghese tecchiu   ma a mancanza di strade un e a sola causa si sta situazione  ci ne e di altre  un vogliu anticipa chi avemu utempu di parlanne  ti diceraghiu ne a mio prossima lettera quali so e nostre vie di cumunicazione ne a pieve di moita     addio      
+  s
+    </p>
+    <docAuthor>
+     Francescu R.
+    </docAuthor>
+   </div>
+   <div n="5" type="poe" xml:lang="co">
+    <p>
+     guerra  una volta un ladru   di arrubbassi u danaru di un riccone avaru fece sguadru   ma u riccu infamu si ne accorse  chiappo u sachettu si ne corse  di  ma u ladrone   dino si scalza e eollendu pe a caterazza trova u padrone   e qui nasce u chjppa e scappa da u capi monte a la cle e tutt e dui  a piattatella    giranu a cappa    i  nant u teitu e un falia e colla   unu tira e lu altru    un molla u sachetiu   in piu bella  inferagati cume cani   adoprendu pedi e mani stanu a lu oru imbrecciagati   u riccu stancu  ba per cede ma in la battaglia u ladru sbaglia   e perde pede     tagutuppali  cincinonu cume ghiumelli    a lu tettu  senza scalelli si sbuchiona   un  fra u torbidore di u mio discorsu si e nimu accorsu chi u vincitore   in fin di guerra   nunda riguerra  
+  s
+    </p>
+    <docAuthor>
+     A. F. Tristani
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     la anima di u mulinu   poema in prosa   a pasquale luciani  imulinelli di u sepale  unu a unu  si so tutii chiosi   a i tempi eranu dodeci o piu  infilarati in lu fiume chi can tavanu notte e ghiornu a canzona di u pane     oghie so tutti spenti   lu ultimu a ferma e so macine e statuu mio mulinu biancu  quellu chi i pasqualoni guerdavanu di padre in figliu   ziu pasqualone bulia tene capu a u minottu di francia  e vaverebbe forse vintu  si  una notte di marzu  a morte un era junta a truvallu nant a u so lettu di cannicciuli adduveellu durmia  i pedi a focu e la avia addurmintatu pe u sonnu eternu     ... hannu stoliu la aqua pe u fiume  hannu vultatu a chiave in lu usciu e  nu u quarcinile asciuitu ci ha fattu u nidu a malacella   in piazza e nata la erba folta  u mantellu verde ha fattu smarri ogni ricordu  ha piattatu i nomi incisinu a panca di petra da e mani innamurate  e a piattatu finu a crocerella chi merca u puntu fatale duve u traditore matra fu culpitu a morte da un sullatu  di paoli         se qualchi volta le estate vede vene un coppiu di vint anni in piazza a u mulinu  andate puru  un e piu per pienghie i ricordi    venenu scullaghiate e scullaghiati pe fassi un toccu di flirt nu asulitudine  o pe balla  nant a lerbaccia chi ha abulitu u passatu  4 tango di u neurastenicu o a java sfacciata    di a pratalina ne facenu un dancing  e le acellucce senza calze coprenu di nomi inglesi e barbarila porta chi ha vistu sorte tante faciture e chi si e chiosa per sempre      do  saperalle ma piu nimu  o mulinucciu caru  e fole chi si so conte sottu a u to tettu a u cantu di pancinelli   e e parabule di u mulinaghiu  e so buggie innucenti chi bulavanu cume a farina in ladore santu di a castagna e di u granu  le adore chi rifiata i piu fiacchi    o mulinucciu biancu chi riposi  a mio gioia si ne e andata cu a to vita   cume a to porta u mio core si e chiosu  e a mio penna e cume u to canalone di legnu chi vole scrive in vanu nant a u celu muvente la ultima fola di u mulinaghiu     
+  s
+    </p>
+    <docAuthor>
+     Dikie di Sant'Andria
+    </docAuthor>
+   </div>
+   <div n="7" type="let" xml:lang="co">
+    <p>
+     lettara di u castellare  caru cumpare   cuntava di fa pronta risposta a quella vostra lettara di aiacciu  ma   tempu chi si  para i monti si paro a mio intenzione  mi ralegru assai di u vostru ritornu da mare in da  mi so campu lighiendu i meraculi chi ellu faciu prete chiappini arrangendu le osse tronche    vi diceraghiu chi no a ci passemu sempre be  malgradu a grippa chi cofre      lu inguernu e statu un mezu veranu  e veranu cumencia a tende a so vela a  u sole marzulinu  speremu chi ellu sara clemente a yalburu  in particulare a la alimea chi si presenta in bonissime cundizione la alimea speranza di a corsica i avale  lu amandulu  per sti loghi  ha fattu a so fiurita e a so bella cacciata   tra u tenneru verdighime di e rambelle si allonganu le amanduluccie  a picciulate  nunda che di vedele ingrussa v appiccicanu una fiera brama di mordeci a belli denti   so statu  iorni scorsi  a saluta e mio surelle chi ballanu cu e so ale di argentu in le onde cristalline di fiumaltu  fiumaltu  fala di orezza e  sbocca in fulelli aprendu una valle  di oru    chi torna  salbatica   aghiu vistu  poghe truite  una vecchia  vistuta di bianchigiulume e di perle  mi ha adducchiatu da luntanu   po  mi ha fattu una fiverenza chi  vulia di   chiama puru uto cumpare  chi per piglia a me un bastanu i vostri incrocchi   pensu chi ella sia veramente una di quelle signore passate a i sette stacci         di ritornu  dopu dui ore dimarchia  pe un fiuminalettu chi  da fiumaltu sta cume un bracciu tesu versu castellare   fiuminale ascossu di terre ricche lasciate a e macchie   affaccai ind un pughiale e firmai indi lu incantu    chi vista   a i mio pedi  a valle  di ocelli  nidu di friscura e di gioia  mustrava e so tisuranze   stese di alimeie  alive  pulloni  giardini    in fondu canta u vaglinu increstulatu da i longhi piobbi a e fine penne    e propiu di pettu  piena di grazia e di maesta  mi si presenta a cullina di u castellare cu iso dui pogghi    u capellu di e so case ride a u sole e sembra tucca i nuli chi giranu sopra bastia    u so mantellu veranincu risplende   la arba e diggia alta sottu a le alburame  parsichi in  fiore  zuccarine bianche  aranci  nespuli  chiaragi   i pisi spassieghjanu cu e fave trai curdorni prutettori di l articcioc chi    u stradone attacca cume un frigettu biancu a mezii a sa verde cullana    e u mare vicinu tigne le orizonte  immensu di viulettu    un vi contu  bugia  caru cumpare  bisognera chi vo vegate stu fablea u magnifici      gia chi no parlemu di u paese  vi diceraghju chi no avemu tre chiese  a piu maio  san brancaziu  e un pucucciu luntana e regna sopra a piaghia  ne avemu un altra  si   margherita nantu  una cresta    ma le infelice e senza tettu  sprefundata  ne si sa quandu un prete messa ci cantera  a terza  san bastianu un ne era che una capella esi sta all istrettu  mudestamente  a meze case accantu u so campanile ghielosu di u campanile di penta chi sona sempre e udisfida    san bastianu e realmente troppu chiuga per cuntene a populazione  ci vurria a allungalla    ma    vi diceraghiu chi no avemu dino fre piazze  in capu di u paese  tra i casamenti chi furmavanu lu anticu  castellu furtificatu chi ha datu u nome di castellare  si trova a piazza di i fiori  in tempi di i tempi ci eranu i fiori  oghie un ci fiurisee piu che un fornu e o scogliu nudu  ma  in stu scornu centrale  e donne tenenu e so riunione  argumentanu discutenu  e infilano piu discorsi che a ca mara di i deputati   i  la altra piazza  spaziosa  e quella di san bastianu  a giuventu ci canta  ci balla e sona  di iornu e di notte  eiu  chi lu aghiu dipunta a una finestra  sentu tutti sti concerts  e certe volte mi pare di esse a la opera  o  a piazza santa margherita  crocevie di i stradoni chi vanu in sorbu e in penta  e quella  mi hanu dettu  di i senatori  a posta  a scola  a giandarmeria  a  casa diu pueta maschetti e ruine di a chiesa  a funtana so i monumenti chi ne formanu u quadru  le ultime nutizie di francia e di lu universu so sparte  cunusciute e cummentate in sta piazza  da li omi chi leghienu i giurnali e tastanu u polzu di a pulitica generale  in stu momentu a pulitica generale cede u passu a quella lucale   i cerbelli un vul tulieghianu altru tribbiu   so sicuru chi elli ne facenu altrettantu in centu paesi   e nostre generazione so tutte impastatu cu u levitu chi el li ci mandanu da pariggi  tantu velenu per la isula di de paoli  ma a canzona sara longa  chi si ha da fa do  finiscu stu scartafacciu    salutemi a cummare  mi scurdava di dibbi chi prestu   manderaghiu a u stampadore quellu manuscrittu di lingua corsa chi io ripuliscu  mi ci vole ancu una sittimana e sara prontu  grazie per quelli certificati e cumplimenti sinceri di u vostru cumpare     
+  s
+    </p>
+    <docAuthor>
+     Martinu Appinzapalu
+    </docAuthor>
+   </div>
+   <div n="8" type="art" xml:lang="fr">
+    <p>
+     1769 1769 date memorable de notre histoire  date que tout corse ne devrait pas ignorer  le9 mai 1769 apres une resistance acharnee malgre des sacrifices sans nombre etune grande bravoure les soldats de pascal paoli qui luttaient farouchement pour la sauvegarde de leurs libertes etaient battus a ponte novo par les francais bien superieurs en nombre  divers projets ont ete elabores des comites meme se sont formes parait il pour eriger a ponte novo un monument grandiose et pretentieux  une simp e stele suffisait pour rappeler au voyageur corse le sublime sacrifice de ses ancetres  pai oui dire que le principal obstacle a l execution de ce projet etait la rivalite existante entre les divers comites les uns veulent paraitilun monument commun aux deux adversaires les autres ne voulant rendre hommage qu aux soldats de paoli ces derniers ont raison cest a ceux la seuls qui lutterent contre les envahisseurs que ce fussent les soldats de genes ou ceux du roi de france que doit aller notre pieux souvenir  le monument de ponte novo sera la pierre de ralliement de tous les corses qui mettent au dessus de leurs querelles l amour de leur petite patrie  la france qui sait glorifier ses heros comprendra notre pieux desir de vouloir honorer le plus dignement possible la memoire de nos peres qui sous les plis du drapeau blanc a tete de maure tomberent glorieusement pour le salut de la patrie corse   d antoni b
+    </p>
+    <docAuthor>
+     D. Antoni(b)
+    </docAuthor>
+   </div>
+   <div n="9" type="art" xml:lang="fr">
+    <p>
+     pour une politique internationale des minorites i  sous le joug  ou sous le boisseau apres la plus atroce des guerres modernes apres la mondiale hecatombe de quatre ans apres que durant cinq annees les nations en conflit se reclamerent du droit et dela justice et que les etats victorieux reconnurent solennellement aux petits peuples le droit a la vie apres la societe des na tions et la commission des minorites il reste encore dans l europe et dans le monde des petites races asservies des petites nationalites comprimees par l'imperialisme d etats centralisateurs ou centralises  francais du canada flamands bretons basques et corses de france flamands de belgique catalans d espagne celtes des iles britanniques la liste en est longue et longue aussi l histoire de leurs souffrances et de leur reveil  chez presque tous chez tous ceux ou l oeuvre d assimilation n a paseu le temps de detruire toute caracteristique ou tout esprit national il s est leve un mouvement resurrection ou prodromes de resurrection malgre les prejuges malgre les journaux les gendarmes ou l universite malgre la raison d etat ou l interet au sein de chacun de ces peuples vaincus et meprises un homme est venu quia dit a ses freres  vous avezle droit de vivre selon votre race   et aujourd hui au canada et en flandre comme au pays basque en corse et en bretagne il yaun reveil national des organisations des revues des manifestations de vie   ii  compagnons de lutte ces mouvements sont divers ils le sont par leur etendue et par le degre qu ils atteignent dans l evolution presque toujours identique des reveils nationaux apres la periode litteraire et romantique un dela villemarque chez  oue  il s ouvre toujours une periode  de revendications politiques  la crainte et le manque de confiance les font d abord s etablir sur un programime tres reduit  nos regionalistes et les minimalistes de flaudre  et les rendent de ce fait inoperantes enfin par  une affirmation integrale des droits de son peuple et la reclamation pour lui d une existence nationale le mouvement entre dans sa phase definitive la phase nationaliste du succes de celle la depend pour les petits peuples conquis la vie ou la mort so  or chez la plupart des minorites que ne reconnaissent ni le traite de versailles ni la societe des nations le nationalisme autochtone est ne il peut differer d un pays a l autre d organisation ou de puissance en realite il est le meme profondement ii se reclame de droits historiques ou ethniques semblables d interets intellectuels tres proches les revendications sont dememe ordre partout i partout d ailleurs le sort des petites nationalites est le meme avec plus ou moius de brutalite  ou avec plus ou moins de ruse l e tat central tend aux depens des elements allogenes a l unification fomplete des populations occupant son territoire si la pologne a eu  aschlague nous avons eu le esymbole  la reaction peut etre plus ou moins tardive de cefait en ce momentpius ou moins importante  elle est partout la meme et au jotrd hui il apparait nettement elle est a peu pres partout erri vie au meme degre au nationasme  d autres faits rapprochent encore les mouvements nationaux l identite de leurs adversaires determine chez eux une identite de politique les catalans oules flamands ont a lutter comme nous contre la puissance etatique qui les brime ils ont comme nous a detruire les prejuges et l indifference de beaucoup de leurs compatriotes ilsont comme chez nous l implacable hostilite des puissances d argent acerochees au statu quo a vaincre   la tiche est donc partout ia meme eduquer le peuple et lui rendre sa conscience nationale d une part organiser ses forces et creer des organismes de vie nationale d autre part  chez tous le but final est essentiellement le meme  faire reconnaitre parl etat officiel d une facon plus ou moins complete suivant les circonstances ces institutions nationales pour en assurer le jeu libre et legal  enfinla meme preoccupation tient au coeur les nationalistes de tous les petits pays en reveil arracher l intelligence de leur peuple a la culture etrangere imposee et reconstituer une civilisation nationale sur le vieux fonds racial et traditionnel  l union fait la force similitude du sort similitude d espoirs similitude d efforts  cela nous lie tous celtes bas germains corses ou basques par dessus nos races differentes par dessus les distances qui nous separent du seul fait de nos existences un lien moral nous rattache et personne ne peui argumenter contre l un de nos mouvements sans s opposer implicitement toujours explicitement meme quelquefois a tous aussi les marques de sympathie se multiplient elles entre les organisations nationalistes de rios pays la large part que nous avons toujours faite dans nos colonnes a l etude des mouvements nationaux actuels n a ete qu une juste reciproque des articles tantot amicaux tantot enthousiastes qu ont publies sur nous nos camarades de luttes corses ou flamands enfin meme l ere d une prise de contact plus etroite semble ouverte nous dirons dans notre prochain numero comment les nationalistes flamands ont voulu connaitre et ont accueilli les nationalistes bretons de breiz atao  de cette sympathie de cette amitie meme en certains cas nee spontanement entre des mouvements paralleles nous estimons qu il doit sortir quelque chose un organisme commun doit nous permettre une frequentation plus serree une aide morale plus efficace  il est dangereux de rester isole chacun de nos petits peuples intellectuellement brime n a de fenetres ouvertes sur le monde que par l etat central le nationalisme ne doit pas etre un etroit repliement sur lui meme mais l ouverture d une vie plus large et d une pensee plus feconde pour chacune de nos races voyant les choses a travers le prisme d une culture etrangere et imposee nousles voyons mal la frequentation de peuples si pres de nous par leur effort mais si loin de nous par larace et l'esprit permet l etablissement de nouyeaux points de comparaison que n enseignent pas les universites crees chez nous par l etranger et qu un particularisme trop exigu nous empecheraitde connaitre d autre part nos mouvements ont beaucoup a apprendre les uns des autres des circonstances analogues peuvent en de nombreux cas determiner des initiatives analogues independemment de celles deja prises en l un ou l autre de nos pays qui peuvent servir d experience et d exemple aux autres il serait possible d en prendre en commun sur les points qui sont particulierement semblables chez nos peuples situation linguistique ou autre  11 faut compter en plus l appoint d enthousiasme et de confiance qu est appele a determiner les militants nationalistes de nos mouvements la connaissance de groupements et d hommes portant en eux la meme foi la meme volonte etles memes doctrines  enfin l existence d une organisation commune permettrait non seulement des echanges de vue mais le cas echeant une veritable coordination de nos efforts les exactions que peut commettre un gouvernement central contre l un des nationalismes ne passeraient plus inapercues aux yeux des publics militants ou ne risqueraient pas d etre odieusement deformees par la presse venale sans qu il s eleve une voix pour la verite et la justice la moquerie qu a ete la pseudo flamandisation de l universite de gand ou l indignite qu a ete la transformation de l universite industrielle catalane de barcelone ne seraient plus ou passees sous silence ou presentees impunement par une delirante presse patriotarde comme des victoiresde je ne sais quel esprit pris individuellement nos journaux nos revues nationalistes n atteignent qu un public donne n influencent qu un territoire determine du jour 6u il sera possible de mener dans toutes les publications nationalistes de tous les pays en reveil une meme campagne elle atteindra de cet fait un nombre considerable de gens et sera capable frappantaux quatre coins de l europe en mieme temps d une influence plus sure et plus decisive  il s avere donc que la creation d un organisme de liaison entre 10us les mouvements nationaux de l ouest europe  sinon  plus  apporterait a chacun de ces mouvements outre des avantages intellectuels par la frequention de deurs divers genies un prestige plus grand une force et des moyens de defense plus considerables   4  nous souhaitons cet organisme nous desirons travailler nous travaillerons a sa realisation  coude a coude a tous les hommes qui veulent sauver leur patrie des imperialismes a tous ceux qui travaillent a arracher le genie de leur race a l emprise etrangere nous adressons cet appel nous voulons que nos mains se tendent les unes vers les dutres et qu elles se rejoignent  chacun de nos peuples est faible numeriquement si puissant soit il chacun de nos mouvemetits n a qu a gagner a une cooperation avec les autres c'est l eternelle histoire du faisceau  da il ne s agit point de federer des peuples ou des oifganisations qui different par tant de choses mais nous estimons qu elles ont assez de points communs pour s entendre pour cela il faut un moyen permanent de communication et de frequentation nous n avons nullement l intention d imposer une forme quelconque a l organisme que nous proposons nous nous contenterons de lancer une idee elle n est deja plus notre apres ces lignes et c est le travail de chacun que d en proposer une realisation    cependent il nous paraitrait au premier chef possible de creer entre les mouvements nationaux d europe occidentale un comite international des minorites nationales compose de delegues de ces mouvements et se reunissant periodiquement n c est maintenant a nos freres des pays celtiques a nos camarades de combat de fiandre de corse du pays basque et d ailleurs de repondre deja plus que des espoirs nous sont permis et si chacun sait le vouloir nousaurons demain le syndicat des nations pauvres des peuples soumis annihiles mais qui ne veulent plus l etre  et ce sera aussi l union des hommes libres qui ont prefere aux chaines d or etrangeres le dur combat pour leur humble peuple
+    </p>
+    <docAuthor>
+     Maurice Marchal
+    </docAuthor>
+   </div>
+   <div n="10" type="art" xml:lang="co">
+    <p>
+     evviva a so faccia  u diputatu alsaziann hueber ha parlatu da a tribuna di a camara in dialettu di u so paese ha dettu    e in la lingua di u populu di alsazia chi e vi vogliu prisinta e me osservazione e  postu chi e mi addirizzu ad omi chi hannu prufittatu di una struzione superiore  truvaraghiu certa  mente e cundizione necessarie per esse capitu   e parlo tre quarti di ora  interrottu o quistiunatu  sempre in dialettu   in patois cum elli dicenu li imbicilli   da paltri raprisintanti di la alsazia   porta parola di u populu di e pruvincie ricunquistate  hueber ha riclamatu   1  mantinimentu di u tedescu cume lingua ufficiale accantu a u francese  amministrazione  tribunali    2  insignamentu di u tedescu eume lingua ufficiale a listessu titulu che u francese   3  ricutamentu di i funziunari tra li alsaziani e i lorreni  quelli vinendu da francia messi ne le obligazione di impara u tedescu    4  incorporazione di i cuscritti ne rigimenti a parie in serviziu in alsazia lorrena  ec     quandu mai i carlattani chi i corsi hanu mandatu in pariggi avaranu u siomacu di salie a tribuna per fa simile riclamazione in dialettu isulanu   mai di mai  parchi sie ciantare o so frusteri cume giordan o dumer o so piu pinzuti ca pali scupini  di u corsu sine so diminticati o un lu hanu mai imparatu e di a corsica hannu misione di fanne una culunia di 45a classe   fin che dura fa virdura   ma ci truvaremu a lu appullatoghiu   
+  s
+    </p>
+    <docAuthor>
+     P. di B.
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

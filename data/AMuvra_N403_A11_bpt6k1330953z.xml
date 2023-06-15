@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330953z
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330953z
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 403 | Année 11
+     </edition>
+     <date>
+      1930-06-08
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     EE E Dumenica 8 Jugnu 1930  Annu Xl — Numaru 403 i Esce a Dumenica    GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI:  In Corsica ee + + + 15 franchi  in Corsica. . cou rs see et è In Francia Du ss e 18  In Francia  Unione postale . ... +. + "+ + 30  U Numaru:5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 38. — ATACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     italia  corsica  francia    e  massuneria  eccuti  un altra volta  i mastini di a stampa azzippati a e schinche di cursichella cu a scusa di risponde a e cusi dette pruvucazione di mussolini   i primi abbaghj  lentati da bracchi di razza gallica  so stati   va senza dissi   per quelli chi hanu salvatu le onore di a patria alzendu a bandera a testa di moru  trafalata in la sanguiniccia di pontenovu e infangata in lu mullizzu di a schiavitu  ne  dendu arecchia a sti nicchj di cumanda  e omu prestu cunvinti chi elli un so che sfiatate jargastrulate sopra a un tema di sicurezza generale o sicondu cuncetti dettati da la ignuranza a piu fosca  ascosa sottu a vernice di una cultura sculata da manualetti troppu ufficiali    da st ultimu casu di incus cenza   quand  ell unnn e mar lafede   risortenu affermaz1one di stu genere   semu galli di schietta scanurza   parlemu un dialettu di oc  a nostra isula un si e staccata da e calanche pruvinzale che a la epuca di i dinosauri   arrimane       a nostra storia si e sempre svolta in lu quadru di a storia di francia  genuva   ci e a di y italia  un purto inlenostre valle che fiara e fartu  invece  chi i cursay  i boissieux  11  maillebois  i marbeuf  i de vaux  i sionville un ci junsenu che fiori ammazzulati   semu francesi perche i nostri arcibabboni hanu abbracciatu  nantu e sponde di golu  i so  liberatori   semu francesissimi perche napulione e chiappe so nati in ajacciu  e semu ar  cifraricesi pe  a grazia di tuft i nostri inorti suminati a i quattru scaporni di u mondu  in tutt e guerre chi vinti nazione di preda hanu impostu a u pacificu paese di u re sole  mn  eppo   a ricuniscenza ci forza ad arde di amore pe  i padroni chi ci colmanu di benefizj  chi ci hanu datu strade  ferruvie  risanamentu  irrigazione   chi hanu resu a macchia piu sicura che i boulevards parigini e chi hanu sappiutu da aria e spaziu a quelli corci chi restanu in li so  rughioni  fendu barca u pozzu a millaie e millaie di giovani  cu u ludevule scopu di assicuralli u pane pe  i so  nati jorni   eppoi  eccuci un altra tesi   mussolini vole a guerra cu a francia   ha dettu chi a corsiva deve turna taliana   i consuli di italia aduniscenu  di notte tempu  in li loghi piu deserti di la isula  centurie fasciste e li facenu grida     a noi la corsica     tutt i zappadori  i sbuscaghioli  i muratori  li urtulani chi venenu qui per rimpiazza a manu di opera chi mariannona ci ha cacciatu so fascisti sottu maschera chi unn aspettanu che la ora h per manda in fume e cittatelle di ajacciu e di bastia e mettesi in tasca prefettu e guvernatore   i  bancarrotta   chi giranduleghianu pe i paesi vindendu a bonu pattu  so tutti spioni  ecc  ecc   qui si ricunosce la maniere di a stampa francese di u 1914  quand ella straparlava di i te deschi    nostri cumpatriotti  chi hanu tantu suffertu per essesilasciati inganna da quellu intensivu bourrage de crdne  so troppu sperti per unn  accorgesi chi ellu si agisce di una reedizione cu e currezione di circustanza     dopu stu tentativu per cuzza in tupezzu di i so  lettori tutti st ersatz da jente grussulana  li impennatori delegati a  difesa di a cuncezione giacubina di u statu  pensendu chi i spirti so tracullati a u gradu necessariu  passanu a la insidia diretta    mussolini conta sopra a una rucchiata di irredentisti travistuti da autonomisti   questi hanu cumbricculatu cu i nemici di la unita naziunale andendu a colmar  1   chi aspettanu la autorita  postu chi a  prova di u   tradimentu   e in borsa di a justizia  per mettein prighio sta mezza duzzena di brutti  di hurluberlus cusi periculosi a i quali un so che sei o sette  o  ancu megliu  cum ellu dice un certu balisgiaghiu    tre volpe vindute    ci vole ad esse un sumere mugatu per unn avvedesi chi a piazza beauva u ha postu quici u so  sugillu   cretinismu e provocazione a lu omicidiu   e provoc  u fattu si sta chi  lighiendu li articuli di a stampa di corsica  omu si po  accorge chi  da  parigi  una vulunta punta a  un cunflittu cu a surella latina   sta vulunta  mossa da mutivi tutt altri che quellu di u patriuttismu  vole accende  contru la opera di u duce  una guerra di dogma cu a scusa di un inzuffata tra populi   a massuneria  per un sfiata  ha bisognu di abbatte u fascismu  e  per cio  face crede chi francia e italia si so pigliate aiciuffi   sigondu e loghie  1 primi ad accega e a mette in zerga duvemu esse noi altri  corsi di corsica  ed e per quessa chi lu inchiostru corre  intantu chi ellu corga u sangue   di 9  3   da  quandu  in lu 1914  a francia ebbe a subi quell   attaccu di la alemagna  chi poin  care e iswolsky preparavanu  in le agnone dipoi 1919 1 corsi  funu invitati a difende a civilizzazione latina contru a barbaria germanica  risultatu per noi  4o ooo morti   tuccara dino oghie a i corsi a difende a civilizzazione gallica contru a barbaria italiana     soga ci e ghiente chi ci piglia per matalandati     1  citta italiana  probabilmente    
+  s
+    </p>
+    <docAuthor>
+     Petru Rocca
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     a fola di i nivuli neri  quandu usgio lederlin fub   be certu di a  sincera  opinione di i corsi  e chi  subitu subitu stufu di e   bellezze di  a corsica  e di u   fuculare ajaccinu   duv ella avia tantu bramatu pusassi  un vidi la ora di franca e sanguinare cu u so  necessariu pagatu abbas  tanza caru  a stampa cirnese  si truvo di colpu senza 2o5 cura   questa e una vera disgrazia per quelli chi vivenu da v inchiostru   e u populu un la capisce micca sempre  infatti  pude batala per piu di dui misacchioni di compra e vendi  di corsi antichi e di francesi muderni  di pontenovu  di republiche e di napuleoni  di cuscenza e di corruzione  di furesteri bosci pulenti e di ministri senza prestigiu  eccu una scarsa furiuna chi si perde a contr a core   or cume interessa u publi cu  ava chi  ssa surgente si ne e siccata   quelli ritagliulelli a i giurnali di u fora  belli e boni  ma u lettore ne fiacca prestu  e appuntu si ellu ci lascia corre u so  sguardu avanti di passa u fogliu a  cucinara per le accendime  bisugnava dunque truva altro qualcosa di novu frammante per rida a palpitazione a st insazievule lettore     mussolini vole a corsica   eureka      e a son di flaviti e pifani  cimbali e cetare  a cacufunia cumencia  ava piu bisognu di strade  di battelli a prezzu raggiunevule  di trenni  di bunifiche  di forza elettrica  di prugressu infine   cannoni  fucili  polvera  piombu   u patriuttismu ultra francese sbotta cu ogni candella di sudore pruvucatu da u sciloccu primaticciu e da u nebbione pagnu  induve si guarda  i si ella spunta qualchi squadra di idrovolanti   nimici    e pensiunelle hanu u trimasgione    umbeh   cume si campera si no  diventemu taliant    i tendenti a  diserzione guardanu digia e puntizzine versuu dentru    umbeh   ricumincia a perde dino u so tempu perun altra alsazia   a ii bellu  e un anzianu duganere indilicatu chi  diventatu razza pueta patriotta a centi culori  scimisce avale  avanzendu in eta  pe  a santa causa  e pensiunelle hanu u trimasgione    umbeh   cume si campera si no  diventemu taliani    i tendenti a  diserzione guardanu digia e puntizzine versuu dentru    umbeh   ricumincia a perde dino u so  tempu perun alira alsazia     ii bellu  e un anzianu duganere indilicatu chi  diventatu razza pueta patriotta a centu culori  scimisce avale  avanzendu in eta  pe  a santa causa corsa francese in periculu  st ne a vulessine anda in priggio ne    ssa stessa priggio chi la a va messu tre palmi di caca gliula per affarerelli menu nobili che u so  patriottismu cusi subitanen  e chi ellu un si franco che grazie a tutte e so  piu bituperate striscialure di sarpe mal fecchiu   quessu e quellu chi chiama volpe italiane  li autonomisti corsi   chi li vole taglia i viveri supprimendu uso  giurnale  ssu giurnale da duv ellu parti in listessu modu che da a dugana  e un certu   corsu e basta   anzianu muvristu  messu da cantu  chi canto a pontenovu davant a 4ooo persone   si gridi ad alta voce  a liberta o la morte   e chi avale  a rombu di buliga in celu  ha scupartu a vera stella chi deve luce per cirnu  lederlin    un altru tene caru pitaliai e  parlendu a maniiu pettu  cerca caritatevuimente di apreli pocchj per indettalli a so  disgrazia   u fascismu e mussolini   un ottimista face di u duce un scemu da ridene   usraltru ne face un omatone meritevule per la italia ma periculosu per li altri   ava  ci e un pinzquiu chi  avendu sunniatu una notte chi  ella era corsu  si e discitatu e a si ha criduta belle be   e allora  parlendu di sii rimori di guerra  si maslaccia une poche di pagine di vecchia storia accumidata a so modu  per pruvacci chi a duminazione genuvese ha risicatu di lascia in corsica menu parentia italiana che ci ponu ave lagaiu razginu i galli  i vandali  i sarracini ecc   tuttu que  per pigliassi anch ellu una specie di dirittu di parla a nome di a voce di un populu corsu antimussolinianu  per un di anti ttalianu   quante chi qualchissia li avessi dettu chi no  unn eramu francesi  ma ie   diamine  quantu ci vole a ripetevila volte   su   inquantu a di chi noi simu francesi di core piu ca i francesi  malgradu i nostri vecchj conti e i cunterelli di avale  quessa poi           e un seranu mai e vostre fiarabattule di guerra chi ci feranu cambia di tonu  o eroi  pronti a fabbi martiri inuna guerra contru i nuli  cume autonomisti unn avemu a letiga preputenza   unn avemu ne paura  ne minaccia   sole e vere miseria di cirnu un ci sortenu mai da li occhj  forse  colpa di genuva dino quesse   o di mussolini   or dite ca si  tantu ci site abbezzi  e quessu e u veru mezzu di travaglia pe  a pace    latina   ll    ma duv ellu ci e propriu da sbillica  e esaminendu u tema di tutti  u listessu iniziu  a listessa finale  peura di guerra  accertazione di pace  mussolini vole  la italia un vole   a francia teme  a francia ride  la italia ha fattu i miraculi  la italia e a malavia   edalli eqzueca  e imbroglia  tutti hanu intesu e parolle di mussolini   hanu vistu e miligie fasciste a palpe e i sardi guarda a bonifaziu cume un bombo   lu accertanu seria  pe riculusissimu  riclamanu 1  rinforzi  eppoi  appena dopu  oh  chi rise  ssi taliani       armemu  armemu a corsica  u pane    lu averemu   i  intantu  roma e pariggi un ci dicenu ancu cio chi elli pensanu  so ancu capaci di fassine duie risate   pascura di giurnali v aghiu dettu   e tantu basti 
+  s
+    </p>
+    <docAuthor>
+     Altore
+    </docAuthor>
+   </div>
+   <div n="3" type="let" xml:lang="co">
+    <p>
+     una letterina  caru direttore   aghiu ricevutu  chi so dui mesi un librittacciu rossu senza sape chi u mi mando  dipoi  unn aghiu piu ricevutu nunda  forse sera stata per fammi vede  lu averanu mandata a di altri per falli vede  e cume avemu sarratu li occhj  si ne sera morta tempu nata   per contu meiu  marianna je a lu abbaghiu  e un sa piu dunde si ne sorte  quandu  dice chi no  travagliemu per la italia   quandu  per la alemagna   unu di sti jorni tuccheremu soldi da la inghilterra o da i turchi   in chi lingua ci vurra a dilli chi no  simu autonomisti    infine  mi abbegu chi a muvra cumencia a metteli i penseri  unn e micca troppu prestu chi elli si abbeganu chi in corsica ci a sempre corsi chi tenenu cara a so  patria  niente che ssa patria  chi bolenu a so  resurrezione e bolenu vede jini st infernu chi dura dipoi 16o anni   ricevite  caru direttore  una toccamanata  e cridite sempre di  mio amicizia e sincerita 
+  s
+    </p>
+    <docAuthor>
+     Ghjilormu
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="fr">
+    <p>
+     france corse italie semu felici di ripruduce st articulu di u nostru cunfratellus direttore di a  nouvelle corse  u solu chi s e intesu l animu di mette e cose sottu u so' veru jornu per cio chi cuncerna a quistione in boga francia italia corsica  menu stupiti semu a lettura di varj jurnali d l isula iutti piu o menu cuntrarj au tema di u dettu articulu  cunuscimu molte leve chi mettenu in obligu molti e tanti giurnalisti a parla in ssa manera  les recentes manifestations oratoires de mussolini ont suscite dans la presse francaise une indeniable emotion voire dans les journaux qui de tout temps manifesterent je plus ouvertement leur sympathie pour le fascisme soit par admiration pour l eeuvre grandiose du duce amitie pour je pays ou gout du regime  la presse francaise j entends par la celle du continent peut avoir les reactions que l'on constate  le peuple francais continental peut avoir des raisons que lui suggere son optique pour s inquieter des paroles mussoliniennes   mais du cri d alarme a la vituperation en passant par le sarcasme meprisant ily a tout de meme place pour une opinion intermediaire qui ne serait le reflet de l un ni de l autre de ces etats d esprit  cette opinion pourrait etre representative de l optique corse en une aussi grave conjoncture que celle ou l on verraitse dresser l'un contre l au tre non point les deux peuples a dieu ne plaise  mais les deux sentiments nationaux  quel que soit notre attachement pour la france et dieu sait s il est grand  nous ne saurions en aucun cas ou se poserait devant nous le probleme des divergences franco italiennes nousme saurions sentir ei penser d exacte facon que les angevins ou les bourguignons  quoiqu en disent les manuels d histoire nous ne sommes pas nous autres corses les  descendants des gaulois  qu on le veuille ou non il en estainsi et n ensaurait etre autrement  ii est donc naturel que nous introduisions dans le probleme une donnee transversale   j entends napoleon a integre le sentiment corse au sentiment francais et cela donne ce que l'on appelle l ame nationale verite mais seulement historique  et puis napoleon etait roi d italie son fils fut roi de rome et napoleon hi a peine sur l unite italienne depuis l epoque reculee ou les races se cherchaient l histoire nous apprend qu ily eut toujours collaboration civilisatrice au point de produire une sorte de co nationalisme entre l italie et la france dont pour cette derniere une partie est faite de l'ancienne rome  aujourd hui le fait d un conflit entre la nation a laquelle nous appartenons et celle a laquelle nous tenons tout de menre un peu parle sang serait une nouveaute dont le tragique se manifesterait autant par le trouble des ames aux prises que par le choc arme des corps  on voudra bien admettre que nous puissions avoir un mot a dire uneopinion a faire valoir une objection a dresser toutes choses qu'un langage exclusivement francais an sens ethnologique du mot ne saurait tra duire  alors n est ce pas  il nous conviendrait d etre moins buyants dans nos transports gallicistes afin de ne point participer a f irritation a la friction des deux sentiments nationaux aux quels par des liens differents etincomparables j ajoute nous tenons  cela ne saurait en rien faire douter de notre loyalisme eprouve puisqu aussi bien c est encore la seule reference qui nous soit reconnue et qui nous donne droit a l affection toutau moins officielle de la france  li a ete dit frop dit que le gouvernement francais au cours de la derniere guerre avai envisage la cession dela corse a l italie le precedent clemenciste de 1871 n etait pas si loin que nous n ayions pu par l alerte diplomatique de 1915 sentir s interrompre la prescription de cette inquietude fomentee en nous par la fameuse motion des positivistes  mais la question n est plus la  on ameute aujourd hui l opinion corse par des bruits inconsideres de conflit chose qui ne peut se produire  nous n avons rien a craindre de vitalie celle ci ne voudra jamais porter ses armes dans notre ile armes de tir ou armes de blocus si la guerre entre elle et la france devait eclater il est d autres territoites pour servir de champ clos aux armees  les corses tout en faisant comme toujours leur devoir attendraient sans fievre la fin du conflit et si a l heure des diplomates la france sait nous garder c'est qu elletienta nous a ce moment seul sonnera alors ia prescription definitive de notre inquietude  si elle nous cede s
+    </p>
+    <docAuthor>
+     Jean Maki
+    </docAuthor>
+   </div>
+   <div n="5" type="poe" xml:lang="co">
+    <p>
+     serata  u sole rossu tigne li sciappali    un son  di ave maria in celu colla   so ghiunti li piaghjnchi tutt in folla   e dissomanu in piazza li animali   u pollamme  scialacquatu  si appolla   pulverosi  eccu capre e boi fali    1 pastori si arreganu una polla   un stagnone di latte o dui pali   allegramente  rondinelle e sbirri facenu in la aria chiara mille giri   e ciarla  a  secchia in capu  una zitella   quanti e quauti penseri in me si crea  chi goia di truvatti  o casa mea    e quantu ti amu  o la mio cirneella  
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="6" type="art" xml:lang="co">
+    <p>
+     la oca bastiaccia  racontu estrattu da un libru in preparazione      le baudet bastiais    riturnava da bastia   nantu a u ponte di lupinu  vidi una donna  ma una bella donna  giovina  amantata di negru   appughiata a u parapettu   ssa donna vumitava   mi abbincingu  dicenduli      scusate  o madama  possu dabbi ajutu  mi pare chi bo  siate malata        inno  un so malata  unn e chi una indispusizione passaggera di stomacu  mi ha fattu male un pezzu di oca     un pezzu di oca     si  un pezzu di oca bastiaccia chi unn aghiu pussutu diggeri  ava lu aghiu resa  mi ne trovu megliu     induve le aviate manghiata  ss oca      or bella  si bo  sapessite     aghiu trovu un merchente ambulente chi bindia la oca bastiaccia   o bastiese  un so piu cum ellu si dice   mi ne aghiu pigliatu per cinque soldi e aghiu lettu     avete lettu      si  aghiu lettu          minca tutte le oche si manghianu  ci so le oche chi scrivenu cu e so  piume appinzate  aghiu lettu  perche si parlava di me  di una prossima guerra  di francia e di mussolini  di tante cusaccie buggierde chi mi hanu datu u vomitu  ma ava chi aghiu resu  mi sentu megliu  si  si  bella megliu     e chi avete lettu     a vi cunteraghiu  ghiuvera per arripusammi   intrigatu  mi calai accant a  ssa donna bella e simpatica  dicendumi  nu mio core  chi disgrazia chi ella sia scema    a pigliava  infatti  per una pazza        un ne leghjte  voi  giurnali  mi disse     indeh  qualchi bolta ileghiu  ma unn aghiu tantu 1empu a perde     fate be   sopratuttu  un leghjte la oca bastiaccia chi bi puderia rivulta e trippe   bte vistu a me  mussolini  nu i so  discorsi di tuscana  ha dettu chi li immurtali princip  so  belle cose  ma chi ellu un so che chiacchiare si ellu un so sustenuti da una furesta di bajunette     e allora      allora la oca bastiaccia  si e messa a fa  gowin      gonin      circhendu di pruva chi mussolini ha tortu  la oca un si ricorda piu di cio che i so  padroni hanu fattu di li immurtali principj   lu hanu annigati in golu  fendumi a guerra in casa mea per affua a liberta chi i mio figlioli avianu cunquistatu e acquistatu cun tanti stenti  liberta per le oche   schiavitu per me    un si arricotdanu piu  i falzi sus tenit ori di 7 pprincipj immurtali a i a manara a 1  x uttali di a manera cu a quale hanu trat  tags a das tt iu  tatu u papa  un cuncurdatu sulen   ne  fattu da un corsu  i ligava cu a santa sede  un bellu jornu  y streccionu cume   un vieux chiffon de papier   spuglionu chiese e cumbenti  frati e sore  cristi e pre  ti  lu arrubbonu tuttu cio chi elli pussedianu  e i tironu fora di casa soia in nome di a liberta e di tutti i so  immurtali principj   unn ha dunque raggio mussolini di di a tutte le oche pinzute e spinzate che e so chiacchiare un so che chiacchiare  cio chi conta  oghie unn e piu che a forza  a forza sola po fa bale a so  raggio     selon que vous serez puissant ou miserable  le jugement de cour    un mi fate parla francese   la oga bastiaccia cuntava ane chi prestu la italia averebbe fattu una guerra a a francia per impadrunissi di me e chi ella era neces  sariu di inturniammi di cannoni un credu chi elli accadi  ma si elli accadessi   dio ci ne preservi   feria anch eo cume u sumere di u mulinaju           e chi ha fatiu  u sumere di u mulinaju      unn ete mai intesu cunta chi una volta un mulinaju viaghiava cu  u so  sumere chercu e trachercu  si incuntro cun dui ladri   appena i vide  disse a u sumere      biaghia  biaghia prestu  chi benenu i ladri   i  u sumere   tandu li enimali parlavanu   li rispose      biaghia e scappa tu   to un fughiu chi unn aghiu nunda da teme  chi mi feranu a me  i jadri  mi maltratteranu piu che chi ti un mi maltratti tu  o mi feranu purta dui imbasti  un ci e penseru     e cusi so eiu  caru figliolu  u mio statu e talmente angusciosu chi un so piu si ell e per me megliu o peghiu di esse turca o cinese        e quale site voi      so a disgraziata corsica   murale    patite nanzu a fame un mese  ma un leghite la oca basiiese 
+  s
+    </p>
+    <docAuthor>
+     Ghiuvan Baston
+    </docAuthor>
+   </div>
+   <div n="7" type="feu" xml:lang="it">
+    <p>
+     egli comanda e vuole che in due punti si abbia a campeggiare   uno nel nebbio per mettere fuori i  capo corso  e lo altro nella casinca per penetrare nell  interno dalla parte di aleria   questo come vedete e perfeltamente assardo  tra me e il capuluogo delle  operazioni metto un paese intero  mi dilungo senza sapere dove trovero il nemico  mi espongo ai disastri di una marcia arrisicata  ed offro campo di proseguire a nostro danno la guerra di avvisaglie che sperimeniarono cosi a  cerba i miei antecessori no  signo  re io non la intendo cosi   la colonna nel nebbio sta di  incanto  ma sostenu a da corpi vicini  i quali operino di concerto con lei  una colonna manderemo anche in casinca per tenere in rispello il nemico e torgli il ruzzo di raccogliersi in massa   ma la terza colonna che mi dispongo a comandare io  voglio che si inoltri su per la sponda sinistra del golo e faccia capo sotto le costiere di lento  dove congiunta coll altra che scendera dal nebbio mi concedera potere da un lalo di oc  cupare la balagna  dove ci aspeltano a braccia aperte  dall altro sforzato il passo del fiume correre fino a corte  e cosi darmi di un lratto vinta la impresa    chi e quell  uomo la    a questo punto scorgendomi domando il de vaux     non dubitare  e dei nostri   lo ho preso ai miei stipendii per guida    sta bene  ma mandatelo al diavolo   e poi colesto furfantissimo sapete voi che aggiunse aggiunse   e se la sua faccia non mentisce  mi sembra che mandandolo al diavolo lo abbiate a mandare  proprio a casa sua    andale via  bernardo  mi disse allora il marboeuf  butiale su di un fico cotesta pelle di orso per vestire la divisa di s  m  cristianissima     dopo una licenza cosi inchiodata e ribadita non vedeva verso di potere fermarmi  andai a vestirmi e mi trattenni finche  ieri nolle  col  to il destro  me  ne sono venuto via con armi e bagaglio     appena frale bernardino ebbe chiuso la bocca  che altobello entro avvisando un frate domenicano che parlito in fretta da calvi chiedeva conferire  col generale    venga il padre domenicane   il padre comparve come uomo sgomento  disse mandarlo a furia il suo superiore  ad avvertirlo che si vedeva bordeggiare tra il capo di alga e quello di spano un armata francese industriardosi pigliar terra     grazie in nome della patria a voi e al vostro superiore  i france  si lo possono  fare   possiedono naviglio e soldati piu che bastevoli a  questo  andate a riposare  che morite di stanchozza  ambrogio  piglialevi cura di questo degno sacerdote     generale   affacciandosi di su la porla disse altobello  un altro frate  ma questa volta dei servi di maria  partilo da ajaccio  fa istanza di essere accolio da voi     e  parrebbe che questi padri si fossero dati la intesa per confessa  re e amministrare il viatico e la cs  trema unzione alla corsica   entri il servila    il servita ammesso al la presenza del generale espose arfivare ralto a chiarirlo come grossa mano di soldati francesi sbarcata ad ajaccio si fosse sentita dire che ri  fatte appena le forze dal travaglioso viaggio si sarebbe messa in cammino per pigliare i corsi alle spalle  impallidi leggermente a tale annunzio il paoli e raccomando anco il servita alle cure di ambrogio  appena uscito il frate  il paoli portando la manca mano su gli occhi escia  mo con voce cupa    veramente noi non possiamo piu vincere      padre bernardino stava b li per fargli un rabbuffo  quande venne annunziala una femmina la quale    piena di angoscia in vista recava un foglio che dichiarava non volere consegnare in alire mani eccetto quelle del signor  generale   facilmente accolla  ella disse averle dato il foglio a olmeta un soldalo  ordinando portasselo a muraio  e avverlisse darlo proprio al paoli   se nol facesse  guai   i suoi figliuoji e la sua casa pagherebbero per lei  onde la scusasse se per caso avesse fallato  il generale conforto la povera donna  e donatole  alquanto di danaro 1  accommialo   gittato lo oechio su ja carta ebbe a maravigliarsi non poco considerando com  ella fosse straccia e sgualcita   presago in cuore che conlenesse cose viiuperevoli la  porse al guelfucci perche la leggesse   e il segretario con voce che mano a mano procedeva nella lettura si mostrava alterata lesse     sua eccellenza il comandante generale delle forze terrestri e marittime di s  m  cristianissima al capo dei ribelli corsi   s  m  il re avendo comperato dalla serenissima republica di genova la isola di corsica per piu danari che non vale  e pero appartenghiate alla francia pel sacrosanio diritto di compra e vendita  voi gia sapete e non importa che io vi dica   quello che importa che sappiate e che noi siamo cinque volle tanti in maggior numero di voi  misericordia ci consiglia a a tenere tuttavia levato il pugno sul vostro capo  approfiltatevi del momento per inchinarvi alla banfiera di francia e meritarvi perdono   vi si concedono due volle venfiquattro ore  le quali trascorse senza ridurvi a consigli migliori  potranno ben cercare  chi ne ha voelia  i tritoli  delle vostre ossa  ma non li troveranno     assai prima che la lettura cessare  il paoli si aggirava per la stanza a no  di  lione dentro la gabbia  le mani apriva e chiudeva quasi intendesse stringere la elsa della spada  squassava il capo  in breve da tutta la persona spirava  non che ira  fu rore   di botto sta  si stringe con la destra le tempie e del pie pestando la terra comanda      buonfigliuolo  scrivete   no  no di quella carta  bensi della altra  papale dove registransi le deliberazioni del regno   il padre guelfucci preso un foglio e adattatosello dinanzi con molto magistero  speculala prima traverso la luce la penna di cui le punte andavano a sesto  pose la manca aperta sul foglio  con la desira intinse la penna nel calamaio  e stretti ilabbri  levato il capo in su aspetto       eccellenza  deltava il paoli tremando a verga e agguanlandosi al lavolino    se veramente vi sentile cinque volte piu forte dei cor si  voi dovreste comportarvi cinque volle piu generosamente di loro  se la francia  la quale un giorno ci sovvenne per liberarci dai tiranni  oggi si mette nei piedi di loro  questa e sventura nostra ed anco vostra non poco  ne credo possa somministrarvi argomento a inorgoglirvi  troppo  in ogni caso se a voi servitore sembra onesto obbedire i comandi del vostro padrone  non dovreste trovare reprensibile che io uomo libero obbedisca alle leggi della palria mia  minaccie e oltraggi tra gente valorosa non usano   ho sentilo dire che i gentiluomini francesi una volta se ne astenevano  con le parole non ci possiamo dire piu nulla   noi vi attendiamo su i campi dove vincendo ci aspetta gloria immortale  e perdendo non iroveremo vergogna  perche avremo comballuto con fracesi  e cinque  volle  voi lo affermate  piu numerosi di noi      fin qui l  egregio uomo deliava  poi tolta la penna segno il suo nome fulminando a zig zag come si dipingono la saeile     se non sono scoppiato  egli disse piegando la leitera  posso gararifire il mio petto di acciaio  orsu  ambrogio  mettiti il tuo meglio vestito  e voi  signore altobello  invilate a mio nomeil signor barone stein a portare nella qualila di parlamentario questa lettera ai genera le in capo dei francesi  lo trovera in oletta   spedita la faccenda tornate  che ho da commeltervi cose di molla premure     quandoil conte de vaux ebbe let a la risposta del paoli si senti umiliato e nel profondo   ma all inconiro di accogliere cottesla mortificazione come easligo o come ammenda  se ne valse per alimentare la ingiusta ira  pero sorse in piedi quasi fuori di se urlando   s  zampiccchi   si impicchi    i circostanti  qualunque fosse la buona voglio loro per obbedirgli  non sapevano che farsi  dacche non rammentava alcun nome  ond egli mirando cotesta loro inerzia vie piu si arrovellava   per buona ventura capito il conte di marboeuf  che vistolo con gli occhi strabuzzali  e pagonazzo in viso da fare temere imminente un colpo di apoplessia  essendosi informalo della cosa licenzio tutti e quando fu rimasto solo con lui cosi gli parlo     signori  i corsi meritano quello e peggio che minaccio loro con  lanta giustizia vostra eccellenza 5 ma come sapete bisogna lasciare andare ire pani per coppia  per amore delle convenienze  e jl parlamentario per di piu non e punto corso  bensi gentiluomo e inollre colonnello di s  m  il re di prussia     diavolo   allora e un altro paio  di maniche   ma vedete un po  dove si vanno a ficcare i gentiluomini  questo travagliarsi dei nobili in pro  della plebe  e farla comparire qualche cosa non puo condurre a bene  assolulamente non puo       voi parlate di oro  signore  ma che farci  intanto vi piacera senz  altro di accogliere il parlamentario   it colonnello fu inondato di convenevoli e non sapea che per poco non lo avevano appeso   la superba arroganza del de vanx pensava emendare adesso con la copia degli ossequii la malcreata villania di dia    f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     u  parlamentu    uni pochi  pi acolli di rapina  be ccianu ji so  tufoni  gol  per sumina ruina  e oi mandunu a caternu    quess e lu nostru guvernul  cume lupi scalinati   neri da lu santavogliu  senatori e deputati   ghiustranu lu portafogliu  popu so cuntenti o tristi  se so fatti o no ministri   prima eccendenn lu guerra pe  la industria e la finanza  sangue in mare celu e terra un ci ne e mai abbastanza   pe  la banca e per la usina andemu tutti in pulvina   ga le formule di onore gi portanu a lu macellu  infieriscenu lu core  e sboltanu lu cerbellu   e ci vendenu  figliolu  cum a la santa in niolu   lu parlamentu e currottu   sebbiatu e lu scruccone   si elli lu mettenu sottu   fate puru attenzione chi aprera le so  priggioni a colpi di milioni   tante gazette cu fole  e si ha messe a lu ancinellu  una donna gran  burlone chiamata cume l   anellu   un muga nantu lu pancu cu a  gazetta di u francu   dante misse li dannati   nu le fiare e  nu lu focu  ma li corsi incatinati simu junti pocu a pocu  ad esse  cum in infernu sottu a strangeru guvernu   1 corsi in particulare sianu ringraziati   arrizzemuli nn altare cume a li santificati per chi la pusterila un si ne possa scurda   a la ora di lu programma   tutti piu puliti e fini  rimpiazzanu babbu e mamma   finanzeri e balaenani     e si ne scioglie in canzone  passata le elezione   ma chi bellu cabinettu   musca ancu da luntanu   un burrebbi esse scurrettu e bogliu anda pianu pianu  perche si io la pigli a perda dicu chi nuta in la    
+  s
+    </p>
+    <docAuthor>
+     Carlu Tristani
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     soli di primavera   spunta  soli di orienti    x ombra nun lascia nienti  carca di orn i nostri monti    da la vita a lu vangonu   tutt e tristu a li tramonti  spunta  e tuttu cambia fonu    allegri  tutti li fiori  sinfunia di culori   ridi  arba bagnadosa e pampana pulvarosa   eccu u basgiu di lu soli  ghjra e ghjra   o jira soli   tutt e cantu  tuit e festa   u russignolu  ne a furesta saluia da gran  maestru u soli chi li da lu estru   1 ciarboli scupaghioli bijini  bijini soli    la alba  ne on raghiu di soli luei e pari un pezzu di oru  di li fiori muntagnoli  edda cerca lu tisoru   senza soli  quantu tristi  alba e fiori vo  seristi    primavera  primavera   lu to  soli e gran  dultori  metti la allegria in cori   da la forza a la fera   a seluia a li malati   u vigori a i  namurati   parlata di sarte
+  s
+    </p>
+    <docAuthor>
+     Simonu di li Lecci
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     a un amicu  ricevu a to  cartolina   o caru amicu garbatu   duve mi dici    mareollu  postu chi se  liberatu speru vedati rientre  cu burrettu ingallunatu     or ti pregu  caru amicu  di un di piu  sse scimita  perche vegu chi a la risa tu mi vurristi juca   soga credi  ja me testa   di pudettila paga    perche  tu chi mi cunosci  amicu fra li amiconi   devi sape chi marcellu si impippa di li galloni   e chi tantu piu li piace un piattu di maccaroni   si  longu diciottu mesi   a metz ci sonu andaiu  unn e per vulunta mea   di forza mi ci han mandaiu  aspeltarianu sempre se mi avissinu aspettatu   per me nun ci era galloni ne barrette raccamale   lu me  solu desideriu inde  sse fredde cuntrate fu di vede passa presiu  sse cusi longhe jurnate   e quand e sunata la ora  chi era fardata troppu  tutt aghiu mandatu a spassu   tinuta  cascu cu schioppu   mughiendu a tuttu sturzile     viva la vita civile    piu che tutte le so  arme  inde la me  tinta manu  macari piola e zappone ben megliu ci sindaranu  ed almenu a qualchi cosa di utile ne juvarann     dunque ti pregu  o amicu garbatu fra li amiconi  parlami pur  di ogni cosa  di pulenta o di canzoni  ma  par piace  lascia corre li spalletti e li galloni  
+  s
+    </p>
+    <docAuthor>
+     M. Alessandri di Chidazzu
+    </docAuthor>
+   </div>
+   <div n="11" type="poe" xml:lang="co">
+    <p>
+     a una strangera  dite  bella strangera chi bulete u mio core   1 vostri occhj in preghera mi dumandanu amore   site mezzu che bella  avele un tipu siranu  cume le rundinelle  ghiunghjte di veranu   senza nisun timore   bi porghiu la mio manu  site un bellu fiore sbercatu da luntanu   bi ete pigliatu u core  chi batte inde stu pettu    dite chi u vostre amore per cirnu ne e perfettu    bi ete piglialu la alma chi io tenia serrata     dite chi la mio mamma sera da voi amata    si bi amate a cirnella malgradu ii so  guai   la mio bella zitella   un bi abbandongu mai    se tenite a mio mamma di un amor grande e veru  u mio core per voi  sera sempre sinceru  
+  s
+    </p>
+    <docAuthor>
+     L'Alzincu
+    </docAuthor>
+   </div>
+   <div n="12" type="his" xml:lang="co">
+    <p>
+     una di quelle fole     ziu pipparellu  una volta  ci era un bicchiarellu chiamatu ziu pipparellu chi si ne stava solu solu ind una casetta chi un facia che duie pezze  un piantarrenu e una stanza sopra  a u piantarrenu ci era un camminu e un saccone di paglia  disopra ci era un lettu   una sera  ci capitonu uni pochi di furesteri e allughionu inded ellu questi eranu tredeci  fra i quali un bicchiettu barbi grisgiu  e unu di mezz eta  barba e capelli biondi di culor di oru  bellu e delicatu  inc un sguardu cusi prufondu     ziu pipparellu accurgendusi chi questu era qualcosa piu ca li altri  u mando a dorme solu disopra ind u lettu  ed ellu si fermo disottu a u fuculaghiu  cu u vicchiettu e i so  ondeci cumpagni  di pedi a u focu e a so  pippa imburrata   in piu bella  si sente tucca indarretu  era u vicchiettu barbi grisgiu chi  tagliemula all accorta  unn era altru che san petru  e chili disse   sentite  quellu chi e disopra e u signore  cullate e damandateli una grazia     ziu pipparellu un ja si fece ripete duie volte  colla u scalone  picchia ed entre     un seriste micca u signore  voi     le  e chi vurriste      vurria una grazia     qualessa   dite puru  chi bi sera accurdata     videte sta mio pippa   ebbe  eiu vurria chi  quande aghiu a voglia di fuma  unn abbia che a mettela in bocca senza bisognu di imburraila di arba tabacca ne di batte focu per accendela   u signore fece un cennu  e disse    andate puru  e fatta    ziu pipparellu  falendu i scalelli si pruvo a surpa a pippa chi ellu sapia spenta e mezza biota un mumentu nanzu  u fume surfi cume da un bapore  biancu  tepidu e profumatu     chi ete dumandatu  li disse san petru  quandu si rimisse a pusa     un bidete   chi sta pippa fumi sempre senza bisognu di empiela ne di accendela     ih   per lu macumettu   fece san petru  cullate a dumandalline un altra  ma sappiate sceglie  omancu      u bravu e semplice vicchiettu si atteppa torna a sse scale  picchia ed entre     scusate  signore  puderiste accurdammine un altra     parlate     aghiu una panchittella  e burria chi quellu chi ci si chjna nantu un si possa piu arrizza che quande vogliu eiu         dumanda strana  fece u signore trinnichendu u so  bellu capu  ma le averete quantunque   san petru messu a u currente di a seconda grazia  si misse guasi in collera    lien    ah  ah  chi site scemu   cullate a dumandalline una terza  ma circate di riflette be  sta volta  perche sera la ultima   e ziu pipparellu colla torna  picchia ed r  ire     signore  mi truvarete un pocu insu eute     vurriste micca accurdammine un altra     parlate     aghiu un zanu  e burria chi tuttu cio chi entre nentru  senza i mio ordini un ci possa piu sorte  i    quessa le averete   ma sta volta  a u sape di a grazia  san petru si misse bell e be in zarga     per lu san biulinu   soga un ne meritavate  andarete in infernu  eiu un bi vogliu induve me   a manu dopu  u signore e i so  dodeci si ne andonu    un bel ghiornu  qualchi tempi dopu  ziu pipparellu sente un picchiu a lu usciu  face entre  era un diavulottu di i chiughi     ebbe  chi si cerca      cercu a boi  alo  chi e ora  ci ole a parte     e detta   postu chi ell e ora    ma pusatevine appena nantu  ssa panchetta a u focu  intantu chi io mi appronti   smaliziatu  u diavulottu si chjno  ziu pippa rellu inceppa un bellu focu e si ne sorte fora  un ci fu tempu  sta a sente i gridi   o ziu pippare  currite  currite  chi mi brusgiu    ma quellu facia u sordu   e dopu avellu lesciatu arruste un bellu pocu  ordino a  panchetta magica dicarpiallu  u diavulottu parti senza dumanda u  e  restu  e ghiuntu a lu infernu  ne quelli chi ii dumandonu di u vicchiettu      zittate beh  mi ha mezzu cunsumatu  e spiego le affare     un tempu dopu parti u diavulottu mezzanu  ma quellu dino  scurdendusi di lu avisu di a panchetta  ci si chjno  ziu pipparellu  non solu u fece arruste a u focu imburratu  ma piglio dino un bastone  e dalli  nant a  ssu spinu    se un partu da per me  disse u diavulottu majo  un ci resce di jugnecilu   e un bel ghiornu  piglia e bia inde ziu pipparellu  dopu a scusa di appruntassi u vicchiettu porghie a panchetta     un mi ci pigli     allora  si tu un ti voli chjna  statti arrittu     ma sentite  e bera chi bo  avete a magia      le  chi lu aghiu     or quessa a vurria vede  fece u diavulottu incuriusitu     e tu  li hai a magia     eh  a mio particella     allora  si tu voli vede e ghiudica a mea  ci voli chi tu ti torni topu e fatti fala in  ssu zanu   detta  fatta  ziu pipparellu  lestru lestru  ti lea u zanu u si mette a piccollu e parte a bia di a stazzona  ghiuntu cula  mette u zanu nantu le ancudine e da ordine a u stazzunaru di batte sopra  a  spietata  u zanu facia astica  e a la fine unu disse   pare chi ci sia il diavule       per appuntu  u diavule ci e    e ziu pipparellu apri u zanu  u diavulotiu si ne ando  bellu macuccu   dopu  st affare  nimu junse piu a circa a ziu pipparellu  ma ellu imbecchiava  imbecchiava  e cusi li junse u laziu di partesine da per ellu  piglia a so  pippa  a panchetta  u zanu  e  vedendu u so  spedu franchendu a porta  si piglia dino quellu e u si mette in falza borsa   eccu u nostru vicchiarellu a bia di lu infernu  chi  cu a forza unn avia pussutu avellu  picchia a  porta     attenti  chi e ziu pipparellu  gridonu in coru i diavulotti  chi ell unn entri  chi ci stigne atutti   si appuntonu tutti a u purtacale credendu sempre chi u vecchiu avissi una forza sprupusitata  u piu majo azzardo un occhiu a u tufone di u ferriale  zicchi   u spedu di ziu pipparellu l agguercio  allora tupponu ancu u chiavatoghiu  e a porta fubbe bella stanghittata   ziu pipparellu piglio a strada di u paradisu  ghiunse a lu usciu e picchio  ma cu poca speranza perche si arricurdava di e parolle di san petru     anh ank  avale affaccate  fece quellu  chi ci si aspittava  a sapete  pero  unn aviate che di dumanda a grazia di pudecci entra       ma allora  duve diamine aghiu di anda  postu chi in infernu un mi volenu  lasciatemi macaru vede cum ell e fattu   ssu paradisu     alo  guardate       e san petru u lascio fidighia pe  un purtellinu  ma u vicchiettu piglia e lampa a so  panchetta a lu indentru  e  cum elli a li vulianu porghie      inno  inno   un la tuccate chi e incantata da u signore  ci vole che a pigli da per me       un pobbenu fa del menu  ma ziu pipparellu entrendu per riguara a so  pusicula ci si chjno  batti a cacciallu   ohimella   pipparellu un si pobbe stacca   a dissenu a u signore     legatelu sta  rispundi quellu  a panchetta e incantata  e egrazie date un le possu piu caccia   e ancu avale  a lu indentru di u purtacale di oru di u paradisu ci si vede un bicchiettu pusatu sopra a una panchitella  fumendu a so  pipa   e ziu pipparellu  chi fuma e fumera ir efernu    fola fuletta schinchirilletta   dite la vostra chi a mea e detta 
+  s
+    </p>
+    <docAuthor>
+     U Patriotta
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1923_27
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     si tu avais la foi si tu avais la foi o corse mon frere tu serais riche riche immensement  riche non de cette ephemere richesse froissement de papiers bleus ronflements berceurs de l auto hochets luxueux et ridicules mais d une richesse qui exalte l ame l irradie de nouveaux soleils le peuple de hautes pensees  cette richesse  epanouissement de la fleur de vie profonde  serait une source jaillissante epandant autour de ta maison de la fraicheur ta maison est morne ton ciel est de plomb ton jardin brule par l ete torride dur tres dur est ton labeur et le labeur de tes freres que la soif devore  tu traines une vie miserable victime de miseres immeritees dont la chaine tres lourde alourdit chacun de tes pas les hommes et la nature conspirent  contre toi les causes de tes malheurs tu les ignores et en les ignorant tu te fermes toute issue toute liberation toute redemption  o corse mon frere en ce vingtieme siecle civilise tu continues de mourir  comme toujours  que faites vous si vous etes blesses   nous mourons  ils mouraient les heros de l independance tes ancetres les surhommes de pontenovu  leur sang vermeil s echappait rapide de leurs blessures fraiches leurs corps rejetaient l ame en haut dans le ciel solitaire nul n accourait pour bander leurs blessures aucune ambulance n etait la pour recueillir ces glorieuses loques humaines qui achevaient de vivre contre une roche sanglante au fond d un ravin dans le maquis desert  et comme eux ils meurent tes freres la race deperit rapidement elle s etiole elle fuit l ile de misere  si riche pourtant   car ils n ont plus d esperance leurs maux innombrables leurs paraissent le lot fatal du destin cyrneen   laisse jaillir o corse mon frere la source interieure cachee aux trefonds de ton ame bois et desaltere toi aux eaux regeneratrices et pures du patriotisme  oh  alors   si tu avais la foi tu serais riche riche immensement
+    </p>
+    <docAuthor>
+     Dominique Carlotti
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

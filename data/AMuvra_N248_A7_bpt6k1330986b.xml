@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330986b
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330986b
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 248 | Année 7
+     </edition>
+     <date>
+      1926-04-11
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Annu VII — Numaru 248  Esce a Dumenica  Dumenica, 11 Aprile 1926   GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI:  in Corsica... eee re + ..... 12 franchi  fn Francia. + +. +. 4 4 4. . . 15 »  à FrEsteru. + - . . . -... +. . . . 25 »  U Mumaru :€ soldi  Direttore : Petru ROCCA  AMBM-ISTRAZIONE:  38, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     naziunalismu corsu      un populu senz orgogliu nazionale e un corpu stramurtitu chi ha persu a nozione di i so interessi e chi  avendu spostu gtarma morale  cessa ogni attivita intellettuale  economica e sociale     sta forma di catalessia culpisce sempre i populi in tutella chi  per fiacchezza di animu  accunsentenu ad un esse piu ca un molle parasitu chi tra e da a nazione a  qual ellu e statu age glutinatu a poca sustanza chi basta ad assicuralli una vita ormai insunnulita e senza scopu    a stu regime lu organismu si indibulisce e ogni reazione diventa impussibile   pricisamente  a corsica si trova ne a situazione di un paese chi  avendu persu a so autonomia unagisce piu parch ella ha rimessu a so sorte tra e manii di un altra nazione   in tal modu chi i problemi i piu angusciosi per noi altri  esigendu una soluzione  casca a risolvelli a un guvernu stranieru per li interessi e e preoccupazione  u guvernu di pari tale    in lu campu economicu a so nocivita e ancu piu grande  ed infatti  a ciasche ragione di sviluppu industriale  agricolu o cummerciale di a corsica si oppone furzatamente a ttsisienza di li interessi di altre pruvincie piu favurizzate  li industriali di e regione cuntinentale pa e quale la isula custituise un marcatu di prima impurtanza   non sulamente un  ranu niente per pruvuca un maggior sviluppu di utilisazone di e ricchezze chi ci si trovanu ma cumbattaranu un tal prugettu  e  in simile casu  i peri publici saranu custretti peut a stessa via  o  gi  u quale  in ogni casu  impastoghia u libaru sviluppu di a corsica   di stu guvernu  ne le ordine amministrativu cume ne le ordine ideale  avemu stabilitu a prova di a so azione dissolutiva  a  elli sianu individualmente  un pudaranu mai nulla contru a fatti di ordine cusi generali ca le opposizione di interessi e a pulitica di centralizzazione seculare di a francia  pulitica di assuffucamentu e di morte  per noi      ne avemu e prove  dipoi a guerra parlamentarii corsi hanu figuratu ne diversi ministeri e i problemi isulani so sempre a risolve   di altronde  u ritornu di 1 a1sazia e lorena avia da esse u cennu di la autonomia pruvinciale  si e vistu chi  a u cuntrariu  u guvernu ha rinfurzatu asoazione accentratrice mirendu a le assimilazione di e pruviricie ricunquistate   e a cundanna senz appellu di a pulitica corsa di li ufficiali  di li omi di partiti e di i regionalisti inzuccarati  i quali  per risolve la angosciosa quistione isulana  ci cunsiglianu di aspitta a soluzione siasi da u guvernu francese attuale  siasi da un altru guvernu chi li succedera  e tira e tocca   u naziunalismu corsu si ispira di i fatti e di le esperienze  davantia perpetuazione di li errori di a centralizzazione cunstata u fallimentu di e soluzione ufficiale e di e speranze regionaliste         osserva chi a corsica e una nazione  chi e trafalata parch ella un ha piu a so autonomia e chi i corsi hanu persu cu u sintimentu nazionale a nozione di li interessi isulani   u naziunalismu corsu prupone a i corsi di libera u so  paese di li ostaculi chi  minaccianu a so esistenza e intravanu u so sviluppu   u naziunalismu corsu rende i corsi cunsapevuli di l in  teressu isulanu e fieri di a so nazionalita corsa  i pripara ad impadrunissi di a propria gestione di i so affari  i punta a riacquista la autonomia   u naziunalismu corsu un piglia micca cume base un puru sentimentalismu o un semplice ramaricu di i tempi scorsi  e una duttrina chi raduna i corsi vultati versu le avenire  versu un intera utilisazione di u valore umanu di i corsi  u sviluppu di a prosperita di u paese e u megl esse per u populu cirnese   duttrina altamente pusitiva chi sara accittata da tutti li omi di prugressu e da tutti quelli chi volenu  salva ciocchi ci e di eternu ne u passata enea razza   a sta razza cocainizzata avemu dicisu di iniettalli u sieru di le azione   a manna un falo mai che ne u desertu e so trenta seculi chi a so pioggia un ha succorsu i populi a lu addisperu    u struggle for life e lunica chiave di a nostra salvezza 
+  s
+    </p>
+    <docAuthor>
+     P. di B.
+    </docAuthor>
+   </div>
+   <div n="2" type="let" xml:lang="fr">
+    <p>
+     u drittu di vive monsieur le president du conseil  le syndicat des commercants et industriels d ajaccio qui groupe en son sein tout le commerce local et represente les interets de l'activite economique insulaire a l honneur d appeler votte haute bienveillance sur la situation penible dans jaquelle se debattent le commerce et l industrie corses  cette situation tient a deux ordres de faits que nous prenons respectueusement la liberte de vous exposer   1 causes generales l accroissement continu des impots venant s ajouter a la hausse generale des produits et des salaires et a la baisse du franc entraine pour tous les commercants une augmenmentation de capital que beaucoup d entre eux  en particulier le petit etle moyen commerce  ne peuvent se procurer le fonds de roulelement indispensable dans toute affaire est sans cesse absorbe par les augmentations du cout de la marchandise ainsi que par l obligation d aquitter soit des taxes nouvelles soii des impots retroactifs  ne parlons que pour memoire de certaines exigence du fisc provenant d une interpretation quelque fois abusive de lois compliquees exigences que nous ne considererons que comme des cas particuliers  si certains impots peuvent etre recuperes par les commercants en les incorporant dans leurs prix de vente il en est d autres comme les impots cedulaires et l impot sur le revenu qui constituent un veritable prelevement sur le capital en effet le benefice d une maison de commerce tel qu il ressort de la balance des ecritures est une chose pour ainsi dire fictive  il est incorpore dans le capital et employe deja soit a des achats de marchandises ou de materiel soit compris dans des creances sur les acheteurs cette somme representant le benefice n est pas disponible entre les mains du commercant lorsqu il acquitte ses impots il est oblige en realite d en prelever le montant sur le capital ii en resulte donc qu au fur et a mesure que les impots augmentent le capital diminue et ceci au moment ou ce capital est de plus en plus necessaire   2 causes particulieres  la corse de par sa situation geographique est en quelque sorte alimentee au compte goutte cette ile magnifique mais pauvre ne peut faire jaillir de son sol montagneux les produit necessaires a ses besoins elle est l esclave de l importation  or qui dit importation  lors qu il s'agit d un departement separe de la mere patrie par un bras de mer de plus de deux cents kilometres dit  augmentation tres sensible de tous les prix de revient cette premiere augmentation s aggrave a mesure que les produits sont achemines dans l interieur de l ile  elle s aggrave du fait que les transports sont precaires et tres onereux par suite du manque de voies de communication ou de leur difficulte  de ces faits decoule l obligation pour le commercant insulaire d engager pour une meme quantite de produits un capital superieur a celui qu emploierait son coliegue du continent or il est loin de trouver ici les memes facilites financieres car il n existe en corse qu un seul grand etablissement de credit deja surcharge et ne pouvant consentir des prets que suivant les regles strictes imposees par les maisons de banque  et d autre part le capitaiiste particulier n existe pour ainsi dire pas en corse cela signifie que le commercant est livre a ses propres moyens  ces moyens sont tres reduits du fait que par sa pauvrete la corse ne consomme que des articles de toute premiere necessite dans la crainte justifiee de ne pas ecouler des produits de toute premiere qualite le commercant s en tient forcement a la vente des produits courants ceux qu on lui reclame et surlesquels son benefice est tres reduit    de plus la clientele ayant des ressources tres limitees il est oblige de consentir a ses acheteurs des credits tres longs qu il ne peut recuperer a date fixe qui lui font perdre un interet de son argent et surtout genent sa tresorerie  voila pourquoi le commercant insulaire ne peut augmenter son capitat a mesure qu augmente le prix de la vie et a meme toutes les peines du monde a se reapprovisionner aux cours actueis un commerce et une industrie qui ne se developpent pas periclitent on peut dire aujourd hui que notre commerce et notre industrie corses sont en pleine derive    ce developpement est impossible par suite de la faiblesse de nos ressources quand on a enleve de la vie economique d un pays l element commercial industriel et agricole par quoi peut on chiffrer les ressourcesde ce pays n ayant ici qu un commerce agonisant qu une industrie infime qu une agriculture limitee a quelques plants de cedrats de vigne ou de tabac  quelles peuvent bien etre les ressources de la population  elles se bornent au traitement des fonctionnaires aux pensions des retraites ou des mutiles aux revenus des professions liberales aux salaires ouvriers aux petites transactions des paysans a l apport d un tourisme encore en enfance  en somme  ressources infiniment maigres et qui ne peuvent augmenter au fur et a mesure que s accroit le cout de la vie  si nous avons expose les causes generales et particulieres de ce marasme c est pour demontrer surtout quela corse de part sa situation speciale doit aussi jouir d une legislation speciale   nous ne demandons pas la charite  nous concevons parfaitement que notre ile doit contribuer aux depenses de la nation selon ses possibilites et nous entendons bien faire ici notre devoir de bons ci toyens  i cela pose notre supplique serait inutile si elle n apportait en meme temps que la description du mal la suggestion d un remede que nous croyons opportun et efficace  nous vous demandons de com sentir a la corse un regime fiscal base sur les principes suivants  seguenu e modalita voila monsieur le president du conseil quelles sont nos revendications en somme modestes que nous nous permettons de soumettre a votre haute et bienveillante attention   nous regrettons infiniment de ne pas etre relies a la france continentale par des liens physiques qui donneraient a notre pays ce developpement et cette prosperite economique des autres departements francais mais ce regret reste platonique  nous sommes une ile et noussommes pauvres nous n etions riches que de sang et nous l avons abondamment verse sur tous les champs de bataille ou flotfa le arapeau  tricolore    notre patriotisme nous incite a ne pas envier le sort d une ile voisine ou pitalie realise presentement un effort economique et financier d une fabuleuse envergure nous ne revendiquons pas des services maritimes quotidiens a vingt noeuds ni yelectrification ni la liaison telephonique de notre ile avec la mere patrie nous savons quelles charges pesent sur la nation et que le relevement des regions devastees doit passer avant la notre  mais nous demandons au moins quele gouvernement se rende compie de notre enorme inferiorite au point de vue economique et nous applique un regime fiscal particulier et correspondant equitablement a notre situation generale  nous demandons simplement le droit a la vie  veuillez agreer monsieur le president du conseil l assurance de notre haute et respectueuse consideration x
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     cuscogliule  u discorsu  cera in niolu un giuvanasiru  chi tuite e volti chi avia logu un interru  facia un discorsu di circustanza  i   un ghiornu cumincio a solita prucaniula accumudata pero all occufeenzza      piange il tuo babbo morto di mala morte  piange la tua madre uccisa da tre colpi di stiletto  piangono i tuoi fratelli crudeimente assassinati  piange        u prete chi cunducia lu interru un du lego anda piu in la  senza riguerdu per stu fulmine di eloquenza grido sistiosu      avanti a croce    avanti il   quiproquo  un cantadore  culpitu da a voce maravigliosa di un pasturellu  u piglio cun ellu per assistelu a una cerimonia  in chiesa   avanti di cumincia li ricumando cun insistenza di un ripete che cio chi ellu li averebbi dettu   cumincionu allora a canta  e u pasturellu canto cusi be chi u cantore le disse   i    bravo     braavoo   canto u pasturellu rispettosi di a ricumandazione iniziale       cusi un si dice  aghitisto torna u caniore       cusii unu sii di ice e   can to un altra volia u pastore       maladeitu i pastori   grido iandu u cantore in collera     ma cusi un ci cantu  disse pasturellu  e un canto piu 
+  s
+    </p>
+    <docAuthor>
+     Matteu Cirnensi
+    </docAuthor>
+   </div>
+   <div n="4" type="poe" xml:lang="co">
+    <p>
+     natale  fila la alba e lu paese malgradu a bonissim ora   e lu jelu  e lu muntese   guasi tuttu e diggia fora   ma mi abengu  ghje natale  allegria generale   si sente mughj stridenti chi trapananu li muri  e li boja stanu attenti   cu li cultelli sicuri   ma mi abbengu  ghj e natale  e chi paga e le animale   in tuttu u paese in festa corre ia jente  afferata   un si sa duve fa festa    ogni porta je impacchjata   a faccenda e universale   lu san ghjornu di natale   e la murza profumata sparghje dapertuttu adore   e sopra  bestia straquata tutti colanu in sudore   ciole verche sia natale   perfa tantu berbazzale   1 zitelli  chi un ci e scola  facenu  allegri  ingunffia ognunu una pisciaghjola per falla spitarazza   u bisbigliu e musicale ma grazi a lu sgio natale   eppo u campanile chjama a tutti intorn a u bambinu  e u paese corre in brama  a basgia lu omu divinu   in dinocchje per natale   ci franchi ellu di ogni male   mezziornu  a taulinu    a curatella ci aspetta   fritta cun oliu e binu solu a vedela addiletta   chi ella eviva lu natale chi ci porta stu maghjale    e lu cane a culu in terra  cura cu scopu u purcellu e li ferebbe ancu guerra  si un fussi pe u turcinellu perche sa chi un e cignale e che ghj e lu san natale   sazii  i vecchj e li zitelli aspettanu la abriicata   per manghja li sanguinelli  chi ci ne e una paghjulata  vera cura stumacale   o tu  mula di natale   chjocca a benidizione e la chjesa e piu che piena  sguilla a folla in prucessione  eppo  la anima serena   inun secretu signale   ogn un ba per so natale  ghj e lu abrocu  eccuci pronti a quattru omi per pisallu     alo  centu e quessu un conti e un ci sia mai fallu    que po si  ghj e u capurale   chi ellu campi  lu natale   mula e sangui entrenu in ballu  e si manghja a diaulera   tutt a notte cume un  gallu  cantara a nostra gruppera   evviva lu serviziale furibondu di natale   po si stacca li prisutti   e le coppe  e le mezzine   e si insacca i lonzi asciutti nentr a un paghiu di stintine  cusi sera carnavale   grassu grazia lu natale   caccemuci lu cappellu    eccu le belle cullane   u so nome  figatellu   deliziosu cumpane     quellu chi mi vole male mi impicchi cu stu natale   e cuntinua la cuccagna chi sera ancu piu fiurita   si pomu di la campagna   ha  pe a so famiglia unita  inricchitu iu natale cu lu fruttu autunnale   per chi allora la mafina sera frova ia pruvenda    ncrusfulera pisticcina eppo salcicce e pulenda    ghj e cusi chi lu natale puntelleghja ogni casale 
+  s
+    </p>
+    <docAuthor>
+     Petru Borghetti
+    </docAuthor>
+   </div>
+   <div n="5" type="his" xml:lang="co">
+    <p>
+     la antigona corsa  4 volumettu di 33 pag   carta di lussu  tiratna sule 2oo copie  2 franchi   la antigona  corsa   segnitu e fine     ah  zitellaccia  figliola maladeita  u ricunoscu u to fratellu giovannali  fighiula in quista mani u tafoni par induva e surtita a so anima dannata       assassinu   ti scordi  chi e  so corsa   ebbe  chi u me angelico  sia vindicatu  e diu chi a vole   e  piu lestra ca a saetta  malgradu u pesu chi a imbarrazzava  inguanto la arma chi pindia a la cinta di u suldatu e di mino in capu un colpu murtale  po  fughiendu cume una bandita  in poche minute  corse a sfiatera a la tomba materna  subitu junta si appendi a lu anellu di a petra pisante chi  chiudi a fossa cumuna di a famiglia  si agronchia  si stinza  si asciuva u sudore ghiacciatu chi sgotta da ogni capellu  ed apri   ci faci passa lu ultimu di i rosazia  chiudi u tafoni  po  vinta da tanta fatica e da tant emozione  si sveni e casca a bocca in ghio      lu attu di fedi  ebbi locu u jornu di pasqua  com ella era statu arristatu da i cruciati  a ja surtita  di u vesparu  parchi nimu un manchessi a u spittaculu di lu ultimu casticu di i giovannali   u lignaghiu  altu e largu  era statu  arrittu nant una piccula cullina  vicin a la casa di i rosazia  ci un esistia piu   era stata  spiantata  a pian tarrenu  sta casa maladetta  e spartu u sale sopra a a u so impiazzamentu   setti cadavari ghiacenu a i diffarenti piani  diu lignaghiu  incicciatu di oliu  par anda piu prestu  in cima  so ligati a un palu dui corpi vistuti a carnavalesca  cu u san benitu tradiziunale  ci una mitria in capu e scrizioni infame  sottu sta spoglia scherzosa  u populu ricunosce cun dulore i dui picciaghi chi eranu stati i dpi fiori di jsoni  oramai appicciati nu a morte e la ignominia   angelico e annunziata    una sepe di suldati  ten a distanza a pupulazione  sdignata e minacciosa per le umiliazione imposta a u  paesi  a e primme castizzate diu focu  un coru di frati  accolti a u  pedi di u lignagnu  intona u diesire  u cantu u piu terribile di a  liturgia cristiana  veru ribombu  a quandu grave  a quandu stridente  di a collara di diu vindicatore   inquant a le ultime stanze di un ispirazione piu misericurdiosa  ci haprenu una porta di speranza  interdetta a culpevuli simili  a  giovannali  i frati isaltani  e senza cumpassione ne pieta  si arrestanu so pra ste parolle   nilunulium remanebit        e u i  allora  comu u senzu di ste parolle latine  per quantu chiare e minacciose chi u cantu  e di a  risica di un essa capitu  da li assistenti  un frate infantumatu si volta versu u ligneghiu  ecun gestu di moladizzione suprema  si isclama mudifichend appena u versu famosu diu pueta chi i i piu ignuranti capisciarani    lasciate ogni speranza  voi che ardite   ma eccu un vecchiu prete corsu  a faccia pallida cume a morte  u veru ritrattu  di a milancunia  e lu occhiu ardenti come spirata da una forza irresistibile  chi era statu cunfessore di annunziata e di a mamma   siasi spirazione diu diu di misericordia  siasi simpatia per la anima di a so penitente  stu  vecchiu prete corsu  intona u seguitu di lu nffiziu di i morti  come  si sti morti di oghj un fussinu  micca scumunicati    appena chi a so voce  dolce e debulella come una voce di lu altru mondu  ebbi prununciatu e primme sillabe di u inccant appellu a la clemenza divina  kyrie eleison    christe eleison  tuttu e populu ripiglia sta prighera in una buciata cummossa ed immensa chi ribomba in tutti i scorni di a valle  dighia imbrunita  da u tardi di a sera  e in listessu tempu si  vide sorta da e fiamme chi cullavanu in truella  una banda di culombe bianche  povare anime rese a  liberta       un momentu  so come sturdite   giranduleghianu sopra a u lignaghiu  po scuzzulani e so ale carche di cennara  e tuit in banda si slancianu versu i scogli spugliati e pinzuti chi facenu faccia a ghisoni  e spariscenu in li ultimi raggi di u soie chi luce  sempri sanguinosu  pantu a neve dij ale muntagne   e lu ecu  ribumbava sempri in li dui scogli    kyrie bleison  christe eleison  
+  s
+    </p>
+    <docAuthor>
+     Rampinu
+    </docAuthor>
+   </div>
+   <div n="6" type="art" xml:lang="fr">
+    <p>
+     que veut la corse   suite  les remedes la doctrine corsiste  donc premiere necessite pour nous avoir conscience de nos interets cette conscience de nos interets nous ne l obtiendrons qu en ayant conscience de notre nationalite pour savoir ce qu est notre nationalite il faut que nous etudiions yhistoire de notre pays notre hisfoire est le portrait ie moins farde le plus exact que nous ayons de mous memes nous nous y reconnalfrons tres vile  i pour obtenir de tels resultats unissons nos efforts ayons un pole positif qui cristallise tous nos besoins qui articule toutes nos revendications qu il soit ce pole positif le lieu geometrique de tous les espoirs corses de toutes les activites corses   or ce pole positif nous favons test u partitu corsu d azione qui par l'orgarie de a muora s est employe de son mieux a faire que ous ne perdions pas toute notion du sentiment national toute idee de nos interets la doctrine corsiste a te formulee par a muvra  qu est ce que le corsisme  un regionalisme cristallise et approprie aux besoins d une corse economiquement et spirituellement abandonnee le corsisme c est l expression li nationalisme corse nationalisme nourri de l idee paolienne et qui preconise une exploitation ratinunelle des ressources corses pour subvenir aux besoins pressants urgents du pays en un mot l autonomie  l idee n est pas nouvelle c est dire qu elle n est pas de notre invention   chacun j imagine n ignore pas les paroles de paoli paroles que pour notre partnous avons longuement meditees  jene vois pourla france d autre systeme de gouvernement a appliquer a la corse qu un systeme de protectorat  1 ce qui en langage d aujourd hui signifie systeme d autonomie voit on maintenant combien le grand politique realiste avait raison pour avoir meprise ses avis fruits d une longue experience des hommes et des choses on n est arrive a rien  comme on le voit la realisation du programme corsiste est basee sur l autonomie car l autonomie en elargissani nos moyens d action nous forcera a trouver les mesures les plus appropriees a nos besoins  l autonomie est un mot qui effraye mais bien a tort si nous l avons choisi  c est sans arriere pensee aucune puisque l on ne veut pas s occuper de nous qu on nous donne a nous memes le moyen de travailler a la prosperite de notre pays  tous ceux qu interesse la grande pitie des provinces francaises sont obliges d en arriver la de quelque point de vue qu ils partent il n y a pas d autre moyen d insuffler la vie a un organisme atrophie i que proposent les federalistes  ce que nous memes avons propose  en voulez vous la preuve  sous la plume de m jacques reynaud theoricien du federalisme nous lisons     sous ce reginre ie federalisme les pays de france se constituent en etats souverains veritables republiques francaises et recouvrent leurs libertes naturelles niees depuis 1780 surtout par une centralisation d autant plus funeste que les necessites qui l avaient fait naitre devenaient de moins en moins pressantes chaque etait autonome cherche dans la confederation le complement necessaire a son propre developpement il abandonne de sa souverainete tout ce qui regarde l interet national   2  la doctrine corsiste n a rien d effrayant comme on a pu le voir n est elle pas plutot de nature a rassurer  et ceci n est pas un paradoxe car enfin il n est pas necessaire dutout que nous subissions l emprise de ce centre parisien dont m lucien romier disait dans le figaro qu il exerce sur la france entiere une influence et un rayonnement tyranniques dont on ne voit d exemple en aucun pays de meme etendue   qu y a t il de plus nuisible qu un etat a centralisation giitranciere  sous la plume du meme m romier nous lisons a ce propos 1   videe d etat et surtout l idee de republique ne se separe pas d un regime effectif de decentralisation a leurs yeux des aisaciens la centralisation paperassiere tellegu on la congoit a paris represente un regime arriere un regime de tra casserie administrative et de faiblesse gouvernementale un regime de responsabilita et de rendement presque nuls  a tout commentaire de notre part ne pourrait qu affaiblir ces remarques piquantes autant que justes  cuntinua
+    </p>
+    <docAuthor>
+     Matteu Cirnensi
+    </docAuthor>
+   </div>
+   <div n="7" type="poe" xml:lang="co">
+    <p>
+     supertiziosu amore  miscia  miscia     ed ella scappa cu la coda innerchittata e lu lagnu piu nun strappa   cume tigra infuriata   bava  corre  colla e fala inturchiata pe la scala   miscia  miscia  ancu piu forte lu so stridu sempre dura   passa e vene entra e sorte fa spaventu  da paura   notte e di  che strana cosa    urla  chiama e mai riposa     per me credu chi ella sia   dice una vecchia sensata   dotta nell astroiogia   quest e un anima dannata   nun mi ingannu e son sicura si elle gatta e per figura    quanti e quanti sapienti arriva da tuttii lati   dotti  saggi  intelligenti  astrologhi consumati  per vede si a cosa e esatta   si ella e strega o si ella e gatta     e di accordu tutti inseme dicendu   questu e un strigone  cari amici  ci e da temel        si scatinera plutone  nun ci e dubbiu a cosa e griscia  gatta un e  nemenu e miscia      e la scena getta oirore   nun ti contu piu una ciarla  sopra a parolla di onore  tremu solu a racuntarla   dicerai    sta zittu  o mattu   e una miscia senza gattu       nun so superstiziosu   ti risporidu o caru amicu   ma sta volta so dubbiosu  sempliciottu all usu anticu  guerdu  ascoltu  e a capu chinu studiu a perde u mio latinu  e  dopu circa una simana   chi la mio gattuccia chiamma   da sciloccu a tramuntana  quandu babbu e quandu mamma  eccu affacca da un strittone   a cap altu  un bel gattone     o cuma      dicea voce alta    o cumpa     risponde quella  giubileghia  corre  salta   li si azzecca a la cannella    o quant e  par che li dica   che ti cerca la to amica     quanti baci  quante strette  quanti salti incaterrocchiu   nun sa piu duve si mette   ellu allor cume un gallocchiu dice    alo  falla finita ti conoscu    si merzita     e guarisce in puochi istanti la megera infuriata      cessa lagni  stridi  pianti   a timpesta e gia passata    ava dorme e surnaccheghia  calma ci piu nun rastuleghia 
+  s
+    </p>
+    <docAuthor>
+     Paoli di Taglio
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     astalua e la volpi  favula tradutte da esopu  una statua di jesciu   senza vila ci senza cori   avia missu lu rivesciu fra un centu di amatori   e moltu viaghiareti   piu di un passu vi farete prima di vede a biddezza   la statura e la sviltezza  di sia statua di jesciu chi avia missu lu rivesciu come vera donna viva  chi di sensi un saria priva       lu rumori si spargni   e sin e a volpi jugni   allora  in a so tana   si missi la so suttana   lu jileccu picchiulatu   lu manteddu frisgiulatu e po corsi a veda  a bedda   cu la jatta di sabedda   e si missi a rimira    ad annasa  a fighiula      simpatiica e la so lesta  quista nimu la caniesla   ma lu sguardu dici a me chi ciarbeddu nun ci ne e  parlata di sarte
+  s
+    </p>
+    <docAuthor>
+     Simonu di li Lecci
+    </docAuthor>
+   </div>
+   <div n="9" type="feu" xml:lang="it">
+    <p>
+     voi altri i i cn altri  fate professione di  carita   le  non fondo devo credere che voi chi parlate a vanvera  parlatemi  pra avete qualche motivo per fare del commissario astolfi  a  in ispecie io non ne ho veruone a   voi sapete quello che dibi  vecchi  fidati era un gaianea non fidati poi era piu da diro omo di lui per ultimo ve l ho come in confessione    dite pure   mi au mi di ro il cuore peso  e questo cattivo augurio  mira un po   da levante  ora che incomincia a schiarire  non vedi come il cielo paia tinto di ferro  ecotesti nuvoloni che precipitano per costa  non ti sembrano le anime del purgatorio  che strascinando i lenzuoli sepulcra   li si affretino alle antiche sepolture     padre mio  pocu piu pocu menoi giorni si rassomigliano  speranze lunghe tribolazioni perpetue  e prosperita a spizzico come il pepe su la minestra  il poeti cantano mirabilia su la alba che nasce e in cui non se ne intende mettono la voglia in corpo di ruzzolare da letto avan  ti giorno  fantasie  per me ho visto il piu delle volte il sole alzarsi in mezzo ad una nebbia di sangue  e rassomigliare lui stesso all occhio del parente  che abbia pianto tuita la notta il morticino in casa    di vero io non capisco in che avrebbe il sole a gioire uscendo ailluminare questa culla della sciagura    io vedo il sole che  come tutte altre cose di questo mondo  per diventare luminoso e bello  bisogna che staccandosi dalla terra  si avvicini al cielo     voi parlate come un dottore capitano angiolo  pure vi hanno fra tanti neri dei giorni bianchi  quantunque rari  e il cuore sembra che vi annunzi con qualche segno cosi gli uni come gli altri     sua eccellenza il generale paoli mi disse che lo uomo deliberato di vivere e di morire per la patria non abbisogna  ltramente di attendere ai presagi  imperciocche avvenga che puo if questo mondo non si muoia mai alla gloria presso gli uomini  nell altro al merito presso dio     ne   egli parlava da cristiano  ed io ti parra che parli da pagano  pure io dichiaro riuscirci piu facile negare  che astenerci dal dare retta ai presentimenti  cosi vero questo  che il generale  in onta della sua sapiensa  io so chi ei ci crede  ma orsu il di incomincia a farsi chiaro  e tu che aspetti  figliuolo mio  a inalberare la santa bandiera  e a salutarla con la cannonata         aspettiamo che butti giu la  maschera quella torre costa   e cosi favellarido ii capitano angiolo additava al padre casacconi una torretta quadrata  che costruita su di una pendice sta come a cavaliere su ja cala della capraia  e serve pei segnali quivi tutte fe notti accendevasi  e tuttavia si accende   una lanterna  la quale manda tanta luce giusto quanto tasta per vedere in quale razza di scogli ti scaraventi il grecale a perdere anima e corpo    per fermo  soggiunse il frate  quando tu sarai assunto al comando supremo del nostro naviglio veruno neghera che la corsica possiede un ammiraglio prudente   e il capitano che intese la botta  sorridendo rispose     io non lo nega  mitrovo carico di ferro e di paura come dice il nostro proverbio  e lo vedrete  di altronde metto subito a profitto la vostra lezione sopra la diffidenzac    certo    cerio la cautela non fu mai troppa       intanto chi egli profferiva queste  parole  ecco tirarsi su lungo la antenna della torre la bandiera  subito dopo  il saluto di un colpo di spingarda  il vento  il quale sebbene abbassato pure soffiava sempre con violenza spiego in un attimo la bandiera inalberata e ci mostro dipinta la insegna di francia  scudo celeste con gigli di oro tenuto ritto da due angioli in campo bianco   me ne rincresce proprio per la reputazione di padre bernardino  che egregia anco ai di nostri gode in corsica  ma come storico mi trovo in obbligo di raccontare  chi egli proruppe in un sacramento coi fiocchi all aspetto della odiata bandiera  strinta con man rabbiosa la barba  se ne strappo due ciocche otre e quando la passione sfocata gli concesse la favella non rifiniva mai di esclamare     e ora  che novita e questa   o come sta questa cosa  che lo abbiano assediata  non ci e pericolo   avremmo avuto odorea livorno santa fede tidiavolo al sicuro ci ha messo dentro la coda f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

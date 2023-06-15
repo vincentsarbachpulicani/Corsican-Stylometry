@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330797f
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330797f
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 204 | Année 6
+     </edition>
+     <date>
+      1925-05-24
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Sest' annata — Numaru 204 | | ° Fera à Chari iu, qo mi © © sa ni de gi È M Me PO,  Esce a Dumenica... © n n  Dumenica, 24 Maghiu 1925  A MUVRA  GIURNALE DI -E PIEVE DI CORSICA  ABBUNAMENTI :  In Corsica. ii e - 142. franchi  in. Francia... ~~... ~ « ee ~r &gt;&gt; 15 »  PESteru. —£.. ,; sa. rs è mM nà 25 cn  U.Numaru:4 soidi  Direttore : .Petru ROCCA  AMMINISTRAZIONE:  38, Corsu . Grandval 38. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     la agricultura in corsica  u nostru cumpagnu di fede  ageniu grimaldi  omu curaggiosu e balente scrittore  prepara una geografia in dialettu  corsu    ne stacchemu stu fogliu per i lettori di a  muvra        ci     e e  agricultura   la agricultura e moltu indietrata in tutt a corsica  perche a nostra giuventu sine va in francia  a serve a matrigna    a   un tempu fa  quandu li omi eranu piu fieri  guardavanu  a terra cume mn segnu di forza  ma oghie a malattia di lim piegu e generale  co     numerosi giovani emigranu  in cuntinente e poi  abbagliulati  finiscenu per perde le amore di u paese nativu   u  a francia un ha mica interessu a dacci pane in casa nostra  la indipendenza economica e per noi u preludiu di la indipetidenza pulitica   e se li italiani un benissenu  ogni annu  a lavura e nostre terre  a corsica sarebbe un beru desertu     cumie a vicinissima  sardegna  a corsica fu  granagghiu di roma    avale un pruduce piu che funziunari  i quali diventanu  pe forza  li agenti di u francesume    a  ka        epure  ben cultivata  a core sica basterebbe  non solu a il cunsumu internu ma a da anche materia di esportazione        a verita e tutt altra  un avemu ne granu ne industria     simu obbligati di fa bene di a francia tante e tante cose e un avemu  mica u dirittu di cummiercia cun li altrenazioni    a dugana ci scempia e u guvernu ci sfrutta cume li pare e piace    i  2o   lai  a corsica un ha fattu nisun prugressu    antichi sistemi di cultivazione  mancanza di  cas pitali  mancanza di strade    jemenfichisme   di a francia  eccu a cosa ne simu ridotti       appena una decesima parte  di e terre arabili so in cultura  e dapertuttu  si   stendenu e macchie     4  i   un colpu di occhiu ne i cuntorni di  citfa cume ajaccio e bastia  e bederete a pochi metri di le ultime case  terreni inculti    i nostri paisani  abbandunati da i pinzuti  impieganu sempre i strumenti agrari chi si usavanu due milanni fa   simu povari in un paese ricsu    avemu tuttu a profusio ne  u piu bellu clima di auropa  un celu ardente e serenu  la acqua di i nostri fiumi  una terra fertilissima  prudotti vegetali e minerali  immense fureste  ma simu povari in canna         i francesi dicenu   le corse ne travaille pas si e a forza di ripetela  hanu finitu per facci perde a stima di li altri populi    ma noiavemu u duvere di fa cun sce a nostra vera situa  zione  sir    1 corsi travaglianu perche sempre hanu cunsetvatu e vit tu di lu italicu sangue    travaglianu di la alba an tramontu e un hanu paura ne di a sulana ne di a malaria    i   fate  in prova  un giru ind e mostrepieve      a   fa pale   bederete  in ogni locu  aranci  amanduli  castagni  noci  chialzi  frutti e legumi deliziosi  vini rossi e muscati  uliveti  ma senza strumenti agrari muderni e senza canali di irrigazione  u paisanu un puo  sfrutta e so terre         dateli i mezzi e  allora  di a corsica  ne fara  un giardinu    ma quandu benera stu jornu  le e  a cosa e bella chiara  se la agricultura  e indietrata  se u cummerciu un e pussibile  se noi simu povari e abbandunati  sola a francia e culpevule    
+  s
+    </p>
+    <docAuthor>
+     Ageniu Grimaldi
+    </docAuthor>
+   </div>
+   <div n="2" type="poe" xml:lang="co">
+    <p>
+     ricordi  bastia  bastia  di lasciatti ebbi rimorsu    di la mia giuventu nidu fiuritu   postu a lu pede di lu capu corsu   cume una perla e lu fondu di un ditu     da te lunlanu  ava mi sonu aceorsu chi lu cantu di a musa si e innagrilu    e sentu  lu mio core infreddutitu   pienghie li raggi di lu tempu scorsu     dipoi la alba giraia capu dassu  cume un devolu ardente  passu a passu   quelli loghi  per me gia tantu vecchj   circhendu l un so che  eo mi stancai   fubbe invanu   e la sera mi imbarcai  stringhiendu un mazzulu di fiori secchi   
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="fr">
+    <p>
+     elections en corse en corse on vote avec acharne ment da stradone in su da vaglinu in da pour les heaux yeux d un tel c'est tout   et l acharnement est si violent que trop souvent helas pour ce tel des malheureux tuent ou se font tuer   les elus corses par temperament ou par ignorance ne supportent pas la discussion  n acceptenl volontiers la decision des elecieurs que si elle tranche en leur faveur  envisageani difficilement l eventualite de la defaite  au   o voti o un voti u stamponu un si piglia   matin d elections  la formation du bureau se fait dans beaucoup de communes au grand mepris de la loi au detriment de l adversaire sous l egide de la force i si les membres ne s installent pas revolver au poing ils n'en sont pas moins armes du premier an dernier   toute la gamme de la tricherie est ensuite epuisee  stratagemes connus ou trucs nouveaux  tout est mis en brasile afin d'obstruer la voie d eau mciu  si malgre levote des morts  si malgre  omi maligni  sur lesquels les chefs de partis appuient sol vent leurs esperances le navire leve la quille ef menace de sombrer on sauve la sifuation  en passant l urne parla fenetre 000  evidemmenf il existe en corse des communes ou l on se conduit beaucoup mieux c est cerlain et reconfortani  mais voici un exemple   j ai vu  moi nieme en 1903 0u 1904 a ajaccio  dans une salle de la prafecture   occasionnellement tranformee en morgue  oh pas cinquanle cadavres  mais une ribambelle d utnies dix vingt trente peut etre davantage parmi lesquelles cela va sans dire celle de zalana mon village  alignees aux fins d autopsie      sa u me c est un signe de mentalite vois enconviendrez a moins que depuis  elections legislatives leselecteurs se desinteressent un peu trop des elections legislatives  si  encore pabstention etait raisonnee il serail permis d yvoir une forme de voie une manifestation une' protestation mais on  je crois qu'on ne vote pe parceque   on ne vole pas voi a  etsi on vote on est trop enelin a le faire en faveur de vicilles souches ou de leurs rejetons tenant compte d habitudes ancestraies de traditions de famille ou de maigres interets particuliers  les destinees du pays ont ete confiees ainsi jusqu'a ce jour aux mains d hommes  dont  pas un acte n a justifie ni les capacites ni la bonne volonte se passant le mandat de representant du peuple de pere a fils comme un titre de noblesse une fetiche honorifique un souvenir de famille voire une sinecure sur laquelle la seconde nature leur a greffe des droits   mais la ou pelecieur corse se moritre ennemi de sa propre vie c est lorsqu il heberge toutes les epaves de naufrages politiques imposees a sa volonte  le comment peut il croire a l affection de ces echoues  ces indesirables traques chez eux chasses ailleurs tournent le cap vers la corse ou ils sont surs  grace a la connivence des puissances insulaires  de trouver la terre de salut i  puis l inevitable se produit  les intrus sauves de la tourmente politique  se restaurent  au ratelier el oublient la corse dont ils se sont ser vis mais qu ils n'ont jamais aimee    elections senatoriales  autre lacune  le delegue senatorial oublie qu il est delegue tout simplemeni c est a dire un comprime representant un petit peuple ei les aspirations de ce dernier   di e  trivesti de pouvoirs il en abuse trop souvent suivant ses penchants sestendances personnelies ses revendications ses' fantaisies quelquefois meme ses interets pecuniaires immediais persuade qu il n a de comptes a rendre a personne e  avec une telle conception de son devoir qu il etend volontiers d ailleurs  il se dirige vers ja capitale sans idee arretee sur la couleur des opinions qu il devrait representer ni sur la nature des interets qu il devrait defendre  hormis les sieris  surtout messieurs les delegues passes et  a venir ne criez pas   je sais qu il y a parmi vous  et en grand nombre  des hommes integres que rien ne saurait detourner di bon chemin mais quel est celuiqui oserait pretendre qu il n existe pas en corse a chaque elec tion senatoriale un parti de la girouette   parti informe compose d elemenis en vrae chaland vogtiant a la merci du portefeuille representant certes la minorite des delegues  mais minorite assez forte pour imposer sa volonte etfaire pencher la balance du cote des billets bleus  et ca dure
+    </p>
+    <docAuthor>
+     A. F. Tristani
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="co">
+    <p>
+     un amicu di a corsica  gino bottiglioni  a sittimana chi ando  e passatu pe i nostri belli loghi di casinca  sottu vale di trinighellu di funtenu un amicone di a corsica  u prufessore gino bottiglioni  preside di u liceiu gianasiu di cre  mona   mi ha fattu cennu di fala e so falatu a tuccalli a manu  a la alta di san brancaziu  in francese  st pancrace   poi  discurrendu  lu aghiu accumpagnatu in bastia sina a scaletta di u battellu in partenza per livornu        stu distintu prufessore e un discipulu di u nostru  maestru cumunu  clemente merlo e travaglia senza arretta pe a litteratura dialettale  un cunoscu di e so opere che leggende e tradizioni di sardegna e per il folk lore cremonese  ma so opere ricche e preziose chi lampanu fiaccule sopra la anima populare e a diversita maravigliosa di u  linguaggiu pruvinciale  per noi altri corsl  i studii chi aprenu farcant di i dialetti sardi nordu galluresi so piu che interessanti  so appassiunanti   perchi a lienda chi leia i fiori di latinita spuntati annantu una ripa  strigne dino quelli  chi imbalzamanu i nostri origiadi  perecchie leggende e diciulere ci so cumune  e sciacquaghiole di corsica chi lavanu  di nofte  e fasciole di e so criature so e panas sardignole   e gianaas so e nostre fate  v anime bulatighe e nostre anime perse  ecc     gino bottiglioni adopra u versu u piu semplice   face parla una persona e trascrive senz altru  cio chi ellu sente per coglie  sopra u vivu a manera di pensa e di parla  u cortu giru chi ellu ha fattu intondu a e nostre marine  da aiacciu  sarte  bonifaziu  a bastia  la ha cunvintu di a necessita di stagiuna in corsica  uni pochi di mesi  e prestu  u vidaremiu rivulta  vinutu a statinata  forse u nidu  sceltu sara sartene   li aghiu dumandatu e so impressione sopra a corsica  mi ha rispostu chi ellu ne era propiu incantatu      a corsica e bella e forse ricca di tesori all abandonu  terre fertile  fureste rare  monti e clima di paradisu  li abitanti so ghiente brava e curtese e un talianu si po gira e rigira  ben vistu  capitu da iutti  capiscendu quasi tuttu  perche a lingua e assai  piu unita e pura che in sardegna  e poi  a corsica di oghie  piu che mai piace a un omu dottu  a u folk lorista  a u linguistu  a corsica porta tra i so capelli neri e rosule belle bianche  dilicate  sanguigne di a so litteratura    u tempu ci manca per intratteneci cume no averebbimu vulsutu di stu sugettu  almenu  sinceramente  gino bottiglioni mi prumesse di fa cunosce la esistenza di a nostra litteratura  u ringraziemu alla prima  chi ellu conti sopra a nostra ricunuscenza e a nostra simpatia a tutti chi u corsu e largu di core e tenea i veri amici 
+  s
+    </p>
+    <docAuthor>
+     Dominique Carlotti
+    </docAuthor>
+   </div>
+   <div n="5" type="art" xml:lang="co">
+    <p>
+     un corsu cuncorre pe u gran premiu musicale di roma  sf etima passata   la academia di e bell arti di parigi  in seguitu di le esame di prova pe u cuncorsu di u premiu di roma di cumpusizione musicale  ha classificatu  sei candidati   entreranu  elli  in loggia  e u palazzu di fontaineblea u  vener  2o maghiu per sortene 4 19 iu gu    a u ne   a prima estimazione di e so  cumpusizioni avera locu a cun servatoriu naziunale  u veneri 3 lugliu  e 4 iudiziu definitivu sera resu u lindumane  4 lugliu  a u palazzu di vinstitutu  dopu le ese cuzione di e   cantate   cumposte    ma re  pe i lettori di  a muvra  bi sogn a di chi u gran premiu di roma e a piu alta ricumpensa musicale chi esisia    i  ora  di sti sei candidati  scelti fra i giovani ingegni di francia  unu  ricevutuu secondu a le esame preparatoriu  e un fratellucciu  corsu di veru spiritu e di purarazza  arrigu tomasi di a penta di casinca  e figliolu di saveriu tomasi  capu  di orchestra e cumpusitore di talentu  gia cumusciutu da i cursisti di   a muvra    e autore di innumerevuli opere  fra e quali   corsica   ex i canti di cirnu   chi surteranu a a so ora     i  a nostra cunuscenza  a  tomasi e u primu corsu chi ha stomacu di disputa  a suprema ricumpensal  e cr  eleou di u cunservatoriu naziunale  ha sempre avutu bona riuscita a li esami trimestriali  a tal puntu chi  u so prufessore  maestru  vidal    dicia  parlendu di ellu     yavenire surride a stu giovanu cusi ben vantaggiatu da a matura       son  lu annu scorsu $i presento  pe a prima volta  a st esame eliminatoiu pe a premiu di roma  era ek lu  tandu  u piu giovanu di tutti a cuncurrenti  bench ellu fussi statu ricunusciutu primu in ogni parte  li esaminatori  per mutivi speciali da noi ere cunusciuti  un bolsenu  a la ultimaprova  classifica a so cumpusizione  tomasi ne fu  assai malcuntentu     principianu per me i guai di berlios  disse  ellu a  si occasione  ma piglieraghiu  a mio vindetta       si vindico  in fatti  a a rientrata di i studi  fendu ricunosce cun frenetici applausi  una di e so opere  quatuor a cordes  da un publicu sceltu induve si truvomu i piu noti musicanti francesi   ed eccu chi quist annu  malgradu li occupazioni di userviziu militare chi elle addempisce in parigi  trova mezu di ronipe e fune  di esse ricevutu a u cuncorsue di strappa a seconda piazza  i  evviva a so faccia e chi ellu campi cent anni    a muvra   li mandatutte e felicitazioni di una mamma e laugura a gloria suprema di u successu finale     
+  s
+    </p>
+    <docAuthor>
+     Rustincu di Loretu
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     a cappella  a u mi amicu di  di sant  andria   e posta nant una cullina verde perde  a capella  circundata di mucchj bruni e bianchi  di vinestre gialle  di vecchj listinchi  dumina tutt a piegghja  quella cullina  e  luntanu  a vista si stende di cresta in cresta sin a e cime luccichenti di u ritondi e di monte di oru  oh  un ha nunda di artisticu quella chiesola  chi cridete  forse di vede una volta imponente cun campalione altu e sveltu  no  quattru muraglie di petra zuccata  nere e lavate ingrufulate sottu un mantellu  verde  di lellera    oh  cumell ama i monumenti vecchj a lellera       un ghiornu di melancunia  francai su sogliu frustu  e imprunatu  circai le altare  un ci e piu  qualchi pezzi di marmeru a mesqua i stecchi e a u polvericciu  forse resti di u tabernaculu  legni tarlati  bracci di croci  pezzi di casidelabri brani di tela di quadri  eccu cio chi u mio pede di a mu di u vintesimu seculu calpighiava  bd ogni tantu  un restu di scialbu si staccava da i muri umidi  si sbrusgiulava ii pianu coprendu appena di  piu se  cose chi duvianu ave ricevutu tanti basgi da i nostri antichi          pisai li occhj  vidi u celu  u celu e una volta ideale  da le ultime teghie di u  tettu  spendicavanu e vitalbe cume le ampane   mi appesi ad una  un uccellu volo inipauritu   un nidu casco a i mio pedi  umule e tepidu  ah  perche era venutu eo a turba quella pace  e i co    x  niss un rumore  gridai  una  parulla   si perse  sbuffulata  mancu piu ecu in quelle muraglie tapizzate di murza       tuttu mutu  solu un ventulellu leggieru sguillava frale fronde  fendu cumeunmoormu soave di ave marie    in quellu tempiu ruvinatu  qualcosa pregava sempre    e per ac cumpagna quella preghera  pregai anch eo    ci     sta      vi rivegu  vecchie ci u  mandile calfatu  seguita  a candela in manu  a prucissione e vi rivegu entra in sta cappella  ornata da e mani di e vostre figliole  e sentu u mormuru  di e vostre bocche sincere  o    e o  f  e    ava  un preghemmu piu  e zitelle di oghie un facenu piu mazzuli culuriti per fiuri l altare di a cappella  stemmu luntanu di a meditazione  da u silenziu  ci piacenu i balli u rumore  i cattivi piaceri  si inalzanu i teatri  e cappelle si ne falanu   distrutti  quelli tempj mudesti e belli    quanti e quanii  sola breda di pelemente    bo  un ne cunnoscu cheunu  ben cori  postu nant una cullina verde verde  cun quattru muraglie di petra zuccata nere e lavate  ingrufulate sottu un mantellu di lellera    
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="7" type="the" xml:lang="co">
+    <p>
+     u barbieri tinente  o lu sameri di minutu  cumidiola in dui atti  attu prima    quant u legn o zi minu      quant eddu si po e piu     ni vulet una quattrina    1     oh   chi faccia sumirina      ma finimu di burla   quant u mi aveti da fa      tre scud e una paulina  2  parch e rob e secc e fina      ischarchete lu sameri  diss allor u parrucchieri e zi minutu scarcheti  ma y imbastu lu lacheti     aghiu dittu tutt u legnu e vodu dino lu imbastu     ma di mattia se pregnu o faci par fammi hastu      aghiu dittu tutt u legnu e maigrad u vostru ingegnu lu imbastu ci vol a da  o sino si ha da  cunta     o tine  ha tu raghione  quist e legnu bedd e bonu e appressu riflessione   ecc a sedde lu sacconu       ti  attu sicondi  st affar annant o cori com un veiu disonori a zi minutu passaia    a vindetta ruminaia   nun so dopu quantu iorna fn de tenente ritorna      lu me cumpagn ed a me ci rasare  o tine            benintes o zi minu  bench un si ni possi piu   e be  gumiriciare  par me   e rasimi fresch e be   u cumpagn u chiamaraghiu abarbatu che saraghiu       eccu qui   diss u coiffori punendu la acqua di adori   feti vene lu cumpagnu   chi prestu iu vi ristagnu    e minutu  cu pristezza andef in de la staderi   fucu   moru p a cavezza rivult ind u  barbieri   i eccu qui lu me cumpagnu  e prepara lui savonu nu to piattinu distagnu   parchi lu client e  bonu      ma  eju  di li sameri nun poss essa  parrucchieri      ha beddu che fatt affannu  ha prumiss e nun ci e nganu       incu vosc o zi minu   vegu chinun ce pardonu  cuddet a  pidavin zu lu imbastu cu lu sacconu     ah mi par o sgio tine   chi ti aghi capitu be  chi ci e piu finu che te 
+  s
+    </p>
+    <docAuthor>
+     Simonu di li Lecci
+    </docAuthor>
+   </div>
+   <div n="8" type="let" xml:lang="co">
+    <p>
+     lettera  a lu amicu si  mi   aiacciu   truverai  caru michele  chi io un  do piu segnu di vita  u fattu e beramente scusevule  cu tempi cusi timpestosi un si po tene a so currispundanza a ghiorne  ava chi u tempu mi pare un pocu piu dolce feraghiu le impussibile per mietteti a u currente di e nutizie di u paese  sti loghi so sempre cume tu li hai lesciati  aspittemu i belli jorni per fa qualchi cullata in muntagna  quist annu ci serai ancu tu  u cappiu   di marianna chi ti stringhie strappera prestu  almenu  chi tu un boglia  ancu tu passa a to giuventu sottu a sferza militaresca  zia catalina e mertina si ne vanu tutte e mane in quermacciani  e un aspettanu altru che aiutu  cume so che tu si prudente e scatavoltu seristi per elle cume a man di diu      u  jurnale ti deve ave annunciatu a nostra disfatta pulitica era prevista dipoi longu tempu  postu chi i nostri putentati lu avianu decisa   ci duvemu cuntenta  lu interessu generale essendu in ghiocu  e  in fatti a scelta di u cunsigliu municipale prova chi inostri capi partiti hannu sacrificatu i so interessi persunali a pro di quelli di u nostru tintu paese chi sinament a oghie  u corciu  e statu  or fanellu di babbu e di manima malgradw a bona vulenta di ii cunsigliu  un si e pudutu fa tante cosi chi avianu pena a fa ui o chi una carina  quelli di oghie grazia a diu hannu tutti li occhj aparti  e si ellu ci vole a fa denunzie si ne ponu incarica senza ave bisognu di ri corre ne a u terzune a u quartu   infine un femu alcune previsioni  u tempu ghiudighera   ghiorni scorsi aghiu fattu un affaccatella in casinca a bede a mertinu  so ghiuntu cula pe a festa di san brancaziu e lu aghiu trovu tuttu in frastornu  li occupazioni un di so mancate  un ha risparmiatu ne fatiga ne altru  i so parucchiani ponu esse fieri di un simile prete  u tempu ha cuntrariatu un pocu i pelegrini ma malgradu quessa u mondu e ghiuntu da ogni scornu e cusi appinzapalu ha pudutu arricoglie stalbatoghi chi li permetteranu di appinzzassine qualcunu pianpianinu   tante salute a li amici aiaccini 
+  s
+    </p>
+    <docAuthor>
+     Ghiuvanni Olivieri
+    </docAuthor>
+   </div>
+   <div n="9" type="art" xml:lang="it">
+    <p>
+     nel secondo centenario di pasquale paoli  morosaglia  non vi e turista che uel  suo viaggio in corsica  non si rechi alla stretta   piccola frazione  del villaggio di morosaglia   per visitarvi la casa nella quale due secoli or sono  il5 aprile 1725  nasceva pasquale paoli  casa semplice e rustica  degna appena di una famiglia di conladini un po  agiati  ma  venerata da tutti i corsi indistintamente   cadendo in questo ano  la celebrazione del secondo centenario delfa nascita  di colui che inearno e concreto le ideale della patria libera ed indipendente la cerimonia riusci particolarmente solenne e significativa  fu la sagra del patriottismo corso   l italia deve pure ricordare ques  to suo illusire e glorioso figlio  perche egli  si considero sempre e nient altro che italiano e la italia amo di  vivissimo affetto finche visse   egli fu il vero redeniore  della corsica  e la sua esistenza non ebbe che unu scopo solo    fare della sua piccola  patria uno stato  ordinato  con proprie leggi e libero da qualsiasi vincolo di vassallaggio   secondogenito di giacinto paoli  che era stato ministro del  re teo   doro di neuhoff  e dal quale aveva avuto il titolo di niarchese il fuiuro generalissimo dei corsi  era stato  condotto dal padre a napoli  in eta giovanile  nella capitale farlenopea  ricevelte una istruzione perfetta e fu uno dei discepoli piu cari del celebre  filosofo genovesi  compiuli gli siudi aveva  preso servizio col grado di alfiere  nel reggimento   farnese   di stanza a porto ferrajo  negli ozi della guarnigione egli si interessava attivamente agli avvenimenti che si svolgevano in patria  col proposito di rendersi utile alla causa comune  il suo nome  corre  va  in breve  sulle bocche  di tutti  per cui dopo lo assassinio del generale gaffori  i suoi concittadini  in piena rivolta contro genova  non esitarono ad acclamarlo loro capo     mai compito piu grave si era posato sulle spalle di un giovane trentenne  per quanto preparalo e  di fortissima tempra  tutti i suoi sforzi furono direlti a dare  la liberta e la pace all isola  quattordici anni duro il suo governo  in cuntinua lotta  diplomatica e guerresca  prima contro la repubblica di genova  poscia contro la francia  ri  il regime da lui dato all isola  fu  saggio e riparatore  e segna una data memorabile nei fasti della storia corsa     se  l opera  che rendera nei secoli  immortale il suo rome  quale legislatore  fu le elaborazione   della cos tituzione  fatta approvare dal popolo  la quale in ordine di data  fu la prima costituzione italiana  essa precedeva le riforme civiliiniziate trentaquattro anni dopo  dalla rivoluzione francese   ed  e un modello di statuto organico adaltato ai tempi ed alle circostanze  questa costituzione  da lui accuratamente studiata  proclamava la piena sovranita  del popolo e la ugualianza di tutti i cittadini davanti alla legge  l assemblea aveva la sua sede a corte  e poteva deliberare su qualsiasi soggetto   la direzione degli affari dello stato era  affidata pero a nove consiglieri di  stato  ministri  formanti il consiglio  supremo  o polere eseculivo presieduto da paoli  esso rappresentava la nazione davanti alle potenze estere   tale nelle sue linee generali questa specie di  magna certa    che raccolse il plauso incondizionato di tutti gli uomini piu doiti in materia legislativa  della epoca   essa garanti  va inoltre la liberta di coscienza e la tolleranza religiosa  l amministrazione della giustizia ebbe le particolari cure del consiglio supremo con le istituzione di tribunali speciali e di una roia criminale  composia di sei dottori in diritto civile  un comitato costituito da cinque membri  doveva sorvegliarne il rigido fun  zionamento  si ebbero ottimi frutj da questo sistema   i delitti per ven  detta diminuirono in modo sensibije e ja popolazione della isola  aumento  notevolamente   in corsica lutto era da fare o da rifare  e paoli si accinse alla fatigosa i opera con lena instancabile malgra  do i mezzi limilali di cui poteva dis  porre  instauro un buon sistema fi  nanziario   incorraggio pagriculiura ed il commercio  creo un piccolo ma valoroso   esercito  ed  una flotta da guerra che si rese famosa con la con  quista di capraia  ne trascuro la ma  rina mercantile  la quale rese emi  nenti servigi con la approvvigiona  mento della isola   fece costruire stra  de e ponli  prosciugare paludi e sea    vare it porto di isola rossa     doto il paese di una zecca e di una stamperia nazionale  ed infine  con idea ardita e geniale  per suo volere sorse a corte una univer  sita  con cattedre di teologia  diritto civile e canonica  filosofia e scienze naturali  affidate a distinti professori  sotto il rapporto culturale volle fossero intensificaie le relazioni con gli stati italiani  spe  cialmente con la toscana   non vi fu  campo di attivitta nel quale la sua mente non abbia las ciato un orma incancellabile  per la corsica  egli fece molto di piu di quello   che non abbia fatto napo  leone  il quale a sant elena  per giustificarsi serisse     tutto quello che io faceva per la corsica era   dai francesi consideralo come  un furto fatto alla francia       l europa guardava con meraviglia  quest uomo  che reggeva con lanto senno i destini della piccola   isola  sovrani  letterati e filosofi  andavano a gara nel  iribiitare lodi al novello washington  chi appena poteva si recava  ini corsica per co  noscerlo personalmente    egli   fu indubbiamente   lo uomo piu   popolare   del suo tempo  a     dotato di viva intelligenza    eru  ditissimo  energico  ma   conciliante in pari tempo  liberale  onesto  oratore affascinante e conoscitore profondo delle principali lingue europee  godeva di in prestigio  immenso  e sollevava intorno a se fervidi consensi ed  entusiasmi       amava la liberta ed odiava il des  potismo e lo arbilrio  per  cui cane batte senza tregua i nemici della sua  palria  genovesi e francesi  solo forze mililari numericamente superiori poterono sopraffarlo          eppure quest uomu virtuoso  che i contemporanei qualificarono di   mo  derno temistocle   e che della corsica aveva fatto  un paese prospero e indipendente  moriva in esiglio a   londra il 5 febbraio 18o7  li suo spirito pero   ed i suoi ideali non sono morti   essi sono rimasti il relaggio prezioso dei posteri  ne     parlando di lui  gregorovius  scrisse    la menioria di paoli e   acra presso il suo popolo  sentendo pailare di napoleone  il cuore dei corsi si gonfia di orgoglio  ma senterido parlare di  paoli  il loro viso sit lumina  come quello di un figlio al  ricordo del grande e nobile padre perduto  e impossibile che un uomo  dopo la sua morte possa ispirare   ad un popolo piu amore e venera zione di pasquale paoli  e se laglo ria posiuma e come una seconda esistenza  quest uomo  il piu grande   della corsica e della italia  del secolo xvii  e mille volte vivente  egli vive nel cuore ci tutti i corsi che lo chiamano padre della  patria    mma tin nel 1854   questo giudizio stampato nel 1894  vale anche per oggi  come ho po  tulo constatare io stesso  visita  do la isola  ovunque il  suo nome 5o5 cita una ammirazione sconfinala   la sua opera politica approvazione senza riserve  la modesta casa che lo vide nascere  meta continua di devoti pellegrini  che hanno conser vato il culto del passato  illumina di luce radiosa   faro destinato   non spegnersi mai   la verde eg   riosa isola  i
+  s
+    </p>
+    <docAuthor>
+     O. F. Tencajoli
+    </docAuthor>
+   </div>
+   <div n="10" type="div" xml:lang="co">
+    <p>
+     punti di vista  langue unitaire corse 1  l alphabet corse  la langue corse si ecrit  comme on la parle  avec les vingt six lettres suivanies  a 4 arboru  bi b botunu  ce cerbu  dl dijitu  e e eska  f f fronda  gg galina  hh harfa  li isola    7  fjore  j j juogu  k k katena  li libru  mm monte  ne n nulu  oo osu  p p peska  o q quadru  r a rivolvaru  ss spika  ti   tavola  u u uva  vv vitu  y y yagaru  72 zape  z 7  mazeta  en corse sh se lit comme chi en francais  mo    j se prononce comme i devant o  jot   a  se prononce comme tz en francais   2  transformation de prose litteraire en langue unitaire  i rikordi di zitilina a   santu kazanova u matrimoniu di roza    si avecina la ora ke roza sera kjemaat a novu fiatu e a noue destine  e kambane ki anunciarenu u suu matrimoniu sunarenu i funerali di a sua juven   tu   kumpan e fidate  anate di primavera  son ji di oru  pasagiate al a foniana  vegije di ihbernu  historie di amore  adiu persempre     7  mar  fra poki jorni u ruzulagiu di  ziu martinu sera sfjuratu e a roza tantu  parfumata di u suu giardinu  si  ne murira in senu a u p u fortunatu di omini  a nohte di u 12 uhtobre mi a  sunzava k eju  vidia a roza pju bela ka maie qu and eju kura a per a brahcia la a mi spartu  sentu u pidone ki mi rimete  sta letara  bose mi  e karisimu amiku     uspozu tantu aspihiatu   di roza je juntu e u matrimoniu si fara u 15 di stu meze  un mankate di vene al e noze  ne prufitarete  anku pera  manja e fashole di  kristinakce ki parenu fritele in azuhkarate  coi mu gu chi  ricevite intantu una strinta di manu  al a korsa  je sempre vostru   martinu     a mane di u 15 uhtobre partia u per kristinakce nant a unu kavalu jovanu e tintinante  strada facendu un mi skuntrava ke kavaljeri ki andavanu al a noza  e tuti parlavanu di e bileze di roza par sente dy  parki nimu a komuscia   o tot      malgradu a stagione unu poku avanzata u tempu era splendidu  a primavera di autornu avia vistitu una  sikonda volta a naiufa a festa  le estrade eranu kuperte di kastanje lustrate  miskiatea e frunde jale ki parlanu risetemate di oru    talaveli tramurtiti si eranu adirizati nant a i muiiticeli kumu di aprile  i torduli e i peti rosi saltikjavanu nant a li albitri karkati di babi maduri  i kalizi di pampascioli  spuntavanu nant a e ribe di le estrade ete kambanele di e viore pindianu a li uorli di e fosate       u sole limpedu e puru dava unu rezaltu di paradizu a stu ritratu  di a na tura ke un ci mankava ke u lenju di a  quadrata  me i a inni luci  pjuavarizava u viagiu  p7u lrisciant  i kavaljeri  in paese un si vidia ke mule e levali ligati ale porte e a par  bar            arizura li eli smuntavanu i kavaljeri i ziteli si inkarikavanu di i kevali  ma ben ke a stagione fuse belu rinfriskata avianu p u primura di da li a beje kaaman7a a  un si vidia ke filestroke di sgaibisi fendu la a pisa e u vene da u paeze al a fontana nant a cierte biestie ki parianuu ritratu di a  fama      lingua unitara    i ricordi di zitilina di santu casanova u matrimoniu di rosa    si avicina la ora chi rosa sara chiamata a nova vita e a novi distini  e campane chi annunciaranu u so matrimoniu sunaranu i funerali di a so giuventu  cumpagne fidate  anni di primavera  sonni di oru  passighiate a la fontana  beghie di invernu storie di amore  addiu per sempre    fra pochi jorni u rusulaghiu di ziu martinu sara sfiuratu e a rosa tantu parfuniata di  u so giardinv sine murara in senu  a u piu furtunatu di li omi  a notte di u 42 uttobre sunniava chi e vidia a rosa piu bella che mai  quand e curria par abbraccialla mi spartu e sentu a pidorie  chimi rimette sta lettara     carissimu amicu      u sposu tantu aspittatu di rosa e ghiuntu e u matrimoniu si fara u 15 di stu mese  un mancate di vene a le nozze  ne prufittarete ancu par magna e fasciole  di  cristinacte chi parenu fritelle irizuccarate  ricevite intarity una strinta di manu a la corsa  e seme pre vostru  pa  martinu   a mane di u 15 uttobre partia par cristinacce nant un cavallu giovanu e tintinante  strada facendu un scunirava che cavaglieri chi andavanu a la nozza e tutti parlavanu di e billezze di rosa par sente di  parchi nimu a cunniscia      malgradu a staghione un pocu avan zata utempu era splendidu  a primavera di anturnu avia vistitu una siconda volta a natura a festa  e strade eranu cuparte di castagne lustrate  mischiate a e foglio gialie chi parianu risciumate di oru   i talavelli tra mur  titi si eranu  addirrizzati nanta i mum ticeli cume di aprile  i torduli e i pettirossi salticchiavanu nant a li albitri carchi di baghi maturi  i calici di i panpascioli spuntavanu nantu e ripe di e strade e le campanelle di e viole pindianu  all orli di i fussetti      u sole limpidu e puru dava un ri saltu di paradisu a stu ritrattu  di a na  tura chi un ci mancava che u legnu da inquadrallu  a lire  piu avanzava u viaghiu  piu  criscianu i eavaglieri  in paese un si vidia che muli e cavalli ligati a le porte e a li alburi  e e mi lo  a misura chi elli smuntavanu i cavaglierii zitelli si incaricavanu di i cavalli  ma benche a staghione fussi bella rinfriscata avianu piu primura di dalli a beie che a magne a   un si vidia che filastroche di sgaibissi fendu u passa e u venida u paese a la funtana nantu certe bestie chi parianu u ritrattu di a fame   proza litterara   
+  s
+    </p>
+    <docAuthor>
+     U Monacu
+    </docAuthor>
+   </div>
+   <div n="11" type="feu" xml:lang="co">
+    <p>
+     a vindetta di muvrellu  seguito  in stu tazzu cie un muvrellu  chi lu signore ba salvatu     ...   ma salvu da lu macellu  ne fu strettu incatinatu  e e po da u boia mercatu     e di gran forza imbercatu   per culandi fu inchiostratu da gattivu sbarazzinu   e di ditu fu mostratu cume a coda di un razzinu chi di corne fece mottu a chi volse tene sottu    que casca lu ultimu erede di razza sbediga e siolta   pate pocu vorra crede  chi  megliu che a briglia sciolta   o tistagna la scudella andu corta    e a funicella      imbece di lu reghione cun stesa senza cunfini   duve lu corciu muvrone pascia sottu a li alti pini   tri esiliu e lu muvrellu  per sempre      chiosu in anellu   da la abbinta stretta e monda   pe li piani si sculina    una vacca grassa e tonda chi a lu frescu si cincina   sazia di efba  sottu a li ormi mezz a ghiuvenchi deformi   u muvrellu derelittu  di fame sfiata in prigione senz ave fattu delittu  e di nunda esse cagione   for che di ave sangue in core di roba chi seppe more   ma quandu la polpa manca   or tandu cresce lu core   e pensendu a la calanca   u muvrellu a lu signore manda a di    ohime  chi brama di la tomba di a mio mamma     u signore da li panni  second ellu face freddu    e da li piu neri affanni mette lu omu a iocu chetu quand ell e da la suffranza prontu a perde ogni speranza   li aguzini e li omi furbi ancu da quassu li vede   e un lescia perde in disturbi a  lu justu a santa fede      e rn si scordi u vincitore di lu occhiu di u stimatore   un si scordi u vincitore chi  quand ellu crede frusta a  so preda u stimatore   caccia ui focu di la brusta blu vintu per difende    di lu inajo tuttu incende   chi  lu cavaglieru sappia    chi ancu pur sia bestia chiuga divene fera di scappia quandu lu imbastu la muga   e  famita  cherca e domma  lampa cavaglieru e somma   e  sonniendu  lu muvrellu   chi di ricordi si annanna   bede sorte un gran castellu duve anzi fu la capanna   fu messa da man di latru senza tettu e senza quatru   e po vede a li sbaragli chi un piulellu a le agulone leva in eria a rigli e a ragli pezzu a pezzu lu boccone    e la agula sbatte  la ala e po morta si ne fala   u muvrellu inserciditu  si disceta trimulendu   chi la rabbia di lu stridu chi ellu strescino falendu le agulone dete scosse  da trosgialli sangue    e osse   st affari for di misura   li rompenu lu cerbellu   di sti scherzi di natura mai ne ha bistu lu muvrellu   e crede in gattivu puntu per disgrazia essene juntu   a vincita di lu piulu  un li pare un bellu segnu quandu da piu lu altu nulu manda u re di lu altu regnu un dispacciu     benedetta   sia per sempre la vindetta        u castellu chi si pesa bole di chi piu si scalza    a roba criduta resa tand ell e chi ella si innalza ae chi da lu incantu rottu cio chi e sopra fala sottu     per inquant a lu piulellu ci hin battaglia pusti vede   bole di  caru muvrellu   chi la forza contru a fede   siasi tostu o siasi terdi      un po fa che ghioghi e perdi   
+  s
+    </p>
+    <docAuthor>
+     A. F. Tristani
+    </docAuthor>
+   </div>
+   <div n="12" type="art" xml:lang="fr">
+    <p>
+     les cortinchi de pietr ellerata pour remercier giovanninello de pietr all arretta d avoir donne a genes par l'entremise d emmanuele da mare son procurateur les terres les villages et les treize chateaux 1 qui lui appartenaient en corse beltramo da cartano milanais podestat de genes oberto spinola et comado d oria du consentement des anciens reunis en conseil admirent giovanninello au nombre des citoyens de genes et agregerent a sa noblesse la famille des cortinchi avec le titre de nobles de premiere classe  acte ecrit de la main de giacomo benesia notaire public le ven dredi 1 aout 1289  en 1920 genes confirma les cortinchi dans leur fief  en 1464 giudicello de gaggio fils de mariano fit l hommage du chateau de pietr elletata au duc frangois sforza alors seigneur de milan de genes et de corse le duc s'empressa d en donner aussitot l investiture a giudicello avec tous les privileges attaches aux fiefs nobles et d honneur et lui offrit une pension de cent livres a charge par giudicello d offrir chaque annee au duc un chien  4 qui etaient de  patrimonio la croce pietr'all'arretta montalto poggio pinzuto montaggiono tuda longhetta san damiano brunica porretto montebello pie tra di bugno  corse en signe de fidelite et d obeissance cet acte d investiture porte la date du 31 janvier 1465  en 1466 le duc de milan galeas marie sforza alors souverain des etats de genes erigea en fief nobiliaire le procojo d aleria en faveur des cortinchi a la condition que ceux ci lui donnassent annuellement trois chiens de race corse c est ce meme procojo qui en 1776 fut erige en vicomte de casabianca en faveur de joseph marie de casabianca  le 20 aout 1483 enfin vincentello cor tincho preta serment de fidelite a l office de saint georges entre les mains de matteo de plisco son representant dans l eglise de saint antoine dela venzolasca    pour finir ce chapitre des distinctions nobiliaires accordees a la famille des cortinchi mentionnons en passant la lettre de noblesse qu alphonse v d aragon envoya a guglielmo cortinco i  le 24 juillet 1451 lettre renouvelee en 1456    de nos jours de cette puissante opulente et tres ancienne famille des cortinchi qui du x au xv siecle donna des avoues au imonastere de monte cristo des podestats au  tribunale della ragione de biguglia des eveques a aleria et a mariana et surtout des guerriers 4 guglielmo cortinco il de lumito qui par leur valeur et leur grandeur d ome meriterent d etre appeles les defenseurs et les liberateurs du peuple il reste quelques descendants a saint andre de bozio canton de sermano se trouvent des cortinchi de pietr ellerata dont l ancetre est schiumagnadella a penta di casinca habite la famille pernice dont opizzo pernice  eveque de mariana et seigneur de vescovato fuf la souche a tox canton de pietra di verde la tour batie par giudicello cortinco de gaggio est encore habitee par un cortinco de gaggio comme des descendants d aldobrando troisieme fils du marquis guglielmo habitent la tour de giceatojo et mille ans ou presque ont passe parant de richesse et de gloire obscurcissant de pauvrete et de deuil l ecu du vieux guglielmo qui avait voulu baser sa justice sur la force et sa force sur ja prudence 1  o biguglia fatla capitale de l ile sous la dominetion pisane et genoise apres la destruction de mariana on la nommait  residenza della ragione  parce que c etait 1e lieu de reuion des vedateb on assemblees generales el des cars de justice    r 4  a les cortinchi portent de gueules a la tour d argent sur  montee d une balance du meme monvante du chef et char i gee d un serpent d or rampant contre la porte bevise    virtus et prudentia
+    </p>
+    <docAuthor>
+     J. Campana Colonna
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330806z
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330806z
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 213 | Année 6
+     </edition>
+     <date>
+      1925-07-26
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Sest' annata — Numaru 213 ÙN ‘Esce a Dumenica Dumenica, 26 Lugliu 1925  A MUVRA  GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI :  In Corsiea. . vv... . + "+ ~~ &gt; 12 franchi  In Francia. «.. ....x-..--... 15 »  À PVPEsteru ..,.......... 25 .  U Numaru:4 soldi  Direttore :. Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     pontenovu    pontenovu    stat crux  a croce e arritta   avete intesu    stat crux     e dumane  sta croce monumentale  sulenamente sara benedetta     gi ce     dumane tre aostu a corsica fara v attu chi sigilla   ricordu di u fattu a piu altu mi anostra sterpa        monumenti in bronzu  e  in marmeru si ne alza  tuttii iorni  in centu paisoli  per quelli chi casconu  in guerra  ne mancava unu per veroi di pountenovu      u  ava lu avemu       senza ribombu  di cumitatoni chi frazanu carta senza fa nn passi un pugnu di patriotti ha postu u segnu di u ricordu  a vergogna di un  immensa scurdanza e puru finita   dunque  dumane  rendimu lonori a chi i simerita    un state a sente e voce chi cunsiglianu di intarra una parte  di una storia  di  straccia e pagine di borgu di e pontenovu       i go  a storia e storia   ste pagi  ne  bisogna a inquadralle per   che so e piu belle di a lotta di u dirittu contru a forza     dn state a sente e vuciaccie di i rinegati ne i ronchi di li incunsapeuli chi di lideale cursincu mi imbuttiscenu  e succudagne        a bandiera di pontendvu e tinta di u sangue u piu puru di i nostri cascati pe a patria corsa  salutemula           e   a bara di l  indipindenza e falata per  sottu vari atura di su ponte  almenu avvicine   inuci e purtemu  a  manu da  u pettu a tu capellu ti    
+  s
+    </p>
+    <docAuthor>
+     Dominique Carlotti
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="fr">
+    <p>
+     a corsica sgrigna i denti i  l esplosione di malumore scatinata nea stampa indipindente insulana in prutesta di u disprezzn ogni jornu piu majo chii dirigente di parigi mostranu per un paese infunatu e inpastughiatu da tutte quelle piazzarelle ritiratelle e mi  seri succorsi d assistenza  publica i demagoghi curatori' di mariannona o sicuri chi cu sa brinnata lampata in la scudella corsa scudella ch elli piglianu pe una trovula cyrnu un ha piu che a cala e braghe da buscassi senza pu  de di uf una frustata annant a e cul  ci ru  razza ardita  allo via  dicenu in piazza beauvau  muntoni liatoghi per un di peghiu sempre pronti e lesti ad esse sacrificati sopr'a l'altari detti di a justizia e di a civilisazione   di u nordu di l oriente e di u maroccu o in ogni scogliu induva a prudita di cunquiste d i vecchj abbruttiti di a scarnurza d'un  lyautey vole pianta u tricolore  2 2   inno chic e sbagliu ci so sempre pa si rughioni l omi fieri l omi di core ina banda di EUR pecure manze e sturduiite ci so i becchi corn inturchiate  chi schiglianu e intisgiahu    si ru  sacrifizi si ma donnant don nant ti piulelli d una stessa cioccia si posta chi a sorte ha ficcatu l ove di l acula corsa sott a jallina francese maa cundizione chi l appullatoghiu fussi uguale per tutti  cd cn eccu l ultimi stridi di a stampa insulana  fornu a batatlle corse di u 1 7 25 acennendi a l inviu di rinforzi puliziotti fatt in stultimi tempi da frunteggia u muvimentu scrive i c esi en vain gite l ancien roussin appelle dans ajaccio quelques figures d abrutis pour terroriser la population et pour fomenter le trouble   e piu bassu u stessu cunfratellu s esprime cusi ce qui est douloureux pour un coeur de corse c est de penser a ce noble ef cher pays en butfe de  puis plus d un demi siecle a toutes les haines republicaines  la corse a vu affamer sa population  elle a vu mettre eri friche son sol ferfile elle a vu devaster ses  belles forets elle a vu paralyser tout son essor economique elle a vu repandre a souhait sous son  beau ciel l angoisse et la mort la popula  tion de ce departement decroit sans cesse et ne peut plus se nourtir dans lile prive pendant un mois des denrees qui hii viennent des ports du continent fraiicais le peuple de pile serait la proie de la farnine  en dehors des familles qui ont d ambles provisions de farine de chefaignes pour remplacer le pain par la  polenta  le reste de ja popu lation ne pourrait pas echapper a la faim te u lamentevule fablezu e pricisu ma ci cuntintaremu di tamanta miseria   e s ah bo  risponde l'eveil di u 7 ramentendu un fattu storicu   ... c etait en 4729  les garnisons genoises occupaient les places ma  ritimes leurs troupes etaient  forte ment etablies a l interieur un vieiltard de bozio fut violente par un collecteur genois voyant cela un homme du peuple soufla dans le colombo  aussitot d autres hoinimes se leverent l aphel d alarme retertif de pieve en pieve  de village a village  et les genois  chasses de partout durent invoquer  le se cours des francais mais ce n est que vingt ans apres que sous la pressioni du marquis  de cursey corrimandarit les troupes fraricaises le traite de paix fut signe dvec cette addition symbolique   contre notre volonte et comme on va a la mort  que demandaient les corses  qu avait promis le marquis de cursey  que justice leur serait faite que les juges genois ne jugeraieni plus ex informata conscientia    ex informata conscientia  suivant leur bon plaisir  c est pourtint la formule qui est restee chere au conseil de prefecture  genes n agissait pas autrement mais genes a succombe  telle est la lecon de l histoire libre a vous messieurs de la me connaitre  libre a vous d imaginer que apres une guerre ou nous avons donne tant de sang au nom de la justice et de la liberte il ne nous en reste plus une goutte dans les veiries  pourtant craignez de vous abuser  allez dans nos montagnes vous y recueillerez un echo qui pour n etre pas encore celui du colombo repercute deja le grondement de la fureur populaire   peut etre dans le vase bien clos de vos officines ce murmure precurseur ne parvient j pas encore jusqu a vos oreilles prenei y garde il serait temps de fendre l ouie et d ecouter  il y a tout de meme dans ces villages perches comme des sentinelles au flanc des monfagnes sauvages des milliers et des milliers d hommes dont les ancetres sont morts pour la liberte et qui guoigue vous en pensiez ne sont pas encore murs pour l esclavage
+    </p>
+    <docAuthor>
+     P. di B.
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="fr">
+    <p>
+     pour la creation d une universite en corse dans  a muvra du 12 juillet dernier malleu rocca envisageant la crealion d'une universite en corse trace au long de deux interessantes colonnes l organisation future de ce nouvel ateneo   apres avoir en quelques lignes precises evoque le processus suivi dans leur developpement par les universiles europeennes  depuis les ecoles capitulaires  notre ami s arrelant a l universite paolienne en fait un bref historique et en rappelle te caractere   mattew rocca subtil ecrivain de langue corse et traducteur heureux de cervantes et d apulee se plait a augurer de la creation de l universile corse une immanquable floraison de litterature regionaliste   pour nous acceptant avec confiance cette prediction et en souhaitant la prochaine et integrale realisation nous nous contenterons de considerer ici les avantages pratiques et vilaux que comporterait chez nous l existence d une universile autonome    comme le remarque rocca un des principaux soucis de pascal paoli fondant l universite de corle fut celui d arreter l exode par trop prejudiciable de ia jeunesse insulaire vers les facultes de  ter ra ferma  l absence d'unie universite dans l ile faisait et fait encore helas a la corse une sitaation anormale el que nous sommes sans conteste les seuls a subir  on sait que la sardaigne notre soeur mediterraneenne possede deux universites dont ine celle de sassari comblele  nos voisins peuvent ainsi sans quitter leur ile etudier la medecine ou le droit les lel tres ou l ingegneria    la necessite ou se tronzent les etudiants  corses de sortir de chez eux pour entreprendre des etudes superieures constitue une premiere et grave irregularite  les prejudices qu elle engendre sont mulliples  d abord  ce sont les plus direcis et les plus imperieux  ceux d ordre pratique  deplacements onereux obligation ou se irouve l etudiant de resider dans la ville universitaire pour lonte la periode des cours le cout et la longueur des voyages inlerrompant facheusement un contaet familial indispensable  impossibilile d un conlrole efficace de la part des parents etc  et nous n insisterons pas sur la gene c est la un euphemisme  qu e prouve le jeune corse a ses premiers contacts avec les etudiants continentaux  cette gene absurde peut etre est reelle tous ceux qui s expatrieni la subissent mais nous ne nous y altarderons pas trop car elle ressortit directement a la psychologie domaine ou il est leme raire de s'aveniurer  une consequence immediate de cel eloignement que doit s imposer l etndiant insulaire est la recherche que celui ci fait aussitot apres le baccalaureal d un poste de surveillani dans un internat  les eiudes secondaires a peine terminees l intelligence de lpeleve est suffisamment aiguisee pour qu elle puisse ulilement se contraindre a une discipline nouvelle  les recherches vers lesquelles s acheminera l esprit seront sans doule plus arides elles exigeront une comprehension et une continuite d'ell oris superieures a celles necessitees par les etudes anterieures mais l esprit en esi a un stade de son developpement ou il peul efficacement entamer des problemes serieux el s exercer de facon profitable  le role de maitre d internat marque d une maniere generale le suicide des jeunes volontes qui ne demandent qu a produire on connait le metier  non qu il soit accablant mais les heures de service sont reparties d une facon si malheureuse que tout travail personnel est rendu impossible  heurenx encore ceux qui peuvent obtenir nn poste dans une ville universitaire ils pourront au moins se rendre quelquefois aux cours et regler de facon appropriee leurs occupations mais il n y a que 16 universites en france alors que chaque arrondissement possede un college a ei ainsi tant que nous n'aufons pas notre universile chaque annee dans tous les bahkuts  de france a st omer comme a draguignan a carpentras aussi bien qu a bayonne les jeunes corses  necessiias fecit legem  conduiront le jeudi les petits polaches en promenade par rangs correcis et employeront toute leur sagacite a decouvrir les funeurs au fond des cours  il est aise de concevoir que commencee dans d aussi malireureuses conditions la marche generale des etudes se lrouve singulierement compromise  souvent elle se ralentit de facon inquietante parfois meme elle s'arrete des les premiers pas 0 du les quelques camarades de college qu il m arrive  de rencontrer en ces debuts de vacances ne me con4rediraient certainement pas  il m a meme ete assure par lun deux qu un appreciable pourcentage  de ces etudiants a perpetuite qui anaehronisnies plaisanis se renconireni encore  parail il a paris esi fourni parnos compatriotes   ceci sans commentaires  un seul remede peut elre applique a ce facheux etat de choses on le connait  la crealion d une universite corse non seulement ferait cesser la regreliable anomalie que constitue lexpatriement force des etudiants de chez nous mais aussi elleaurait les effets les plus utiles sur les conditions meme de la vie dans l ile   on se represente facilement dans quels domaines el dans quelles mesures ces progres eveninels se realiseraient   pes considerons a titre d exemple l amelioration que provoquerait en corse l existence d une faculte de medecine   ne songeons pas a faire le proces de rios services sanitaires  d autres s y sont occupes et chacnn sait dans quelle incurie l amentable certains medicastres continuent de laisser croupir la corse  i arrive a quelques uns de nos docteurs qui avec une egale desinvolture soignent la meningite ou les cors aux pied d appliquer a la cure de la tuberculose des procedes invraisemblables  il arrive meme a quelques autres de laisser perir de vigourcux jeunes gens faule de savoir reconnaitre une fievre typhoide    el cela est cause par les diff cultes d un contaci permanent avec les sorumites enseignantes de medecine  exception faite bien entendu pour nombre de docieurs  tres sernpuleux qui au prix de lourds sacrifices maintiennent ce necessaire contact par de frequentes visites aux hopitaux et aux cliniques du conlinent   i et passons sur le taux des honoraires et sur le prix des medicaments  e uo a  une faculte de medecine ferait cesser sans contredit ces incoherences les professeurs specialistes qui y feraient cours pourraient etre consultes en parfaite connaissance de cause l installation de cliniques serieusement organisees et outillees supprimerait cette' obligation ou nous nous trouvons d enkreprendre un voyage halif et trop souvent fatal toutes les fois qu un mal giave ou imprevu frappe quelqu un de nous ou toutes les fois qu une intervention chirurgicale est neeessaire enfin des sains et des consultations gratuits pourraient etre donnes par des eeoles ambulatoires et par les services des hopitaux auxquels de jeuties internes corses dispensent le meilleur de leur science  ce n est ia qu un exemple on je pourrait aisement multiplier  la necessite d une universite en corse est depuis longtemps demoniree continuera ton a pignorer  la cause etant entendue etde plus etant facile a defendre nos representanis negligeront ils plus longtemps de la prendre en main  ii nous reste encore quelque confiance en eux
+    </p>
+    <docAuthor>
+     Tonio Laicino
+    </docAuthor>
+   </div>
+   <div n="4" type="trd" xml:lang="co">
+    <p>
+     autori latini  apule u  lu asinu di oru  traduzione di  seguitu     cio chi tu mi conti  o socrate  non solu mi maraviglia  ma ancu mi da a pauraccia  ava so bell im  pinsiritu parchi temu chi quella strega grazia a e socumbinazione  avessi intesu a nostra discursata  bale megliu chi no andessimu a chinacci  e una volta belli ripusati  prima chi ella spunti la alba  ci mutaremu da stu locu maladettu     5e   un  cu tantu piu raghione dicia ste cose  chi socrate  lofiu cum ella era e pienu  di vinu   ruricava addighia a i piu pude  i    dunque  a porta be sarrata  mi  lampu contra u me jacitoghiu  e poi  mi straquu  ma  per via di a paura  mine stedu l occhi spalancati un bonu mumentu  infine  versu a terza  veghia  mi addurmintedu       $ e    a  mi scialava  quandu in un  balenu sintedi tamantu rimore  piu grande assa ca quellu chi elli ponnu fa i ladri  sfundendu e  porte  talmente chi lu usciu  di ame stanza  tut  tu scunquassatu  si abbatte    u  me  lettu chi avia un pede  merzu  fu  trabuccatu per via di a viulenza  in  quant a me  patafalcatu e troncu  mi truvedi in una minuta a tarra  mezz assuffucatu sottu e cuverte  i  tandu  potedi cunsiata chi certe volte omu agisce a lu imberciu di cio chi si pensa  parchi di u stessu moda chi elle accade di  pienghie da u trappu piace  parimenie e u  bench impauritu mi feggiuunascaccanata bidendumi cambiatu in cuparchiata  in sta brutta pusizione  ghittedu un colpu di occhiu da sottu a u lettu ed eccu chi e ti vegu due vicchiacone  la una purtava un lume  la altra avia intuppatu una spunga e una spada nuda  tutt a due si ne stavanu accant a  socrate  ne  quella di a spada cumminciede a di  ne   a u  cla    eccu bellu qui  surella pantia  u me caru endimione  questu e  u me culombu  chi notte e ghiornu ha fattna ciantula di a me tenuara ghiuventu  eccu quellu chi  disprizzendu u me amore  non solu dice pezzi di saetta di me  ma ancora si pripara a piglia a bruitta e ci bulara chi e u  cum una nova calipso  pienghessi a partenza di ulisse      due  e poi  stindendu a manu  dritta  disse a pantia  mustrendumi      quest aliru  e u bone cunsigliere arisf omene  quellu chi ha cumbinatu a scappata  e ava  a dui ditti di a morte  addighia matalandatu sottu a u so lettu ci fighiula spirendu forse  chi no un lu castigaremu micca per averci vituparatu e ora imbece chi ellu  ci paghessi iso passati  batialumi e a so prisente curiosita   a ste parole sintedu un sudore ghilatu scula da u me fronte  e mi pigliede tamantu tremulu chi u lettu  addoss a me  ne era tuttu scuzzulatu   a bona pantia disse tandu      parche  a me surella  un ne aguanttemu micca questu u primu e un lu spizzemu a lu usu di e bacchante  o be  una volta liati  i so membri  perche un li tagliariamu micca a  cisssa p mb ce    inno   inno   questu qui  ci vole a risparmiallu  rispose la altra strega  chi e u  capia esse meroe cusi dicendu inclino u capu  di socrate  e cuzzo inde a parte  manca di u collu a spada sana sana  raccugliendu fin a la ultima goccia di sangue ind un picculu vasettu  talmente  ci omu un si saria mai dubbitatu chi u me  amicu era stat polsu       non  solu  ma per talla piu cumpletta meroe ficco a manu ind a firita  e dopu di ave bulicatu un bellu  pocu ind u pettu di socrate  li strappo u core  di a gola cusi tagliazzata  usci una voce o piuttostu  un soffiu  mentre u sangue sfumava  aguanttendu poi a spunga  sarro a piaga   dop a que  cullendusine  annant a u  me lettu trabuccatu  sta strega si misse a scarca a so buscica  fin a chi e u fussi  imbazzanatu di pisciu    infine  e due mazzere spariscenu e subitu e porte si alzanu  tornanu a postu cume per incantu  in quant a me  patafalcatu in tarra  nudu  cutratu  cupartu di urina cume si e vinissi di esce da u ventre di mamma  mi ne stava mezzu  mortu  aspitten   du di esse crucifissatu      h  puvarellu di  me  pinsava    cosa divintaraghiu dumane  quand omu scuprara stu cadavaru   chi pudara mai  crede chi cio chi e accadutu e veru    duviate  almenu dumanda aiutu  mi diciaranu  si vo un la vi sintiate di risiste a una donna  cumu   polsanu un omu sottu a i vostri occhi e vi ne state zittu   e parche voi un sete mica statu scimppiatu di  simile modu   parche tanta crudelta v ha risparmiatu a voi tistimone    posta chi vo vi sete vargugnosa   mente francatu di a morte  vi tocca ava ad esse imifiblatu        ll  mentre mi piusava $te cosi   u iornu spunto    mn  tandu  u megliu mi parse di scappamine a palpone  pigliu dunque u me zannu e mi mettita britina       fattemi u piace di apremi wu purto  parchi bogliu andammine prima di u jornu    
+  s
+    </p>
+    <docAuthor>
+     Matteu Rocca
+    </docAuthor>
+   </div>
+   <div n="5" type="his" xml:lang="co">
+    <p>
+     speranza  paulu santu  a la eta di a  dec anni  era figliolu di una mamm  zitella cume la acqua e di un baby  vecchiu cume u cuccu  i  ma  fachi bo  dicate  chi bi ri  guarda quessa  o sgio mae   e pe duve ne vorete jugne     a raggio e a vostra  e post chi ell e cusi  tiremu avanti      carl andria era juntu in per  messu   parlu di quelli tempi se  biati quandu tutti i cristiani cu e so vembre si tiravanu  di rigalu tre aimnetti a le otre  un i  a sera   si sa cum ella usa dune noi  a casa era piena a tapou di omi vecchie zitelli  di donne e di vergascioni di tutt eta     carl andria  impalificcatu a mezzu stusan brangaziu  sbasgiuc  cava  e fo cu e mania viglie  dave raguagliu a tuttu u paisolu     allora cumu a ti hai scialata      sempre cume bo videte  un aghiu da lagnami  luntanu da quessa   ma bi diceraghiiu  hein  chiu mio serviziu laghiu sempre fattu           ava po mi so demerdatu   asticu u furrieru    di manera chi cuppu a a munuvra piu suvente che ay mio tornu  ah  bisogna a desbru  gliassi nu a vita   e po cun tuttu u fourbi chi ci e a  u reggimenti  surtutin   u principiu un ci voli micca a tira a w  culu    peachoj pinzuti  sapite  hannu  li acchj aperti       id     ire anni  per deo  so lon ereb vi es so    bah  bi pare     si sb longhi  un dicu micca    ma passanu      ottu centu settanta  dumane    e po a fuite   tt  paulu santu chi stava a sente  a bocc aperta  stu discorsu lindu cume lu oru    incrusco a u contu di carl andria  li anni un leranu ma parst cusi longhi  si volse inframette dino ellu       sa   a si lagnera  a chi a silagnera     eo  un feraghiu che un annu       ben  cumu eo un feraghiu che un annu  tu po credi desse u figliolu di a gallina bianca  aspetta  chi u  to tornu benera    a passerai cume i copains  bai    ma eo speru  di  noi  si diu oble  7  si dio vole  si dio vole    quessi so tanti discorsi dopu pranzu  a legge e per tutti  e po  infine  dimula franca  e bera chi ti si zitellu  si tuttu u mondu parlassi cume te  e ben  a proveia francia mi sterebbi fresca    e po suderebbi  a    assai so po di a francia  a quand averaghiu da parte    eo spetu di esse figliolu di vediva 
+  s
+    </p>
+    <docAuthor>
+     A. F. Tristani
+    </docAuthor>
+   </div>
+   <div n="6" type="feu" xml:lang="it">
+    <p>
+     no  signore  voi non dovevate credere e non dovevate volere  anch io  sapete  sono superbo  e tutti noi corsi siamo   non perduti affatto quei popoli ai quali nella miseria loro avanza la superbia  se per virtu propria la non si puo tenere abbila per un barbacane che impedisce la anima del rovinare nel pantano delle abiezione   se lucifero  oltre questo  non possedeva altra peccato  era piu facile diventasse papa che diavolo  orsu volete pagare  pagate  ecco qua  questi sono dispacci  il piu piccolo consegnarete 6 farete consegnare al signor  francesco maria niccolaio giacomini mio nipote a centuri  quest altro piu grande importa che lo ricapitiate irremissibilmente nelle mani del generale a corte o a rostino nella casa paterna  della stretta  ovvero in pastoreccia nella casa materna   insomma dove si trovera   io contava mandarci un mio fidato a posta  e  stillande il quattrino  le sue cento lire mi andavano via  ora  il passaggio ne costa quarante aunque vi rivengono sessanta lire    e alzata la tavola del banco  pigliava da una ciotola nove scudi e  contatili  diceva    eccovi il resto  ed avro fatto un buon affare     oh    esclama il boswel  e  presa la scatola  offeriva  sporgendola  una presa di tabacco per via di preliminare di pace  indi soggiungeva     bando dunque al dare e allo avere  potro io procurarmi la contentezza di vedervi un altra vol tar    voi ed io stiamo per partire  voi per la corsica  io per la eternita  perche farei la ora della separazione  grave di un sospiro da vantaggio   noi non ci abbiamo  a sivedere piu     nel mondo forse ma la    riprese  il boswet alzando  il dito   ma la porto  ferma  fiducia che noi ci rivedremo   perche voi in  grazia dello infinito amore che professate alla patria  vi siete  guadagnato di certo la salute eterna   rispetto a me  mi sono ingegnato e mi ingegnero a non demeritarla         cosi piaccia al signore     capitolo ini  la partenza  nella  notte di quel medesimo giorno  mentre il signor boswell stava leggendo la bibbia  udi pianamente aprire l oscio della sua ca  mera e vide entrare lo uomo dal colore  castagno col suo  cane rossigno dietro le gambe  costui si pianto in mezzo della stanza senza far motto  1 boswell  che aveva ammannito la valigia  gliela indico   e quegli  recatasela su le spal   le  si volse per partire non  profferendo parola 6  accennando  a saluto  riavuto dallo stupore  il boswel  toltosi prestamente uno scudo di tasca  corse dietro al corso  gli mise la mano sul  braccio manco e glielo offri  a cotesto atto gli occhi del corso balenarono come stiletto cavato dal fodero   solleve con impeto la spalla quasi volesse buttare la valigia addosso ai signor giacomo   subito dopo un nuovo pensieto parve sopraggiunto a temperare la acerbezza del primo  imperciocche ripigliasse il cammino senza interrompere la sua taciturnita   ci vorra giudizio per governarmi con questa razza di gente  periso boswel  e si pose da capo a leggere la bibbia  allorche  quando se lo aspettava meno  si vide riapparire lo uomo colore castagno  dinanzi  e  con voce strozzata dirgli         avvertite  signor inglese  chi io non sono un camallo  1   con sanfi giacomini siamo cugini in ferza    4  camallo significa tacchino e viene e  ne bo 7 pi az relio  padloperano i corsi e i genovesi      e  ho voluto assicurarvi del mio perdono  perche ho pensato che come forestiero non vi corre punto lo obbligo di conoscere le nostre usan ze    l   e voltate le spalle usci fuori       bene    esclamo il signof  giacomo  tutto bene  come  tuto bene   certamente questo detestabi  le odore di erba corsa che sempre mastica costui non e bene       ed aperse le finestre per mutase aria alle camere  cio fatto si assetto allo scrittoio  ne trasse una carta  dentro la quale ci involse con molta diligenza lo scudo e ci scrisse so pra   oggi 27 aprile    sono stat perdonato da un corso per avergli voluto donare questo   scudo      sotto   et olim meminisse ind  bit    poi lo ripose dentro una fd  ca insieme con altri ricordi  dei c8   piu  nobili della  sua vita    ornesi strumentali della sua filosofia      dopo  tre giorni  mentr egli vi so le ore ventitre si incammina 4o4 gio adagio secondo il solito  per e via grande verso la porta colonel  o piuttosta coronella  come pare che si abbia piu veramente a  tre  2   occorre in gente affollata davan    i  atta porta  del banco del  signor giacomini  allora egli presi ad afffettare il passo senza che paresse fatto suo  sicche presto venne su la faccia del luogo  di vero vi si trovava stipata una folla di preti  di frati  e croci e lampioni e gente ineappata col cappuccio su gli occhi  insomma tutti gli attrezzi messi in opera nei riti cattolici quando portano via il morto di cui perede puo pagare le spese  il cugino in ferza  col suo invariabile vestito di colote castagno e il cane appresso  teneva su le braccia da un lato un grosso fascio di torce pei preti  dall altro uno dei moccoli per la compagnia  intorno al cugino bisticciayansi e preti e i frati a cagione delle force  i francescani contendevano le grosse di libra ai domenicani  ma efrancescani  che superavano in  8  dall opera di fortificazione  detia corona  talirata un giorno in cotesto luogo   numero  e piu che  nel  numero in isfrontatezza la sgararono  poi il curato di sant antonio pretendeva la candela piu grossa  perche il morto era fratello della confraternita  ma gli contrastava quello di san sebastiano per essere stato il parocchiano anima della sua cura  intanto i ragazzi  approfittandosi dello  impaccio del eugino  tiravano giu dal fondo del fascio i moccoli  e presili  scappavano  chi rideva  chi brontolava  il cane ringhiava  intanto i preti  ei frati  con quella decenza che ha fatto direla sfacciataggine nata in sagrestia e allaftata in convento  continuavano a litigare  per ultimo il cugino usci da gangheri e proruppe        a    giuro alla immacolata che  se non vi chetate  vi rompo le torce sopra la cherica   allora quietaronsi  ed anco  a indurli al silenzio valse iino stropiccio di piedi di gente che cammini aggrupata a disagio  la quale moveva   giu dalle scale  per siffatto rumore  parecchie esclamazioni escono dal  capannello della gente affoltata che dicono   eccolo  eccolo       di vero  indi a breve comparisce una cassa portata giu da quattro omini incappati  che la reggono merce maniglie di fune infilate dentro ai fori laterali  e poiche la cassa manca decoperchio  che porta dietro un quinto incappato  e concesso  contemplare  cosi di velo la effige del morto  ecco la folla accalcarcisi intorno per appagare la spietata curiosita     le donne  come scuole  piu smaniose degli altri  si avveniano co  bambini in  collo non badando che in mezzo a quel trambusto le loto creature potevano rimanere storpie  forse anche infrante  il signor boswell  sentendosi a posta sua li mare dalla curiosita si mette in pun ta di piedi  ma non venne a capo di nulla   perocche  appena egli ebbe scorte due mani composte in croce e legate di un mastro nero  ecco  precipitare giu il coperchio  che sottrae il cadavere agli sguardi disonesti  e subito dopo si sente il picchio del martello che presto presto  lo conficcare si vede spiegarvisi sopra il tappeto e metterci il guanciale di velluto nero a frange  nappe e ticami di 6ro  un cristo di argento in mezzo  e intorno al cristo tina ghirlanda di fiori in simbolo che il signor giacomini era morto in istato di presunta verginita  cio fatto  ecco  difilafe la  mandra dei preti e dei frati belando e mugghiando  a1 cane rossigno sembrando che tra tante voci poco umane potesse star ci anche la sua  prese a guaire  ma  tocca una pedate delle solenni  si tacque  e si che tra tante finte e pagaie la sua era lamentazione sincera e gratuita  ma non gli valse  giustizia umana      un incappato  passando vicino al signor boswell attonito da cotesto spettacolo tra sozzo  e grottesco  gli susurro dentro lo orecchio      presto al molo   il signor giacomo  tipresa la fierima consueta  continuo il suo cammino ormai chiarito che il morto non potesse essere altri mori dell uomo col quale aveva alternato  teri ragiona menti di ira  di grandezza e di speranza  e con molta amaritudine andava corsiderando il mistero che pare condanni un inima potente di impeto  e copiosa di concetti  alla catena di un corpo  cascante a pezzi arpa con corde rotte  in mano ad un angiolo  ne questo e il peggio  che  lo inferno vero prova quaggiu la creatura compita  la anima sana nel corpo sano  bales  trata in mezzo alla turpitudine di una gente prava che non conosce vergogna  o  se la conosce  si industria a lavorarla in foglie di alloro peringhirlandarsene il capo   gente che giace traverso al tempo come le macerie di palmira pel deserto  mgombro alla via e testimonianza di una vita che non puo essere revocata mai piu  guai ai venuti tar di  almeno arnaldo e l huss e girolamo da praga dal sommo dei roghi consideravano le loro ceneri seme fecondo della nuova dottrina  e prendevano conforto delle essere  venuti troppo presto  ma guai  ri  peto  a coloro che vennero troppo tardi     f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+   <div n="7" type="div" xml:lang="co">
+    <p>
+     un gran dolu  u nostru anzianu cumpagnu di fede paulu orsoni cunnisciutu e amatu da tutt i i lettori di a muvra pe i 5o articuli scritti ci una penna valente e cascatu pe u so ideale di liberta davanti a taza  maroccu  attesta di una cumpagnia riffana       paulu orsoni  di babbu pumunscu e di mamma curtinese  era natu in bastia e avia fattu i so studii in aiacciu    dop ave navigatu in tutt i mari di u mondu  paulu orsoni facia parte  avanti a guerra  di u cunsigliu di amministrazione di una cumpagnia di navigazione genuvese     u cataclisimu di 1914 u si piglia cum ellu piglio tanti corsi e in 1918 ritorn a iso affari dop a essesi buscu i galloni di aiutante di a legione strangera  tre firite e cinque citazione  cp fi di     5   poghi mesi dopu u so cere di omu libaru sente a voce di la irlanda sfracicata    corre e si ingaggia in le troppe di devalera      sia 991  u fruvemu  in corsica induv all e  riturnatu  per ripasassi di tamante fatighe       ghie da tandu chi ellu collabora aunostru giurnalea ma  natura ardente e troppu  impulsiva  pa u  lu orsoni  partitante  di   un azione  diretta imediata truveendusi  in dir  saccordu cui dirigenti di u p  ci  a  ecu  a direzione  di a muvra a i quali ellu rimpruvarava di cunfinassi ne un azione  unicamente  culturale e  dottrinale   cesso a so icoilaborazione e un dede piu  seignu  di vita  li  i    ufi lettara di u fostru cumpa  ignu maroselli  arrivata  so dui jor  ni  da londra  ci face cunnosce a trista novas   u    par sta  lettara sapemu chi pauli orsoni  partutu a tangeri st ultim aprife   avia  offertu i so servizi a abd el krim  u quale  avia  saputu apprezia e so qualita militare e u distinava a un cumandamentu impurtate     ne ma u a sn eh pi e    un  e e ci acala a fronte davant a iamantu  sactifizite    qhalunqu elli sianu i sintimenti  ci  vole   a rieunosce chi paulu  orsoni e mortu pe e so ide e  a e ru a  salutemu a mimoria di u nostru cumpatriotiu e anzianu cumpagnu di fede  sir fm i
+  s
+    </p>
+    <docAuthor>
+     Pasquale Manfredi
+    </docAuthor>
+   </div>
+   <div n="8" type="art" xml:lang="it">
+    <p>
+     stamparia di a muvra  napoleon bonaparte  tettre  we  matteo  buttaloco  1 plaquette de luxe 82 pages  tirage a 15o exemplaires seulement    prix   5 fr   pubblicazioni corse  kyrnos  e  uscito il primo fascicolo di questa splendida rivista corsa di alta coltura  edita in ajaccio e diretta dal dotto professore paolo graziani   di una pubblicazioni di questu genere era vivamente sentito il bisogno nel  la isola   essa colma una lacuna da molti sentita  e certamente le arridera il piu lusinghiero succeso  vi hanno dato ik loro nome scrittori illustri  corsi  francesi ed italiani   fra questi ultimi figurono il prof  umberto biscottini  michele corano  clemente merlo dell universita di pisa ed altri non meno noti e appassionati studiosi della corsica   questo primo numero si raccomanda in modo particolare  per la serieta degliarticoli  densi ei brillanti    paolo graziani tratta  con ampiezza e con quella competenza che gli e propria     della  formazione e sviluppo della nazionalita corsa  luigi villat parla delle istruzione  pubblica nell isola dal 1768 al 1789  g  b  marcaggi  illustra e rievoca una missione ir  corsica  affidata dal generale bonaparte  che si trovava a milano  1796 al comandante bonelli  lo stesso graziani passa poi in rassegna tutto quanto si e scritto sulla corsica in francia ed in italia in questi ultimi tempi  gli articoli pubblicati sull   idea nazionale    da tencajoli  vi sono largamente elogiati  completana il fascicolo uno studio comparato fra il vernacolo corso ed i dialetti italiani di d  carlotfi  scritti di g p  lucciardi  m  corano  alcune lettere inedite di pasquale paoli  ecc    kyrnos   che vuol dire  corsica  in greco  intende essere una rivista trilingue  scritta ia corso  in francese ed in italiano  con uguale parita di  trattamento  fa piacere di vedere  come 13 lingua italiana torni lentairierite ad essere onorata nell isola  dopo un lungo  periodo di ingiustificato ostrascismo  essa  non bisogna dimenticarlo  fu la lingua parlata da sambucuccio  da sampiiero  da gaffori  da paoli  e da carlo bonaparte  e fu lingua ufficiale della isola  sino a tufto il secolo xvii   almanaccu di   a muvra    per il 1925   ajaccio 1925     anche quest anno lo almanacco della battagliera   muvra   si presenta magnificamente edito  con poesie  prose  in puru dialetto corso  e fregiato di gustose e satiriche vignette  u volume di oltre 2oo pagine  si apre con un bel ri tratto di pasquale paoli  del quale in questo anno e stato celebrato il secondo centeriario della nascita  ad esso fanno seguito quelli di altri uomini illustre della isola   che lo almanacco vuole ricordare alla memore gratitudine dei compatriotti  sintomatico il  fatto  etie vi manchi quello di napoleone   alla compilazione vi hanno cencorsoi migliori scrittori del partito corse di azione   maistrale  martinu appinzapalu  marco angeli  g  di altimonti ecc  vi si leggono canzoni  odi  madrigali  lamenti  articoli di storia di letteratura e di arte  accenni di politica  e un appello perla sottoserizione al monumento da  erigersi a pontenuovo  in memoria delle milizie corse  annientate dall esercito francese  if volume contiene inoltre diverse pagine musicali  alcune di autcri contemporanei  altre tratte da vecchi motivi isolani  di ritmo calmo e dolce  curiosa infine la riproduzione di antiche carte geografiche della corsica  ed una raccolta di proverbi e detti particolari del paese     per chi si occupa di folk lore  questa pubblicazione puo riuscire  non solo di grande interesse  ma pure di indiscutibile utilita    idea nazionale  roma 24 6 1923  
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="9" type="art" xml:lang="co">
+    <p>
+     cronaca aiaccina  u sciloccu  scala da africa chi so tre ghiorni  sitiranu e buccate e si spasimeghia   e jalline facenu ovi duri e i turzoni si ne scolanu prima di matura   un si vede un anima par si carrughi prima di sett ore di sera    ma a la annutta  ognunu si rimpatta  u diamante e zeppulu di mondu  i caffe so tughiuli di biidori e  a dui a dui  pullastroni e pullizzole si ne collanu par su granvallu   chi ella campi sa grotta       a  siccina  so dui mesi passatoni chi a gravona un vole piu  ghiugne in aiacciu  pare chi ellu un po sta una mezza jurnata senza cripa una canalisazione  si ripara cu lu asgiu e cusi a mita di a citta e priva di acqua  ma  annu aiacciu aspittava a luna  quist annu aspetta chi ellu ne piovi a falera    un   do  e    da chi fassi gattivu sangue posta chi u cele ci porghie ogni cosa    a bruttaccia   e di puliticona chi no vulemu parla  cu gr  in prifittura st ultimi jorni si e fattu una cucina  chi sintia u baccala macagnatu   mu  aiacciu e a corsica ne firmaranu intusicati    e e  tre battelli di muntoni   des fonzionnaires   so intrati in portu cu i so caricamenti di jente senz onore chi vinianu a lampa ne le urne di ogni cantone i bullitini di fomi a u putere  3      i capi macchia so ghiunti e so partiti senza frombu  sguillendu  cume sarpaccie malsane  ho   tutte cose da fa schifu      pinisciara ancu paf ghiunghie  a midicina  u  manganellu e lu ogliu di oricine  o  les colognaux  ecculi dino quist annu chi si avianu versi e fresche surgente tinendusi u corpu da a diaria chi elli si hannu chiappu pe se francie gialle e nere   povare vittime di una matrigna chi  un vulendu manda i so propii figlioli a brusciassi le osse sottu a i sulioniafricani  porghie a manna vilinosa di e so piazzarelle a tutta quella povara jente messa inde la impussibilita  sicondu vi plan di etat  di stanta a so vita in casa soia   ma quandu finisciara su sfragueq ghiu     5
+  s
+    </p>
+    <docAuthor>
+     Laghione
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     so bellu ricumpenzatu     quandu a guerra fu finita e chio iunsi in casa mea  abbracciai li mio figlioli   e dissi a la mio mugliera      ava seremu felici   puru e compia la galera   mi  rimessi a lu travagliu  obbidiente e curaggiosu  tribulendu note ghiornu senza dumanda riposu   cridendu chi  cume nanzu   fussi ardent e laziosu   un bel ghiornu e u mi accorsi chi ioun era piu cusi sgualtru   tandu si mi arricurdai  di a   costa trecentu e quattru    cula  persi la salute   aghiu lu mio sangue guastu   oghie mi sente iu corpu  dumane i pedi e li ermoni   marchiu sempre un pocu tortu  trinicani trinconi    eccu cio chi si guadagna per difende a mariagna    binu puru mai ne assaghiu   carne  un  ne  possu  tasta    supa di erbiglie e tisane   ghiustu per pude campa   mi sentu un omu jucatu dopu chi io so riturnatu   cusi passanu le annate   sempre fendu tante spese   mi ci vole in medicine a metai di lu mio mese   a me si mi costa cara   a gloria di esse irancese   or eccu lu rivenutu chi eu mi aghiu riguaratu   a pudia fa di core di essemi sacrificatu    da la mio cara matrigna se bellu ricumpensatu   
+  s
+    </p>
+    <docAuthor>
+     Ghilormu
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

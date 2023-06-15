@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k13308615
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k13308615
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 309 | Année 9
+     </edition>
+     <date>
+      1928-01-20
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Numaru 309  A MUVRA  GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI :  mn Corsica. + + . +. . . . . . . . . 42 franchi  In Francia. . +: «~~. vai. 15 »  A lEsteru  U Numaru:5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     u guvernu a la opera  e scole in corsica  ia vn reeentissimu articulu risfampatu da un  quotidiani ajaccinu  u camerata jouhaux  rivoluziunariu snarbalu e dirigente di un organismu statale   lighjte ci  g  ti   espone  in pe righe  u tristu statu di la isula e da  in due culonne  a ricetta di u ri  qiediu a adupra per chi cursichella si possi alza da u saccone fracigu duvla jace dipoi centu cinquanta nov   anni  li 15 se e i   il  sicondu lu eminentissimu delegatu a bucieta di e nazione  lu impiastru capace di calma i dulori di la urfasella un saria nient allru che a scola  cin grande si  a scola laica  grajuila e obligatoria  ne  u  eamierata jouhaux unn e micca un vulgare turista  e lascia a i spirti imbutrati di rumanticismu le ammirasone di i paesaggi per st umanitariu di mistiere  scalatu in tournee de propagande     u pittorescu di e cawalfumicate e mezze trafalate signi  fica chi a tisii ci face a malaccina   resuberanza di a macchia vole di chi  sion ere tt    pero  unn abbisognanu micca  per sesccia malaria e da vigore a  vila economica di la isula  strade  ferruvia  irrigazione  risanamenlu  eletirificazione ecc  ece inno  basianu gruppi sculari di arte mariannunescu    par quella  u sindacalista ufficiale dipigne u statu di i lucali duvai piugoni  di le altagne lirrene ricevenu u cibu spirituale inviatuli prontu e lesti da mare inla  per 798 scole  683 installazione di furtuna  senza cubu di avia  senza luce  salbune quella di u sole  e  piu sporche la una che la altra  43  un pussederiu micca riliri     pe umateriale regulanientare  un ne parlemu  2oo so spruviste di lu armadiu biblioteca  18o un pussedenu micca lu elencu murale di u sistema metricu  47 aspeltanu sempre  per appendela  acarla di    francia     per quantu  vera clla sia  sta descrizzione un po  cu sincerita  purla a sta cunclusione inaspettata chi ellu li da u benevule ispettore    e a u state miserabile di lu insignamentu pubicu chi omu deve attribui  pe a majo parte  u fattu chi a corsica  a u isie u splendidu  a  pupulazione intelligente e piena di altivita dopu lu impiastru  lu unguentu   a e risorze nahivale cunsiderevule  sia in ritardu per rapportu a e regione e piu diserilate di a francia cuntinentale     ma dunde u comicu tocca  allempu  u sublime e a sfacciatezza e quandu u camerata cegetista scrive     dumandu a u ministru di a publica istruziene si ellu cunusce sta situazione     eccuti lu attu primu di sta cummedia  ideata in cunsigliu di gabinettu   lu attu secondu principia per una visita fatta da delegati di a ci  g ti  e di  u sindacatu naziunale di i stilatori   fra i quali u camerata jouhiux a u ministru herriot u quale ha dichjaratu a so decisione di intervene subitu  essendu prontu un prubellu chi prevede una participaziope di u statu di u 9o per cenlu pe 2 fusttuzzione di gruppi sculari in  per induvina cum ellu si ha da svolge lu attu terzu  ci vole a ramm lassi chi u novu statutu militare ha per pedistallu piu di centu mila ringaggiali   ci vole dind a un perde di vista chi le opinione publica  in corsica ha fattu cumprende a u guvernu clifellu saria  ora di ruminassi per ssu corciu paese  i    cusi si taglie a la accoria   strade   no     ferruvia   no  risanamentu   manc appena  elettrificazione   auh 1 irrigazione   aibo   ss    tulta sta roba arrega prosperita  dignita e      indipendenza  e  a scola laica  gratuita e obligatoria costa menu e rapporta dipiu     cu qualchi miliunellu  dice mafiannona strufinendusi e mane  pare che ficci per elli  e impattu per me     corsi  fratelli mei  semu junti a salvameniu   u guvernu vole ingranda efaliriche di sargentelli  di duganerie di gendarmi     in  e ci so i matalandati chi ci rompenu i stifali cu a so autonomia         citemu a le ordine di a grande patchie e di u nostru povaru
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     storia e documenti  la assemblea generale di u 1794  lu attu custituziunale fattu da a nazione corsa lannu 1794   mentre chi in francia era u regnu di u terrore u piu infernale  e infieriva a rivuluzione a piu sanguinaria chi mai si e vista inde a storia  una mamma  chi si magna i so figlioli   fu un attu di tanta impurtanza  pulitica e murale  chi merita di esse cunisciutu in tutta a so integrita e a u chiarore di i piu sicuri documenti   i storici ne parlanu  si  ma un sanu  o un bolenu  o un ponu esse cumpletti  sicche  i studiosi restanu sempre inde u bughiu  a inde a mezza oscurita       emu avutu a rara furiuna di  ave in manu una copia  ufficiale  e cume originale  di quelli atti  stampata  in  corte   nella stamperia del governo di corsica  cu u titulu processo verbale dell assemblea generale di corsica femula in corte il 1o  e giorni seguenti di giugno 1794  e in librettu  furmatu in ottavu  di pag  76  ha duvutu appartene  questu librettu  a unu di i deputati impurtanti  a quell    as u publicheremu  1  per ogni bone fine  in tutta a so integrita  cusi  in ellu  ognunu pudara rileva  inde u discorsu di u padre di a patria e inde i mutivi di u decretu  la impurtanza di i mutivi  pe i quali funu cunvucati  i deputati di tutte e cummunita di corsica  fu pruposia  e vutata  all unanimita  a separazione  di  a corsica da a francia  mutivi pulitichi mutivi di salva a vita persunale chi unn era piu sicura mutivi di religione e si ricunoscera  chi ci ne era piu che abbastanza per ghiustifica quella suprema ed unanime  decisione di a corsica  chi era stata   effetto di una conguista violenta  esanguinaria        inde a custituzione chi i nostri padri hanu fattu  si osservera chi elli  sempre  si so preoccupati di salva a so religione    in tutti sti documenti saltanu come un incantu  e risonanu a e nostre orecchie come un armunia i nomi di   u populu corsu   a nazione corsa   a bandiera corsa    indipendenza corsa   u pariamentu corsu   a liberta di u populu di corsica  a navigazione corsa  a custituzione di a corsica   u guvernu corsu   a curona di a corsica   a suvranita di a corsica   che si ponu cunfrunta cull abbassamentu pusteriore di a corsica     u nostru documentu e poi preziosu pe a storia  qui  si hanu i nomi di e giuridizione di tandu  qui  boi truvate i nomi di tutti i paesi  detti curamunita  di a corsica  e  di piu  i nomi di tutti i deputati  eletti da ognirispettivu paese a un assemblea  di u so diputatu  e truvara quant ellera distintu  un solu pe a delegazione avuta da u populu  ma pea so pusizione suciale  e e so qualita persunale     un attu di questu genere suscita e face nasce  inde a mente di i storici e di i pensatori  e piu serie e e piu alte riflessione  a tuttii punti di vista  storichi  murali  pulitichi 
+  s
+    </p>
+    <docAuthor>
+     Mufrellu
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     intrucciuli e cuscogliule  a mula   ziu manfarrinu tutti li anni in san mertinu  andava a festa inde ziu jaghettu   ziu jaghettu cuminciava ad esse stancu di riceve st imbitatu chi ell unn imbitava mai  e barbuttava     bai puru chi ti vogliu sbizza  eiu    infatti  st annu almanacco un sbezzu tremendu   ujornu di a festa  aspetto ci una risa ironica u so imbitatu chi  puntuale cume sempre  ghiunse versu li ondeci   si azzanconu a ssa tavula duve fumicava  in mezzu  una trippa maravigliosa  e u padrone di casa servi a u so cummensaie una bellissima mula   ziu manfarrinu a vista di ssu bellu pezzu sceltu si strufinava e mani di cuntentezza  in furia  circo furcina e cultellu  ma un ci ne era  allora  senza tanti azzetti  mino un mursettu inla mula     un sbollaru di acqua bullente li schizzillo in faccia e u brusgio   a mula unn era piena che di acqua bullita cu qualchi filu di erba   u vinu innasauatu   glia un litru di vinu   sta purghiena  avanti di purtallu in tavula  u battizava cristianamente  e allucava u pocu chi ella  cacciava da u litru    u fattu si sta chi dopu un tempu chi sta faccenda durava  ne avia messu da perte una decina di litri    un  ghiornu  u maritu casco malatu  e i solli manconu per cumpra u vinu   o    oghie  mi averaghiu da passa di vinu   disse ziu filigatu   a moglia  senza parla  ando a piglia una di e buttiglie in lu so piattatoghiu      da duve sorte stu vinu   si intrigo u maritu       ti spiegheraghiu  disse a dunnicciola  tutte e volte chi eo cumiprava un litru di vinu  ne cacciava un zinzichellu chi eo rimpiazzava cu la acqua   cusi face chi       cu la acqua   disse u meritu  cu la acqua   allora mi hai fattu beie u vinu innacquatu  ne e paspetta un pocu  brutta strigacccia    e li ne dede una mataccina   u stuppinu   un omicciattulu giallognu  culuniale intuntulitu  frequentava un caffe chi ella empja di raconti arguti e di prudezze imaginarie   i clienti  a la fine  si stumaconu di ssa voce pocu gherbata     u vogliu sbizza eo  disse un tomu    un bel ghiornu chi u nostru lagramante si era addurmintatu dopu u solitue buggierdu racontu   ssu sgaiuffu disse     aspettate a me  chi bi feraghiu vede qualcosa di bellu      e pigliendu una buttiglia di sciampagnu  andede a stappalla sottu a nappa russina di u spaccamuntagne     bouml    pssc    ssc       oh   chi so mortu  mi hanu tombu  gridava asciuvendusi u mustacciu    un ci turno piu 
+  s
+    </p>
+    <docAuthor>
+     Matteu Cirnensi
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="fr">
+    <p>
+     cursismu le dualisme national voila le mal dont le corse se meurti o     corse mon frere que la misere et la malaria ontchasse sache que lorsqu un peuple prend la livree de ses maitres il se rapproche non pas d un degre superieur de civilisation mais d un degre inferieur de barbarie  c est une satyre trop injuste que de charger le peuple corse du ridicule de charge peuple c i quelques mercenaires alors qu on lui a impose le sacrifice sanglant de quarante mille hommes  d ailleurs d echantillons ridicules e la france en regorge  plus que d en fants    cm 3 22005 pes le corsisme n est point le devergondage de l individualisme  orgheilleux de quelques desagreges  7 7 corse ma mere ton coeur est tiede comme un nid ct discret comme un tombeau   la centralisation francaise ressemble a certains habits elle gene plus qu elle ne preserve     trop de corses ressemblent a ces chevaux quitournent en place les yeux bandes ignorant la besogne qu ils broient    la corse est pittoresque etdelabree  la corse a plus besoin d un gouvernement coise que d un gouverneur francais et de bons igouvernantsque de mauvais gouverneurs i agrege francais desagrege corse  gioire a toi labourenr de casinca artisan d orezza vigneron du cap ou de sartene marin de calvi ou de bastia gloirea toi qui par un dernier phenomene d atavisme avec le soc ou avec la proue persistes a creuser le sillon de tes peres i d j ai vu cyrnos a verdun a charleroi a monastir errant parmi les tombes son voiletrainait jusqu a l horizon san  glant et sa voix bouleversaitl ame des nations  france femme sterile rends moi mes enfants   vois tu cet ecrivain ce ministre cet industriel ce mercenaire ils ont mis a leur nom un y les mallieereux  ils  rie sont plus ainsi ni corses pi fran  les corses ont oublie mais la logique historique et geographique elle n oublie jamais et se venge toujours apres 160 ans d annexion notre ile brutalement transformee en departement se meurt de delabrement econcomidue et moral cr corse pcur mesurer la decheance de ton pays sache qu il eit en propre embryons criminellement ecrases des industries actives de fer d etoffes de poieries de poudre une monnaie nationale des navires un pavillon une universite une constitution    le corse dit on est changeant ses idees sont affirmez vous dans un etat perpetuel de mutabilite eh bien tant mieux car c est eu changeant qu il finira par repousser ceux qui l ontmeertri ct cpprime tet qui nous dit quele corsisme ne fera pas devier encore une fois les corses du mauvais chemin pourles conduire sur les bauteurs ou le coeur se dilate et se purifie rt rs l ame autochtone fortement marquee de notre corse est en conflit sournoisou declare avec un genie d importation e patriotisme ou es tu toi si delicat a diriger sois clement anoscoeurstourmentes par le doute ne degenere point je t eri supplie en un bi patriotisme mensonger    l ame atavique reniee le ressort de vie et d'action est brise   le corsisme peut et doit enrichir la latinite d une litterature nouvelle d une individualite nouvelle d un corps social nouveau   ass  oletta murato lento  pontenovo  curagan descieux arrivanttouta coup avec de grands eclats et des fulgurations tombant sur cvfnos boulerersant tout arrachant les volontes comme des feuilles mortes emportant a l abime une race d elite pontenovo pontencvo  vallee du desespoir ravin de la trahison cercueil dela patrie sois maudit  toi qui as fait des corses a schiavi migliori  su n corse  aucun historien n a su donner l exacie mesure de tes douleurs  les journanx corses les revues corses les annuaires corses sont autant de chaudrons feles ou nous battons des melodies a faire danser des ours quand il faudrait attendrir les etoiles   les desagreges les hauts prefets les bas et les hauts gardiens   non ragionam di lor ma guarda e passa  a ecrit dante de leurs semblables  les bonnesvolontesnesuffisent plus  31 faut a la corse des volontes  dieu est grand   la vie des peuples estiongue  etuneaube nouvelle viendra qui fera tressaillir d allegresse jusqu aux ossement dans les tombeaux  une aube nouvelle viendra  etdans morosaglia la voix de paoli montera geante vers le ciel remplira les vallees de cyrnos  a moi les corses ia moil  si scopior le tombe tisorgono i morti
+    </p>
+    <docAuthor>
+     Orsini.
+    </docAuthor>
+   </div>
+   <div n="5" type="art" xml:lang="fr">
+    <p>
+     la nouvelle question  d alsace loraine a propos du proces de colmar semu felici di mette sottu a l occhj d i nostrilettori l impurtantissimu articulu chi u sgio anficu ministru residente di francia ha publicatu in la revue de hongrie di u 15 agosti 1927 unicu tu i l autore nutissimu pe i so studii di pulitica internaziunale ha avutu a gentilezza di autorizzacci a stampa in le nostre colonne u so lavoru sguitatu da a penna d un sapiente e d un enest omu  le  rappurtendulu a' quistione corsa st articulu in cio chi cuncerna e minuranze naziunale e l oppressione di u guvernu francese cuntribuisciara in modu definitivu a l edificazione di tutti quelli chi so peu drittu e pe a liberta  le proces qui s est deroulea colmar fu mois d avril dernier et dont il sera parle plus loin a attire l attention sur ce qu on peutappelerla nouvelie question d alsace lorraine  l ancienne question d alsace lorraine qui s est posee de 1871 a 1919 c est a dire du traite de francfort a celui de versailles consistait a savoir si l alsace lorraine resterait a l allemagne ou si elle feraitretour a la france  la nouvelle question d alsace lorraine consiste a savoir comment l alsace lorraine pourra s adapter a l etat francais auquel elle a fait retour en vertu dutraite de versailles a premiere vue si l on ne tenait compte que d une opinion qui a ete fort repandue de 1871 a 1914 il pourrait paraitre surprenant que cette question existat meme en effet d apres cette opinion les alsaciens lorrains dans leur ensemble aspiraient a redevenir francais il sembleraitdoncque l etant redevenus ils eussent da immediatenient se retrouver comme chez eux de sorte que la question de leur adaptation a la france n eut meme pas du se poser mais la realite etait moins simple   il est convenu que l ancienne question d alsace lorraine etait d ordre international PSfndis que la nouvelle est d ordre exelusivement national en ce sens que c est sine question de politique interieure francaise cela est vrai d une maniere senerale  toutefois national franco allemand  du reste cette question se rattsche a un probleme d ordre general europeen celui des minorites ethniques ou gationalestic est pourquoi elle n interesse passeulement la france et l a lemagne mais au contraire en tant que cas particulier pouvant servir d exemple plusieurs des etats qui ont pris naissance su qui ont ete plus ou moins remanies a la suite de la guerre mondiale car cette guerre qu on pretendait faire au non du droit des peuples a disposer' d eux memes a laisse subsister dans plusieurs etats une question des allogenes les roles ayant ete simplement intervertis en ce sens que ceux qui dominaient hier sont aujourd hiu domines et inversement  c est peut etre en france qu on eprouve le plus de difficulte aussi bien a comprende qu a resoudre le probleme des allogenes dificylte a le comprendre parce que la france est a son avantage un etat relativement homogene difficulte a le resoudre parce que par sa structure politique elle est un etat particulierement centralise et u nifie o do a fa base des tomplications gui resultent de la nouvelle question d'alsace lorraine il y a de la part de beaucoup de francais publicistes ou hommes politiques la meconnaissance de ce faitessentiel que les alsaciens lorrains s ils sont des citoyens francais qui ne demandent qu a etre de bons citoyens ne sont pas des francais comme les autres qu ils sont en d autres termes des allogenes et pour di re brusquement les choses des alle mands plutot que des francais ceci devant s entendre au point de vue ethnique et intellectuel la meconnaissance de ce fait essentiel trouve peutetre son explication dans lincapacite de eomprendre que des gens de raceet de langne allemandes a condition qu on les reconngisse et qu on les traites comme tels peuvent etre de bons et loyaux citoyens francais  l historien jules michelet qui est particulierement apprecie et populaire en france a emis a propos de falsace unjugemeent a la fois fonde quant aux faits mais contestable quant a ja conclusion qu iltirait des faits comme savant il ne pouvait pas ainsi que le font des publicistes et des hommes po litiques ignorer queles alsaciens sont ethniquement des allemands mais a cause de cela il commettait l erreur de vouloir les exclure en quelque sorte de l etat francais dans son hisidire de france publiee en 1833 il tracait ce qu il appelait un tableau de la france  sorte de description des differentes regions constituant la france maisil arretait ce tableau aux vosges il ne voulait pas y comprendre l alsace parce que disait il  c'est la langue qui fait la nationalite  les alsaciens etant de langue allemande ils etaient donc pour jui de nationalite allemande aussi associait il dans un langage pittoresque et simpathique strasbourg aux autres villes rhenanes t il pp 78 79  ia i si beaucoup de francais aujourd hui se refusent a reconnaitre un fait que michelet comme savant ne pou vait pas meconnaitre c est peut etre qu ils s imaginent que s ils le reconnais saient ils seraenit obliges d en tirer la meme conclusion que michelet croyait devoir logiquement en tirer c est adire qu ils seraient obliges d exclure l aisace lorrainc de l etat francais  on va jusqu a recourir a un subterfuge comique pour ne pas avouer que les alsaciens lorrains parlent l allemand il est convenu qu ils parlent salsacien  comme si la science philologiquereconnaissait l existence d une langue alsacienne independante de la langue allemande ainsi qu elle reconnait l existence d une langue basque   en 1878 dans sa nouvelle geographie universelle elisee reclus reconnaissait aussi le caractere allemand des alsaciens mais il faisait une remargne que d autres encore ont faite et qu on peut invoquer contre la theorie separatiste de michelet il indiquait la similitude qu il ya entre les alsacienset les suisses allemands or ces suisses touten etant allemands par la race ei par la langue tout en se reclamant intellectuellement du dezfschium rrouvent tout naturel de faire partie et et veulent faire partie d un etat cu ils vivent cote a cote avec des compatriotes qui se reclament au point de vue i intellerinai data do lethaique et iptellecipel de son origi nalite propre sans pretendre s assimiler les deux autres   pourquoi n y aurait il pasdes efrancais allemands  representes par les alsaciens et les lorrains comme ily ades suisses allemands  representes par les bernois les zurichois etc  on peut affirmer que si l une des trois races qui vivent en suisse voulait dominer les deux autres et se les assimiler il se produirait chezles denx autres un mouvement centrifuge qui les ferait se rapprocher politiquement desdeux grands etats voisins dontelles peuvent se reclamer  la similitude qu elisee reclus trouvait entre les alsaciens et les suisses allemiands doit etre retenue comme earacteristique du peuple alsacien si ce peuple en effet s identifie rar la race et par la lanzue au peuple alle  mand  il en differe a certains egards par l esprit notament par l esprit politique dans la menie mesure que le peuple suissealiemandi
+    </p>
+    <docAuthor>
+     Alcide Ebray
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     pe a morte di magliaboia   un si aspettava    lu casole muvrinu tu fossi natu  per simile destinu i  semu tutti in addisperu  e piu sera zarafinu hn  amparendu la notizia   chi  4 allevo caguulinu   oh  tante e fante  lepicamandazione  eh ellu ci iece   pe u so fieru leopeti a   mettendu lu pede in barca sfu novembre passatone  les ma pe u tintu magliaboia un ci valse le altenzione   si preparava u o magna da parle   e si impiegava   la medicina e le arte   pe u  minimu bubujolu   a sgriniialella di fallo    si averia  per salvafli   fatt ancu le falze carle   cane di forza   cane di fidellai           totiu curaggiu   cane ghardincu assai   cone  di nome  pimposa     cr altrti cane purto mai      e nome di quellu pinzutu  chi in cirnu sumino guai  1   e pensu tutte   un pudendu fa menu    $oga  ssu nomiet ri   i     i fa fanesiu appienu   i giariscisfi da lu piombu chitfarafaro tu senv   per casca di male in peghiu binore da du veleno       ti emu curatu   cun tutta soccurrenza    a to padrona  un perse indi pazienza  ssn ma eta fm ate rane  pervede sarra quellu occhiu  specchia di a to nielligeuza   tre ghiorutavanti u marcuri fatale   dissi fu me stessu it  ci e qualcosa di male   coma e chi magliaboia ta colla micca le scale per gratta a la mio porta nstess ora matinale      ello  lu tintu   si lagnava in cucina   arrecchj lentu   cn frebba cavallina  ne mancava piu diu mezzu da la sera a la matina   un valse velerinariu   fu vana la medicina    on  ii to lagni  la sti tre ghiorni pieni    tesu a lu sole   diggia mortu di reni   cu noi altri tutt in tondu pensendu conteavelent     ma nimu cu ld euragaiu   paccuriatti le 1o peni     li meillehois chi capitano a prima fnadizione francese di ne 1739   a ti dicia  dipoi piu di un annu    un magna fora si ti un voli malannu   chi un ci e che trappule tese e bucconi cu l ingannuts disubdidisti  e ju toscu 7  ne fu lu to capu di annu   ti aghiu scavatu una fossa prufonda    vieinu a portu    e  duv ellu face sponda       feraghin chi di ogni fiore ella ne sia circonda  i e  cu lu scrittu   magliaboia   ebbe qui pultima storida      ti emu fasciatu e   chi a terra un ti tuccassi  poi  sepellitu   in sette palmi scassi       pianlendudi un bel mimosa    per chi a mente nu si scurdassi  e si parti da  ssu loe u      cu lacrime in l oechi bassi   a zarafinu  i ug  chi e per ssu cunlinente va in penseru  ne  di tutt a nostra metile   giell accetti lu destino    1   da padrone paziente   si ell e statu peu so cane tantu brulial e inclemente 
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="7" type="poe" xml:lang="co">
+    <p>
+     a una giovana  lamentu    signurina  chi pinsate   di un fammi mancu piumottu  u nostru anticu cuutraiu     apposta  le avele rottu      e li pezzi  a mio dispettu  le ete falati    disottu       un ci e piu quella afegria      e ne parite facciata     cos avele dunque  o bella  per esse cusi   turbuta     o sireiu chi mi inganon    voi site bella cantenta di vedemi abbandunatu   e cu a mio speranza spenta  aghiu voglia di circabbi  fughijte e nun vi si abbenta    forse  qualchi furestere si ha pigliatu la mio piazza  mi avete jcitatu in bassu  di la vostra catarazza   oghie si  chi mi insignate cume lu astragu si spazza    ci iruvavamu ta sera e  a lu attracchiu a la funfana   quanli basgi v agliiu datu  da la ombria a la sulana   oghie unn ha piu quellu sonu  lu picchiu di la campana    vi ne sarete scurdata   o nice  cara dilella   quande vi tenia  la notie  coniru lu mio peltu stretta  e iaciamu la strapunta     di mucchiu o di filetta   era un pezzu chi io sapia chi vo  erate capricciosa   ne aghy avutu lu secretu  nu ld vostra stanza chiosa  bench ellu sia piu zitellu  un po ja listessa cosa   a tante belle parole  amanti  nun vi fidate   un pigliate li so vezzi per frittelle inzuccarate   e  lu piu chi elle so sciolte  quandu e cridite ligate   oghie  per tutte  sso piazze  un si sente che discorre chi ella averia cambiatu  la acella  di cacciadore      eiu  lu astutu   cridia      eteriu lu nostru  amore   amavate le chjrchielle   chi io vi cumprava sovente    vi le puriav all appiattu chi ellu un vidissi la jente  voi mi davate le vostre labbie fine e rilucente     mi avete mandat a spassu zenza zucca ne balisgia   quist annu un altru scultore   la vostra rocca vi frisgia     cambiariste  voi  di amore  forse cume di camisgia     purtantu  nun vulerele     pigliammi per na ghiudeiu  u lempu sera passaiu i chi du  ostru era lu niciu i  e la vostra rocca in senu vi lu aghiu frisgial enchoin   chi bi appiate una cuscienza  la mio fede unn e sicura  le affezzione  in casa vostra  e fracica e pocu dura  truvaristele piu bone di altre pere in cunfillura     mi avete sempriaffirmatu chi io favia lu iiio duvere      e chi nissunu pudia  appuntammi ju slragliere   ma  capiscu chi eili so  per voi  li omi  tutti pere   passavanu le ore inliere a cunta li stalbatoghj    trovu di altri capaloghj    ma chi vale di lagnassi  e di folmina ghiasteme    vegu chi in rostr amore  oghie junghiie a l orestreme     ge faremula mai piu e tra me e voila suppa inseme    addiu belle seratine    addiu basgi  addiu rigali      pe  mio contu  mi steraghiu   a guerda per  ssi pughiali   eppo lasciaraghju corre la acqua pe li so carali   abbedeci o signurina   gudite di la esistenza    postu chi voi nun pudete   dili basgi  resla senza voi farete li piccati   ed eiu la penitenza    si sinlia cania ghialli e scaccana lc jalline    eranu colpi di basgi     e chiappelleite a duzzine  bombo  ponci e vini caldi    PS frittelle pisticcine   
+  s
+    </p>
+    <docAuthor>
+     U Mansacciu
+    </docAuthor>
+   </div>
+   <div n="8" type="feu" xml:lang="it">
+    <p>
+     si senti per di dentro brontolare  ma troppo fu potente lo scongiuro  pre un corso  avesse anco dato dale  al diavolo  si attentasse re ivi  subito dopo il rumore di pn pesanti  e lo scatenio di chiame finalmente si aperse la porta  o parve la lurida figura di maria  alfobello gli getto le braccia al du ed accosto la bocca alla bocca dires per baciarlo  ma quegli torse la altra  il volto e profferse la una  e maria guancia  fosse ira o coscienza   ano non rese il bacio  che trai  corsi si ha per cosa sacramentale  altobello finse di non ci badare e sospingendo alquanto mariano entro in casa       mariano  allora senza perdere tempo gli disse  vi ho da parlare     potevate scegliere ora meno incomoda  ma non rileva  sto ad ascolfervis di o i si    accendete il lume      le parole non hanno bisogno di essere vedute      e poi spero che finirete presto  in ogni caso basta fa lucerha  che mamma ha lasciato sul pianerottolo  a    lo zio vi manda a salutare caramente voi e la vostra moglie     grazie  rispose mariano  e dopo lui una voce in falsetto uscita dall  altra stanza ripete  grazie     lo zio vi prega accettare certi suoi regaletti     ne   era meglio che mandasse quat  trini  e che robe sono questi regali    un bel taglio di panno per voi  un altro di stoffa di seta per la cagnata  p  di piu una coliana di vene  zia      meglio quattrini ma per la verita le mie vesti sono tutie toppe     e non reggono piu  il punto   non reggono piu il punto   ripete la voce stridula per di dentro     mi ci rivestiro     o non sara meglio barattarlo in panno corso  e la  differenza farcela dare in quattrini  che ne dici lucia     quattrini  quattrini  ripeteva la moglie con lo strido della civetta     o se ti parra che io ne possa fare a meno per qualche altro po  di tempo venderenio tuito  panno  seta e collana  e ridurremo in quattrini   2 si  quiatirini    in quattrini   altohello senti wenirsi la nausea al cuore  ebbe un capo giro durante il quale gli parve che un turbine di monete luminose facesse remolino dentro la stanza   voi ne farete quanto vi piacera  ma  adesso   mariano  vi prego dirmi da quando in qua in corsica  massife in casa alando  si ricevono nel modo con che  avete fatto ospiti e  fratelli   cosi  vi prerne  a riputazione dei nobili nostri antenati     a vero direio credo che ai nostri antenati all ora che suona non prema piu di fama e ne marico di infamia  ad ogni modo se gliene importa ci pensino da loro quanto a me io so  che chi da pane ai cani degli altri e abbaiato dai suoi     lasciamo stare il pane  ma almeno un po  di ricovero     anzi su questo per lo appunto bisogna camminare col pie di piombo  non bisogna metterci in casa gente  che non conosciamo  chi mi assicura che egli non sia un ladro        mariano     non v  inquietale  ad ogni modo e meglio vergognarci di avere tenuto chiusa la porta  che pentirci per averla aperta  e poi alla meno trista co  forestieri sono creanze gettate  costoro ci hanno sempre fatto del mole  i saracini informino      ma il signor giacomo boswell non e mica un saracino  bensi un gentiluomo inglese       peggio  mille volte  peggio  e un eretico che non crede nel papa  mercanzia di inferno  sento fin di  qua il puzzo di zolfo che manda  lo senti  lucia  il puzzo di zolfo   puzzo  zolfo  io non sento nien te   perche sei  una bestia    una  scema  e non apri mai bocca che per contradire il tuo marito  lo senti o non lo senti il puzzo dello zolfo   zolfo  zolfo  strilio la donna     povera creatura  sospirava  francesca domenica  costui la ha fatta scipidire senza rimedio   me ne ricresce per voi  prose gui altobello  perche so che vi aveva portato di bei regali dal suo paese  a     circa a questi li faremo benedire  e non rechera stroppiotenerli  ma lui sarebbe opera buona buttare a terra dalle scale     e di lui non parliamo piu  ma di me     di voir di voi sarebbe stato altra cosa se foste venuto solo  per una notte  ricovero velo avrei dato  e pel figliuolo di mio padre una fetta di pane e un bicchiere di acqua avrebbe avuta di certo   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

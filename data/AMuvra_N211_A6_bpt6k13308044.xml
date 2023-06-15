@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k13308044
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k13308044
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 211 | Année 6
+     </edition>
+     <date>
+      1925-07-12
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Sest’ annata — Numaru 211 Roca x Muzza. : Ì Dumenica. 12 Lugli  Esce a Dumenica Dumenica, 12 Lugliu 1925  A MUVRA  GIURNALE DI È PIEVE DI CORSICA  ABBUNAMENTI :  In Corsica. «.... . . . . . . . . . . 12 franchi  In Francia... . . . . . . . . . . . . 15 »  A VEsteru . . , . . . . . . . . . 25 »  U Numaru:4 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="it">
+    <p>
+     per la creazione dell universita corsa  alorigine  le varie universita della europa  occidentale ebbero per iscopo di sostituire le scuole capitulari  ispirate purtroppo a concetti ecclesiastichi  a tali istituzioni  che costituivano un primo passo verso la laicizzazione dell insegnamento  venne dapprima assegnata la denominazione di studium generale  perche appunto gli alunni vi attendevano a studi culturali  di ordine generale   il programma degli studi si divideva in due parti   il trivium ed il quadrivium   merce queste subdivisioni  gli allievi venivano edotti di quanto spettava la filosofia  la teologia  la retorica  le matemiche  la storia  e cosi via   quando il paoli assunse il generalato  tale organizzazione dell universita era rimasta per modo dire illesa dal medio evo  fu soltanto merce  lo impulso razionalisto dato agli studi dalla rivoluzione francese che il concetto universitario venne fatto segno a molteplici mutazioni     dunque  la universita di corte non  costituiva  in quanto all istituzione stessa  una innovazione  non diffe reva essenzialmente  tanto dal punto di vista didattico come da quel utilitario  dalle altre  universita di terra ferma  e cio faceva dire ai paoli che le emigrazione della gioventu insulana non   sarebbe tolerata oltre  poiche gli studenti potevano attendere e  conseguire in corsica stessa  i vari studi e le dif ferenti laure che  per mancanza di tale istituzione  avevan fin ad ora atteso e conseguito in italia   quindi  benche le varie materie trattate all universita nazionale spettassero a  scienzie che ora ci sembrano antiquate   come  per esempio la teologia dogmatica e morale   essenzialmente utilitaria appareva la idea della creazione di tale studio  ed in cio appunto consisteva le innovazione  7  ora  in seguito al rifiorimento del pensiere corso  si sta di nuovo parlando di una organizzazione universitaria in corsica  anzitutto  per evitare ogni malinteso  occorre dire che il fatto solo di intavolare discussioni intorn a simile proggetto  esclude per sempre la idea di un regime bastardo che consisterebbe nel far dipendere universitariamente la corsica dalle citta francesi di aix e di marsiglia  diremo piu   speriamo checoloro chehan combattuto e combatteranno ancora per tale organizzazione  non sono ispirati ad ideali universitari di quest ultimo genere  altrimente  dovrebbero aspettarsi da parte nostra come da parte della maggioranza dei corsi  alla piu accanita e intera disapprovazione    essenzialmente corsa  diciamo  dovra essere la universita  e nessun compromesso potra mai intervenire a questo punto di vista  ma chi dice universita dice parimente universalita degli studi  perche la idea uni versitaria stessa richiede nel suo sviluppo la massima estensione in qa o alla natura del insegnamen ed alla sua portata  quindi  la denominazione corsa  non puo in qualsiasi manera suppore un siste ma culturale esclusivamente ridotto al dialetto  agli usi  alle tradizioni  alla storia corsa  e rinchiuso inun complesso di idee  di scienzie e di dottrine  che tutto quanto spetta la corsica dovra essere studiato  spiegato  commentato   valendosi di tal programma  non si potra far a meno che di studiare il dialetto e la storia patria unitamente con i dialetti e la storia delle provincie italiane  perche sarebbe   pura pazzia il tentare le elaborazione di  un sistema stiettamente adoperato alla corsica    quattro sarebbero le facolta alle quali il giovine corso potrebbe richiedere le iscrizione  lettere  legge  medicina e scienzie   non vogliamo qui inoltrarci in ampi commenti relativi alle materie che si potrebbe insegnare in ciascuna di queste quattro facolta  tanto piu che ad ognuno e lecito di studiare le organizzazione delle universita italiane       solo vorremmo accennare qui all insegnamento universitario in quanto spetterebbe piu particolarmente alla corsica     nella facolta di lettere  si farebbe lezioni di dialetiologia durante le quali esercitazioni pratiche  facilitarebbero il compito del professore  la storia di corsica si spiegherebbe dunque nel suo vero quadro  in quanto al parlato nel quale verrebbero fatte le lezioni  esso sarebbe il dialetto corso o la lingua italiana  secondo la natura della materia trattata   nella facolta di legge gli  studenti sarebbero iniziati a quanto spetta la scienza dei vari diritti   romano  pubblico  privato  e cosi via  una lezione sarebbe consacrata allo studio dei vari regimi giuridici ai qualii corsi furono sottoposti durante secoli  principiando al codice teodosiano e terminando col codice napoleone  ora vigente iu corsica per la volonta della francia   niente diremo della facolta di medicina  perche lo insegnamerito non offrirebbe nessun divario con quello delle facolta di terra ferma  immensi avantaggi pero caverebbero gli studiosi corsi nel potere attendere a studi medicali completi nell isola stessa   in quanto alla facolta di scienzie  le materie che vi sarebbero trattate spetterebbero alla fisica  la chimica  le matematiche  la idraulica  ecc  lezioni speciali dovrebbero essere consacrate allo studio geologico  antropologico e mineralogico della corsica    tali sono i qualchi suggerimenti chi ci permettiamo di formulare  certo  non intendiamo e non  possiamo fare altro che ipotesi  ma poiche di piu in piu si fa sentire in corsica il bisogno di ricercare un sistema culturale piu perfettamente adoperato al nostro atteggiamento di spirito  crediamo che il lettore ci sara alquanto grato di avere esposto le nostre idee relativamente a quel meraviglioso strumento di civilta e di progresso intellettuale creato da pasquale paoli   yuniversita corsa  i
+  s
+    </p>
+    <docAuthor>
+     Matteu Rocca
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     a i sampetracci  ripicchiu pe a merindella  cari cumpagni chi state in sanpetru  tocca a voi a da segnu di vita  x  si o no si face sta merindella    si ell e di si  diteci chi ghiornu e chi mese  almenu un mese innanzu   perchi  a sapete  ognunu ha bisognu di esse infurmatu  per tempu di eso faccende       si a data scelta e u primu di aostu un vi pare ora chi a corsica a sappia  simu diggia inda seconda sittimana di lugliu  u tempu bula cume li acelli  e voi altri fate orecchia di marcante   5    annu scorsu  lu amicu di pianellu si e lagnatu di esse statu avertitu troppu  alla corta  custannu speru chi ellu un si fera aspetta  ne ellu  gloriosu martire di a pulitica  vintiduie volte numinatu e incurunatu  ne u so cumpagnu u strampalatu chi mi pare arrighitu  altri e di altrianfarti  cialamelle nuelle di cirnu  per listessu mutivu  un so pussuti vene  date un primu cennu sicuru  chi tutti appressinu i so travagli e si approntinu a partel anc eiu aghiu u mio da fa  per sti rughioni  inprimu locu  agliiue mio pecure a cura  in secondu aghiu un ortu pienu a fagioli e mi ci vole a sbarra perse macchie per fa pali e palaghioli  tagliu  ritagliu  appinzu e ficcu  in terra  in celu e di ignilocu  ma un so quand io finisceraghiu sta scumpienda   chi si allarga sempre piu  sta mane  ne aghiu sbrutulatu una bracciata di i belli  lungherini  diritti  fatti  a bona luna  preparati lu aghiu apposta per lu amicu tannettu   quand ellu ne avera bisogni di abbignene u so teatru  si io un facciu errore  piu bellu carcu un mi pudia batte in manu  incu un coppiu di que annantu a scena  so certu e percertu chi si ghiannettu si ne  vole iuga ha da fa ride sporte e spurtelelli e uttene trionfi a buzeffe     caru iuanni  sinceru e fida cume li antichi corsi ti ringraziu di a to lettera muntagnola  bella cume ato figliola  fa capu  via  per sta merindella e sona u cornu marinu  di tondu in tondu  de par tout le circondaire  cum ellu dicia cosu in francese   e dammi un bagiu    a la aqua fresca  chi quinci  un beiu che brodu tepidu 
+  s
+    </p>
+    <docAuthor>
+     Martinu Appinzapalu
+    </docAuthor>
+   </div>
+   <div n="3" type="poe" xml:lang="co">
+    <p>
+     manna eletturale  appena le elezzione  di li merri  so finite    e nun simu senza lite    chi digia pe  gni cantone   si face cun gran furore cacciamossa all eletiore   e pe u dicenove cume porta lu decreiu   chi si scigliara in secretu   mezzu a iuttu stu cispugliu di candidati loquaci   i piu attivi  e i piu capaci   i cunsiglieri surtenti so tulti sopra li ranghi   ci ne e vecchj  zoppi e ranghi  giovani  furbi  e valenti   ci ne e ignuranti e siruiti   ci ne e zotachi  e capiti   ci ne sara penserosi    ma ci ne e piu negligenii    ci emu tanti cacciadenti     e so li piu numerosi   ci ne e allegri  e ci ne e tristi   e ci ne e je mi enfiscisti   ci avemu li merracchioli   i preti e li istitutori    cittatini  e campagnoli   ci e ane u   si ellu un vi dispiace   qualchi ghiudice di pace    tutti appressu a lu granone vanu cume disperati    velenu impieghi elevati   ma cun poca istruzzione   piu so insipidi  o gnuranti   piu so fieri e so arruganti   in casa di le elettore si prisentanu all assaltu   in barrelta  o in cappell altu  notte e ghiornu  a tulte le ore   abbraccendu  st amicacci   omi  donne  e zitellacci   piechianu nantu le spalle quandu mancu omu si aspetta   e si mellenu abbraccetta a le jente per ludalie   e suffiallili  a parecchie   tulle ste cose in le arecchie      vulete esse cantuneru   o giandarme  o apparitore   guardiacampestra  o laiore   guardasciurma  o duganeru   v assicuru chi sarete  tuttu ciocche che bo vulete     so amicu di lu prefettu   e di u nostru depulaiu   e di voi emu parlalu   la altra sera in gabinettu   a numabbi ghie dispostu u ministru  a iuttu costu     si qualchi vostru parente un esame preparassi   vurrebbe chi ellu u cuntassi sopra me    chi u presidente   vi laccerlu  lu averemu prontu a fa cosa vulemn    se ci avete a u tribunale qualchi affare di interessu   so prontu a invia un espressu  se bo vulele  ancu avale     vi prumettu  e mi ne vantu chi lu prucessu e guadantu       eccu cos ellu si sente   oghie  per ogni paese   pronte  amabile  e curtese  parenu tulte ste jente   ma penseri  altri  po un hanu  chie a ngannalli  a paisanu   dunque  tu  sia cunsequente 3 vota pe un omu di core   di prugressu  e di valore  stimulosn  e indipendente  chi ellu un abbia altra passione che lu be di u so cantone 
+  s
+    </p>
+    <docAuthor>
+     G. P. Lucciardi
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="fr">
+    <p>
+     baccala per corsica quelques uns de nos sympathiques confreres entre autres l eveil ea l observateur ont commence une campagne couragense contre l administration francaise en corse ils se plaignent avec raison que la france envoie chez nous des fonctionnaires et des magistrats indesirables des hommes a tout faire pour lesquels l injustice et la forfaiture sont des moyens de gouverner ordinaires et normaux ils en concluent qu un mouvement d ecoeurement et de desaffection pour la france est en train de se developper dans n0tre ile  nous ne pouvons qu applaudir a cette campagne nos confreres ne font que redire ce que nous nous everiuons a clamer depuis des annees la corse est un depotoir ou la france expedie son rebui on accuse en ce moment et nommement un commissaire du gouvernement ei deux conseillers de prefecture a ajaccio d entrer en relations avec les parties qu ils ont mission de juger de diner et de boire avec ces partieset de rendre en prive les sentences qu ils ne feront que reciter le lendemain ils annoncent ainsi a l avance leurs fugemenis  c est la de la collusion et de la forfaiture c est a dire des crimes veritables eommis par des magistrats dans l exercice de leurs fonetions jusqu ici ils n ont pas encore poursuivi leurs accusateurs en cour d assises  qu attendent ils pour le faire c est sans doute qu ils se senfent coupables  ces fonctionnaires ces magistrats qui prennent ainsi partie entre les clans politiques qui favorisent les uns au detriment des autres qui entretiennent ei enveniment les luttes politiques qui dechirent l ile sont les pires ennemis de notre corse ils divisent pour  regner le cri de reprobation que poussent en ce moment nos confreres dont les yeux se dessillent enfin ne peut que irouver chez nous un legitime echo ils ont mis du temps a s apercevoir que la machine administrative frangaise est chez nous une monstruosite el ils reconnaisent aujourd hui que les marocains soni mieux traites que les corses  certes ils m est jamais trop tard pour bien faire esperons que nos confreres persisteroni dans cette bonne voie et reussiront a debarrasser l'ile des brigands et des coquins qui l'outragent
+    </p>
+    <docAuthor>
+     Pasquale Manfredi
+    </docAuthor>
+   </div>
+   <div n="5" type="poe" xml:lang="co">
+    <p>
+     campu santu paisanu  di la erba fresca chi copre ogni fossa u ventulelln  accarezza le cime   e le ape sante  e un alma cummossa  lasciann basg ind u verde cuprime   qui ne un ci e tombe di marmi ricconi   ma croci sole di legnu pietosu babbi e figlioli  cun servi e padroni dormenn accantu lu eternu riposu   durente la vita  umili eroi   ghjtionu fasci di esempi per noi    ceppi di helle virtu cristiane   qui chi in gloria lu cristu ne accoglie    qui so riposte paisane spoglie   qui so calate le acule terrane 
+  s
+    </p>
+    <docAuthor>
+     Rustincu di Loretu
+    </docAuthor>
+   </div>
+   <div n="6" type="art" xml:lang="co">
+    <p>
+     autori latini  apule u  lu asinu di oru  apule u  in latinu apuleus madaurensis  nacque lu annu 114 4  ci  sotfa u regnu di trajanu  a un epoca in cui pliniu  tacitu  marziale  suetoniu e giuvenale ghittavanu cu e so opare un ultimu raggiu di splendore annant a citta eterna   cume sant agustinu  u so cumpatriottu  posta chi tutt a dui funnu originari di vafrica romana  apule u fece i primi studi in sta colonia e po si nandede a circa altro a cultura di spiritu chi li mancava  visito la asia  a grecia e in quelli paesi si inizio a isigreti di e sette filosofiche  e poi capito in roma  induv ellu imparo u dirittu  essendusine turnatu a u paese  a madaura  in africa  fu numinatu decurione   filosofu  rettore  romanziere  apule u hascrittu assa  e so opare so tutte bellissime ma a u paru di certi corsi impizuttiti  un ha mai pudutu libara a so lingua di certi pruvincialisimi chi sentenu a filetta    africana   e poche pagine chi no traduce  mu oghie da u latinu  so estratte da e metamorfosi  st opara di apule u e vulsarmente chiamata vasinu di oru  parchi le autore ci  conta storie tantu priziose intorna un sumere  chi questu pare di oru    
+  s
+    </p>
+    <docAuthor>
+     Matteu Rocca
+    </docAuthor>
+   </div>
+   <div n="7" type="trd" xml:lang="co">
+    <p>
+     quant affurtunatu mi stimaria  si e pudessi alusingatti le arecchie cu u dolce susurru di queste poche fole milesiane   si e videssi chi tu un disprezzi micca cio chi e scrittu annant a stu papiriu ezizianu  e chi tu ti campi lighiendu e storie magiche chi e ti aghiu da cunta  ma prima  ti palisaraghiu quale so   la himetta in attica  li istmi di efi   rea e tenare a sparziata  rughioni felicissimi  funnu a patria di a mej sterpa  cula aghiu imparatu a lin  gua greca  e poi  essendu capitatu in roma  senza maestru e a rombu  di sudore mi so assimilatu a lingua di a jente latina  e ava  si ella casca chi ind u me parlatu si trovinu qualchi forme frustere  ti pregu di scusammi  cumminciaraghiu ci una fola greca  ascolta  o lettore  chi sare cuntente  i   es  mi ne cullava un ghiornu in tessalia  dopu di ave francatu alti monti e custere strampalate annant a un cavallu biancu  mi sintedu cusi stancu di viaghia chi mi scavalchedu un pucarellu  ci une poche di foglie asciuvedi u capu di u me cavallu  chi sgrandinava  li alisciai le arecchie  e  affinch ellu a si scialessi un zuppulellu li lintedu i freni   a man a manu eccu chi ti ne affaccanu dui viaghiatori chi chiacchiaravanu tuttu camminendu  unu di elli  dopu di essesi fattu una scaccanata  disse a lu altru      aio  via  fammi u piace di finilla cu tutte ste scimughine    avendu intesu ste parole e pigliendumi u laziu di sape di cosa si  trattava  mi avvicinedu e dissi   i    lnno  inno   cuntinuate invece u vostru sturione  non chi e sii curiosu  ma parche cercu sempre a istruimmi  e po  grazia a vostra faula  sta cullata ci parara menu dura   ma quellu chi avia interrottu cuntinuede      si  e tantu stupidu di crede a ste fole ca di immaginassi chi omu po  ci un certu batialume magicu  fa rivulta i fiumi  fa sta fermu u mare  fa casca i venti  arrista u sole  fa sbutta a luna in scinma  distacca e stelle  scaccia u jornu e stende annant a u mondu una notte eteina   tandu e u turnedi a barla  alzendu u tonu      o  tu  chi hai abartu a bocca u primu  sell un ti da fastidiu  fammi u piace di finisce a to storia   e poi  vultendumi versu lu altru      in quant a te  abbi pacienza  e ascolta cio chi forse e accadutu  sappi chi un ci vole mai a stima falsu cio chi  a prima vista  pare stranu  bizzarru o fora di immaginazio  ne  eccutine un esempiu    arriman a sera  mentre cenava in cumpagnia di amichi  mi sciacchedu una bella fetta di pulenta ma  un so micca cumu  un buccone si arristo in gola e si appiccico tantu che vissi u mumentu chi e mi assuffucava  e be  ti possu di chi a atena  davant a u porticu di u pecile mi arricordu di ave vistu  un bellu jornu  un buffone ingollesi una spada sana sana  un fu micca tuttu   dopu  stu disgraziatu si cuzzo in gola una lancia  cusi prufundamente chi ella duvia tucca i budelli  ascolta ancora   u puvaracciu fece agguanta u manicu di a lancia chi li surtia da a bocca da un zitillucciu  e tandu questu  strignendu forte u legnu si misse a fa nne  poche di capriole mi ne stava cume un casgiu incantatu  tantu era maravigliatu   turnendumi allora vers u cuntatore  dissi      finiscia to storia a  prima ustaria chi no truvemu  ci ne intraremu  e mi fare u piace di cena cu mecu     bi ringrazia pe a vostra invitazione  disse ellu tandu  maci vole che ripigli u me raccontu da u principiu  quandi vo sarete giuntu in tessalia  un dubitarete piu mancu stampa di e me affirmazione  parchi cula a jente chiacchareghia a piu pude intorn a cio chi e accadutu   prima di tuttu  paro   ci  vole chi vo sentite quale so e chi mistiere facciu  so nativu di egina  e trafficheghiu cu u mele di petna u casgiu e altre marcanzie  so sempre in ronda per i cantoni di tessalia  di eolia  e di beozia  chi aghiu parcorsu in ogni sensu  avendu saputu chi ind a citta di hipata  a piu impurtante di a tessalia ci eranu in vendita casgi bell e boni a bassu  prezzu  pigliedu subitu a bruittaper ghiunghie u primu  ma  cum elle accade suventi  era partitu cum omu dice  di u pede mancu     e tutt e me spiranze andonnu in brumuli  di fatti  a  vi  gilia  un grossu niguziante chiamatu lupu si era pigliatu tuttu    disgustatu dunque di essemi scunquassatu per nulla  andai a sera stessa a pigliammi un bagnu   ed eccu chi ti trovu a socrate  un paisanu me u  chi si ne stava straquatu in tarra  ingutuppatu ind un pilone tuttu stracciatu  paria un altru  talment ell avia patutu a fame e a miseria  omu la avaria pigliatu per un accugliancciu  talmente  chi era in  dui cri  di avvicinallu o no  infine  dumandedu     chi faci  a socrate   cosa ti e dunque capitatu  ognunu  a u paese  ti cridia addighia mortu e suttarratu  i to figlioli so stati pruvisti di un tuttore da a giunta pruvinciale  to mugliere  dopu di avetti resu li onori funerali  bench afflitta eamurciata  ha duvutu rimaritassi  cunsigliata chi ella era da tutta a parintella     aristomene  mi fu rispostu  un tuccaria micca a te di ignura la incertezza di a sorte e i troncacolli di a vita   e cusi dicendu  si appiatto a faccia ci un cantu di u so pilone  cume si elli avessi avutu u russore  tandu e u u core svultatu da tamanta miseria  porsi a manua socrate per aiutallu a pisassi  ma ellu u puvaracciu  bulia stassine straquatu  a   4  a prima visia st espressione pararia un francesisimu  invece u testu latinu dice be  sinistro pede prafecium   faccia cuparta  in fine  a rombu di prighere  ottenni chi ellu mi suvitessi  doopu che li avessi rigalatu unu di i me mantelli  u strascinedu senz altru a u bagnu  cula feciu apprunta ogni cosa affinch ellu fussi be nittatu  e u stessu u strufinai tantu e tantu chi u lozzu ne cascava a palittate   e poi u mi portu a la ustaria  li facciu pripara u so iacitoghiu  do ordine a ci omu li porga a magnuscula e a bebita   
+  s
+    </p>
+    <docAuthor>
+     Matteu Rocca
+    </docAuthor>
+   </div>
+   <div n="8" type="art" xml:lang="it">
+    <p>
+     la divina commedia ela corsica  che dante  possedesse estese cognizioni geografiche ed astronomiche   limitate tuttavia al tempo in cui visse   e fuori di dubbio  la divina commedia ne e la migliore prova  vi si trovanu menzionate le tre parti del mondo allora conosciute   molti stati  e tutte le regioni di italia  ad eccezione dell abruzzo e della basilica  in questo quadro la corsica vi figura esplicitamente citata una sola volta nel canto xviii del purgatorio  girone iv  a meta del detto canto infatti  laddove egli parla della sonnolenza che lo invade  dopo  che virgilio ha terminato il suo ragionamento sul libero arbitrio si leggono queste due terzine v  76 81    la luna  quasi aa mezza notte tarda  facea le stelle a noi parer piu rade fatta com un secchion chetutto arda    e correa contra  l ciel per quelle strade che ilsole infiamma allor che quel da roma tre i sardi e  corsi il vede quando cado   esse alludono a quella regione del  cielo   che il sole percorre verso il solstizio invernale  allorche da roma lo si vede tramontare fra la sardegna e la corsica   dante ha pure menzionato  una seconda volta la verde cirno  senza farne peraltro il nome  ma servendosi di una indicazione precisa  che si potrebbe chiamare anche perifrasi  i   nel canto xxvi dell inferno  cerchio vill boigia viii   dove la ombra di ulisse  fra les fiamme  racconta il suo viaggio  v  1o3 1o5   il tormentato re di itaca  dice    lun lito e lo altro vidi infin la spagna   fin nel morrocco e la isola de sardi   e le altre che quel mare  intorno bagna     l altre si intendono le isole sorelle  sicilia  corsica e baleari  almeno tale e la spiegazione data dai piu sapienti dantisti   sta  e certo che il divino poeta  della corsica  doveva averne inteso a parlare molto  presso i suoi  amici malaspina  allorquando fu loro ospite per parecchio tempo   chi dice due anni  13o6 13o7  nel castello  di mulazzo apparlenente a franceschino malaspina  durante questo suo soggiorno nella luni  giana  egli lavoro intorno al poema  e si lego di viva amicizia con morello cugino di franceschino   in segno di riconoscenza per la la accoglianza affetuosa avuta  nel canto viii del purgatorio  non manco di lodare questa celebre famiglia  v  124 126   i  ora i malaspina  godevano di molta autofita ed influenza in corsica fin dal 1171  vi possedevano numerosi feudi  fra i quali quelli di san colombano e di ostriconi  un  isnardo malaspina marchese di corsica  aveva tentato nel 1269  con  lo aiuto di genova  di restauraf    senza successo pero  il  prestigio un po  decaduto della famiglia nell isola   l alighieri infine  il quale conosceva  assai bene le vicende delle grandi casate toscane  non poteva ignorare inoltre  comeil padre di quel conte ugolino che gli ispiro quel meraviglioso canto xxxiii dell inferno  aveva  combattuto in corsica contro i cinarchesi  ed era del resto storia del suo tempo ia grande lotta di rivalita per la supre mazia nel mediterraneo  combat  tuta fra le repubbliche di geno  va e di pisa  la battaglia nava  le della meloria  5 agosto 1284  avendo posto fine a la potenza ma  rinara di pisa  la corsica  suo possesso per circa 2oo anni  er  caduta nelle mani di genova e purtroppo con funesti risultati per tavvenire   pe  la divina commedia fu molto letta e studiata in corsica  ed an  cora oggi non vi e  nell isola  per  sona colta  che non ne possegga un esemplare  eredita talvolta di padri  di nonni se bisnonni   rimihiscenze dantesche  locuzio   ni e parole adoperate dalle aliphie    ri nel poema immortale  si ris  contrano con frequenza nel dialetto corso  a  nicolo tommaseo  nella sua rac  colta di canti popolari corsi  ne trovo moltissime e non manco di segnalarle nelle note   parlando del dialetto che fu  di pasquale paoli e di napoleone bo  naparte scrisse     lingua che ne  popolo serba ancora modi schietti e potenti  che lamentano la pa  rala di dino ed il verso di dan  te   altrove aggiungeva di avere udito   in bocca ad omicidi della montagna  parole che suonarono tira di dante        intorno a queste riminiscenze dantesche  nel vernacolo corsa  un dotto prof  insegnante nel liceo chateaubriand di roma  sta preparando un accurato lavoro  sara un contributo simpatico per lo incremento degli studi danteschi e colmera una laeuna 
+  s
+    </p>
+    <docAuthor>
+     O. F. Tencajoli
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     idea nazionale  27 maggio 7925   amicizia  falzia  tradimentu  a una parsunella senza cunsenza  amicizia  fiatu di lucere   sposa affetuosa di le amore fata da lu cielu coneepiia   gran vertu da lu omu riverita   o cunfortu di lu vicchiatellu   o speranza di lu giavanella    la amiecizia bole le unione senze calculu ne ambizione   si cunface ci un la mudestia mimica di ogni ielusia   questa  surgente di malavoglia chi per bestesi a li altri spoglia   amicizia luce di splendore   di la to vita  campa le amore   cessa la guerra fra li stati si da te so fatti li trattati   ti voliu sempre in mio dimora ghiornu  notte  a ne importa chi ora   ma si pustighiata da falzia chi si infrugna in fo cumpagnia   sta sirena a faccia ridente ha la andatura di u serpente   trinighendusi nice nicione   per piglia piazza a u mio fucone   u tradimentu vituperatu chi di la falzia e cameratu   cintu di un paghiu di bisacce pien  di visiere a quattru face   questu assassinu senza timenza chi si ha azuratu la cusenza   si li dumandate la ragione bi da sta risposta  falzone     e certu chi  la cunscenza e morta   a si hanu magnata in ghiuellina   in sopracena  fendu ribotta   cridendu che fussi caprittina   ecuci  senza alcun russore   le ispiegazione di u traditore in cun te amicizia na ci ne e piu chi questa sia detta entre nous 
+  s
+    </p>
+    <docAuthor>
+     U Vecchiu Sindacu
+    </docAuthor>
+   </div>
+   <div n="10" type="art" xml:lang="co">
+    <p>
+     u pater nostru di ziu pinnutu  ci era missione in parocchia       tutti cuncurrianu in chiesa  a se va terdi  dopu u travagliu di a camagna  bramosi di sente a parulla di diu  cume li assitati davant a un picchiere di aqua fresca  a si viianu  in unlampl  un a   po padre  piu di elli ancora  appassiunatu di vita cristiana  cuntipuava  una sera megliu che la altra  a parla di u nostru signore  di a madonna e di a chiesa catolica    pianu  pianu  ma senza inciampu  e telle cose divine surtianu  una ad una  da e so labbre amurose e  cume rusuluccie di fede e carita  cascavanu in pioggia  da  u pergamu  sopra u core francu e innucente di i parucchiani attentivi e cummossi   versu a fine di a missione  u padre annuncio u iornu di e cunfessione    pe a piu gran pertedi i parucchiani e cose andedenu be  si cunfessonu cum ellu ci vole   venne poi u giru di a ziu pinnutu  vecchiu pastore pecurinu chi a  via fattu piu  danni chi ell unn avia capelli in capu  o    entre  ellu  in cunfessiunale  e scioglle u saccu   o      pe a vostra penitenza  li disse u cunfessore  reciterete cinque volte u   pater nostru      cinque volte u   pater nostru   ma    cumu vulete chi io facci unn aghiu tempu  o padre  criditela puru     fendu pasce e vostre pecure ne avete pocu tempu        aibo un state nulla a dilla  voi  ma unn e che a essecci cun st animalacci   ci vole sempre a para qui  e cula  alo  alo  cambiate sta penitenza  si vo pudete  o almenu  tagliate all accorta i  pater nostri     e  a misura creliu discutava  pinnutu  affannatu  e decisu  alzava a voce in cunfessiunale      u cunfessore vide  subitu chi elpavia da fa ci una chiocca dura  e  per evita un scandalu  disse a u pastore di ritirassi e di aspettallu dopu a messa chi ci averebbe parlatu per arfangia u si affare di a penitenza    sa  sorte pinnutu da u cunfessiunale  e  durente a messa  pensa  e ripensa a i cinque   pater nostri   poi  quandu u missiunariu  aprendu e braccie  si volta per lampaa la assistenza l    orates frates  stende anch ellua manu cun tre diti ritti   bi    o padre  bulemu  fa per tre   a riflessione un lascio di faride      in somma  li  dumando u missiunariu  dopu a funzione  qual e  a vera raggio di a vostra ostinazione a un vule recita i cinque   pater nostri     per tante offese fatte a diu e tanti danni  cummessi a cherica di u prossimu  mi pare chi io sia bellu indulgente versu di voi      a v aghiu detta  un ci e tempu  eppo  per dilla franca  franca  di u   pater nostru   si vo a vulete sente  mi ne so scurdatu  un sapendune manc unu  cumu vulete chi io ne dica cinque     e  per baccu   pudiete avella detta subitu  postu chi ghie cusi  u v ampareraghiu  dumane a truvacci in chiostra  a sett ore di mat  tina   lu unu e lu altru tennenu parulla e  a lyora fissa  pinnuiu e u padre si truvonu nasu a nasu     bidemu  principio u padre  e vostre pecure ne hanu nomi speciali      da a prima a la ultima  e i so tutti in punta di e dite  i    bene  qual e a prima  e cumu si chiama     eccula qui     falchetta  di nome  tre annina  un face mai danni  lampa tre litri di latte e da lana da empie e sette strapunte di saveriolu      in vece di chiamalla   falchetta    u so nome sera in avenire    pater nostru    circate di arricurdabine  fate vene a seconda    e  cardaglina  risoluta cume una gatta affigliulata  sfacciata cume a mio moglia  ma ubbidiente a u fiscu       a chiamerete  qui es incelis   e a terza       trinichella    e a piu bella di a banda     cambierete u so nome per quellu di   santificetur    f una appress a la altra  ci ne passo cusi una vintina chi currispundianu a le invucazione di u   pater nostru     pinnutu stava a sente tutte ste parulle latinesche  circava di ammuralle ind u so cerbellu  ma un ci era mezu  a chiocca era troppu dura   quandu u padre ebbe finitu      vi ne pregu  padre  cambiatemi a mio penitenza  o si no  accurtate i   pater nostri          cambia a penitenza  a pinnu  un ci e necessita  in quant a u   pater nostru   un si po accurta   davant a le affirmazione asciuta  di u padre  pinnutu si taci  ma  quand ellu li volse fa ripete i nomi novi di e pecure      un ci e bisognu  ava un mi ne scordu mai piu e in vece di cinque  ne possu chiuchiula ancu centu vinti   pater nostri    state puru tranquillu  u dettu e dettu e u fattu sera fattu     bravu  ripiglio u missiunariu  aghiu fiducia in voi ma tengu a dibbi chi quist annu chi vene turneraghiu a ghiungne in parocchia e bramerebbe rivedevi per sape si voi cuniscerete sempre e vostre pecure     simu intesi  o padre   e si separonu cume dui amici chi avianu messu u negru nant a u biancu   ci  e  passo lu annu  e u padre ritruvo u vecchiu pastore chi pensava piu a e misure di aqua  da lampa indi u latte che a u   pater nostru         ebbe  o ziu pinnu  sapete sempre a bella prighiera di u   pater nostru   a vostra antica  falchetta   cumu si chiama          pater nostru    o padre     e quiss altra       qui es in coelis      e sa murasca petti bianca        nomentuum       vi lasciate a santificetur        padre  a si ne purto u tim purale di u trenta dui agostu  e un lu aghiu piu vista     puverina  quessa chi pasce ind u scornu cum e u so nome      si chiama    o5 a malo   e quella  accantir  amen       andate in furia  e pinnu  troppu in furia  ne saltate a maraviglia  cosa ne avete fattu di  adreniat regnum tuum       si struppio pe a vergalicchia e lu aghiu fatta tumba da u traccu u trenta novembre  u iornu di a festa di   india cose   e    e di  fiat voluntas tua   di  sicutin celo  e di tutte le altre     ind  allora  padre  chi vulete chi io ci fia  mere  la una lu agliu scambiata cu dece capre diu giannettu    i  la altra a rigalai a u ciaparellu al occasione diu battezimu di u so figliolu  a  terza li piglio a malatia diu sonaue un ci fubbe riparu   un la pobbe guari mancu u ziu   juliu  matteo  a questa a mi dumando u ziu nucenziu cinnulellu chi avia troppu castagne chi  si infracicavanu in grade e luserna a vulinta  la avia da ingrassa  mi disse  per falalla a un sterpa cavalli di a penta di casinca chi face cullezzione di belle bestie  a  quinta       basta  basta  a pinnu  aghiu capitu  in somma chi       chi tant insomma  o padre  vi dumandai di cambia a penitenza o di accurta u pater nostru  e mi dissete chi a penitenza a pudiete ancu cambia  mia accurta u pater nostru  no  ed eo  benche ignurente  vi aghiu fattu vede tuttu u  cuntrariu  senza cambia a penitenza  aghiu accurtatu u pater nostru 
+  s
+    </p>
+    <docAuthor>
+     Rustincu di Loretu
+    </docAuthor>
+   </div>
+   <div n="11" type="poe" xml:lang="co">
+    <p>
+     ricordi  nebbia e sole   trilogia   un raggiu  un apertura  la speranza  balzamu in una piaga di dulore    dipoi lnngu tempu  lu mio core   si nutrisce di si unica pietanza   sottu a li oscuri di la amata stanza mi ne vo solu  senza fa rumore   e cusii  melanconicu cantore   cappiu la ultima sera a mio rumanza   e ghie lu addiu  e la sola carezza   su cantu  essenza di la mio tristezza  profumu spartu apnant a lu so sonnu     stancu e foscu lu mio sguerdu rimira versu lu nidu duv ella rispira   nunda     e cula si imbianca gia lu jornu     ci  e mi fermu  ohime  senza culore   trista pora sona di la partanza   sbuffulata dipdi di a luntananza sta muta la mio anima in purabrore   campo sdiu in le strangere dimore  incunnisciute e di fredda accuglianza   si face piu fedele a rimembranza megliu si pensa a lu spintu calore   mi sto abandunatu in lu mio scornu  nissun lume si cala in st amarezza   mai  a lu esiliu lu mi amor si avezza   indifferenza e nebbia a lu mi intornu  circhendu aintu  ln mio sguerdu gira invanu     ela mio anima suspira             sgottanu li mio pienti in abundanza ma all orizonte chi ispira terrore   volanu cume falchi le trist ore   e si stringhie ju filu di a distanza   poi ava  chi lu dolce estate avanza   sentu chi spunta in me  l un chiaru  albore  e ddpu ave speratu cu costanza     surridu all alba  e pregu lu signore   esi scola un tesor di tennerezza   pensendu a su mumentu di u ritornu   di gioia in pettu lu mio cor si spezza   custi tutt a mio sangue si ritira   ed un sguerdu interiore oghie ci ammira di agnulu un visu di stelle adornu   
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="12" type="poe" xml:lang="co">
+    <p>
+     divina misericordia  quandu u nostru  signore appiccatu a la croce umilmente pala u vile disonore   tutt ingiru la pebbe  incesa di furore  la insullava murenle e griduve  feroce   e nun ci era sullatu  e nun ci era rettore  chi nun lu minacciasse a di u gestu o di a voce  ed ellu  rassegnatu a quella sorte atroce  biulava cun pazienza u calge di amore   sollu a dura curona inclinava u so capu  e per paga a le ingiurie implurava u bapu chi ellu avesi pieta di a folla a lu abbandonu   a lu ladru pentilu andava u so cunfortu e murmurava a labbra un ultimu perdonu quandu u eorpu fiaccatu infine venne mortu 
+  s
+    </p>
+    <docAuthor>
+     A. F. Filippini
+    </docAuthor>
+   </div>
+   <div n="13" type="feu" xml:lang="it">
+    <p>
+     sia  anzi per lo appunto la va cosi  ed e per questo che la inghilterra nel giudizio dei popoli deve accomodarsi fin di ora di andarsene allo inferno senza salvazione  mentre la francia puo sempre confidare nellimbo o alla piu trista nel pur atorio  di fatti nel giorno del giudizio la inghilterra che cosa vorra metiere sul guscio della bilancia per equilibrare la ira di dior forse la leggerezza della francia  ma no  perche ella medita sempre col dito piecu verso la fronte  forse lo orgo 81o della francia  ma no  che il  giusto sentimento del volere e del potere non fa orgoglio  forse la iattanza della francia  neppure  l inghilterra si  astiene dalla stima e dal disprezzo anticipato  aspetta  giudica e onora quanto trova degno di onore  l inghilterca pertanto provera piu pesante la mano di dio per la ragione  che al tristo savio sara chiesto conto piu rigoroso che al tristo folle     badate  caro signore  la vita dei popoli non si compone  mica di anni e ne anche di secoli   onde  vedete  la inghilterra ha un bel tempo dinanzi a se per pentirsi     si  e intanto gli uomini si disperdono dentro i sepolcri       ma non i popoli  non la liberta     parole stantie  senapismi ai pedi di tutte le agonie della liberta che passano  vallo a predicare ai porri che  ammazzati i cani  saranno le pecore custodite meglio   intanto i lupi allestiscono le niaschere per il carnoyale  parole scellerate  parole traditore  come le altre che si ingegnano insinuare  i cittadini  essere cosa diversa dalla citta  i paesani dal paese  i governanti dal governo  no  per dio santo   e formano tutti una cosa  e se il governo e tristo  fa conto chi ei sia il gavocciolo  e i governanti gli umori pestiferi che lo creano     mio caro signore  bisogna avere  avvertenza a questo  che i governi  quantunque potentissimi  non possono mica sempre tagliare la veste dalla pezza  i mali vengono a capitomboli e se ne vanno con le grucce  e chi sta su la fossa piagne il morto  assicuratevi  signore  che nelle faccende pubbliche se  invece di tirare a modo e a verso  taluno si aviasse dare uno strettone  correrebbe rischio di trovarsi con la  corda  strappata in mano e le gambe per aria  o    che strettoni farneticate voi  che strappi   ora la inghilterra ci ha prumesso roma e toma  e dopo avere aizzata la corsica a ricuperare la liberta  la lascia in asso  tale altra viene  vede  butta bombe e granate  piglia bastia san fiorenzo   e pare la voglia sgarare con ia francia finche le rimanga pezzo in mano  di un tratto caglia  lascia li sacco e radicchio  ha fatto pace  sodisfatta lei  contenti tutti  e a cui si muove guai  allora proibisce che qualche anima buona ci socorta  ci condanne a morire come cani arrabbiati  di angioli diventammo demonii  a bandirci uomini dabbene non ci trova piu conto  le torna meglio adesso di chiamarci ribaldi    accomodatevi   ella urla nel nuovo furore di pace   accommodatevi come potete     ahime   noi rispondiamo   a noi e dato accomodarci tranne nelle fosse del campo santo      bene   replica 1 inghilterra forbendosi le labbra  eanche costa si trova pace       e rispondendo alla terza domanda   disse il boswell   quale domanda      e vangelo   esclamo il co r so  e prese un mazzolino di mughetti che gli stava accanto sul banco e  sollevati gli occhi alla immagine della immacolata  riprese      era per lei  ma adesso lo prefferisco a voi  e la nostra avvocata non se ne arrechera di certa     per lei fu colto e a lei sta bene   rispose il boswell alzandosi e facendo quello che forse aveva dimenticato il signor giacomini  cioe porre il mazzetto dentro un bicchiere davanti la immagine  nel riassettarsi perd   vide il corso  il quale  rannuvolato da capo  sfondava col temperino i fogli che teneva sul banco  successe un silenzio lun  go  per ultimo interrotto da un sospiro del giacomini  cui tenne dietro la dolorosa esclamazione od interrogazione      ma ahime  voi siete inglese        si certo  la dio grazia  avreste per avventura in uggia gli inglesi  signor giacomini      eh  glinglesi no  la inghilterra si  a me gli inglesi paiono tante partite di un conto corrente scritte dagli angioli  la inghilterra poi la somma tirata dal diavolo in persona   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

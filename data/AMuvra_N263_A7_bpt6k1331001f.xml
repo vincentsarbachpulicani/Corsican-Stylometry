@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1331001f
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1331001f
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 263 | Année 7
+     </edition>
+     <date>
+      1926-08-15
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     anna VII —Numatu 26)... UU CU U 1" Esce à Dumenica 777 7 7 "U Dumenica 15 e Dumenica 22 Agostu 1926  A MUVRA  GIURNALE DI E PIEVE DI CORSICA  mi : ABBUNAMENTI:  mcCorsiea. &lt; - . « . . . . . . . . . 42 franchi  In Francia. .. :..'.......145 »  sà YEsteru. . - ...: ...... 25 È)  U Numaru:4 soldi  Direttore : Pétru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     a fisula rossa  citta paolina    sabatu sera e dumenica  tutfa la isula  rossa  era sottu sopia    co cu locu ca    ci era  u piglia pata e teni cu a  cumuna di parapiglia in riprisintazione    15oo   parsone u sabatu e 5oo a dumenica  artisti amatori chi pare chi elli un  abbianu mai fattu ca a cummedia  cume professione   un merru ci un cappell altu  e certi cabelli longhi cusi   e a so filacchina e a so voce  e le so lunette  un  veru merru vi dicii  chi si ellu campa puo fa ancu stravede    sii  a chi un ha  vistu a padovani  pitti  in fantanega  zia  sacra  cu ui duttore un  ha mai intesu  sbilliga  u so corpu   quessu e una funtana di risate e di gioia   una  ricchezza par la isula  un bonu cumpagnu a incuraggisce in tutte e manere  sta volta   padovani avia organizzatu  a festa par curipra un atmonium a la chiesa   ogni opera santa e  patriotta u trova sempre prontu cu lu corea la    u  diputatu era  pasquale ceccaldi   in sariore chi si ellu piglia se francie guadagna piu cacue tesore   vi io     savelli  e  franchi facianu more di risa  cu birbantellu e calavrone  olivi  u juidice  si magno quellu caprettu sanu e scucagnatu  u stimadore ambrosini era u  veru paf fa lespertizie chi collanu  e  falanu  dorotea e falchetta  avianu trovu in j  luciani  un artistu dimarca  tante acclamazione a u pueta alfonsi  a sinibaldi u pupillu a le istitutore pianaccha orticoni fi  a di  padovani acanioni cu u so mantellu  a allegrini  battestini  savelli cu a so gamba  a vera par scufe e noce   pe      tutti artisti pupulari e allesfi chi facenu piace a vede      mi scurdava di gregori  un fantadore chi ha centumila libre sterline in gola   cusi bellu ajacciu bellu  cantatu cu a ghitara da su rusignolu       ava eccu un  bouquet  di damicelle  graziose e scelte  fatte a  u pinnellu chi caritanu e ingantanu a piipulazione   allegrini j er   martelli ti       padovani   a  savelli  a  doriano  o o   anch eji fecit  pulbariccia cu a canzona di u cuccu  stampatg di rigalu da petru rocca  ne direttore di   a muora 5 e vinduta a pro di l ar monium    88  frs 3o di risultatu    un mi possu scurda di lonori chi tutti i paisani mi hanu fattu   generosi  amabili e allegri viramente a citta paolina e ristata corsa e pura  u so merru  savelli  stimatu erivaritu  cuntenta a tutti  u canonicu martelli di quella chiesa  ne ha fattu un giuellu  u cunventu di  e sore e un mudellu di educazione   la isula rossa  annannata da u mare  fundata da u babbu di a patria  e un tesoru di billezza  un nidu di fierta chi da fierta a tutta a corsica 
+  s
+    </p>
+    <docAuthor>
+     Maistrale
+    </docAuthor>
+   </div>
+   <div n="2" type="poe" xml:lang="co">
+    <p>
+     a secchia  u descn ditet a taadia     chi bi piglia  unn e quessa   scummettu mezz arecchia chi a megliu mansarizia di a famiglia e propriu que  figlioli  e propriu e secchia  ogni mamma di sennu e persuasa i chi a secchia e a pravidenza di a so casa   si ne sta  a secchia  in cina di pacquagehiu  chinota in tronu cum una riggina   zitta e bassa  ma anch ella he usolinguagghiu   mustrendu nant un manicu a stagnina   mi sembra chi ella dichi    ne vulete   eju so  pronta a spegne tutte e sete    senz acqua chi si face     la acqua pura ci disseta  cu la acqua ci si lava   pe u pane e pe a pulenda  pe  a cuttura di i cibi ci vol acqua    oh  un ci pinsava      e sara hera     dicenu perfinu  chi  la acqua serbe aspessu a facci u vinu     ma la acqua di indue vene  ete a surgente viva in de a vostra casa   a ci furnisce a secchia  in casa roba e ghiente   quand ella sona jota  ci patisce   mapoj  si da a funtana torna piena   ogni faccia ammursciata si assirena   evviva a secchia  dolce pruvidenza   circata da i majo e da i chiugalelti    evviva a secchia  cerca  all uceurrenza     da e vistiole di casa e da li aggelli   evviva a secchia  chi a lu istessu logu     face volle e vallofta  e spegne u focu     si alzanu munumenti a le imbintore di calchi nuvita utite  e a vita      bene     e agghiu vistu quellu di u cantore chi in bersi celebra a secchia rapita   ma di un bel munumentu un saria degnu u geniu chi imbinto a secchia di legnu   a su benefattore sminticatu si dee ricunniscenza in tuttu u mondu   e si calcunu li si mostra ingratu   chi ellu fermi a so sechia senza fondu   a mo pare  si anticu areivabbone mireta piu ca ua gran napulione 
+  s
+    </p>
+    <docAuthor>
+     U Babbuziu
+    </docAuthor>
+   </div>
+   <div n="3" type="poe" xml:lang="co">
+    <p>
+     quadretti  musica di estate   o dulcissimu cantu di le estate   soave o lentu  lindu a masstosu   voli cun l olezzii di e tanfate chi passanu in lu eelu luminosu   sguilli lieve  cume un passu di fate    guasi in silenziu  callu  voluttuosu   bagni intte le cose insonnulate in soffiu longu  lassn e deliziosu     colli da le onde e fali da le stelle   in le cime  li bosche  e vallicelle   simile a mele cola  langnidezza     le ale piegate e vocchi mezzi chiusi  zeculata da si soni cunfusi   sogna di basgi la alma  in la stanchezza 
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="4" type="let" xml:lang="co">
+    <p>
+     lettera da parigi  caru cumpare   dopu a santa merindella di merusaglia  li acelli cantori si so sperpigliati  in ogni scornu di la isula  senza da segnu di vita  eiu  forse saraghiu scusatu  perche mi aghig tiratu un bulu luntanu  sin a parigi  da duve vi mandu stu litterinu cum ellu casca   vi diceraghiu  in corte parolle  caru cumpare  chi u mio viaghiolu si e passatu mezu be  a nostra corsica mi e apparsa cusi magnifica  traversendu li oliveti di a balagna urlati da e fascie a mappagliule turchine di u mare   u trinighellu di balagna  modellu di i treni per santavuglia u stomacu   fini per lampammi a la isula rossa  a citfa paolina  giuellu incastratu nu u purfiriu russignu  solu solu  a mi spassiava in piazza paoli sottu i platani meditendu davanti u bustu di u bapu di a patria  quandu un giovanu di trinca mi si presenta dicendu   un seriste micca mertinu appinzapalu         forse di si ti e boi      eiu so vincensini  nativu di vivariu e inguazzatu a la isula  pigliemuci lu aperitivu e andemu a fa cullazione  ci e ancu martini anch ellu di vivariu  sapete chi qui  le autore di trinnighellu e altre cose  e cunusciutu   quantu volte cantemu u fa  fa  ta          pensate  caru cumpare   si io fuiu cuntentu  o bravitu corsa  fiore di a nostra razza  cume tu spunti  naturale e imbalsami la anima   cu sti cumpagni scorse alegra a meza iurnata   u tempu mi fu cortu  e mi iunsenu a u pede di a scala di u batellu  a la ora precisa di a partanza     a  i  u batellu  parlemune puru  in corsu ein francese  chi pezzacciu di sueru e chi bergogna   i passagieri di terza la classa stavanu tutti aggrupulati arinantu u ponte esposti a u libecciu chi suf fava senza un pezzu di tenda per co presi  u capu   dicenu chii corsi so fieri   fieri eranu una volta   oghie  si lascianu macennula da fressine  da funtenu e da i tazza carne  senza  mancu move un cigliu   un bi possu di u mio crepa core    sti viaghiadori parianu tanti emigranti disgraziati cundannati a insulca le onde  senz umanitai  a fora di a cena  u  batellu fece quattru salti  maestri  volsu tasta un cucchiaru di brodu  ma a a prima liccata  mi si volta u feiatu  addiu   u  lindumane   cu tre ore di ritardu  sempre tirendu u maestrale fina in portu  scalai in tulo e da tulo eccumi in parigi    era dece anni chi io unn avia messu pede qui  ci aghiu trovu pocu cambiamentu  a citta lume e fiara si rumena immensa cume un gran furmiculaghiu sottu a nebbia e la acqua chi fala  di sole un ci ne e stampa  si sente a friticina mane e sera  e cusi tutte e parigine portanu iacchette e mantelli cume di inguerno  maniche corte e bracci nudi  micca  ci vole anda in corsica  per richiarissine lu occhiu  ma capelli tagliati  ci ne e a ogni chiocca chi passa  vecchia e zitella  un si po fa un passu senza sente parla lingue di tutte e mamme   un si po mettesi a taula in di un ristorante senza truvassi accantu a inglesi denti longhi  a giappunesi scialbidi  a pulacchi  a cecchi  ecc  in quantu a i cherrugki  so tutti pieni du ruspi chi collanu e falanu  e a mez a si ruspi iucichenti e petadori  di quandu in quandu  si vede un agente di pulizza   cin bastunellu biancu in manu  per falli segnu di pianta   sottu terra poi ci e u mefro  un trenu fulmine chi passa indiaulatuscatinendu subissi e sempre colmu di iente  credu chi st metro sia un beru tumbatoghiu pe a povera giuventu dilicata   ci si sbuffula  un ci e aria      bi diceraghiu chi io aghiu rivistu uni pochi  di amici e in particulare i parenti di u paesi e quelli di muraccioli  muracciaschi ci ne e quatordeci  e ci ne iunghie torna un coppiu  dopu dumane  aghiu datu un aggnardata a i prezzi di a mangnusca  mi pare piu a bonu pattu che a u castella  li agli e u peveru so i piu cari  una testa di agliu trenfa solli   fate sape pe a corsica di tondu in tondu chi la ora e sunata di pianta agli  a chi bole fa furtuna  altianinchi si sbaglionu  una volta  ma chi elli torninu a pruvalla    una testa trenta solli   ziu indria di venacu mi ha dettu   scrivite chi elli piantinu ancu i piveroni chi quinci un ci maturanu e u peveru e troppu salitu  aio  cari paisani  datevi di core  ancu cu i piveroni  oghie si po fa ricchezza      bi diceraghiu  caru cumpare  chi per me  parigi conta pocu e un ne cascu innamuratu  piu mi piacenu i nostri paisoli  e case corse inariulate e corcie che i so palazzi  aghiu traversatu a  piazza di a cuncordia e bistu u palazzu birbone duvei nostri deputati stanu a coglie ventu  si parla sempre di a situazione critica di e finanze  rimedii boni un si ne scopre  ma per fa qualcosa cambianu e ricambianu i ministeri  sottu sottu cova a rivoluzione cumunista e per suffucalla  di colpu  si approntanu e squadre di acrion frangaise  videremu cio chi si scatinera  noi  ci ne steremu  a la luntana  nantu i nostri monti  circhendu di da forza a e nostre ide e  ci    mi tarda di rientre  credu chi  di passata  sta volta ci videremu prima chi io mi appolli a u castella  intantu  mille saluti curdiali 
+  s
+    </p>
+    <docAuthor>
+     Martinu Appinzapalu
+    </docAuthor>
+   </div>
+   <div n="5" type="art" xml:lang="fr">
+    <p>
+     ponte novo  roman par sebastien dalzeto 1   un peuple conquis perd de son ressort sa mentalite heurtee par celle du conquerant se transforme il subit l inexorable loi qui veut que le fort absorbe le faible son ennemi etant ainsi devenu son maitre il suivra fatalement sa destinee il applaudira a ses succes s alarmera de ses revers et ayant mele son sang au sien sur les champs de bataille ce lui sera une consolation de se pretendre de la famille de celui qui pour se l annexer mit force mauvaise foi et violence au service de ses moyens   ainsi parle pierru l'agitateur fondateur du journal ponfe noso qui essaye d exhalter l'ame veule de ses compatriotes en prechani une doctrine de renovation corse et ces paroles que beaucoup refusent d entendre sont eclatantes de verite  c est le sort de bien des corses  j allais dire de tous  qu il vient de definir dans cette phrase bt cette citation nous aidera a comprendre le dessein de m dalzeto en ecrivant son ponte novo mettre en conflit dans la personne  combien symbolique d un corse deracine ayant fonde une familleloin de la corse a paris  qui a la suite de circonstances fortuites et la nostalgie aidant est ramene au village natal mettre en conflit dans l ame de cet homme qui n est plus tout a fait corse et qui n est pas francais des notions acquises avec des sentiments naturels qui sont aux antipodes conflit qui reside et qui est favorise par l impuissance de notre heros a distinguer d ou vient son malaise et l attribuant a des causes inexactes  ce malaise dont souffrent bien des corses tient a un manque d analyse a un desequilibre de l etre resultant du manque d affinite absolu entre la nature intime et profonde de cet etre et la civilisation qui l a enduit d un vernis fallacieux  l interet du livre reside a mon sens dans ce combat quise livre au profond de l ame l intrigue qui alimente le recit un peu trop singuliere peut etre vraisemblable cependant sert d illustration a lathesesoutenue et que l on ne croie pas puisque je viens de parler de these que ce soit la un roman concu comme un theoreme stcomme tel s eloignant de l observation directe des etres et du milfeu c est un conflit intime une tragedie interieure et le drame la est plus tragique pent etre que les autres et meme si je dois l avouer il me parait que m dalzeto nel'ait pas asseztraite en profondeur mais c est un roman qu a voulu ecrire l auteur et il lui a fallu tenir compte de l'equilibre e en voici le schema quilicus deltini est un deracine il a quitte son village a 19 ans et voila tantot vingt ans qu il n y est retourne c est un impinzuditu dans toute l acception du mot et cela d autant plus qu il s est marie hors de corse et a fonde une famille c est la mort de son pere qui va le ramener chez lui cette reprise de contact avec la terre mere reveille en lui son instinet natif  qui s affirmera et voila qu il decide brusquement de quitter paris pour revenir au village de folacce avec sa fille ce qui lui sera d autant plus facile que sa femme une pinzuta est morte  le revoila dans l ambiance de sa jeunesse cela ne se passe pas sans quelques heurts quilicus a renoue avec ses amis d enfance notamment avec son cousin pierru l agitateur qui etaif collegien alors qu il etait berger ce pierru apres une existence passablement agitee s est de fitivemient fixe en corse ets est fail l apotre de la renaissance corse nous reviendrons sur lui  disons seulement que le nom d agitateur qu on lui a donne il le merite et qu il l est peut etre mais a la manie re d un sanbucuccio ou d un sampiero ce n est pas en vain n estil pas vrai que l on derange des habitudes acquises fussent elles fondees sur une lache quietude mais pierru n a cure de cela et comme jui disait l abbe deltini audaces fortuna juvel  quilicus dispute longuement avec pierru ct1 on devine le sujet de pareilles palabres  c est ce que jaile plus goute pourtant ce n est pasen plus  j  vain que l on reprend pied dans un o uii a ara village de corse quilicus qui d abord a resiste estrepris par soninstinct natif de corse ilse laisse prendre dans l engrenage de la politique iocale c estainsi que nous assistons a la lutte pour la mairie m dalzeto a su rendre cet evenement si corse avec realisme et verite la plume alors incisive nous decouvre avec la froideur d un chirurgien cette plaie hideuse cependant quilicus pa emporte il sera maire c esta partir de ce jour que va se jouer le drame qui ensanglantera le village et achevera de jeter lame meurtrie mais toujours indecise de quilicus dans le plus complet desarroi  sa fille et ici l intrigue se corse s est eprise du bandit falchetti qui vient ja voir toutes les nuits dans sa chambre sans cependant qu elle se doute qu elle a affaire a un bandit i avait ete presente a son pere mais non sous sa veritable identite insaisisable et mysterieux il passe la nuit a folacce et ie jour a ajaccio les gendarmes qui le traquent en sont pour leurs frais cependant fabiu un amoureux econduit de jeannine c est la fille de quilicus  nourrit un depit croissant d autant plus que quilicus1a lui avaitpromise en mariage  bien qu en subordonnant son consentemeni a celui de sa fille  s il votait avec les siens pour sa liste de nature vile et de caractere lache ce fabiu qui appartient a une familje de delateurs  taglione est son surnom  veut se venger li denonce le bandit qui est tue dans une embuscade alors qu il venait de sortir de la chambre de jeannine coup de theatre sa fiancee qui est restee pure s evanouit sur son cadavre cependant la rumeur publique accuse taglione de cette basse vengeance jeannine exasperee le tue elle est cependant acquittee desabuse desil lusione quilicus qui s est demis de ses fonctions de maire decide de quitter la corse  qu il rend seule responsable de ses maux et alors sur le bateau qui l emporte quilicus par une analyse inconsciente de luimeme comprit que quoiqu il fit ilne seraii jamais qu un corse rien qifun corse frotte d une civilisation qui malgre ses bienfaits apparenis avait fait de lui le plus malheureux des hommes   telle est reduite a l essentiel l intrigue du roman disons tout de suite qu il se lit avec un interet sans cesse croissant et que nombre d episodes qui peignent certains cotes de la vie si reduite de nos villages sont tres bien venus la mort du vieux pedrone la foire de la santa les elections sont autant de tableaux brosses celui ci avec art et emotion ceux la avec verve et humour l ame desemparee d une corse que revetent de facon plus attristante que comiques des oripaux qui la defigurent passe dolente lassee triste entre ces lignes desenchantees en revanche une indignation contenue mais bouillonnante anime l auteur qui l exteriorise par la voix de pierru et c est le cri d une conscience male qui se raidit et se revolte contre l etouffement qui menace notre pays  il m a paru cependant que le style est un peu flottant et qu il aurait gagne a plus de nettete il ne manque pas de rerf cependant il est riche en outre de proverbes dictons sentences apophtegmes empruntes an parler savoureux de nos campagnards ou au folk lore tis gonflent d une seve ardente et bien nostrale le recit ou passent par bouffees des senteurs de maquis  ii appartenait a l auteur de last canonica et de notre maquis de  nous doter d un pareil ouvrage  c ou est pose pour la premiere fois  EUR le probleme si delicat de la franci sation des corses cette antinomie  entre notre nature de corses et la civilisation dont nous sommes frot  c 16s bien superficiellement  que  PS peut elle engendrer est ce un bien  1 est ce un mal pour nous de l accep   ter ou plutot de la subir sans que  nous puissions demeler exactement  1 ce que nous avons profit a garder  1 et ce qu il convient que nous reje   tions m dalzeto demontre victo   rieusement que cette autonomie estun mal  rametta ponte novo et voila pourquoi il a donne ce titre au roman pontenovo doit etre la pierre de touche  avec la quelle on eprouve le temperament du vrai corse ponte novo fut it un bien ou un mal pontenovo en laissant subsister ce que nous avions de mauvais nous prit le meilleur denous memes ce fut un grand malheur les ravages de l annexion d abord benins s e tendirent envahissants et ce fui la decheance on ne demeure cosse qu a la condition de se preserver de tout contact etranger  ou encore pontenovo fut um bienfait pour les politiciens astucieux qui en vivent un desastre pour le pays tout entier  telle est l opinion de pierru cela lui vautd etre accuse de mener des campagnes anti francaises anti francaises certes elles peuvent l etre si l on s entend sur la signification nullement pejorative de ce mot car  estce de sa faute si notre paye est dans le marasme si la cote orientale est le regne de la malaria et de l anophele si sartene est le seul coin de france ou l on ne voit pas de chemin de fer si fraissinet nous exploite si depuis cent cinquante ans aucune preuve de protection d assaissinement  aucune  preuve  de sollicitude ne nous a ete donnee en jugeant ainsi on risque de qualifier d'apti francaise toute revendication corse allons donc notre devise a nous est corse d abord que d aucuns disent j ai fait de la  france ma religion avec une tran  quillite qui serait cynique sans une  certaine niaiserie voila qui est  etrange etia corse malheureuse    tel est pierru l apotre de lare  naissance coise qui avec un coura  ge jamais lasse poursuit sans se  rebuter une oeuvre renovatrice  qui se heurte ici a des preguges la i aune honteuse quietude tel est  pierru grande et forte figure d apotre dont l ame a ete trempee par les vicissitudes et qui de ses frictions avec les difficultes de l exis  tence a su tirer des enseignements dont il veut faire profiter ses compatriotes entendez le  on neravit i a liberte qu aux emes d esclaves  l homme qui veut etre libre l'est  jusque dans ses chaines le pain' de la liberte n est pas une aumone qui se dispense c est un bien inestimable que l onporte en soi daris la plenitude d une fierte dont la grandeur ne semesure pas  un corse comme pierru n'est pas de  ceux qui se laissent attendrir par les comiques voyages de quelques parlementaires en male tourisme ni intimider parleurs discourscyniques et 6 paradoxe  servilement applaudis il sait pierru que le remede ne peut etre donne par eux eux qui sont incapables de gouverner leur pays et donnent au monde un triste et avilissant spectacle dont on rirait en de moins tragiques circonstances nu u mais alors ce pierru veut l autonomie  oui et il va meme plusloin et tous de crier que la corse ne pourra jamais se gouverner toute seule que toujours et alors bien davantage elle sera la proie sans defense des factions et des clans qui s entre dechireront chansons que tout cela l atuel etat de chose empeche t illa lutte des clans ces luttes steriles qui n engendrent que la haine parcourez la corse au mo ment des elections et vous verrez  luttes intestines luttes fratricides partout croyez vous que cela serait pire sila corse etait sous un regime de relative autonomie allons donc voyez plutot notre histoire sampiero giafferi theodore pascal paoli vous rie citez que les luites moyennageuses des caporali certes on ne peut demander aux hommes des societes ideales jamais troublees  cela n'est pas humain  mais un etat de choses meilleur que l actuel vraiment croyez vous qu il soit si difficile a realiser  je ne finirais pas de m indigrer si ja place ne manquait al mm i e et c est la le cote moral le cote educateur de ce livre que de faire sur gir dans l esprit du lecteur d innombrables reflexions ce n est pas non plus son moindre merite que de nous forcer d accorder notre attention a d aussi actuels problemes in  teressant de facon si directe l avenir de notre pays un esprit nouveau comme nous l avons tant de fois constate est ne en corse qu on le veuille ou non cet esprit nouveau  s inquiete d'une situation qu il devi  ne sans issue et c est la un signe des temps car jamais depuis des annees  on n avait eu la penetration ni le courage il en faut de m dalzeto pour mettre a joua un semblable conflit concretiser d aussi confuses notions c est maintenant chose faite que m dalzeto en soit remercie si ses autres livres avaient choque en nous certains sentiments celui ci nous comble entierement voila pourquoi nous voudrions voir son livre entre les mains de tots les corses  beaucoup d entre eux pour raienten tirer profit car il met a nu et touche au vif bien des choses que pour ne pas les avoir comprises on avaitrejeteesdansl inconscient c est la raison pour laquelle nous avons discute si lofgu ment e sans doute fastidieusement  tous les points quoiqu il en soit disons pour terminer que cette tragedie intime toute cornelienne qui met aux prises un corse tiraille entre deux civilisations antinomiques est poi gnante emouvante et pleine des plus  profitables lecons pour qui saif lire let n a pas peur de comprendre
+    </p>
+    <docAuthor>
+     Matteo Cirnensi
+    </docAuthor>
+   </div>
+   <div n="6" type="art" xml:lang="co">
+    <p>
+     cronaca aiaccina  1 stranieri   sbarcanu a centinaie in tutt i porti di la isula chi elli bercorenu di notte e di jornu  di e statistiche di a cumpagnia frassinet risorte chi venenu in corsica  vinti per centu di francesi e seftante per centu fra tedeschi inglesi e americani   li automobili    a nostra pulizia cusi severa pa centu cusarelle un e sfata ancu capace di mette a u passu di a ragione i cunduttori di autombioli chi capulanu ste strade e sti viali aiaccini a troncacollu a urisichu di pruvuca accidenti mille volte tutt i jorni   automobili ne passa a duzine  a mezziornu cume a mezzanotte  suvenfe a piu di cinquanta chilometri a la ora   fi ps pa sp  ta more  in li carrughi duv elli si trovanu e stalle pe sti cavalli muderni un si ne po dorme ne notte ne ghiornu  li automobilisti un hannu riguardu ne pa sani ne pa malati e a chi un e cuntentu si ne sfia       dumandemu a i riostri ammistratori di metteci bone ordine  par carita      chi tutia jente adrittu di campa   un scandalu  i   2 batelli di acumpagnia frassinedracut and  co hn e  dragut and  ci   cuntinuanu a ghiungne e a parte carchii zoppi di passaggeri  un e rara di vedene franspurta ottu centi e mille in diiv elle ne andafid regularmenie cinque centu a u piu  i i  ci permettimu di dumanda a i manfenitori di sta cumpagnia e a dragut ellu stessii cio chi ellu accaderia si ellu ci fussi qualchi accidente maritimu     i ciottuli      un altra volta quandu si avaranu da decidea tappa i fossi   colmi di acqua  chisi trovanu corsu granval  in faccia a piazza di u diamante   i  mi as tu vu    ne so aricu morti titti  ci ne ferma sempra una mezza duzina chi facenu  focu     e  cenare  sopratuttu quand ellu hanu pigliatu una sbornia   allera po si chi so curaggiosi  cu e donne e i vecchj  a rivolvaruin stacca   diu vi salvi da i  mi as tu vu  giaccini   un stranieru      di passaghiu in aiacciu dumandava a una damicella  fresca e sana di corbu ma micca di ciarbellu  parche ella si frigingava di rossu e maschette e  si infarimava u musu  a dainicella rispose chi ella avia lettu u libracciu di lucie delarue mardrus  embellissez  vous  mesdames  fardez vous      e feste di a santa  maria     a le occasione di lu anniversariu di a nascita di napulione prima  u partitu bonapartista ha fattu e cose cu mi ellu si deviva     a dumenica malina a 9 ore e mezzi  messa in musica a domu  a surtita giru di citta  a ondic ore appiritivuu di onore a u caffe napulio     u dopu mezziornu corsa di barchet  te  po jochi  corsa in lu saccu  cu lu ovu     ir la cucchiara  cu a gierra  corsa di  a sera cuncertu datu da musica municipale e un magnificu focu di arfifiziu in mare   li aiaccini di tutti partiti ne so stati cunfentissimi e u cumitatu bonapartista merita sincere felicitazione  i panatteri    scuntenti di esse custretti di vende u pane cinquanta soldi invece di tre franchi i nostri bravipanatteri  micca tutti ma quasi   hanufattu un picculu scioperu    7  e bella ca capita e megliu di fa cinquauta franchi di benefiziu u jorni ca quaranta  ma  po  si spera chi ella ha da finisce un ghiornu sta cueagna     la acqua   e aftagnata a maio parte di u tempu  e propriu un scandalu e una sfacciatezza  forse a raggio si pudaria truva ne e nove canalisazione fatte ingiru a yusine a gaz     chi ne dicenu li amministratori   li cunsacraremu prossimamente un arficullu detagliatu  di  u vescu  le emozione e grande in aiacciu parchi si parla  per succede a monsignore simeone di un vescu francese       noi cridemu chi a voce chi corre un e che pura fantasia o desideriu di brefettur 1   i veschi di corsica dev essenu corsi  u cleru isulann un ha micca dimeritatu  chi no sappiamu  
+  s
+    </p>
+    <docAuthor>
+     Ghiattu-Pinnutu
+    </docAuthor>
+   </div>
+   <div n="7" type="poe" xml:lang="co">
+    <p>
+     in ricordu di le unione di madamicella maria sinibaldi e di u sgio ghian  ne battista ottaviani  dopu ave betu e manghiatu permettite  o cari sposi   chi un pueta strampalatu ma cu li versi amurosi   bi presenti in st occasione 1 voti piu generosi   o jornu cusi felice   da voi tantu aspettatu   u culombu a la pernice oghielu vegu accupiatu   una simile unione per me chi sudisfazione   e stasera lu signore pregharaghiu cun primura   faccia chi lu vostru amore sina chi sta vita dura   bi colmi di cuntentezza pussibile in sta natura   a vostra luna di mele sia di longa durata     e sempre porgu lu ciele quandu site in campagnata   chi lu vostra rusulaghiu fiurisca tutta la annata   so li vostri genitori   cu tutttu ja parentatu qui per rendevi li onori accolti tutti a lu latu   di lu vostru paisolu   o chi numerosu stolu   quantu cori in stu momentu  so di gioia citcundati     eo da qui batte ji sentu di li giovani spusati   ognunu prega per elli sianu vecchj o zitelli   di la votra cuntentezza un  si ne soffia parola   di bedebbi a boccarisa e cosa chi mi cunsola   mi ramenta i tempi andati lu fi f chi mai nun so turnati   in fine cume rigalu   u solu chi io possa fa  ghie di mandabbi un cantaru di salute e benesta  chi elli crescinu a sturnelli ogn annu li piugunelli 
+  s
+    </p>
+    <docAuthor>
+     Ghiuvanni Olivieri
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     risposta a prete tittu  si un errore mi arrivava   quand era un giuvanuttellu   babbu a me mi pardunava dicendu   lu mio zittellu   bai  bai  un ci e gran male  si sbagl anc u pret a le atare      di prete tittu  piaciutu mi e u sunettu   piu bellu scrittu un avi ancu lettu     ma di scriv ellu   ci vede   que nisunu a ci pd crede bi intrighe di sape u nome di u di occhiatane   un sapete chi u cognome mai elu si alluntana   minimu di un senmibialla     un ba chi a u figliol di u babbu  malgrad ellu sia a seze     bo l abbiat addirizzatu lu sunettu  e sgio cnratu   a risposta tocc a me   un siate puru stunatu ne dite   mi   mi   u scimpiatu   chi bole appuntu fa crede chi ell e ellu le autore ma qui ci e ghiente di fede     chi un si sbablienu per more   bole in piu e senza fallu fa crede chi cristu e un gallu   purtant e un vera chi dede lu conturesu di e pentecoste a lione   a v affirmu e chi e sia appesu     se racontu una bugia e u figliolu di lucia    di ailleurs ne dit on pas  que la souri souvent sccouche di une montagne      e u so casu  duvete di  forse e bera e un mi ne langnu chi cusi bole in verita le attuale sucieta   dunque di apress a stu dettu chi aghiu azardat in francese bi faretie a e mo spese  un bellissimu cummentu  e un truvarette piu bella quella povara litiarella   tantu peghiu  a sgio prete  e bi stringnu quantunque e sinceramanfe a manu 
+  s
+    </p>
+    <docAuthor>
+     Buvone
+    </docAuthor>
+   </div>
+   <div n="9" type="div" xml:lang="fr">
+    <p>
+     le president donne lecture du decret paru a v officisl du 7 aout prohibant ja sortie ainsi que l exportation en suite d'entrepot de depot de transit et de transhordement des bois bruts avec on sans ecorce de circonference au gros bont superieure a 60 centimetres a l'exclusion des bois de mine des bois equarris ou scies d epaisseur superieure a 123 milimelres ete   n ajoute que ja promulgation de ce decret a cause en corse une emotion considerable if aurait pour effet s il etail mis en application de paralyser la branche la plus importante de activite commerciale de l ile de causer un arrotcomplet dans lesexploitations forestieres et enfin de causer de graves repercussions economiques pour la raison que les bois corses sont exportes presque en totalite en italie et en espagne o x le consinent francais n est pas acquereur desbois corses parce qu ils ne se pretent pas aux travaux de menuiserie au surplus les voiliers francais appeles par privilege a exercerleur cabolage entre la corse et le continent francais font totalement defaut  ces voiliers du reste n accepteraient pas comme les voiliers italiens d operer leurs chargements sur rades foraines sur les diverses plages du littoral  x  c est pour ces raisoris que le commerce des bois corses n a jamais pu faire l objet de trai sactions commerciales appreciables avec le continent francais   les bois corses ont trouve en fout temps au contraire des debouches permanents et reguliers en lialie pour les gros bois destines a la charpente et a la construction des navires en espagne pour les bois en grume pour la caisserie e dans ces conditions la mise en application du decret de prohibition du 7 aout aurait pour consequence immediate un arret complet dans la vente des hois corses  il entrainerait par suite une crise economi  que d une excepfionnelle gravite en effet les  exploitants corses ont passe des marches im  portants avec des maisons d espagne etd italie de fortes avances ont ete consenties a beaucoup d entre eux des milliers de metres cubes de bois ont ete abaitus dans le courant de l hiver et du privitemps et sont prets a otre embarques sur voiliers en divers points de ple d ou proces entre les maisons d'espagne et d italie et les exploitants forestiers arret des exploitations forestieres chomage de milliers d ouvriers forestiers de charretiers de conducteurs de mulets ete    le president en terminant invite la chambre a deliberer sur le decret de prohibition du 7 aout qui aurait pour resultat de tarir une des principales sources de richesse de l ile de creer ine crise economique sans precedent sans profit ancun pour les commercants en bois du continent francais a  apres en avoir delibere  la chambre  convoquee specialement pour examiner les consequences du decret de prohibition de yexportation des bois corses  appelle l atlention de mm le ministre du commerce des finances et de pagriculture sur la situation exceptionnelle que vaut a la corse son insularite    considerant que la vie economique de ce departement est gravement menacee par le decret du 7 aout  considerant que le but des pouvoir publics ne saurait etre atteint par l application en corse du dit decret lu   demande avec insfance que ee decret ne soit pas applicable a la corse par mesure d exception  i
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="10" type="div" xml:lang="fr">
+    <p>
+     giurnali u vescu on redoute et e bon droit ja nomination d un etranger au diocese    le clerge corse serait peniblement affecte si on allait chercher un eveque ailleurs que dans ses rangs il compte assez de pretres intelligents et vertueux paur esperer qu on ne lui infligera pas comme chef spirituel quelqu un ignorant tont de la corse la langue les moeurs et les traditions   les populations de l ile seraient tout autant que le clerge surprises et desolees de ne pas etre dirigees par un fils de cyrnos  non seulement on se demande avec anxiete qui remplacera monseigneur simeone mais les pretres les fideles pieux les personnes qui oni a coeur le relevement moral du pays la partie intelligenteet saine de l ile enun ot attend a cette heure plus anxieusenent encore le retablissemeut de l ancien eveche de mariana par ja nomination d un eveque a bastia e la corse est trop vaste les paroisses trop eloignees les unes des autres les communica tions trop difficiles pour qu on ne prete pas poreille au voeu du pays tout entier   a avec un seul eveque ettun seul diocese les besoins moraux de l ile ne peuvent etre sauvegardes    par suite de l etat actuel des choses creepar le concordat nous avons assiste au spectacle desolant de paroises privees pendant quinze et vingt ans de la visite du premier pasteur du diocese nous avons connu de nombreuses par ties de la corse ou pendant pres d un quart de siecle le sacrement de confirmation n a pas ete administre on a vu parfois des vieillards recevoir ce sacrement presque ala fin de leur vie qui n a su que bien des hommes et des femmes ont quitte cette terre sans avoir ete confirmes ettoutes ces miseres morales toutes ces anomalies etaient le fait dn diocese de l eveque unique  les entraves apportees a l eglise de france par le concordat ont disparu avec ce meme concordat pourquoi alors ne demanderions nous pas que les saints canons soient executes pourquoi puisque deux eveches sont necessaires a la vie religieuse de l ile neles reclamerions nous pas avec insistance  i le salut des ames dait etre la loi supreme  esperons que nos angoisses patriotiques et  chretiennes prendront fina bref delai et que l emotion produite dans notre lle par le iransfert de l eveque d ajaccio a frejus toulon se convertira en une immense joie et que bientot il nous sera donne de seluer deux nouveaux eveques corses fun au berceau de napoleon et l autre a bastia  cni verax  bastia journal i castagni d accord avec plusieurs conseillers genereaux la question du ehataignier sera remise sur le tapis a la prochaine session du conseil general et soumisea l opinion des vrais corses dans toute son ampleur on ne fera peut etre rien c est probable c est meme tres sur attendu que dans le nombre de nos representants cantonaux il en est qui vivent de l assassinat du chataignier et de la gorse par consequent qu importe nous aurons du moins la satisfaction d avoir demande agi etproteste et d avoir demande a la france l application de la legislation italienne pour la sauvegarde duchataignier en corse sa e is  laurent malandri  la tribune i 1 funziunari eh bien causant entre nous nous pouvons avouer que notre plus beau pays du mondes n est considere que comme une poubelle le dechet la pourriture administrative politique et economique accoste sur tous les points de nos rivages les gens que la france et ses colonies vomissent en raison de leur incapacite ou de leur inconduite usent du droit d asile chez nous et si nous ne les recevons pas on nous les impose met pu nous trouverions a ce regime tout ce qu il faut pour nous degouter de la france si les squelettes des notres ne blanchissaient sur tous les champs de ba gilles cu ila fallu  mourir elle luce  la tribune malcuntentu notre septicisme loin de nuire a la cause qui nous est chere a tous ne peut que permettre aux representants de ja corse d en faire etat lors de la disenssion a la chambre  pour bien marquer que l enervement si le mot n est pas trop faible des populations insulaires ne date pas d aujourd hui et que a force d etre bernees celles ci finiront par donner a leur mecontentement une forme dontilest difficile de mestirer la violence et l etendue   jd pinelli  l eveil de la corse
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="11" type="feu" xml:lang="it">
+    <p>
+     che volete padre bernardino anche gesu cristo parve aver caro gli fosse rimosso il calice della passione dai labbri in effetto codesto comando fu  per quel signore calice di passione  e quanto amaro   oltre le fatiche  le cure e i pericoli manifesti  appena pote sfuggire le insidie  massime quando camillo doria  i generali genovesi trattavano meglio il veleno della spada  tento farlo avvelenare da petruccio di orezza  e i beni si vide arsi  le case disfatte  parecchi dei suoi morti ed egli final mente ebbe a esulare in ispagna    dove a vero dire si trovo accolto a  braccia aperte e promosso  a colonnello di fanteria  ma ad ogni modo  quel dovere vivere fuori  di casa e  una gran pena al cuore  adesso  che  i suoi occhi avrebbero potuto dell ziarsi nello aspetto della patria risor   ta  glieli ha chiusi la morte  dio  esaiti la sua anima secondo i meriti    il signore  andrea   col consenso della assemibiea   si aggiunse nel comando luigi giafferi di qua dai monti  e di la luca di ornano e domenico raffaelli preti  il pievano aitelli  uomo capace di governare un regne  fu eletto a segretario anzi si deve a lui la scelta dei compagni che fece il signore andrea  la quale non poteva cascare in persone piu acconcie al fine di raccogliere in mazzo tutti gli amori della isola  imperciocche egli rappresentasse  ordine dei mobili  il giafferi i popolani  luca la memoria di sampiero primo vendicatore della liberta  corsa  il prete raffaelli gli ecclesiastici svisceratissimi della indipen denza della patria  questo  a mio parere  fu ottimo partito  e da   guitarsi da quanti si  affaticano nelle civili rivolture  imperciocche im   porti nei casi di momento impegnare tutti i cittadini a sostenerli collarco dei dosso  e la esclusione partorisce superbia da una porte ed odio dalla altra   dove poi occorrano umori dei quali tu a verun patto ti possa servire  allora da un occhiata alla punta della tua spada  un altra al cielo  e dope decidi quello che tu ne abbia a fare   i generali assembrata la consulta in corte  questa  non contrastando alcuno  bandi la  liberta corsa e la decadenza  della   repubblica genovese dalla sovranita della isola   poco dopo diciotto teologhi convenuti nel monastero di orezza  disputata sottilmente la materia  dichiararono giusta la guerra contro genova  come quella che se mai aveva avuto diritto a reggere  la isola  la trascinava tiranna   ques fa sentenza confermo piu tardi con nobilissimo scritto monsignor natali  vescovo di tivoli  nato in olet ta  il quale da quel valentuomo chi egli era  prese a chiarire tirannia che fosse  e potersi  anzi doversi  combattere il tiranno  1  genovesi commiser a certo azzectagarbugli di rispondergli  ed egli lo fece con uno scritto sciatto  intitolato  ant  curzio  ma non lo trovando concludente incombenzarono un sicario a confutario meglio  questi vi adopero uno stiletto a  tre tagli  e ne feri nel ventre monsignor natali  che si condusse a fine di vita  la quale pero gli fu  salva per intercessione della immacolata  e merce le cure del suo compatriota saliceti  archiatro di sua santita  pio vi  x  e poiche nella  ingenerosa  mercatanzia si apprende a truffare  forse  ma si disimpara a feggere e a vincerei popoli  i genovesi  sfidati di venire a capo della ribellione corsa si volsero per aiuto allo imperatore carlo vi  qual coltello  tal guaina  il tedesco di austria povero e avaro  in bottega o nella reggia  traffi ca sempre sennonche nella reggia  vende sangue  di fatti carlo vi si  chiamo   pront6  dd  accomedare   repubblica di dieci e piu mila   deschi se le garbasse  a patio  vivi di mantenesse e morti gi pagasse   la republica spilorci   pose per ora gliene basterebl   3ooo  e tanti ebbe dal conte dis governatore di milano  condotti barone di shemettau  ma poi e vero pochi  e ne chiesero altti e mila  a prima giunta questo ga me ci fece del male  assai   ed   so  perche sortito  quando ce 1  tavamo meno da bastia  1h nostri  ed io ci cascai prigioni  faccio gli stazi che patii  qui fe   esposto alla berlina non dubitai ci fermare sotto il patibolo  it pr to della liberta  la testimoniara   aveva palesata in orezza  po si con gran voce queste parole agti guerra che  fanno i  corsi e gii  sima  io fui primo a chiariti  f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

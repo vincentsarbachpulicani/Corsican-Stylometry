@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1923_39
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     les academies de province voyons franchement entre nous croyez vous que soit injuste le reproche de tencajola le fin lettre italien et fervent ami de la corse ecrivant a l un des notres   je regrette vivement que le role de votre academie soit si peu actif et je souhaite de tout coeur qu il devienne moins contemplatif personnellement vous le savez j ai reve d une academie appartenant a la federation des academies de vaucluse d aix de marseille du var de nimes de montpellier d alger de montauban de toulouse de toute l ancienne provence et du comtat  la federation se reunirait au moins une fois l an tantot ici tantot la dans des seances solennelles largement ouvertes au grand public et ou l on donnerait connaissance des plus remarquables travaux de chaque academie cette organisation serait completee par des conferences populaires donnees tout autour de chaque centre academique et au cours desquelles prendrait tour a tour la parole les felibres de l autre cote de la mer et nos anfarti insulaires le bureau renouvelable tous les ans aurait un budget commun alimente par des cotisations speciales et des subventions des conseils municipaux et des conseils generaux  si cela existait mon confrere leon maestrati aurait tort d ecrire que nos poetes ignores de la plupart d entre nous forment une sorte de maconnerie et qu ils ne font connaitre leurs productions litteraires qu a un petit nombre d elus nous ne verrions plus egalement nos ecrivains regionalistes alimenter de leur prose les feuilles ephemeres qui naissent dans le fumier electoral les uns et les autres seraient imprimes par les soins de la federation qui propagerait leurs oeuvres et les presenterait au grand public a ambroise qui ecrit p m du 3 octobre 192 que les  dialectes corses ne doivent rien a la langue italienne la federation par la plume de ses savants adherents infligerait le plus juste et le plus naturel des dementis et qui sait si nous ne finirions pas par faire enseigner le corse dans nos ecoles cote du francais et de l italien je ne veux pas d'une academie timide de laquelle on puisse dire comme d une honnete fille  qu'elle n aime pas a faire parler d elle fiho pau visto fila requisto et je ne partage pas cette opinion que les travaux d'une academie meme de province ne sont pas a la portee les masses populaires autrefois les ouvriers les agriculteurs les travailleurs etaient ignorants et illettres ils ne le sont plus aujourd'hui interrogez quelqu un qui a vecu au milieu d eux  il vous dira que l'ouvrier est beaucoup plus apte qu on ne le croit a s interesser aux questions d histoire et de geographie qu il est desireux de s instruire et curieux de toutes choses  certes tout n a pas ete fait encore dans le domaine social pour ameliorer selon un principe d elementaire justice le sort de l ouvrier et lui permettre en dehors des heures de travail de s occuper des choses de l esprit mais dans ce sens et vers ce but quelque chose de grand a ete fait et c est a quoi les travailleurs doivent de ne plus etre aujourd hui de vulgaires machines a rendement sans cerveau et sans coeur  mistral un jour s ecriait en presence de j charles roux qui consigna ces paroles douloureuses   ou sont je ne dis pas en provence mais dans tout le midi de la france les publications illustrees ou les frais d une documentation vraiment moderne ne soient pas menages qui centralisent tout ce qui peut interesser l histoire l ethnographie et la linguistique de notre pays  depuis le jour ou l'incomparable poete de mireio et de calendau prononcait ces paroles beaucoup a ete fait en provence et dans tout le littoral mediterraneen en faveur de l idee regionaliste mais voulez vous me dire ce que nous avons fait nous autres corses pour la conservation des moeurs des coutumes et des vieux parlers par lesquels se transmettaient et se perpetuaient le genie l independance et le naturel de notre race   voyons franchement entre nous faut il qu elle soit ingrate et injuste cette population bastiaise pour oublier jusqu au souvenir de ses deux plus grands poetes salvator viale et vattelapesca  qui a lu la dionomachia ce pur chef d oeuvre dont les huit chants imites de la secchia rapita du tasse et de la batrachomyomachia constituent une si fine critique des moeurs des habitants de lucciana et de borgo  qui a lu orsini da fozzano cette belle replique a la fausse colomba de merimee  qui a lu enfin ses souvenirs d un voyage dans une partie de la suisse ou le poete bastiais expliquait ainsi les veritables causes des maux dont souffrait sa patrie  on ne pouvait considerer  comme lui etant propres es defauts d un peuple qui ne se gouverna jamais par ses propres lois que les gouvernements etrangers qui avaient domine successivement la corse suivant leur volonte et le' plus souvent a leur profit l avaient tyrannisee et avaient laisse libre  cours aux erreurs morales et aux habitudes es plus funestes  que tous ces gouvernements avaient manque plus ou moins d autorite de bonne volonte du de temps pour pouvoir diriger les dispositions naturelles des insulaires vers le commerce l agriculture l industrie qu en corse les instruments les plus necessaires et les plus utiles faisaient defaut au laboureur au batteur de ble au mineur et a tous les ouvriers en general quant aux moyens de transport qui sont l element le plus indispensable de la civilisation moderne on pouvait dire qu on en etait toulours au temps d erichtonios le roi legendaire d athenes qu a chante virgile   oui qui a lu tout cela  une elite une simple petite elite et la statue de l homme dont le nom ne represente plus pour ses propres compatriotes qu une reputation tres pale et quasiment effacee s eleve dans le cimetiere de bastia au milieu des morts qui l ont aime loin des vivants qui n ont pas su garder de lui le fidele et respectueux souvenir   quant a vattelapesca helas il n a meme pas un pauvre petit buste  ah aimons la plus que jamais pour effacer notre faute et debarrasser notre conscience du remords qui la hante aimons la cette langue
+    </p>
+    <docAuthor>
+     Fernand Lombardi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

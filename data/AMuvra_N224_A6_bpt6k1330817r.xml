@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330817r
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330817r
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 224 | Année 6
+     </edition>
+     <date>
+      1925-10-18
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Sest'arinata — Numaru 22,  Esce a Dumenica  Dumenica, 18 Ottobre 1925  A MUVRA  GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI :  In Corsica. .*i . ...'. .~i: . .' : . 12 franchi  In Francia. Vi sr. duv. sm. ... AB a  A VEsteru : 7, , . . . . 7 e. ... 25 ~»  U Numaru:4 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     santa riparata  di cinarca  ricorre a te prostrato questo  popol  devoto   accio di grazie vuoto mai non sia   cusi dice  u padre  stefanini in le so  lode e  cusi corre a pieve di a  cinarca ai pedi di sta santa  antica e miraculosa   a via di a cappella  a matina di a festa  fate contu di vede furmigule infilarate in tutte le strade   omi e donne  vecchj e zitelli povari e ricchi   ottomobilli  carretti  sumeri e muli   donne scalze  cu  zitelli in col  lu   he mi ie va  a cappella  quassu quassu  sopra a sari  pare ind un nidu fattu di monti   san  damianu  a guida  prunu  buvunaghia  rustaghiu  sarsoghiu  1 alba   a virdura e fatta di mucchiu  murze  listincu  piumbone e arba barona         i paesi intondu so spupulati  sari  casaglioni  cannelle  sant andria  calcatoghiu  appiettu  ecculitutti indinocchie e mane agghiunte a i pedi di a santa  duie mila parsone chi preganu     od  a ciccona sbatte cu i so tin tantd e pare chi ella dica      currite  currite     sania riparata   sempre venerata   e grazie da    di infatti  a santa  tutta in  tundata di cirohi e di fiori  pare chi ella ridi a ognunu  suminendu spiranza e salute e curaggiu      u u  a u momentu di a prucis  sione  quandu santa riperata sorte  e  bracce sparte  tutt a valle pare in dinocchie  a i so  pedi   e donne facenu e stras   cinelle  i malati guariti piegnenu di ricuniscenza e di pie   ta  5 hi      guardate   sa  dunnarella sbiaricata  chi vene  quasi da lu altru  mondu   a santa  la ha salvata ed ella la ha purtatu dui belli quadri  san ghiuvan battista e a cor di gesu     un altra  donna porta da ajacciu  un gran quadru ficcu e belli i santa riparata  ne lu  piriculu  la ha  campatu a so famiglidla  se he    tanti zitillucci vutatie guafifi chi saltanu oghie intond a cappella   cume capretti e chi tuzzicanu canistrelle  cume to pio     ...  a cinarca e una pieve ric ca e bundante  di tuttu    cu u sole di invernu  e e frescu 1 istate   brava pupulazione  ospitaliera e generosa   girardate se belle giuvanette meruli rosse e simpatiche   si zitilloni cu cusi bellu sangue in  pelle  i vecchj chi anuvant anti  par lanu di amore  mina  a stella di le alimie chi luce  e  manda qui soldi a ifianate   guardate i castelli antichi  nidi  di liberta e di indipindenza   uh  cara a cinarca cu tutti i so favori sottu a prutiziorie di santa riparata  hi
+  s
+    </p>
+    <docAuthor>
+     Maistrale
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     impressioni di u tenore vezzani  mi hanu sempre dettu chi era u primu tenore di u mondu   a cosa e pussibile  ma un bogliu affirmarla  benche abbia avutu numerosi successi    lm fe    u piu bellu jornu di a mio vita fu a mosca  in russia  eramu ne u 19 1  dava sansone e dalila a u teatru timperiale  e quella sera cantava davanti a un publicu beramente sceltu    sopra a fine di lu attu secondu  l imperatore di russia mi fece chiamaind u so palcu  e avendumi felicitatu  mi dissi           e  lei dunque francese  e pure egli ha un nome italiano       so corsu  maesta    ...  ah  si  mi face moltu piace  site di u paese di napuleone  e salutu in voi un imperatore  le imperatore del canto       5 o  ne fui propriu sgumentitu e pe a prima volta cunobbi u fra    ma quandu riperisu a quella famosa jurnata  trovu chi u czar aviva ragio    mi chiamu cesare      se  natu in bastia l 8 agostu 1888 e mi possu vanta di appartene a una bona famiglia di avvucati e di culunnelli    un ghiova a nulla di ave parenti ricchi si ellu un bi aiutanu  e solu possu ringrazia u mio cuginu francescu scardiglia  e      quand eo aviva sei anni  una vecchia zingara mi fece sta profezia   si natu 18 agostu  in mercuri  sottu u segnu di u leone    sarai grande  e riveritu  e lu istessu jornu sortera di a razza corsa un altru assai piu grande di te     a profezia si e realizzata peru mio contu  ma un bedu naricu u messia      mi ricordu sempre di a mio zitellina asan ghjseppu o in carugghiu rittu    travagliava aliora ind un calzulaiellu   bona anima calissanu   e passava u mio tempu  a purta scarpi e scarpini a signuria di bastia  eranu per me assai piu e rinfacciate chi i pezzi di pane    quale le averebbe detta chi era destinatu un ghjornu a canta davanti i re e pimperatoril      rammentatevi  fratelli  i sirinati a u mercatu di i pesci e a san ghjseppu  sottu e finestre di e piu belle zitelle di bastia  ricurdatevi e mio  rumanze  favurite  l ho perduia e mi batte il cuore    cantava  nel  gentil idioma    avemu noi altri  bastiesi a lingua fatta apposta   e aviva una gran rinomina    o quante volte fui ricumpensatu  di un fiore o  di un basgiu  ma dino quante volte fui obbligatu di scappa cu a guitara in manu    eranu i  cummissari  chi disturbavanu a festa    avale i cuni   nissari so fieridi salutami e di anda  a sentimmi canta a u teatru di bastia   ognunu a so rivincita       a mio vita  eccula riassunta in poche righe  andedi in parigi  ne u 19o7   aviva  appena dicianov anni   e dopu a mio surtita di u con servatoriu   ebbi u premiu di cantu   feci stravede mezzu mondu    i mio piu gran successi  riccar  du core di leone  a tosca  rigoletto  cavalleria  boemme  aida  la africana  carmen  sigurd  otello  werther  ecc  ecc  aghiu dunque giratu e cantatu dappertuttu  da parigi a brussella  da londra a budapesth  da mosca ad algeri  da nova yorka a chicago  e solu li italiani un mi hanu mai invitatu a anda in roma   u  si eo ci vo   a cosa e prubabile ind u prossimu invernu   bogliu falli vede che noi  avemu in corsica u talentu di caruso e di tamagno   u sangue un e acqua  dice un anticu pruverbiu    i a  eccumi di ritornu in bastia  in casa mea    ne so propriu cuntentu  amu u mio paese nativu  la istia infelice  e per ellu   ebbi sempre una vera  passione    so corsu prima di tottulss se  mi pare di rinasce in mezzu a tanti ricordi di zitellina    ogni stradella mi ranienta a mio guiventa    induve so li amici cari di itempi passati  aghiu pocu studiatu u latinu ma  certe volte mi accade di interpreta liberamente virgiliu  u gran pueta  o ubi canti    ma quale puo riprincipia a vita  li anni correnu  i siri   nati so finiti e le amore si ne va    e  finestre un mi cunoscienu piu  i   tuttu cambia  e  bera  ma dura sempre la amicizia    mi fermai  l al   tru jornu  a sant anghielu  davanti u scambellu di giulebbe  un pover omu chi tira u spagu mane e sera    fu propriu cuntentu di vedemi    o bravu giulebbe  a so strinta dimanu bale quella di un imperatore    amu bastia   u so linguaggiu e i so vecchi quartieri  preferiscu sanghjseppu e lupinu  a gabella e san roccu a  tutt i splendori di parigi  bi la dicu francamente   ne a   ghiu abbastanza di sente parla e lin   gue e piu strane  le inglese  u russu  u spagnolu  le ungarese  lu ebre u e u   patois   di montmartre    parlatemi    di u nostru dialettu   cusi bellu e armoniosu      x   legghiu a muora chi eo cunsideru cume u piu bellu giurnale di u mondu  e poi mica tante chiacchiere  aghiu assai simpatia pe a mu  ora perche ci scrivenu numerosi amici  fra i quali petru rocca  e ageniu grimaldi chi fece tantu per me quand ella era criticu teatrale     una sola cosa mi dispiace  di un ave pututu assiste a  ceremonia di pontenoyvu ma lu annu chi bene  a u pellerinaghiu  sopra e sponde di golu  i corsi mi senteranu canta  a lu apertu  canzoni dialettali e specialmente cursichella di petru rocca   un  puteraghiu mica  ben sicuru  fa risorge i morti   quelli poveri tinti chi casconu pe a liberta   ma i nostri paisani averanu un novu mutivu di speranza ind a nostra razza    
+  s
+    </p>
+    <docAuthor>
+     Cesare Vezzani
+    </docAuthor>
+   </div>
+   <div n="3" type="let" xml:lang="co">
+    <p>
+     un  nidu di puesia  cagliu  caru cumpare   mi trovu un pocu in ritardu  per dabbi di e mio nutizie  passanu i mesi senza ci omu si ne abbedi e a penna si arrughinisce  vi diceraghiu chi a mio scusa e chi io so statu for di casa  avale chi e nostre vindemie so fatte  prima chi elle caschinu e prime castagne  aghiu lu agiu di mette dui filari annantu a carta   vi diceraghiu caru cumpoare  chi u mio viaghiolu ui piu bellu e statu quellu chi io  feci ultimamente in tagliu isulacciu  tagliu  a vi dicu francamente  e un nidu di puesia in puntu  di un castagnetu chi si specchia in mare  un mare lisciu e mansu cume u pane  nidu bellu piattu  bisogna a di   per ghiungne   ci avaraghiu marchiatu duie ore  a meze macchie  e  un oretta a la ombra folta di i pulloni pampanuti chi partenu da e ripe fonde di fiunialtu e  si atteppanu all insu vers orezza apposta chiamata   castagniccia  quinci a terra e grassa e u castagnu ci scimisce stirpendu ancu a mac   chia chi vurria stende e so grinfie  dunque   tira  e tocca  di biottutu in biottulu e da un pullone all altru finiscu per vede affacca w campanile di tagliu chi sta propiu cusi in tagliu  annantu un spundone di fiumaltu  e case di u paese  nere e grigie  qualchiduna bianca so appupate a u scogliu  a  bradu senza dissegnu   di architetti  un   primu colpu di occhiu in piazza di a iegia unmonumentu mudestu a i morti di guerra   u campanile staccatu  altu di almenu trenta metri cu tre campane e fiscrizzione 1858  u frontispiziu di a chiesa rifattu  u so presbiteriu   accantu  a piazza e grende  abbastanza tutt abbinta di parapettu   li aranci verdigheghianu sottu  e una bella vanga ricca dal buratura scorre  versu a marina di fulelli dendu a manu a isulacciu chi dorme sopra un curpanile piu bassu  salutu a casa di  lu amicu de mari chi mi feghia da vicinu  collu  una stretta e eccumi davanti a casetta  gherbata  e amicheule di paoli    dettu di tagliu  u patrone asi face a u sole strascinendu  un  anca un pocu indebulita  ci abbracciemu cum ella sende a veri fratelli di ideale corsu e si cumencia a discorre  scalinendu a  stretta  sempre piu all insu sinament a a casa di u nostru caru iseppu filippi chi siaacap altuin cima di u paese  un vi cunteraghiu  caru cumpare  la accuglienza sincera chi mi fu fatta in sta casa ne in altre case sempre fiere di offre la ospitalita di li antichi  vi vogliu solamente di chi no avemu fattu festa in famiglia  u iornu di a festa parucchiale  san mamilianu  simu andati  ben intesu  a senteci a messa e un pezzu di predica  avemu cantichiatu cu i cantori e seguitatu a prucessione cu tutti  a statua di u santu mi pare bella maio e pisia ma  pianu pianu  tutiu si arrangia  a prucessio colla e fala  rintorchia quinci e culandi pe i chiassi  spone u santu almenu  quattru volte annantu un taulinu  si piglia ogni volta una benedizzione e dopu ave rifiatatu  finisce per rientre sana sana e consula da u   signore  vi diceraghiu chi io unn aghiu vistu in dogu i zitelli sfila diritti cume in tagliu  masci e femmine si tenenu  pieni di rispettu in grentu i so banchi  prova chi i genitori a li facenu capi  en  dopu meziornu ci fu ancu tempu di da a i paisani una corta cunferenza  si parlo naturalmente di i nostri pueti corsi  taglinchi eranu tutti cusi in quella sala chi cupri di applausi  prima di tuttu  u so caru pueta iuvan battista paoli  poi i nomi di tant altri  u cuccu di maistrale canto  pe a prima volta  in stu paese abbezzu a sente li accenti di a puesia     mi pare chi da le emuzione  ziu tan battista piegnissi  dedimu ancu una strofa di u lamentu di u castagn  so capu di opera  cusi sparsu e cantatu pe i paesi    avale chi u veniu tira  bisogna a cerca di sparghie un pocu piu le opere di tutti li anfarti  onore di i piu poveri rughioni  bisogna a raccoglie u cantu chi bula e fa libretti pieni di ale     senti  o merti  mi disse lu altru iornu  un prete astutu e fine  un perde u to tempu a fa puesie   futte cose sceme     cose sceme  a so dino eiu  ma in fin di contu so e cose di la infellicenza   e ste cose meretanu qualchi risguardu  vulete chi io a vi dica  un pueta senza pretenzione  chi canta a morte di un sumere e ralegra un paese face opera bella e utile  noi vulemu aiuta i pueti corsi a fassi vale e per quessa demu lu esempiu   ma diggia quellu un mi ascultava piu  pensava a pianta valimeie       noi  caru cumpare  cultivemu piantemu e ripiantemu tutte e piante di la anima corsa    eu
+  s
+    </p>
+    <docAuthor>
+     Martinu Appinzapalu
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="co">
+    <p>
+     prime ballotte  u sole pallidu otiobrinu sfughie sopra e foglie berdi gialli di i castagni carchi di treccie bionde o brune  sgrignati so gia i ricci e di tant in tantu si sente un colpu sordu di una castagna sopra a u fi lettu seccu  stu rumore pare  percutatu  in  tutt a castagniccia e mille scorse di castagne sopra a e frondi o i jamboni mettenu una nota di melancolia in la puluneta quieta e addisperata       digia si provi un dolce piace  a sera dobu cena di accantassi in di u scornu di u camminu a castia di i tant in tantu u focu chi spidarazzeghia  a circa ne a fiara  incandescent e rossa  figure amate o chimere impussibili  o puru a seguita u fughi fughi di e listre leggere e molli di u fume chi si ne volanu nant a cappa fulighinosa cu  i penseri nostri   a cappa di ucamminu  quanti sogni ella cunosce  la altagna chi inigrisce a catena e i muri parla suverite cun  la enima persa fra i tizzoni viventi o faniomachi   suvente dino si prova a dulcezza infinita che face nasce im i spiri ti u profume densu  cume quellu di un incenziu chi rallegra e impenserisce  odore calle penetrante di balloite inzuccherate e di finocchiu bullitu  i  e brune castagne cocenu pianu pianinu cume per azzizza lu appititu   ma prestu si vedenu inturniate da mani rozze o da manuccie dilicate  cume bulinteri si ficcanu i denti nentru a e carni bianche e pastose di u fruity corsu  si sdrughienu in bocca e lu empienu di un dulciore savuritu  prestu un resta piu che a pelle dura affiurata e netta    o corsu chi ti rallegri  a sera in mezza to famiglia a sbucchia ballotte pensa e rifletti a u male chi tu facci quandu cu a ti acetta maladetta meni a colpi criminali sopral aberu sacru  pensa chi dumani u manda fanne pappina e tinta in le usine divastatrice chi ti lasciaranu in piantu quandu a corsica sara neita di sfalberu maestosu e reale chi ti rallegra tattu lu core chi ha nutritu i fantenaii e chi sara sempre u to solu prulettore   e boi  corsi luntani  pensate in ne e vostre fredde camere cittadine a u fucone  a u paghiolu pienu di castagne affinucchiate chi reunisce tutt a famiglia e chi e u simbulu di le unione  di a prusperita  di u travagliu e di a custanza   e u castagnu pienghie in lacrimerumurose u so fruttu maturu  
+  s
+    </p>
+    <docAuthor>
+     Jseppu Filippi
+    </docAuthor>
+   </div>
+   <div n="5" type="poe" xml:lang="co">
+    <p>
+     lu apitittu di calabraga  cummedia in 5 pranzi e 13 culcullazione  mn  pranzu ii  in casa di calabraga seinu andati lu altru jornu    a serva  vizzosa e maga   ci ha lagatu fa lu tornu   cum e veru jesu cristu   eccu cosa ci aghiu vistu   di uva tredici spurtelli scalati da casaglioni   quattru duzene di acelli incappiat in castiglioni   tutte minate in vistale   sette pelle di cignale   fighi andiani  di cargese   tre brocci freschi di a piana    un caprettu di olivese    stu casgiu da marignana   in si vasetti cula  ci e cunfittura di afa   quattru parnice  una vaglia di 1i merri di niolu  e  qui  mele di murusaglia e qui  pere di u pighiolu   un rigalu da la soccia   sette piulelli e sta cioccia   sti poi so di vezzani e di corti sti fasgioli   ista corna e di alisgiani   e sti sette zanioli   cu sta pecura e lu agnellu   so scalati da pianellu   eccu e fritelle di alata   di guagnu  castagn e vena e di ovi sta nidicata di serra di scopamena   stu purcellu sanu sanu fu tumbatu in bicchisanu   sti salcicci di antisanti cu sette sacchi di noce   so rigali tutti quanti mandati da piedicroce   stu curbo di magnaria drittu vene da bastia   di zuccaru sta campana   di vinu stu caratellu venenu da calinzana da li sia e campitellu    ste parsiche muscatelle colte so state a cannelle   qui vicin a sa carrega   ci e miloni e pisticcina   agliu chi fu di palneca e di u pratu giovellina   istu lonzu  quant a me   e di quellu di sarte   cu lu occhiu di stimadore  stimaiu sa marcanzia    ci ne era carc un bapore   vi la juru  in fede mia  calabraga  calabraga   in corsica  ina chi piaga 
+  s
+    </p>
+    <docAuthor>
+     Maistrale
+    </docAuthor>
+   </div>
+   <div n="6" type="art" xml:lang="co">
+    <p>
+     nescitis quid petalis    qualchi ghiorni dopu a festa di pontenovu  monsignore facia pranzu cun qualchi preti e uni pochi di seculari  ind un presbiteriu  7   a quella taula ci era un prete chi avia assistitu a i discorsi pronunziati a pontendvu   malgradu u rispettu duvutu a u so vescu  quellu prete disse chi in quella circustanza un si sarebbe duvutu parla che in corsu   aghiunse  quellu prete  chi a paru soju  a corsica duvia organiza un partitu separatistu          parchi a francia cun noi e stata sempre una matrigna  fin ava ha fattu  e face piu pe e colunnie che per noi  ci tratta peghiu chi e senegalesi   sopra tuttu noi altri preti di jesucristu duvrebemu esse i primi a scriveci anantu a lista di i separatisti  parchi simu piu che li altri in statu di sape quantu male face  a a nostra religione  u guvernu francese    monsignore rispose cume u nostru signore  quandu a mamma di j figlioli di zebideo dumando  chi i so dui figlioli  quand elli sarebbenu stati in celu  si ne stessinu a pusa unu a dritti e  lu altru amanca  a cantu a u signore    nescitis quid petatis   cio chi bole di  un sapete cosa bo dumandate     bidendu chi u vescu ha si pigliava a male  u prete si stette zittu 
+  s
+    </p>
+    <docAuthor>
+     Ghiuvan-Paulu
+    </docAuthor>
+   </div>
+   <div n="7" type="art" xml:lang="co">
+    <p>
+     viale e michelacciu  un ghiornu chi u pueta  viale  era a caccia in piaghia di marana  dui di i so amici li volsenu fa un  toriu  per  divettissi       si intesenu a sa fine cu un certu michelacciu di luciana    chi era statu maltratatu da viale im a dionomachia  viale avia dettu   li alfieri e michelacciu nom di alta audacia  catabrighe terribile e gagliardo  ha quindici processi in contumacia  e me  tratta il fucil che lo stendardo       or dunque  quandu viale iunse in  un osteria per ripusacisi  michelacciu li si presenta  dicendu bruscamente  1  e     site voi quellu omu chi ete dettu chi aghiu quindici prucessi in contumacia   i  poi alzendu a manu nantu ad ellu  aghiust    bogliu fa contu paru   sarete u sedecesimu     o   viale chi ignurava  a burla  bi  dendu la eria e u gestu di lu ombreticu michelacciu   si  senti bene menu  ciochi fece chi li assistenti  bidendu chi ellu pigliava que a u seriu  dissenu a michelaciu di falli scuse  per rimettellu di sa paura  ne  tj pueta rivene e si abbide chi francamente tuttu era effettuo di burla  cunsenti a tucca un bicchierinu cu  michelacciu  chi fu  da su iornu  unu di i so amiconi  un
+  s
+    </p>
+    <docAuthor>
+     Matteu Cirnensi
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     amuntagnata di u pastore   a vicilia di a partanza   a mio francesca maria si fa partanza dumane   ci ne anderemu a lu frescu di le punte piu suprane  cu tuttu lu nostru mondu quassu per monte ritondu   aio chi un ci e tempu a perde  un e ghiocu di zitelli     demu di manu a li atracci  secchie  paglioli e tinelli   ci ne emu da culla in su   cu le pecure e li agnelli   or un bedi a mascherone chi da segnu di allegria   ghiace nant a lu scalone e pare chi ellu si sia cume un giovanu spusatu fattubellue dilicatu       o lu mio toniu francescu ascoltami un mumintellu  stattine in tantu a lu frescu chio di a capu a lu zitellu   u nostru dilettu fiore si e discitatu a le albore     dopu seraghiu  o speranza  prontu a fa cioche tu dici   in questa ja circustanza seranu li vostri amici   quelli di lu vicinatu   tutti pronti a fa prudici   maria tonia e ghjsippinu  anghiula cu madalena   postu chi elli so bicinu ci priparinu la cena    in quantu a lu mannerinu a trovula e sempre piena   si cummare faustina un era sfata malata  cu la surella mertina si ne serebbe occupata   ma u destinu tantu ingratu quant ellu ci ha cuntrariatu    affaccati a lu purtellu i  e da una voce a rusana  si ellu po ghjsippinellu cogliesi in groppa a fasgiana   chk ellu un si e bistu a falchetta ghie piu di una settimana   a larenzu luciani  demuci capu  o figlioli   chi lu tempu e preziosu   diu sera generosu  e ci mandera per stoli  da lu stazzu piu luntanu per dacci un colpu di manu   beneranu da frassiccia da muniglia e canfavaghiu   sta sera si ella ci piccia si polza lu tintinaghiu    aio   chi io lu vega prestu appesu a lu tinellaghiu    avia prumessu di vene ancu into marcu peretti   un amicu chi ci tene piu che parenti ristretti   ci ne pudemu fida  per chi ha fattie poghi detti   bragone cu filiciola chi aspitteranu per ghiunghie   ava chi e la ora di munghie ognunu si tira incoda      noi nun seremu mai a la fin di nostri guai   mi par di vede a fasgianu ta cu corsu a bilancinu   cu lu so staffile in manu  muscone colla vicinu      currite a dalli cunfortu chi dev esse stancu mortu   andemu prestu in capanna chi ci aspetta lu stufatu      ci e mio moglia chi si affanna di un ave a nimu a in latu   si no  tardassimu troppu puderebbi esse jalatu     alo bia  un bi vergugnate    qui siface a lu usu corsu    nantu sa panca pusate  chi no ci strappimu un morsu   a lu usu di a nostra casa    un buccone e po una tasa    a mane per fa partanza ognunu la ora aspittaya   e si missenu in biaghiu  quandu lu jallu cantava   mentre chi fra li zitelli u piu chiucu surnacava 
+  s
+    </p>
+    <docAuthor>
+     Ghiuvanni Olivieri
+    </docAuthor>
+   </div>
+   <div n="9" type="art" xml:lang="it">
+    <p>
+     l universita corsa  uno dei primi pensieri di pasquale paoli  allorche   venne chiamato nel 1755 dai suoi conterranei  a reggere i gestini della isola  col titolo di generale  un creazione di una universita corsa  do stessa idea la aveva avuta il re teoae di neuhoff  ma le disavventure a suo effimero regno non gliene aveta permesso le attnazione  l onore e   gloria di dotare la corsica  di un js tituto superiore di cultura doveva essere riservato  al suo piu illustre figlio  al   padre della patria    con la fondazione di un atene6  nazionale  egli tendeva ad impedire che la gioventu del suo paese  si recasse nel continente  per il conseguimento delle lauree  era un espatrio deloroso  ma forzato  la isoja non possederdo nessuna universita  generalmente questa gioventu si recava in italia a frequentare i corsi delle nostre celebri universita   quella di pisa  era ordinariamente la preferita  per  ragioni  di vicinanza e  per i ricordi del passato  il dominio pisano essendo stato assai benefico per la isola  va nofato che i corsi vi godeva  no di alcuni privilegi che ne facilitaya   no loro lo accesso  una parte di questi giovani purtroppo non faceva piu ritorno in patria privando la isola di elementi preziosi  utili e necessari alla sua rinascita ed al suo sviluppo scientifico e letterario  prima del felice avvento di paoli al governo  la isola non possedeva che rari ed insufficienti stabilimenti di istruzione  riservati per lo piu agli ecclesiastici    qualche  accademia  era  stata bensi organizzata da alcune congregazioni religiose  come a venzolasca ed a bastia  ove anche era stata fondata una stamperia  ma avevano avuto vita breve  stentata  migliore successo ebbe la accademia dei   vagabondi   creata in bastia  sotto falto patronato di monsignor giustiniani  vescovo di mariana  la quale duro qualche anno  le biblioteche  cosi ntili agli studiosi  erano pure scarse  per quanto i vescovi  i monasteri ed i nobili  che ne erano proprietari le mettessero a disposi zione del pubblico  questo stato di cose aveva impressionato il principe di wirtemberg  il quale dovette nel 1732  nella sua qualita di pacificatore riconoscere ai corsi non solo   il diritto di aprire collegi   ma pure quello della   liberta di insegnamento     la lotta militare contro genova e quella diplomatica contro la francia  impedirono a pasquale paoli  durainte i primi anni del suo governo di rimediare a questa dolorosa situazione  non fu che nel novembre del 1764  dopo che la consulta generale del maggio precedente  aveva approvato la fondazione di una universita  fissandone la sede a corte  capitale  della isola   che le cose camminarono rapidamente  ed il progetto del generale  di dotare la sua patria diun ateneo od   universita degli studi   divenne realta  salvo errore tale progetto era anche contemplato nella costituzione del regno     la scelta di corte  nel centro della isola   fu ottima sotto ogni rapporti  la citta  superba di tanto onore  offri un adeguato caseggiato  nonche gli alloggi per i professori  e  una commissione composta di nove ecclesiastici patriotti di indiscussa fede  venne incaficata di redigerne gli statutie di procedere alla sua installazione  uno di questi preti  il cittadella divenne in seguito vescovo di nebbio  poi di mariana    inc   i  la dotazione della erigenda universita venne fissata da paoli  il quale in pose alclero un dono gratuito annuo di 18 lire per i pievani 9 per i curati e 6 per i canonici  vi aggiurise inoltre i redditi della tenuta di antesanti e di alcune case di proprieta demaniale  questi cespiti vennero auinentati in seguito di 6oo lire date dal pievano di aregno  senza contare altri contributi di provenienze diverse   allorquando tutto fu pronto  il generale  a nome del supremo consiglio di stato  ne diede notizia alla nazione con eloquente manifesto programima  del quale vale la pena di riprodurre qiialche brano    premesso che una delle gravissime preoccupazioni che porta seco ilgover no dei popoli  era stata quella di   procurare alla gioventu del regno  un pubblico comodo onde poterla istruire negli studi delle scienze divine ed umane  ad oggetto di renderla maggior mente utile al servizio di dio e della patria    il manifesto continua accusando la repubblica di genova di avere mantenuto visola nell ignoranza  per ragioni politiche detestabili  e cio mentre ovunque fiorivano le scienze presso le vicine nazioni  ed alcuni corsi  dalla generosita dei principi di italia  fossero prescelti a sostenere con alta reputazione di dottrina  le cattedre piu rag  guardevoli nelle universita di roma di pisa a di padova  e cio accadeva men tre siera    miseramente costretti a vedere in corsica i piu sublimi e perspicaci ingegni che la natura ha dato in ogni tempo ed in  gran numero o a languire senza coltura e consumarsi nella oscurita e nell ozio  o a procacciarsi con grave dispendio oltremare e pet le contrade di europa  quel comodo di coltivarsi che non era loro permesso di rinvenire nella loro patria  la provvidenza che in tante maniere ha manifestato sopra di noi i piu sensibili contrassegni della sua protezione  ha dissipato in gran parte quella nuvola di oscurita che cotanto ingiuriosamente ci copriva  e noi siamo a portata di disingannare il mondo  che non era la corsica quel barbaro paese che volevasi fare credere dai genovesi  nemico dei buoni studi e delle scienze    annunziava quindi di avere scelto ad insegnanti valenti ed accreditati professori  i quali avevano accettato lo oneroso incarico   non per avidita di lucfo o per allettamenti di vanita  ma portati de un puro e sincero zelo del pubblico bene    essi furono  p  angelo stefani  di viriaco  p  leonardo grimaldi di campobasso  teologo della nazione  entrambi ex provinciali dei minori osservanti   p g b  ferdinandi  di brando  cappuccino   p  bonfiglio guelfucci  di belgodere  servita  e p  mariani  di carbonara  il quale 2pparteneva alla accademia def concili   fondata da benedetto xiv  ed avveva insegnato nella universita di alcala   le materie di insegnamento furono liinitate a quelle piu necessarie  ai bisogni del popolo  riservandosi il governo di aumentarle in seguito isti  tuendo cattedre di medicino  di geografia e di storia civile   teologia scolastico dogmatica e storia ecclesiastica  teologia morale  istituzioni civili e canoniche  etica e diritto della natura e delle genti  filosofia e matematica   retorica  i  stefani  grimaldi e ferdinandi  insegnavano teologia morale  filosofia e retorica   guelfucci  dogmatica  e p  mariani  che ne era il  rettore  il diritto e le istituzioni     viera pure aggregata una cattedra per istruirsi nella pratica tanto civile che criminale   le ore di insegnamento vennero distribuite in  maniera  che chi voleva poteva intervenire lo stesso giorno a diverse lezioni  dato il metodo appiclato  per la intelligenza delle materie bastava una mediocre conoscenza della lingua latina      il gen  paoli  rivolgeva quindi invito ai giovani studiosi della isola  tanto ecclesiastici che secolari ad iscriversi ai eorsi  avvertendoli che non avrebbe piu   rilasciato alcun  passaporto per lo estero    i  a coloro che si iscrivevano  egli intendeva offrire i maggiori comodi  col minor dispendio possibile   tanto nei riguardi dell alloggio che del vitto e che nella distribuzione degli impieghi avrebbe dato la preferenza a coloro che avessero frequentato la universita  nazionale  per gli studenti poveri si sarebbe  applicato a rintracciarei mezzi piu propii onde supplire in qualche parfe  alla loro siissistenza  provvide pertanto subito a dare loro ospitalita gratuita nel convento di s  francesco   gii allievi dei pievani e dei monasteri vi erano ammessi di diritto   l universita tanto   braniata   e sino allora  frastornata dalle circostanze inopporfiine dei tempi   venne solennemente aperta presente paoli coi menbri del governo il 3 gennaio 1765  con un discorso inaugurale del rettore  in esso erano messi in evidenza i vantaggi immensi  che di ora innanzi avevano i corsi  di potersi istruire in patria  invitava percio i giovani a frequentar  la con assiduita  ed i giovani non furono sordi all appello ed accorsero numerosi e con entusiasmo ad inscriversi alle singole facolta   molti tornarono pure dall estero  tanto che si dovettere sdoppiare alcuni corsi   l avvenimento ebbe un eco grandissima non solo nell isola  ma anche in italia  dove si seguiva con simpatia e con incoraggiamenti la opera ricostruttrice di paoli  a  generale giunsero felicitazioni da ogni parte  circa trent anni dopo  il tenente bonaparte si congratulava con lui di avere dato alla patria una universita   quando le cure dello stato glielo permettavano  il generale assisteva alle lezioni  per rendersi conto del modo perfetto col quale venivano impartite     scoppiata la guerra contro la francia gli studenti corsero tutti ad arruolarsi per la difesa della patria   caduta infranta  ma non doma  la liberta a ponteriovo  il 9 maggio 1769  la universita cesso di funzionare   u gen  marboeuf  governatore militare della isola  penso di farla  rivivere  facendo all uopo approvare un progetto  il 21 novembre 1776  dagli stati di corsica  con le stesse rendite di prima  meno il dono  gratuito del clero  alle quali vennero aggiunti i proventi delle messaggerie  secondo il peyre  la universita  ricostituita su alfre basi  doveva avere  oltre alle vecchie facolta  diie cattedre nuove  una di arte ed un altra di medicina  ed essere confermata da una bolla papale   non ne se fece nulla  il gabinetto di versailles  essendovisi opposto  1 corsi dovettero accontentarsi di quattro collegi   il p mariani  scrive niccolo tammaseo  dopo la rovina della patria  si ritiro a viterbo  ove apri una scuola frequentatissima     vedremo in un prossimo articolo  le ragioni per le quali oggi una parte de corsi si agita e reclama dal  governo francese la creazione di una universita nellisola 
+  s
+    </p>
+    <docAuthor>
+     O. F. Tencajoli
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

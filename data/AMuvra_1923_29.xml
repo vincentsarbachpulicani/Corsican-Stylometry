@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1923_29
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="co">
+    <p>
+     simu in obligu di ringrazia i distinti cullaboratori di a muvra chi hannu datu una purtata a la inchiesta  princiniata da noi in stu giurnale  a pro di a nostra lingua   e poi  di si inchiesta chi ci pare ghiunta a un risultatu  eccune qui a parer nostru   a cunclusione     pur troppu si cunfonde tra a lingua corsa naziunale  ufficiale  letteraria   e ancu usuale per i patriotti un supulellu colti   di in tempu di la indipendenza  e i diversi dialetti parlati nell isula   intendimuci ben una volta  quale e quellu in mezzu a i scrittori   muvristi   chi puo crede alingua chi ellu scrive accettata da tutti i lettori cume essendu a vera lingua corsa   mi surprenderebbi chi qualched uno avessi simile pretensione  eo  almenu  so benissimu che a lingua ne a quale mi esprimu in stu mumentu stessu  tanti e tanti lettori  e di i piu eruditi   a truveranu un pocu strana  mi ne cunsolu pensendu chi ancu a lucciardi e statu dettu chi ellu un scrivia mica corsu  ma piutostu  nebbjsginu      si  ma allora santu casanova scrive in   biculese   maistrale in pumunticu   marco angeli in   sartinese carlotti in  benachese    e tira avanti e tocca  in vece che multedo di vico  giubega di  calvi  viale di bastia  renucci di castagniccia     tiberi  e raffaelli  e vinciguerra  grimaldi  e biadelli  e tutti quanti i numerosi autori moderni corsi scrivianu la istessa lingua  chi i corsi di la o di qua di monti capijanu e ricuniscianu suoia   ghiustamente e custi chi noi ne vuliamu vene   e bera chi certi dicenu    prima di esse irancese a corsica  era italiana  e li abitanti fin a mezzu di lu ultimu seculu adopravanu a lingua italiana cum elli adopranu avale a francese    cio chi rivenea dir che i corsi indipendenti principiendu da pasquale paoli  parlavanu e scrivianu una lingua straniera  e certe cosi  mi pare chi elle un si possinu sustene cun ragione i corsi di tandu un parlavani lingue furestere  chi avianu a suoia e qual e chi li ne averebbe pudutu impone una   1 jenuvesi forse   figuremuci   i tuscani  allora 7 un si puo nega che a lingua corsa si assumiglia a u tuscanu quasi quasi cume eo mi assumigliu a me stessu    per servemidi u paragone di u babbozio chi ha participatu a la inchiesta  cu dui o tre articoli pieni di tantu sennu   ma sa lingua nimu a i nostri antichi a la avia imposta era diventata naturalmente a su cia  nell anda di i seculi  cume ella era diventata quella di i pisani e di fiurentini ci eranu sulamente  da lu isu a a terra ferma  certe piccule differenze in u modu di ortografia poche parole e specialmente di pronunzialle  ma da capucorsu a bonifaziu  in ogni cumune  da pertuttu  i nostri antichi scrivianu la istessa lingua  a suo lingua naziunale  questu sera ammessu da tutti  speru  perche per farne fede abbastanza scritti son restati in li archivi  scritti di chiesa  scritti di podesta o di nutari  contiresi di cunsulte populari o currispundenze particulari e private   si  ma   agghjungneranu  i cumpetitori   quella era a lingua chi si scrivia e che i struiti  forse parlavanu  ma un era mica quella chi u populu corsu parlava   e prubabile chi in corsica  cume in altro u populu ignurante parassi un pocu differentemente di vjente colta  sera stata tandu e po sera anc avale  in ogni tempu e in ogni paese a plebe trasforma e parole a mio modu senza cura di la etimologia ne senza tant altre cure si ellu si avessi da scrive u francese tale e quale chi ellu e parlatu di a maggiorita di i parigini  ho chi bela favella chi serebbe      e cusi di u corsu  un ne e bera    or pocu importa cum elli parlavanu cent anni fa  e ancu cum elli parlanu oghje   i pastori niulinchi o i dragulini di orezza  pocu importa cum elli parlanu i piscatori ajaccini o i camalli bastiacci  cio chi importa  a u puntu di vista chi noi ci simu messi in st inchiesta   e di saper cum elli scrivianu sin a centu anni fa tutti i corsi chi sapianu scrive   dunque  e cu iscritti di i nostri antichi che noi duvemu ricustitui a nostra lingua naziunale   se una volta ricustituita  si trova chi ella e tale e quale a u tuscanu   u tuscanu oghie lingua naziunale italiana parlata da cinquante milioni di persone sperse per u mondu   tantu megliu  tantu megliu    agghiunghjmu chi sera sempre di grande interessu per noi altri corsi   e poi ancu un affare di cuore   di un lascia muore i nostri belli dialetti isulani  grazie tante  a a muvra   chi ogni settimana ci parla a lingua ricca  espressiva e culurita  di sartene  e quella piu forte e piu schietta di vico  e quella piu dolce e piu classica di a castagniccia    pero  ci sia cuncessu di vede prestu prestu a muvra publica articuli scritti in a lingua di pasquale paoli e di carlu bonaparte quella di tommaseo  di dalmazia  e di multedo  corsu  
+  s
+    </p>
+    <docAuthor>
+     Alessiu Marchetti
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="fr">
+    <p>
+     dans quelques mois le college electoral corse se reunira pour elire de nouveaux representants ou reelire ceux dont la carence et l absolue incapacite crevent tous les yeux  par incapacite nous n entendons pas defaut de parchemins universitaires nous sommes au contraire de ceux qui pensent et ont toujours dit que tous ces titres en toc et tout ces parchemins de pacotille que distribuent de complaisantes facultes ne sauraient constituer une reference suffisante en faveur de ceux qui briguent un mandat electif  non il ne s agit pas de peaux d anes il s agit de savoir si tel candidat est capable oui ou non de porter a la tribune francaise la question corse uniquement corse et rien que corse  quand on sait que la corse est le pays le plus miserable de l europe quand on sait que les regions les plus pauvres de l espagne et des balkans ne donnent pas une impression d abandon aussi emouvante que celle que produit la corse quand on sait que plus de cent cinquante ans de francisation a outrance ne nous ont pas donne la route reliant corte a cervione ni le chemin de fer allant jusqu a bonifacio on ne peut pas ignorer qu il y a en corse  une question corse et que le desir que nos compatriotes eprouvent d en finir une fois pour toutes avec cette vieille question est legitime infiniment  eh bien nous pretendons et nous defions qui que ce soit de faire ici la preuve du contraire qu on ne peut logiquement en finir avec cette question qu'a la condition de rompre deliberement avec les errements du passe de renoncer a cette politique de platitude et de bassesse ou se complaisent les ineptes politiciens de notre malheureux pays de prendre enfin en face de la france ingrate une attitude courageuse et nettement menacante faudra t il que nous nous egorgions a repeter sans cesse cette verite cependant evidente et est il possible qu il y ait encore des corses qui de bonne foi envisagent la resurrection de l ile mourante autrement que par les moyens que preconise u partitu corsu d azione qui est le plus puissant fascio corso la l heure  nous avons eu souvent l occasion d ecrire ici et ailleurs que la population insulaire cette population surtout qui s entasse dans les villes tentaculaires se desinteresse chaque jour d avantage de l action corse de l histoire corse de la question corse au poini de devenir l instrument redoutable dont se servent contre la corse les politiciens pecheurs en eaux troubles et nous assistons de ce fait a ce spectacle navrant qui consiste a voir des compatriotes se dresser contre l ile natale et faire innocemment le jeu des ennemis averes de la corse 1i faut donc commencer par eduquer la masse l instruire lui donner une direction et un but il faut empecher nos compatriotes de s expatrier obtenir que leurs regards follement ambitieux n essayent plus de percer l horizon savoir leur montrer que notre avenir est tout entier dans la culture de notre sol dans l elevage dans l'attachement a cette terre qui nourrissait nos ancetres leur permettait de soutenir des luttes seculaires et ne les laissait point a la merci des fournisseurs d outre mer il ne faut plus leur crier que l esprit de parti est nefaste c est une erreur profonde de croire que la politique tue l initiative et obstrue l intelligence des concitoyens celui la qui est indifferent la vie des partis est indifferent a son propre sort il fausse la machine il laisse agir en son nom et sans controle ceux qui s arrojent le droit de i diriger les affaires du pays rester neutre c est a notre sens commettre une grave faute aussi prejudiciable aux interets collectifs que celle qui consiste a s abstenir au moment de la consultation nationale c est une lachete quand on souhaite de voir triompher un programme on ne doit pas craindre de s unir et de batailler pour lui donner efficacite et qu on ne vienne plus nous corner aux oreilles que les partis devraient disparaitre pour faire place a nous ne savons quel chaos illusoire nous reviendrons d ailleurs la dessus  pour l heure nous voulons indiquer que les bonnes volontes ne nous suffisent plus  il nous faut des volontes  nous voulons indiquer egalement que nous en avons assez de vivre dans l'eternel reve du resorgimento et que nous entendons entrer dans la vie des realisations concretes  la seule qui puisse nous mener au but final  parce que a muvra n est pas le journal ou s etalent les polemiques irritantes et parce que son vaillant directeur ne nous permettrait pas de faire 1ci le proces de cerlains portiques nous ne parlerons pas de ce faux devot qui a nom sari et nous ne dirons pas aux bastiais ce qu ils gagneraient en chassant de la maison commune en attendant de lui enlever sa chaise curule cet homme depourvu de tonte valeur  mais rocca nous permettra d affirmer que les corses n ont rien a attendre de ce voyage d etudes qui attirera en corse quelques loques du luxembourg comme ils n ont rien a attendre de celte foire exposition autour de laquelle on a fait grand bruit et qui ne peut interesser en fin de compte que les enfants les militaires et les bonniches sari a fait passer dans le courrier du parlement un bout de papier ou l on peut lire voila de la bonne propagande pour l ile de beaute qui se plaint d etre meconnue et le moyen pour les senateurs qui seront du voyage de passer de bonnes vacances  bougre oui  seulement s il plait a sari d amuser ses collegues du luxembourg qu il ait au moins la pudeur et l honnetete de le faire a ses frais et que de grace il ne greve pas le budget municipal en organisant des bacchanales dont nous n avons que faire il est deja extremement embetant que notre municipalite toujours pauvre quand il s agit du bien public ait cru devoir allouer au chef de la fanfare bastiaise  un officier du 173  s v p  une indemnite annuelle de 2 409 francs et si nous reprochons au chef de l edilite bastiaise cet exces de prodigalite c est parce qu il se montre bougrement chiche quand il s agit de renforcer la rue de l opera de combler les ornieres qui deparent notre traverse d augmenter le nombre des balayeurs publics  ce sont la il est vrai des questions purement locales et nous n avons ete amene a en parler dans cette lettre que pour citer un exemple du sans gene qui caracterise certains politiques corses tant pis pour les electeurs qui continuent de prendre des vessies pour des lanternes  nous ne voulons pas achever ce papier sans faire un pressant appel aux corses en faveur d u partitu corsu d azione qui est le seul groupement corse capable d obtenir le triomphe des revendications de l ile oubliee que le peuple de paoli que nos compagnons de gloire de misere et de brimade nous accordent leur confiance et nous prenons sollennellement l engagement de saisir l ennemi a la gorge et de rendre bientot a la corse la place a laquelle elle a droit dans le monde si dans la lutte ou nous nous engageons corps et biens nous avions le dessous eh bien il nous resterait l honneur la fierte que donnent le devoir accompli et qui sait si le mouvement de revolte qui agita la champagne et le languedoc ne servirait pas d exemple aux jeunes hommes de demain
+    </p>
+    <docAuthor>
+     Fernand Lombardi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

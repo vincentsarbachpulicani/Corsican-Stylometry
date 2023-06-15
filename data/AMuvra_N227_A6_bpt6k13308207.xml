@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k13308207
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k13308207
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 227 | Année 6
+     </edition>
+     <date>
+      1925-11-08
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Sest'annata — Numaru 227 0 Esce a Dumenica ° Dumenica, 8 Nuvembre 1925  GIURNALE DI ‘E PIEVE DI CORSICA  — :. ~ .:. ABBUNAMENTI :  In Corsica. , « . + . . . . si»... ».,,.- 12. franchi  In Francia: 6 Von. m - 182... &gt;  A PEsteru. S varu ce tiu. ù «4... 28. .»  U Numaru:4 soldi  Direttore. : -Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — AIACCIU  Contu currenté cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     autonomia  tutti ne parlanu  ne vogliu parla anch eo  ghj e un dirittu e ghje un duvere  e aghjustu  che tuttu corsu chi sta indifferente in faccia a sa quistione  un ne vene di nunda e un e degna di vive sopra a sta terra     a  corsica  dicenu  ghje oramai un dipartimeniu fraucafe vo pure  mm 1    ma  allera  si elle un di  partimentu francese  chi elli a cunsidereghinu  tale a chi elli faccinu cume per tutti  chi elz li ci ajutinu   chi elli ci lac  cinu di a miseria duv elli si so piaciuttaschjaffaccil       mas ell e  cum ella je  pe tene e chjavi  di e so  priggio   sell e per anda a  pilassi a chjocca in cina  si ell e per fassi fucila da vallemani  sell e pe caccighja i marucchini a e siriani e pe fa sbaitula i tre culori iu fondu di tutte le afriche   un ne vulenu   inno  un ne vulemu   un ne vulemu   u a  simu stati abbastanza  lecca piatti   un bulemu piu esse     cumu  a corsica apparte he a francia  a chi titulu  si ellu un bi dispiace     xa  qual e chi ha decretatu su pusessu    ar a  u vulemu vede  su cuntrattu  e sape qual e chi ha vindutu  si ell e qualchi  genuvese  u marcatit nu bale  una scicca e un lu accittemu o       ci inchinerebbimu se no  videssimu scrittu e aspustigliatu in regula un bigliettu straordindriu di annezione cu a siguatura di quellu chi cumanda tuttit    o co i a lu  for  di su  padrone un ricuniscimu a nisunu          si  purtantu  fussi  per azardu  un corsu chi abbia vindutu u so paese  ci inchinarebbimu dino davant a lu attu  ma a cuns dizione ben intesu chi ella caschi a muneta cun pinterissi dipoi quellu jorni maladettu   dunque mi pare chi pudemu grida e  facci sente parchi a corsica  si ell e stata compra  va e ancu pagata   
+  s
+    </p>
+    <docAuthor>
+     P. Borghetti
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     scrittori dialettali  u pueta ghjseppu giovannelli  in cinqu anni di prupaganda   a muora ha creatu una nova cuscenza e nesimu fieri  ogni jornu a giuventu  tralascia u francese e si metf a studia a nostra vera lingua   prima un avivanu  i scrittori dialettali  ne stemma ne bandera    scrivivanu corsu ma u  spiritu rimaneva sempre macchiatu di fran  cesismu    per furtuna  e cose cambiedenu cw  a guerra ed ava assistimu a u risvegliu  di a nostra naziumalifa       tr ri ko    onoremu li omi  di core   prosatori e pueti   chi hanu cuntribuitu a salva p anima corsa         ci     fra questi  bisogna ricurda  ghjseppu giovannelli  unu di i megliu artiggiani di u nostru rinascimentu    7    5 nu        pr e u pu  so andatu a bedelu  in casa soia  ellu sta in bastia   una  gran parte di lu annu  ma si ne va suvente in  villaggiatura a monserratu            logu  ameenu  chi ellu  celebro ia un famosu sunettu      o   giace sopra a bastia circondato  di alberi e di ammirabile verdura  lo storico antico bello monserrato  dove vezzosa ride la natiira       fui assai  cuntentu di rivedelu ia bona salute  dio u cunservi cent anni  e avenduli fattii cuniosce u scopu  di a mio visita  mi  rispose sorridendu  2 chiama  a un    benite di a parte di a  muvra   mi face tantu piacere    ma cosa vulete da me   un  scrivu piu  e  solu a campagna mi intefessa    guardate i mio fiori  si presentanu  be    e poi  godu qui  di un spettaculu rarus   ne da e  e cum u pueta stava  in  meditazione ne u so giardinu furitu  li fecifai i primi versi di u so sunettu sopra a  monserratu    e allora  lagrimendu  mi strinse a manu        o bravu  bravu    ma bi ne pregu  maestru  so qui per una visita di cortesia  ma ancu per ave ragguagli intornu a i vostri scritti    i e   u scio  ghjseppu giovannelli  sempre inudestu  un mi dede u tempu di fint   tt      no    caru amicu    solu fui pueta    aghiu cullaboratu  a  vari giurnali  a u petti bastinis a  bas fia journal  a u bullettinu di a cirnea  e sopratuttu a  quella famosa tramuntana fresca e sana    aghiu scrittu in corsu e in ifalianu  e queste dapoi quaranta cinqu andi       so natu in occiglioni  santa reparata di balagna  u 26 aprile  186o ciu quellu caru paese di occiglioni situatu sopr a un collu di una piccula muntagna e chi face specchiu e curoni alia bella isula rossa       cume presi gustu a  lingua ita liana   eccu  ci era ne u 1874  a santa reparata  un omu assai dottu e gentile  michelangelu olivi  di oc  ciglioni  chi fu durente binti cin  qu ridi maestru di scola a firenze    era in corsu  degnu  e un grand  ammiratore di flfalia    e fu ellu chi mi insegno a dolce lingua   ove il si suona     afdava in casa soia  a sera  a truvallu e st omu colmi di patriarcali virtu mi famigliarizzo cun dante e petrarca             il   gentil idioma  cantava in me  e divenni pueta      o       u povaru di michelangelu olivi  chi ellu sia in bonu logu    mi diciva sempre     rammentati  fanciullo  che l italiano e la sol  armonia che  a ndi conviene        mi stabilii ne lu ahnu 1869  in bastia  induve mi so mariratu u 26 aprile 1882  propriu u jornu anniversariu di a mio nascita         e st avvenimentu simultane u fu per boi un segnu di felicita    mi ricordu di u sunetti che boi dedicasti a vostra cara e degna cunsorte  in occasione di e vostre nozze di argentu       i    a to grande onesta  imia cara rosa  u to per me prufondu e puru amore  a to rara esatezza in egni cosa  mi fecenu felice a tutte le ore   rendimu grazie al dio dell altu cora e faccia che  dopu e nozze di argentu possamu celebranne quelle di oru       e bi sia cuncessa  caru maestru  perche avete meritatu u dolce affettu di i vostri  e a stima di noi altri tutti      e      amicu  biringraziu di ste parole  e mi ne vedite prufondamente cummossu    ma riturnemu a noi  amu baslia induve contu numerosi amici    bastia  u piu bellu paese di corsica  senza offende nissunu  e poi  ti amu  a corsica      sottu un celu  chiarissimu e serenu cu e to sponde pumpose ac arezzate dai flutti lusingheri di u tirrenu   e to alte muntagne cireundate i di castagni e di macchie cu e so cime   carche di bianche neve immaculate   aghiu sempre scrittu ind a lingua di i nostri babbi e mi onoru di ave avutu fra i mie amici petru lucciana e santu casanova    mi onoru di ave celebratu u nostru gran pasquale paoli       o    ma nondimenu  aghiu lavuratu modestamente e alievatu a mio famiglia in  mezzu a i ricordi di u passatu    aghiu servitu dio e a patria    eccu a mio vita    nulla di piu  i      begu cun gran piacere u muvimentu naziunale chi a muore ha destatu in ogni 1ocu e so fieru di a giuventu cursista    ringraziu u signore di avemi fattu vede sopra a u tramontu  di i mie jorni  cusi bellu spettaculu      e i sa    parlatemi  caru maestru  di a vostra opera corsa e di quella cirnea che boi fundasti cun petru luc  ciana  le autore di tante belle cummediole      1       amicu  bi pregu  qui finisce a mio vita letteraria  e solu bi possu parla di a mio vita campestra   guardatemi sti fiori p               xx  e cusi finibbe a nostra cunversazione  ma a costu di offende a so mudestia  chi ellu mi sia permessu di fallu cunosce megliu      i   ghjseppu giovanelli e assai populare  in bastia    e lu omu onestu chi sempre rese servizi    e per fa u be  un  ebbe chi a seguita a legge di cristu   ama il prossimo tuo come te stesso       ha bistu a so vecchiaja abbrunata da un gran dolu   u so figliolu  artur  giovane di avvenire  fu vittima di a guerra  e peri ne lu affundamentu di u balkan  u 16 agostu 1918    ci os a 7 i  tamantu dulore un li dede piu a forza di pueta e solu ne u 1922 dedico un sunettu   a  lingua corsa  fu la ultima  soia manifestazione letteraria    e avale  dopu ave parlatu di po mu e di u cristianu  parlemu di u scrittore   i bastiesi si ricordanu sempre di u bellissimu articulu   cunsacratu a giovannelli da  un scrittore francese  claide sauvageot   2  ne distacchemu  u seguente passaggiu  e    ci est un travailleur aussi que  notre ami le poete  corse  giuseppe giovannelli  de bastia   dans la rue des terrasses  pavee de larges dailes et ou grouille une foule dense de petits artisans bastiais  il a son echoppe  de cordonnier  sur li etebli  entre les lames de cuirs  les poincons et les alenes  un exemplaire du dante  cet ouvrier di une epopee divine qui ne meconnut la beaute di aucune tache humaine  a u retour du travail  a le heure crepusculaire qu ils cherchent instinctivement a ennoblir  les amis et les ca marades viennent si assoir devant le echoppe de l ouvrier poete  autravers de dante  giovannelli sait remonter jusqu aux sources divines de l inspiration chretienne  et ci est une joie toujours profonde pour les camarades assembles que de provoquer de lui  a u hasard de la conversation  quelques citations longuement  commentees de   li evangilei     3  do      lx  cunobbi u pueta giovannelli ne u mese di maghiu r9o6  e un ghjornu  ebbi occasione di sentelu parla sopra a  dante  manzoni  carducci e a letteratura italiana    ci era grand adunanza intornu a u so scambellu    e tutti   vecchj e giovani   ascultavanu le arecchie tese e senza perde una parola    entrai propriu a u mumentu chi u pueta spiegava l is crizione chi si trova sopra a porta di lu infernu  canto dt      per me si va nella citta dolente   per me si va nell eterno dolore  per me si ya nella perduta gente   un becchiettu  mezzi spaventatu dumando    cumie fa  maestru  per salva a nostra anima       e giovannelli di risponde    serve dio e ama u so prossimu  se no      lasciate ogni speranza voi chi entrate   giovannelli fu dunque un moralista e un educatore populare  e per questu un faciva che seguita u nobile esempiu di michelangelu olivi di occiglioni     li feci nondimenu un amichevule rimprovaru per un articulu chi ellu scrisse ne lu annu 1899    giovannelli cunfisso lealmente u so errore   scribitur  ad narrandum   non ad probandum    e solu a puesia ha pe surgente u core        infatti  un bisogna dimentica i so belli sunetti a le onore  di i li elbani  nostri cari ospiti   pe a visita chi fecenu in bastia    8 jugnu 19o4     viva la bella italia  e la francia  viva le nobil due patrie latine   questo grido vibrante che  il mio cor  slancia  passi il tirreno ele montagne alpine   e vada a saltare gli abitanti della nazione la ove il si suona   e gli apprenda che i corsi tuttiquanti di cuore amiam fitalia bella e buona   a nino cagliani  u celebre aviatore chi fu u primu a traversa u mar tirrenu  da pisa a bastia  ottobre 1912    o della bella italia almo figliolo  intrepido e gentil nino cagliani   tu da i lidi si fertili pisani  atterrasti sul bel cirneo suolo   con grande entusiasmo e ammirazione ben ti accolse dell inclita bastia tutta quanta la populazione  a fartisti di e cumpagnie italiane in bastia  19o7 e 1913   a la italia quandu venne a nuvella chi ella era neutra  agostu 1914       la tua condotta e quella  di una gran nobilissima regina     e poi quandu ell entro in  guerra  maghiu 1915    tripudia italia  ormai la ora solenne  tanto attesa  del gran risorgimento   dell unita tua con trieste e trento   e della piu grande italia alfin venne     giovannelli ama la italia e si diletta ne a favella di dante  ma cume tanti corsi si e mustratu sempre leale inversu a francia  a gloria di a quale ha sacrificatu unu di i so figlioli    o         la opera di u pueta  si puo divide in due parte  a classica e a populare    ricurdemu in primu logu  ne u periodu chi ba da 1879 a i9oi  odi  inni religiosi  ditirambi  elegie  epitalami e epigrami  quasi tutti in italianu   ii santissimo crocifisso de miracoli  1891   ode alla memofia di cristoforo colombo  in oc  casione di u quartu centenatiu di a scuperta di la america  1892    al pittore novellini  19oo   assunta  in cielo  1898    u ponte di moltifa u  1899   lettera   aperta a mi  waldeckroussea u  19o1  a  canonico paoli del  isola di elba pe a so predica in bastia  1899   ecc    e poi a muderna  ossia populare perche scritta in dialettu  corsu   canzoni  ballate  sunetti  induv ellu espritne li affetti di a so propria anima  ricurdemu  diserftazione sopra puesia  betta di muru  vi sione  19o4   una festa in campile  omaggiu a pasquale paoli  1911   blegia sopra morte di a signora gavini  19o3         monserrato  1917   varie puesie e numerosi articuli in prosa ne  giurnali a tramuntana  le conservateur  le sillon  la croix  e nel almanacchi lu arfiggianu u cis mez ecc          salutemu di core giovannelli  bona pueta e umile cristianu  e li auguremu di vede paestu a risurrezione di a corsica   
+  s
+    </p>
+    <docAuthor>
+     Eugeniu Grimaldi
+    </docAuthor>
+   </div>
+   <div n="3" type="poe" xml:lang="co">
+    <p>
+     lu apitittu di calabraga  cummedia in 5 pranzi e 13 cul lazione    v iu  un sonnu  calabraga  la altra notte  durmendu cu gran diletta  ha fattu par duie volte un dolce sonnu in lu lettu  sirvitu da jente brava   eccu cio chi ellu magnava   cricche   cavichj  castrati  cistine  cigne  curdelle  chiave  chiodi cappillati  cascioni  casce  curbelle    capifoghi  copriletti   cioce in cola e cataletti   falce  furchette  falcioni    frissoghie  fiaschi  fiaschetti    fere  feltri  farfalloni  ii  fili  filari  frisgetti   farri fini  forche chiuche  furmiculoni e fistuche   pinze  pignuli  pistelli   pecure  piatti  paghiole   puce  pagliette  piulelli   pale  palchi  palliole   pipe  palmenti  papina pidocchj cu pisticcina   scarpi  stifali  stacchette  sferze  suffietti  stalloni   stili  spurtelli  saiette   sumeri  selle  stagnoni   stoffe  staverghe  stuppini  stalle  stuvigli e stufini     brille  brisacche  brunzini  bandere  bambule  botte  battifochi  baldacchini   bolli  balene  ballotte   bende  bussetti  bazzili   bucce  bragheri e barili   rocche  radacchie  ramette  rasgina  ragni  rampini  raspie  rastelli  rascette  ranocchie  ricci  runzini  radiche  ruspi  rasielli  rondine  rondi e rundelli   marre  manichi  marroni  mazze  mazzette  marzine  missali  mele  mattoni  manganelli  manduline  malerbe merze  mullette  mangani  mappe e manette   testi  tintenne  tuvaglie  tundose  tine  timori   tacchi  tinelli  tinaglie  tabaccu  tamburi  tori   trave  trove  tavuloni   tilaghj  tappi e tafoni   asciugne  altare ed arati  alloppiu  ancudine  anelli  arcimuli  asini asgiati    anticristi  ancure  acelli   ape  almanacchi alfabeti   ami aghi  agli  abiti e aghetti   caffe  quand un corsu saluta un cariiavale   u carnava li  deve lu salutu   a u suldatu risponde u generale   di lu omu a pulitezza e lu tributu   un corsu un ne e mica un senegalese  quest e la lizion  di stu paese   un sigaru  in corsica oramai e malannata   e magru in prisente incu le abene  la isula spnpulata e framannata      cu to apituttu an ti puo piu mantene    calabraga  sta a sente un paisanu   fa prestu sa valisgia e sia luntanu 
+  s
+    </p>
+    <docAuthor>
+     Maistrale
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="co">
+    <p>
+     un odiosa  campagna  un giurnale  u piu stranu di u mondu   ha quattru   faccie cume 1 cantelli   23  je suis oisea u   voyez mes ailes     accarezza li italiani di marseglia  ricchi e numerosi  e da a frusta a li italiani di corsica   povari e abbandunati da futti       avete ben capitu   la anaira marsigliese hole fa crede di a so edizione di marseglia chi ellu ha simpatia per la italia e li face a guerra ind a so edizione di corsica       ...  avemu lettu  ne u numeru di u 17 ottobre 1925  edition de la corse un articulu intitulatu  francais avant tout  articulu senza capu ne coda  ma pessimu e dulurosu  e ne u quale si parla di manda via di corsica tutti li italiani  soltu pretestuch elli preparanu  une grande offensive di achat           pa  e  le autore prosegue cusi      le gouvernement restera  ti  il indifferent devant la menace de nos voisins  nous ne le croyons pas  ll faut que  dans le ile  nous chassions comme il convient tous ces etrangers e i que nous les refoulions dans leur pays      ne    legghjmu ivoppu suvente i listes  si odiosi arliculi e ci meraviglieniu chi certi scrittori   corsi di nome  si faccianu i complici di la anatra marsigliese  e  u fattu un  si po niga  ti redattori di la anatra  edition de la corse  recanu gran dannu a  leur patrie  la france  perche li facenu risica di perde la amicizia di la italia         per sti tempi di bisbigliu  a francit un ha mica interessu  credimu  di perde la amicizia di una nazione chi tantu fece per ella  durante pultima guerra         mauvais frangais   eccu cosa so vitti sti scrivaccioni chi pretendenu serve a corsica   ef la france  leur patrie  5manu bisognu di una piccula lezione di cortesia  2       dinuncemu a le opinione pubblica la odiosa campagna di la anaira marsegliese chi ruvina a reputazione di a corsica    i  avemu sempre accoltu benevolmente poperai italiani e un mtendimu nica che una duzzina di rinnegali a u serviziu di mariannona disturbinu a pace   e  
+  s
+    </p>
+    <docAuthor>
+     Saveriu Malaspina
+    </docAuthor>
+   </div>
+   <div n="5" type="let" xml:lang="co">
+    <p>
+     lettera di tagliu  caru cisprinu   ziu  ton battista  trascinendu a so anca indebulita si ayvicina e mi dumanda  e in duve ne simu di   rise e piantin         marchia  marchia    ste duie pardle un vi dicenu gran cosa  ma quandu bi averaghiu spiegatu  tandu biderete un pocu      cum ellu dicia mertinu  ultimamente  chi ella era dra di sparghie un pocu piu le opare di tutti li anfarti  ci vole a di ste cose  sceme  ma cose di la intelligenza  bisogna a raccoglie u cantu chi bula e fa libretti pieni di ale  ie sti poyeri piupioni benuti di a le elicone carchi di lauri berdi  curazzati di un ideale involti di armunia so un pocu dimenticati  nu    un giurnale un basta micca per fa risorte u valore di tale autore  u giurnale passa  a  rivista dino megliu e u  ji  bru duve so riunite tutt e puesie di un pueta cascatu in corsica  in duv ellu canta cume un rusignolu e notti di aprile        5 a  paoli e unu di st accelli    fu un tempu chi ellu canto forse bi ne arricurdate sempre  ora si ne sta tranquillu in ne u si anghione a passassila sgagliufata se no pudemu di cusi  fu sempre un travagliadore e si trova addisperatu di vedesi ridutu a trascina la anca  ma chi bella figura chi e stu pueta  guardate stu sguardu prufondu chi si perde ne lu infinitu  sta fronte alta e fiera  sta verba venerabile  chi rende cusi simpatica sta faccia di musa   ma benimune a u fattu  si dicia dunque chi   rise e pianti   merchiava be  stu nome  cun quellu di paoli  cumencia a mettevi in strada   rise e pianti e una raccolta di u pueta taglincu  e  lu avemu bulsutu fa pe u trionfu di a lingua corsa chi elli volenu mette in pianu e calpighia  lu avemu bulsuta fa  perch ellu si pudessi di chi ellesiste sempre in corsica  malgradu l abando  nu  criminale  una voce meludiosa e arhurosa impernata in ne u so rughione  bulemu chi sta voce abbia un eccu  chi ella ribombi cume u sonu di u ue lombu fratellu di a liberta         appruntatevi puru  e paisani  chi prestu vidarete  fate puru fagiole e binetta chi paoli bi fara passa allegre e votre veghie  quand ellu surtera   rise e pianti o chi scaccanate chi elli si fera per sti fugoni  un ci sara piu bisogna dijallicantarini  gi o    appruntatevi puru a pensa  di pueti  che prestu paoli bi svelera e piaghe sanguinose di u nostru paese     quante lagrime  cursisti chi ellu eosta u lamentu di u castagnle puru si ta  glia sempre  sempre le usine rodenu a legna succhiosa agradicata  ib terra corsa un si sa dipdi quanti seculi  piu brilluli e pulenda chi scarseta   sera la ferina  piu  pisticcine a sfrasca  chi e disucchiatu j alberu di e castagne      ridide puru chi paoli ci pensa giuvinotte e giuvinotti  leghite u matrimoniu di   bisognu e miseria   chi ride ii superficia ma legrimeghia in fondu  ridide  chi ava affacca piccione cu a so moglia nentr a  u  ciuffu  scianchighioni collu tortu  ciuffu spiutatu piccione ritorna da la amicizia ma  chi la importaa si ella ha persu u so ciuffu  a  cosa  e chi paoli li faccia una carizona  e questu un manca di falla piena di risa   e cusi da una pagina a paltra  e caru cisprinu  e boi tutti  cari lettori  ride  retee pienghierete        e per quessa chi paoli dicia   in duve ne simu di   rise e pianti      a rise e pianti  sara stampatu cu e corneeezampeleste e ferme di a muvra aiaccina  curi lu aiutu di u nostru caru direttore  petru rocca chi speru  un bulera micca lasciabbi brugia di a u pia  ce  di leghie sta bella raccolta di paoli di tagliu  di quellu tagliu chi cantava secondu la aria di a tramuntana di ziu santa     ma prima di tuttu  ringraziate a u scio petru rocca chi ghie ellu chi tene tantu a fa ride i corsi persi in ne a miseria di u so paese dimenticatu  a rocca di a muvia ardita e  bivace 
+  s
+    </p>
+    <docAuthor>
+     Iseppu Filippi
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     a ellobin leturn   so qualqui coppiu di mesi a to voce piu nun sentu    soga li to vecchj arnesi  li si ha pigliati lu ventu  tantu talentu smarisce un da possu cuncepisce   una canzona ogni tantu   o puru una letteruccia un ciole simile stantu     e labre di a mio stelluccia lu averebbinu cantate in cu ste longhe serate   ti ne si forse scurdatu    di quella prumessa antica      chi ti averisti mandatu    qualcosa pe la ti amica        ghie sempre pumposa e bella  ma  pienghie la curcierella   festi una dichiarazione  elia ti cridi sinceru   ma di fa lu chiacchiarone in paese furesteru cumbeni caru bonelli    sende pocu a li zitelli   tutti li jorni mi dice     quessu era un burlascone    e ba di fole in canzone     di tenemi face nice       a su jocu quindi e lu usu di fassi rompe lu musu   boli chi io ti di a un cunsigliu a titulu di amicizia   sp  fa finisce stu bisbigliu      chi ella morga st avarizia  mandali cu i scarpi fini quattru paghie di peridini   una scatuletta rasa  di polvera parfumata    adirrizati a la casa   chi ella sia accumpagnata di culori  variati       e di  crema  rinumata   si tu ti senti per casu       a stacca un pocu calletta   una rubuccia di rasi    mi  o puru di setinetta   si tu la  mandi  di lore   quantu li fera piace   ava chi ju tempu pressa parlemu di roba seria   chi ella ti sia cuncessa  cu sta piccula miseria  chi aghiu pudutu cumpone ln du lu mio catagnone 
+  s
+    </p>
+    <docAuthor>
+     Ghiuvanni Olivieri
+    </docAuthor>
+   </div>
+   <div n="7" type="poe" xml:lang="co">
+    <p>
+     dialogu  tra moru e landry    landry moro lu me galantinu   lasciami la direzione   parch eju so untu e finu   e di molta riflessione    u gradu di capitanu   nun e per un capi vanu   moru  lu me cuccu balaninu   capiscu lu to discorsu   so maestru parigginu   e di piu so ancu corsu    a te piu nun mi cunfidu   chi a nessunu nun se fidu   landry se tu mi facc inzerga   uniti cu cilistinu   vi furzaremu a sbarca da nant a tu  vittufinu    teni menti ste parole   nessunu piu nun ti vole   moru  ma pero stu cilistinu    cunosci lu so paesu   e tu lu me balaninu se cume lu venachesu    nun dici ne si ne no   com un otru a bocca ngno       landry se tu cerchi a parula   lu me corciu avucatellu   daretu ti aghj a frupa   guasi tuttu lu cartellu    e po aghiu anc a campinchi   chi ti tagliara li schinchi     moru  nun fa piu lu carnavale    ej nu facciu nisun pattu  ti azzigaragh un giurnale   chi fara lu to ritrattu   e nunziu chi e dicuratu    sara sempre a lu me latu   landry  nun temu li giurnalista   perche cambiu vulenteri   tantu so millerandista   e tantu cu lu puteri   prumettu cio chi omu vole   a chi cred a me parole   moru  tu se stat a la marina   ed ej a lu 7ic nique   semu di stessa farina   e di listessa fabrique     aghiu datu tanti piazzi   chi mai piu fu nun mi scalzi     tutte e dui nun bisogn a liticacei   sopra cosa chi nun vale   avaremu da spiegacci   a u cunsigliu ginerale     vidarem in consequenza   a qual tocc a prisidenza 
+  s
+    </p>
+    <docAuthor>
+     Ghiuvanni di u Pinzalonu
+    </docAuthor>
+   </div>
+   <div n="8" type="art" xml:lang="co">
+    <p>
+     sittimbrinu    u sittimbrinu  di u quale bogliu parla oghie un e quellu di sidossi  chi morse in fiaslia binti ann  fa  ne mancu quellu di calasima  chi si chiamava ceccu alfonsi  e chi e mortu anch ellu  u mio eroe era di casi macciuli e bivia a u tempu chi prete seppu era curatu a lozzi       ma tandu ci era a lozzi un bicchiarellu chi si chiamava pastor fidu  e questu  curendu e so picurelle stuzzicava e muse  e canticchiava sempre qualchi canzunetta  trinnighendu un anca sopra la altra    dunque u povaru sittimbrinu di casamacciuli  era mortu di sittembre  qualchi ghiorni dopu a santa  e prete seppu era  statu imbitatu  alj interramentu      i    dopu fatte e funzione prete seppu si ne riintrava a so piarocchia  ed era iuntu all altu di a casanova  duve pastor fidu facia finia di dorme  a corpu in su  a u sole  mentre chi e so picurelle pascianu     prete seppu chiappo u pasiore per un calzone  u trinigo e po disse   u pastor quand e straquatu e ben tecchiu di caghiatu  dorme chi pare scannatu   pastor fido  discitatusi  e facendu finta di esse iu zarga  disse    qual e questu chi surprende senza nulla chi pretende   si io li tirgu si distendel   e po dumandoa u curatu  da duv ellu vinia          so statua lu intaru  di sittimbrinu in casamacciuli   pastor fida aghiunse    disittembre a sittembrinu la ha prudottu la natura e sittembre a sittimbrinu  la ha purtatu a sepu tura 
+  s
+    </p>
+    <docAuthor>
+     Ghiuvan-Paulu
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     addiu a i mio musfacci  u sacrifiziu  ormai  e cosa fatta    addiu li mio belli mustacci neri   un rizzarauu piu i so pinzi fieri   perfida lama  e nun cascaste in pezzi  eccumi ava insummatu di disprezzi   un so piu che un ghiannettu a testa matta   miralln  ava passa  buvalone   lu astutu sampetratciu  u capi vanu   ghiuvanni almenu  risembra nn piuvanu   1  ma ellu   uh  cusi goffu  un cundannaiu  eccu le impressione di u vicinatu vedendumi passa pe lu stradone   ma    facciu orecchia sorda a ronchi e beli  pensendu a lu nostru teatru corsu      chi un vele  chi  pilutu cume un orsu   salt in scena a impattammi di a risata fatt a mio spesi st etima passata  per ave fatiu  che  tosu tre peli  
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="10" type="art" xml:lang="fr">
+    <p>
+     severe mais juste  m mandel l ancien et celebre depute de la gironde a recemment por te sur les representants de la corse un jugement tres dur mais somme toute equitable   u montre dans la revue hebdomadaire du 24 octobre dernier comment m caillaux combattant les taxes de remplacement que les secialistes propossient de substituer a la taxe sur le chiffre d affaires vit se grouper contre lui presque tous lesradicaux socialistes il n eut avec lui que les deputes de la sarthe tout naturellement et ceux de la corse et des colonies qui pour ce jour la lacherent carrement leurs confreres du cartel m mandel s exprime ainsi   il ne jui est reste avec les representants de la sarthe de la corse et des colonies que ces elements friables  invariablement a la remorque du plus fort quise situent sot a la gauche d une majorite de droite soif a la' droite d une inagorite de gauche pour etre toujours en mesure de frahir   c est bien cela a la gauche d une majorite de droitee voila pour landry a la droite d une majorite de gauche  voila pour caitucoli giafferi et sari ils prepafent toujours ainsi bien tranquillement leurs lichages i m landry du bloc national votant pour le ministre painleve emanation du cartel donne une eclatante confirmation aux dires de m mandel
+    </p>
+    <docAuthor>
+     Pasquale Manfredi
+    </docAuthor>
+   </div>
+   <div n="11" type="feu" xml:lang="it">
+    <p>
+     invocando inviliti a difesa coteste  anime che comprarono superbi agli fammani sollazzi  e credo ancora che  a cartaginesi a mantenere  come ho  detto  quel vivaio di uomini ci troi vassero il proprio interesse  perche  quanturique lo abbaco non avessero ancora inventato  pur di cofto sape vano fare anche a quel  tempo   intanti ai romani erano allungati i  denti anco su le marine  pero vensmero in corsica con la armata  dove suno scipione romano  contendendo  ell osse con arinonie   cartaginese   glielo strappo dai  denti rimandando   lo concio come un ecce homo  in  cartagine io ho letto su i libri come  per molto volgere che abbiano fatto di carte non sieno riusciti a trovare   la cagione donde i romani mossero contro la corsica   ma e non sono curiosi costoro  la forza che va limosinando un po di apparenza dal diritto e trovato di moderna ipocrisia   a quef tempi la forza proce  deva mida e cruda   e non  avrebbe tenutotin casa il diritto  ne manco  per le spese  oppressori furono i romani perche forti  oppressi noi perche deboli  badate di non appuntarmi di confradizione se  mens tre vi dissi dianzi che i corsi destinavansi dai cartaginesi alle armi  adesso ve li do per deboli  perche la contradizione  si cava di mezzo avvertendo   che  forza e debolezza  sono termini relativi  per la qual cosa i corsi  comecche in se forti  potevano comparire deboli di peito ai romani o per numero o per arti  di milizia  o per questo altro chi io vi  vado a dire  popoli veramente forti  sono quelli che da una mano trattano la zappa e dalla altra   la spada  il popolo dalla zappa sola casca facile preda di chiunque vada armato a sottometierlo  il popolo con la spada sola si vende e si rivende  e aminazza pef vivere  il popolo poi che ha da difendere la casa  il campo e il camposanto  pare che non muoia mai  perche di lui now si viene ordinariamente aicapo  se prima   passato per ogni estremo  non  si senta rifinito di forze   e la natura sembra che abbia voluto in certo modo av visarcello quando commise al medesimo metallo lo uro e paltro minis  tero  perche dandogli  la zappa di ferro gli insegno che con quella aveva da lavorare  e dandogli la spada di ferro lo ammoni che con  quella doveva difendere il frutto delle sue fatiche  affrancati noi dalla tirannide cartaginese  a non patire la romana avevamo ragione da vendere  ma avemmo torto quando mettem mo innanzi la ragione senzarmi per  sostenerla   tuttavia  con lo ingegno supplendo al mancamento di forza  una volta ci capito di circuire claudio glicia  ne gli lasciammo altro scampo che riscattarsi a patto di pace a noi comportabile  l accordo  dispiacque al consolo varoe alsenato  ai quali riusci ottenere vittoria non ardua di noi ormai assicurati della pace  solo  per conservare illesa la fede quirita  ci manda rono glicia in catene perche lo  martoriassimo    noi visto il tapino  dicemmo    mancano carnefici a roma     difatti  rispinto da noi  essi lo ammazzazarono in carcere   le ipocrisie della giustizia odio piu della stessa ingiustizia  non solo  ne in catene  dovevano renderci glicia i romani  bensi co suoi compagni  armati ed in mezzo alle strette dove  gli avevamo chiusi noi  allora  avremmo forse vinto  non pero seni za strage  che i romani erano usi a quei tempi di morire con la caine fra i denti  oppressi  non vinti  il  cuore non  i sbigotti  pero riparati  su le pendici  a mano a mano che le vene ci si riempivano di sangue  scendevamo ad arrisicarcelo al giuoco delle battaglie su le pianure rubate  ci vinse la seconda volta marco pinario pretore  ammazzando duemila dei nostri   tolse  seco ostaggi  cimpose lo annuo tributo di centomila libbre di cera  otto anni dopo col cuore medesimo  ma cou forze maggiori  tornammo a metterci allo sbaraglio e con fortuna del pari simistra  che anco per questa volta publio cicereio taglio in pezzi settemila dei nostri  ai superstiti impose doppio tributo  bisogna dire che la vittoria non fosse lieta ne anco per lui  all opposto piena di ansieta  imperciocche le storie notano chi ei votasse a giunone moneta una cappella se gli dava sgararla  non vi crediate  gia che per queste battiture i cersi  come gente ricreduta  quietassero  se voi locre deste  v inganneresie a partito   di li a breve  f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

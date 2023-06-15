@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1922_15
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     corse o ma divine mere on te dit delaissee misereuse miserable ah permets moi d'en rire et ris donc avec moi puisque tu sais le contraire    dis que cela est faux  dis qu ils se trompent ou qu ils te calomnient  crie le leur bien haut et bien fort a tes detracteurs non tu n es pas malheureuse  non tu n es pas malade  non tu n as pas besoin de medicastres non l implacable destin se gargarise d eau mentholee et gante sa peaume caleuse pour te dotiner son habituelle accolade et le sonore soufflet des elements eux memes des' elements dechaines n arrive jamais sur ta joue veloutee qu'en une indefinissable caresse non     evidemment  vous l avez recu u lavati i u jehanne la pucelle  zelateurs et zelatrices et mes tres chers freres jazz band partout ou c est mon homme  la dame et je prends baccarat et roi des croupiers  je suis corse c est vrai mais j ai toujours habite le continent mon pere il est douganier la corse a ete vendue par la republique de genes a la france et napoleon  est l ogre  cinema les mysteres de new york et haut les mains egouts creves  immeubles lezardes couloirs infects  courtils nauseabonds  foyers de pestilence  chiens errants obscurite  serenades  et coups de revolvers terres en friche forets incendiees et torrents pastissueux marseillaise et chant du depart    et puis  de ceci ainsi que de cela o corse  j en suis certain et je t en loue tu te fiches comme de ton premier soutien gorge n es tu pas belle tres belle  cela suffit generalement pour plaire et tu plais    va t allonger au soleil va kittim o ma mere ton soleil c est de l or en barres que la france notche patchie  ex argentier de l univers n a pas encore songe a remplacer par des coupures   endors toi dans la quietude de tes pesantes apres midi de tes apres midi ouates de torride chaleur et de silence accablant dors  a ton reveil peut etre trouveras tu un graisseux cornet de pommes de terre frites que la france notche patchie qui s appelait autre fois la gaule  aura par une delicate attention discretement pose pres de la grise viscosite de ton peu ragoutant  dors toujours o ma mere a ton reveil qui sait  tes enfants modernes petits poucets egares de par le monde te seront ils revenus chausses de bottes de sept lieues dors
+    </p>
+    <docAuthor>
+     Kyrn
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     o chi risa  cusi vinlitteru stu  puletti  in primu logu a tacca e vi rompe i stivali  si vo rispundite  diu ne guardi   tandu cerca a morde e  si ellu avia sempre i denti  vi si magnaria   adopra a vindetta senza avedesine cume quand ellu si purgo  una sera quella sera  puletti si chjno versi mezza notte  cridendu chi a porga via fattu u so effettu    e si adruminto  ma in sonnu  a voglia di sufracassi venne  puletti  cridi  tira ventu e tiro altre cose  fu tandu  chi  a sociara chiamo   puzzicone         dunque ancu u sacristanu e tistimone chi puletti e vinditteru e puzzicosu   par si affare di a guerra du 7o  a sapara ellu cio chi ellu fece  si su patriottu un ne e ancu a lu infernu  e segnu chi a tana piu suttana diu diavule un ne e ancu finita  a so cuscenza e nera niella  i mesi passati in  di una  casa poletti vide una midaglia di u 7o allora cridi chi a guerra era dichiarata   si caccio a fughie e  pa e scale anc un pocu si tronca u pede  quandu in bastia  i so sculari scrivianu  sopra u   tablea u x   787o    puletti  divintava scemu da lia   dumque u guardia campestra e tistimone chi su professore di  patriuttismu faria megliu di pone pomi        armemuci  o figlioli  e     partite      puletti si dice bonu corsu  ohime  ma ti cuniscemu  erbetta   in bastia   su ruspu avia a malatia di fassi purta   giuratu par pude cundanna tutt i corsi a u   maximum   quand ellu vidia un achitamentu  su scemu divintava mattu  si ellu era statu padrone  ogni corsu saria a caicna cu 2o anni di galera   in corsica  si imbambulitu un ci vede ca vindelie e banditi  or duva so tutti si banditi   sara piu banditu qellu chi tomba un omu  o quellu chi cerca  cu e so bugie  a tumba a corsica       puletti ha passatu  tutt a so vila a di  a scrive male di a nostra isula   quand ellu parla ci un turistu  ellu un sa di male  ca di i corsi  banditi  vinditteri  ladri  bugiardi  eccu i so cumpatriotti  in piu  ava  ci ne  e chi scrivenu in corsu  chi  traditori tra e cumpagnia            eccu e nostre conclusione   puletti le un vinditteru  un patriottu senza  calzone e un mattu  ogni volta chi ellu pigliara  a so  pinnaccia contru a corsica e i corsi  noi li rispundaremu canzunelle brucciate e virila colte e crude    su mattu dice chi u pane ci heju aghiu magnatu in francia pare statu vilenu   or eju parlendu e scrivendu in corsu  un ne abilineghiu a nimu  ma  ellu pare chi ellu aghia suttu toscu  cu i so detti e i so scritti  cerca a attusca a corsica   a la pace   grida puletti  dopu ave murditu a  dopu ave cuminciatu a guerra  ava vole fa cume in 7o  no  no  un ne avemu ancu risu abastanza   si ellu cutinua a rompeci  e stacche  noi u faremu lia e     tocca e viaghia versi  sciaranto
+  s
+    </p>
+    <docAuthor>
+     Maistrale
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

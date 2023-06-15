@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1922_17
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="co">
+    <p>
+     annant a duie mazzette tennere di matresalva sbuccita chi facianu alz e cala  u pettirrussu e a capinera  scaretorizavanu  ad altu sole  e si scurdavanu di fini i so nidi     a vostra voce  o cumma  mi pare  stamane  linda cume a marina  mi pare ancu forse piu fresca e ingaggiunte ca prima volta chi io v intesi bi ne imbenite   sottu a lu olmu di a funtana  quand io feci quella riverenza cusi timica ci vi dissi   bona sera     mi ne imbengu cume ava  a vostra voce  musica di incantesimu  e fatta pe u paradisu  mica pe i nostri jargalacci  un mi ne possu mai sazia  ma  a dibbila franca tutte ste canzone in francese  un mi darenu tantu   ne infilate quant un prete ne benedisce  e cu lu accentu parigginu sciappatu cume si bo fussite nata indu giardinu di u luxembourg   un sapete  e cumpar pettirro ci ava un si paria piu o un si canta piu ca in francese   agguardate tutte mio surelle un so bistute a moda francese  scarpini a alti tacchi  guanti e polvera di rizu ombrellini e parasoli  tutti articuli compri a la samaritaine et a u printemps    a moda e cusi   bisogna seguitalla  ed eru  cantu  vulinteri ste canzone francese cusi aligracchjne e brutte     zitta     un mi struna e santissime   un dicu mica chi a canzona francese e a moda pariggina sianu senza garbu e senza sciccu   anch eiu so statu per se france  aghiu fattu qualchi cantatina  a u bois de boulogne  fontaineblea u   chi ce una belle furesta  intrattenuta   cunnoscu francesi i so custumi  e so mode  so canzone   ma    un tantu basti ogni fiore piglia succhju e culore di u terrenu duvellu spunta  eiu dicu chi li acelli corsi chi bejenu la aqua di i nostri vaglini  manghianu e mosche e i lumbriculi di i nostri rughjoni si impanzanu di chjaragie e di fiuroni corsi  devenu canta in corsu   un ti pare bella ed espressiva a lingua corsa      credi chi u francese sapia di tuttu      voli scumette un basgiu  chi a merla francese  un sa fa   inchjurlunchjunchju      vai  chi ella si inforzi puru e stinzi u collu quant ella po un ci riesce      un be     sopra si oggettu  o cumpa dicu cume boi  e un facci scumessa chi so sicura di perde  noi altri corsi ava  simu tutti infrancisiti  i nostri figliulelli appena impiumaticci  tempu chi ella a prenu u pizzicu  un dicenu piu  ti tengu caru  dicenu  je ti aime  tutt e capiandaghjne  e pittigiole spitturicciate  e cardelline  e codizennule  e trizzinelle  so tutte sciminghjulite  un bolenu piu ca ride e scaccana in francese  e poi ci e tanti acelli di pesu crocchj alti e infrigiettati    prufessori stituturoni disagrigati chi di a lingua di e so mamme un ne ponu sente nome  scrivacceghjanu sparlaminteghjanu  roncanu  fischianu e fumanu sempre in francese     per l amor di diu  un mi parla di li eretici       lu altru iornu un certu buletti  si vulia spiuma u cuccu  chi gira annant a i pulloni  di maistrale   sai su cuccu vecchju chi canta sempre in corsu  a la antigogna  quellu chi cu a so voce di viola     bouletti   bouletti     chi insettu sara     zinzara  zinevra  zarabiccu vespa  cudarzula  moscacieca  calatrone   si ellu mi casca in paru  di aghju di impara eiu  a tucca aroba di maistrale  un colpu di pizzicu e u mi scara bucchjuleghju     per un colpu di u vostru pizzicucciu  o cumpa  un basta  chjamatevi a cumpar picchju chi ne ha unu longu e ferrignu  e treminduie mittiteli un palmu di calateiu  a me mi hanu dettu chi quessu a u spinu  duru e le ale culurite cum un buvone vintile   vintile      ma mica jentile 
+  s
+    </p>
+    <docAuthor>
+     Martinu Appinzapalu
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k13308096
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k13308096
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 216 | Année 6
+     </edition>
+     <date>
+      1925-08-23
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Sest annata — Numaru 216 Esce a Dumenica Dumenica, 23 Agostu 1925  GIURNALE DI E PIEVE DI CORSICA  EH ABBUNAMENTI :  Corsica Due ee ee + + - 12 franéhi  In  In Francia  À PEsteru . - , + . + + - + + - - + 25  U Numaru:4 soldi  Direttore :- Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,852
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     risposta a u sgio de peretti    avemu accennatu  ne lu ultimu numaru di a muvra  a spedizione di u sgio vincente de peretti contr a u mulinu cursista  quellu chi macina u bonu granu cirnese  e ognunu si ricorda chi le ale  mosse da a tramuntana  invece di tracullallu fin a e stelle  lamponu induv omu sa l idalgo di a prifittura   ma  vinditteru cume un sartinese e mezzu  stu dumatore di ideale chi ne pare u pricuratore ginarale per la isula di qualchi lega capitanata da u culinellu rousset  e sallitu nant a so jumenta ingrassata a e sponde fiurite di a sequanae  dop a essesi calfatu l elmueave messu manu a so penna ha fattu sbarsa  in nece di sangue  lu inchiostru di un calamaru induva solu un barres saria degnu di conde   si arcifrancisissimu arcipatriotta chi ci un occhju adduluratu ha vistu da u so scagnu di u lantivy u macellu di 1914 duva noialtri  i  patriotta  corsi  nutavamu cu a sanguiniccia sin a qui  spande attraversu a corsica tutte quelle derouledesche tamburinate chi ci approntanu un prossimu tazzu   frankreich uber alles   gri  da cun voce mai stanca u sgio vincente de peretti  ed eccu ciocchi ci divide   ci un senzu accesu da a stragge di e nostre carne e da u dulurosu flagellu induva i corsi hannu persu tuttu fors phonneur  ci un sguardu abbituatu a vede cu a calma tandu chi ellu mughia u maistrale di u spaventu  ci un arecchia chi malgradu u fracassu  ha intesu u lagnu di maladizione trabuccatu da u core di i sacrificati tra u fiscu misginu di e palle e u bordu di u cannone  noi intuiscemu  videmu  sintemu  e tucchemu   i a francia  quella riggina  chi vo incucculate nantu a piu alta cima di a mappa  a fighiulemu passa perse pianure donna cume le altre so cumpagne  si accapa  dop a u gran tarramiutu di e so facende di casa  e le imperiale curona di oru impitrat a diamanti chi vo li punitein capu ci pare piuttostu u capagnulu chi la ajuta a purta a tinella rughiula di i  3 8o affanni     a noi altri  le amore di sta donna  o sgio de peretti  ci e surtitu da u senu parchi u latte chi no lu avemu suttu a disgrazia u truvedemu cusi amaru  chi capimu subitu chi ellu un era micca quellu di nostra mamma   e voi chi senza timore vulete fa una paratina cu i morti di u gran macellu abbartu a la insegna di pour le droit       vittime di a piu gran scruccunaria morale chi mai si sia vista dipoi chiu mondu e mondu  per asconde a u sguardu di altagna di cirnu i martiri di la indipindenza  trimate parchi si quelli chi si firmonu in lu tofu ingratu di u nordu si pudissinu alza i sintariate grida a so ira eterna cu voce piu putente ca quella di i sciagurati di pontendvu   e puru a sapele chi si i guerrieri di u 1769 so morti per un ideale  quelli di 1914 so morti pe u re di prussia  allora cessate di profana ci un eloquenza di oltre mare e spoglie sante di tante millaie di povari isulani sacrificati nant a le altare maestru di u bourrage de erones   ognunu si po infibbia un paghiu di sproni tandu chi u cavallu pasce ne lu ortu  ma u pretenziosu putere di divinazione un e  criditela puru  ca una malatia inginarata da a piu pagna sofistica  ci tocca dunque a nigavi  o sgio de peretti  st arte di sunnambula e un vi permettemu micca di di chi u dulore era assente da i nostri cori quellu 3 agostu chi marca a prima tappa di u nostru risorgimentu  un la vi permettemu parchi i vostri occhj  ben che belli acuti  un ponu vede e causgiule rabbiose salta da u tizzone rossu di u ramaricu ne menu a fiara sacra di a speranza   tre mila paisani so falati pe a cirimonia in quella piaghia rustinese  e un po ca esse di malafede quellu chi avendu vistu corre e lagrime e intesu i signozzi i piu sinceri pretendarla chi u dulore un stindia sopra a la adunata fervida e so ale di dolu e di redenzione  ma ci vole po a di  a vostru favore  chi li ecchi di quelle emozione un pobbenu ribumba sottu a i pini di vizzavona duve vo  a vi gudiate in pace quellu binadettu jornu   pueta  no o sgio peretti  veri corsi e basta  veri corsi chi si ricordanu  preganu e    speranu   e ancu veri corsi chi agiscenu  parchi a speranza un e  micca un nuvulu da duv ella piove a manna ma un castagnu pidutu e ghiambunutu duva u fruttu matura drent a un ricciulu prunicosu     voi pudete di chi u fruttu e vilinosu  chi ipiriculi per coglielu so troppu majo  pudete ancu fa crede chi u sforzu e sprupurziunatu a lu acquistu di una cusi misera pietanza tandu chi ellu un ci e ca a mette manu ai sacchetta di a biinata da sudisfassi a palastraghia  ma un pudete scrive senz offendeci   un vi ne sminticate  chi elli ci mancanu l amor patriu e a fede    un pinsere  a sgio peretti  mi codra u sangue  un pinsere chi  forse  ci velea speralla  un ha nisun caggione di ficcassi cu ti amant acutezza in la nostra mente chi tantu i posteri avaranu  altre cose a diciarniglia ca e polemiche di dui scialbatori di carta aiaccini di lu annu di cristu 1925   ma  sapete  ste cusarelle si fermanu in li parastaghj pilufosi di e biblioteche  e da qui a cinquafita 6 a cent anni  o piu prestu  chi lo sa   un nostu arcipufigliolu   lighiendu sti filari diciara  e quiciu core mi pugne    dn    petru  rocca  quellu scemu   e  almenuch ellun dica  si e fussi vivu un la li permetteria  criditela puru      vincente de peretti  quellu vittulu   
+  s
+    </p>
+    <docAuthor>
+     Petru Rocca
+    </docAuthor>
+   </div>
+   <div n="2" type="cha" xml:lang="co">
+    <p>
+     u cantu di i morti a pontenovu  i veggu ad elli i veggu a i nostri morti  indinucchiati a u pede di sa croce   chi  riparendu  o corsi  i nostri torti   li muta in gloria a vecchia ignulia atroce   i veggu a managghiunte binadi intinnariti u segnu santu   e da e so labbre smunte sentu esce un dolce cantu   unn e piu u cantu fieru di a vattaglia    e un cantu chi sumiglia e a voce strana chi lu omu sente quandu in de a vuscaglia mugghia u libecciu o fisca a tramuntana   e ava  pare un murmuru pignulente di e sore chi ricitanu a curona    ava a voce putente  di a folla pia chi u sacru tempiu introna   cantanu i morti     binadetta sia sta croce santa  simbulu divinu di a nostra fede  chi una morte ria ci ha tracambiatu in filice distinu    e binadetta le anime pitose chi phanu alzata qui  eterna mimoria di u sangue  sparsu  u jornu chi si chiose a nostra antica storia      cantanu i morti    resti sempre accesa figlioli  a sacra fiamma chi ci arse u core  e ci muvi a difesa   corsi  di a nostra mamma       cantanu i morti    chi   bi resta a boi   sparita a liberta      bi resta a vella lingua di i vostri eroi   oh  salbatela  quella    e bi resta  trisoru senza pari     gloria di i vostri vabbi  a santa fede   un la tradite  un la tradite  o cari    ghiuratelu  in dinocchie      diu vi vede  
+  s
+    </p>
+    <docAuthor>
+     U Babbuziu
+    </docAuthor>
+   </div>
+   <div n="3" type="his" xml:lang="co">
+    <p>
+     u vecchiu dibulo  di mattew roeca  mi so compru  accaitatu cum el lu si dice bizantinamente in ajacciu   quattru soldi di cacaouettes  e in pagamentu aghiu purghitu un vintinu  zia pitruccia  per rendemia muneta  a bulicatu un bellu pocu ind a stacca di u scussale  e po a lacatu casca ind a me manu parecchi dibulo  francesi  taliani  grechi     annant a lu unu si pudia leghie le iscrizione  gorghios  basileos ton hellenon  lu altru mustrava a facciadiu sfurtiumatu di sedan  annant a un fersu  novu framante  lucicava u musu di marianna  a marianna di i nostri guai     ma quest altru dibulo  cusi vecchiu ci omu po appena leghie le iserizione  solt a chi regnu e statu emessu  per via diutempu  e tortu  fraszatu  cupartu di quellu lozzu chi i critichi di arte chiamanu patine   pruvemuia a leghie  la nation  la loi  le roi  17o2  4me de la liberte  e da la altra porte  intorira una festa di monarcain pirrucha  lovis xvi  roi des francois   dibulo di u re luigi di francia  di lu agguglitinatu di 1793  di chi modu se capiiatu in corsica  sare forse juntu  ci una mansa di ito pari  ind e cascie di u tesoru  destinati chi vo erate a u pagamentu di li impiegati di louis le bien aime  a principia da u guvirnatore per termina cu pultimu spazzinu di borgu    u  un saria micca piuttostu la intindenza di afacciu o di bastia  chi avendu fattu mucchi di dibulo  si sara messa in pinsere per liguida u stipendiu di i suldati  bas officiers e ufficiali ghiunti in corsica addarref a bandiara a fior di giliu    cridaria ancora  e  u me caru dibulo  chi appena arrivatu in corsica  tu se passatu in stacca di qualchi buttafuoco  di qualchi tradittore  in seguitu a un ordine di paga a monsieur un tel  a somma di 6 ooo livres quatre sols   e tu  naturalmente sare statu ccmpresu in sti quatru soldi     ma chissa   a virita e forse chi qualchi dunnaciola  qualchi demi mondaine di  quelli tempi  ui avendu pussutu parte a nouvelle orleans  sara capitata inde pisula  e qui tavara ricevutu in pagamentu di i so servizi galanti    e ti vegu  o dibulo di u re luigi di francia  sedecimu di u nome  in fonda qualchi baulu di un vecchiu aguzzinu di carrughiu drittu  stendutine cusi appiattatu durente a tormenta rivoluzionafia     ti vegu  sottu a lu imperu  turna in circulazione  esse cambiatu a u marcatu  contr un aligusta di tre libre    ti vegu ancora  sotta ristaurazione  passa in stacca di qualchi bultisgiore lintadu per quellu fiumorbu in cerca di u capi banda poli     ti vegu    ma un la finisciaria imicca e  dibulo di lu annu quatru di a liberta    francese  si e vulissi cuntatuite to passe veni  prima chi tu fussi capitatu ind a stacca binadetta di zia pitruccia 
+  s
+    </p>
+    <docAuthor>
+     Matteu Rocca
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="co">
+    <p>
+     anniversariu di a nascita di napulione  stu 15 agostu memorabile e statu festeggiatu in aiacciu cu pompa e fervore   a matina  gran messa in domu  a ondic ore  sflamentu cu la acula attraversu a citta  u cumitatu centrale bonapartista  cu u so prisidente marcu salini  u so vice prisidente jean maki  u so sicritariu panto vero e u so tresoriere lambruschini  precedutu da a giuventu bonapartista era seguitatu da piu di 2 ooo persone     a mezziornu  aperitivu di onore a u caffe napulione  hannu parlatu cu fiamma e talentu   marcu salini  campiglia e jean maki   a un ora  gran banchettua higland hotel  avemu rimarcatu in la folla  dutt  del pellegrino  prim aggiuntu di aiacciu  marcu salini  jean maki  leonzi  sicond aggiuntu di aiacciu  panto vero  lambruschini  dutt  savelli  g  stefanopoli  luciani  sicritariu ginarale di u municipiu  di et f  carboni  tavera  tomasi  carlu canazzi  campiglia  marcaggi  mariaggi  andria e niculo leonzi antone tano  prisidente di a giuventu bonapartista  arbori  ec     a stampa era raprisintata da jean maki di a nouvelle corse e petru rocca di a muvra   u duttore del pellegrino in una bellissima impruvisazione ha dettu cioch ella era sta festa di u ricordu e ha ingaggiatu i so amici di da a u guvernu una lizione severa a prossima cunsultazione elettorale   degna festa e alta manifestazione di indipindenza    a  mi 
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="5" type="poe" xml:lang="co">
+    <p>
+     a baretta misgia  rivista populare corsa abbunamentu   5 franchi yannu 38  corsu grandral   aiacein  a siconda mirindella di i pueta corsi  data in san petru di venacu u 1 agostu 1925  inaugurazione di u teatru corsu di a muvra   seguitu    le anfarte di evisa  prin   cipia cu ste duie ricche impruvisate chi a penna stenografica di renza ricoglie nantu e labbre di u cantore    o venacu  paese di suggiornu   ci corre lu turistu di istatina quandu a virdura adombra stu cun fornu  venenu a rispira da la marina   stanu a lu frescu  a la aria sirena si la campagna e piu fiurita e piena   cari cullega chi sete a la altura  fra queste belle e pampanose piante   cusi le ebbe prudutte la natura   avemu in bista a punente e livante  indi stu jornu di sulenne festa ancu lu ciocciu canta in la furesta   cume fiore di aprile quandu nasce  cantanu in ogni locu cu tinore di u sampetracciu e dumande di amo re   cun parlafu mudestu  salutu in cantu a ghjuvanni olivieru  e cun fiuritu gestu  ne vengu ad ellu cume messagieru   pueta priziosu  di qualita piu degnu e generosu   cume timidu agnellu  ne vagu a saluta lu strampalatu  che si ne sta in pianellu  notte e ghiornu tranquillu e spinse ratu   perche troppu si asconde   nulla nun dice piu ne ci risponde     salutu a rocca cu la so signora chi dili corsi face ogni dicoru  spira la mente cun voce sunora ela so parolla vale argentu e oru  prontu pa u be  di tutti piglia cura  senza guarda interessu ne fattura   fra nioi  cullega amante   di tanta stima salutemu a santu   da tinnarellu infante  mi ha cunnisciutu e li pusai accantu  pueta superiore  di canti curmisciuti e le autore   fra li fiori e la virdura  pincu chi si ne stane a la meria   pueta di natura  canta la voce e sona melodia   cume sceltu suggettu  di poi tant anni e merru ereelettu   mivoltu cun affettu  salutu in parte a scopa luciani   garbatu giuvenettu  amatu da li vicini e li luntani  nell avenire futura  li ficonda la scienza di natura     salutu in dolci carme a maistrale   chjama le amore a i giuvenetti amanti cume acellu alteru e  di grande ale maestru e autore di   risa e canti   vene a musa a truvallu a la so chjama tantu si ell e in aiacciu o in mari gnana   salutu a voi martinu appinzapali   sete di ingegnu e di scienza sublime  a votra voce di sensi naturali x ribomba in le gran valle e a le alte  cime   lighjendu cu piace le vostre carte ne sete veneratu in ogni parte   issendu a noi in prisenza ad alta voce salutu lucciardi   pueta di sapienza   miratu assai cu luminosi sguardi   cume un sertu fivritu  quand ellu passa e signalatu a ditu   ghjettu un sguardu a ghjuvanni  notini   zitellu di poch anni ellu si pasce   di gioventu ne ha li culuriti crini  salutu angeli marcu  chi e giuvenettu di candide piume   di scienza dottu e parcu  vagu etrapuntu di purpureo lume  e fattu militare  cu tante dimustranze oneste e care   cun flebile canzona  salutu da luntanu ad altimonti     all aque di elicona  di tempara e vistuta a quelli fonti  cun puetiche rime  risona da iu pianu all alte cime   ludendu tanta gloria prisente quici a nobili suggetti   a scienza la mimoria  di li pueta corsi piu eletti i  lighjaranu i futuri  quandu saremu noi vecchj e maturi  a  o san petru altu e divinu    tu chi sei benignu in celu   la to imagine chi e in tarra si scopre di un biancu velu   oghie un votu a te ti portu ci un amor di tantu zelu   vengu qui per onorati cantu cu note a palese   tu chi sei lu prutettore di san petru lu paese  pruteggi di noi la vita e alluntanaci le offese   vedi qui tanti suggetti  di gran scenza e qualitai  so binuti a la to festa  tu chi puoi e tuttu sai   gia chi sei lu chiavitteri di u regnu di a santitai   la apa chi e tantu ingignosa si ne sta sopra a lu fiore  frabicheghia eternu mele fruttu sacru e dolce adore  e san petru indi stu jornu assolve ogni peccatore   u jallu canta piu alegru cun dicor si manifesta   ha cambiatu di culore cu la so mutata vesta  quandu venne lu messia canto la sulenne festa   mezzu a tutta sta verdura una voce si difonde   e lu acillettu chi canta sopra i rami e tra le fronde  a la voce di san petru glurios ellu risponde   anc a muvra face festa  salta appressu la muvrella  di lu so latte e spuppata  pasce a tennara arbicella   una bela e la altra chjama e risponde questa e quella   e ghiunta da le marine  a culomba messaggera face festa in li cuntorni  a san petru piu sincera  fara ritornu in lu nidu quandu imbrunisce la sera   u pastore a lu so stazzu aspetta belle stagione  face festa indi stu jornu cu lu so vecchju pilone  saltanu le picurelle  e trionfa lu muntone    u cuccu si e innamuratu esi sente a la luntana   si rinova la sovoce    cum un cennu di campana  e so piume ha culuritu cum a piu bell andiana   lu animalu a la campagna pasce a tennara pascura face festa indi stu jornu mezz a i fiori e la virdura   u padrone balla e canta e di ellu nun ha piu cura   a pescia chi sta sottu aqua tantu piu tranquilla e cheta  e surtita indi stu jornu  di la tana piu sicreta      face festa di san petru senza piu teme la reta   a la chjama di san petru  e ghiuntu lu russignolu canta quand e notte oscura  si ne sta sicretu e solu  teme di un esse allaciatu  da lu calzu e lu fagiolu   a rundinella chi vane errante pe la campagna a la chjama di san pettu e cullata a la muntagna  face u nidu sottu a i tetti si marita e si accumpagna   corre u mondu indi sta festa e si mostra rivarente  quand e apparitu sta mane u specchiu dell oriente  ha vultatu a noi la faccia cu i raggi piu rilucente   inviguriscenu le piante  e la ombra torna piu scura  cresce u fiume ele funtane innagua i chiosi ela cultura  e ogni frutta piu priziosa di culor torna matura   e ghiunta la furturella chi luntanu era smarrita   cu ie so piume adurnata e di pompa culurita canta alegra pa lu santu e cun voce piu gradita   issendu qui tutti uniti di san petru a la dimora   u sole ne e rilucente e piu bella e la aurora   san petru face cunnosce   tuttu cio chi u mendu ignora   ava tocca a ghiuvan paulu codaccioni  u cantore  di prupria  ec  cu a so bella puesia    di rendaccia sf invitu tutti quantu   da veri corsi ognunu ha fattu prova    lu prima ni cumenciu par ziu santu    lu nostru caru amicu casanova    e poi in seguitu a tutti  tira e tocca   salutu a maistrali e petru rocca   avalveni lu tornu di lucciardi   e pincu  cu martinu appinzapalu    piaceri aghiu di vedali gagliardi par tutti ci sara lu so rigalu   in seguitu salutu eppoi ne abracciu a giuvan olivieri e u sampitracciu   quantu no semu qui  nun lu aghiu conti   se mini lasciu saraghiu scusatu  aval salutaraghiu ad  altimonti cu pasquale manfredi e u strampalatu   e pigliu tutti quantu in ginerale a giuvan di la grotta  e   appressu tutti quisti a qual si intopa    fa difettu cun nimu vularia   vogliu stringna la mani ancu a la scopa   cu simon di li lecci in cumpagnia   lu orzu di orezza  e cuntente ristori   ne avaremu ancu di altri in cumpagnia  parlendu qui prisenti bocca a bocca   ci sara  ancu  di  di santandria ne mancu mancara  matte u rocca   li citaria tutti vulinteri   ma nun so quali cie chi so frusteri   paulu graziani  so cunvintu   chi a quista chiama nun sara mancatu   chi in ogni occasione si e distintu   e ghiusta chi ella sia salutata e si ellu si truvassi  qui prisenti di tucalli la mani saria cuntenti   nun ennose u piuu nomu di nissunu   e di ristammi sog ubligatu   or vi vogliu abbraccia tutt in cumunu 
+  s
+    </p>
+    <docAuthor>
+     Minicale
+    </docAuthor>
+   </div>
+   <div n="6" type="art" xml:lang="co">
+    <p>
+     a le ott e mezzu un resta piu piazze  e prime so pigliate di assaltu  e panche di e siconde si  riempienu cu menu furia chi ognunu vole da u so cinquinellu pe i ranghi di onore  inquant a le ultime un so occupate ca pigliendu u cele  a tistimone chi ellu un si po fa megliu    ingiru  sottu a i castagni  quelli chi un so pussuti entre a si sintaranu par nulla  i  le impruvisate e e canzone di minicale e quelle di viola so accolte cu applausi e risate            maistrale face   sbrulla e sciaccamanate a tal puntu chi e candele si spegnenu ad ogn uttava   a pignata e ricitata cun arte parfettu da madamicelle padovani  una maliziosa savilia  aiqui  una cecca pritinziunuta   padovani  una pitruccia bella a fa scimisce tutti i magadori di stu mondu   ulione trova cu faggianelli le interprete u piu avaru  u piu cullerosu ci omu si possa immagina   roccu pinelli  messusi in la pelle di strobiu e divintatu piu birbante ca a volpe e piu ladru ca una jandaghia     renzu luciani e serafinu rocca so stati  unu un liconiu infiaratu di amore  lu altru un magadoru di alta tazza   a mezzanotte mezzu tandu chi elli scrizzitteghianu li ultimi mocculi di ecandele e dopu chi minicale  ind una impruvisata fiurita  ha ringraziatu la assistenza  ognunu si ne va a lettu   ma maistrale ba dicisu di un chiude a mirendella ca cu u cantu di u jallu e  seguitatu da numerosi cumpagni  a si atteppa versi a funtana duv ella intona a filastrocca di argentued oru di e so belle canzone  e la alba di u 2 agostu u truvo nant a una sciappa a mandulina a collu   numarosi amici impiditi hannu mandatu dispacci e lettare cun ingaggiamenti fermi per lu annu chi vene   ringraziemu i fratelli di fede ghiannettu e olivieri chi hannu avutu tutt u fastidiu di le organisazione  sti ringraziamenti i duvenu sparte cu e so graziuse signore chi si so incaricate  da parfette padrone  di casa  di tuttu chiochi riguardava a tavula   una sciaccamanata per zia rusa  chi sa accunccia cume fimu e  1ppe piene e mina a pulenta megliu  a tutti 1 i hn  lampemu   a vedeci a un altru annu    deo
+  s
+    </p>
+    <docAuthor>
+     Pasquale Manfredi
+    </docAuthor>
+   </div>
+   <div n="7" type="trd" xml:lang="co">
+    <p>
+     autori latini  apule u  lu asinu di oru  traduzione di  seguitu   ghiuntu ind a citta di hipata  luciu  u principale persunnaghiu di lu asimu di oru  capita  ci una lettara di raccummandazione  in casa di milone  un vecchiu aguzzinu chi avia una mugliere streia  dop a e prisintazione  luciu  essendusine falatu in carrughiu per tirassi dui passi  riscontra a signora birrena  a quale subitu li da a cunnosce i misteri di a casa di milone     diu solu sa  u me caru luciu  quantu gattivu sangue mi facciu per via di te  e chi laziu e avaria di datti capu cum a un figliolu  sfidati  ma sfidati assa di e brutte cumbinazione e di e periculose seduzione di pamfila  a mugliere di quellu milone chi ti ha pigliatu in casa  e una mazzera di prim ordine  chi sa a mente tutt i canti sepulcrali  1   un ba ci a suffia annant a rucchiatelli  pidrucelle o altri sgumbrieghi di stu genaru  per spegne a luce di e stelle e pricipitalle in fond a u tartaru   subitu chi ella vede un ghiuvanottu bell e garbatu  si sente tutta ingarzillita  e da quellu mumentu  u si cova cu l occhi e la anima  la aliscia  u seduce  la incatena cu u so amore  e si elle accade ci unu un vole micca suttumettesi a so fantasia  un cambia in petra  in pecura  o in qualunque altre animale  o be  u sprufonda   tuttu que  mi face trima per te  parchi ella e sempre in calore  e po parchi tu  ghiovanu e bellu cume tu se  pudadisti da mutivu a  so passione   ma a me curiosita era tamanta  chi appena ebbi intesu stu nome di magia  arte chi aghiu sempre apprizzatu  mi sintedu tuttu focu e fiamma  e mi scurdedu tutt e raccummandazione di birrena  dunque  li lentu subitu a manu  cume si ella fussi una catena  e inun bulu mi precipitu vers a casa di milone  a u  mentre camminava cume un scemu  dicia a me stessu  fa da be  o  luciu  e cunserva u to bonu sensu  hai la inaspittata occasione di suddisfa u to desideru e di sazia u to core cu fole maravigliose  liberati di ogni apprensione    basta chi tu rispetti u lettu di lu unestu milone  un andendu micca appress a so donna   fa piuttostu in modu chi polis  a serva  si innamori di te  e una zittilletta graziosa  facile a intraprende  e in sopra a piu pare una vera forca fina  arrisera  quand ellu ti pigliede u sonnu  ella ti cundusse a u lettu cu assa garbu  ti aiuto gentilmente a chinatti  e dopu chi ella ti avessi basciatu in fronte  ti dimostro  ci un sgardu  chi ellu un si ne andava chi a contracore  infine  parecchie volte  si arristo per fighiulatti     accetta ste dimustrazione cum un bon  segnu  e ancu si a cosa duvessi andatti male  da puru capu a fotis   facendu ste riflissione  ghiunsu bellu dicisu a lu usciu di  milone  e appuntu  un trovu in casa ne lu aguzzinu ne so mugliere  ma sulamente a me cara fotis  si ne stava priparendu un accuncciume pe iso padroni  e da sottu a u cuparchiu di a pignatta  iscia un adore diliziosu   bell assistata e liscia  vistia una roba di linu biancu strinta sottu a i petti da una currighina rossa  e cu e so manarelle facia buga di quandu in quandu a pignatta   quand ella a scuzzulava  inchinava graziosamente a so parsonna  chi tandu si muvia cu dolce ondulazione     a stu spettaculu  mi ne stedu cume un casgiu insantatu  talmente era maravigliatu     cume tu pari bella e sgualtra  a me fotis  rumighendu sta pignatta  ci dev esse da licassi i ditti cu u to accuncciume  beatu  tre voltebea  4  u testa latinu dice  omnis carminis sepuleralis magistra  1 nostri voceri e lamenti  hanno certamente a stesea origine ca sti canti   tu sara quellu chi avara u permessu di condeci a punta di la unghia   tandu  quella zittilletta  gentile e birbante  disse      alluntanati  u piu pussibile da sta fucata  povaru disgraziatu  parchi si a minima scintilla saltassi  ti brusciaria sanu sanu  e allora nissun altru ca me stessa pudaria spegne u to ardore  sog un sai che mi ne entendu a fa scrucchitta u lettu taniu e piu chi a rumica a pignatta    dicendu ste cose  mi  guardo fissamente e po si misse a ride  di tal modu  chi e un pobbi susiene piutempu u calore di a me  passione  avvicinendumi da fotis  fora di me  li dedi un basciu annant a u collu   tandu  ella vultede u capu  e vecchi accesi di a furia    o  quellu cullighiante  un sai micca chi u dolce fruttu chi tu boli coglie e pienu di spine  temi puru chi per via di troppu dulcezza  a to bila un si guasti     cosa dici fu me amore  replichedu  sappi chi per una sola carezza  so prontu a lampammi ind a brasgia   e  ind u stessu tempu  abracciendula e strighiendula forte  turnedu a bascialla     facendu prova anch ella di una intensa passione  lampava suspiri e da e so labbre mezze chiuse  si esalava un prufume piu diliziosu ca u cinnamone       morgu  dicia e u  o piuttostu so addighia mortu     almenu chi tu un mi aiuti     sintendu stu gridu  fotis si misse a copremi di basci  abbi pacienza  mi disse  parch e u dino mi sentu tutt infiammata  u nostru sfogu un si fara tantu aspitta  quand elli si accendenu i lumi in casa   saraghiu ind a to stanza  vai puru  e priparati a sustene una fiera battaglia  parchi  di a santa nuttata  un ti lacaraghiu chiude l occhi     di stu modu  a mi scialedu per parecchie notte  una volta  ti vegu affacca fotis tutta cuntente  mi informa chi a so padrona avia dicisu  posta chi ogni altra cumbinazione un era juvata di niente  di cambiassi quella notte in accellu e di bulassine sottu a sta forma vers u so amante   mi invito dunque a priparammi per godemi una bella vista  e vers a prima veghia di a nette  venne a circammi per cunducemi in sulaghiolu  quici  mi ordonna di fighiula attravers una porla tutta scannata  ed eccu e cose di e quale fubbi tistimone   prima di tuttu  pamfila si mette nuda in cristu  e po  aprendu una cascietta  ne tira parecchie scatulelle  ind una di queste ci era un ungnentu cu u quale  dopu essessi untu e manu si strufino tutt e parte di a parsonna  senza scurdassi i capelli     tandu  a  luce di una candela  cummencia a bruntula annant a uni pochi di scartafacciuli bazzichendu  u corpu di qui e di qua  mentre face stu ligeru muvimentu  eccu chi apparenu piumarelle    e po cresce  nu e piume  le ale    u nasu  piglia una forma incurvata    le unghie si stringhienu     si allonganu    e  a la fine di e fine  pamfila si vede cam biata in malacela   tandu molla un gridu acutu e po prova di bula  a man a manu  si alza in aria e po sparisce fora   in quant a me  benche un fussi statu alluppiatu da nissun orazione  era tantu stupefattu chi un mi arricurdava piu di me stessu  la anima scuntarnata  mezzu scimitu  mi paria di assugnammila  mi strufinedu un bellu pocu e palpebre  vulendu sape si e era spartatu   infine  turnatu a realita  agguantu a manu di fotis    a ti dumandu in grazia  dissi  posta chi ci capita cusi bell occasione  porghimi un zupulellu di quellu unguentu tantu gratuti ne saraghiu  ci una volta cambiatu in accellu  bularaghiu eternamente intorn a te  cume u cupido alatu intorn a venere    o pridaghio lampede ella  soga vularisti chi e u stessa mi mittessi ind a gola di u lupu  dopu chi tu sare duvintatu  acellu  cumu faraghiu per suvitatti  quandu turnaraghiu a vedeti      chi i di i tutti quanti mi priservinu di tanta scelleragine  dissi e u tandu bogliu accica si ancu si e parcurressi cume la acula u ciele sanu sanu  ancu si ghiove facessi di me u so nunziu  un ritornu micca a u me nidarellu  e ghiuru  per ste belle trecce chi mi hannu sedottu  chi un amaraghiu mai ci a te   ma ci e una cosa chi e mi scurdava di dumandatti  di chi modu o cu chi parole pudaraghiu cacciammi e piume di addossu e turna ad esse luciu      unti mette in pinsere per st affare  rispose fotis  parchi a me padrona mi ha mustratu cio ci omu duvia fa in simile occasione  si pri para un bagnu di aqua induv ellu si  lampa qualchi grani di nepita e une poche di foghie di lauru  si face ancu una bebbita cu ste piante  e omu a si chiucchia   dicendu steparole  fotis entre in sulaghiolu  ma non senza spaventu  intoppa a cascietta  le apre  ne tira una scatulella    appena questa mi vene in manu  a copru di basci  prighendu chi ella mi sii favurevule   mi spogliu subitu   condu be i diti inde lu uaguentu  e po mi ne strufineghiu tutt a parsonna   finita st operazione  facciu innece di esse un accellu  imitendu u muvimentu di pale cu i bracci  ma  o surpresa  un appare a minima piuma    a man a manu  invece  begu i me peli cambiassi in crini  a me pelle indurisce cume un coghiu  a punta di i me pedi cresce un unghia tamanta    i diti spariscenu  da i me reni ti ne esce una coda longa dui palmi    mi sentu stirazza a faccia  ame bocca si allarga  u me  nasu diventa un veru musu  e me labbre pendenu     in quant a e me arecchie si arricciuliscenu  diventanu anch elle tamante   cunsiderendu a me   parsona  cunstadedu chi e  un era micca statu cambiatu in accellu  ma in asinu  tandu mi vultedu versu fotis  e posta che era oramai privu di voce  mi cuntintedu di fighiulalla  l occhi umidi  cume per dumandalli a spiegazione di quantu mi era  accaduta   ma ella  appena mi visse in stu statu  si ranfigo a faccia gridendu     disgraziata di me  parch ind a me pricipitazione  mi so sbagliata di scatula purghienduti un unguentu per un altru     
+  s
+    </p>
+    <docAuthor>
+     Matteu Rocca
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     risorgimentu  pei morti di quelle scierre   pienghia golu e costere   pienghianu i sassi   di quella trista scurdanzal  oeroidi la indipendenza    o tempu passi       ma un soffiu di puesia   canto perl autonomia   contrul ebbrei    epe i morti passati tutti cisimu prestati ora pro ei   oghie ne gran monumentu sperghie e so recce a u ventu   o chi piacere  di vede chi u sangue corsu in un trattu si e mossu pe u duvere    quantuci seranu grati quelli eroi passati  di pontenovu chi interronu a speranza di a nostra indipendenza rotta ne lu ovu   durmite puru tranquilli affrunteremu i perigli torna e di novu   segnitendu vostre tracce    gridanu vindetta e facce di pontenovu   sera un pelegrinaggiu chi purtera un raggiu di speranza   eppoi sta memoria    pontenovu e una gloria    una suffrenza  chi ci lega e ci tene cun pisoni e catene a modu novu    ma si scopre la aurora   cirnu moriu mirmora in pontenovu   lu orzu di orezza
+  s
+    </p>
+    <docAuthor>
+     Cirnu
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     pontenovu  svegliati cirnu   svegliati tu culombu   allegru sona in cun accentu novu  cun voce pietosa fendu moltu frombu  sona la gloria corsa a pontenovu    di quelli eroi ramenta la memoria chi casconu valenti e pien di gloria   a i scorni di cirnu fa sente la voce  allegru culombu fa sente lu sonu   chi ognunu corri a baciane la croce in duve li eroi corsi ne casconu   sona culombu   a gloria ti si trovu    sona cume sonaste a pontenovu  
+  s
+    </p>
+    <docAuthor>
+     Carlu Castellani
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

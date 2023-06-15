@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330810v
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330810v
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 217 | Année 6
+     </edition>
+     <date>
+      1925-08-30
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     sest'annata — Nuiara 219 ~U 77 7 "7 Escé a Dumenica n 2 Dumenica, 30 Agostu 1925  A MUVRA  GIURNALE DI E. PIEVE DI CORSICA  TE u ABBUNAMENTI :  In Corsiem. à ee LT è 12 franchi  In . Francia. . Luo. pui cu S 45 5  A VEsteru LL e RE  U Numaru:4 soldi  Direttore: Petru ROCCA  AMMINISTRAZIONE:  38, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia, 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     a me risposta a u sgio de peretti  prugramma litterariu   j egio vincente di peretti  ind un recente articulu  uscitu annant a l eveil  la ha detta grossa   ha dettu chi noi altri cursisti tutti quanti  duviamu e nostre qualita di scrivani a  cultura francese            povara cunfratellu   e tanimbuffatu di cultura francese  chi ellu un sa cio chi si sta priparendu a a muvra   ma sta volta  so e u chi i aghiu detta grossa    vegu tutt i meldipede arrizza  farecchie e dissi a se stessi  stemu a sente  chi stu redattore lampa a cundanna di a muovra      chi elli un abbinu pur pinsere  sti bravi figlioli  un e micca  una cuspirazione chi le autore di ste poche righe vole palisa  mai chi ella ne sia  inde iscagni di a muvra un avemu  mai  pinsatu  ie a u piombu ne a e palle      o      giocchii  no stemu priparendu  a  vulete sape  cari cune fratellu  voi chi dite chi andendu contra eultura francese paremu zittilloni chi murzichariti a pettui di a so mamma  tine  lighite un pocu u prugramma di e traduzione da e varie lingue straniere  prugramma chi  a  ricivutu  un principiu di esecuzio  ne  cu  don chisciotte   di u gran cervantes e lu asinu di omu divu scrivanu latini  apusu  ar en i at meta  autori inglesi  chaucer  setivanu di u mediu evu z raconfi di canterbury chi staranu benissimu  ind una biblioteca corsa  accant a a i raconti e fole di u nostru martine   appinzapalu    shakesbeate  y piu  eta geniu  chi la umanita abbi mai cunnusciutu  accant a u quale curneille pare una curnacchia   manilet tragedia macheth  tragedia  le allegre cummare di wihiker  cummedia    sheridan  autore dramaticu diu seculu xvii  a scola di u scandalu  cummedia  bi  goldsmith   u vicicuratu di wakefield  magnificu  remanzii  decanta u quale manon lescauk  di a stess epoea  e fi  scriltu per paciaghi  dn a sena  clr a  dickens  romanziere di u seculu xix  assa piu grande ca alphonse daudet  oliviere twist   ewmmuvente storia di un povaru urfanellu  i scartafacciuli di u pickwick club  the pfickwick si papers  libru assa  piu spiritosi ca tariarin de tarascon  su  rudyard kipling  u libru di a jungla  romanzu di avventura  accant a u quale i libraccioli diu sgio loti so scritti per cuscidore     autori tedeschi  i lied  o raccolta di leggende po pulare chi valenu a chanson de roland    a i    geethe    ifigenia   schiller   guglielmu tell   autori spagnoli  a cilistrina  puema populare di u mediu evu     u romanceru  immensu ciclu di puemi relativi a spagna araba  tutt e chanson de geste un cuntenenu micca a inillesima parte di puesia  di musica  di lirismu ci omu po truva ind u romaneeriu    cervanies le immortale autore di don chisciotte addighia tradottu   e nuvelle        2  i  lope de vega brillante autore dramaticu e cuntatore di u seculu xvi  nuvelle   calderon de la barca  autore dramaticu piu prufondu  piu geniale ca corneille  a vita e un sognu   moraten  autore dramaticu di u seculu xviii  quahdi e zittelle dicenu ie  el si de las nina3   diliziosa cummedia    u  quintana  vita di i spagnoli celebri   emilia pardo bazan  distintu spiritu di donna  chi un ha niehte da invidia a georges sand  u castellu di ulloa  rumanzu     armando palaci valdes  cele  bre romanziere  contimporane u   di sgio ottaviu  rumanzu     blasco ibanez  unu di i plu grandi romanzieri di a spagna moderna   sottu a l araiici rumanzu i quattru cavalli di li apoealissi  rumanzi   autori taliani   tante geniale so le opare di i gran scrivani taliani  a principia da dante alighieri u divinu pueta  per finisce cu gabriele di annunzio  tanti nimarosi sarianu i libri chi meritanu una traduzione in  corsu  chi ne avemu noi  stessi u spaventu  basta chi vo sapessiti  a dillicatu spiritu francese  chi u prugramma di a miovra rilativamente a st autori e tantu comu  chi u jornu chi ellu sguarza temurchi   vo v annipros ones cia  means ari  e ava  cu u vostru permessu passemu a li autori   orientali  qui vi sentu favvi una scac canata    sete talmente cuntente di esse  francese  e di godevi una  cultura  francese  chi mancu per more pudaristi suppone chi le oriente ha avutu un alta litteratura  aio  caru cunfratellu  fighiulate un zuppulu u nostru prugramma  e pruvate di da u vostiu avvisu   libri sacri orientali     a biblia  maravigliosa  storia di u populu ebre u  aduparata da i cristiani    e red  i vangeli  raccolta  di insignamenti morali  dati da jesu cristu a i so discipuli    poc  cosa strana  o sgio  vincen te di peretti  si dice  chi st in signamentu un e micca statu fattu in francese  si e fussi in voi  scrivaria un articulu contr a ghiesu cristu   u cooranu  libru religgiosu e codice civile di li arabi   e legge di manu  leggende riligiose di lindiani     i veda  inni  sacti di u  stessi populu  1 i    u sciu king  libru riliggiosu di i cinesi      si dopu di ave tradottu stu jibru  mi mettu a dinne pezzi di saetta  vi do u permessu  a sgio de peretti  di liticammi  posta chi  bataleridu contr a 1 francesi mastucu  sicondu voi  u pettu di mamma  a piu forte raghione mi rimpruvarete  di chiacchiara contr a li autori     cinesi  cu e e    litteratura araba  imrul qais  pueta anteriore a lu islamismu u rumanzu di antar  e mille e una notte  diliziosi raconti malissimamente tradotti da u pinzutu galland  7  abul faradj  u libru di e canzone i nostri pueta  grazia a sta tra  duzione  pudaranu truva altri mezzi di espressione  altri  ritmi  e tuttu quantu sara in pro di a litteratura corsa   abd el kader  u gran patriotta algerinu  chi ha truvatu  un degnu fratellu ind u marucchinu abd el krim  le arte di a guerra  opara ammirabile di scienza  strategica chi ogni patriottu corsu bularaleghie   litteratura turca  i turchi elli dino  a caru cunfratellu  hannu a so litteratura  soga forse cridiate chi li abitanti di e rive diu bosforu un lighianu ca emile zola o anatole france   nasr eddin  khodja u grossu minuttu orientale  a traduzione chi no daremu di i so  scherzi campara i corsi tutt e quanti  un ci sara ca voi  a fa un palmu di musu        litteratura persiana  1e  ancu i persiani hannu a so litteratura nazionale  a sgio de peretti         saadi  u giardinu di e rose  guilistan   firdusi  u piu gran pueta epicu di a persia  l   rbru di i re  seia  nameh   magnificu puema degnu di figura accant a la odissea e le eneide   e ava  e sgio de peretti  per falla piu curpieta aghiu be laziu di circa ind a litteratura abissina  siamese  tunchinese  giapponese o giavanese i capi di opara degni di esse tradotti in corsu  di stu modu  ancu voi v avvidariate chi a litteratura francese un e micca sola maestra di u mondu   passemu  ava 4 li autori di la antichita classica  grechi e latini   ma senza dubbitammine  so due ore sane chi e vi porghiu u crachoir  a sgio vincente de peretti  bale megliu che no piantissimu qui per oghie  tantu piu chi un bogiiu micca cunvincevi ind una sola volta 
+  s
+    </p>
+    <docAuthor>
+     Matteu Rocca
+    </docAuthor>
+   </div>
+   <div n="2" type="poe" xml:lang="co">
+    <p>
+     a li eroi di pontenovu  epitafiu  scopriti  o passagier cos gran rispettu  e saluta li eroi di fultim ora  chi una morte sublime e grande onora  mostrali un vivu amore e un dolce affettu   un funu cume quelli in molle lettu chi resenu la vita dolcemente   ma quelli patriotti  veramente luttandu corpu a corpu  e pettu a peitu   casconu a pontenovu  a iddio  che orrore   difendendu la patria minacciata   persenu tuttu ma resto le onore   e la corsica allor fu cunquistata   e porte di lu esiliu aperte a paoli e dala forza  la ragion scacciata 
+  s
+    </p>
+    <docAuthor>
+     Paoli di Taglio
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     a matrigna     a corsica e francese dapoi centu cinquanta  anni circa  qual e u populu chi ha datu a i so conquistatori piu prove di lealta che u corsu     sottu u primu imperu  u sangue corsu ha inundatu a campi di battaglia francesi   a restoorazione ed a u tempu di u re filippu  i corsi hannu  cumbattutu in  algeria e cuntribuitu a fa di un paeseindipendente una culonia francese    yo fi e     venne u secondu imperu  in crime  in italia  a u messicu in china  i corsi hannu fattu rispetta a bandiera francese  a si     487o arriva  a francia corre grossi periculi  a corsicuccia face  cume sempre  cosa ella puo  in ringraziamenz tu  un grand omu di statu francese prupone  all assemblea di cede per nulla fisola detestata  cu  edichiarata a gran guerra  a corsica e unu di i paesi duve i martiri di a causa francese so i piu numerosi   cume simu ricumpensati    a matrigna resta piu che mai disprezzanie e cattiva per i povers corsi   porti  strade ferrate  stradoni so costruitti da per tuttu  in africa occidentale  a u maroccu  in siria    si spende soldi u piu che si po      in corsica nulla    a strada farrata da ghisonnaccia a bonifazio un po mica arriva a solenzara   15 kilometri         i francesi ci disprezzanu di piu in piu  3  un corsu pe un francese a un essere antipaticu  un pestiferatu  e talmente veru che i poveri  corsi  siumerosissimi  in tutt a francia  so ridotti a nascondesi per un riceve umiliazioni  e quelli che hannu rinunziatu a corsica  per didenta realmente francesi  cercanu di fa smarire le origine fatale e cambianu i so nomi  le ismarisce in fine di i nomi  py e postu a u locu diu j  pe e accumpagnatu di un accentu  acutu bastardu ecc  ecc    perche i pinzuti un possinu piu lancialli in faccia le espressione cunsacrata  sale corse       un alira prova     quantu so corsi in nizza  in toulon  in marseglia  in parigi  si contanu per inigliaie    i    in tutte queste cita truvererete u carrughiu di algeria  di roma  di smirna  di mas drid  di berlinu  di inghilterra  di lione  di parigi  di bordeaux ecc    truvatemi un carruggiu di corsica  un ci e pensieru  per truvallu bisogna anda in genua   i corsi un ponnu piu campa che ne e culonie francese  i francesi un ci volenu mica anda elli stessi  ci mandanu i corsi  che  un truvandu nessun mezzu da vivene u so paese  so obligati di andaci  e ritornanu gialli  verdi  facendu paura   tuttu questu un arrive rebbe mica se a corsica avessi strade ferrate  porti  stradoni  prese di acque  permettendu di cultiva la isula e di viveci    ebbe  a corsica ne ha abbastanza  e stanca di esse trattata di sta manera infame   sursum corda figlioli  ricordatevi di pontenovu e di a so santa croce   
+  s
+    </p>
+    <docAuthor>
+     Picciafuoco
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="co">
+    <p>
+     i nostri morti  cesare augustu agostini  u 7 lugliu 1925 e mortu in bastia unu di i corsi chi meritava a nostra fiducia   cesare augustu agostini     i era natu a santa maria poggio  moriani  da virtuosa ed agiata famiglia  lu annu 1843 e cumpiti i studi  si ne andede in america  mn  ci fece furtuna e benche truvendusi in terra straniera si occupo sempre diu paese nativu  a      ii rientratu in patria  dopu un assenza di quarant anni  si stabili in bastia  citta prediletta per u so linguaggiu e i so costumi        bonu e leale  u scio cesare augustu agostini un si mischio mai di pulitica francese   era corsu prima di futtu   e un accetto ne onori ne servitu       ebbe  un ghjornu  u curaggiu di rispondea u senatore petru paulu ca sabianca      malgradu lu affettu chi eo  nutriscu per i mio paisani  un mi e pussibile di esse  maire   perche pocu mi piace di applica legge chi un mi piacenu      era un omu a la antica    si rifuggiva ind i ricordi di i nostri babboni e si dilettava  a parlarecon voci e modi della crusca      ma sopra ad ogni cosa  amava la isola dolente      la terra degli odii tenaci e dei fervidi amor        pisola chi soffre e spera    amave a corsica  e pochi anni prima di a guerra ne dede a prova a u paese induve ricevette i natali    grazia a  so generosita  santa maria poggio ebbe una funtana monumentale  sta funtana porta un iscrizione in lingua italiana e si puo legghie in un passaggiu sta bellissima sentenza     e a    non merito di nascere che vive sol per se       cosa ne pensanu i puliticanti e i capi macchia chi ruinanu a corsica   u scio cesare augustu agostini era non solu  un filantropu ina un corsu degnu di u nome    ne u mese di lugliu 1914   propriu a  vigilia di quella tragedia chi duviva scempia a corsi  ca  dede cinque centu franchi a u cumitatu di pontenovu  a quellu di pariggi    u  a so bona fede fu ingannata  hannu sempre in memoria  i lettori di a muvra  a lettera chi ellu invio a petru rocca           a maio sottuscrizione e destinata a i soli cersi cascati a pontendvu pe a liberta  u dirittu e pindipendenza di u nostru paese    e   san  desideru chi stu denaru sia impiegatu secondu e mio ide e  e speru chi monsieur ambrosi  fendu e eose a dovere  versera ellustessu i cinque centu franchi a u cumitatu di aiacciu di u quale site presidente      1   eccu lu omu   cortese e beneficu  saviu e onestu  u nobile defuntu lascia fra noi un bel esempiu di cursismu   partigianu di la autonomia e mortu cu a visione di u nostru gloriosu avvenire    pe u e  in nome di u partitu corsu di azione salutu devotamente a spoglia murtale di u nostru caru estintu e deponu sopra a so tomba a palma di u ricordu   
+  s
+    </p>
+    <docAuthor>
+     Eugeniu Grimaldi
+    </docAuthor>
+   </div>
+   <div n="5" type="his" xml:lang="co">
+    <p>
+     le indignazione di juliu cesare  sotfa tenda in cima  di quale un acula sparghie e so ale di oru  ghiuliu cesare  imperatore romanu  aspetta pimbasciata di u ra vamba     si ne posa annant a una sedia cuparta di un villutu chi strascina in tarra  a so manu dritta stringhie un bastone lucichente chi ellu appoghia a un ghinocchiu   cinghie aspada e u pugnalettu  sotfa curazza di oru  fiurita e ornata di suggetti mitologichi  un vistitu di coghiu finu  cu e maniche e lu orlu terminati a franghie  copre le imperatore  i pedi so calzati di coturne  talmente strinte  chi elle lascianu induvina a nervatura di a caviglia   li daria omu trenta cinqu anni    a e labbre e u bavellu  cumplitamente arrasati  u sguardu e cusi acutu  chi ellu pare lancia fiare  2  a la intrata di u campu  amimera u quale si alza a tenda  si e intesu  una trumbittata  tandu le imperatore ha fissatu i so tinenti  cume per di   affaccanu   di fatti  li imbasciatori diu re vamba  ummoni piluti e sgualiri  dui a dui so stati introdotti   e  ghiunti a i pedi di vimperatore  si so inchinati cume u fugliame di e leccie un ghiornu di timpurale     v hkannu palisaiu e me cundizione   quistiuno subitu limperatore  fenu  bivande e alloghiu pe a me armata durante un annu sanu   tributu di trecentu libre di cera a ricute ogni me se  liberta di passaghiu pe i romani e i so alleati attraversu i  vostri rughioni  aghiu dettu   essendusi arrizzati  quasi studiti sottu a le ampie pelle di capre cinte a vita da narbi di boiu  li imbasciatori  si so cuncirtati   mentre le imperatore  le indice tesu vdersu u sigritariu  ordinava chi e cundizione di  pace fussinu trascritte annant a e tavulette     eh  be  qual e a vostra dicisione  dumandede poi ghinlin cesare a  li imbasciatori  immobili in atteesa di le inevitabile     a nostra dicisione   a   ginarale puntentissimu  e chi pe e nostre spalle e pe e spalle di u nostru re van ba  una carga cume quella chi vo intindite imponeci e troppu pisante  e  tale so e parole chi li imbasciaiori hannu transmessu a le interprete  affinch elle iunghiessinu a le arecchie imperiale       va be  va be  ha bruntulatu ghiuliu cesare dopu chi ellu avessi capitu chi i barbari avianu vin tinzione di ricumincia a guerra   e di indignazione  davant a  i capi di coorte muti di orrore  davanta li imbasciatori sticchiti di a a paura  le imperatore ghiuliu cesare si fece una stupata 
+  s
+    </p>
+    <docAuthor>
+     Michele Coranu
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     pe a corsica   ci e luntanu da qui una isulella bella   chi bagna li so pedi  ind u mare ne piu pura  chi alza li so monti ind un cielu di azzuru  e a me patria  e a me cursichella    ci e luntanu da qui  annant una muntagna   mi pare chi si chiama u monte sant anghielu  a mezz a i pulloni  un paisoln bella   e da cula che vengu  da lu me marignana    o corsica cara  isula di belta   o cursichella madre  o cursichella fiera  quandu si levara a to bianca bandera   chi vogliu vince o more  pe a to liberta   marcellu alessandri di chidazzu
+  s
+    </p>
+    <docAuthor>
+     Marcellu Alessandri di Chidazzu
+    </docAuthor>
+   </div>
+   <div n="7" type="art" xml:lang="co">
+    <p>
+     schiribizzi  iscrizione    turche   passata a cappella di santa lucia  si trova a manca annant u strado chi di ajacciu cunduce ad asprettu  un munumeritu chi a prima vista pare una moschea o una medersa  invece  e a magnifica manifattura di tabacchi di u sgio alban  e cunvene a stu prupositu di fa cumplimenti a lu archiiettu carboni per ave saputu adupara benissimu u stile arabu  ma in cima a u purto di sta manifattura ci e una iscrizione chi pare difficile a capisce  prima parch ell e in arabu  e po ancu parchi st arabu  per quelli chi si ne intendenu un e micca chiarissimu  omu diciarta chi ci e scrittu  dar lildokhan  ciochi  bularia di  casadiu tabaccu  ma un e micca sicuru    e po in fine di conti  un saria micca a prima volta  per noi corsi  chi in cima a purto amministrativi o non amminisirativi si saria vistu iscrizione pocu cumprehensibile  vi dumanda si ancu quandu so in lettare alte tre palmi  iscrizione   cu  me  prefecture  hotel de ville  college  direction des douanes  direction des postes  e cusi   via  parlanviassa a u nostru core eorsu   e u diciaria qualchicosa in piu  si ella  i ne pigliessi a fantasia  un corsu  a rombu di sudore  finiscaria forsi per  capisce le iscrizione di a manifattura alban  invece chi per capisce le altre  scpizione    misgisgieca     j   diocese    of gibraltar   davant a u tempiu anglicano di u corsu grandvallu  inde u giardinellu  ci e un serittoghiu chi  dice testualmente     holy trinity of ajaccio    diocese of gibraltar this chfrch is provided by the  colonial church society   per quelli chi un  capisciarianu micce a lingua di winston churchill  eccu cio chi ellu significa   santa trinita di ajacciu diocesi di gibraltar    sta chiesa e pruvista di a  sucieta di e chiese coloniale     li inglesi  almenu  quand elli  ciottanu u pinellu  ind u culore per scrive un iridicazione  un fannu  tanti vezzi  sciacchanu a ognunu e so tre virita       diocese of    gibraltar  questa po e una bona nutizia per i corsi  fin ad ava  cridianu chi la unica diocesi di la isula  quella di ajacciu  dipindia di aix  ma un saranu tanti surpresi  e ancu si ava omu li caccia da u capu chi elli dipendenu di gibraltar un truvaranu micca stranu di dipehde di a diocesi di salamanca  oviedo o lisbonna      si   in quant a esse pruvisti da sucieta coloniale i corsi a sapianu anc avanti  e un ci era bisognu di le iscrizione di u tempiu anglicanu per falline arricurda 
+  s
+    </p>
+    <docAuthor>
+     P. di B.
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     ti ne ricordi 2     a ella  tine ricordi piu di quellu jornu   ciati  ciati  andaim in di i castagni   forse  cara  era tandu u nostru tornu   di scappa tott e dui in di i catagni   chi curaggiosi ne scapaimuiaseme   cume quandu a maliziosa volse   arrapendo un pollame mancu teme  scappendu  di lasciaci e so polpe   e ti ricordi    quandu in a macchia soli cun pensayamu piu chi a i nostri amori  chi un agellucciu sfiuro u to cappellu   ti ne ricordi      stretti a fanne lu oliu   chi dummandatuti    mi dissi   un bogliu    ti ne ricordi piu di quellu jornu bello        u sgio duttore 
+  s
+    </p>
+    <docAuthor>
+     Anton'Giuseppu Terrazoni
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     u testamentu di zi filiconu  vi salut o scio anto   nun perditi troppu tempu  par chi babb e bell in gno   e vol fa uso tistamentu  partiti pur di bona ora   sino risica di mora   benvenutu scio nuftaru  mittitiv a tavulinu   cun penn e cun calamaru  chi u gran viagghi e ben viccinu eccu la me vulunta   chi vi pregu di assigna   eju lunardu filiconu   malatu ma in sintimentu  davant a lu me fuconu   facciu lu me tistamentu    per tuttu cio chi mi resta   da lu mar a la  furesta   a lu gio roccu da quenza  figlidlu del culunellu   cu imassima deferenza   lu me piu stimat annellu   chi e un omu di talenti   e di piu gran sintimenti   al figliol del generali   la me jumenta stillina   per ven a li funerali   cu la sella damaschina   in rispettu lu salutu   cu la zucc e cu lu imbutu   a ghian paulu roccaserra  chi e un omu di bonu tonu  benche nun siamu di ierra   li salini e lu cantonu    comme ci vol che mi spicci  li lasciu ancu li prunicci   a paulu giovangigli   chi e di cor e e ben sinceru  cun tutti li me  sgambigli  chi a me stima par di veru   lu me libru di pareri   per fa cio chi ellu ni credi   a petru paulu  balesi   chi lu invernu si ha da fa   u me cappottu di fresi   per  pudess imbucchiula   la me piu bella camisgia   cu la me barreta misgia   lascia petru castellani caritteri di u paesi   li me dui muli spani   cun tutti li  so arnesi   e di piuli me bascheri   per   la  so   cara muglieri   par andria bizzicutu  mulinaghiin pinacchina   i me scarp e lu vistutu   cun tre nappi di farina   e pur chi ellu  sia be u mulu di zicchille   a simon pauli ciamberra  chi e un saviu di u paesi    perche nun ci nascia guerra  pagara tutti  spesi     e la  mess in apparatu   detta da nostru curatu   in  quant a la me famiglia   nun ii vogliu lascia nienti   per nun mette la bisbiglia   e prucessi  fra parenti  4  pero tengu chi ci sia   una bella magnaria   ghiuvanni di u pinzalonu 
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     ora tardiva  e tardi   rientrimu  e vispe zitellette  cu un ci e diggia piu nimu in sollu e palme a spess  luna sempre piu da sopra a le cullette    chi traspende la so corna acciarina   e lu passu      di un ultimu oziosu in fondu di u  cdrrughju   si e sittu  ma  nirunendu u silenziosu bughju   u came  di una villa ughjula ne u luntanu  si  e tardi   rientrimu  e vespe sitelletie     si stenta a vede lu marchjapede landanu chi si intenebra la aria e veste e so fallette 
+  s
+    </p>
+    <docAuthor>
+     A. F. Filippini
+    </docAuthor>
+   </div>
+   <div n="11" type="art" xml:lang="co">
+    <p>
+     ingiru a pontenovu  u 3 agostu in pontenovu  golu era  sta mane tristu e pareva   morte di un leggeru velu neru chi besch fatte eforme di u fiume  arrampr a ndusi e pieghendusi a la asprita pie ont  o puru si stendeva calmu e sianu con qualchi rivigliula chi u venta fada corre  o     custi cascava di petra  in petra e cu ja tutt u lume di un sole nascente rosa e caldu digia  tutt a vallata di u fiume tragicu mi inspirava un terrore e un dulore angusciosu  per mumenti un ragiu rossu fughia sopra a la aqua vibrente e si sarebbe dettu sangue chi cursia   richiaratu  da gran quantita di acqua  piu guardava e piu la acqua mi pareva rossu e negru  e u    chi si passa in mezzu a si cadaveri mostruosi  bultulati custi da breccie di giganti chi  briachi di liberta e di forza  vulianu arresta u fiume in di a so corsa  u sole rullava a so lenta e  mopotona palla in di u cielu chiaru chi pareva incesu     o   a pimpruvisu u fiume appare a mezziu a li arburi verdi a u pede di una costa brugiata  induve nascienu  miseri qualchi lustinchi o qualchi mucchiu  ardita e scuscesa pare che si slanci a fassaltu di e punte cavernose inbiancate da u calore  dui o tre paisoli so appesi nantu a se petrichicce  so casuccie nere di vetusta  ma solide  di aspettu terribile  parenu furtezze   cun mille imagini mobili si riflettanu in u fiume chi qui e piu rossu      a sinistra ana piccula piana si stende  euperta di macchia  a mezza  quale si staccanu qualchi pezzu di vigna       di una parte la arida custera  da la altra una dolce costa induv e piezzatu u paiselu di ponte novu  un gran ponte a cinque arche si slancia maestosu e terribule sopra a u fiume finspestosu  quest e u ponte tragicu   x  parecchie millaie di sullati bianch e rossi occupanu a sulana e i paesi duminenti  a la entrata di u ponte un pu gnu di omi  a cispre a collu  vestuti di billatu ma pieni di curaggiu e di un amore chi li strigne u cdrei l amore di a liberta  st omi  so semplici  ma fieri  mal vestuti ma curazzati di curaggiu  mal armati ma ci un ideale  luttonu e sepenu more  vinti da u numeru e di a forza brutale si difeseru sinch ellu ne resta unu per more  u pont e carcu di cadaveri di donne  di zitelli di vecchi chi so vinuti da tutte e parti di la isula per disputa al oppressore di u  bon piace  e loru sole leggi   liberta e indi pendenza       oghie e u tre aostu  u sole lampa certe vampate suffuchenti sopra una folla riunita a la entrata di sf ponte e ricolta in un gestu di preghera  un profamu di incensiu si alza mollemeste in la eria riscaldata     tuttun trattu un vagu murmuru  chi si precisa  pdi pian pian stende e so ale chi facenu ribemba  a  vallata di sangue   u dulurosi cantu si leva  e risona in di u spaziu cume si ellu surtissi da le arche immense e da le acque verdi e scatinate di golu  e un lamentu    diu ti salvi  regina  che canta una folla  pia a u pede di una altissima croce sem  plice e mudesta  chi stende e so breccie putenti e prutettrici di avanti a lu occhiu di u sole   tuttu ind un colpu cume un sughiozzu di ultimu adiu  u cantu pienu di fede si svanisce  una voce furibonda  di tonu si face sente  u culombu risona da per tuttu  o si ellu fussi quellu       eviva a corsica   eviva rocca  sti gridi si alzanu lampati da voce putent e numerose e mi pare  tantu la aria e piena di calore e  di intusiasmu  di assiste a  battaglia di 156 anni fa     perche simu stati tantu      mischia  tu a quella folla  a quelli fratelli  micca in spettatore indifferente ma in corsu di fiera razza  in partigianu arrabbiatu chi sente bolle in lu so core u sangue chi corre sempre oghie  purtatu da a currente impetuosa  versu u mare immensamente turchinu   di una parte e da  la altra di u munumentu dui corsi cu a barretta misgia e a cispra in fiancu facenu a guardia funebre  unu e minicale pueta corsu   in sta folla guasi tuttii fratelli di fede so riuniti per una preghera immurtale  petru rocca  u nostru caru direttore  prununcia un discorsu vibrente di intusiasmu  di amore e di fierta chi lampa in core un  sentimentu di opprobbiu per  le oppressore   a bandiera bianca atesta di moru e quella  di a santa vergine si spieganu sopra eteste di i patriottia  mezz a i quali  prete carlotti  de susini  g  olivieri  maistrale  notini  grimaldi  lucciardi  santu casanova  lu orzu di orezza  renzu  luciani  mattei torre  alesiu marchetti e tant altri presenti in du mio cere     dopu a sta religiosa cerimonia  un banchettu ci aspetta  qualc allocuzione so prununciate  tutte in le onore di nostri morti  ageniu grimaldi ci face un discorsu  in corsu  prufondu induv ellu mette tutt aso anima di corsu         nunda fu piu bellu che sa manifestazione in suvenire di li eroi morti di una morte sublime  avale  a croce di  u ricordu si alza vicina  u ponte macellu e sara tutti li anni un puntu di pelegrinaghiu per quelli chi credenu  ancora a la esistenza di una razza corsa ce a pus sibilita di a liberta   a liberta o la morte       
+  s
+    </p>
+    <docAuthor>
+     Jseppu Filippi
+    </docAuthor>
+   </div>
+   <div n="12" type="art" xml:lang="fr">
+    <p>
+     le silence de la presse continentale  l inauguration solennelle du monument de pontenovu a ete une manifestation superbe qui a montre non seulement la piete des patriotes corses et leur attachemient au souvenir des heros de l'independance mais la force du par titu corsu d azione et l attrait irresistible et puissant qu il exerce sur les coeurs et les esprits corses ici  plus de politique de clan seu l idee corse domine et a l appel du partitu interprete des voix du passe des milliers de compatriotes repondent sans hesiter  ll y a la un fait d une importance indeniable et qui ne peut que reconforter profondement ceux qui doutaient ou qui craignaient eh  bien ce fait desormais constate par presque toute la presse insulaire est pour ainsi dire ignore dela presse du continent   a l'exception du petit marseillais aucun journal continental n a mentionne la ceremonie de pontenovu pas un fifre ne retentit en provence ou un biniou en bretagne dans une fete quelconque sans que les grands quotidiens de paris n enregistrent immediatement cette  belle manifestation regionaliste  seul le regionalisme corse est in connu de nosconfreres il y a pourtant dans notre effort regionaliste une idee qui vibre intensement celle de pautonomie  il y a aussi un reveil intellectuel magnifique des publications litteraires scientifiques sociologiques la creation d un theatre etc rien de cela n emeut la presse continentale celle de droite comme celle de gauche pas plus l echo de paris que le temps ou l humanite n ont ose mentionner l existence de notre parti ni la commemoration de pontenovu  l humanite qui pretend ne me connaitre aucune  revendication d ordre ethnique qui se produise dansle monde sans se desinteresser certes de la corse ne sait pas qu il y a dans l ile un puissant parti national adversaire de tous les clans  ignorance  apprehension volonte ferme de faire le silence autour d un mouvement que l on re doute qui pourrait le dire le temps n a meme pas insere un telegramme cependant tres bref l informant de l inauguration du monument de pontenovu  on dirait ma foi  et nous aurions d ailleurs des raisons de le croire  que ce mutisme general est di a un mot d ordre venu di gouvernement de la place beauvau comme du quai d orsay cela n est pas pour surprendre de la part du temps de l echo de paris ou du journal mais cela ne laisse pas d etonner de 1a part d un ofgarie tel que l humanite  en tout cas le partitu corsu d azione bien recompense jusqu ici de ses efforts ne se laissera pas af fecter par la conspiration du silence organisee suf le continent ti lui suffitde voirson labeur de propagande patriotique couronne de succes dans l ile il continuera son oeuvre tranquillement pacifiquement  les adhesions arri vent tous les jours nombreuses et enthousiastes a muvra estun des journaux les plus lus de toute la corse et meme par les corses en dehors de l ile les idees qu elle defend et qui sont aus si celle du partitu corsu d azione font des progres enormes et se propagent dans les moindres petits villages avec une rapidite extraordinaire le probleme corse s est precise et se pose desormais dans toute son ampleur la solution corsiste apparait comme la seule logique rationnelle conforme a l histoire et aux aspirations latentes et profonde du peuple corse l elite est avec nous courage  nous approchons du but et du triomphe
+    </p>
+    <docAuthor>
+     Pasquale Manfredi
+    </docAuthor>
+   </div>
+   <div n="13" type="let" xml:lang="co">
+    <p>
+     lettera da u paese  caru lumbrigone   eccumi di ritornu da le inaugurazione di a croce di pontenovu     pontenovu  1769  u o maghiu  fu intarrata a liberta corsa   in 1913  ferrandi  passendu par pontenovu grido  manc una croce    quellu gridu sutrinno tuttu u sangue corsu   eju mi messu a piegne  di altri arrizzonu u pelu di rabia  fu quellu gridu chi fece sorte a croce di sottu tarra      le inaugurazione e stata u 3 aostu  una croce di cinque metri in petra eterna  cu sta scrizione  qui casconu  e milizie corse di de paoli u 9 maghiu 1769 luftendu pe a liberta di a patria   a  sta festa  ci era 3 ooo parsone  u vescu  centu preti  giandarmi e una culonna di guardie furesta   ci eranu quasi tutti i pueta corsi  quelli chi so sempre in testa di tutti i muvimenti di generosita e di patriuttismu      chi si passara   chi un si passara in pontenovu   dicianu i paurosi     ma eju spartia u travagliu      incaricatevi di le ordine fra i giandarmi  o sgio capitanu di giandarmaria  voi  o monsigno  mittite le ordine fra i preti   eju  cu a mandulina  rispondu di a pupulazione    cusi fu fatta e a festa si passo cume tra fratelli  senza un colpu di pistola ne  di  rivolvarii    ridendu e cantendu     a dece ore fu a messa  cu a croce par  altare  a monsignore  dopu u parlamentu di u vescu  di santu casanova  bella poesia di lucciardi  discorsu di petru rocca e di larenzu luciani   infine eccu a cu a so mandulina  in la punta di un pinzu  cantendu a croce di pontenovu    da la muntagna ja piana  a sta croce tutti intondu      allora  cu e larme a tricce  si vi de tutta a folla  omi e donne  giandarmi e preti  vecchi e vecchie  givanotti e damicelle  cantendu a riturnella corsa    a maghju in pelerinaghiu     quellu chi un ha vistu cusi bella festa  un ha vistu nulla piu di centu volte  ci e vulsutu a canta duva si passava    nantu la corsa bandera si leghj  cu voce forte   a nostra vecchia prighera    a libertai o la morte   depu a canzona  eccu a prucissione annant a u ponte  a curona di fiori salvatichi lampata in golu e un altra curona di i bonapartisti di ajacciu cu u sgio ghiacumu stefanopoli in testa   un pranzu tremendu priparatu da ottobrini et tantu basta  cu belli discorsi di graziani  prete carlotti  dei pellegrinu e grimaldi   belle impruvisazione di minicale  u gran pueta di evisa  chi ha smaravigliatu a tutti     e po eccu la ora di u trenu e ognunu si accoda versi a stazione ridendu e cantendu  cu tutti i pueti in testa   in gara filicitazione di noi a u capitanu di giandarmaria  chi ci ha filicitati di u bone ordine corsu   quandi u trenu fisco  tutti i giandarmi volsenu culla in lu istessu vagone cui pueti e ci fu u teni e u para  vulianu canta e impara tutti a canzona  cula fu a sola baravuglia di pontenovu   cusi e finita a festa di pontenovu  riccadi fierta corsa et di aligria 
+  s
+    </p>
+    <docAuthor>
+     Maistrale
+    </docAuthor>
+   </div>
+   <div n="14" type="feu" xml:lang="it">
+    <p>
+     capitolo iv il frate  PS cotesto vostro frate mi ha scomqussolato il cervello    disse i  boswell   PS   io credo  che  se lo conosceste voi gli vorreste bene   echi e costui      7 gli e un uomo uscito di galera     oh   a   e appunto per questo voi lo hcevereste come padre   il         ohibo    fe  vi contentate chi io mi provi a atvelezriverize  edamare bc         provate     voi avete dunque a sapere come cotesto frate si chiami padre bernardino da casacconi ed e francescano  di ingegno certo minore all arnaldo  al savonarola  al campanella  al sarpi e agli altri terribili frati usciti fuori dal seno di italia  pero di anima pari  e forse senza dubbio  superiore nella costanza operosa impiegata in benefizio della patria  voi lo riputereste giova ne  e cosi veramente apparisce tan  to per lo intelletu fresco  quanto per lo irrequieto agitarsi   pero la massima parte degli uomini agli anni suoi raggiunsero i loro padri nel sepolcro  o si  chiamano  decrepiti  mezzo secolo addietro egli si aggirava per le pievi della isola  predicando pace e  stornati i ferri omicidi dal petto dei corsi  gli appuntava concordi in quelli  dell albborrito dominatore      a i      bene  onesto frate in verita     all ultimo cadde nelle mani dei nemico  il quale jo trasse a  vi tuperio in bastia dove  gli ordino titrattar i   la quale cosa ricusando il degno frate di fire ebbero cuore di esporlo alla gogna  e  il boia  accanto  innanzi di sbigottirsi  sentite un po  che cosa mi va a pescare padre bernardino  aspetta che tutto il paese gli si affolli di intorno  perche  mi rincresce  dorvevelo dire  ma ja riputazione del paese vuole che voi lo sappiate  bastia di faccia alla rimanente corsica rappre  senta la piaga su le ginocchia di san rocco         e san rocco  chi e     oh  non ve lo ho gia detto  egli era santo e per di piu pellegrinava sempre  i     fa avevale piaghe  alle game bed  we  6    ed aveva piaghe alle gambe     bene  ma allora doveva smettere di camminare  e fermarsi in casa a guarire  sapete che avete di santi curiosi voi altri      puo darsi  ma quando saremo arrivatia casa  intendo in corsica   io vi supplico ad astenervi da simili considerazioni  o se non potete astenervene  tenetevele in corpo      cosi faro  adesso tiriamo innanzi col frate     quando vide i bastiesi gremiti intorno alla berlina  ecco il frate scotere arrabiato il capo  e con voce di bombarda rimproverarli di vilta e disamore per la patria  ributtare loro in faccia la virtu dei padri  chiarirli che a cotesto modo tirando avanti  dio non gli avrebbe voluti  e il diavolo rifiutati  poi  dopo il diluvio  lo arco baleno di tanto dolci e mansuete parole che gia co  singhiozzi e co fremiti la gente cominciava a dare certissimi segni di vicina tethpesta   onde e fu mestieri levarlo di su la gogna  diventata cattedra di liberta  e ricondurlo in trionfo alla prigione  dalla quale lo avevano cavato fuora per buttarlo in balia della infamia       ed ora come si trova qui     volete che io glielo domandi    dacche parmi entrare nel pae se degl incanti  fate   il giovane ando con presti pass alla volta del frate  che  fattasi notte buia  ormai si disponeva a rientrare sotto coperta  e  presagli la iniano  disse   si    padre bernardino  prima di andarvene non mi permetterete chi io vi baci la mano      quale siete voi      uno che da zitello ve la bacio delle volte piu di mille     figliuolo  non ti riconosco   e per la faccia  sebbene gli occhi non mi dicano piu il vero  pazienza  che fa buio   ma ne anco alla voce     eppure giuoco il cuore contro una ghiaia che voi non avete dimenticato altobello di alando     e tu non lo avresti mica perduto il tuo cuore  caro  caro figliuolo  un bacio   to un bacio   un altro ancora    o caro    caro       f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+   <div n="15" type="art" xml:lang="fr">
+    <p>
+     autour de pontenovu autre son de cloche u nostru collaboratore s c ha mandatu a u pefit marseillais sta retiticazione a dui articuli tendenziosi  u nostru cunfratellu d olte mare un avendu ancora stampatu ste righe dettate da l amore di a virita ci femu un duvere di publicalle  l m et d guelfucci correspondants du petit marseillais ont donne sur la ceremonie de ponte novo des renseignements incomplets je dis blus l m affirme  un peu mechamment  gue la presence ef la presidence de mgr simeone etait un malaise pour quelques uns gui du raient desire une ceremonie ou la passion aurait pris la place de la piete  cette affirmation est purement gratuite et tendancieuse c est la deduction de l interpretation erronnee d un court incident qui se produisit pendant le discours de veveque d ajaccio incident passe sous silence par m d guelfucci et malicieusement exploite par l m nous allons le relater dans foute la simplicite de la verite  mgr simeone au beau milieu de son eloquent discours brononca quelques phrases quine furent point approuvees par tous nous les citons fextuellement   les corses ne luttaient pas contre les francais ils luttaient contre une loi de lhistoire gui  necess 1irement devait avoir raison  de leur opiniatrete le mouvement des peuples ne va pas a la sepa ration a la fragmenfation mais au  confraire a l unite a la solidarite  le tout est de s unir de s incorporer  a la grande famille avec laquelle on  a le plus d attaches le plus d affi nites  4 cette derniere phrase provoqua un cri un seul cri de  vive l italie ce cri ne fut pas approuve mais il souligna et approuva les paroles de monseigneur celui qui l a pousse a ou sbrement dans les paroles de peveque une allusion favorable a l italie l allusion bien que non voulue etait cependant possible en 1769 il n y avait entre la corse et la france aucune attache  aucune affinite tandis gu avec l italie  nous prions ie lecteur de ne pas la confondre avec genes  il y avait non seulement de l affinite affinite de race ef de langue il y avait aussi de la consanguinite la famille de pascal paoli celle des bonaparte comme celle de tant de corses n avaient elles pas une origine italienne  ce n est pas ce que voulait dire mgr simeone la suite de son discours precisa sa pensee il west pas moins vrai cependant que le cri de vive l italies fut provoque par ses propres paroles   si l m avait note cet incident saris lui donner une mechante interpreiation c est ici que je mettrai un point final a cet article mais il m oblige a le prolonger un peu plus parmi les organisateurs de la belle mani festation de ponte novo aucun je puis l affirmer sans crainte de dementi n a ete mecontent dela presence de notre eveque tous le venerent comment donc l m peut il affirmer que le malaise de sa presence et de sa  presidence  ai sentiment de quel quesuns qui auraient desire une ce remonie ou la passion aurait pris la  place de la piete se revela sur quel ques  passages de ce discours   parce que dans les assemblees on appelle  mouvements divers  ceci frise la calomnie  les organisateurs de la ceremonie de ponte novo et les corses qui ont repondu a leurs appels n ont jamais eu qu un but honorer la memoire de nos peres un point cest tout la preuve je la trouve dans les divers discours et poesies lus ou improvises et dans lesquels on ne releve aucun sentiment de haing ni de vengeance mais rien que des sentiments d admira tion et de piete envers ceux qui ont prefere mourir plutot gu etre vendus comme un vil froupeau  je dois a la veriter d ajouter que les phrases de mgr citees plus haut oni ete ecoutees plutot froidement n eut ete le' respect du a la dignite du prelat qui les prononcait les contradicteursn eussent pas fait defaut et je me serais inscrit tout le premier et je ne pense pas que sa grandeur puisse s offenser de ce que tout le monde ne pense pas comme elle  le mouvement des peuples a ditl eveque d ajaccio ne va pas a la separation a la fragmentation mais au contraire a l unite a la solidarite  ceci peut etre vrai comme il est vrai que la force prime le droit mais ce i est pas juste et si c est une loi de l histoire et bien c est une loi inique fendt en 1914 que voulait l allemagne sinon s etendre au detriment de la france en 1769 que fit la france si non s agrandir au detriment de la corse mgr dira t il encore qu en 1914 les francais comme les corses de 1769 se sont batfus contre  une loi de l histoire qui     cette loi de l histoire les hommes libres ne veulent pas la connaitre et ils la combattront toutes les fois qu on voudra la leur imposer pour eux il n y a de vrai gue ce principe conforme a la justice  les peuples comme les individus ont droit a l existence ce droit ils le tiennent de dieu aucune nation si puissante qu elle soit n a le droit de supprimer une nation plus petite pour se l im corporer     mgr a parle aussi de  separation  d arrachement funeste nous estimons gue ee etait ni le moment ni le lieu en cela du reste l eveque d ajaccio ne pouvait donner que son opinion personnelle opinion qui peut avoir sa valeur mais qui n en demeure pas moins discufable ef discutee   a e
+    </p>
+    <docAuthor>
+     S. c.
+    </docAuthor>
+   </div>
+   <div n="16" type="let" xml:lang="co">
+    <p>
+     una lettara  scio direttore   ghiuntu apposta da marseglia  so arrivatu in bastia a mattina di u 3 agostu  e malgradu a fatica di un biagghiu in mare  so ripartitu subitu pe pontenovu induve aghiu participatu cume tanti corsi a vi naugurazioue di u monumentu     fu per me u piu bellu jornu di a mio vita e so propriu cuntentu di a  ve vistu millaia e millaia di corsi onora i nostri morti       so discendente di u capitanu don paulu giabiconi  di santa lucia di moriani  cascatu a pontenovu  u 9 maghiu 1769      u vostru discorsu mi ha cummossu sin a e lagrime avete parlatu  fieru e intrepidu cume soli parlavanu li antichi  corsi    nc  evviva a vostra faccia che boi campite cent anni     li   aghiu intesu dino cun grand piace lu altu e serenu discorsu di ti scio ageniu grimaldi  u vostru famosu cumpagnu di fede      a boi tutti  maistrale  lucciardi  santu casanova  renzu luciani  graziani  prete carlotti e minicale  u tributu di a mio rispettosa ammiraziune    5 ca  avete u curaggiu di parla e di scrive in dialettu corsu e fate trima i servi di marianna    4   bi ringraziu di u spettacula indimentichevule  e speru ritfuvami lu annu chi bene a u pellerinaghiu di u 9 maghiu      sentimenti cursisti   
+  s
+    </p>
+    <docAuthor>
+     Ghjseppu Giabiconi
+    </docAuthor>
+   </div>
+   <div n="17" type="poe" xml:lang="co">
+    <p>
+     pontenovu  o corsi celebremu i grandi eroi chi casconu pe a nostra indipendenza  so morti pe la patria e tocca a noi a benedi la ultima resistenza   salutemu in dinocchie ugrand umone  babbu di i nostri fieri e cari antichi  e chi ne fu y intrepitu   leone  e  sempre la testa opposta a li nimichi  la anima grande  la intelligenza aperta  bidia a so isola suffrente  e bulia per ella  offesa e ferta  liberta   mare ariosu e indipendente   cinque cent anni flagellata e fiera  mai inchinandu a capu  ma ribella  purto alta e slracciata a so bandiera tinendula gluriosa su  a stella  chi guidava da u celu u so destinu  sottu lu amatu egidiu di maria   e duvia  cun tempu predestini  stuna u mondu sanu  e  in questa via   aequista un figliolu prodigiosu e cunquista di esempiu e cu la idea u populu superbiu e furiosu   chi fece trima la terra europea   tutti in dinochie sopra u  ponle fatale e lascemu u tarrenu sanguinosu  duve nasci a liberta mundiale  cul nostru gran de paoli gluriosa  
+  s
+    </p>
+    <docAuthor>
+     Luciani di Jiaseppu
+    </docAuthor>
+   </div>
+   <div n="18" type="let" xml:lang="es">
+    <p>
+     Una bella Lettara  15 de Junio 1925.  La Guayra (Venezuela)  Al Senor Pedro Rocca, : Director de la MUV RA, ..':~ Ajaccio (Corcega).  Muy Senor mio y compatriota,  No sé como agradecerle para elenvio de la valiente Muvra y de algunas publicaciones interessantisimas. Mi corazon de corcego, diré mas, de cor tenès, ha sido muy comovido en leyer los artigulos y escritos que VA. y sus companeros.consagran a la Corcega; nuestra Patria.. a ~i  Aguì, eri, America, estoy viviendo er el destierro. Pero no por eso hè dejado nunca de pensar a mi Corcega. a sus altos montes, a sus lindas vegas, a sus ‘aldeas’ pintorescas... Entonces, imaginese Vd: con cuanto placer he recibido A Muvra ! Desde aquel momento, desde: el: mome.fo que le voz querida de mi patria mi alcarizô; el desfierro.me sembro menos penible.  He leido con muchà atencaon Senòr Director, los artigulos relativos a nuestro dialecto, que algunos femenfidos dicen ser una miserabile jerigonza. Vd. y sus companeros han, probado.al coritrario que nids bonito, mas puro, y mas noble dialecfo que el corcego no esistia en el mundo. ‘+.  Con muichò placer tambien, he visto que Vdes, se han interesado por la  ereccionde un monumento comem, tivo a les muertos de la In depen, * 1 en  cia.  Dispénseme, senor Director. .. escribo en el idioma de Cervant, è, i le ro prefiero hacer asì, mas bien qu Pe escribirle en francès, que nunca € de sideré como mi lenguaje maternal E marché de Corcega muy jòven. Hi modoque he un poco olvidado ai gua d'i nostri babboni. Pero yò no ta un rehegado, senor Director, y con dero vergonzosa ia insistencia di ciertos nuestros compatriotas en de cir que la lengua de Maurice Bar, Hi es la verdadera lengua de los ca; degos. * bi  Ahi! si estos soccarones fueren ta lejos de la Patria como lo soy dieu diferenté seria su parecer! Con pesa to dhinco entònces proclamarian que el salud de la Côréega no es sino en ÿ misma ! El sublime amor de la Patri, crecé en rapporto. de las distancigs  che èstan separandonos de Ella.  Una vez mas,senòr Director, le do muchisimas gracias para su atericio Aungue' en America, soy Corcego ; permaneter Côrcego. Y me giistà di cirle a Vd. : à  ‘Me repito de Và, Senior Dire: tor, etti. — ÙN "i
+    </p>
+    <docAuthor>
+     Pablo Martinetti
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

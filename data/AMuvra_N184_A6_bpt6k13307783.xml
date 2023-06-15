@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k13307783
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k13307783
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 184 | Année 6
+     </edition>
+     <date>
+      1925-01-04
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Sest’ annata — Numaru 184  Esce a Dumenica  Dumenica, u 4 Ghjnnaghiu 1925    GIURNALE DI È PIEVE DI CORSICA  ABBUNAMENTI :  In Corsica. &lt;i... ........ 12 franchi In Francia | ... .......... 15 »  ; i dora 15 » In Francia. . . . . sE i  A PEsteru LL. , + + . + + + 25 »  U Numaru:4 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  38, Corsu Grandval 38 AIACCIU
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     per di qual cosa  chi sera divinutu quellu diabulottu di cumitatu chi paria cusi decisu a ottene a strada tantu desirerata  corti cervioni sinno a rompe cucchiara e tinellu cu a clicca guvernementale e cu a reprisentazione parlamentaria corsa     un si ne sente piu u soffiu dipoi a seduta timpestosa di u famosu cungressu radunitu in corti u 29 ottobre  1922  e duve  cunsigli generali  di circundariu  cun meri di a regione interessata fecenu un tale bisbigliu  che gaffori  in statua sopra a  piazza di a chiesa  disse  allegru  a so  moglia  fatistina matra   alo  tutti i  tempi rivenenu      un lascia spegne a to  mescia     unu di si cungressisti a ti porebbi du manda fra pocu per fa salta tutte e polverere di corsica e di bonifaziu     hai intesu cio chi elli hanu dettu   a pulitica di inganni e finita  chi elli a sapianu tutti i nostri reprisententi a quelque parti qu ils appartiennent          e vera chi lu hanu detta in trancese        hun     rispose faustina  u ceppu corsu e caverunatu e un da piu che talle bastarde a mezzi lamaghjoni    lu inseddu di a nostra  razza e bellu che persu    u cornu colombu un servera piu chi a u pastore cumunale e a mio mescia a possu lampa in ristonica   u fattu sta che faustina avia ragio      u bisbigliu di u dettu cumitatu un fu che un focu di pagliaricciu crosciu   assai fume  mica fiara e di pocu durata   avale  di a strada corti cervioni unsi ne sente mancu piu parla  herriot a ci ha ricusata a lu asciutu  e  un si po mancu tantu di  chi ha fattu di moru un mezzu ministri      di altronde  certi pretendenu   e un stantu a credela   che moru averebbi lasciatu fa a detta strada si pietri ur facia parte di a cummissione di e finenze      u ragionamentu di quessi un tira calci   dicenu   moru dispone e so  batterie per piglia a citatella di corti   mica quella chi ellu piglio gaffori  ma quella  pulitica chiamata a citatella  di u partitu gavini    a so  prima cannunata e stata a PSreazione di a scola nazionale per furni artisgiani chi  quand  elli seranu furmati  si ne andefanu per su mondu  un tru vendu travagliu in corsica per mancanza di industrie  dunque  prima un furniamu che funzionari  avale furnisceremu ancu operai   e cusi  moru avera trovu u  veru mezzu di viuta cumplettamente u nostru poveru paese  i  ma qui ghj e un altru paru di maniche e ne parlaremu un pocu piu tardi   dunque  moru spera che  a creazione di a scola nazionale u metti in odore di santita cun curtinesi   tantu piu che a cosa dipendendu esclusivamente di u so  ministeru  u meritu di avella data li rivene tuttu      eccu cio chi conta    u restu so bazzicature    invece che a strada corticervioni dependendu di a decisione di un altru ministeru  e pietri essendu a  cummissione di e finenze  si porebbi crede che questu ha cuntribuitu a ottene i fondi necessari       certi dicenu ancu di piu   che pietri averebbi cercu a fa vuta i crediti pe a custruzione di sa biata strada  chi landry averebbi ancu vulutu dalli un colpu di mana sottuesottu    ma allora    un burlemu  no   ha dettu moru a herriot  a strada corti cervioni  pian  pianinu     vidaremu quandu seraghju depiitatu di corti   cusi  herriot ha piattatu i scritti  quellu diabulottu di cumitatu e divinutu saviu e mutu cume un santucciu di chiarasgiu   e fontaine di u caminu di feru si strufina e mani cuntentu cume un picchiu    pare chi ellu abbia ancu inviatu dispacci di felicitazioni a i so  capi macchia in parigi e in belgica     mi capite o no        perche a strada  corti cervioni cun pussibilita di esse prulongata da una parte fin a bastia per moriani tavagnacasinca e da la altra fin a aiacciu per evisa vicu  serebbi a ruina di trennichellu       tantu piu in cu le eletrificazione chi un mancherebbi di  stabilissi sopra a tamanta via di gran traficu per frami  a quale  a lu inversu di u caminu di feru  traverserebbi paesi di pruduzione  a la eria sana  e permetterebbi u cambiu di prudutti fra u di qua e u di 1a di  monti    allora trennichellu   si resterebbi di mezzu corpu   chi furtuna chi serebbi pe a corsica      ma  un si sente piu quellu diabulottu di cumitatu natuin pedicorti e forse mortu in parigi    o cirnu  scrivi a to surella di latte sardegna e fatti presta qualchi milione di a milierda chi ellu la ha datu mussolini    i li renderai a  prima tempera di santa maria si a to racoita in parigi sera bona   
+  s
+    </p>
+    <docAuthor>
+     V. G. d'Altimonti
+    </docAuthor>
+   </div>
+   <div n="2" type="let" xml:lang="co">
+    <p>
+     scuse  caru direttore   ma chi pinzeti di ci un rispond a una lettara cusi piena di affettu e di core corsu  nulla di bonu che   ma sapeti be chi u piligrinu un po ripona u so bastoni   aghiu trovu a vostra lettara riintrendu da un viaghiolu nu portuvicchiacciu  e quand e so juntu  eram in piena castagnera ci e vulut a metta e buccunate doppie par racoglia ste due chioppule sempre cu u temore di u timpurale  e ci e risciuta ma  crididemi puri  un ci era temp a mora   oghj so in casa e un ne emi aspitfatu di senta u retu di i mannarini par appruda e paghidle  certe bombe annant a tuaglia chi vi lampavani u stomacu in fondizzii u corpu  nulla ca di vedali    e si diu ci da saluta  cu sti tempi di caristia  pulent e granaghioli hani da essa u risparmiu di tantu pani a trent ottu seldi u chilo    ma semi stat abbastanza straziati  una freta e la altra calda e fumicosi  come catinacci  ci e vulzutu u savoni neru par quindici jorni si no vuliami ripiglia crela cristianina   eccu  caru direttore  u me attu di  sunirizione a mi nari di merifa pas soluzione  detiami e so pront a  rispond a la vostra chiama   in tantuvi diciaraghiu chi par stu jsoni ci e un bisbigliu chi si trema  u pane a irent oitu soldi u chilo  a carne purcina a deci franchi  a fa quantu ne appinzara    u nostru martinu appinza i pali di a fede e di a speranza   rina castagnina a vinti cinqui soldi   u latte a vinti sei soldi u litru  un ovu  quatordici soldi   e nostre donne so a la aria esi sta vita dura so dicise a piglia rastuli e monduli par calma e franasie di i nostri marcantozzi  e quandu e donne a sicignenu  un sisa duva si va  e vurria cunverta anzi briache ca cu u copr a lampione   di pulenta l annat un saria gattiva  ma e passatu utempu chi e nostre mamme si arrizzavani a mane di note tea fa i ranaghieli par sdighiunacci prima di mandacci a la scola   oghj ci vo caffe a lattie cicculata e un si parla di roba castagnina     un vedi tu   a moglia di u gi andarmu  figliola di un pasturacciu  compra u pane biane u  ed eju  aghiu da magna a pulenta mi prezzu quant e  ella   ma dighia  mi po prista un pane pe a mirenda   intant  andaraghiu a frighia un ovu a francescu pe a so cullazione quand ellu jugni da lu oriu      eccu duva no ni semi  e si va sempri pighiurendu 
+  s
+    </p>
+    <docAuthor>
+     Rampinu
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     u nostru valente amicu  p  r si   ricorda nel idea nazionale u nome di alcuni corsi chi si distinsseru ne un secondu periodu di u risorgimentu italianu     sti corsi  petru gabrielli di tralonca  eugeniu giuliani di calvi  filippu testori di cervione  carlu filippu pacconi di zalana e ghjuvanbitu grimaldi di niolo incuntraranu nei moti di u 1837 u patibolu o a galera   elli  cuspiravanu pe a grandezza e a liberta di la italia  eranu segua  ci di mazzini e veri propugnatori di italianita  i  un bisogna dimentica chi ne puitimu seculu  numerosi corsi si truvavanu inde ranghi di i vuluntari taliani  feceru tutti u so duvere e parecchi si inalzaranu ad altissimi gradi    u muvimentu  di a giuventu isulana in favore dil italia fu abbastanza forte per intimuri u guverni di luigi filippu   un avemu chi a leghje  u libru scrittu in 1847 da lu uvvucatu arrigo arrighi  un corsu infrancesatu     que se passe ti il  que voyonsnous maintenant dans quelques communes de l interieur de le ile  des rassemblements considerables sous le nom de pinnuti  x   quel est le but de ces meetings di une nouvelle espece   on y parle de revolution  di affranchissement  di independance italienne etde confederation entre les divers etats de la peninsule    qu en resulte ti il   ci est qu emportes par ce desir vague mais reel  indetermine mais constant de je ne sais quelle gloire a acquerir  quel gouvernement representatif a fonder  quels ennemis a combattre  on les voit deserter a la hate les champs etta bergerie  2       e sti giovani corsi si ne andavanu in italia a u serviziu di carluabbertu  re di sardegna   arrigo  arrighi  buon scrittore ma rinnegatu  scriviva alcuni mesi si piu tardi sopra a le ere nouvelle  13 aprile 1848   ne   les pinnuti ont remplace les carbonari  le une et le autre decesassociation secretes ont une origine italienne   que signifient ces rendez vous de milliers dejeune gens  a une heure avancee de la nuit  sur des point indiques  join   des communes  derriere l epais rideaux des bois ou dans le fond di une vallee solitaire   que signifient ces mots di ordre enigmatiques  ces parades  ces bruits de guerre  ces rassemblements tumultueux      2 i  a vistess epuca  6 aprile  tutti giurnali di  parigi  fra i quali  la republique e la democratie pacifique parlavanu di lu entusiasmu manifestatu dai corsi a le occasione di e cinque giornate  di mila e parlavanu altresi de ceder la corse a le italie en echange de la savoie         arrigo arrighi ne fu propriu sbalurditu e un seppe truva che stu povaru argumentu    nos freres du continent  i francesi  consentirons ils a avouer qu il etait sur une terre etrangere  francia   ce grand genie des temps modernes qui  pendant vingt ans  a proinene le drapea u francais dans toutes les  capitales       ere nouvelle  26  aprile 1848    riturnendu a i pinnuti  arrighi  scriviva indu lu istessu giurnale  8 maghju   ells revent la reunion de la corse aux republiques federatives de le italie    cela ne est pas possible  bien que des journaux francais aient parle a leur tour de le echange de le ile contre la savoie    e  fattu curiosu  ind una lettera indirizzata a un settimanale di bastia  le progressif  17 maghju 1848   samipieru gavini e u so fra tellu diunisu affermavanu        ges premo qui nous det ttdodoie  de leurs suffrages et dans les rangs des quels  nous sommes fiers de nous trouver depuis l organisation de la societe        ma qual e u scrittore  chi ci fara cunosce a nostra vera storia   quale ci vendichera di tanti libri pieni di bugie      (r) i  ne u risorgimentu italianu  numerosi corsi ebbenu occasione di onora a riostra razza cusi grande e cusi fiera  e   vincensini  di corti  balente uffi ciale cumandava u reggimentu  della morte  a u ponte caffaro  e da  prima si era illustratu ne a difesa di milanu  a porta orientale induve ammazzo un generale austriacu    leonetto cipriani  di centuri  fieru suldatu e patriota  unu di i piu balurosi campioni di la italia risorta  fu generale e dittatore delle romagne    desideratu pietri  partitu cu i mille   ebbe un gluriosu destinu  e  cume scrive gioacchino volpe   a calatafimi sparo il primo colpo ed a calatafimi fu il primo a cadere        la ha cantatu u nostru caru pueta luigi battisti    ereno mille  etu primo fra i primi  giacevi in mezza al rosso stuolo accorso   nella vittoria di calatafimi   fratello coreo      3   francescu bartoli  di fozzano  ghjuvan paulu borghetti ditalasani  autore di camicia rossa  camicia indormita  casalta  di cuttoli  funu i cumpagni di garibaldi e cumpironu atti di maravigliosu va  lore   altri corsi si illustravanu in italia     i  grimaldi casta  cullaboratore di u celebre strafforello pe u so diziunariu biograficu  ottavi  distintissmu agronomu e u so figliolu chi fu sottu segretariu di statu a la agricultura  i cardinali zigliara  vialeprela  savelli chi fu ministru di u papa piu ix  i duttori sisco  prela e saliceti  chi furonu archiatri puntifici  marchi celebre filologu  u generale siacci di occhiatana senatore di u regnu di italia  falcueci  autore di u famosu vocabulariu corsu  ecc  ecc     cume si vede  ri   gradu e bugie e i silenzi di certi scrittori i corsi ebberu una parte gluriosa ind a storia di u risorgimentu italianu 
+  s
+    </p>
+    <docAuthor>
+     Ageniu Grimaldi
+    </docAuthor>
+   </div>
+   <div n="4" type="poe" xml:lang="co">
+    <p>
+     senti  o caru puerellu   chi  le spalle in di u pilone   giri le pieghie e muntagne cu tre pecure e un muntone  aghiu intesu la to voce  e quella di un fratellone  lnseme si io un facciu sbagli andedimu a vende li agli   inseme  iunsimu in corti ma nisunu ne vilia   vulianu agliu francese chi quellu puzza unn avia   lu nostru era troppu forte biscottu da la sulia   e cusi fumu custretti   di turnacci roba e detti   ognunu  cu la sofera   a lu ponte a tavignanu   ci vultaimu le spalle   datu una strinta di manu   quant ellu mi dispiaci di lasciatti  u mio fagianu    mai piu pudia suppone cio chi ti accadi dipone   oi cumu festi per perde  trafalendu le custere   le trecce bianchedi li agli  imbastu  fune e sumere   eh  chi ti avie tastatu qualchi perfidu bucchiere    soga un sai chi lu vinu lampa lu omu ind u vaglinu   cusi guandu tu giungnisti senza solli ne bisaccia   subitu ti salto allerse quella strega di mammaccia gridendu   a merte di lu orsu bisogna chi tu la faccia   e ti trunco lu bastone   tra le ruppere el armone   tu  mansu cume un agnellu   ti lasciave mataazzane   ella ti spezzava a morsi timpastava ci le mane 1  tu  lu corciu  manc aiuta   avie da lu to cane   anch ellu per si universu fatti chi si era spepersu    si o capisci lu fo quata i    eccu cio chi ellu ti costa dave presu  ala scimesca   li viottuli di ja costa   ci era la strada pianata   pe li strambi fatta apposta   stimati puru sebiatu  si a matrigna un fha sguzzatu   di la to trista sbentiura induvingu la cagione   forse vulisti passa  sopra lu ponte maione   chi in fondu di le custere a golu sta a cavalcione    si ell e quessu urn gran delittu   o fratellu capu arrittu   capu arrittu   si di quelli chi piegnenu li so antighi    quivi morsenu i lioni quivi u sangue corse a bighi   mai  chi ella sia detta  chi un corsu si ne smentighi e passi  senza un pinseru  cum ellu passa un frusteru    curaggiu   rifrena un pocu lu core cu lu cerbellu ti aiutera lu signore  chi u ti dede fine e bellu    per te prighera  divotu  lu agliaghiu iu to fratellu   sai  chi anch ellu nanfu spinu sinti corre u timperinu    fatti nanzu una piantata di agli scelti e saurifi   chi elli sianu testi rossi   alti in fronda e eolli ritti   chi quelli chi i tasteranu si ne lecchinu li diti    quelli dilu to giardinu valenu ognunu un cinguinu   per rimpiazza quella fera chi la volpa si ha magnatu   ne aghiu un altra sottu manu cu lu imbastu preparatu       ti ne vogliu fa un rigalu   e un sumerettu gherbatu    chi sterpa  cardi e rimigna   ma f avertu  capu innanzu   chi ellu un scontri a to matrigna    veni  quand ella ti pare   ci sparteremu un buccone    ci aghiu in casa e tre surelle   chi mi tessenu un pilone  ci una culumbuccia biarica  per fa la suppa a v agnone   grazia pe lu to salutu  a tutte quante e piaciutu   e poi  videre quella chi scimi piu di un pastore   la strana e rara zitella chi ti lampo lu amu iri core   si pa soffre je  per ella   per ella si po ancu more    u so nome e cirneella arrecali qualchi fiore     chi lu bambinu in natale a lutoliutunuellu 7 7 li appiccighi un paghiu di ale o frate  lu mio fratellu   noi li rigaleremu  di canti e lose un spurtellu    ellu  malgradu i canagli   ci fara rendeinostragli     
+  s
+    </p>
+    <docAuthor>
+     L'Agliaghiu d'Altiani
+    </docAuthor>
+   </div>
+   <div n="5" type="art" xml:lang="fr">
+    <p>
+     bourses d apprentissage une gigantesque duperie nous relevons dans l arrete les m le prefet relatif aux bourses d apprentissage instituees en corse des corps de metiers tres interessants  ce qui peut surtout interesser notre ile si desheritee c est l art provincial dans lequel se classent la poterie la faience le tissage de joueis tailles les ustensiles en bois la vanerie la sparterie etc  ete une seule tache a ce rejouissant tableau crt  apres que les interesses auront useleur unique paire de souliers a faire les demarches necessaires et vide leur porte monaie pour la paperasserie indispensable a leur inscription sur les listes des boursiers si bien entendu ils remplissent la demi douzaines de conditions imposees  ils se verront genereuse meni octroyer par la 3 republi que francaise une somme de   500 cinq cents francs bar an c est ce qu on  appelle une bourse d apprentissage   la corse ne possedant aucune industrie modele ou l ont puisse for mer un apprenti serieux nos compatrioies en serront quities  pour continuer a faire ce qu ils faisaient c est a dire a vegeter lamentabement en attendant leurs dix huit ans  voir avantages accordes aux engages volontaires e i qu bien ils prendront leur cotra ge d une main et leur baluchon de pautre et ils iront chercher du travail en france ouils pourront avecleur salaire se payer une bourse d apprentissage  si pour les meuniers du moulin de la galette l institution des bourses d apprentissage est une oeuvre humanitaire  pour les innocents c'est un cautere sur une jambe de bois   a notre avis el tout au moin en ce qui concerne la corse c'est une duperie sans nom
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="6" type="art" xml:lang="fr">
+    <p>
+     la question des cours secondaires apres maints avatars les cours secondaires ont fini par se caserd  au n 38 du cours grandval c est a dire qu ils vont occuper dans un immeuble d habitation toutun etage ne devant servir qu aux fins de logement e e mais sur cette question de local qui si le projet etait mis a execution constituerait un danger per manent pour les autres locataires mous reviendront comme nous pa vons dit incessament   a ce qui nous parait digne poui l instant de retenir l'attentioi c est la facon dont seront fait ce cours qui annoncent outre leur pro gramme d instruction secondaire  cours special pour le brevet hle mentaire et l ecole normale  nous y voila  les cours secondaires se muen donc en ecole primaire superieu re   sa qu est ce a dire  ni plus ni moins pensons nous que le groupement comporit prefet en tete s v p  qui constitu la societe des c s continue a mar cher selon une regle de conduit bien definie par ordre occulte  et dont le but est d activer la course de nos malheureux compatriote vers le gouffre de l enseignemen primaire ce gouffre ou s abimen tant de cerveaux et de conscien ces insulaires   mais que les tortionnaires di lame corse ne se hatent pas di triompher  nous saurons bien to ou tard leurs faire rentrer leu rictus beat dans la gueule et met tre en pieces leur machine  abrutir les corses
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="7" type="art" xml:lang="it">
+    <p>
+     vittorio alfieri e pasquale paoli  a pochi e noto  come vittorio alfieri abbia dedicato una delle sue tragedie  i  timoleone   a pasquale paoli  generalissimo dei corsi  la simpatia de sommo tragico per i prodi isolani  datava si puo dire  dalla sua infanzia  al  lorche dai parenti cumiana  uno de quali nel 1748  aveva capitanato unz spedizione in favore dei corsi  aveva udito forse parlare della giusta loro ri bellione al governo di genova   nemico giurato di tutte le tirannie il focoso astigiano  era un ammiratore incondizionato della fiera lotta che pas quale paoli aveva sostenuto  per ber 15 anni contro genova e la  francia nessuno piu di iui era in grado di com prendere lo animo del grande corso    non era il solo ad entusiasmarsi per i generalissimo  rousseau e voltaire era no in corrispondenza col paoli  fedcri co di prussia gli aveva mandato in  do  no una spada di onore con la scritta pugna pro patria   caterina 11  la aveva invitato alla sua corte  giorgic iii  gli aveva inviato soccursi  e l im peratore giuseppe ii  aveva manifesta to a piu riprese  il desiderio di conos cere personalmente il moderno te mistocle       durante il suo soggiorno piuttosto lungo in toscana  li alfieri aveva cono sciutu parecchi fuorusciti corsi  fra quali giuseppe ottaviano savelli  a suof  fempi buon letterato  da essi egli aveva senza dubbio  udito narrare le gesta di paoli  il suo iidomito amore alla terra nativa e la tenacia con la quale aveva resistito  agli oppressori gia nel carme la america liberata egli aveva accennato all isola i  la dove il corso impavid si inscoglia   che poi egli sia entrato in rapporti epistolari con jui  la dedica della sua tragedia  lo comprova ampiante     in una lettera di paoli del 21 luglic 1789  da londra  all amico abate andrei  deputato  a proposito di alcun corsi che si trovavano a parigi  ove pure risiedava li alfieri  si legge   il conte alfieri se cosi trovasi potrebbi essete alli nostri di assistenza  fategliene fare la conoscenza  introducetevi ad esso a nome mio  egli imaginandosene lo oggetto  ricevera voi ed  essi  come fratelli  non perdano il momento     tanta sollecitudine da parte del generale era pienamente giustificata   al fieri  godeva nella capitale francese di molta notorieta  sia per le sue tragedie  come per le sue idee liberali  egli era poi largo di consigli e di aiutu a quant si  rivolgevano a lui  specialmente se italiani  pei corsi egli nutriva  come si vede  un affetto vivissimo  dato che li accoglieva come fratelli       allorquando lo anno appresso  il paoli  venne dalla assemblea  nazionale richiamato dal lungo esilio  ed ebbe a parigi accoglienze calorose  possiamo supporre quasi con certezza  che i due illustri italiani si siano incontrati  e scambiato probabilmente anche fe loro impressioni sulla rivoluzione  e sul favvenire della corsica   l idea di scrivere  una tragedia  su timoleone era nata nella mente dell alfieri  leggendo le vite di plutarca il soggietto era quanto mai seducente  fra il greco amator della patria  sino al sacrificio del proprio fratello timofane e paoli egli aveva trovato una grande analogia  cumincio a seriverla in firenze nell agostu del 1779  per terminarla nel luggio dell anno segente  la verseggiatura venne peraltro compiuta a roma nel 1781  ma rifatta poi nel maggio del 17782     dopo di avere dedicato il bruto i  al generale washington  liberatore della america     e il  brutto ii   al po  polo italiano futuro    volle dedicare al timoleone 2 al paoli  sull esemplare inviatogli scrisse   invano tu  o paoli  con la spada ed io con la penna  invano tentammo destar la italia  vedi ora se la mia mano ha potuto qui segnare i sentimenti del tuo core     non mancano nella tragedia allusioni al generale e alla corsica   e   ... ad un uomothe greco nacque non insegnar tu servitu  ne regno passaggere tirannidi a viconda mscchiafo  e vero  ogni contrada han quasi di questa terra a liberta pur sacra    ma il sangne ognor qui si lavo col sangue    ne acciar manco vendicator qui mai   atto iii   scena iv  saper dovresti  parmi   e un cittaai pen i un cittadin  non ja citta son io   atto iv   scenat  li pa eu di dedica dell alfieri a paoda pi 2o settembre 1788  ed e datata argi  eccone il testo quale si leg ge nel volume i delle 7ragedie  edizione lemonnier  firenze 1855   7  al nobil uomu  il signor pasquale de paoli  propugnator magnanimo de  corsi   lo scrivere tragedie di liberta nella lingua di u popolo non libero  forse con ragione parra una mera stoltezza  a chi altro non vede che li presenti cose  ma chiunque dalla perpetua vicenda delle passate argomenta le fu ture  cosi per avventura giudicar non dovra     lo percio dedico questa mia tragedia a voi  come a uno di quei pochissimi  che avendo idea ben diritta di altri tempi  di altri popoli  e di altro pensare  sareste quindi stato degno   di nascere ed operare in un secolo meno molle alquanto del nostro  ma siccome per voi non e certamente    restato chela vostra patria non si ponesse in liberta  non giudicando io  come il volgo suo  fare  gli uomini dalla fortuna  ma bensi dalle opere loro  vi reputu pianamente degno di udirei sensi di timoleone  come quegli che intenderli appieno potete  e sentirli   vittorio alfieri   parole magnifiche  degne di chi le seriveva  come di chi le receveva  ai generale  che amava dilettarsi di letture classiche  specialmente delle gesta degli eroi greci e romani  dell antichita  un simile omaggio  non poteva che riuscirgli sommamente  gradito e lusinghiero  era il riconoscimento dei suoi meriti e degli sforsi fatti durante la sua vita  per dare alla patria sua l indipen  denza  e  ritornato li alfieri a firenze  pote seguire da vicino   relativamente si intende   gli avvenimeni della corsica  e la ribellione di paoli alla  repubblica francese   quale sia stata le impressione sua  sull avere il generale chiamato  gli inglesi ad occupare la isola non ci e nota  per quanto antifrancese egli fosse  tale fatto dovette dispiacergli   era troppo bnon italiano  per approvare lo stabilimento in italia di una nuova pofenza straniera  i  i due grandi uomini  che al dire del gregorovius  avevano perfino una strana rassomiglianza fisica  non fsi rividero piu     allorquando paoli mori a londra nel 18o7  f alfieri lo aveva preceduto nella tomba da circa quattro anni   ne mi risulta che fra di loto sia intercorsa una relazione epistolare  forse la pubblicazione delle lettere del poeta  potarebbe sciogliere il dubbio 
+  s
+    </p>
+    <docAuthor>
+     O. F. Tencajoli
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="fr">
+    <p>
+     hommage filial a fernand lombardi toiqui drapas mon ame en ta vertu sauvage et fis d airain mon coeur qui brave les ecueils etonnante vestale au tragique visage  je chantetes fiertes tes haines ef tes denils je chantetes orgueils   toi qui gardes lesol ou dorment noschaumieres que ton ciel opalin dore a chaque reveil etonnante vestale aux yeux pleins de lumieres je chante ton azur ton horizon vermeil  je chante ton soleil  toi qui de toutes parts seme le grain qui leve fais germer la moisson qu attend le labourenr etosnante vesfale an sein gonile de seve jechantetes bles d or tes fruits doux ettes fleurs i je chante tes splendenrs  toi qui dans tes sillons retiens depo tragique  denos guerriers tombes les sublimes monceanx  etonnante vestale au coeur noble heroique  je chante tes combats ta gloire tes drapeanx  je chante tes heros  o toi qui presentas pour reasseoir le monde au peuples eblouis homme au glaive d airain  etonnante vestale au flanc que dieu feconde  je chante l'aigle mort les aigles de demain je chante ton destin
+    </p>
+    <docAuthor>
+     Joseph Cruciani
+    </docAuthor>
+   </div>
+   <div n="9" type="cha" xml:lang="co">
+    <p>
+     la abrugata  sparghie e so ale la abrugata  partimu  a me innamurata   a mezu mare    senti  ci invita una sirena e  par guidacci a faltra rena  nasce a pulare   vedi le amore pesaie vele   u soniu intacca una rumanza u mare si e fattu di mele      a barca e a nostra spiranza  partimu  a me inzuccarata  di oru  ne avemu un abrugata   ti sussureraghiu un puemu chi un avara ca te par temu  sempre a te sola   ti diceraghiu chi a me vita da te sara tutta fiurita   a ine vidla   ci carcaremu a curallu e a biciurcule strafine   i pesci ci daranu un ballu   e stelle tant e piu pindine   e la aqua fara la abiucia a i to bagi a pizzicucia     partimu  andaremu luntanu  luntanu da ogni occhiu umanu  a me rigina   u cele e un chiosu di fiora  partiti  chiurlureghia la ora    la ora divina 
+  s
+    </p>
+    <docAuthor>
+     Marco Angeli
+    </docAuthor>
+   </div>
+   <div n="10" type="let" xml:lang="co">
+    <p>
+     lettara da evisa  avemu avutu a sittimana scorsa una visita  di grande onore cume bo sintarete  bi vogliu cunta u fattu da u principiu   eramu  quasi tutti visinchi  annant a u stradone a ricutte un pocu di sole  e turnalucci pa i jorni friddosi chi annu da vene  u cornu di un auto straccio u silenziu e a le istante fun gridu solu si fece sente  u prefettu   ghiunghie u prefettu       u merru insaccava castagne e si messe a ride  pussibule  un po esse   mai un prefettu e ghiuntu in evisa senza falla sape     si sbagliava  u prefettu  marc anghiule u nostru cunsigliere generale  e altri dui o tre altri sbarconu e funu ricivuti da fifina e da carlu   u merru cuntinuo a insacca e so castagne  li altri trafalonu a bede st omu  subitu si sape chi ellu eranu tutti qui par fa ghiunghie la acqua in paese  un canale chi ellu si tratta di fa da piu di cent anni  da prima i filanci si ficchonu in casa a manghia  eranu imbitati ancu francescu e  dumenicu  e ancu  marignanesi    ma questi manghionu in cucina cio chi firmava di e merule di contrabanda e di u capretu di cinque libre  ben intesu tutti itravagli di a cummuna passonu in rivista  e case nere si imbianconu tutte   i forni si fecenu novi  e funtane avianu da tira binu  u canalefallava da parellu   tutte cose facile e accurdate da u prefettu  intorn a una merula  or qualchi jorni prima u nostri merru avia ricivutu sta lettera  da u signor prefettu  a mon grand regret j a i l honneur devous faire connaitre que le assemblee departementale de la corse a rejete votre demande de subvention concernant le canal derive de l aito  ne faute de credit  ecc  eccu u dessert di sta carnavalata  sirbutu nanzu la intrata        dopu essesi tecchj andedeni a fassi vede in paese  ma di culla a capu su  a vede e tucca pa $i  canale    o mamma      eranu  forse in villegiatura  o piuttostu in campagna elettorale   pochi mamenti dopu partinu  affacca e capula    e u merru ci disse   cari figlioli videte da par boi  u nostru avenire si afnuncia piu heruca u nostru passatu  ci vurra prestua calfassi a barretta in traversu     lasciu da parte u canale chi ci bisogna di piu in piu u vinu di e funtane chi prestu un tiraranu mancu piu acqua  i forni ece  ma so in drittu di di a u prefettu chi  simule cumidiate so megliu in casa  soia  o in de chirazzesi chi vutarannu tutti a maghiue aostu prossimi par ave sa scola  prumessa anch ella in di stu viaghiu  a marc anghiulu invece li auguri un avenire largu quant ellu brama  un bonu capu di annu
+  s
+    </p>
+    <docAuthor>
+     Antone.
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

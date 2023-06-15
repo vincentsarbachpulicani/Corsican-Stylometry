@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330934m
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330934m
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 384 | Année 11
+     </edition>
+     <date>
+      1930-01-26
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     panu XI — Numaru 384 Esce a Dumenica. _ Dumenica 26 jennaghiu 1930    GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI :  (mcorsiea. + + trs te 15 franchi  In Francia. + ses ee 18 »  ynione postale eus &lt;&gt;. + + + + + 30  U Mumaru:5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — ATACCIU  Contu currente cu a posta — Marseglia 45,52
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     u buttegone  ci so chi si eranu aszippati  gi schinchi di i promotori di y cursismu cume ghiacari arrabbiati di unn ave vistu biuta in la 5o  scudella une poche di cucchiarunate di lasagne  simile feccia bracchigna chi pensa cu a civa e agisce cu 1 soli impulsi di u panzinu  la a  vemu lasciata di muccighile in quella puveretta dund ell e stata catellata e dund ella jaciara lu eternu sonnu a crocchie insu     un altra catteguria   quantu piu nobile    si e ammurciata e si e tratta in le agnone di a desillusione  la anima ferita a morte da u terulu di a ma lincunia      zi  sempre alluntanati da a cumpletta realizzazione di un programma chi    un fu mai i nostri programma     a sti narbosi cumpagni  tiratusi in salvu a u prima sgorgu di cannella puliziotta  ma quantunque incucculati nantu e zenne di u rumanticismu  purghiemu a nostra sincerissima cumpassione  sapenduli in lu brusgiore di quellu trasaltu chi ellu la ha appiccicatu alettura di u conte di montecristu o di i tre muschettieri  e chi e sfrenate fantasie cinematografiche hanu fattu cresce e spampana   grazie a diu  a nostre azione   scala da fonte piu tepide  a e quale ogn unu po beie senza sbollesi a jarganella  e i so  risultati un so micca quelli splendurenti mutamenti duvutia e mazzette di e fate  ma cose chi omu po guarda cun occhj normali e chi ogn unu po palpa cu u so asgiu   vale piu un casarone  fattu aquadri scarpellati cu pacien2a e precisione  che centu castelli in ispagna  innalzati a rombu di sogni e di fumata   ed e per quessa chi la opera cursista un deve micca esse stimata ed esaltata da litteratori grandiloquenti o da pueti troppu eterei   tocca piuttostu  amodu di un sennatu cummerciante  a fanne un matematicu bilancia   traccemu inseme una riga annant a un fogliu di carta  e  da un latu  schiaffemuci le avete di ujornu dunde no  avemu intrapresu di accapacci di li affari di cursichella  poca  roba  o figlioli  a cascia biota  e  cume inarcanzia   baccala   da la altra parte iscrivemuci lu acquistatu  un ci e bisognu di sorte da a scola pigier per accorgesi  a prima vista  chi u butteguzzu e in traccia di diventa un buttegone   eppoi  ciocch omu ci trova e roba scelta  schietta e tutta di u rughione  a vede i parastaghj carchi trimbuli e lu affollu di e pratiche  chi pare chi elle u voglianu abbutta  si po accerta chi ciocchi abbisogna ci e  e chi tuttu e piu cheghiuvevule  necessariu   a chi un la crede  fighiuli da vicinu  la antica sciappa di merluzzu chi intusicava e mitdiventatu un emporiu duve u staffile sta vicinu a u stivale  e spazzule appettu a e trapette  e i fisculelli accant a i corni pe i campanacci     ci videranu dino acciarini ed esca  pero  polvera un ci si ne tene  per ragiunata prudenza e per chi no  sapemu clv elle bastanu duie causgiule di petra battifocu per chi w jallu chi vole chi usole sia tuttu soiu si sentii sproni di pulenda da un pudelli piu ficca sottu a le ale di a pullezza cirneella   u buttegone  oghie  face i so affari  a prova ne e chi tutt e so  marche so state contrafatte e chi i bancarrotta si so messi a vende in piazza   ma   o signore    in le so  scatule di large un tenenu che peciagrega di mare inla  chi face scappa i clienti cum elli scapponu chidazzesi videndu a miracula viva a mezzu stradone
+  s
+    </p>
+    <docAuthor>
+     P. di C.
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="es">
+    <p>
+     Còrcega y las  Republicas Americanas  Unu di i nostri numerosi cumpatriotti di l'America ci manda pe A Muvra l'articulu chi segue, scrittu in lingua spagnola.  Avendu judicatu chi ogn'unu di i nostri lettori un serà in pena di capiscelu, tale è quale, truvemu inutile di danne a traduzione in corsu. U nostru solu dispiacere è d'unn'avè in li nostri caratteri di tipografia l'n accentatu chi si deve prununcià gn; questu però un noce à’ cumpreensione.  Es cierto que la cueslion corsa ticne mucha analogia con la de las Republicas americanas. Tanto en una parte como en la olra, un amor comùn para la libertad ha siempre animado los individuos, ponendolos en grado de lograr sus miras y rcalizar sus aspiraciones.  riquezas vegelales y minerales de cada género.  Pero no supe conservar sus posesiones, principalmente porqué los virreyes que mandaba allà, mas bien que de gobernar los pueblos, procuraban enriquecerse.  En Côrcega como en las Republicas americanas, asislemos a un fenomeno muy seneillis: la cupidez de los gobernadores no encuentra oslaculos hasta que no se forme una conciencia nacional. Realizandose esta, los mismos gobernados y legados del gobèrno central, procuran relardar lo que no pueden mas impedir.  _ La historia de las Indias Occidentales en los siglos XVII y XII, esta Hena de aquellos acontecimenlos precursores, los cuales reilerados debian poner fin a la dominacion espanola. - .  Lo mismo se verifico en Còrcega, puès que, en la Revolucion del 1725, los Genoveses se hallaron en frente de un pueblo que habiendo logrado su conciencia nacional queria alcanzar lambien su liberlad.  Es sin embargo preciso de noiar, que en un caso como cn el otro, ne se trataba de rechazar el estranje ro, dado que los Espanoles y tampoco los Genoveses no podian ser considerados como tales, hobiendo ambros asegurado la poblacion de aquellas regiones. En los respectivos lerrilorios conquislados, Espana y Genova habian tenido una Pa | sion civilizalriz que riingimo podrà | nunca negar. Pero es precisamente aquella similitud de raza, de cos. | tumbres y de civilizacion que suscitò las mayores dificultades al ave. | gresar los sujetos en el camino de! la emancipacion. |  Espaua entonces, hallò opuesios a sus melodos de goberno los varies reynados que adminislraba desde la conquista, y de los cuales principales eran Méjico, Perù, Chile y Argentina.  Entrò puès en una lucha desesperada, y si Lalvez sus tropas combaticron con succeso, el esila final, cion, llamò a Francia para que esa triunfiere de sas anliguos sujelos.  Complicacion que tuve por efeclo de no permitir al Gohierno de Pascual Paoli el desarrollo y la durada lan deseados por los patriotas  Mas leliz que su glorioso antecesor Paoli, Simon Bolivar non solamente diò una corstiluciòn a las varias nacicnes americanas, princi palmenle al Perù, Bolivia y Venezuela, pero tambien muriò convencido de que lus americanos siguieren gozando los frutos de dicha constitucion. Y es inülil anadir que aquellos pueblos han sido regidos por la misma hasta nuesiros dias.  Todo cuanlo hemos dicho, se refiere a las instituciones polilicas. No debemos sin embargo olvidar el punto de vista cullural, lanto mas que el haber conseguido la libertad no significò para Jos americanos el renunciamento è la civilizacion y a las letras espanoläs. Luego, no sin razon consideraron que ja immensa produecion castellana, podia favorecer el renacimiento de la cultura regional en cada cnal de los paises antiguemente unidos a la metropoli.  Asi fué que duranle el siglo XIX, se verificò en las republicas de ceniral y sud america un intenso movimento literario que ben podemos amar regionalista.  En Còrcega, naluralmente, la situaciòn debe ser juzgada en un modo diferente. No solo porquè esta isla no ha iodavia logrado su aulonomia, pero tambien porquè cl regionalismo corso obedece a influenzas diferentes de las que regen el movimento americano.  Es puës menester occupaise un poquilo de esta cueslion particular.  Mieniràs, por lodas partes, pero especialmente en el Mediodia, se està hablando de movimiento mediteraneo con mucha ènfasi y poco acierto, los Corsos, es décir uno de los pueblos mas interesados cn èl, dan verdaderamenle prueba de buena voluntad y de espiritu de realizacion. De cuando en cuando, en efecto, la prensa, movida por loda ble sentimiento, proclama la necesidad de una mejora y mas fuerie nnion enire los varios escrilores que en sus obras tralan de cuanto se reliere a la lengua, los costumbres, la historia particular de cada provincia y région. Pero, sca que lal programa risulle demasiado estensivo, sea que los medios propuestos para el alcanze de dicho programa aparezcan artificiales, no se ha verificado todavia ninguna solucion.  Una onrable excepciôn han dunque hecho los Corsos, la cual es menesler considerar aqui.  fan por el idioma como por la lradicion historice y la vida social, aquellos insulares lienen estre cha analogia con los Ilalianos. Es pués preciso anadir que la obligaciôn cn la cual se hallaron los Corsos de considerar lal similitud, hizò nacer sospechos injustifi cados,acerca principalmente de la cuestion de un problematico irredentismo.  Desde el principio, sin embargo, los preconizadores del movimiento corso procuraron trabajar lealmente, desdenando los desazonados ar Regresando ahora a maeslra comparaciòn entre Corcega y las Republicas americanas, haremos observar que se en liempos antiguos, los parlidarios de Paoli y de Simon Bolivar merecieron al aplauso del mundo enlero, merecen lambien nuestra admiraciòn les acluales poélas y escrilores que en ambos Continentes, bajo la bandera con cabeza de cuoro, o bajo las varias handeras americanos luchan por un ideal de adelantamiento literario, social y moral.
+    </p>
+    <docAuthor>
+     Juan Battista Franceschini
+    </docAuthor>
+   </div>
+   <div n="3" type="let" xml:lang="co">
+    <p>
+     santiago de chile   una lettera  chiatra stu    jennaghiu 193o  caru direttore   malgradu chi abbia a vista acuta e un suppulellu di bonu sensu  un possu micca nigabbi chi io nascii anch eiu quandu le ave maria sunava cun organu pocu armuniosu       cume videte  scrivu in dialellu  chi eiu a dilla franca  di frencese ne cunoscu quante mamma  e mamma unn e micca piu forie che u nostru ministru pinellu  1    di penna so un pocu piu avanzatu   facciu l o tondi tondi da disfida i capi di vacademia di riesceli cume me   ma tuttu questu e cosa particulare e pocu inferessente  scrilti ne letture un si ne manghia   bi diceraghiu chi di jornu in ghiornu sentu lagna piu forte a muvra  e purtantu  per ella  a pascura cresce cume u latte a u focu   lagna   chi ella lasci lagna a me  poveru pasturellu chi  cu sette criampuli a e spalle  mi irovu cuesperanze diu signore  malgradu chi io mi lagni pustamente  u mio gridu unn e mai intesu  e nisunu vole ricunosce quantu so utile in stu mondu  la istatina  i paisani mi assordanu le orecchie da e gride  accusendumi in tutt imodi  purtantu siate rassiguralu chi piola  mazza e sigone facenu piu danni che ame cu e mio capre  ma per questi un ci e cundanne   so di acciaru  e lu acciaru cume lu oru danu flu a torce anc a justizia   li imprecazioni inghiustamente lentate contru me so piu bergugnose che quelle di camilla contru roma   e si tutta lingua biastematrice si siccassi quand ella si abbandona  un sarebbe che un  opera  i i i  ma si u populu mi detesta  si a justizia mi disouora  seraghiu sempre lu amicu e u prutettore di e capre   e si agran parte di li omi so di avisu di grida  evviva i rapprisententi    cit  all incuntrariu  vi provu chi u gridu populare in corsica  duverebbi esse  evviva a capra      bi spiegheraghiu in poche parolle a mio raggio  videmu chi a majo parle di i nostri cursacchioli  truvendu a terra bassa  si ne fughjenu piuttosiu a casa del boia   di a costa orientale  cume altro  un ci e piu a centesima parte netta  or di i macchioni  cume bestia dumestica  sapele be chi a capra sola ne je a reggina  ella omancu  di u mucchiu e di a scopa ci ne caccia latte      irapprisententi  in le fureste un ponu custata che u prugressu di a natura  per elli  civole belli a trottoirs   e belli caffe  eppoi  parlanu e debisanu ancu in tempi di lotta pulitica  ma i fatti  batti ecercali     dunque  cume lomi di bona fede  mettimuci tutti di accordu e cume noi avemu sempre fattu  sustenimu e capre in corsica et becchi in parigi 
+  s
+    </p>
+    <docAuthor>
+     U Pasturellu
+    </docAuthor>
+   </div>
+   <div n="4" type="poe" xml:lang="co">
+    <p>
+     tu prova  prova  o celebre scriltore   di spiega chiaramente in versi o prosa  cio chi ell e lu profame di la rosa a lu omu chi  mai  vide stu fiore    da lu fondu di me sorge un incensu chi si ne vola versu babbu e mamma   ma quandu di parla vene la brama  chiugh e la lingua pe sl aftettu immensu    invanu  cercu a traduce le amore per la unica cumpagna di a mio vita   a tennerezza inchieta ed infinita per lu agnulu mandatu da u signore   e cume si po di lu altaccamentu per quella fiera e dolce lerra corsa    o musa  lu 1o  soffiu non ba forza   e cume te ci ne vorrebbi centu    poni  ssa lira  chi megliu sara   chiusi in la nostra grotta preferita  nutrimuci soli  tutta la vita   di un mele chi nimu mai tastera   
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="5" type="div" xml:lang="fr">
+    <p>
+     impicci e mbrogli avertimentu a francesissima gazette di bruxelles ha publicatu ultimamente sott a u titulu fenis galliae un articulu chi un sara micca graditu da i sottu prudotti di e scole mariannunesche ma di u quale i non intusicati faranu u so prufittu  pero unn avendu sottu l occhj che l action francaise  ne a quale leon daudet un cita che les principaux passages de ce morceau qui fait froid au coeur i nostri lettori hanu dighia induvinatu chi u patriuttismu francese di u sgio daudet l ha impeditu di ristampa l altri brani  per u mumentu cuntentemuci di stu passaggiu   le chalean de versailies cette merveille menagait ruine et les frang is ne trouvaient pas chez eux l argent qu'il fallait pour le sauver  un citoyen americain ouvrit son carnet de cheques  e  mme curie avait besoin pour continuer ses travaux qui interesseni l humanite toute entiere d un gramme de radium etla france ne disposait pas des fonds necessaires a l acquisilion de cette parcelle de substance precieuse  un americain ouvrit son carnet de cheques   la faculte de medecine de paris la plus ancienne du monde celle qui peut etre cousideree comme le berceau de la medecine universelle etait dans un etat de vetuste scandaleux  locaux malsains trop exigus en mauvais etat laborafoires mal equines pitenx  un americain ouvrit son carnet de cheques   la france acclame remercie ses bienfaileurs les decore peut etre et les couvre de fleurs oratoires  les francais qui oni toujours eu l'orgueil d'etre francais  les francais dont l'amour propre etait chatouilleux enfre tous acceptent les dons avec reconnaissance et inconscience  sans la generosite d etrangers le chateau de versailles s effondrerait peut etre mme curie cesserait de travailler et la faculte de medecine serait loujours insiallee dans des jocaux delabres  la france n a t elle donc plus d argent pour subvenir elle meme a ses besoins les plus elementaires la france est riche cependant son budget annuel atteint des chiffres astronomiques le gouvernement jette des millions par portes et fenetres et engage chaque annee de farmidebles depenses sainement democratiques  amiifais pops versailles  nour mme curie coeur de sauver eux memes avec leur argent ce qui devait etre sauve dans leur pays  la france qui fut radieuse et forte la france qui est toujours riche el prospere malgre les dures epreuves qu elle a traverse la france glisse peu a peu sur le plan incline ou jadis athenes et rome ont glisse puis sombre    la france a d immenses colonies et n a plus de marine  elle n en aura plus jamais ses colonies sont a prendre   cette carence de la force cet abandon avant la bataille sont une certitude de destruction  un pays qui ne peut plus defendre ses possessions est indigne de les conserver comme un pays quine peut plus entretenir ses richesses intellectuelles ou artistiques est indigne de vivre   e les jours de la france sont comptes  clemenceau qui trop tot abandonne la lutte ecoeure par la lachete la petitesse d esprit et la mesquinerie des politiciens le constatait  a moins que ne se leve demain pour la france un nouveau clemenceau plus tenace ouun autre bonaparte plus heureux la france est finie   et sa disparition sera pour je monde ja pire des calamiles ja fin d une civilisulion qui hellenique latine fut francaise et dont aucun peuple ne sera plus l heritier   ste verita un so forse state scritte e riprudotte che per favurizza l arrivu a u putere di un novu bonaparte   ma so quantunque verita  o figlioli  saria forse tempu d apre l occhj  a grande f amiglia francese da u resu contu di a seduta notturna di a camera francese in corsu di a quale so stati vutati circa 4 milliardi di spese militare traemu ste parole di l onorevule morinaud   noi avemu u piu grande interesse ad ottene chi in tunisia a culunia francese sia a piu forte di tutt e culunie curopee    ci so attualmente in tunisia dui milioni di musulmani e sissanta mila judei fra i quali assai so degni d esse accolti in la grande famiglia francese ci so dino 90 000 italiani e 10 000 altri stranieri sopr a sta massa bisugnara travaglia intensemente per accresce a forza francese di fronte a 90 600 italiani noi eramu 70 000 in lu 1927 e semu forse attualmente 80 060 ma bisugnara ghiunghie ad ogni costu a parita   e cumu diciaranu i nostri lettori invienduci uni pochi d emigranti da parigi lione marseglia bordeaux ecc denduli cunsigli e mezzi di fa figlioli   aibo ha dettu u ministru di l affari esteri sgio aristide briand u quale rispundia a l onorevule morinaud  so perfettamente d accordu cu voi e aghiu datu l istruzione necessarie perchi e naturalizzazione in tunisia venganu facilitate dumanderaghiu a u nostru presidente generale spiegazione siate certi ch ellu e un funziunariu estremamente cuscente e ch ell un tralasciara nisun mezzu per serve l interessi francesi da u me' cantu rinnuveraghiu l istruzione e piu rigurose perchi u numeru di e naturalizzazione possa cresce sicondu i vostri desiderj  e dino di stu versu ch omu face cresce e supara i francesi di corsica  fressineghju avemu sempre sustenutu chi u sgio sanguetta stabilia i so'orarj pensendu cela ma sara forse parch ellu e statu custruttu a brema    adunque u cyrnos  e cusi ch ellu si chiama  viaghia  cum ellu duvaria viaghja sin a e tre di mane tandu a s attempa zu ralenti chi u capitanu li tira nantu a cavezza per impedilli d en trein portu troppu prestu  megliu un saria a lascialli fa a so' andatura partendu da ajacciu duie ore piu tardi  ma saria da troppu comudu ai sottusenegalesi chi marianna ha da datu in apaltu a sanguetta
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="6" type="feu" xml:lang="it">
+    <p>
+     anzi plauso  vecchie lustre  che presero e prenderanno fino al terminare dei secoli i credenzoni   intantoil buttafoco  il boccheciampe arrolano compagnie corse in bastia  il capitano cannocchialein tavagna  i fabiani nella balagna     e voi che fate      io   chi posso impiccare  senza misericordia impicco   altri a cagione delle grandi aderenze e del pericolo di inimicarmele bandisco  chi non arrivo  lascio stare   insomma mi trovo al verde  appena faceste rumore all uscio mi prese  vergogna e nascosi un foglio   ora mutata consiglio io ve lo vo  mostrare  perche giudichiate a che termine siamo ridotti  e perche mi sembra che cio faccia piu scorno al mondo che a me   qui cavo ilfoglio e lo pose sotto gli occhi del boswell  che si schermi un pezzo da leggerlo   vinto poi dalla curiosita propria e dalla insistenza  del paoli  lesse     la prego farmi il solito gioco alla benefiziata con laestrazione de  numeri praticata altre volte  alla signora monaca suora maria domenica rivarola a livorno  corte  9 gennaio      il signor giacomolevando il capo soggiunse  e questo cosa vuol dire       vuoldire  che mi bisogna confidare al gioco del lotto la salute della patria     ole prese del capitano lazzaro costa     la prima volta su le spiagge di provenza si impadroni di una tartana con 334 barili di polvere e qualche cento schioppi   la seconda  qui presso ajaccio di un altra tartana che portava sei ufficiali  64 mila franchi  e non so che masserizie di oro  una fava in bocca al leone  a  il boswell rimase pensoso  e dopo avere picchiato due o tre volte la tabacchiera disse      io vado in inghilterra  non vi prometto troppo  perche  dopo il mantenere poco  ilprometteretroppo sia cio che massimamente detesti  ma se il governo non vi aiuta  non istara cerio ne pei miei amici  ne per me  solo vorrei  che voi figurando entrare nei miei piedi mi suggeriste un po  che cosa avessi a dire    s io fossi voi  parlerei cosi  inglesi  voi vi date vanto di emulare i romani  e certo lo  dovete  imperciocche non si arrivi senza consenso di dio allasuprema altezza  la quale impone oblighi alla stregua dei doni  dove il popolo falto grande trascuri il debito di difendere il debole  di promuovere il bene degli uomini  di schermire  la liberta  commette peccato  diventa inutile  distrugge le cause della sua vita  prendono a combatterlo di fuori lo odio  dentro io sfinimento  e languisce maladetto come le cose maligne abbandonate dalla potenza  volete vedere  aggiungerei  come si comportassero i romani co  deboli minacciati da ingiusti  potenti  leggetelo nel capit  viii  del libro i dei maccabei  il paoli prese la bibbia e ad alta voce lesse   e giuda ebbe contezza dei romanie della loro possanza  e come concedessero quantolorosi domandava e pigliassero in protezione chiunque a loro si accostasse    senti delle loro guerre e delle imprese faite nella galazia  la quale vinta avevano sottopostaa tributo    e le grandi cose operate nella spagna e come si fossero insignoriti delle miniere dell oro e dell argento governando il paese con la pazienza e col senno    terre lontanissime soggiogassero  rompessero re mossi a danno loro dalla estremita della terra  gli stritolasse ro  con fiera battitura li percotessero  gli altri poi avessero accollo a patto di tributo annuale    fi lippo e perseo re dei macedoni scopertisi nemici prostrassero in baftaglia    e con pari ventura man dassero antioco il grande re dell  asia sceso in campo con 12o ele fanti  cavalli  carri e potentissito esercito   e preso che lo ebbero or  dinarono pagasse un grosso tribu to in perpetuo e desse ostaggi 5 condo il convenuto  le provincie conquistate  copiose di beni  dona rono a re fumene  ora quei della grecia avendo disegnato di abbatterli  essi lo seppero e andarono sotto il comando di un capitano   fare battaglia con loro  molti n  uccisero  le mogli e i figliuoli 11   dussero in ischiavitu  disertarofo il paese  occuparono le terre  5oy  vertirono le mura  i superstiti fecero servi come anco adesso sono  con quelli poi che loro amici    protestavano e alla loro fede   commettevano mantenevano 1e8  regni prossimi o lontani donavani perche dovunque giungeva il nome di loro li temevano forte    quelli che essi consentivano a lasciare sul trono regnavano  gli altri cacgiavana  sicche in ogni parte gli esaltavano   e non pertanto veruno tra loro portava diadema  ne porpora per pompeggiare conquelli  bensi avevano eletio un senato dove ogni di 32o persone deliberavano le faccende del popolo per fate quanto credevano spedienie sa capo di anno conferiscono il maestrato ad un uomo perche regga lo stato   gli obbediscono tutti senza invidia ne gelosia fra loro  allora giuda deputo eupolemo figliuolo di giovanni  e giasone figliuolo di eleazaro per mandarli a  romani a stringere lega di amicizia con essi  affinche gli liberassero dal giogo dei greci  considerando come questi si industriassero a ridurre in servitu il regno di israele  equelli andarono a roma  che fu lungo cammino   dove entrati in  senato favellarono cosi   giuda maccabeo  1 suoi fratelli ed il popolo dei giu dei ci mandarono a voi per fermare lega e pace con voi  e perche ci scriviate tra i confederati ed amici vostri  e la proposta piacque  ecco il rescritto il quale inciso sopra lastre di bronzo spedirono a gerusalemme perche vi stesse pei giudei monumento di questa pace e confederazione     felicita ai romani ed alla gente giudea in mare ein terra eternamente   lungi da loro la spada e il nemico  che se i romani o taluno dei loro confederati si troveranno primiin guerra  la gente giudea dara soccorso con pienezza di cuore secondo la ragione dei tempi   e ai combattenti giudei non somministreranno  armi  ne danaro  ne navi  cosi essendo piaciuto ai romani  e quelli obbedironno senza pretenderne soldo  parimente se prima la gente giudea avra guerra  i romani la sovverranno con animo pronto  giusta le qualita dei tempi  e agli aiuti romani non somministreranno i giudei armi  danari o navi  cosi piacendo ai romani  e gli aiuti obbe diranno senza frode  questo e li patto fra romani e giudei    qitre a cio rispetto alle ingiurie arrecate 1oro dal re demetrio gli abbiamo scritto di questo tenore     per quale cagione hai tu reso piu duro il giogo ai giudei amici econfederati nostri   se dunque essi ricorreranno di nuovo a noi  noi faremo loro giustizia movendotiguerra per terra e per mare     tali i romani favellavano  tali erano  non basta gridare  civis romanys sum  bisogna sentirsi nel cuore e nelle braccia romano  queste cose dite ed altre che saprete aggiungere di vostro  e forse vi ascolteranno     bene  e voi sperate che in questo modo verremoa capo coll inghilterra perche pigli andatura degna     ho detto forse   certo non mi nascondo punto che i nobili vi sono superbi  le plebi abbiette ed i borghesi intenti ai guadagni  ma non tutti cosi   e poi anco i pessimi cola amano il vivere libero   orala  liberta non e  come i borghesi pensano  un bel cappone da metterselo in istia e mangiarselo a natale in famiglia       si bene la liberta non e un cappone per meiterlo in istia        e fate loro toccare con mano che la liberta  fra tutti gli astri bellissimo  per diffondere di raggi non iscema luce   la sua vita sta in questo  ricevere lume da dine tramandarlo ai mortali  il giorno nel quale le impediranno il santo ministero  ella ripigiiera il cammino del cielo come lo operaio terminato il lavoro torna a casa  ela notte della tirannide calera su tutto il mondo     addio dunque  signor paoli  il tempo stringe cosi che far subito non mi parrebbe presto abbastanza  vi prego dei miei saluti al rispettabile vostro signor fratello clemente e a tutti gli altri egregi uomini e dilettissimi amici  massime al signor altobello     e gia da un pezzo teneva in mano la destra del paoli e la squassava con forza  bastante a stiantare una imposta dalle bandelle   finalmente si stacco  e il paoli comecche si sentisse indolenzito fino alla spalla  pure facendo bocca da ridere si ammaniva ad accompagnarlo in istrada per metterlo a cavallo  quando di botto il signor giacomo si volte a nasone e gli disse      mi rincresce preprio  nasone  di andarmene senza lasciarvi un pegno che valga a rammentarvi la stima in che vi ho  e le amore che vi porto  la natura avendo pensaio a farvi le spese in quanto a vestiario  qualcheduna delle mie spoglie non sarebbero al caso    intanto aveva stesa la mano  e il cane intendendo ottimamente che si cercava la sua zampa  gliela porse  cosi stretti insieme faccia appuntata a faccia  il boswell prosegui    anelli non sono adattati per le vostro dita  e poi non convengono ad uomo  ne a cane libero   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+   <div n="7" type="poe" xml:lang="co">
+    <p>
+     u figatellu  iunnosini anlonu  igglalu a gian i an fipttore a u lice u di aix    untu   eccu u figatellu so blu mi hai dumandulu   chi in i si tamentu   cusi bellu    rt tuttu infrisgiltalu   magna puri  e di un purcellu patttu e ben  allivatu    chi mai  ju curciarellu   si quella roba ha tastatu chi si jampa da u purtullu  a matina o a lu abbrucatu    la ha fattu zia giu macona   bromaghendu  esattamenti  ci missi guratu bona  tagzzala cu i so  denli   un ditacciu capacciutu   li sirvi solu di ajulu   da lu nasu in rifriddori   da lu du   i a falati qualchi gocci    anna lozza  di sudori   ci una candela di mocci   mi diciare si ell e bonu  si ell  e a puntu di sali  si per disgrazia un bueconu dj sturza o li facci mali  ti ni dumandu pordonu     caru giannesini antonu  
+  s
+    </p>
+    <docAuthor>
+     Simonu d'Aullè
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     dunque un mi sera difesu di fanne lu coutu resu   bi aghiu tantu incaricatu per quellu beatu affare  e bramava un risultatu  tantu chi ellu vi ne pare  ma infama e dispettosa  negligentate  gni cosa   ava la facciu iinita   un mettendu che lu indiziu  ma furmeraghiu una lita   si ella mi da pregiudiziu  a rispota che mi date   o si voi muta vi fate 
+  s
+    </p>
+    <docAuthor>
+     Andriettu
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     risposta a un amicu  quandu la amicizia chiama  a musa e sempre disposta  e senza ritardu alcunu  manda ti vogliu risposta  denduti le me  nutizie senza passu pe la poste   di infatti pe  stu gran mare sollia prupiziu  u ventu   e per cuntrastalli un pocu prufillu di lu momentu   e qnandu tultu riposa qui  guardu lu firmamentu   mi ha fattu tantu piaceri la to  cara lettarella  dendumi rinsignamenti di la nostra cursichella   quantu ci riflettu e pensu di annantu sta passerella   dunque sta car  isulella  si lamenta e si addispera   ma tntti li so  figlioli  lu abbandunemu a spiecera per corre per di alire terre a circa miglior curriera   da sti valli di indocina  pensendu a quelli rughjoni induva si slava be  intondu di lu ziglioni   mi faci iamanla pena   chi tultu va in perdizioni   da quindi e sempri vitaccia a lu usu culuniali   gorrenu li frebbi assal   chi punghienu li zinzali  eppo ci e ja nuslalgia   chi cresci iu nostru mali   mi ne fussi puru statu cume te a fu u pastori  avaria guadantu piu  mettendu menu sudori   chi e   piastre  di indocina hanu piu pocu valori   2 asi si pet a catu li pareuti e paisani    e a li noslri piu cari  dalli una strinta di mani  a sta nostra giuventu  indiziala senza inganni   forse  amicu  ava se  inletin fenduti u piu dolce sonniu  ma lv tintu marinaru   di sli guai e teslimoniu   ma dormi  chi hai raggione  a ti dice u to  amicone 
+  s
+    </p>
+    <docAuthor>
+     S. Scarbonchi
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     chi freddu     buuh  chi spunzina  siamani   come si camina friddosi  e quandu si iscontra un cunnuscenti  si forma appuntu per iscambiu i nutizii di u jornu  chi freddu stamani   chi invernu   unn ha mai fattu cusi lois  si starnuta  si tossa  si busca un rumalismu  u nasu e adornalu di a so  candella di ora  rigali di invernu   malgradu chi ellu faccia u so  duveri  lu invernu e male accoltu   pasa un zitillucciu intirizzitu  vistitu di calzoni troppu corti e di una caramagnola troppu stretta una povara vecchiarella tendi a manu a i viandanli chi tracorrinu  lestri  seuzu du nienti   veni mali a caccia i mani di stacca  o  un ci e soldi  dui altri criampuli entrinu a scaldassi in un caffe  elli dino so visliti di panni troppu liggeri  bani li occhj lacrimosi  u nasu rossu  i mani gonfj di jaloni     e un solu discorsu si senti  tutta la tristezza chi ponu esprime sti dui parolli  chi freddu  i
+  s
+    </p>
+    <docAuthor>
+     Musconu d'Olmetu
+    </docAuthor>
+   </div>
+   <div n="11" type="div" xml:lang="fr">
+    <p>
+     le lendemain a quatre heures du matin les officiers ne pouvant dormir parce que la tempete continuoit toujours s assemblereni dans la chambre du commandant ou je me trouvois alors  dans le moment on entendit un si grand bruit qu on crut que le batiment alloit couler le capitaine nomme sougla loin de nous rassurer ne fit que mettre le comble a nos allarmes il nous dit  en pleurant l etat affreux ou se trouvoit son vaisseau ayant le devant du timon brise ainsi que la grande vergue le derriere de la gallerie dans l eau avec toutes les provisions  la perte du vin n etait pas celle que 1 equipage regretioit je moins mais l eau entroit de toutes parts  pour ne pas perir sur le champ c etait a quoi il falloit d abord remedier je descendis sans perdre de temps au fonds de cale ou etait ma chambre je pris a la bote quelques livres de chandelle que je distribuai ou il etait necessaire afin de fermer les ouvertures par ou l eau ne cessoit d entrer l exces du danger avoit fait disparoitre les rangs e les distinctions tous a l envi y travaillerent on ne laissoit pas cependant de penser a sa conscience on n entendoit de toutes paris que voeux  prieres que protestations du plus sincere repentir  la consternation generale ne m avoii rien fait perdre de ma presence d esprit  je remarquai que lorsque les souris du vaisseau commencerent a sentir l eau elles grimperent pour s en sauver jusques dans les  sions fait pour retarder notre trepas le danger demeuroit presque toujours le meme une sombre tristesse  un morne silence regnoient dans l equipage e parmi les officiers je fis alors un voeu auquel tous se joignirent avec un egal empressement  c etait que si dieu nous delivroit du peril nous irions tous a l eglise la plus a portee du lieu de notre debarquement  j y dirois la messe pour le remercier de la groce qu il nous auroit accordee le voeu fait dans les sentimens de la devotion la plus tendre que la grainte de la mori puisse inspirer la tempete se calma presque aussi tot de facon qu a force de pompes ont eut le temps de gagner la rade de vado en toscane ou l on echoua encore pour y arriver fut on oblige de jetier a l eau une grande par tie des provisions  un canon de fonte sans cette precaution le vaisseau trop charge n auroit pu manquer de couler a fonds je perdis en cette occasion presque tout mon petit equipage heureux si cette perte avoit ete la derniere que je devois essuyer quoique dans la rade nous n etions rien moins qu en surete tous les gros cordages etoient brises a la reserve d un gros cable qui fut notre derniere ressource  ce cable meme n auroit pu encore nous sauver dans l endroit ou nous etions a luter contre les vents  les flots s il ne s etait pas trouve un courant d eau douce qui ne l usoit pas tant que l auroit fait l eau salee  sur lequel le vent avoit encore moins de prise  il soutint seul pendant vingt quatre heures tout le fort de latempete en vain pendant ce temps la tirames nous plusieurs coups de canon pour demander du secours personne ne parut pour nous en donner le bruit  le siflement des flots et des vents dechaines empecherent qu on put nous entendre reduits a nous memes  n ayant d esperance que dans la raisericorde des cieux toujours entre la vie  la mort nous fumes obliges d attendre que la tempete s appaisat d elle meme le calme tant desire succeda enfin a orage  un courier de la part de m de wacktendonck gouverneur de livourne nous apporta l agreable nouvelle que le regiment de bearn pourroit entrer dans ja ville tam pas mieux que de satisfaire a cette pieuse obligation a la faveur du calme dont enfin nous jouissions mais come les soldats exiremement effrayes des dangers qu ils avoient courus tout en acquittant leur voeu auroieni pu saisir foccasion de s evader pour n etre plus dans la necessite d en faire m de vatteviile major du regiment ne voulut permettre qu aux officiers  a moi de mettre pied a terre l eglise de notre dame demonienegre la pius voisine du lieu ou nous nous trouvions etait encore eloignee de deux grandes lieues quelque affreux que fussent les chemins nous ne laissames tas d y arriver a pieds sans etre beaucoup fatigues le zele  la reconnaissance suppleant aux forces qui assurement nous auroient manque pour tout autre voyage qui n au roit pas eu un pareil objet je dois ici avouer a la gloire de la natiun  des officiers en particulier que j eus la consolation de voir que les francois s acquitteni de leurs voeux avec plus d exactitude que les autres nations dont sclon le proverbe de leurs pays la devotion cesse avec le danger notre voeu rempli avec toute la piete  toute la ferveur dont les militaires peuvent etre capables nous nous rendimes par terre a livourne ou les troupes restees sur le batiment s'eloient avant nous rendues par mer nous etant tous ensemble reunis nous fumes au lieu ou etait le gouverneur il nous vit tous defiler devant lui a la tete de sa garnison sous les armes celte espece de revue faite on fit rentrer les soldats dans le batiment avec les officiers necessaires pour les contenir les autres ainsi que moi eurent permission de rester dans la ville  je ne laissai cependant pas d aller tous les jours a bord pour remplir les fonctions de mon ministere le vaisseau radoube  remis en etat de soutenir la mer on tenta plusieurs fois de faire route pour calvi mais on n etait pas plutot sorti du port que le vent coniraire forcoit d y rentrer nous rencontrames a livourne un vaisseau qui dans le fort de la premiere tempete avoit donne contre le notre  passe par dessus ce qui fut cause de l extreme danger ou nous trouvames le derriere de notre batiment etant de ce coup reste sous les eaux quoique nous eussions eu beaucoup plus a souffrir sur notre vaisseau que l etat major du regiment d agenois sur celui dont je viens de parler il ne voulut cependant jamais qu on mit a la voile avant que le temps fut entiere la voile  nous jettames l ancre visa vis l isle de gergone le mercredi des cendres  je satisfis sur mon vaisseau a la coutume de l eglise ce jour la e celebrai la sainte messe ces devoirs remplis nous partimes avec un vent si favorable que nous faisions plus de dix mille par heure  enfin le quatre de fevrier nous mouillames a calvi le terme de nos desirs mais quelque desasire que nous eussions eprouve dans le cours de ceite funeste traversee nous n'avons pas encore ete aussi maltraites qu une partie du regiment de cambresis six compagnies de ce regiment se trouvoient sur deux tartanes la sainte ursule  la sainte claire
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

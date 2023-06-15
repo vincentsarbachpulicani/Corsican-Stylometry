@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330946t
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330946t
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 396 | Année 11
+     </edition>
+     <date>
+      1930-04-20
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     annu X1 — Numaru396 Esce a Dumenica . Dumenica 20 Aprile 1930   GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI :  in Corsica. : 4. 4 4 + + ~~ &gt; 15 franchi  In Franeia, . . . + . + . . . 4 18 »  Unione postale . 4 , +. + 4 + + «~~ 30 o  U Numaru:5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 38. — ATACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     a capu insu  aux gibelins j etais quelfe  aux guelfes  gibelin   montaigne   una  volta chi falellu am   muntagnava cu banda  fere   cani  stuvigliame e famiglio    ne  tandu chi ellu si strappava un morsu a  funtana di e no i ce  si intese chere dund ellu  pigliava da jacum  antone di i  murzu     a l insu  la avia rispostu u pastore  senza piu accapassi di lu indiscretu     questu  omu furbu quantu mai  ghiuntu in savone  dede voce chi falellu  benche no  fussimu di aprile  bultava ad orlu mare cu e so  duie centu capre  e  a stallu a sente  tutt i calzi  da u brancone a  cunfina  sarianu stati scapati prima chi ella scapulessi la etima   niscicone le apriccianese fu solu a cuntrastallu      bh  oamicu  i tempi un soal impiaghiata        acconciala cume tu boli  taglio ghiacum  anione  ma  si ti hai zappatu lu ortu  conta pocu sopra a i fasgiulini    ceccu saveriu di coghia e misginu di carghiese  degni cumpari di u murzese  ognunu da u so  latu  avertinu chi vigne  chiosi e suminati sarianu prestu a lu abbottu  sterpati  da chioni a liamone  da i taglioli curnuti di falellu   benche a cosa fussi strana   nimu un fendu pasce in quelle sulane  toccu u mezzu veranu   u sussurru era statu tamantu chi tuttu si adupro per para a sciagura  quella jente spenserata chi curava cun occhiu amurosw i primi tinnaroni di i pisillaghje vidia cu gioia abbrisgiula i putizzi  puntillo sepe  stanghillo catari e imprunico muri   in stu frattempu  falellu era juntu in ninu  avia accapannatu a so  jente e cappiatu a so  banda in li verdi prati stratati a margheritte e a calendule   noi altri cursisti semu cume u pastore di guagnu   ci semu attippati versu e cime  lu emu detta  dimustrata e pigliemu sempre a capu insu  u lucale chi ci richiama  innalpellatu vicinu a lu occhju di u sole  dund  elle sgorganu esurgente e dunde la aria e porsa di pule piaghjnche  rimbivisce e pitturicce e allarga 1cori   avemu pruclamatu chi noi un pudiamu piu campa in li  rughioni di e padule torbide e chi noi eramu bramosi di dissitacci a i limpidi tragoni dund ellu hanu betu i nostri avi e di i quali a cantalena o u rughiu hanu annannatu o discitatu li antenati a le epuche di chiete o di periculu   ma ci eranu i jacum  antoni di a pulitica  i cecchi saverii di a malafede  i misgini di u tradimentu   sicondu questi  a nostra mossa era finta  ognunu ci pudia vede in li andati chi salenu a teppasu  ma  di nottetempu  pigliavamu e canse  trincavamu o ci arrighiamu   eramu cumei mazzeri chi si intafonanu in le catarazze  incroccanu e trappule  imbentanu inciampi  vuliamu vende anime e corpi  e a terra chi noi prumettiamu unn era che un locu di schiavitu   pe  i nostri calunniatori  a suprema felicita era di affittassi a ghiente di mare inla per turnassine  usati e trafiniti  a cura i so  calci in lu spinu e e so  mughe a la incullatoghia   a so  cuscenza  umbule e scialacquata  truvava a nostra troppu sana  e u nostru sforzu di resurrezione u chiamavanu un ingannu o un troncacollu   a chi era di satanassu ci facia di macumettu  tandu chi quelli di macumettu cantavanu chi noi eramu di satanassu   a chi avia a so  tana a sulana dicia chi noi giravamu ad umbriccia  a chi avia i so  pa  gliaghj a levante dicia chi no  trincavamu a punente   uni pochi  fra i primi chi ci  seguitonu  persenu u fiatu e ci briunonu chi noi andavamu troppu in furia  di altri  unn  avendu mancu misuratu a so  infurcatura  vulianu piglia dund ellu piglia u falcu  e ci dissenu chi no  eramu jente pocu decisa   ma per ave suminatu in strada i fiacchi e i fanfaroni  u nucle u chi inizio la ammuntagnata  diventatu legione  prosegue a so  strada cu u stessu ardimentu  a stessa vulunta   e quandu a vergugnosa manata di i servi  di i mantiruti e diifalzi ne sara sempre a spende calunnia  a manifesta u so spaventu di vedesi minacciata in lu mullizzu di u so  gudimentu  noi altri  da li altipiani duve no  saremu arrivati  lamparemu a chiama liberatrice   a chiama chi strappera fune e catene e sbuffulera a bufeghia di a malafede e di u tradimentu 
+  s
+    </p>
+    <docAuthor>
+     Pasquale Manfredi
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     primavera corsa  aprile  cantatu cu forte puesia da li anfarti migliori di u nostru paese  fiurisce e riverdisce   e dapertultu  nui severi monti cume per le aspre pianure  assistemu a la eterna ma sempre rinnuvata spuntata primaverile   e a dulcezza di aprile preluda a  suavita di maghiu   maghiu chi sempre ha vistu  du rente la antichita pagana cume indei tempi piu o menu luntani di fede cristiana  mani di vergine orna cu rose le altare di a grazia  si chiamassi questa talia  eufrosina  aglaia  o semplicemente maria   tra quelle preziose armunie diu core e di a natura  distinguemu pero  cu uguale insistenza e pungente monotonia di ritmu una campana a murtortu     ogni annu  a bella stagione  inseme cu u profume di a vegetazione  ci porta li impressiunanti ecchi di u batti focu  aprile  ogni annu  porta in semu a tragedia di maghiu  sempiternamente  sopra a e rive di u golu  un grande fiore rossu sbuccia di mezzu a curone immaculate di gigli     e cusi chi ell e  a nostra primavera corsa  ed e cusi chi noi duvemu accettalla  parchi u destinu ha vulsutu chi a quel  epuca faita per a glorificazione di a natura u nostru paese vidissi a so  indipendenza inabissassi per sempre inde le acque sanguinose di u fiume fatidicu   ma  in quellu quadru di orrore  da a curnice cumposta di i piu soavi fiori di i nostri praii e di e nostre macchie  si siacca cume imponente simbolu di speranza  a figura di le eroe di merusaglia  pasquale paoli   tornanu e primavere corse  e cun elle  u ricordu sempre vivace di a straziante lotta  e  attraversu dolci e odurosi zeffiri  ci pare di sente la aspra voce di u duce e di u cunduttiere  in un atmosfera di mitraglia e di maledizione   tutti  oramai  cunuscemu e grande line e di a vita di quellu omu  di carattere cusi vulenteru e cusi pussente chi ellu seppe  ancu attraversu le irreparabile disfatta  impasta a so  modu a nostra santa primavera   tutti semu infurmati di a so decurosa vita militare a lesteru   si esteru po chia massi  per un ardente ghio vanu di u rustinu  a tur mentata terra chi circundava u volcanicu vesuviu  tulti sapemu in quale cundizione   ellu  rispundendu a u volu di i patriotti ribelli da lulira serenissima  fu elettu generalesupremu a  consulta di sant antove di a casabianca   ognunu di noi e ugnalmenie furzatu di segue  attraversu i mille affannosi  ma ancu gloriosi particulari di a so  carriera di capu militare  civile e morale  u slanciu appassiunatu e fremente di a so  anima di leone  e tutti avemu pientu  quandu  dop a u sole gloriosu di borgu a vittoria  so apparsi ind u risplendente celu corsu i nivuli  ogn  ora piu pregni di minacce  di le invasione  ma i nostri pient  so diventati singhiozzi a  rievucazione di la angusciosa rilirata  martillata da i frenetichi hurrahs  di lu avversariu ben nutritu  ben armatu  e dece volte numericamente superiore  muratu  lentu  canavaghia  nomi ordinariamente sonori  evocatori di calme casuccie e di imbalsamata vegetazione  ma chi duvianu  da quella primavera  risuna cume scariche di fucile   decurosamente serenu pasquale paoli  da rescamone  assiste a u crollu di vanticu sognu di indipendenza  si elle escenu da a so  bocca qualchi parolle di placida jastemma a lu indirizzu di le invasore  a so  fede  peraltru ancu dopu ponte novu  resta troppu intera  perch ellu prununciessi quelle sillabe chi un kosciusko  patriotta pulaccu duvia prununcia in simile circustanze   finis corsica  finis polonia   inno  parchi ponte novu ha dui significati   unu lugubre e decisivu  risultante da u jattu stessu di a mataccina  e lu altru  tuttu di speranza e di fede inde le avvenire  parchi un populu chi ha resistitu cusi erorcamente a la epuca di i fiori  di amori e di e serinate  un po truva irrevocabilmente duri linverni piu rigurosi     ogni annu  a primavera torna  e cun ella  malgradu u punghiente e dramaticu ricordu  lu anticu sognu  cume paraba fenice  si rinnova  a sanguinosa visione di ponte novu  cuntinua ad esse duminaia da a straurdinaria  patetica  sublime figura di le eroe  di u babbu  diu duce  non finis corsica  dunque  ma piuttostu initium corsicae   pasquale paoli merita a nostra fiducia  e u nostru eternu mentore  a noi corsi  cume eterni mentori so per altri populi piu o menu muderni  piu o menu cquatoriali  i washington  i bolivar  i mehemet ali   la idea di a nazione per a quale sacrifichede la intera vita  cumbattendu cuntinualmente per a so  realizzazione  era abbastanza sublime  geniale  parch ellu meritassi di piglia postu accant a quelli immurtali  inde u panteone di i liberatori di populi   e  penetrenduci be di u spiritu di assoluta trascendenza di a so  opara  capisceremu megliu i nobili sforzi teniati altre  da eroichi cunduttieri di jente suttumessa  chiamata ribelle da i guverni interessati  capisceremu megliu oghie la agitata primavera indiana cume noi avemu megliu capitu erimane  a tragica primavera ezizana o marucchina     aprile  cantatu cu forte puesia de li antarti migliori di u nostru paese  fiurisce e riverdisce 
+  s
+    </p>
+    <docAuthor>
+     P. di B.
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="fr">
+    <p>
+     mistral et l union latine l annee 1930 est presque entierement remplie par la celebration solennelje des grands anniversaires poetiques le romantisme virgile mistral  le centenaire de la naissance de mistral merite de retenir tout particulierement notre attention non seulement parce que le poete que l on commemore est un des plus grands qu ait produits l humanite mais encore parce qu il personnifie une belle et noble idee politique et sociale une idee qui depasse les frontieres et sur jaquelle repose l avenir de la civilisation occidentale  l idee de l union latine  frederic mistral qui naquit le 8 septembre 1830 dans un humble village de provence village qu il a deja fait entrer dans l immortalite maillane mistral dis je est un de ces phares qui de loin en loin eclairent l intelligence et nourrissent l emotion humaines j ai eu le rare bonheur de le connaitre et l honneur de l approcher j ai encore present a la memoire  comme si c etait d hier  un apres midi passe avec lui il ya pres de vingt cinq ans dans l'ancien museon d arles qu ilavait fonde et ou il venait tous les jeudis classer quelques objets rediger des etiquettes indicatrices et bavarderavec quelques amis  croiriezvous me dit il que je suis connu jusque dans vos maquis voyez sur ce bois ma figure gravee par un berger corse  et effectivement c etait bien son legendaire visage a l imperiale impeccable au large front au nez fin aux yeux profonds et l artiste rustique avait mis sous le portrait le nom du poete auquel il avait envoye son oeuvre si touchante et mistral etait fier de cet hommage d un potre corse  il considerait du reste la corse comme un des joyaux du monde latin et recemment notre excellent ami dominique vecchini me rappelait la lettre qu il avait recue du maillanais et quicontient cette phrase prestigieuse  vous avez conserve vous corses votre dialecte dernier symbole de votre independance   pourquoi dira t on mistral personnifie t il l idee de l union latine parce qu il est le fondateur du felibrige ia magnifique pleiade des poetes provencaux qui s unirent en 1854 et que e felibrige est a la base de tout le mouvement intellectuel latin de la seconde moitie du 19 siecle mistral en relevant en recreant pour ainsi dire ja langue provencale qui depuis le 15  siecle avait subi une telle eclipse qu' on pouvait la croire presque morte  avait montre que les dialectes issus du latin sont capables de ressusciter et de produire de veritables chefsd oeuvres tendant la main par dessus les frontieres  aux peuples qui parlaient encore des idiomes d origine latine mais non officiellement reconnus aux catalans par exemple il adressait en aout 1861 un appel emouvant qui devait retentir dans tuut le monde mediterraneen   des alpes aux pyrenees s ecriaitil et la main dans la main poetes relevons donc le vieux parler romain c est la le signe de famille c est la le sacrement qui unit les fils aux aieux l homme a la terre relevons donc le vieux parler romain  et lorsque parut ia grande epopee rustique cette mireio que lamartine salua avec l enthousiasme que l on sait ce fut un cri d admiration dans tout l occident ce poeme de la terre de l amour et de la mort qui apporte un son nouveau une note inconnue jusqu alors ou en tout cas depuis longtemps oubliee ce poeme d un virgile chretien ou parmi les collines embaumees de thym ou dans les plaines marecageuses de la camargue avecdans le lointain l immensite bleue de la mer latine on sent vibrer aimer souffrir pleurer une ame profondement humaine ce poeme qui fit tout de suite de mistral un de ces ecrivains de genie qui appartiennent a l humanite entiere est cependant et avant tout un poeme latin et les nations du nord l ont parfaitement senti qui ont traduit en anglais en allemand en suedois les douze chants de mireio en mettant l'oeuvre a cote de celle de virgile et en creant des chaires de langue provencale dans leurs universites il a fallu en france des annees de discussion et d attente avant de voir s ouvrir dans une de nos facultes celle d aix un cours de langue et de litterature neo provencales  ce cours a ete on le sait confie a notre ami emile ripert et nul mieux que lui n etait designe pour le professer aujourd hui ripert apres avoir ete a la tache est a l honneur et a la joie a la joie de voir celebrer dans tous les pays latins le centenaire du maitre qu il a exalte du poete qu il a admirablement loue en prose comme en vers ii a du reste lui meme fort bien vu le puissant levier que constitue l oeuvre mistralienne pour le developpement de l idee latine  l idee felibreenne ecrit il depasse les frontieres de la france  l idee latine devait devenir un des principaux aliments des ferveurs felibriennes  et charles brun ne disait il pas que les poetes ont des intuitions qui jettent dans l etonnement les sociologues les mieux avertis ei les plus experts  mistral est un de ces voyants qui ont annonce des evenements des transformations sociales essentielles il a donne au regionalisme un essor inespereetque plus rien n arretera il a prepare la realisation de l union des peuples latins a cet egard comme a beaucoup d'autres il est juste que son centenaire soit aussi celebre dans notre corse emile ripert m a confie le soin de constituer un comite  quoique cet honneur me paraisse bien grand pour moi j ai consultequelques amis quelques lettres qui ont bien voulu m assurer de leur concours et d ores et deja je puis annoncer qu une premiere ebauche de comite a ete formee avec mm marcaggi omessa p rocca jean makis paul valot pietri max roger et d autres dont les roms seront publies incessamment a bastia m dominique vecchini s est charge d organiser aussi un comite mistralien et nous savons qu il est a la hauteur de cette noble tache  ainsi frederic mistral ne sera pas oublie dans cette corse qu il aimait qu itappelait la soeur d outre mer de la provence
+    </p>
+    <docAuthor>
+     Paul Graziani
+    </docAuthor>
+   </div>
+   <div n="4" type="div" xml:lang="fr">
+    <p>
+     giurnali imposte  les mobiles politiques du systeme fiscal sont accuses par le mepris de la famille qui supporte aujourd hui les plus lourdes charges le poids de l'impot dans certain cas est en proportion directe de l importance de la famille la patente par exemple penalise le contribuable qui est oblige par le nombre de ses en  ants d habiterun logementimportant l impot indirect accable les familles nombreuses les droitsde succession devoreul le patrimoine en deux ou trois generations nos lecteurs savent que pour nous nous demandons l exoneration complete d un minimem de patrimoine suivant jenombre d enfants la demagogie qui sait qu elle n a pas de pire ennemi que la famille s oppose sournoisementa loules les ameliorations qui peuvent la faire plus forte  elle tend au contraire a l'affaiblir les reductions pour charges de famille sont insuffisantes inegalement reparties la hausse actuelle du cout de la vie rend plus precaire encore la situation des familles  la spolialion des patrimoines par le fisc conelnt m georges dovime arrele a la fois les naissances et l essor de jeunes ames double et terrible peril pour l avenir de notre race   la nution parigi  farlamentarismu  gardons nous de juger le suffrage universel par les inquietudes et les degouts qu il a preferes a mais ces inquietudes ces degonis cette soif d aule chose qui ne se rencontrent pis seulement chez nous mais chez tous les peuples regis per le sysleme electif il est ceperdant desirable qu ils retiennent l attention des politiques  sans doute personne ou presque personne ne songe aujourd hui a nier les droits du nombre mais tout le monde ou presque tout le monde admet que ja souverainete populaire ne s exprime pas necessairement de telle on telle maniere on n en veut pas a la sibylle on n en veut qu au irepied il s'agit de savoir ce qui restera d autorile a l oracle quand on aura dix fois bouscule lt temple   d autant qu une religion nouvelle est en train de s installer sur les debris de ja politique religion de la technique qui aboutit logiquement a transferer au producteur les droits du citoyen et par consequent a ereer de nouvelles cellules electorales a professionnaliser  qu on me passe le mot  le suiirage universel  tout cela est encore bien vague mais les maladies les plus graves s'annoncent souvent par des symptomes obsurs par des troubles diffus ce n est pas un signe de bonne sante que si peu de temps apres avoir refabli le serutin d arrondissement on pense a le changer   le petit journal parigi
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="5" type="feu" xml:lang="it">
+    <p>
+     rinaldo avova narrato la fuga maravigliosa del latude dalla bastiglia  ed altre dei tempi suoi   per converso altobello parecchie  che pareano impossibili  dai piombi e dai pozzi di venezia  ma piu curiosa di tutte fu reputata tra noi  continuo a dire altobello  la fuga diun gafforio dalla cittadella di corte  egli aveva detto  poi era stato interrotto dai vari accidenti teste esposti  adesso  che le faccende ripigliavano il corso ordinario  il capitano rinaldo vago di novita instava     dunque  come l ando a finire quel caso del gafforio      sentirete  che so che ci avrete gusto  il gafforio prigioniero invita a pranzo il commissario genovese  il quale parve dovere accettare  essendo egli venuto di fresco  gli prese voglia del fiadone  ed ebbelo  lo aveva ordinato grande perche bastasse a cibare il presidio della cittadella e per qualche altra cosa  venuto il momento di imbandire la vivanda sopra la tavola  il gafforio si levo come faccio io  la pose in mezzo della mensa in questa medesima maniera        e poi  domandava il capitano ridendo     poi  mutato il volto di piacevole in feroce  aggiunse altobello  dato uno scappelloito alla crosta mise mano al ripieno  e appuniatolo al petto del castellano gli disse     zitto   o sei morto   e queste cose aveva lo alando non sulamente detto ma fatto  onde il capitano cassagnac quando se  lo aspettava meno si vide appoggiato al cranio due bocche di pistola  egli per certo era animoso molto  e vuolsi credere che nonostante il pericolo avrebbe gridato   senonche altobello gli tolse  il tempo di riscotersi dalla sorpresa e dal terrore  e di una spinta rovesciatolo a terra  gli mise le ginocchia sul petto  la destra su la bocca  mentre con la sinistra si cavava in fretta di tasca certi tovagliuoli ammaniti  all uopo  con questi gli cinse il capo per modo che non un grido  ma ne anco un gemito avriasi potuto sentire di lai   ne sicuro a tanto  lo volto bocconi e con altre salviette gli strinse le mari     se vi parve bello  signor francese  tormi la liberta a tradimento  spero che non troverete brutto chi io la recuperi con ingegno e con valore   e intanto che diceva queste parole vesti ia divisa militare del capitano  si mise in capo il suo cappello  prese dal grembo del fiadone una  matassa di corde di seta intrecciate a scala  ed un paro di guanti imbottiti di cotone  checi aveva nascosto la provvida serena  usci franco  e data volta alla chiave se la mise in tasca lasciando il carceriere incarcerato  la notie era fredda ma limpida  sicche le sentinelle invece di starsene appiattate nei casotti correvano su e giu lungo i battuti per iscaldarsi le membra intirizzite  anche questo dava impaccio  e non poco  pero non bisognava gingillarsi   infatti altobello va difilato dalla parte orientale della fortezza  dove declinando si distende sopra la estremita dello scoglio  cola stavano poste in batteria due colubrine in custodiadi un soldato  e altobello accostandovisi spera non gli domandera il santo scambiandolo pel comandanie della cittadella  e si ingannava  imperciocche la guardia prima gli intimo si fermasse  poi le desse il nome   frattanto altobello erasi avvicinato fino a tre passi  e la guardia abbassava lo schioppo per respingerlo   la necessita in cui versaval alanda gli feri il cervello  ma fu breve  quasi stretta di mano  e via  teneva la pistola inarcata  gliela sparo nel petto adoperando quasi senza accorgersene la pratica im    parata dal signor clemente di re citare una prece giaculatoria in pro  della anima  dello ammazzato in  meno che non si dice amen 168o la cima della scalla alla corona del cannone  che sporgeva fuori delle mura  e lascio andarsi giu talora trovando e talora no  ad un tratto col pie tocca lo scoglio  dacche e facesse un po  di cornice intorno alla base dei muri della fortezza   cercare al euio la scala rimasta  su aggrovigliata  calarla di nuovo  commettercisi poi era lo stesso che darsi al disperato   altobello come giovane di subiti partiti spicco o salto tuffandosi in mare quanto me  glio pote lontano dallo scoglio  mentre fendeva la aria penso che  panni mezzi gli avrebbero arrecato non lieve impaccio al notare  qu    di si provvedeva di prudenza per risparmiare le forze  di consianza per durare  con sorpresa pari al contento egli non ebbe a mettere alla prova queste due virtu  dacche tornato a galla si senti acciuffare da una mano di rovere pei capelli  e subito dopo da un altra nelcollo  e scaraventare dentro la barca come un sacco  cio fatto si intese sfrenellare due remi  che si misero in voga alia dirotta   in questo a fortezza di san carlo sembro aprire gli occhi  che lungo le feritoie apparve una dista di fuoco  e insieme al fuoco piovve una grandine di palle   non avvertimento fu dato  non preghiera profferita  un gemito lieve  seppure era gemito  parve che movesse dalla parie di poppa  bastarono poche palate per mettersi fuori del tiro del fucile  in quanto al cannone non faceva caso  che pretendere colpire perla notte una barca con le artiglierie era lo stesso che cercare un cece in mare  allora in un medesimo punto due voci chiamarono altobello  e questi riconobbe la madre  e serena  francesca domenica animo e corpo di ciocco menava il remo meglio che mai facesse il bonavoglia  serena teneva iltimone  bastiano era il terzo  le donne  presaghe dei sinistri che potevano per avventera accadere  avevano portato seco vesti che servirono ad alfobello per mutarsi in fretta  poi misela madre altimone  egli e bastiano ripigliarono la voga  serena mandarono a riposarsi delle fatiche sofferte e piu delle agitazioni  ed ella si giacque a prua senza farsi pregare   la fortuna ora da se discorde volle favorire questa impresa  onde sani e salvi arrivarono alla punia di arco   trovarono muli allestiti sui quali salendo presero  senza mettere tempo fra mezzo  la via del borgo  furono ricevuti a braccia aperte   qui accadde che altobeilo stringendo improvisso al suo petto serena fu cagione che questa gettasse uno strido  per la qual cosa cercando premurosamentese e comele avesse fatto male  conobbe  lei essere stata ferila da una palla nel braccio manco  la poveretta quantunque se lo sentisse passato fuor fuora non ne aveva mosso parola  anzi perche curando lei non perdesser tempo si era accocollata a prua mordendo il fazzoletto  e cosi in silenzio si era posta una fascia intorno alla ferita  appena le sfuggiva il grido  vergognando di avere mostrato paura  diede della mano destra su ja spalla ad altobello e con un tal suo sorriso tutto amore  lo rimprovero     se nei vostri garbi voi metteste un po  piu di grazia  mamma francesca non avrebbe sapuio che io era stata ferita   francesca domenica  quando si trattava vegliare infermi  medicare feriti  in breve  consolare qualunque afflizione  pareva chiamata a nozze   nudo il braccio di serena prima che se ne accorgesse  stacco senza farla troppo penare il panno ingommato di sangue dalla piaga  la quale diligentemente esaminata trovo che non aveva offeso lo osso  ne parte alcuna di importanza   non  dimanco dopo averla medicata le impose di andare a riposarsi   rimasti soli bastiano e altobello  il primo disse al secondo     quando venni al servizio di vostro padre  altobello  gli promisi che egli avrebbe spellato me odio lui  difatti io gli scavai la fossa   con voi non ho patti  ora ditemi se per tutto iliempo che vi ko servito vi mancai in parole  in opere o altrimenti     o bastiano  per te solo  finche vivemmo piccoli orfanelli  quasi non ci accorgemmo ci mancasse il padre  e    bo   dunque datemi un bacio e aidio     tieni bastiano  pigliane anche tre  ma non capisco che cosa tu voglia signifiicare     ecco   io voglio tornare alle mie montagne di niolo e da quiinnanzi non obbedire altro padrone che dio       come puo esser questo  bastiano  ti avrebbe qualcheduno of feso in casa mia     si  e molto  e le offensore siete voi     io     si  voi avete dubitato di me  voi avete sospettato un momento bastiano traditore   non lo negate  lo so     e tu sai male  io non ti ho mai creduto traditore     e con quel vostro sguardo in casa mariano che mi chiedeste voi     lo vedi  se ti avessi reputato traditore avrei potuto domandarti se mi avevi tradito      e se mi credevate fedele come avreste potuto interrogarmi se era di balla con mariano  no  tanto e  ho deciso  altobello  il cuore rotto non si rincolla  pero  come vedete  con voi non ho nulla   lo odio mio e contro colui che adoprandomi per zimbello mi fece suppore complice delsuo tradimento  addio dunque  salutate per me francesca domenica  perche non mi basta la anima di dirle addio  a   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     un fattu stranu  oghie  essendu di servizio   cunsulatu di francia  hi stacci vinti quattr ore   gchilu tempu un mi manca   faccio chiama ala mio musa   valea pena  a dilla franca   a vita unn e micca male  di guardia a lu consulal  si vedenu damicelle  pi tulte le qualita pu  mn ci e dirittu a guardalle  senza pudecci parla   g peghju so le francesi  pelle finte e euluttale   vi dicenu   vo speak french  gi per casu le parlute     a la citta di sbanghai   gh  quante ci ne iruvate 1  fassi passa per inglesi   ghie la so  mentalita    adilla  un si crederebbi  parlant e la verita   gfi ol  di anda a lu stranieru per pude bede e tucca   bi dissi chi era di guardia  ja forma di pulizzeru  essendune militare   si obbidisce a lu mistieru  per forni rinsignamenti a qualunque furesteru   si e prisentala una donna  ghiustu davant a ju postu   interrugo a sentinella   ma quella nun la ha rispostu  chi parlava iu talianu ma ci un forte accentu corsu   sobiln aghju judicatu chi ella era sumente corsa  pensai di guistiunalia per sente la so  risposta   ma un sapia si ella era maritata o giuvanotta   allora mi so avanzatu  dicenduli     permettite  distinta madamicella   o madama chi ho  site   so prontu per rinsignabbi di cio chi bo  un cunuscite     mi rispose a capu bassu cu lu accentu livurnese      so dui ore che su in cerca di a cuncezione francese   si bo  sile cumpiacente   vi ringraziu caramente      se bo  un bulete che quessa  so a bostra dispusizione  dumandatemi  madama  qualunque spiegazione   per me  di parla cun voi mi e una cunsulazione      non michiamaie madama  vi prego  mio caro amico  sappiate  mi son ragazza  xon ho ancora marito   come voi mi parlate  giovinotto  mi invecchiate       ghie cio cle vulia sente chi bi erate giuvanotta   sperendu  madamicella   di parlacci un  altra volta  ma ciu che vurria sape    site livurnese o corsa    bidendu chi ella era chiappa allora si misse a ride     un bale piu di piallalla  roi site troppu fina    poi  aghiunse     si  so corsa  so di e parte di campile       dunque  si bo  site corsa  parlale un paisanu  permettite  cume corsu  chi io vislringe a vostra manu  ma vi pregu lascia corre  u vosiru parlatu siranu 
+  s
+    </p>
+    <docAuthor>
+     P. Pallenti
+    </docAuthor>
+   </div>
+   <div n="7" type="poe" xml:lang="co">
+    <p>
+     bistonica e tavignanu   canzonu   1  salutu a li alti currenti ristonica e tavignanu  maritati fra parenti i senza merru ne piuvanu   a mezz alu vecchju corti  bi site strinti la manu   i  da li monti profumati  senza nisuna impuslnra  ne falate impumpunati  trinnighendu la andatura   a mezz a lu vecchiu corti chi bi aspette cu primura    th  lu imbernu cume le estate ghjuchend a chi po piu corre  notte ghjornu v abbracciate  cume amanti di core   a mezz a lu vecchju corti  cantendu lu vostr  amore    iy  megliu che lu omu chi imbita la so  moglie a rompe prestu  boi  per la eterna vila   bi tenite pell a peltu   a mezz a lu vecchju corti  senza cambia di letiu    y  biata la manu celesta  chi bi ha lampatu lu risu  davant a li agnuli in festa intorn a lu vostru visu   a mezz a lu vecchju corti  lu piu bellu paradisu  
+  s
+    </p>
+    <docAuthor>
+     Santu Guglielmi
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     cosa ce      cosa ci e dipiu bellu    cos ha dipiu splendore che lu discu di focu  quandu spunta le albore      piu bellu che stu sole chi incende le oriente   cura  ci e lu to  visu   lu lo  visu ridente   cosa dipiu lucente in celu  di istatina   che quella stella chiara  chiamata matuttina     chi luci piu ca ella   a ti juru in dinocchj   o la me cara bruna   un ci e ca li to  occhj   cosa ci e dipiu dolce che lu mele  di estate   che dulcezza e prufume di le rose sbucciate      piu dolce che lu mele   o cara fra le care   ci sonu le to  labbre chi amu tantu a basgiare   cosa ci e dipiu grande che u mare senza fondu  chi senza muta locu  fa la giru di u mondu      piu grande che lu mare o caru mio bel fiore   ci e le amore che tengu   per te  ne lu me  core 
+  s
+    </p>
+    <docAuthor>
+     M. Alessandri di Chidazzu
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     zitidducci  campagnoli     zitidducci campagnoli  pien  di lumu o di soli   cori puri  voci altagni  steli  ni vostri campagni    zitidducci pien  di alenu  libari e senza frenu  curriti piani e muntagni guardet i vostri campagni   zitidducci di crianza   di corsica la speranza  ripianteti  i castagni  impitini li campagni    zittidduci innucenti  come lu acqu a di i surgenti  siccheti paduli e slagni  assaniti li campagni    zitidducci  deli esempiu   a cirnu alzeti un tempiu  di onori senza magagni   e virtu di li campagni   zitidducci  quandu chiama la voci di a vostra mamma  tutti ritti  senza jagni   muriti pe  i so  campagni   si  di san jorghiu
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="10" type="div" xml:lang="fr">
+    <p>
+     memoires du r p de singlande aumonier  spedizione di maillebois 1738 1741  seguitu  d ailleurs elles conserveni un reste de fierte orientale qui fait que naturellement elles ne voyent que leur mari  leurs parens qui de leur cote sont fort jaloux de leur femme  de leurs filles  ne souffriroient pas volontiers la moindre apparence de galanterie  de desordre  toujours retirees toujours occupees sans envie de plaire a d autres qu a leurs maris elles n ont qu un tres petit soin de leur parure  aussi rien de plus simple  de plus modeste que leur facon de s habiller elles portent une chemise fort courte qui ordinairement est de coton une juppe de couleur bleue ou rouge ornee par le bas d un triple rang de rubans de differentes couleurs un corset tres epais les serre extremement depuis les reins jusque sous la gorge elles ont par dessus un habillement de la couleur de leur jupon qui ressemble assez a celui des hommes  une espece de toque leur serre aussi extremement le front elles portent de plus un voile de toile ou de mousseline qui a bien quatre de nos aulnes de largeur elles lui font faire trois ou quatre plis sous le menton qu elles tiennent cache  qu elles decouvrent en rejettant leur voile derriereelle quand elles veulent parler il est d usage de ne point faire blanchir ce voile tout le temps que dure le deuil pour les peres ou pour les maris ce qui fait qu au bout de quelques jours il devient d une salete degoutante  elles ne portent aucune chaussure  marchent toujours nuds pieds elles y accoutument leurs petites filles des l'age de trois ans ainsi qu a porter sur leur dos  sur leurs epaules les plus lourds fardeaux  les bas les souliers  les chapeaux des hommes sont semblables aux notres ils font monter presque sur l estomac une large culotte qui par l effet qu elle produit ressemble assez a la jupe d une femme ils font entrer dans cette culotte une camisole bleue ou rouge  par dessus un habit sans poche ni plis presque a la mode des turcs ou des burerres de campa en navarre sous cet habillement ils portent une large ceinture qui fait trois ou quatre fois le tour de leur corps plusieurs y mettent leur mouchoir lear montre a leur argent ils ont un long  large sabre pendu sous le bras gauche  un poignard attache a leur ceinture la couleur violette  pourpre est une marque de distinction parmi eux  n est permise qu aux plus considerables  j ai dit que la republique de genes n avoit point de meilleurs sujets que les grecs pour le courage  ja fidelite  leur probite en tout ce qui interesse le commerce  la societe civile n est pas moins considerable  j ai eu assez long temps d intimes relations avec plusieurs je n ai rien vu dans aucun d eux qui ue fut effectivement digne de ce qu ont dit de leurs ancetres les anciens spartiates aux plus beaux jours de leur empire leur situation est malheureusement bien diflerente mais c est sur leurs vertus  non sur leurs succes qu on doit juger du merite des hommes quel bonheur pour la france si elle pouvoit attirer dans son sein de pareils hommes helas ils sont si mal en corse ils trouveroient dans nos provinces tant de bonnes terres encore en friche  qui est ce qui empeche qu ils ne viennent former parmi nous un etablissement que la paix  la surete que nous leur procurerions leur travaux leur industrie leur fecondite rendroient en peu de temps si florissant e si avantageux  pour eux  pour nous  la ville d ajacio est batie dans une plaine sur la cote occidentale de la corse a 20 lieues de bastia par terre sa situation est des plus agreable e c est sans comparaison la pius jolie ville que j ai vue dans la corse avant d y entrer il faut traverserun fauxbourgassezgrand toutes les rues soni droites PS larges les maisons pour la plupart reunissent egalement les commodites audedans  les agremens au dehors on y remarque quelques beaux edifices sur tout la cathedrale le college des jesuites leur bibliotheque donne sur la mer  jouit du plus agreable point de vue qu on puisse imaginer ces peres n enseignent que les humanites  la rhetorique la philosophie  la theologie sont entre les mains des franciscains la ville d ajacio n est pas mal peuplee on y compte jusqu a 4000 habitans c est le siege d un eveque la republique de genes y entretient ordinairement un commissaire general comme a bastia celui qui pendant mon sejour etait pourvu de cette place s appelloit le marquis de sophrani homme plein de probite de droiture  de politesse  dont les francois n ont jamais eu qu a se louer il y a dans cette ville un commerce assez considerable de corail de planches de membrures de madriers de poutres  de solives qui se font de differens arbres qui croissent abondamment dans plusieurs pieves de cette partie de l isle ce commerce est fort lucratif  plusieurs habitants s y enrichissent extremement on y voit encore ainsi qu a bastia une grande quantite de cordonuiers le golfe d ajacio est tres beau  tres grand le mouillage y est sur  a l abri des coups de vents l entree en est defendue par une petite citadelle qui cependant est assez bonne elle a ete batie par le marechal de thermes apres qu il se fut empare de la ville sous henri ii l on voit encore son nom sur un bastion du cote de la terre les fortifications de la ville meme se reduisent a une forte muraille qui l entoure de toutes paris il n y a a ajacio qu une seule incommodiie mais qui est tres grande c est le defaut de bonne eau l on n y boit que de l eau de citerne ordinairement mal conservee pour en avoir de fontaine il la faut aller chercher a deux mille il n est pas necessaire que je dise qu il y a a ajacio deux couvens de s francois l un des capucins l'autre des recolets ces religieux sont toujours necessairemeni comptes parmi les habitans de toutes les villes de la corse  dans le courant du mois d aout nous regumes ordre de sortir d ajacio  de nous rendre a calvi pour nous y embarquer  retourner en france nous partimes en consequence  je ne trouvai rien qui fot digne de remarque avant d arriver a vivario j eu dans cet endroit occasion de tenir conversation avec le potestat de ce lieu c est le nom qu on donne aux premiers magistrats  je tochai de lui faire sentirtous les malheurs qu entrainent ordinairement la revolle des sujets contre leurs souverains quel avantage ce seroit pour les corses de terminer leurs dissentions  de rentrer sous la domination des genois qui instruits par le passe paroissoient disposes a mieux les traiter a l avenir les genois me repondit il ont ils ete eux memes plus soumis que nous a leurs souverains combien de fois n ont ils pas manques de fidelite aux rois de france qu ils avoient eux memes choisis pour les gouverner  temoins leur fameuse revolte contre louis xii e dont ce prince maitre de leurs biens  de leurs vies mais trop bon pour des traitres comme eux ne les punit que par la suppression de leurs privileges ce n est qu a force d infidelites  de revoltes qu ils sont venus a bout d etablir parmi eux le gouvernement dont ils jouissent c estleurexemple que noussuivons c est a l independance c est a la liberte que nous aspirons sur leurs pas
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

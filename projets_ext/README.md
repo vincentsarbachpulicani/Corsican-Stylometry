@@ -1,1 +1,0 @@
-Ce dossier regoupe tous les codes déveoppés par d'autres personnes ou dans d'autres contextes et que j'utilise pour mon projet.

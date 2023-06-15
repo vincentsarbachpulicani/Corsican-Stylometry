@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330918h
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330918h
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 367 | Année 10
+     </edition>
+     <date>
+      1929-09-01
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Annu X — Numaru 367 Esce a Dumenica 1 Settembre 19 29    GIURNALE Di E PIEVE DI CORSICA  ABBUNAMENTI :  in Corsica. . « . + + + + «r&gt; + » à 15 franchi  In Francia. , . . . .»&gt;....... 18 »  Unione postale . . , . . . . . . . . 30 »  U Numaru:5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  38, Corsu Grandval 38. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     a corsica a i corsi  quandu sera chi i corsi si decideranu a vule fa i so  affari elli stessi  principiendu per quelli pulitichi  unu di  so  piu gran  torti e di fassi rapprisenta  in parte  da parlamentarii stranieri chi  colpu per colpu  ci facenu pensa a  favula di u beccu e di a volpe cascati in iu pozzu  dopu i choiseul  nome di cusi trista memoria  l hebrard  i ranc  i combes e i chaleil  ci resta doumer e giordan    si parla ancu avale  di un certu lederlin chi  da e vosgi si tirera in aiacciu  cintu di milioni  per mette a lu incantu u piu insolente u titulu di senatore chi ellu vole strappacci a tuttu costu   dunque  a prossima fiera elettorale sera fruttuosa pe i pruduttori e li intermediarii  pe i grossisti e i detaglienti    si paghera un caprettu a u prezzu di un boie  un boie a u prezzu di una banda  e una banda a u prezzu chi sera dumandatu  senza contu ne misura   cio chi ghje a piu bella  si porrebbi di a piu brutta  prova di a nostra incunsequenza pulitica e di a poca stima chii nostri capi di campu isulani hanu pe a corsica e pe i corsi   chi ci portanu da francia sti galli cresti doppj      nient altru che lotte elettorali mercantili chi hanu per risultatu   disordine  numicizie  miseria  spopulazione e scunsiderazione  quandu chi tanti corsi di altu valore ci porrebbinu rapprisenta cun talentu e core   ma lasciemu sta a pulitica  chi un sera interessente per noi che u jornu chi ellu sortera di u populu un sambucucciu mudernu per livella u statu  aspricciu di u nostru terrenu sociale  e per rimette in onore a solernita di e cunsulte a pro di a patria corsa   avemu digia dettu chi a corsica un po esse salvata che da le unione di tutti i corsi in una lega potente  da una pulitica esclusivamente di interes  su generale e da la iniziativa privata chi ci metti in attiva azione  cummerciu  industria e agricultura   tandu u guvernu unn avera mancu piu a paga forti suvvenzioni a e cumpagnie  attuali di trasporti  perche queste se  tanu subitu cuncurrenziate da altre cumpagnie attirate da  un muvimentu di caricu impurtente  cum elle accade in tutti i paesi di pruduzione e di scambiu   dunque   unione corsa  capitalisti e omi di affari per mette la isula in piena resita  e pulitica di programmi e di rivendicazioni per ubbliga u guvernu francese a fa tuttu u so  duvere inversu una corsica chi vole paga a so  parte di imposi  ti  ma vole dino gode di tutti i so  diritti   eccu cumu a corsica po esse salvata    u restu unn e che discorsi a  luna  scritti in la rena e cuntrasti malsonenti  e vecchie cantalene chi tutti i penitenti e li impenitenti corsi macinanu sottu e finestre di marianna cu i so  organetti scordi  un facenu che pruva a u mondu a nostra degenerescenza  a caduta di u nostru populu in la pusillanimita  dopu esse statu u piu luttadore di a terra     e chi elli un stianu piu a rompeci u capu ne e malacelle di u   corsica unn averai mai bene   ne i raganoni chi proclamanu li affari difficili in corsica perch ella e un isula  ne i pienghiuluti chi cherenu limosine  in sottu vuce  a un guvernu sordu  ne i censori di salone o di gargotta chi accu sanu i corsi di pigrizia e di spiritu di emigrazione  ne  infine  i scrivacciuloni chi ubbidiscenu a un sentimentu di vanita litteraria o a li ordini di un padrone   per crea u muvimentu economicu chi noi preconizzemu  basterebbi a lancia un affare seriu  stesu a tutta a corsica   ssu primu affare ne provocherebbi di altri  e cusi le intraprese anderebbinu sempre criscendu sin a fa di la isula un ernaghiu di attivita     doumer e giordan porrebbinu da  ssu slanciu per paga di a nostra ospitalita     ma un ci e a cuntacci  perche stu coppiu sacchittaghiu e in manu a dui omi chi si spartenu a core pulitica e hanu interessu a manteneci a desolazione   da un altra parte  a doumer e a giordan  a corsica li preme quante u so  primu paghiu di scarpi di u tempu chi elli eranu purtentini     avale so diventati acelli di altu volu  lampati da e timpeste pulitiche in lu nidu di la acula abbandunatu   un li dumandemu nunda   mancu a ricunuscenza di u ventre  dopu i 6o ooo ma je piu che ora chi noi ci ne sbarrazzimu    doumer ci ha burlatu duie volte e un li deve micca riesce una terza  i delegati senatoria  li si ricorderanu chi ellu unn  ha mai fattu nunda pe u nostru paese  chi ellu si vergogna di essene senatore e chi ellu presiede cinque grosse firme chi averebbinu stesu a so azione a  corsica si ellu avia vulsutu   un si e mancu vistu ne intesu contru u scandalu di e tariffe marittime   inquant a u famusissimu giordan  li stipperemu tutti i cani di piaghia e di muntagna e li pruveremu tutta a so nera ingratitudine inversu a corsica  dopu avelli rubbatu duie volte u titulu di parlamentare chi li sende cume u cappellu a  scimia    a corsica a i corsi   eccu cio chi deve esse avanti tuttu a nostra guida pulitica pe u nostru rilevu materiale e morale  perche la isula incantevule sia veramente regina di bellezza in lu bellu mare latinu 
+  s
+    </p>
+    <docAuthor>
+     V. G. d'Altimonti
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="it">
+    <p>
+     incoerenza ed errore   a tulli i soci di tyrrhenia    a tutti gli italiani veri amici della corsica   io non so perche coloro che vogliono   cosi dicono   sapere la verita sulla corsica  e che si accingono a parlare della nazione cor  i sa    non dico della sua storia    j non facciano  in generale  quelle esame di coscienza che fanno tutti coloro che  impugnando una penna  si peritano a costruire un lavoro sincero   se i molti improvvisati amici della corsica volessero esaminare   bene la propria preparazione prima di iniziare commenti politico storichi si presenterebbero assai piu  agguerriti sul campo della coltura e delle propaganda   che erronea  mente vien creduto di facile accesso   e le loro critiche sarebbero fatte con animo sereno  disposto a giudizi spassionati e non a dicerie oziose  inutili e sprezzanti   questo io ho pensato leggendo nell ultimo numero delle interessante  bollettino di tyrrhenia una recensione non firmata intorno al tomo primo della mia anthologie des ecrivains corses   gia a prima lettura di tale critica  ricolma di irruenze verbali spesso inopportune  chiunque concepisce che essa sia fatta con animo appassionato  ed esaminando il significato di certe espressioni  si viene a concludere che le ragioni di questi    appunti si colleganc a quello atteggiamento di vana animosita  di sprezzante superiorita verso cio che e corso o dal pa triottismo corso ispirato   per cio merita la suddetta recensione una replica che servira a chiarire argomenti streitamente connessi con gli intenti del corsi cismo   un solo rinfacciamento  essenzialmente  mi sembra poter rilevare dalla lettura dei fogli di tyrrhenia e specialmente dell intitolamento  una grave incoerenza e un grave errore  ed e l aver presentato sotto veste francese roba che non e francese   su queste supposte   grave incoerenza e grave errore   che cons tituiscono o non constituiscono il frontispizio  la prefazione ed il commento della anthologie  poteva  e doveva trovare il redattore responsabile del bollettino di tyrrbenia argomenti giusti  retti  ragionevoli  concludenti  incontrastabili   o doveva tacere   ma  preoccupato come e di cercare il pelo dove ne pure ci e carne   mi si permetta la rozza espressione   ci regala invece lo egregio ed anonimo critico di certi concettini ed aforismi che metteli in cuore la mia rovinata  completamente rovinata anthologie des ecrivains corses   replichero dunque  e procedero per ordine   dice tyrrhenia     o si voleva dire che la corsica non era italiana e bastava tacere   ma pci che la si fa parlare nella sua lunga e nutrita schiera di prosatori e di poeti in lingua italiana  e naiarale che anche il piu semplice dei leitori csclami    to  si puo sapere perche lo hanno presentata sotto veste che ron e italiana   ma chi deve leggere questo libro e capirio nell  alla rivelazione del suo contenuto  se non gli italiani         se lo intendimento del   semplice lettore   non fosse offuscato da non sapiamo qual fumo  avrebbe capito che  se fu politicamente genovese per circa quattro secoli ed e ora francese da cento sessanta anni in poi  la corsica non fu altro  sempre  che la corsica    intellettualmente e spiritualmente  fuorche sia scempio il  semplice lettore     ma quello che sa della corsica non e cosi scarso ed incerto  non io credo  pero vuole ignorare che nei secoli xix e xx il genio letterario della corsica si e manifestato non soltanto in lingua italiana ma pure in francese e in dialetto corso   ma il   redattore responsabile   non ha forse pensato che il tomo primo di questa  rovinata  anthologie precedeva    il secondo tomo   dice ancora tyrrhenia      evocare i morti e molto pericoloso  perche dalle tombe possono uscire verita terribili   giusto  verita terribili possono dire i morti nostri  ma non per svergognare la corsica   e ancora     domandare a un francese chi ere costui    hi paoli    ni vu ni connu    ma se si domandasse a un corso chi era il padre della patria   e ancora sempre         incoerenza perche se si trattava di esaltare un passato tutto italiano  bisognava farlo o in italiano o in quel dialelto corso  che pel momento sostituisce la lingua madre  errore  perche si e spedito in altro paese un libro indirizzato all italia     si trattava invece  egregio redattore responsabile  di esaltare scrittori corsi ed era utile farlo nella lingua    ufficiale della corsica  in quel francese che non ha ancora sostituito il linguaggio nazionale ma che  costretti di impararlo  tutti gli isolani capiscono  si e dunque spedito il libro nel suo paese   la corsica  dove le favelle del si e del oui sono  giusta la comodita o la opportunita  adoperate  dice ancora tyrrhenia      questo libro    e una delle tante testimonianze della assoluta  iusincerila di vita dei corsi di oggi      giusto  mille e mille volte giusto  ma       e ancora  finalmente    noi non domandiamo ni corsi di oggi di essere quello che non possono    e chiediamo sopraluito a quei pochi o a quei molti che si affenuano con lanla tenacia  tanta sapienza  e tanto cuorea rifare la anima nazionale della isola   a voler dichiarare una buona volta   siamo degli italiani soito unu dominazione stranierala  ed ecco  il dolcissimo bollettino non trova altro a concludere     ma il tirreno redattore   che oitre di essere un leitore di libri di corsica e anche qualcosa di piu  smentica  se non lo ignora  che vi e una coscienza corsa  politica e letteraria e spirituale  una coscienza quanto il mondo vecchia ma che ora  compenetraia di corsicismo fomenta il risorgimento totale della patria corsa  della nazione corsa    o   non domandi dunque ai corsi di oggi di dichiarare altro che   siamo corsi  non nati ieri ma   esistiti   prima di nascere  e vogliamo divenire sempre piu corsi  unicamente corsi    detto tutto questo  non intendo concludere che il bollettino di tyrrhenia sia una cosa da pigliarsi a gabbo  no  piuttosto vorrei dire che sfogliando questo bollettino di coltura e di propaganda ho provato un certo dolore la dove  con evidente passione  ia storica verita e stroncata  e se cosi non fosse  piu che un senso di dolore mi prenderebbe le afflizione di saper cosi poco penetrativo lo ingegno dell esimio redattore responsabile  il quale  anche nella sua recensione demolitrice intorno alla anthologie des ecrivains corses  ha verita che mi soddisfano   circa il tutto  io  ho voluio parlare  non per disprezzo di altrui ne per odio ne per superbia  ma per la verita 
+  s
+    </p>
+    <docAuthor>
+     H. Yvia-Croce
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     pulizza   ci so i spirti nati monculi  o sviati da i buggiardi prugrammi di un insignamentu di strapazzu  chi si figuranu chi in un paese di sfripaia demagogia cume a francia  a pulizza serve a preserva a societa da i malfattori  e e legge so fatte per esse rispettate da quelli chi so incaricati di falle rispetta   eccu dui fatti recenti chi dimostranu chi le instituzione diretta da a rue des saussaies unn ha piu che un scopu di oppressione e chi elia unn e che un modu di guverna di un regime 1irafalatu in lu mullizzu u piu puzzulente    u 25 lugliu scorsu  u nostru direttore  scalendu da u battellu di ajacciu in lu portu di nizza marittima  ebbe le onore di esse raccumandatu da un cummissariu speciale a u cuntrullore di dugana di serviziu  u quale  ci una sfacciatezza chi si impippava di i so  dritti e di quelli di li altri  fece  in le valisgie di petru rocca una perquisizione troppu minuziosa  andendu sin a pruva a leghie un esemplare di le anthologie des ecrivains corses  ma tandu  in una prutesta di jargastrolu abbastanza argumentata  u nostru direttore fece chi stu ridiculu e pocu cuscenziosu funziur nariu si tiro di gamba  lasciendu u postu a u curamissariu speciale  obligatu cusi a palisa a so  intervenzione di  coulisse     stu degnu funziunariu di a pulizza  senza nisun mandatu  ebbe a fronte di rinuva a perquisizione di u so  degnu cumpare di a dugana e cunsumo u delittu di viulazione  andendu sin a leghie parecchie lettere chi eranu in una valisgia  per casca  cum ellu dice u pariginu  sur un bec de gaz   altru incidente stalbatu   u prim  agostu  sicondu li ordini di u sgio tardie u  a pulizza francese ebbe tutta licenzia  sottu pretestu di duma i cummunisti  di fa una furlanata nantu e  plate bandes   di i dritti di lu omu   in nizza cume in altro  agenti e sbirri in civile  cu rete fate per lascia passa i delinquenti colsenu i piu calmi e onesti cittadini chi avianu u curaggiu di godesi un pocu di frescu in carrughiu   chiappu in stu modu  un amicu di u nostru direttore giovane cummerciante chi ha a so  buttega a ceniu metri di l hotel di a pulizza  un fu messu in liberta che dopu fattu quattr ore di detenzione  e avessi vistu rivulta e stacche e visitatu u portafogliu   petru rocca un pudia fa almenu che prutesta  ciocch ellu fece a u scagnu stessu di u cummissariu speciale curti incaricatu di ste  rafles  pocu legale     u sgio curti  inturniatu di una guardia impunente e rivolvaru apparente a fior  di stacchinu  un pobbe ammette chi a so  preputenza republicana fussi cuntrastata  e a piglio un ottava piu altu che u prutestatore stravaghendu sin a u puntu di piglia per un insultu u qualificativu di   mistiere   applicatu da petru rocca a ciocchi u sgio curti vole sente chiama sacerdoziu       accegatu da a collera  u cummissariu speciale  verificata la identita di u nostra direttore  senza alcun  riguardu pe a so  legion di onore e per e qualita di mutilatu di guerra e di cumbatiente attestate da e so carte  ando sin a prununzia parole chi noi li vulariamu vede ripete davanti a testimoni chi sentenu e chi ponu parla   e vera chi una mezz ora dopu  certamente dopu ave telefunatu a  rue des saussaies   u sgio curti  cu a bocca tunduliola  accumpagno sin a porta a petru rocca  dicenduli davant a i so agenti sbambaniti chi u travagliu di a jurnata la avia incrispitu e chi un ci vulia a facci casu  ecc  ecc     avemu rappurtatu st incidenti per da una nova prova chi u guvernu di i centralizzatori giacubini teme piu ca chi ellu un la vole di quelli chi i so  giurnali trattanu   di illumines  e di  trois peles et un tondu     ma fra questi ci ne e qualchid uni chi hanu du poil aux    pattes   avvisu    p mi 
+  s
+    </p>
+    <docAuthor>
+     Pasquale Manfredi
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="fr">
+    <p>
+     paris le 16 aout 1929  monsieur le directeur et cher compatriote  je lis aujourd hui avec une vive surprise dans la muvra du 1 aout un long article consacre a l affaire pierre alessandri et maitre berthon vous avez bien voulu inserer dans votre honorable et vaillant journal un factum indigeste sans style et tendancieux de m pierre alessandri professcur d italien au lycee de nice permettez moi de remettre les choses au point les documents qu il a produit ont paru tres insuffisants au jury d honneur elu le 20 mai dernier par une assemblee de corses a la salle des societes savantes avec le mandat precis de rendre une decision dans cette affaire que le professeur aurait du passer sous silence dans son propre interet  le jury d honneur dont j etais le secretaire general a rendu ern son ame el conscience un arret definitif et sans appel devant lequel tous les corses doivent s incliner  ce jury etait d'ailleurs compose de compatriotes de la plus haute bonorabilite le lieutenant colonel pharmacien carabin president les colonels peraldi et giansili officiers de la legion d honneur m le conseiller municipal pinelli officier de la legion d honneur le professeur agrege ambrosi p bonardi homme de lettres charles zuccarelli expert l avocat r palmieri le dacteur peretti leca commercant albertini president des combattants corses etc c'est cet areopage que m p alessandri a l audace d outrager nous meprisons ses insultes et s il ose tenter une offensive sporadique desesperee et vaine i sera brise comme verre  au reste la corse si grande par son passe glorieux par ses grands hommes et par son elite actuelle n a pas besoin d un defenseur aussi obscur et aussi peu qualifie que m pierre alessandri elle se suffit a elle meme et elle ne saurait servir de tremplin et de piedestal au premier venu comme a n importe quel personnage  m pierre alessandri avec une pretention que rien ne justifie donne sans rire des lecons de francais a des maitres du barreau parisien notre culture est superieure a la sienne  j ajoute enfin que la decision du jury d honneur est basee sur plusieurs documents notamment sur une lettre capitale de m le president du tribunal civil de gueret qui affirme avec sa haute autorite que maitre berthon n a nullement injurie les corses ce que d ailleurs ses assesseurs et lui n auraient pas tolere  d autre part m berthon a declare sur son honneur qu il n avait jamais eu la pensee d attaquer un pays qu il aime beaucoup  les temoins de m pierre alessandri ont pu de bonne foi se meprendre sur le sens de certaines paroles qui avait un lien etroit avec le fond du proces  l accusation portee contre maitre berthon est donc sans fondement fantaisiste et ridicule  le jury en a decide ainsi par 7 voix contre une je suis fier d avoir vote contre la demande injustifiee de m pierre alessandri qui pour se venger d un vote collectif a eu le triste courage de m envoyer une lettre et un telegramme remplis d insultes mais qui n arrivent pas a la hauteur de mon dedain selon le mot d un celebre homme d etat   en osant compter sur votre courtoisie et votre esprit de justice pour l'insertion de cette lettre  je vous prie de croire mon cher directeur a mon amitie
+    </p>
+    <docAuthor>
+     P. Versini
+    </docAuthor>
+   </div>
+   <div n="5" type="let" xml:lang="fr">
+    <p>
+     ci scrivenu lyon le 16 aout 1929  monsieur le directeur  vous serez tres etonne de recevoj cette lettre d un jeune inconnu d un style peut etre incorrect ct certaine ment indigne d etre luc par un journa liste a qui le maniement de la plume est beaucoup plus facile qu a un simple cultivateur accomplissant en ce mo ment son service militaire au  eme genie a x  naturellement la pioche etle fusil me sont plus familiers malgre cela je tacherai de vous exprimer ma douleur pour l honneur et le bien de notre patrie lorsqu un caporal conti nental vint avec un air moqueur me faire lire un article du  petit dauphj nois concernant nos deux deputes chefs de liste en voici exactement la copie numero du 11 aout 1929   la corse compte peut etre des clecteurs qui sont bonapartistes republicoins radicaux socialistes ou communistes mais ils ne se dig tinguent pas par ces etiquettes  au pays de colomba on est cn effet pietriste ou landrisie  1l y a ainsi des cures pietristes et des cures landristes des fonclionnaires pietristes et des fonctionnaires landristes et meme dit on des bandits pietristes et deg bandits landristes  rivaux en corse m m francois pietri et adolphe landry le sont naturellement aussi a paris mais c est surtout en periode de crise ministerielle que leur rivalite s affirme et ge fait agissante  dans ces circonstances m landry fait des pieds etdes mains pour que m pietri ne fasse pas partie de la nouvelle combinaison m pietri en fait autant pour que m landry en soit ecarte  notre desaccord ost pitoyable disait l autre jour ce dernier nous aurions pe signer un contrat slipulant que nous serions ministre a tour de role cela n'a pas ete possible alors nous ne serons jamais ministre ni l un ni autre   i est pourtant question d un armistice entre les deux hommes on verra lors de la prochaine crise si les pourparlers amorces la semaine derniere ont abouti s eh bien oui ces deux hommes doues d'une haute intelligence et possedant de puissants moyens alors qu ils pourraient faire par leur union de notre ile malheureuse l'egale des meilleurs departements francais font par leur lutte fraticide le malheur de notre patrie et l'abatardissement de toute notre heroique race   je me suis adresse a vous monsieur le directeur parce que je sais qu avant ja politique avant tous ces hauts personnages et par dessus tout vous aimez notre chere corsica  je serais heureux de savoir qu au recu de ma lettre vous avez fait un article sur les agissements de nos representants qui sont tournes en ridicule jusque dans les coins les plus recules de la france  veuillez agreer monsieur le directeur  etc
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     canti di esiliu  notte di guardia  tre picchj si sentaria si ellu ci era un campanellu ava  tu ne devi dorme inde lu to  lettarellu   occhj chiusi e cor  serenu  fendu qualchi sognu bellu   ma lu to  marcellu caru  baiunetta a lu cannone  deve per vinti qualtr ore piglia qui ja fazione  per difende le arsenale  e tuile le munizione   cusi longhi li minuli seculi parenu ore  si arrizzanu le mi arecchie a lu minimu rumore  ind una jamba aggranchita risentu un grande dulore   hai raggione di dorme   quest e cosa nalurale   a te  cosa ti po fa  chi  per cura le arsenale  veghjnu tult a nuttala tre omi ci un capurale    anc a me  niente nun face  chi cunoscu lu mistiere  unn e pe  la prima volta chi e  passu nuttate inticre  cume a la soma pisante si abitucghia u sumere   facciu li sessanta passi  trent a dritta  lrent a manca   affin  di da muvimentu  a sta jamba chi si aggranca   e cusi aspettu e speru  chi ella spunti la alba bianca   aghiu cuntatu le stelle senza scurdanne manc una   possu di cum ell e fatta stanotte la nostra luna   e ava  facciu terzini per mandalli a te  o bruna    ma cosa e stu rumore    di colpu mi so fermatu   spalancu le me  arecchie    u silenziu e riturnatu    lasciami ride  o carina    e un topu chi e passatu   ma cume lu tempu passa fendu versi a te  o bella  digia in in nostru celu  si spegne la prima stella  le me  duie or  di riposo  mi toccanu  o brunarella    prufitta ne vogliu dunque per discioglie li me  scarpi  stracquammi sopra una panca  o annudatu cume i sarpi   e scrive sta puesia di modu chi ellu un mi scappi   indentr una jeltarina  stasera la mettaraghiu   e perch ella i ti trasmetti  o divinu fior di maghiu  centu mila dolci basgi eiu ci diponeraghiu 
+  s
+    </p>
+    <docAuthor>
+     M. Alessandri di Chidazzu
+    </docAuthor>
+   </div>
+   <div n="7" type="poe" xml:lang="co">
+    <p>
+     aiutu    oramai  so sei anni chi in corsu scrivacciuleghiu  pocu e micca aghiu  mparatu  mi ne vo di male in peghiu  la anima di a puesia un suggiorna iu algeria   passu ore sane sane per accupia tre filari   un ci possu catajunghie   credilemi  amici cari   bellu fruttu unn ha mai datu  lu alberu sdiradicatu   in sli loghi maladetti ci corre  gni malalia    e  ranocchie e le zinzale  canlanu cun franasia nolt e ghiornu  bella  bella   facenu la so  pagbiella   e quessu lu vanghigliacciu dura le estate e lu imbernu  a vi dicu franca e schietta  a mio musa e inde lu infernu  di musa corsa pruvisti   ajutatemi  o muvristil  sa evisa vogliu scrive  a lu nostru minicale chi ellu mi mandi la soia  chi la meia canta male  allevata a la aria fresca  e la piu chi sende e vale   quand ellu la sentera sebbiu di ja riventosa  succorsu mi mandera   chi la soia e laziosa    naia a pede di lu cardu   oh  quant ell e graziosa    e ghjsippinu guglielmi  amicacciu e paisanu   speru chi ellu un manchera di dammi un colpu di manu   avera cumpassione  di u so  caru pughinlanu   mi ricumandu a mertinu  chi a soia giranduleghia  oghie si trovain muntagna e dopudumane in pieglia  cambiendu spessu di clima  piu che le allre quessa rima   e tu  caru sampetracciu  ferei nice di un sente   perche  dopu  a sai he   chi ne dicera la jente  avendune abbandunaiu a ghjilormu lu esiliatu    custindi canta lu cuccu u ciocciu e lu russignolu   ci cunta la turturella incu lu maturaghiolu   e la meria chiuchiurteghia ind un solcu di fasgiolu   avale  sapendu lutti  chi la mio musa e majata  le impussibile ferete  da chi ella sia risanala   chi  solu unn aghju pussutu    aio mandatemi ajuiu  ghjlormu
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     induvinella  una cosa cusarella  chi in  gni cosa moltu si usa  ne riluce come stella  in la stanza bughjcosa   sia longa o curtarella   entre asciutta  sorte infusa  e si ella avanza la notte   ancu capi rossa sorte 
+  s
+    </p>
+    <docAuthor>
+     U Sardignolu
+    </docAuthor>
+   </div>
+   <div n="9" type="div" xml:lang="fr">
+    <p>
+     giurnali strade quant au resenu routier il y a des annees que nous reclamous vainement du conseil general une politique routiere qui soit degagee des contingences electorales il suffit d examiner une carte consciencicusement mise a jour du reseau routier de ja corse  nous ne parlons ici que des routes departementales et des chemins vicinaux  pour constater que c est un veritable echiquier  elle route bien entretenue sur dix kilometres devient brusquement impraticable sur sept a huit kilometres pour reprendre ensuile un aspect normal  vous l avez devine elle traverse un canton qui n a pas bien vote  en certains endroits meme la chaussee s arrele brusquement elle ne va pas plus loin  par contraste vous decouvrirez des chemins parfailement carrossables qui desservent un electeur favorise un hameau bien meritant et sur lesquels il ne passe pas dix vehicules par an car on achete aussi bien un groupe d electeurs avec une place de cantonnier ou de facleur rural qu avec un troncon de route   h omessa  l eveil de la corse  funziunarismu la corse a aussi son fleau specifique et il est encore plus redoutable en ses ravages que le criquet pelerin honni des colons algeriens ce fleau c est le fonetionnarisme  depuis que la corse est francaise l elite de ses enfants s est consacree principalement aux fonctions administratives  n empoche que si consideree sous un certain angle la france a interet a pouvoir recruter dans cette pepiniere intarissable un personnel administratif de premier plan il n en est pas moins vrai que l'exageration de cette mentalite speciale aux corses constilue pour notre departemeni insulaire une veriiable calamite le fonctionnarisme vide ja corse de ses energies les plus actives et par le nepotisme qu il determine est a la base de celte sportule politique qui pervertit le sens social des insulaires  la france porte une grande part de responsabilite dans cet etat de choses infiniment regrettable si les corses ont pris l habitude de se detourner de labeurs producienrs cela tient surtout a ce que l etat n a rien fait pour inciter les insulaires a exploiter eta developper les richesses naturelles que cette rude terre contient en abondance   f lefevre  l avenir de la corse  u dramma corsu en corse l homme n est qu un paria un instrument entre les mains d aventuriers professionnels il ne vote jamais pour une idee mais loujours et exclusivement pour une personnalite aussi mediocre soit elle c est grace a la corruptiou par l argent par la menace c est grace a l ignorance que l on maintient le peuple en esclavage  c est grace a un bourrage de crane systematique c est en employant les procedes les plus ignobles que les politiciens sont arrives a dominer et a asservir les honnetes travailleurs que nous sommes  a un rythme qui s accelere la corse marche rapidement vers la ruine vers la fin nos plaines jadis si fertiles sont aujourd hui le foyer du paludisme l homme le plus courageux le plus resolu fnit devant la malaria devant la misere les routes les chemins de fer sont dans un etat lamentable l agrieulture est delaissee  la terre ne nourrit plus son homme nous assistons a l exode massif des jeunes vers les grandes villes de la metropole vers le servage vers la misere  l lle de beaute l ile enchantee n est en realite qu une ile miserable sa situation privilegiee la douceur de son elimat la variete de ses produits lui permetiraient certes d'occoper une meilleure place mais a t on jamais encourage quoi que ce soit  quand cessera ton de precher l abandon  tout dernierement encore des quatre coins de la france er nombre considerable les corses ont ete voter ils ont foule ion sol pour achever de sanctionner leur esclavage une fois de plus ils t ont vue belle sous ton voile de misere mais quel souvenir ont ils empor 16 sinon celui de leur soumission qui est desormais complete y les elections chez nous c est le marche du betail humain c est ia fievre des grandes journees qui se propage a travers le pays avec un roulement de tempele  a l heure ou ous les peuples tendent a s emanciper il est penible de voir les gorses dormir avec inconscience sous le joug qui les ecrase  les politiciens jouissent je peuple gemit le peuple est divise ses maitres soni groupes leur adversite n est qu apparento en realite ils forment un bloc homogene puissamment organise et parfaitement discipline  a ja chambre nos deputes defendent les memes idees et les memes principes devant les electeurs ils se font la guerre c est tout de meme assez edifiant soulignons avec force ce contraste paradoxal et concluons avec logique  la politique de clan continue son oeuvre nefaste la corse se meurt et se depeuple  les jeunes gens las d attendre une amelioration qui ne vient pas s en vont au hasard tenter l aventure ce n est pas le flux qui les emporte ce n est pas l ambilion qui les chasse c est la necessite la vie impossible   relevons la tele unissons nous entreprenons une action locale de grande envergure nous balayerons comme feuilles mortes les mannequins qui nous representeut an parlement une fois debarasses de ces dangereux demagogues nous pouvons acculer les gouvernants les mettre au pied du mur 1lfuudra qu ils nous aident ou qu ils se demasquent nous instruirons l opinion mondiale et les dirigeants de la troisieme republique diront aux yeux du monde ce qu ils comptent faire de la corse et des corses  georges branca  l echo de la corse
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="10" type="art" xml:lang="co">
+    <p>
+     sterminiu di a truta  annu passatu avemu parlatu longnmente  in varj articuli  di u sterminiu di atruta in corsica  esaminendure certe cause e cunseguenze  puntencu u ditu sopra u brisgiolu marcitu di a justizia  cun  unghia di speranza chi questa si discitassi e fa macaru uti sembiante di cacciamossa per intimurisce i sterminadori   un fubbimu i soli  e di altri cunfratelli di la isula ci ripicchianu oghic cume noi  scandalizzati di vede cio chi si passa a stu suggettu  i  un bastava chi rete  ritini  nassini e scalafri pruibiti si pettinassinu i nostri ricchi fiumicelli  attempu 2  pesca a e maniccie  fendu torte e sgorghi   ci fermava o  mancu a sumente per lu annu dopu  e in piu  si fermava qualchi truta grossa in li pozzi funduti e mal piscatoghj  oghie  tutta pescia chiuga cume grende colla a gallu cu li occhj sbiancati da i piu variati toschi  duve a calcina e u crugnulu di a noce un so abbastanza putenti  si adopra u patellu  lu ossidu di rame  a javel e altri prudotti chimichi chi abbelenanu fiumi sani senza lasciacci a minima coda  questu ha occasionatu  in piu  morte di bestiame e ancu grave intusicazioni umane   quist annu  a depredazione e stata piu furibonda che mai   u fiume di ascu  quellu di casaluna  u vecchiu  u tavignanu  u golu  u fiumaltu  u fiumorbu  u liamone  a gravona  u prunelli e cent altri fiumicelli hanu ricevutu a sperge murtale   ecci statu una sola arrestazione  una sola cundanna    ohimella    i sterpadori hanu e jambe a pulizza ha altri capi  quand ella un si pa gode u frescu di u pullone o intistassi a a maniglia   eppo simai       le  simai un li cumbene di incrus  ciassi a camigia  currendu appress a  ssi jambuti  postu chi  ancu riuscendu a metteli a manu addossu  i tribunali perdonanu   ogni piscadore e un elettore  quessa basta per esse assoltu  a pulitica regnendu in ogni locu  e e trute unn avendu partitu  ad elle sole tocca di paga u fe u   unn allunghemu tantu a fune e siamu precisi   si a justizia si scolpa cu lu azzingu di un pude chiappa  ssi sterminadori  li abbelenadori sopratuttu   li ne deremuu mezzu infallibile da chi ellu un si ne franchi manc unu   ecculu qui nettu e schiettu    cio chi occasiuneghia stu stermin u e lu atticchiu di un bonu prezzu   chi face u prezzu e lu abbramitu cunsumatore  perche u piscadore  ellu  si infischia di magna trute  u piscadore vence pocu e nunda a i particulari per un fa pisulelli in qua e inda  u grance assurbadore e  hotel o restaurante  dunque un pieculu esi mine da un sp cialista  ogni tantu  a e trute crude ci sti loghi di cunsumazione  e a pignatta si scopre  chi u restauratore palesi le abbelenadore chi li vende a truta  o fa paga ad ellu a salza   almenu chi  ssu restauratore  anch ellu elettore     e si eli e cusi  mettimuci a mente ir  pace  un ci sera piu bisognu di parla di trute ne di anguille 
+  s
+    </p>
+    <docAuthor>
+     Altore
+    </docAuthor>
+   </div>
+   <div n="11" type="feu" xml:lang="it">
+    <p>
+     preti  frati  montanari  pianibiani  gente insomma di ogni generazione   e chi portava rapporti dai posti avanzati e chi esplora  zioni proprie  fu detto  e beneche presso i medici la menzogna si converte sovente in virtu  e tuttavolta le amore di patria possiede maggiore prestanza   imperciocche in grazia sua la spia in ogni tempo sin ogni luogo obbrobrio della natura umana  diventa sacra come quella che senza gloria corre supremi pericoli   talora senza premio di sorte  e sempre senza premio  condegno dei rischi ai quali si espone  taluni partivano con ordini  altri con inviti o preghiere o istruzioni   brevemente contemplando cotesto brulichio  e lo altro che sotto la sferza del sole facevano allora le formiche  tu non avresti saputo se quello a questo  a questo a quello potevasi con maggiore convenienza paragonare   altobello in compagnia degli altri ufficiali da mattina a sera attendevano ad ammaestrare giovani e vecchi nelle mosse militari  da principio incontrarono difficolta e quasi disperarono   ma quando  cessati gli esercizi a solo  i militi si agglomerarono  si spiegarono in ordinanza e condussero sul terreno tutti gli altri movimenti che sono massima parte delle arte  soldatesca  non e da dirsi il gusto che ci pigliavano   anzi non trovavano verso di farli riposare ne manco nelle ore piu calde   ritiratisi gli ufficiali  i soldati continuavano da per se soli mettendosi a capo quelli che si palesavano meglio prestan ti  clemente paoli  come gli altri  contemplava da prima giri e quei rigiri  e rideva a fiore di labbro quasi sprezzando   anch egli insegna  ma a spaccare una noce messa su diun ramo di larice a sessanta e piu passi di lontananza  eipiu vecchi stavano con lui  altobello  guardando i tiri maravigliosi di clemente  roto come dall acciarino  quando egli scatta va il cane  oltre la vampa e il fuoco della polvere accesa prorompesse un lampo che abbarbagliava gli occhi  e non sapendo a che cosa attribuirlo era voglioso di domandarglielo   la occasione non si fece troppo aspettare  dacche clemente considerata la solerzia del giovane  e preso in buon concetto gli esercizi militari  quando ebbe a confessare la efficaciaincomincio a ricercare la compagnia di lui   a vero dire altobello da parte sua non senti per qualche giorno minore repugnanza per clemente  gli mettevano ribrezzo quel viso truce riarso dal sole  gli  occhi chiazzati di bile e di sangue  ora socchiusi e come coperti di velo ed ora sbarrati e fulminanti  ma poi gli piacquero quel maneggiare disinvolto che clemente faceva dello schioppo come se fosse un giunco  e il tiro infallibile  ja modestia  il valore celebrato da tutti ed anco il suo ragionare  pero che egli usasse armare la mente di sillogisimi taglienti come il suo stile  e battagliava feroce con le argomentazioni del pari che che con le ferite  la gente corsa  che non temeva nulla  pigliava soggezione di clemente  onde appena lo mirava comparire soleva sussurrare     bada alla burrasca  il signor clemente e alle viste     per ultimo lo affetto di clemente trabocco per cosi dire sopra altobello  allorche un giorno quegli avendolo pregato di attenderetanto che ei potesse recitare le sue orazioni  aitobello gli rispose     e non potrei pregare con voi    ed egli  con tutto il cuore  figliuol mio  con tutto il cuore  da quel  momento in poi il signor clemente si compiaceva tipetere che il signore in sollievo della sua vecchaia gli aveva donato un figliuolo  allora come e da credere altobello trovo il destro di interrogare clemente da che cosa nascesse il lampo che balenava dal suo acciarino  sorrise a tanto il vecchio   e soddisfacendo volentieri al desiderio dell alando gli disse    mirate un po   che cosa vi parrebbe che fosse questa pietra focaia      non so  mi sembrerebbe a prima vista cristallo     giusto   avete indovinato   e cristallo di rocca  e la natura lo foggia pentagono  che meglio non potrebbe il lapidario   lo tro vano sul margine dellago ino  ed anche talvolta nelle montagne di istria   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

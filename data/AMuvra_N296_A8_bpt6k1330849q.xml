@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330849q
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330849q
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 296 | Année 8
+     </edition>
+     <date>
+      1927-09-01
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Annu VIII — Numaru 296 Esce ogni dece iorni i i | 1° Sittembre 1937  E Sin Ces. lu sers PR | li use  ZA A 017 e E Sa 5 da ARE i, È E  Di PÉ ap à + CE TS Mau PUR siii a fioe S€&lt;  i E dig faz sh 4 PD ;' fra D“.  di SENTI Tali IP da a CA i E È son CRE ER Mia ER . E ila &amp; nei Gi E Cu DAME bcn  è E u sò : Ù pt MELA A  GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI:  In Corsica. . + .. . . . . . . . . . 12 franchi  In Francia, . . . . . . . . . . . . 15  A lEsteru  U Numaru:5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  38, Corsu Grandval 38. — AIACCIU  Contu currente cn a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     1 libri  rime  di u sampetracciu  u spirtu di stu novu libru chi fala in lu scurzale di cirneella cume un preziosu rigalu  u truvemu ne lu introitu chi petru rocca  cu penna trattenuta e cuncisa ha appiccatu a u cataru di stu chiusellu postu a fori nustrani     a chi un cunosce u sampetracciu e segnu chi ella ha persu a filetta di vista   predestinatu da paterna ambizione a fa u duffurone o lu avucaticchiu  ghiannettu  attempu chi u pelu mortu li spunto in faccia  lascio in piantu maestri e prufessori e si ne ando a puta a so vigna   le adolescente avia capitu chi le amore di u paese e famore di a famiglia li bastavanu per spannalli a mente e scaldalliu senu   a so antica casa  tt so caru san petru  ascosi da i pulloni frunduti  e le orizzonte di y so purtellu li fecenu da universu   a cuntempla u spettaculu di e pentiche e di e sarre cu li incantevuli mutamenti di e staggione  ghiannettu si senti zirla in pettu u frizinu leggeru di a puesia   soga un ci era da cunfonde lu occhju umanu chi  da orti a macchjoni  lasciava capriula u so sguardu in li vangoni di u vecchju e u facia sale a salti muvrelli fin a i nivaghj di monte di oru   da tandu u rimitu chiappo a cetera  eiso accordi spartonu li echi di u rughjome   4 filari senza gromuli  stacciafi cu a tela setinaghja di u so vergine talentu  e canzone carche a malizia  a satara e a speranza  sbrullonu cume causgiule da u capifocu liccinu di u so core   cu ste pagine insumate a deda di large  u sampetracciu lampara a luce di a fiara cirnese in le case affumicate da i tizzoni di legna tarulata e fara canta i rataghj carchi a lezzine di tristizia   u libru di nostru fratellu jannettu e una di e piu belle scandule castagnine di u tempiu di a nostra resurfezzione     a fata chi u tucco di mazzetta  u sampetracciu a ci face cunosce subitu cu a so  prima puesia  perche cantu  apartu e sarrende cu ste chiave  pudemu percorre li andati di u giardinu fiuritu e pampanutu  ci respiferemu cu giubiliu i naturali profumi di ogni corolla  di ogni rambella   qui  niente sgotta da alambicu ssoticu  niente e duvutu a traduzione o adattazione pocu oneste  a scimiesche imitazione  ogni trattu e arradicatu a u scogliu di u pensetu  ogni sentimentu sguilla da u sciappale di u core  ogni mazzulu  ogni cullana so eolti e  intrecciati  cu modu originale  da a schietta delicatezza di un sintimentu sinceru  u sampetracciu salticchieghia cu anca sicura di grillu sittimbrinu   nisun falzu accordu in la sinfunia  nisun inciampu di misura   i quadretti  ricchi di culore  restanu mediterranii senza chi mai la imposta cultura nurdinca i possa ingrisgia di nebbia e di malinconia   eccuti un branu di siccina chi abbagliaga lu occhju e mette  da tantu chi ell e caldu e assulanatu  lu asciuttu a  palastraghia pe u restu  tocca a u lettore a sceglie tra i diciassette puemi chi cumponenu a prima parte di stu libru quelli chi  imbalsamenduli a mente  li prucacciaranu le emozione a piu intensa o a piu dolce   u registru di u cantore e largu da e note ascose di amor maternu e di ume piu chiucu e i trilli satirichi di pulitica  di i pueti so    e di cantari falzia le acuie vuciarate di e tre piaghe  duve si e da accarezza i timpani i piu dilicati   ma  pagatu un tributu a le arte in ciocch ellu po esige di piu perfettu  ghiannettu un si e scurdatu di lu omaggiu duvutu a u spirtu corsu  quellu chi  ritiratusi ingiru a i fuconi ci e rimastu inespugnabile e balla annantu e ziglie a u scrucchjtume di a scopa e di lu albitru  furlane maliziose e trainana di amore  i quattru cinquesimi di u volume cu strufulette  punte di minutu  canzone e induvinelle li so cunsacrati   vistutusi di pannu lanu e calfatusi u berettu  vuluntariamente e necessariamente grussulanu  notini conta e canta per ghiente sana chi  vergine di vizj un teme le espressione culurite    cuntintemuci di riproduce stu stalbatoghiu   e  fra centu sistine chi  dighia  sbrullanu per si pughiali  sti poghi filari di a nanna di oghie   u libbru di u sampetracciu  cum ellu dice petru rocca  e una di e piu belle scandule castagnine di u tempiu di a nostra resurrezione   satara mordace di una stolta mentalita insitata nant a u ramu liccinu di a razza    a morale  quella austera donna chi pone le indice di u rispettu nant a e labre troppu appinzate  viaghia sempre a fiancu a le anfarte venachese  eccu cume u sampetracciu presenta u teatru corsu  a so creazione    tagliaremu a la accorta cu stu gridu  branu di e tre piaghe chi mette anudu u core di u pueta e palesa u so nobile pinseru  
+  s
+    </p>
+    <docAuthor>
+     Pasquale Leca
+    </docAuthor>
+   </div>
+   <div n="2" type="poe" xml:lang="co">
+    <p>
+     babbu  chi forse nun pensava mai chi tuttn in so circondu mi allacciava   ripetia quandu la accumpagnava     studia  figliolu  studia  ampara assai       fd eiu  di pensiero in altru locu   ascnltava e canzone di li acelli  cuntemplendu a culori  cusi belli  di quellu sole chi ciuttava in focu   fu tandu  o cirnu  chi pe a prima volta cantai innamuratu a to bellezza   e tu ghielosa  fendumi a carezza  timpadrunisti di a mio mente stolta    
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="3" type="poe" xml:lang="co">
+    <p>
+     u veru amicu e quellu chi mai pena   cu dubitosa fede  di u cumpagnu    e quellu chi unn aspetta ricumpensa in lode  sciaccamanu o pur gnadagnu      la amicizia   a u giuiosu altu rilievu di una pricisa pittura       i canti allegri squillann  pacelli   salticchiendu fra i  alzi intricciulati  pizzicanu i granelli inzuccarati  e cu i vindemiador  cantan  anch elli   eccuci  in fila  e nostre cursacchiole carche  ma snelle e di vivu culore   correnu a saltu in saltu a e fragnaghiole dave lu succhiu schizza e da licore      vindemia 
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="4" type="poe" xml:lang="co">
+    <p>
+     pienghie di una campana u picchiu lentu  vicin a un legnu troncu  un ombra nera singhiozza mormurendu una prighera     so i morti  ghiornu di tristizia e pientu     a mente corre altro  e tutt i cari chi aghiu vistu spari li fanu mottu sfilendu tralucenti in li sudari    i morti 
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="5" type="poe" xml:lang="co">
+    <p>
+     in la aria trimuleghia la calura  chi vi risembr a lu occhiu un fume chiaru  un scuscica una foglia di a virdura  chi u sole ha stramurtita tutt a paru   u grillu trizzineghia a locu ascosu   e rompe u gran silenziu di u mezziornu    di la arba secca u sentore affamosu vene da i campi osciati di u cuntornu   u bestiame corre  sbambanitu   in cercha di qualch occhiu balluttosu    un corciu sumerellu musinosu  strappa ogni tantu un cardacciu sticchitu   
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     accumpagnendu a ziu manigadore   a la pesca di canna a u finme vecchio  nennetta li lento nn cortu rumore dicenduli     scusate un corpu tecchiu       scusatu si  cumpagnu  disse quella  musica ci ne vole di ogni sorie   ma senti     si u jornu di a to morte ti intarranu ci un cantu cusi bellu   li onori  o caru  li averai freschi    perche ci sara piu porci ca veschi  
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="7" type="poe" xml:lang="co">
+    <p>
+     ninni  o figliolu   tuitu di la to mamma chi piu ti feghia e piu ne ha la brama   un agnulu ti accarezza    dormi  dormi  a mio richezza    ti vesteremu bi drappu lu piu fine   e un purterei in pede che buttine   cappelli di lussu in capu     nanna  caru di u so bapu    per chi tu possa piu ca qui studiane   ti mandaremu  a le scole luntane  finu a chi ti appia u brevettu     ninni  nanna  o figliulettu    a lu serviziu diventerei sergente    in permissione ghiunghierei suvente cu lu to bellu gallone    ninni  nanna  u mio paone    dormi sicuru   li appoghj ci saranu    tn prefettura  per noi fanu e disfanu    ci un pezzu di carne in sale avem ancu u tribunale    si tu si bravu   or taudu  o figliulellu   mi invierei   gni tantu un mandatellu   per un fammi purta in bocca   chi  in paese  ognuna toeca i mi aviserei  ad ogni to venuta   chi io possa corre  a pora cunvenuta  in auto fin a la gara fendu fume  focu e fiara   per maritatti   si tu mi stai a sente   ti buscheraghiu bellezza  robba e ghiente   dota in soldi  un bel casale   chiosu e vigna in fiuminale   i quindeci anni  ne passeranu prestu da chi tu possa  scappa qui  lestu lestu   ci una bella ritirata e qualchi somma allatata   ti scialerei una vita sebbiata   cu a to cannetta   fendu la spassiata cu i megliu di in paese   nanna  o fiore sceltu a prese   e viderei  chi tutti li elettori  vurranu datti   per ave i to favori   u stampone e la merria     nanna  chi la ora saria    
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     ci si contanu e cose di u paese   corsu schiettu  quellu chi ci ha nannatu   ci si canta u lamentu  u serinatu     si cumedieghia u corsu ultra francese    un li presenti donne petti nude   cu gesti o parullaccie da russisce chi troppu o troppu pocu omu capisce   e per a giuventu piultostu crude  
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     o muvra  alza la voce chi elli introni da i lidi di u tirrenu a le muntagne   disceta u vecchiu corsu a li fuconi  e mostrali di cirnu je campagne   solu salvaticume ava ci nasce   appuntu si la capra ci po pasce   o povari granaghj senza granu    corci mulini tutti rifalati    e sparitu lu stacciu  e di u zanu ne hanu fattu cirotii pe i malati   di lu armacciu si infraciconu pale e ghiuvat ha per ceppu di natale   
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     quadretti  sabbatu  e sabbatu  lu jornu di lu pane    sottu a lu fornu ci e donne e zitelle   facciette ridenti  umide e sane   occhj ardenti eume calisginelle   hanu cusi  tutte le settimane   manu in levitu  a lu chiaru di e stelle   ali primi rumori di la mane   intavulati so  pani e bastelle   a bocca calla e rossa e mondulata    a pista bianca in tavule e spianata  corre lestu lu manicu di a parla   eccu lu nostru pane savuritu    ma purtantu lu mio core attristitu   pensa chi piu di un fornu si ne fala    
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="11" type="let" xml:lang="co">
+    <p>
+     lettera da parigi  caru amicacciu pipistrellu   e statu ci un veru e gran piace chi  aghiu ricivutu e lettu a to lettera di u 15 scorsu   ma perd  mi dai su i narbi  in tutte le lo lettere nun fai che ripetimi che ti un capisci micca che mi possi annuia in parigi e che possi soffre tantu di esse cusi luntanu di a corsica   oh  carissimu amicu tu chi un ne hai mai lasciatu e to bell ajacciu  un ti puoi micca fa una idea  cusi cunfusa chi ella sia  di tarmenti chi elli induranui povari esiliati chi un tristu destinu ha lampati un bellu jornu in terra straniera    siccomu un si sa cos ell e una mamma che quandu quessa e morta  cusi nun si sa cus ell e a patria che quand omu ne e luntanu  simai tu fussi un ghiornu ubligatu a fughie la isula fiera  simai tu venissi qui  allora capisceresti ancu tu cos ell e a vita di u sradicaiu  ah  cume tu sarai cuntente quellu jornu di senie in ju fondu di un carrughiu persu di parigi  una parola corsa chi ti ramintara a lo povara patria  ancu tu pienghierai cume me a sera dopu u lavoru  ancu tu li aghiuvitarai annant a u to tavulinu e pienghierai pensendu a u bellu ajacciu inturniatu di fiori  a u corsu napulio duva ti ne andavi a sera a tiralti dui passi   e simai lasci cula u to core  cume tu pienghierai pensendu a la ajaccina chi la aspetia cu speranza   allora  caru pipistrellu  allora solu capiscerai cosa ell e a patria  e mi crederai quandu ti dicu chi luntanu da ella nun ci e felicita pusssibile   parigi  parigi      co  a e parigi   cosa e paragunatu a u nostru ajac p   ciu    ah  quelle spassighiate a capella di i greghi  a madonna di loretu a sanghiaseppu  a u salariu   ah  quellu golfu unicu a u mondu duva la acqua turchina annanna u nostru paradisu  e duva la sera vi pare di sente u dolce cantu di e sirene    no   no   mai un ti ne pudarai scurda  e ancu tu cantarai ad ogni mumentu a bella canzona di maistrale     ajacciu bellu    luntan da te nun si po sta   e i  credimi puru  o pipistre  u piu bellu mumentu di a to vita sara quellu duva  di annant u battellu vedrai spunta cula a li orizzonti  i isule sen  guinare allora vedrai cesa e ajacer   vedrai cosa e a corsica  vedrai cosa e a patria  ma ava di cosa voli parla tu    a i  a santissima madonna ti guardi   e faccia iddiu onniputente che mai nun sii custretiu a lascia la to casa    mi fermu qui per oghie  e ti abbracciu di core   u to cumpagnu caru e fidu   mi  alessandri di chidazzu
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="12" type="poe" xml:lang="co">
+    <p>
+     le amore di a patria  a pasquale paoli  o mio anima  colla su i monti di i lacrimi  e  finche periscera in la strada di gloria la eroica giuventu  pienghj tutti i to pienti     terra di a patria  di cui ogni grana piena di sustanza ha nutriiu  duiaiu  ispiratu a pianta umana  orizzonti di loghi nativi chi pe i mio sguardi cumporianu lu infinitu    parchi  si voi fissati pocchj un si vedi che u soli chi trionfa in lu slanciu di i monti turchini e di i verdi pini  altri stelli che quelli chi u guardanu  caldu in le notti di estati  frescu in lu veniu di invernu   terra sacrata  sei tuttu u mio mondu    u firmamentu  grande cum ellu sia  unn e che u suggillu sublime di u core chi u guarda   cusi  le amore di a patria e un amore per lu universu  attaccatu a la piu grande fede  a u locu precisu di a nostra nascita   populu meiu  figliu meiu sparsu  palpitante  sanguinendu  unn  hai da more      so a pairia  un so a terra  unn ingutuppu micca  pigliu   da i cimi raggiosi di bavella a u locu duve 1 cipressi si torcinu sottu a u pesu di e culombe  pesu e azzegu a vosira cennera immurtale     cio chi aghiu da mette sopra a a vosira tomba di eroi  eccu     mi hanu amata e so morti    cu mecu  jemu st ammirevule cuncorda  ma eccu per te a risurezzione  un poi more   sei tu cascatu     eccuti rittu in la storia ligatu  strintu abbracciatu a mammaia   populu meiu  cirnu ti parla  cos e cirnu      cusi parla a corsica a i so figli    anima meia  sta su i monti di i  lacrimi  e  tantu chi un periscerasopr a sirada di u mondu la eroica giuventu  pienghj pienti chi un si ponu cunsula 
+  s
+    </p>
+    <docAuthor>
+     A. de Peretti
+    </docAuthor>
+   </div>
+   <div n="13" type="poe" xml:lang="co">
+    <p>
+     corsica  a timpesta si e mossa  e lecce e i cas  tagni signozzanu sopra a i fiori  e tutte e lacrime u fiume e si arricoglie cu futfiidulori   ogni foglia li conta a so pena  e futfe versu ellu si inchjnanu perche un ponu sustene u pesu di u turrente  tutfe  senza forza si chjnanu in la acqua di i so pienti  di tante chi elle eranu piu a nulla so fermate  perche  arranchendune una  apressu venenu tutte   ma u turrente un le sente ne mancu e po succorre perche viaghia cu u ventu chi u face schiuma di furia contru ad ogni petra chi la arresta per asculta u so mughiu  bi  ma u soie  pietosu pe e povare pranfe  piu putente che u turrente  e chjna inundettu di focu     e u fiume  fulminendu sottu a u sole  fughie tuttu stellatu di oru   ma ha vistu una vergine  una zitella in le so onde  piu bianca che a neve di e muntagne chi ellu rimira sottu ad ellu  spricchiaie da un altru celu    e grida  e si lamenta perche diggia un la vede piu   chi cundanna e a meia  sempre corre senza vulta a testa    sempre apressu a nulla  lampammi in mare senza sape duve vo e diventa un niente     e a fiori carchi a diamanti  e foglie cu futte e so perle si alzanu  oncia ad oncia  per ammira sa culomba fatta di tante resuie    ma perche unn esse piuma ed esse fiore  perche un pude bula e basgiai1  ah    la acqua sfughie e a si ne porta fiera  fra duie onde celeste  perche unn aspetta che la abrugata per sfuglia eso rosule a le amore  
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="14" type="art" xml:lang="it">
+    <p>
+     canti popolari corsi  la poesia popolare dialettale della corsica  nella sua essenza spiccatamente italiana  ha sempre suscitato negli studiosi  un vivissimo interesse  primo ad occuparsene fu il nostro grande niccolo tommaseo al quale fecero seguito dipoi altri non solo in italia  ma anche in francia  in inghilterra ed in germania  intorno al dialetto corso  scrissero con competenza  i professori guarnerio  salviani  merlo galletti  bottiglioni e biscottini  naturalmente nell isola i cultori della nativa parlata sono legione   fra questi emerge g b  marcaggi  direttore di a biblioteca municipale di ajaccio storico e letterato di alto valore egli ha ragcolto con infinita pazienza e grande amore  i piu noti canti della sua patria  nei vari vernacoli che vi si parlano  il volume che si intitola  lamenti  voceri  chansons populaires de le corse  j  rombaldi  ed  ajaccio  fr  15  e un omaggio devoto al fecondo e fantasioso genio poetico di quella valorosa razza isolana  latina per eccellenza  ricca di tradizioni gloriose  impregnate di civilta romana      l autore  per maggiore comodita ed intelligenza dei suoi letiori francesi  ha posto a lato di ogni poesia  una traduzione nella lingua di racine   per noi italiani  una traduzione sarebbe superilua  dato che il dialetto corso si riattacca al ceppo tosco umbro  misto ad alcune parole di origine siciliana  spagnuola  greca od araba e ad alcune altre di sapore gallico  frutto della lunga dominazione francese  basia cambiare l uin o  il vin 4 e l in 7  e si avra quasi dell italiano   la poesia corsa come il marcaggi stesso scri ve  in una dotia e smagliante prefazione al libro  si compone di lamenti  voceri  nanne  canzoni e serenate     1 primi due sono canti funebri improvvisati da donne  davanti alle salme di parenti o di amici  siano essi dicessi di morte naturale o di morte violenta   e qui va tenuto conto che in corsica la morte e senfita con intensita    essa domina la sua storia    l origine di questi canti si perde nella notte dei secoli   infatti fre gli antichi romani ed i greci  e fors anche presso gli etruschi  erano assai in voga  nell isola lo uso di piangere i defunti risale ad epoca remotissima  a causa della mancanza di stamperie nel paese  sino al secolo xvhi  questi lamenti e voceri  espressione genuina della anima  popolare  vennerotra mandati sia con copie manoscritte  molte delle quali andarono tuttavia disperse  sia oralmente di generazione in generazione   il vocero e speciale della corsica e si compone di strofe di sei versi ottonari ognuna e puo anche essere dialogato  come si e detto sono cantati da donne le voceratrici  le quali hanno un riscontro nelle prefiche romane  generalmente si tratta di donne del popolo  per lo piu incolte  per cui la loro improvvisazione e limitata a sentimenti  idee e imagini  che si ripetono sovente  sgorgano tuttavia dalla loro bocca parole dolci e tenere  di ira o di sdegno  a seconda dei casi dolore  compianto  odio  vendetta  sono i motivi dominanti   per avere tuttavia un certo valore letterario  il vocero  deve essere improvvisato da una donna dotata di vero genio poetico e di queste nell isola non ne mancano   le nanne sono melodie lente  cantate dalle madri e dalle nonne intorno alle culle dei bambini per farli dormire   e ve ne sono di bellissime e come di solito improvvisate  a questo genere di poesia appartengono le filastrocche    le quali servono invece a tenere sveglio il bam bino facendolo saltare su le ginocchia  le canzoni  sono generalmente poesie satiriche elettorali  piene di sano umorismo e di sottile ironia   le serenate  sono canti di amore   per questo genere di composizioni si rivelano talvolta improvvisatori  montanari pastori  con una sorprendente freschezza di ispirazione  l improvvisatore piu in voga ora nell isola e minicale  domenico andreotti  di evisa il cui padre  un pastore illetterato  custodendo il proprio arrhento cantava ottave del tasso e dell ariosto  tuttavia  queste serenate sono piuttosto rare  i corsi costretti quasi sempre a maneggiare la spada o lo schioppo per difendere la loro liber  ta non ebbero tempo di cantare le amore  due di esse pertanto  quella di zicavo e quella di serra sono rimaste nella tradizione e sono ancora cantate   vi sono poi ancora le foli  vecchi racconti popolari in poesia  dei quali peraltro si ve per dendo lo uso   nella poesia corsa  mancano i canti nuziali e le pastorali igli inni guerrieri od eroici   onn vie un canto nazionale  a meno che non si  voglia ritenere per tale il dio vi salvi regina  il quale e in italiano  il nome delle antore  non ci e noto   lo si canta  da quasi tre secoli nelle parrocchie della isola  in occasioni di feste solenni civili e religiose   venne pur cantato alfronte nella recente guerra   e qui va osservato che non e infrequente il caso  di riscontrare nella poesia corsa  locuzioni modi e detti danteschi   aggiungo che la poesia corsa e poesia canfata a nessuno verrebbe mai in mente di recitare un vocero una serenata una nanna ece  la musica che accompagna queste produzioni e peraltro ridotta alla piu semplice espressione  serve di accompagnamento e di intonazione  ne risulta cosi una specie di melopea  e questo ritmo grave e lento  talvoha focoso  veemente  stimola le ispirazione degli improvvisatori   per gli studiosi di folklore  questa raccolta del marcaggi e una miniera preziosa alla quale potranno attingere con profiilo  molti fra noi 
+  s
+    </p>
+    <docAuthor>
+     O. F. Tencajoli
+    </docAuthor>
+   </div>
+   <div n="15" type="poe" xml:lang="co">
+    <p>
+     un cunsigliu di a mio musa  eiu  a sorte per me fu un ombra  ombra vile e passaggiera   mi paria una culomba   per me fu trista visera  sorte chi aiuta le amore per me un si presto di core   musa  vedi  ti cunfessu sera e mane i mio secreti   sti fatti ti contu aspessu  fatti chi per te so leti   ma per me  bel ereatura  hanu a piu dolce figura   tu cunosci le mio ide e  cunosci li mio turmenti   dimmi se so di un ebre e chi unn adora che li venti  ti tengu da cunsigliere  rispondimi per piacere    a musa  stammi a sente  o bel pueta  per bestia nun ti cunoscu   lu altru jornu  moltuinchieta  mi truvava denir un boscu  rimirendu e belle fronde duve lu acellu si asconde   ne una bella pratalina pascia un cervu la arba fresca   quandu rmi vide vicina  pigliu foca cume la esca    ne scappo  ma bellu prestu si arreghj iu pedi leslu   fermai maravigliata  e mi parse di fa un sonniu    stava ferma e incantata  un so da quale demoniu    ma prestu mi resti contu   vidi un fossu e u cervu prontu   sguilla un saltu ma un ci arrie va   riprincipia  li rinchiede   un secondu  ma la riva un la tocca che di un pede  cume vaglianza ne ha molta  prova pe lu terza volta   un valse a riprincipia u saltu periculosu   ci volse ad abbanduna  cume un cervu vargugnosu  cusi ti stalba o bel be  fiore  qualchi volta indu le amore   sai be cum ellu disse  u gran saggiu salomone quandu prese duie pesce e le jetto in un salone   ne disse  o morale rara      para  piglia  piglia e paral   eiu  di un quadru chi e ben dipintu si innamora lu pittore   da la rima ne so strintu   e abbandongu le amore  ringraziendu la mio musa sempre allegra e mai cunfusa 
+  s
+    </p>
+    <docAuthor>
+     C. Castellani
+    </docAuthor>
+   </div>
+   <div n="16" type="poe" xml:lang="co">
+    <p>
+     pesca a truta cu a mosca artifiziale  un so qui per da cunsigliu    chi un su prufessor di pesca    in lu piattu piscu megliu   gopratuttu si ell e fresca  a  a truluccia di muniagna   e facciu a chi piu ne magna   qui nun criticu ne menu le amatore appassiunatu chi nun sa chi a fiume pienu un val di esse ben armatu  perche a truta unchiappa mosca  in la acqua torbida o fosca   che si lampi in le onde chiare oinlu torbidu  dicu   faccia pur cumu li pare  adopri mosca o lumbricu  le amatore un chiappa truta si ell unn ha la visia acuta   su pesciu tantu vorace ama grillu  varmu e pollu  ma la mosca piu li piace   euso ventre  mai satollu  inghiotte ancu u piscainu  4  quandu a fame l e vicinu   un bon piscador di fiume sceglie lu amu chiucu e forte  sceglie cinnerate piume  lenza di setine torte   un corpu fattu di tiglia a vera mosca assumiglia   invisibile camellu   canna agile e leggera  cu lu piu finu cimellu    tuttu questu cun manera  occhiu  garbu ed attenzione finisce la perfezzione   un si lampa in la acqua chieta ma piuttostu in lu currente  fendu corre a mosca leta   e sempre cu lu occhiu  attente   in un amen a truta tocca  sente lu amu eppoi si sbocca   dunque  secca la tirata   ma pero nun sia brutale sinno la trutta infarrata si ne va cu u materiale  quellu chi suvente strappa  sempre pochi pesci chiappa   quandu la irut e infarrata  micca furia per caccialla  dopu la prima ciuttata   e a p omu a ghiudicalla   si ell e chiuca  fa tirera  si ell e grossa  a strascinera   per burla le trute corse eecu li ultimi cunsigli   per un fa in vanu e corse    piscadore  i loghi scegli in bassu per la apertura   e di istatina all altura    ma sempre di preferenza cu lu tempu nivulatu   ava ti pregu pacienza   e si tu si appassiunatu  sappia chi  e u varmi o piume  corciu chi ha cumpane in fin me  
+  s
+    </p>
+    <docAuthor>
+     U Vecchiu Sindacu
+    </docAuthor>
+   </div>
+   <div n="17" type="poe" xml:lang="co">
+    <p>
+     cunsigli a una giuvanotta  saperai  mi so decisu  a datti li mio cunsigli  di biancu scialbati u visu si tu boli piace a i figli  unn asculta piu li detti  di sti vecchj maladetti   e dimmi  perche tantu aspetti  a mustra li to cusciotti 9 sai be chi i giovanotti   un  sunoscenu difetti   e piu ferei campagne piu ci averei guadagna  ma perche tanl attenzione a piatta la to ascella   si tu boli ave raggione  mostra u crinu  a mio zitella  e vecchiaccie  canta jaga   chi hanu lu capua inmaga1 capelli ne avii troppu   e festi be di taglialii   chi  marchiendu a lu galoppu  un temi di sfarfaglialli   e si ti hai amichi matti   chi matti  un purranu cimieatti     quandu ti faci un vestito  corca e fallu scullaghjain  perche  per truva marito  oghie un serve fazzullan piu pendega e piusi vede   piu lu maritu ci crede    mammaia chi di cerbellu un ne pussede una crle   un vede la economia di stu seculu nuvellu    piu ci e stofa e dipiu costa  unn e che a carne chi unfriigia   mi facenu vene a risa   parlendu di ori jelosi    vai  vai  nimu schisa donne a cori generesi    fa quantu poi serviziu  nimu dicera chi e viziu   un fa calzunettu chiusa  cio qu esiste e naturale     e si sa chi lu rinchiusa e boa u pe a carne iu sale  ma la carne cu la ciuffi un boie sente di mnfia   serai donna cumpita seguitendu i mio cunsigli  e  si lu maritu pigli nanzu la annata finita   tu  cinghjti le fintenne   ellu in fronte  ur par di antenue 
+  s
+    </p>
+    <docAuthor>
+     U Pasturellu
+    </docAuthor>
+   </div>
+   <div n="18" type="poe" xml:lang="co">
+    <p>
+     corsica  di sente sempre  o corsa  la to chiama  a breccie stese dumandendu aita   mi pare di asculia  di vede a mamma  circhendu a carita trista e famita   sentu nu lu mio core entre una lama   da la vergogna mi trema la vita   e spenta dunque  di  la antica fiama     alza la fronte  alo   falla finita    dicenu chi iu si bella e pumposa   perche lasci guasta lu to decoru facenduti passa per bisugnosa    un si e mai vistu un simile abandonu   ma cumu poi tu spera qualcosa si ellu scappa chi po  si io restu solu  
+  s
+    </p>
+    <docAuthor>
+     Tonica di Rostinu
+    </docAuthor>
+   </div>
+   <div n="19" type="art" xml:lang="co">
+    <p>
+     cronaca ajaccina  15 agostu   e feste di lu anniariu di a nascita di napulione si sora te cu particulare sucessu  5 essi  patina  sfilamentu  acula in testa   li cumitatu centrale bonapartista pi a giuventu bonapartista chi so e di ati a depone unacurona a statua di api  pi ratore    dop a  e  messa a capella i   4 dec ore  messa a capella imperia4 penedizione di a bandera di a giu je artista  enti bonap ste i  va ondici ore apperitivu di onore a u  fe napulione  discorsi di u duttore 7 pellegrino  avucatu campiglia  pi iacumu stefanopoli  marcu salini  di menicu spinosi e avucatu palmie sine mezziornu regate organizzate da u golfu  pont  a sera  focu di artifiziu   cumplimenti a li organizzatori  a statua di napulione    a  magnifica statua di seurre chi  dipoi sanni  era straquata in un cantu e stata innalzata in lu peristiliu di u municipiu duv ella face grande figura    ringraziamenti a u cumitatu bona  ss   partista per sta cummuvente iniziativa   la acqua     sempre scarsa piu che u vinu  a gravona un tira micca  dicenu uni pochi  i paisani innacquanu j chiosi  accertanu di altri  a turbina si  ra i tre quarti di u currente  palesanu i tennici   u fattu si sta chi semu a lu asciuttu   per sti tempi di caldu a 42 gradi a la ombra e una vera disgrazia  un piriculu e    una vargogna   u gaz   i candilabri so fiacchi  in la notte scura strignenu e palpebre e pare chi elli si voglinu addurminta   gattivu carbone  ecunumie o altre ragione  ajacciu aspetta sempre u chiar  di luna   statinanti  ghiunghienu e partenu  da africa ne e scalatu 5oo di piu ca annu   a si attepanu par sti paesi duv elli sterpanu fasgiulini  pomi di oru  zucchette e melenzane  e duv ell attagnanu e surgente di aqua diuretica     povara jente ridotta  ricca o povara  a spaperdesi cume i judei per se francie nere e gialle    u drama di e sanguinare   dui mesi fa  in seguitu a un interpellazione di u diputatu cumunista cuntinentale marty  parlendu  a locu e piazza di i nostri cusi detti rappresentanti ammutuliti  a camara di i deputati  par 34o voce contru 141  rinvia a dopu inchiesta pinterpellazione sopra i respunsabili di u drama di u 16 aprile    la inchiesta pare troppu longa a li ajaccini   quandu saparemu qualcosa    mai  probalmente 
+  s
+    </p>
+    <docAuthor>
+     Pipistrellu
+    </docAuthor>
+   </div>
+   <div n="20" type="div" xml:lang="fr">
+    <p>
+     giurnali amministrazione e magistrati t ai eu l occasion de denoncer dans une lettre a m je president du conseil les violations de la loi la scandalense gabegie qui se produisent en corse avec une impudence telle qu'elles semblent constituer une veritable methode de gouvernement  des inspecteurs genereux dans des rapports documentes ont reconnu le bien fonde de mes accusations  je ne reviendrai donc pas ponr l instant sur les abus intolerables qui se manifestent dans l application des lois sociales dans ja repartition des credits de l'assistance dans la distribution des credits des pupilles de la nation etc il demeure entendu que toutes les subventions toutes les allocations tous les eredits detournes de leur objet conslituent en quelque sorte une masse electorale destinee a favoriser le triomphe du parti soutenu par certains representants du pouvoir central  c est par millions que se chiffrent les delournements annuels  je rappelle simplement que nous avons vu un prefet de la corse remplacer dans un but electoral tous les membres des commissions d assistance et du coup le chiffre des infirmes a passe de 3 000 a 41 000  mais il ne s agit pas de reprendre aujourd' hui des faits qui relevent plus directement du minisire de l interieur c est a m sarraut que je me propose de dire moi meme tres prochainement s il entend laisser se perpetuer en gorse un regime odieux en maintenant dans ce pays des fonctionnaires dont les negres n ont pas voulu et qui comme l avone m maunoury sont la horite de l administration ceque je veux demander au ministre de la justice c est s il entend couvrir des faits qui tombent sous l application des lois penales  en attendant que je lui demande s'il veut maintenir en corse des magistrats nommes par erreur  e pierangeli  l eveil de la corse 12 8 27  ghiustizia u serait vraiment terops que dans ce departement cui versa jadis tant de sang pour son independance regnat enfin une ere de justice et d equite administratives ce n est malheurensement pas le cas et surtout depuis que m marlier cous est arrive de la surete generale  he    l eveil de la corse 8 8 27  u prefsttu  pour me resumer je declare e la face de la corse entiere que si le prefet marlier n a pas pris part a l assassinat du malheureux philippe baudei il a par contre sabote ou plutot assassine l oeuvre des habitations a bon niarche en corse  heurensement que les prefets passent et que nous nous restons nous esperons reparer tout le mal que cet homme nefaste a avec la complicite de deux ou trois politiciens de bas elage fait a l'oeuvre a laquelle j ai consacre vingtcinq annees de travail et de devouement  antoine benedetti  secretaire tresorier da comite de patronage des habitations a bon marche du di parlement de le corse   l eveil 14 8 27  pte depuis quelques jours il y a certaine chose quine va pas dans les transmissions telegraphiques de la corse  nous croyons savoir que les services militaires de toulon utilisent le cable pendant la nuit  nous prenons ce renseignement pour ce qu il veut mais nous sommes ainsi amenes a demander si le cable de la corse est fait pour la corse on pour les services militaires de tonlon nous ne subissons que trop les inconvenients multiples de ce cable vieux use et rapiece ei si l on ne vent pas nous le remplacer qu on nous laisse an moins la jouissance du peu que nous avons la situation actuelle si elle se prolonge est trop menacante pour l hiver prochain et risque de creer ici une legitime nervosite   a tanot  la jeune corse 13 8 27  servizj marittimi en resume a pen de chose pres le cabie es charges et la convention de 1927 sont la copie du projet de 1922 on pourra jouer su jes chiffres et les combinaisons financieres mais on ne pourra nier que la part de l arma teur est beaucoup plus belle en 1927 qu en 4922  et comme nous appartenons a cette partie de opinion publique intimidee et sujette a la lassitude  qui recommandait en 1922 le vote de le convention nous voulons prouver et ceja ne nous est pas difficile qu on a eu tort de rejeter le projet de 1922 et de perdre 5 ans sans avantages serieux correspondants  si la convention avait ete votee a cette date nous aurions a l'heure actuelle et depuis deux ans deja sept navires en service au lieu de six  en 1922 0n a rejete le projet poursexiger les vitesses de 18 noeuds la duree de la convention a 5 ans de la suppression des clauses generales des connaissements qu a t on obtenu de tout cela rien ou presque les vitesses restent a 44 et 13 noeuds la duree de ja conveution reste fixee a 20 ans les clauses generales des connaissements ne sont pas modifiees on a donc retarde le vote de 5 ans pour permettre aux instituteurs et aux postiers d etre assimiles aux reformes de guerre pour les tarifs de transports    j casanova  la corse 1 8 27
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="21" type="feu" xml:lang="it">
+    <p>
+     n decemviro spiego la carta  e accostato un lume lesse ad alta vo     lib   co  romani   pino la  a que  pan   nacci  quiil decemvito interrompendosi interrogo da  po   e questo che importa    ha   e chiaro come il sole  costui sn icato lo schioppo con la carta cciata dal libro di conti di casa sa   non ricordate voi che suo pasia vende legname   il diavolo insi a fare le pentole  ma non in na a fabbricare i testi   e vero  e vero  grida la molti tudine con crescente furore la provvidenza  lo ha convinto  su via condannaielo   va impiccato subito  e qui al cospetto del morto   e come perincanto furono viste alzarsi da terra le forche  un paio di scale  e intorno ad esse sbracciarsi gente ad ammanire la fune  e insaponarla  le quali provvidenze a cui serbava la mente pacata lasciavano sospettare che tutta quella faccenda fosse apparecchiata di lunga mano    e qualcheduno facesse fuoco nell or cio perche lo indugio non pigliasse  vizio intanto grazio aveva perso il  lume degli occhi  e diventato deltutto insano per rabbia  con le minaccie e i giuramenti rendeva pessima la sua causa gia cattiva i giudici titubavano non mica perche le prove difettassero  che anzi credevano ce ne fosse di avanzo  ma perche pareva joro cedere all impeto popolare  la unica cosa che li tratteneva dal dare la sentenza era il timore che il generale rinfacciasse loro averla conceduta allo schiamazzo popolare   pero si conosceva chiaro che avreb bero terminato col mandare su le forche il romani  si perche io avevano preso in ira  ed anco perche dubitavano non lo impiccasse il popoio senz altra forma di giudizio   in questa suprema ansieta la moltitudine dopo le spalle dei decemviri  obbedendo ad impulso che veniva da lontano  incomincio a diradarsi spartendosi a manca e a sinitra  nella guisa che le acque tagliate fuggono gorgogliando lungo i fianchi del piroscafo che si avanza   sempre e piu sempre siargandosi  per ultimo lascio il campo ad un nuovo personaggio  il quale appena comparso venne salutato dal popolo con le voci    viva il generale  viva il paoli   li signor giacomo tutt occhi fisso lo uomo  e io vide alto  complesso  di faccia larga e accesa  senza pelo alcuno  ci sopracciglia grosse e aggrondate  lo sguardo feroce   portava un berettone nero fino sugli oc  chi  e di sotto a quello scaturivano alcune  ciocche di capelli di color fulvo   il suo vestire era  la gamarra  di panno corso cinta alla vita con la carchera donde pendevano sciabola  pistole e pugnale  nelle mani stringeva il moschetto  notabili i calzari composti di strisce di pelle di cignale concie con la polvere di mirto  egli si fece innanzi con passo sicuro  mentre un cane gigantesco gli teneva il muso quasi appoggiato alle gambe  senza rispondere  senza salutare si loco in mezzo ai decemviri i le turbe si clamorose poco anzi adesso tacevano  sicche si udiva il fiotto della restonica quantunque scarsa di acque   egli con vo ce chiara parlo     degni di liberta veramente voi  meritevoli proprio del plauso della europa 1 cersi  che impongono le sentenze ai giudici come in algeri le bastonate agli schiavi    serena  che fino a quel punto non aveva trovato occasione di far sentire la sua voce  si gitto in ginocchio a capo del cadavere di suo pa dre  e conle braccia levate prese ad esclamare    v endetta  signor generale  ven detta   il paoli le vibro un occhiata terribile e rispose     qui non siamo per fare la vendetta di un uomo  bensi la giustizia del paese  rimovete di qua cotesto morto  potete deporlo nella capella la dirimpetto     nessuno lo tocchi   nessuno  non deve starsi separato da me      e voi andate con esso e pregate per la anima sua   questo si addice meglio a fanciuila ed a figliuola  vostro padre adesso si raccomanda piu al perdono di dio  che alla vendetta degli uomini     intanto quattro uomini presero la barella dove giaceva il cadavere dell albertini  e serena affisse gli occhi a terra forse nel concetto dei marinaio che getta le ancore  perche la rave non venga strappata dalla spiaggia da qualche raffica di vento   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

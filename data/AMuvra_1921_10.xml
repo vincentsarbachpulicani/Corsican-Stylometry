@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1921_10
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     tres joli le geste de m de morogiafferri defendant landry deloyola au conseil general mais cela ne nous a point etonne car le grand tribun est de ceux qui rendent le bien pour le mal de ceux qui ne trahissent jamais de ceux qui n'abandonnent meme pas ceux qui les ont trahis  mais nous devons l avertir de ce que semblable jeu est presentement dangereux et qu a vouloir faire semblant de renflouer une banquise fondante l on peul glacer bien des enthousiasmes et bien des amities   car enfin qui est ce que ce landry que l on s'obstine a vouloir considerer comme un chef de parti   landry c est un jesuite a bonnet rouge ou un franc macon a calotte  un diable a l eglise ou un moine dans une maison close  landry c est un politicien financier etablissant sur l intrigue et l ambition une vie faite de combinaisons profitables  c est le propre de ce jesuite de ne rien entendre a la logique les malheurs de la corse la valeur de moro et la puissance competente de coty n ont a ses yeux qu une importance anecdotique proportionnelle aux plan machiaveliques de pion sournois ou i veulles enfermer ce serait parfait ou de conception acceptable si ce tres fouinard petit homme avait la grande allure d un mazarin d un louis xi or d un richelieu c est insuffisant au moment ou il lui est indique que a la finance a coulisses a resolu de pro leger les pirates et les exploiteurs l opinion corse n est ni disposee a cette combinaison ni decidee a en couru les risques     mais m landry n a cure des accidents qui peuvent survenir ll n est preoccupe que de lui meme nos articles certes le genent puisqu il lui a fallu prendre sa plume professorale pour nous repondre mais qu a cela ne tienne landry deloyola espere tromper encore la corse et trahir ses amis pour maintenir intact le tremplin de son arrivisme tres jesuitiquement egoiste   il s ensuit que landry avait sans doute concu l espoir qu en poussant moro a la presidence de l assemblee departementale il pourrait devancer ce dernier dans ses projets d independance en le brouillant definitivement avec gavini    il ne recueillera pas les fruits de son anticipation car entre moro et les corses il y a un peu plus que de la politique landryste il y a la corse malheureuse la corse vendue aux armateurs aux pirates et aux exploiteurs par une poignee de politiciens chercheurs de millions la corse qu il  doit defendre qu il doit sauver    il est impossible en effet que le corps electoral  permette a doumer et  landry de faire leur fortune sur la misere de la corse en ecartant de la direction des affaires insulaires ceux qui veulent et peuvent la sauver  et il faudra bien un jour que coty et moro obeissent a la volonte profonde du peuple insulaire qui attend de leur collaboration la renaissance de l ile malheureuse  coty dont le programme de developpement economique a recu un commencement d'execution doit donc trouver en corse l appui de tous ceux qui placent la patrie insulaire en dehors des clans et au dessus des politiciens ministrables coty dont la fortune est faite ne manoeuvre surement pas pour reussir tandis que landry deloyola arrivistes au service des trusts maritimes et financiers fait en grand ce que p o poli a fait et continue a faire en petit car landry voyez vous ce n est que p o poli cultive
+    </p>
+    <docAuthor>
+     Orsini d'Ampugnani
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="fr">
+    <p>
+     plaise a monsignor nous ne saurons probablement jamais nous corses jusqu a quel point dans le cours des siecles on nous a fait courber la tete nous ne saurons probablement jamais combien dans notre malheureuse terre des communes la froide ineptie et le machiavelisme ehonte des gouvernants vont de pair avec le cynisme et l impudeur de grands manitous de la science et de la religion il y a d un cote comme de l'autre un accord tacite un protocole instinctif un systeme de connivence occultes lesquels de meme qu ils permirent autrefois aux governatori civili de conspirer  en vue de mater l insulaire  avec les cinq prelats dont une bulle papale nous avait dotes permettent aujourd hui a m le prefet de communier de coeur et d ame  a l insu du corse naturellement  avec sa grandeur monsignor l'eveque d ajaccio   mais d abord et avant d entrer au plein de notre sujet empressons nous de mettre hors de cause notre nouveau prefet auquel aucune solennite officielle n a encore fourni l occasion de se produire entre le kepi et la mitre les paroles par lui prononcees au conseil general semblent deceler un farouche entetement a observer une neutralite absolue laquelle esperons le s exercera dans tous les domaines  en politique comme en religion dans les manifestations de la vie publique comme dans les phenomenes interieurs de la vie psychique   les amourettes episcopo prefectoral dont le caractere plutot tragique que comique justifie notre evocation des temps de la domination  genoise remontent a l epoque des alain de barnier des mouniers  aux jours de l armistice de la signature de la paix du centenaire  l origine franco napolitaine de sa grandeur nous rendait insupportable a nous corses de corses toutes les embrassades accolade et mutuels benissages que se prodiguaient l eveque et le proconsul heureux peut etre dans leur for interieur d avoir  ez  sans coup ferir  4 les huns et les autres a la lecture de ces lignes le lecteur irreflechi et devot nous accusera sans doute d anticlericalisme  et il aura ce faisant grandement tort l amour sacre de la patrie corse nous inspire seul et c est en lui que nous puisons l audace d affronter de devisager froidement un prince de l eglise dont nous sommes en droit de contester l autorite et l action apostoliques aupres des fideles et du clerge corses puisque cette tutorite cette action se revelent sou vent en des manifestations sermons ou discours qui ne brillent pas precisement par leur corsisme    il est en outre avere que sa grandeur monsignor simeone eloigne de chaires professorales les pretres corse qui joignent a la science theologique la plus solide le devouement le plus indefectible pour la petite patrie a l occasion des grandes solennites religieuses sa grandeur s assure le cor cours de predicateurs continentaux de sorte que les remarquables talent oratoires de bon nombre de nos pretre corses ne peuvent se faire jour au grand dam des foules insulaires dont la foi et les sentiments religieux auraient pourtant tout a gagner a l audition de la parole d un de leurs compatriotes personnellement nous n avons aucune espece d animosite contre sa grandeur nous tenons simplement a nous  faire l interprete de nombreux regionalistes bien pensants pour la plupart  et qui se sont etonnes  avec raison  de l aisance avec laquelle monsignor simeone depuis le jour' plein d espoirs evanouis de l armistice fait litiere de la fierte et de la patience corses
+    </p>
+    <docAuthor>
+     P. di B.
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="fr">
+    <p>
+     une grande reunion a toulon une manifestation imposante qu avait preparee la propagande de a mu ora et dont l organisation presque toute entiere revient a m marchelli president de la societe du secours mutuel  la bastiaise  et a m m dominici dionisi bernardini albertini ete   lieu le six novembre a toulon e l honneur de coty apotre competent et realisateur de la renovation de la corse apres un aperitif d honneur au pont du las quartier general des corses de toulon un banquet de cent cinquante couverts a ete donne a la villa olga  y ont pris la parole  m m poli president de l union generale passano president de section claude maire de toulon m brun avocat terramorsi orateur autorise des travailleur de l'arsenal tristani president de section et gozzi le tres insulaire sous prefet de toulon  ainsi qu il le fait chaque fois qui parle p o poli apres des paroles qu e nous approuvons a cru devoir chanter le couplet de la calomnie et celui de la caravane qui passe tres ironiquement orsini d ampugnani dont l influence s'est fait ce jour la particulierement sentir a fait remarquer dans un discours net et vigoureux  qu il ne fallait point repandre de la poussiere de haine  et se tournant vers p o poli lui a dit  vous avez parle mon sieur le president de la caravane qui passera malgre et contre tous o croyez moi il ne faut pont etre exclusif et tous les groupements doivent contribuer au succes ne faites don pas de caravane trop speciale car voyez vous une caravane  notre ami dont l attitude tres digne a correspondu a l importance reelle qu il a acquise dans ce qu il appelle  son inspection politique  a' ete a notre avis par trop modere en ce qu concerne la caravane de m p o poli  l assistance impatiente  d entendre le discours programme de coty a' ete fortement impressionnee par l ampleur et la nettete des declarations du grand apotre corse  en outre des orateurs sus relates ont ete remarques m m spadari cresciucci franceschini giovanni giampietri rossi lapeyre adjoint au maire martelli m moretti officier de l arsenal justement aime des ouvriers corses el madame moretti simoni rossi guglielmi ete  etc  et iles redacteurs du petit provencal le la republique du var du petit var du radical et du petit marseillais dont le doyen prononca une chaude allocution  a nice un aperitif d honneur a ete offert a m coty par la colonie corse  toute entiere et en particulier par la  cyrnos dont le president est beretti conseiller general de levie beretti jeune competent actif et realisateur sera dans un avenir prochain au premier plan de notre politique   les electeurs de la pieve de levie peuvent s honorer d'avoir elu conseiller un corse qui joint au patriotisme  insulaire le plus sur une connaissance approfondie de la question corse  et c est ainsi que entre nice et avignon landry deloyola protecteur de fraissinet brimeur ministre des corses de toulon passe un fort mauvais quart d heure
+    </p>
+    <docAuthor>
+     U Nafantatu
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

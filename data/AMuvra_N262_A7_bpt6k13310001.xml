@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k13310001
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k13310001
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 262 | Année 7
+     </edition>
+     <date>
+      1926-08-01
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Annu VI NUINAIL 202  Esce a Dumenica  Dumenica, 1 e 8 Agostu 1926  A MUVRA  GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI :  In Corsica... . - 4 . . . . ..-. . . 12 franchi  mFrancia.. . -..r....... 15 »  4 lEsteru. ............, 25 ..  U Numaru:4 soidi  Direttore : -Petru ROCCA  AMMINISTRAZIONE:  38, Corsu Grandval 38. — ATACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     e feste di vivariu  so durate tre ghiorni e feste di vivariu   da sabatu a luni   feste pupulare  locale e tutte corse  in onore di san petru  u padrone e u prutettore di a parocchia   infilarate di vitture  tre mi  la parsone  stranieri di tutt i circondi  marcanti di tutta merce  ancu di fischi  canti e soni  gioia e alligria  colpi chi parianu cannunate  illuminazione generale   cuncorsu di tiru cu tiradori chitagliavanuu filu  cavatorta  piersone parenti   corse di zitelli cu certi zavardoni scalzi chi currianu cume u ventu  i dui primi premii so stati vinti da i figlioli di u merru filippi       in quant a me  dicia un paisanu  quessi deven esse stati ricumandati da u ministru   corse di sumeri cu certi ministri chi  par anda a ci      in daretu  parianu calavroni  u piu zoppu quellu di j  dumas   e ghiuntu   primu   maghiu di cucagna cu certi qitelli chi sallianu cume picchie sorde   bittini sbucco duie volte in cima di quellu pinu untu e finu  pa  corse in lu saccu  cascatos ghie di nasu e risate  primu premiu  muraccioli paulu   messa parata cu tuttu u paese in dinocchie  prucissione in musica  belli cantichi   bella riprisintazione tea trale da li artisti di a lyra cu  a cumuna  di parapiglia e 4    vita cara  sala piena  bellu  mondu  zitelle distinte e garbate  risate e scaccanate   quessu chi facen merrue mi  pantalacci un organizatore di futte e belle feste di u passe  u sigritariu e cristo fanu pioli chi  cu u fratellu bittistu  so un decuru di a gioventu  paulu dumenicu stefani  stitutore  diputatu e po panatteru  fu una risata generale   velgrande a fece da stima ore par u dannu di capra ros sa  da   he i pa a   44 quindici franchi falo a  sce soldi e po cullo a quindici  de 1 i si jranchi e mezzu  un duttore  ci si ellu piglia ipaesi face i  soldi di sicuru   dorotea  di u teatru di a  muvra tc   ni era funta apposta da   ventosa par fa i so dui rolli   tanti cine e ne  u etdecamani e tanti evvia   sy fucianu costa fu acclama erivaritu in 1 jocu di x u so jocu di cal pima a j     gvrone  a moglia lingueti nr 8 4  a  martini li si mosse  apressu cume pruserpina  pepe fece cripa di risa   bignali fu un pecurone  lamutu e di bonu sensu  vulia cacciaa marzu da annant a lista elettorale di i mesi   inla vita cara ci fu cuntinuazione di risate pupnlare  tra j  dumas  sallei  pioli  paulu dumenicu  bittini e delgrandi  tutti marcanti di carotte  latte  pomi  cibolle e canzone  ci fu un altru parapiglia di gioia e di canti     u premiu di poesia rivene a luciani  u capu   di brigada di vivariu  un omu di valore   onore di a giandarmaria  chi fece lu innu a stu bellu paese   in cortu  e feste di stu  logu  cuminciate in la risa  si so terminate a temp a ghiornu ballendu e sunendu  ancu u scarparu ridia di vede frusta taiti scarpini   u cumitatu di e feste  cu mi  setti in testa  ha fattu be e megliu     beatii paesi chi hanu a furtuna di ave una musica cume quella di qui  questa e un decoru chi  rallegra u populu  un sigretu chi attira in vivariu mille e mille stranieri 
+  s
+    </p>
+    <docAuthor>
+     Maistrale
+    </docAuthor>
+   </div>
+   <div n="2" type="poe" xml:lang="co">
+    <p>
+     mens divinior      in me lu fior  di a puesia  sbuecia      mi sfiura lu si elenu du zitellu   lieve passo  nant u  mio veculellu   cun le nannule di la mio mamuccia   du le macchie di la mio cursichella   da lu placidu mare  e da le stelle  vennenu li ineffabili favelle  sin e fibre di un alma tenerella      poi mi tucco l amer  maliziosu   minsegno li mia bruna reginello   e cusi fu finitu lu riposu   u mio core un canto piu che per ella   pocu pretendi  o cara musarella   si semplice  e cusi lu haghiu vugliutu   un cireaste ne cetera ne liulu   ma soli una cirnese cialamella   
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     canta minicale  una grandiosa manifestazione cursista  a palma di u centenariu di pasquale paoli a terza merindella di i pueti corsi  merusaglia 14 lugliu 1926   seguitu di u resucontu   si alza allora paulu graziani  u chiarissimu e cusi simpaticu capu di lu archiviu di corsica  direttore di kysnos   oraiore senza paru  u nostru eruditu cumpagnu di fede parla in stu modu a la assemblea   maestri  signore  signori   eccu a terza volta che i pueli li anfarli corsi e tutti quelli chi hannu le amore di e pure tradizione isulane si adunanu ind u paese maravigliosu chi sia insemme gloriosu par iso ricordi storici e par a so naturale billezza  qui  due cent anni fa  e natu u babbu di a patria  in mezzu a i castagni frondosi  chi ombreggianu i monli e e roccie granitiche  funda   mentu superbu e saldissimu di a liberta e di a fierezza corsa     tamanta gioia e veramente incumparabile e inaspettata peri cuori di i patrioti      sente  mentre tuttu un ghiornu  e voci armoniose  i canti dolcissimi di i nostri pueli  giovani cume vecchi  vedeli tutti qui intornu a una faula di famiglia conversa ind a lingua vernacula che parlavanu i nostri antinati  assiste a due belle rapprisenlazione di cummedie interprelate ancu maestria per artisti  signori o donne  di u nostru paese e un spettaculu chi deve rallegra tulifi cori chi speranu un risorgimentu di a lingua di a poesia  di i costumi nazionali   sicuramente  nissun aniarte lamantu ad un dante o un misiral un e ancora apparsu inde noi ma pure tanti boni pueti  gravi o gioiosi tale un santu casanova   un maistrale  un lueciardi  un martinu  appinzapalu  un sampetracciu  un pincu un minicale  un  coddaccioni  un olivieri un giovanni della grotta  un bonifacio  un  leca  un filippini  un  simoredi li  lecci  tanti scrittori tale un petru  rocca  un marcaggi  un grimaldi   un marchetti  e altri che un possu qui numa tutti  ci  permettenu di spera chi un ghiornu prossimu u nostru dialettu  innalzatu a  a dignita di lingua letteraria  vedra sorge un capu lavoru maravigliosu cumparavele a a divina cummedia o a mireio  per raggiunge stu scopu cosa duvemu ottene pu ristabilimentu di a iiostra universita corsa paolina   lu insignamentu di lu idiomu corsu  chi   favoreggiera u manlinimentu di va   nima corsa     poi  paulu graziani  proseguendu in francese  adirizza un salviu a u felibre e federalista provenzale  sgio bruno durand chi ci ha fatta le onore di assiste a sta festa di i pueti di a quale u ricordu restera cume un di i fundamenti di u felibrige corsu   u nostru cumpagnu ci dice u ri   grettu di u distintu maestru proven   zale ripert chi si rallegrava a la idea  di participa a  nostra merindella ma  chi e statu impeditu pe un cotrattempu     interrottu da le ovazione e piu frenetiche  le oratore cunitnua interpretendu a purtata storica di sta iurnata e u so carattare simbolicu   simbulu di lu attaccamentu di i corsi a  sublime memoria di pasquale paoli  simbulu di a volunta di rimane  corsi  di cunserva personalita e originalita propria di populu latinu  senza rivoluzione ma cu saldezza   paulu graziani finisce ringraziendu per la accuglianza ricivuta u sgio giudicelli  merre di merusaglia e u so cunsigliu cumunale   u sgio bruno durand  unu di i membri i piu distinti di u felibrige provenzale  maestru in gaja scienza  pueta e autore di una rimarchevule grammatica provenzale piglia a parola   federalista ardente  u sgio bruno durand mostra cume a corsica  nazione latina quante a pruvenza trova interessu ad una reorganizzazione regionalista generale  dice chi un populu  per salva a su personalita  deve salva a so lingua  e a stu propo  situ ramenta i versi di mistral  chi tene a so lingua  tene a chiave chi  amo de moun  pais   1   tu qui dardaies manifesto e dins sa lengo e dins sa gesto     car lis oundado seculari  e si tempesto e sis asglari  an be u mescla li pople  escafa li   confin   la terro maire la naturo o nouris toujour sa pourtaduro  dou meme la  sa pousso duro toujeur a la ouliviedounara poli fin   u sgio giudicelli  merre di merusaglia compie u ciclu di i discorsi ringraziendu in termini scelti li organizzatori di sta festa di ave onoratu cu tamanta solennita a memoria di u gran pasquale paoli e di ave sceltu a citta santa per da sta terza merindella di i pueti corsi    5  un scoppiu di applausi edi evviva merusaglia   li face cumprende quant e grande a ricuniscenza di tut ti i cursisti       ma  da a funtana di u melu  duv a populazione si e adunita  arriva una staffetta   la impazienza e grande ne a folla ed ognunu vole sente li anfarti di cirnu     davant a funtana chi tira un acqua bundante e fresca  a piazzetta  ombreggiata da i castagni seculari  e zeppa di mondu   subitu devota paeli e minicale  inquadrati di bandere bianche  si in   nelpanu nant a una teppa e a si inzzuffanu a chiama e rispondi   e sciaccamanate sbrullanu senz arreta e si ogna a fa viulenza a i duellanti da chi ellu attagninu u torrente di e rime chi scolanu limpide da sti petti di anfarti chi un hanu mai respiratu ca u dolce trettu muntagnolu   a so tornu maisirale  a baretta misgia in chiacchiara  si coglie a ripa e intona a voce rivolta uttave e terzini     vittima di u so talentu e di a so popularita  u pueta maesiru e pri lolo tomasi  in piazza di a chiesa  di e catene it libera  poi ci una voce pien di fremiti e ci un grand talentu riceta e magnifiche strofe di calenda u      1    anima div me paese  to chiluci visibile a re a  5o lingna ene i so cenni       le undate di i seculi e i so bole leri e iso furori hanno bella ca mistia i populi  sfessa e frenflere  a ferra   a nofure   nutrisce sempre cioch ella  porta ca ne stessu latte  u maniocu dore sempre a lu alivu dara lu uliu fina  giuneru di i so ammiratori chi un i lascianu barca u tippale   a pulitica  u ninni nanna  muvrella  u partitu  u sirinatu a i sposi  lu innu a pontenovu prece muci di a santa parolla di u babbu di a patria   ellu qui a merusaglia di sta tomba ci dice sempre   u figlioli cari  siate fieri di i vostri antenati  fieri di a nostra storia  a piu bella di umondu  pregate per li eroi  solo  tomasi  cuntrasti tra divota paoli e minicale  denu e trenta due stroffe di cuccu e e sissanta quattru di i lamenti di romanetti  ci vole chi ellu dumandi grazia per vedesi libera e per un esse piu aciunccatu da li applausi   ghiuvan paulu terrazzoni  stuaente vintenne chi tutti cunnoscenu per ave lettu e so sapurite puesie  si adirrizz allora in sti termini a  giuventu    fratelli corsi   e per me un grand onore di parla in un ghiornu cusi sulenne  ind a ciffa santa di merusaglia davanti a un publicu sceltu venutu da ogni locu di a corsica   ma si le onore e grande  pensate a le emozione chi aghiu di parla  pe a prima volta  e sopratuttu davanti a i capi di u risorgimentu davanti a li anfarti e a li omi chi so u decoru di a nostra isula   simu junti in merusaglia di rostinu  in stu quatordeci lugliu  ghiornu anniversariu di a pruclamazione di findependenza corsa  simu junti ad onora a citta santa ne a quale nasci e ne a quale e seppellitu u   babbu di a patria    innalzemu  oghie  un innu di ricuniscenza a tutti i pueti isulani chi scrivendu ne a muvra hanu salvatu a nostra lingua e destatu lu orgogliu di a giuventu   salve a te  merusaglia  nobile paese pienu di gloriosi ricordi  ed onore a voi  o merusaglinchi  chi avete servatu in di i vostri cori e patrie virtu di i nostri antichi   salutu cun emuzione e fierta i corsi chi hannu apertu a noi altri giovani a strada luminosa ne a quale truveremu  un ghiornu  gloria e prufittu   site qui riuniti  o petru rocca  animatore di a nostra fede  voi che  noi  giovani cursisti salutemu cume u nostru duce  site qui  e martinu  appinzapalu  chi sempre appinzate u palu di a speranza  site qui  o ageniu grimaldi  chi date tanta forza a nostra duttrina e chi parlate sempre cun tantu curaggiu in ogni locu o alessia marchetti profetu di apri mi ora  e bi salutu cun gran rispettu o maistrale  voi chi site u piu gran pueta di a corsica  o minicale  voi chi site  le impruvisatore u piu finu di i jorni nostri o matte u cirnensi o ghianettu nottini criatore geniale di 7eatrudi a muvra o ghiuvanni olivieri delicatu pueta esalutu a voi tutti prusatori e pueti chi fate di a muora una tribuna di a quale parlate a corsica intera   a vostra opera e eterna  perche tuttu cio chi voi scrivite e eternu cume a verita e a justizia   un so chi un zitellone ma aghiu abbastanza discernimentu per capi chi noi altri giovani cursisti vi duvimu tempi migliori chi veneranu senza dubbiu e di i quali ci mustreremu degni   e avale chi mi sia permessu di adirizzami a fiurita giuventu merusaglinca e a giuventu di tutt a corsica  speranza di nostri sicuri lindumani   giovani cursisti   simu giovani di eta ma digia avemu u spiritu di li omi forti  e u jornu venera chi ne daremu a prova  simu tutti figlioli di una sola mamma  a nostra povera cursichella  di st isula gluriosa chi fu sempre  la terra degli odi tenaci e dei fervidi amor      curaggiu dunque  fratelli giovani cari simu in traccia di vive la epuca a piu gluriosa di a nostra storia quella chi ci dara a liberta  esopra noi i veterani qui presenti  contanu per realizza u nobile ideale   cuniscite st ideale   rimette a corsica ind a so vera strada  ma per quessa ci vulera fatighe assai  e forse periculi ad affrunta  ma i giovani chi noi simu un duvenu ave peura  e si ellu ci accade di dubita di u nostru curaggiu e di a nostra fede  pensemu a i nostri arcibabboni chi hanu tantu suffertu per darci a dignita cun a liberta  ramentemuci li omi grandi di u nostru settecentu  e nutri di borgu e di pontenovu  ascultate a voce di i novi apostuli chi bi parlanu in nome meiu    eccu cosa dice u nostru gran pasquale paoli  eccu cosa vi dicu  o giovani cursisti valurosi e fieri   salutu in voi i suldati di la idea  chi avete intesu u gridu muvristu   a noi   ribumba in di e nostre muntagne  e chi vidarete risorge ind a citta santa di merusaglia  quellu chi noi chiamemu u nostru babbu  pasquale paoli   curaggiu e fede   evviva a giuventu cursista    evviva a muvra    le ardente giovane cumunica a so fiamma a  so cumpagni e  tandu chi ognunu u felicita  la intera populazione ripiglia u caniminu di u cunventu in piazza di u quale ghiannettu ha innalzatu u so teatru di a muvra   a leghie li affissi  a prima rappresentazione e carricata  eccutine u programma stracorsu    prima rappresentazione  16 dre   maistrale ne e so creazione  ghiannettu notini ne e so canzone minicale ne e so impruvisate  signora divota paoli ne e so impruvisate  a pulitica  cummedia in 4 atti di u sampetracciu u merre u sampetracciu   u judice bilancia u sampetracciu   ghilormu  elettore vendutu casanova  orsantone  fratellu di jilormu ottaviani  dorotea  moglia di jilormu i  madamicella lisa padovani  fiordalice  moglia di ors antone  madamicella maria padovani  saveriu  elettore di u merre   alberti  ghiuvanni matanghellu  secretariu di u merre olivieri   michele  secretariu di iustizia di pace  mi  sinibaldi   clemente  difensore di liste elettorale  p  sinibaldi   ghiannettu in marseglia  cummediola di u sampetracciu  cu u sampetracciu e madamicella lisa padovani  canzone di juvanni olivieri  minicale  u sampetracciu   in coru   cursichella  canzona di petru rocca   1 biglietti  pigliati di assaltu indicanu  primi posti  e carreghe  5 franchi   sicondi posti  e panche  3 franchi  terzi posti  dritti r francu in tre minuti un ci e piu pusatoghi e i posti dritti si piglianu tutt a grande piazza fin a scalinata di a chiesa   foto  mura  a palma  a gioia a piu viva accende ogni faccia a u liva di u tindone e u deliriu sbarsa tutt e volte chi un cantore entre in scena  maistrale  minicale  divota paoli e olivieri  ottenenu u successu di sempre  si  ne a pulitica  satara mordace di jannettu  medamicelle padovani  u sampetracciu  casanova  ottaviani  olivieri  alberti  mi  e p  sinibaldi  etutti li artisti si mostranu di vaglia   u merre e u judice bilancia  u sampetracciu  funu furbi a lu eccessu fendu faccia di onest omi  ghilormu ed ors antone si lascionu vende da e moglie dorotea e fiordalice  mr padovani   due pizzette  chi un vine dicu nulla  i sicritarj matanghellu e michele si appliconu ad esse degni di i padroni mentre saveriu e clemente cumplettonu sa bella iente di puliticaccia campagnola  a chi ne piglio ne piglio   ne ghiannettu in marseglia  u sampetracciu e lisa padovani sepenu esse  unu un corsu chi un si vole lascia impinzuti  la altra una moglia francese chi finisce per capi chi a vule sdradica sta ceppa scupina ci si pirdia tempu e asgiu    ghiuvanni olivieri cu e so donine venachese fece scatena e scaccanate e poggioli cu u fox trott di catalina messe   la assemblea in scumbugliu     dopu 77 sogno del soldato  di u pueta inglese shelley tradottu da salvatore viale  ricitatu cu prufondu sintimentu da u sgio giudicelli di moriani  e cursichella intunata in coru  a falata di u tindone indica a fine di a rappresentazione   fbomexrc tin gruppu  cu la abbrucata  chi sparghie e so ale grisgie ognunu si ne va a cena   a le 9 1 2 di sera  siconda rappresentazione  a u programma   siconda rappresentazione  maistrale   u sampetracciu     minicale   olivieri   un bell impiegu  cummedidla di mi  di bi   cu si  alberti e ottaviani  in posta a i buvaloni  cummedia di u sampetracciu cu medamiceile lisa e maria padovani  u sampetracciu olivieri  alberti  ottaviani e casanova   u duttore e zia mariola  cammididla tratta da la opera di maistrale cu u sampetracciu  madamicella padovani e alberti   in coru   innu al merusaglia di maistrale e cursichella di petru rocca       le emozione e intenza quandi le oratore pronuncia cun chiarezza e nobite ardore u seguente discorsu    fratelli corsi   una cerimonia cusi sulenne un chiede longhi discorsi  simu qui a rende onore a merusaglia  a citta santa  ed a i pueti dialettali   o     a citta santa  sta gluriosa appellazione mi culpi quandu prete carlotti a lampo davanti a numerosi paisani  e bedu sempre u fremitu  di orgogliu chi passo in tutt i visi  eramu u 5 feraghiu ne u 119 anniversariu di a morte di peroe  prete carlotti parlo in pulpitu cun voce eloquente  ne a chiesa induv e seppellitu clemente paoli   u gran frate  manu ritta di pasquale in guerra   ed ebbi a furtuna di parla a u populu di merusaglia  davant a casa paoli  induve stamane avete intesu lu altu e fieru discorsu di petru rocca   parlendu a voi  o merusaglinchi  petru rocca si indirizzava a tutt a corsica  a li omi chi speranu ne le avvenire    cuniscite a so fede  u so curaggiu  e sapete cun quale spiritu ellu compie  ogni jornu la opera santa di u nostru risorgimentu    eccu perche  a petru rocca  ti salutu cun affettu a nome di noi altri tutti  e ti juru ubbidienza a te chi ci hai guidatu  cinqu anni  sopra i campi di battaglia di la idea     mi ne vuleria di un fa un cennu affettuosu a prete petrignani  eruditu e degnu sacerdotu  chi ci ha cummossu cu a so bella predica  ne a quale avemu capitu press a pocu cusi    u sangue a  patria e u spiritu a diu          site  e sgio pievanu  inda vera tradizione   i preti corsi quasi tutti pe a patria pregavanu  scrivivanu  cumbattivanu cume in anticu  scrisse un ghjornu tommaseo  si ricurdavanu di u gridu di i maccabei melius est mori in bello quam videre malagentis nostra e     rendu omaggiu a i preti corsi e salutu cun gran rispettu quelli presenti a sta merindella  u pievanu petrignani e i preti colonna  saggesi  carlotti  giusti  orsini e cacciaguerra   ringraziemu u sgio giudicelli  sin   dacu di merusaglia  di avecci datu pap poghiu preziosu di a so fede paulina     ellu  u primu magistratu di a  pieve di rostinu  ha bulutu onora a memoria di u piu corsu di i corsi  natu e seppellitu in sta citta santa e di u quale noi simu li eredi spirituali   rivulgendumi a voi altri tutti  pueti e prusatori  cittadini e paisani beriuti di ogni valle e di ogni sponda  bi salutu   bi salutu  o maistrale chi scateni secondu a to fantasia u sciloccu in ajacciu e u libecciu in bastia o paulu  graziani  beru cuniscitore di a nostra storia  o alessiu marchetti  dmu di gran valore a quale duvimu a patriottica cerimonia di padulella o juvanni olivieri  pueta delicatu e mudestu  di prete carlotti  animatore di a nostra santa fede  a mattei torre  e jiannettu notini a quale duvimu u primu teatru corsu  o piazzoli  a vincinguerra  o borghetti     e daveru  furmate la accademia corsa  la accademia chi si riunisce ne i giardini fiuriti di a corsica    scrivendu in prosa o in puesia  cantate e nostre glorie  ed inrialzate un imonumentu a u dialettu corsu  e megliu di me sapete chi u dialettu corsu  fratellu di u tuscanu  e u piu bellu di u mondu      prima di fini  un buria dimentica i giovani cursisti  riserve e speranza di a corsica  ghiseppu filippi  terrazzoni filippini  vinciguerra  alessandri    hanu dirittu a u nostru affettu e a nostra ammirazione   stamane  in piazza di a chiesa  aghiu intesu alcune persone meravigliarsi chi u partitu corsu di azione abbia  foto  tomasi  u teatru in piazza di a chiesa  a luce di candelle e scene si segui   tonu mentre a cuntentezza generale facia esplosione ad ogni trattu   a tutti li intermezzi  da la ombra di a piazza  si alzava a voce di qualch impruvisatore locale  suvente attalentaiu ma sempre desiderosu di cunserva lu incognitu u piu assolutu   quandi u tindone fala sopra a u duttore  entre in scena nostru fratellu di fede ageniu grimaldi  omu di vaglia e milite appassiunatu di la idea   celtu stu jornu  14 lugliu  pe a terza merindella   u 14 lugliu  festa di marianna    ignoranu dunque a storia   stu jornu e per noi un gluriosu anniversariu perche ci ricorda a fundazione di u guvernu di pasquale paoli  ed infatti  u 14 lugliu 1755  ind u cunventu di a casabianca  pasquale paoli fu pruclamatu generale di a nazione corsa   permettitemi chi eo bi parli di a casa paoli che boi avete visitata cun tanta emozione e cur tanta fierta  ma ci vole che noi faccimu u nostru duvere fin a fondu    bisogna chi una lampada  ardi eternamente in memoria 4     chi per noi suffri u martiriu  di lu umu pada che noi piazzeremu ind a ca lam  la di a casa paoli sara a luce di u ppel  due di a speranza  u focu sa u or mani pietose di i figlioli di ta u che lascerariu mai spegne    afd gn  credu di interpreta u vostru dumandenduvi di risponde a ttu chi bifara a muvra per una soit lama zione affinche ci sia prestu una rete da ind a cappella di a casa paoli ampa   e noi  sempre a la avanguardia di p  dea cursista  un lasceremu mai pa li fiaccula di a fede e di a speranza ore a  alzate u vostru spiritu ne a visi di a corsica di dumani  a corsic slne ra e fiera  a libe  e nutrite ovazione marcanu chi populu merusaglincu e sempre nia lu di una volta  o  qua  a la una di mattina  cu li accenti 5  lu jnnu a merusaglia e di cua chella piglio fine a rappres entazio a tandu chi ellu scuppiava in un rughj  di stricchi stracca e una sinfonia di culori un magnificu focu di artificci  offertu da a municipalita  i  a jurnata di u 14 lugliu 1926 fi testimone di una fede chi unsia    gnera mal   raccolti intornu a e nostre bandie  re  i corsi hanu affermatu a volunti di ricunquista ciocchi una sfrenata centralisazione la avia strappatu   mettimu a le ordine di a nazione corsa  merusaglia  a citta santa  non solu perche elle ebbe le onore di uua luce a u piu corsu di i corsi  ma ancu perche ella ha ricevutu cun entusias  mu e fratellanza li apostuli di y nos  tru risorgimentu   merusaglia e a la avanguardia di y populu corsu          
+  s
+    </p>
+    <docAuthor>
+     Pasquale Manfredi
+    </docAuthor>
+   </div>
+   <div n="4" type="poe" xml:lang="co">
+    <p>
+     si una tomba  avanti fra  si apre a noi spietata e trista  sottu a un fiore  a la aurora  quante chi un si sia ma  vista  si pienghie la amara sorte tuttu runchjendu lu spinu e si dice in la so morte      era natu a mal  destinu     lu asinu sumena lagni sottu a somma chi u direna 1 colpi falanu pagni  e rimpiazzanu la vena     pienghje a so pessima sorte   e  in linguagiu sumerinu   dice  senza aspett a morte      nacqui propiu a mal  destinu      oh  chi ghjorni di dulcezze   di basgi pieni di amore   infinile tennarezze ne chi ava mi strughjenu u core    e pienghje la abandunata quel  amor cusi divinu   e dice     so rimpiazzatu  ghj era amor  di mal destinu 1   cosa di di a santa donna chi in fume si ne e vulata   ma chi ella fu una madonna da chi fu salvata      ebbe vita un po cummossa ma di un devotu camminu   e purtantu lu so fossa  face di        chi mal  destinu      e st aquila chi di u sole  si abicino piu che nimu    parenu i so voli  fole  a noi oghje  chi ne dimu   fubbe eroe di mondial  scena papa e re runchjonu u spinu  ma a la fine  sant  elena face di        chi mal destinu     st isala che ne sole innora cume un fiore a mezzu pratu  chi ebbe longa e hell  aurora ma dopu tutt e spiumbatu    ebbe vita indipendente  ma oghje   custi mi inchinu   a pontenovu si sente     o    ln to destinu   
+  s
+    </p>
+    <docAuthor>
+     P. Borghetti
+    </docAuthor>
+   </div>
+   <div n="5" type="art" xml:lang="fr">
+    <p>
+     u manifestu autonomista alsazianu lorenu  1 a tous les alsaciens lorraifis ape fideles a leur patrie les soussignes a cette heure grave s adressent au peuple d alsace lorraine pour l invifer a l action   n    hesiter plus longtemps serait trahir notte  patrie  la mesure est comble jusqu au bord  pendant sept ans nous nous sommes vus de jour en jour dans notre propre pays depouilles de nos droits toutes les promesses  qu on nous avait faites solennellement ont ete meconnues on cherche a etonifer nos particularites ethniques et notre langue nos cotitumes et nos traditions nous savons a present que les fanatiques de l assimilation ont jete leur devolu sur l existence l'ame et la culture du peuple alsacien lorrain sans le moindre egard pour nos convietions et notre conscience    chaque fois que nous parlons des droits et des liberies de foire patrie et de notre peuple qu ils soient naturels ou qu ils nous aient ete legues on se moque de nous on nous inonde de menaces et de calomnies  cette souffrance nous ne voulons plus la supporter nous ne la supporterons plus a aucune condition  nous sommes rendu compte que pres que tout le peuple alsacien lorrain que tout ce qui reste encore de noble et d honnete permi nous au fond du coeur pense comme nous se reclame comme nous de la conscience de l alsace lorraine et de l amour de la patrie et entend remplacer les divisions ac tnelles par l estime mutuelle et l enraci 1 nement profond dans le sol natal que l impulsion soit donnee et tous se jigneront pour constituer ce front unique depuis si long temps desire pour chasser d un meme coeur et d une meme volonte l oppression et la ruine de notre pays  telle est notre conviction  la sauvegarde et la mise en action feconde des droits imprescriptibles et inalienables du peuple alsacien lorrain ainsi que la reparation des milliers et milliers d injustices commises a notre egard ne seront assurees que le jour ou en tant que minorite nationale nous anrons obtenu l autonomie complete dans le cadre de l etat irangais  celle autonomie legislative et administrative doit s exprimer par un corps de representants elus par le penple avec droit de budget et par un pouvoir executif issu du peuple alsacien lorrain siegeant a strasbourg et devant assurer la liaison avec tetat francais de concert avec le parlement commun a paris pour les questions interessant la france en general  avant tout en ce qui concerne la question grave et importante de notre attitude un front unique doit etre etabli de cette facon dos forces de combat ne pourront etre sabotees affaiblies par des luttes d opinions et des querelles de partis i si au point de vue des rapports de l eglise et de l etat et de la question scolaire nous sommes pour le maintien de la egislation actuelle jusqu au moment ou le enple alsacien lorrain lui meme sera en mesun de decider de ces matieres d une facon defiritive la solution de la question serait selon is la mise en vigueur du principe suivant uh nviolable des parents de decider quel sedenta genre d enseignement donne a leurs en ren outre nous reclamons tous egards et tont ai envers le christianisme la majorite de cet pstriotes lui est profondement attachee notre ri qu historiquement la eulture de tel pays s est batie ses multiples forces cul dine e doivent etre utilisees pour l elaboration si vie sociale riche et saine 1 23 ee point du proeramme est bien comnris le resa point du prograrame est bien compris rpete sera que tout autre opinion se verra fonte  e ce sera de plus fermer la porte a beati u fraticide pour l avenir tutte qui divise fn a profit par nos ennemis pour nous he de  pour nous frustrer en toute tranquilotra le ox de nos droits qui sont communs e reg elle et a notre patrie  benne ione que la langue allemande ace qui tn la vie publique de notre pays la temelle a pet tant comme langue ma ma comme mense majorite de notre peuple te di ma ine des premieres langues de culdepart mare a l ecole elle doit etre le point ment e l instruction et en demeurer l'insli cue doit constitner une branche de fon dee nent avec un examen comme saneun gle dott inistration et devant les tribuloge francaise dir les memes droits que la nos organisalions d enseignementelementaire et superieur de meme que nos autres etablissements d instruction doivent elre geres dans toutes leurs branches non pas suivant les ordres de l administration centrale de paris mais conformement aux besoins locaux en rapport avec le niveau de la culture en alsace lorraine notre futur parlement en decidera tout en donnent aux parents et au personnel enseignant un droit d intervention tres etendu  nous estimons que l un de nos premiers devoirs est de cultiver le sentiment national en alsace lorraine de veiller a ce que la connaissance qu a notre peuple de son passe historique et de sa civilisation demeure inalteree afin de l enconrager a sa propre tache de le stimuler a developper sa propre culture  nous reclamons comme notre droit le plus naturel en vertu de la conscience que nous avons de nous meme en vertu de principes sociaux et linguistiques  place au soleil pour les fils de notre race qui se sont engages dans quelque carriere administrative eux seuls peuvent jusqu aux plus hautes places accomplir le travail administratif qui du fait de circonstances speciales linguistiques et culturelles est chez nous doublement difficile eux seuls nous debarrasseront du fardeau d une bureaueratie arrieree et de toutes les injustices eriantes qui nous harcelent  nous reclamons de plus  l aulonomie complete des chemins de fer alsaciens lorrains qui doivent etre la propriete du peuple d alsace lorraine  culture du commerce et de l industrie d alsace lorraine tant au point de vue des traites de commerce que par rapport a la concurrence francaise de l interieur  la reforme du systeme fiscal selon une justice sociale uniforme  l achevement de notre legislation sociale figee depuis des annees et dont le developpement est arrete par les efforts retardataires de fassimilation  le retablissement de l ancienne legislation municipale adaptee aux conditions economiques actuelles  nous sommes partisans enthousiastes de l idee de paix de la collaboration internationale et ennemis du chauvinisme de l imperialisme et du militarisme sous toutes leurs formes   notre pays point de rencontre de deux grande cultures doit etre mis en mesure de participer a la reconciliation de la france et de l allemagne et de rapprocher dans un meme travail civilisateur l europe occidentale et l europe centrale   our i4lre aboniir toutes ces revendications nous voulons grouper l en semble du peuple alsacien lorrain en une ligue patriotique heimatbund  qui a la fois doit le proteger et lui montrer le chemin  nous ne voulons pas etre un nouveau parti mais seulement une organisation destinee a encourager les partis exislants a abandonner enfin leur politique d atermoiements de leurre et de faiblesse et a mener avec une implacable energie la lutte pour les droits so ciaux et nationaux de l alsace lorraine  vive palsace lorraine libre consciente et forte  seguenu 82 signature di membri di u heimatbund    si pour te comite provisoire le seretaire general heimatbund
+    </p>
+    <docAuthor>
+     J. Keppi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

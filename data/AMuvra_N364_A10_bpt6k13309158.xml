@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k13309158
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k13309158
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 364 | Année 10
+     </edition>
+     <date>
+      1929-07-15
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Annu À — Numaru 364 | Esce a Dumenica 15 Lugliu 1929    GIURNALE DI È PIEVE DI CORSICA  ABBUNAMETTI :  in Corsica. .:. . . . . - . , + + + .:15 franchi  In Francia. . . . . . . . .. . . . 18 »  Unione postale . . . . . . . , . . . 30 »  U Mumaru:5 soldi  Direttore : Petru ROCCA  AR BMINISTRAZIONE:  38, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     mistral e noi       di pede nant u zigliare di u  mas  paternu  li occhj versu le alpiglie  in me  e da per me  pigliai a risoluzione  primu  di rialza  di riaccendein pruvenza u sentimentu di a razza chi io vidia annientassi sottu a le educazione falza e antinaturale di tutte e scole    secondu  di provoca sta resurrezione cu a ristorazione di a lingua naturale e storica di u mio paese  a quale  e scole tulte facenu una guerra a morte    terzu  di rimette in voga alingua pruvenzale cu lu impulsu e a fiamma di a divina puesia     mistral   memorie   ste parolle fubbenu dettate  a mistral da le amore immensu chi ella avia pe  a so  patria  credu chi  senz  ombra alcuna  e possamu fa nostre  mistral era cunvintu chi un populu un po campa senza a so  lingua naturale  cum ellu un po campa un omu senza cerbellu  cun lu impetu di i so  vint anni e di u so  geniu  ajutatu da cumpagni piu mudesti forse  ma non menu decisi  si attacco a un  opera alta e moltu penicosa  e mistral ha riuscitu   ha suffiatu in un focu chi si spegnia la ha riaccesu  accatizzatu  e so cullate sin a u celu fiamme nove  si e spartunel mondu sanu u so  lume  oghie  quelli stessi chi si ridianu di u pueta  chi u fighiavanu cun occhiu tortu  chi lu inculpavanu sottu sottu di separatismu e lu averebbenu ancu messu vulinteri sottu chiave  oghie so quelli chi li alzanu statue  vantanu u piu a so  divina  mireio   li por ghienu fiori  cu a lagrima a  li occhj e u mele a e labbre     chi questu lu esempiu ci jo  vi  o fratelli  ellu seguito a so  via a capu altu  un fendu casu a u batalume di quelli chi discutavanu  ne a u trimuleghiu di li ombrosi     intuppo certamente in numerosi ostaculi  ma un lu pobbenu para   ciocch e intrapresu sottu u segnu di a fede e di u talentu un po che ghiungne a bona fine  oghie  la opera di mistral esiste  indestruttibile  a pruvenza unn e piu una nazione  ma sara sempre una patria cristallizzata in li libbri di mistral  e u so core battera sempre in la assemblea di i fe libri  campera in  ssa puesia chi loda a terra nativa  rinchiude a tradizione e a storia  risplende di bellezza cristiana e canta in le onore di a patria   ad altri punti di vista  mistral ha allargatu le orizzonte di u pruvenzale  la ha resu piu puru ed armuniosu  sbarrazzendulu di i termini infrancisiti   ha cercu di arricchi u vocabulariu di a parlata populate incapace di esprime tutta la anima umana  per cio  ba coltu in la lingua di li antichi truvatori e ancu in lu italianu  ha salvatu u pruvenzale  la ha rinuvatu  e di cio chi si guastava e risicava di spari ne ha fattu un unita soda e schietta  poi  ci ha rinchiusu a patria  edi tal modu la ha inalzatu un monumentu eternu  unu di i tre o quattru piu belli chi sianu mai nati da cerbellu umanu          cio chi mistral ha fattu  perche noi un la puderebbimu riesce   ci vole a cresce e pussibilita di espressione di u notru dialettu  ci vole a sapellu puli  arregalli cio chi li manca  sterpa cio chi le imbastardisce  cusi  acquistera chiampidita  ricchezza  forza  si pudera adatta a  diversita di a vita e di i sentimenti  tutt  essendu piu manighievule bisogna a circa petre nove a  cava  zuccalle  muralle ed  incalcinalle di amor patriu   cusi si inalzera sin a e stelle un edifiziu chi un temera ne ascimizia di li omi ne a pazienzu destiuttiva di u tempu  abbiamu volunta e speranza  a terra di tante spade celebre  un pudera da una celebre penna  a mamma di sampieru  di paoli  di napulione un parturiscera di un virgiliu  di un dante  di un mistral  i corsi di talentu si ostineranu a scrive sempre una lingua imparata   a francese  no  a muvra ha datu u cennu  i spiriti si discetanu  li occhj si aprenu   u coru di e muse corse si e furmatu  e un organizzazione piu stabile ha da nasce da la idea di un cuncorsu  ogn annu  di puesie scritte  tutt inseme  andemu cantendu secondu a nostra anima e a nostra voce  i ratacchjmmi di e granocchie un supranierariu mai u nostru cantu  chi lu esempiu fecondu  di mistral e di i so  cumpagni ci dia curaggiu  riesce chi vole     a lingua di i nostri antichi  di i nostri eroi  un deve more  pero  un ci scurdemu mai chi ella corre un gran  periculu   periculu  creatu da un guvernu cegamente nivellatore   un si tratti di dialettu in le scole  francese e basta  e scole hanu per iscopu di sterpa u corsu  prima ancu che di impara u francese  ma stu sistema di oppressione  bonu per a scola  un culpiscera mai a famiglia     e custi si salvera a nostra parlata  ma ci truvera un altru nimicu   vogliu parla di lu impinzutitu chi sbarca  imbuffatu di sapere acquistatu pe  sse francie  vergugnosu chi u babbu e a mamma dicanu  i piatti  invece di e sassiette      eccu un altru nimicu di u notru dialettu  chiama coiffore u  piruccheru   malla u   baullu   dice soigna per  cura   trompa  per  sbaglia   malorosu  per  disgraziatu    ed eccu le erbacce chi noi duvemu pila una ad una  o fratelli  siamu  i guardiani di u bon  granu  salvemu almenu a sumente  e speremu chi  oghie o dumane  cursichella ci dara un bone suminadore chi fara matura e grane a u sole di u so  geniu  
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     andemu     a corsica rumena  a  corsica si sveglia   hosanna    ie  lu atavismu e cosa certa in la nalura umana  e guai a li impii chi un cridianu piu in quellu di a razza corsa    e consulle populari rinascenu  porle e finestre di l abiticuln maternu si aprenu a i venti purificatori  ci u sole di a resurrezione abbaglia digia li animalotti parassili chi scappanu sollu i lransigli casani  testimoni di lante miserie e di tante iniquila    le onione si face cume noi a predighemu  dipoi longu  empu  e prestu  a lega cirnese cumpletta  definiliva  pruvera a u mondu chi a corsica un si ha fallu che una sunnata dipoi chi ella fu francese   sonnu riparatore di forze  chi era forse necessariu  ancu cusi longu  dopu tanti seculi di lotte guerricre finite in ultimi strepiti a ponienovu    ssu sonnu ha avutu qualchi interruzione  ma unn eranu che scosse passaggiere di fantasima   ci fu in 19o8 u famosu cungressu di corti  duv ellu si parlo ancu di separalismu  chi spavento u guvernu direttu allora da clemeneca u  e chi risico di mette in pedi a corsica inlera  risvegliata  ma u   tigru  invio in lisula quelia famosa cummissione  interministeriale chi ci cupri di ridiculu  fenduci spera  e cirnu ripiglio a so  sunnala  senze piu scosse serie     u cungressu muvimentatu di corti fu seguitatu da un azione cullettiva di corsi di parigi  piu pacifichi  chi principionu un  associazione  cun scopu di difende li interessi di la isuja  e ancu  di ajula fraternamente i cumpalriolli casligali da i inghiustizia  i   ss associazione e ingrendala e si e stesa largamente  sin a e culunie  soitu lu impulsu di omi degni di lose  ma chi hanu avutu u lortu di un  capi chi le unione duvia esse schicttamente corsa e faita ancu cu li aggruppamenti corsi furmali sottu la insegna locale o eurpurativa chi li cunvenia   cusi   ss associazione  vulendu impone una sola insegna  un si e cumposta che di invidui isolati e  malgradu e so  sezioni ben organizzale e ben dirette  unn ha mai pudulu fa u bloccu corsu  da un  altra parle  a so  azione si e duvula limita a timide suppliche  interdetta a e rivin  dicazioni ardite  prisentale in massa decisa  perche lu elementu di origine francese chi ella avia a mischiu unn averebbi seguitatu u muvimentu  unn avendu ne listessi mutivi ne listessu amore pe  a corsica   ma dipoi  u spiritu di associazione si e stesu  i corsi spaisati hanu furmatu prugressivamente diversi aogruppamenti  di inizialiva o corpuralivi  o semplicemente fra originarj di un stessu paese  per pudessi radu ni qualchi volta in li ricordi di u fuculaghiu abbandunatu e fassi in famiglia  una scorpacciata digerita cun gioiosi balli   a passa inda  ss aggruppamenli si so avvisti chi a corsica penicava durente chi elli  ballavanu  chi a francia la abbandunava in li strazi  e chi ellu eranu elli stessi sprezzuli da i so  pretesi fratelli francesi   allora  la idea pe venuta di cresce a so  forza e di stende a so azione  uniscendusi in federazione focale   nofemu pero chi i corsi di marseglia hanu guasi cummessu u slessu errore chi noi crilicavamu pocu fa   cerli avianu prupostu di scioglie tutti li aggruppamenti per furma una sola associazione  e di altri vulianu aggrava le affare dumandendu a reunione di lu elementu corsu a u regionalismu francese  ci ne e ancu statu unu chi ha lrovu generosa la idea di le unione generale corsa  ma difficile ad oltenesi      chi discorsil    quessu nn duvia micca esse venachese        finalmente  u piu saviu  u piu ghiusiu partitu e stalu pigliatu  quellu di raduna in federazione iulli li aggruppamenti locali esistenti e di resta un  associazione schiettamente corsa  libera di i so  muvimenti in le rivendicazioni di interessi corsi chi un ponu passiuna che i corsi     ssa decisione deve sollu intende u travagliu ailivu di e federazioni locali per unissi in cunfederazione generale  cio a di  in lega cirnese cumpalta e disciplinata   si questa paria difficile  ancu impussibile a certi spiriti fiacchi  avale  u minimu dubitu je un insultu a u patrioltismu corsu   li evenimenti provocali da la ultima alzata di cavicchia   fraissineghia   ci hanu pruvatu chi tutte e volunia so pronte   un ci e piu che a radunille e a direggele  e per quessa  a iruva un omone chi faccia canta a u populu corsu unita u dio ti salvi regina e chi dica a mamma cirnu   ritta   tutti i lo  figlioli so intornu a te  andemu     eccu u stradone di u prugressu chi cunduce a lu immensu campu di e vittorie pacifiche in la luce di a scenza  in lu geniu di le arte  in le ardore di u travagliu intelletuale e manuale  duv ellu un cala che sudore di nobili sforzi pe  a grendezza di un umanita sempre  piu purtata a le amore fraternu  melli a to  curona di gloria  accendi a lo  torchia di geniu  piglia u lo  pasturale di pace  e andemu  a tappe forzate  per racquista u lempu persu     ni ghiuntu in lu campu di azione  truverai a francia in fiera statura di travagliu e li dicerai    ti perdongu di avemmi perfidamente abbandunata in piena macchia  malgradu tulli i mio merili a u to  amore chi tu preferisci di da a gialli e neracchioli chi io li vegu intornu e messi in lussu chi li sende cume u cappellu a  scimia     duve je a mio piazza in lu to  chicrchiu di attivita ln  a francia  cunfusa  ti dera allora a piazza chi tu mereti  sinno  ti ne sceglierai una da per ie  e  dopu ave stupitu u mondu cume geniale guerriera  u stupirai cume pacifica e geniale operaia    andemu    v  g  di altimonti
+  s
+    </p>
+    <docAuthor>
+     V. G. d'Altimonti
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     i corsi separatisti  i corsi autonomisti di a muvra so poca cosa accant a i corsi separatisti di parigi  eccu ciocch ellu scrive  li ami du peuple       iiest cependant alsolument incontestable que les transporis maritimes sont la continuation des transports ferroviaires  or  vu queles chemins de fer ne augmentent pas leurs tarifs  les chemins maritimes ne doivent pasaugmenter les leurs  a moins que les pouvoirs publics ne cherchent a rendre les corses separafisfes     ghie un pezzu chi a muvra la ha detta  ma u sgio sanguetta tene forte  e i separatisti di parigi un li facenu peura  ci puteri publici i jascianu racchia se bo  un site cuntenti  saltate  dicenu  un bi pudete passa di mariannona  a vostra cara mamma  ma qual e chi sa chi un ghiornu      
+  s
+    </p>
+    <docAuthor>
+     Libertad
+    </docAuthor>
+   </div>
+   <div n="4" type="poe" xml:lang="co">
+    <p>
+     lettera  a lu orsu  orsu di orezza  fratellu di fede   a nostra muvra di te mi ha parlatu    mi ha dettu chi tu ne era malatu   datti curaggiu   a ssu male nun cede   sai chi in stu mondu  caru cumpagnu   a vita e una siradaccia di spine  angoscie cu disturbi senza fine   e lu omu addisperatu unr ha che u lagnu   e fatta cume a macina chi gira   oghie  lu omu cuntentu canta e sona  armuniosa  a so  lira risona   u lindumane  piegne e assai suspira   dunque  di scuraggissi  a noi nun lice  amenda  sso male tantu sfacciatu    fatti una cantatella ancu malatu   a musa e una gran cunsulatrice   un ti cunoscu  e mi trovu luntanu   ma di cor  cusapatiscu si to  turmenti  pe  a to  salute facciu voti ardenti   e alza e mio preghere a u re supranu   a u zitellucciu chi di pocu e natu pregu bona salute elonga vita   pregu a la mamma una gioia cumpita   a te  chi tu sia prestu risanatu   ghjlormu
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="5" type="art" xml:lang="it">
+    <p>
+     san gregorio magno e a corsica  questo papa  gia monaco benedettino  fu in tempi difficilissimi per la chiesa  59o 6o4  uomo di azione ecce   zionale   ja sua attivita spazio in ogni  campo  oltrecche nel religioso  coltis   simo e pio  di costumi austeri  dotato di una volonta indomabile  riformatore ardito  fu uno dei piu illustri pontefici che la storia della chiesa ricordi  e venne giustamente innalzato agli onori deglialtari ci chiamato  grande   romano  legato da parentela con la famiglia anicia  ebbe altissimo il concette del primato papale nel monda  primato che egli seppe abilmente difendere contro longobardi e bizantini  a lui si deve il riordinamento dei vescovadi in italia   ad una mente perspicace ed acuta come la sua  non poteva sfuggire lo stato deplorevole nel quale si trovava il nostro paese al di lui avvento al pontificato  specialmente nell italia insulare la situazione era assai dolorosa   in sicilia  in sardegna ed in corsica  esistevano ancora grossi nuclei di pagani  che i prefetti imperiali  per ragioni di lucro  tacitamente tolleravano  i  pericolo per la chiesa era grave ed urgeva porvi pronto riparo  queste isole furono pertanto oggetto delle sue piu sollecite cure  specialmente la corsica  ove peggiormente andavano le cose    come si rileva da i suoi scritti  quivi i miseri abitanti oppressi da imposte superiori alle loro forze  erano costretti a vendere i proprii figliuoli per soddisfare il fisco  altri invece abbandonavano il paese  gettandosi dalla parte dei longobardi nulla o press a poco autorita della chiesa tanto chel isola nella quale ilcristianesimo era penetrato nel iii secolo andava poco a poco scristianizzandosi inoltreminacciava di spopolarsi e la civiltaromana andayalentamentescomparendo   saputo che anima di queste estorsioni inumane era certo teodoro  altre volte maestro delle milizie  ed ora per intrighi e corruzioni duce della isola   la quale dipendeva dal lo esarcato di africa  scrisse una fiera lettera all imperatore  denunciando i fatti scandalosi ed invitandolo perentoriamente a farli cessare  era motivo di particolare disgusto per gregorio  il sapere che teodoro  pure di fare denaro  per soddisfare il lusso proprio e quello della corte di costantinopoli  permetteva  mediante il versamento di una certa somma  che le popolazioni ritornassero ad adorare gli antichi idoli   va notato che in quei tempi  la corsica  non avendo un proprio metropolita  non formava una provincia eeclesiastica distinta  ma dipendeva direttamente dal vescovo di roma  cioe dal papa  il quale vi era rappresentato da un delegato  questi aveva per missione di difendere gli interessi dei poveri e dei sacerdoti contro gli abusi delle autorita  amministrare i beni della chiesa e promuovere la propagazione della fede  esistevano allora nell isola  vescovi ad ajaccio  a sagona  ad aleria e fers anche a nebbio ed a mariana  verso i quali i  pontefice a seconda dei casi  non lesinava lodi o biasimi  standogli sopratutto a cuore vevangelizzazione del paese  all uopo invio parecchi zelanti missionari  i quali  guidati da pietro vescovo di aleria  operargno molte conversioni   p  h  grisar  che  a san gregorio magno  dedico recentemente un volume  edito dalla casa desclee  di roma  scrive    e cosa degna di nota che ne  luogo donde moveva la missione  fu  per ordine del papa  edificata una basilica  sopra un terreno pertinente al patrimonio della chiesa romana    accanto a questa basilica dedicata a san pietro sorse pure  per volere di gregorio  un battistero intitolato a san lorenzo al quale dono molte reliquie   le sue pregccupazioni per la isola diletta erano  si pub dire  cantinue   creo il vescovado di san pietro di accia e promosse per mezzo di orosio  suo delegato  la fondazione di monasteri  ci e stata conservata una lettera del papa  la quale parla delle difficolta incontrate per le erezione del primo monastero  ed e tutta un quadro curioso della vita di quei tempi in corsica   non v ha dubbio che gregorio esercito sulla isola una grande e benefica egemonia morale  per merito suo furono ridotte ie imposte  le comunita cristiane  merce i sussidi da lui inviati  poterono fiorire ed espandersi e la gerarchia cattolica prosperare  egli fu immensamente popolare e tenuto in grande venerazione   quando seneapprese la morte  generale fu il cordoglio  e tutti gli storici corsi ricordano il bene fatte da lui alla loro patria   celebrandosi ora il xiv  centenario di san benedetto  non mi e parso inutile rievocare le benemerenze verso la corsica di questo pontefice  il quale fu indubbiamente  fra i figli del taumaturgo di norcia  uno dei piu illustri 
+  s
+    </p>
+    <docAuthor>
+     O. F. Tencajoli
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     speranza  a petru rocca  a stella di a matina e giu levata   la aurora ja chiarura spampillente    u ciucciu cappial ha un chjri innucenle    scar muttaln      superu chi ell e a fine di a nuttata      aibo 1 deve ave  ntesu lu rumore chi fa u preparativu di a parfanza   o u zunzinulime di u motore  chi  di in piazza  ne jugne sipu in stanza   mi ride cu la bocca spalancata    un sguardu ha digia di intelligenza   e sembra vule  di     abbie speranza   stasera ferai la ritornata     a mamma nun lu guarda perch e trisia  fin qui  un vede niente chi un sia neru  e so  drittu di ave tantu penseru    ma di fassine tantu  nunda acquista   l auto colla la costa  allegretta   appena ne va pianu in le girate   pare fiera di passa in je cuntrate chi invidia  di i turisti  lala setta   u pratu si abbicina  e a diritta    u mare  monte cristu  elba  la italia   a pieghia du la aleria a la biguglia e u paradisu corsu  1   terra afflitta   u sole    un capu rossu chi si mira  nu mare  poi si stinza  insu avanza   ci manda li so  raggi di speranza      rapida e la visione  l auto gira   quindi  cu a neve  i monti di niolu spiccanu li so  spinzi vers u celu  lu  qualchi muvra quassu cappia lu imbelu e bedesi tracchighiata  e sempre 1o dolu   merusaglia si dorme   in fretta in fretta  ghiustu lu tempu di caccia u cappellu davant a quellu chi ghiace na siretta  e chi di a liberta fu nostru stellu   prestu  eccu e custere   fan  spaventu   tantu chi elle so inculte e spilandrate   di truvanne u mutivu  nun circate     en leni  ce qualchi alberatura pressu lentu   golu     cappiu un suspiru di mancanza  perche  in sti cuntorni ci ritrovu u simbulu di ricordu e speranza   croce alzata da noi in pontenovu   a pieghia allusticata ava si affacca    e un disperu piuttostu che un decoru   di suminati  appuntu quaichi tacca   ci e bena piu che spighe culor di oru     o orsu    e mi suttrenna lu cumpagnu  un dorme  ne una tale circustanza    hai cappiatu un suspiru  un certu lagnu     ma forse  di guari unn hai speranza   bai di megliu in megliu  e li dultori ti hanu da di  in bastia   unn  ete nulla bi spessu  la medicina inganna e burla  1 piu forti sapienti e i prufessori       anh  bai chi fresch e la medicina in chiocca di certi gran mazzacani   dotti justu per fanne matacina   e ghiustizia  di que silava e mani           in bastia  si e ancu di bona ora   piu prestu simu spicci  megliu a     u duttore disse     chi po sape   quandu la malatia piatta dimora        addiu  o sgio dutto  mi ne rivoltu    e si ja vostra scenza un po sape   malatia ben grave allora un ci e   bi sia detta sanza fabbi tortu   a u riturna  u sole ne tramonta e pare arripiccassi a la muntagna    un nulacciu  sarisgendusi  si lagna di  ssa tramunfanaccia sempre pronta   ci porta la chiarura in circustanza   ma lu sole ci insiste chi ell e ellu chi face lice a inna ed ogni stellu   e chi di lu universu e la speranza     na     ruggier  stasera dorme spenseratu   e mancu lu rumore lu disceta   a mamma  ircerta e ma non inchieta  perche  prestu cusi unn era aspettatu 
+  s
+    </p>
+    <docAuthor>
+     L'Orsu d'Orezza
+    </docAuthor>
+   </div>
+   <div n="7" type="art" xml:lang="fr">
+    <p>
+     le syndicat de la presse corse les membres du syndicat de la presse corse se sont reunis le dimanche 7 juillet a six heures du soir pour etablir et voter les statuts de cette association  etaient presents mm jean baptiste mavcaggi leon maestrati henri omessa xavier franceschini paul valot nicolas de susini francois pietri max roger tellier  mm graziani petru rocca et antoine tanot empeches s etaient fait excuser   apres lecture et discussion les statnts ont ete definitivement mis au point et approuves  il a ete proeede ensuite a l election du bn reau provisoire qui en est ainsi compose  president m henri omessa vice president m paul valot syndic m nicolas de susini tresorier m tellier le voeu a ete emis que nos confreres de la presse bastiaise procedent de leur cote a la creation d un groupement professionnel  une copie des statuts sera renvoyee a cet effet aux directeurs des journaux bastiais de facon a ce que une fois leur adhesion acquise il puisse etre procede a la nominatien du bureau definitif du syndicat de la presse corse
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="8" type="div" xml:lang="fr">
+    <p>
+     giurnali nulle parl cu france meme e puris le pain n est nussi cher que dans nos villages de l interieur  l augmentaliou des arifs du frelaurt donc pour consequence ineluclable d augmenter douloureusement en corse le cours de ja vie on dirait qu on s est jure d y organiser la misere el de la perpeluer   a tanot  l eveil de la corse 3 7 29  pourquoi nos representants au parlement ont ils telegraphie a la presse insulaire pour annoncer le renvoi a un an de l application des nouveaux tarifs alors que la compagnie fraissinet nous nolifie par la meme presse l'upplicalion des nouveaux larifs du frel  c est tres imporluni  a parlir du der juillet 1929  qui trompe t on  la phrase  application des nouveaux larifs laissait entendre qu il s agissait de ous les larifs sans restrietion alors qu en realite les nouveaux tarifs du fret qui justement nous interessent au plus havi point nous sont appliques immediatement el encore avec une legere augmentation qui vient s ajouter a celle deja envisagee par le projet  c est un verliable coup de jarnac dont l opinion n appreciera touie ja portee que dans quelques semaines au moment ou je nouveau regime aura une repercussion severe sur la vie economique de ce pays  a villanova  la jeune corse 27 6 29  en temps normal la corse commence a marseille mais en periode electorale on n est pas certain qu elle finisse a saigon   sur le bafeau honteux que la mer chahute comme un fetu et que la compagnie fraissinet offre sans vergogne a une clientele resignee ou heroique ils sont accourus de lous les coins du monde pour jeter dans l urne un bulletin peut etre inutile  depuis des semaines ils partent six cents par jour  le malin des elections ils seront vingt mille accourus d egypte d indochine du maroc de tunisie et d algerie et meme du japon les bureaux politiques de marseille reparlissent leurs clienteles prennent les billets donnent meme un viatique   ceci n est rien me glisse un ami avec nne pointe de fierte patriotique  aux dernieres elections legislatives un maire qui s est enrichi en amerique fit venir a la derniere beure quelques uns de ses partisans en avion son concurrent qui n etait pas regardant l imita  nous voila entasses entre le pont et les soutes nos cabines qui elaient reservees depuis paris sont occupees on crie on trepigne on profeste mais l equipage a l habitude de ces coleres et leur oppese un calme compatissant  u entre dans ses attributions de les susciter pour se donner l avaniage de les apaiser en payant une seconde fois nous aurons le droit de ne pas passer la nuil a la belle etoile  les querelles s allument ou plutot s embrasent malgre ie flot qui enfle et devient menacant tout a l heure il couchera tous les partisans sur un ustensile innommable et comme on n en voit que dans certains paysages de banlieve sur des collines de detritus rouille ignoble le recipient pend comme une gamelle de pauvre dans toutes les cabines du corte 11 il danse comme une sebile symbolique aux cordes des bastingeges c est le pavillon de la compagnie on est tente d y laisser son pourboire avec le reste   g suarez  gringotre 21 6 29
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="9" type="art" xml:lang="fr">
+    <p>
+     les courses hippiques en corse programme du meeting d automne 13 octobre  prix d automne 5 000 franes  offerts par la sociele des courses 2 600 fr an premier  4 000 franes sn deuxieme et 500 francs ou troisieme  courses de haies pour fous chevaux de 4 ans el au dessus nes et eleves en corse ei issus de jumenis nees et elevees en corse et d elalons possedant au moins 24  de sang arabe poids 4 ans 65 k  hans et au dessus 69 k surcharge accumulee de 4 k par somme de 4 000 francs gagnee distunce 3 200 m entree  40 fr  grand prix d ajaceio 42 000 fr  offerts par ja societe des courses 10 000 fr au gagnent 4 800 fr au second et 500 fr au troisieme les entrees partagees cnlre le second et le troisieme  course plate pour chevaux entiers hongres et juments de 3 4 et 5 ans de toute espece nes et eleves en corse et issus de juments nees el elevees en corse poids  3 ans 60 k   ans 60 k  5 ans 67 i distance  4 800 metres environ entree  60 fr  prix de vignellu 3 000 fr  offeris par la societe des courses d ajaccio 1 800 francs au premier 800 fr au deuxieme et 400 fr au troisieme  course au trot monte ou atlele pour tous chevaux de 4 ans ct au dessus nes et eleves en corse poids  4 ans 62 k  5 ans 64 k  6 ans et au dessus 67 k poids libre pour les chevaux atteles tout gagnant reculera de cinquante meires par somme de 500 francs gagnee les chevaux atteles avanceront de cent metres distance  3 900 metres entree 40 fr  prix cyrnos 4 000 fr  offerts par la societe des courses 2 500 fr et les entrees au premier 1 000 ir au deuxieme et 500 fr au troisieme  course plate pour chevaux entiers hongres et juments de 8 4 5 et 6 ans de toute espece ayant effectue un parcours complet dans le pris d antomne ou dans le grand prix de la ville d ajaccio et n ayant pas gagne dans vannee sur l'hippodrome de vignetta une somme superieure a 3 000 franes poids  3 ans 60 k  4 ans 64 k  5 ef 6 ans 67 k distance  1 800 metres environ entree 25 fr  conditions generales  les engagements devront elre adresses avant le samedi 5 octobre a midi au president de la societe 17 rue notre dame tout gagnant d un premier prix quel qu en soit le montant et jusqu a concurrence de 5 000 francs portera 3 k de surcharge accumulee de 4 k par somme ou fraction de somme de 2 000 fr gagnee n entreroni en compte que les sommes gagnees sur l hippodrome de vignetta en plus des entrees il sera percu un droit fixe d entrainement de 40 fr par journee de course le present programme est publie sous reserve de l approbation ministerielle  les commissaires  grosetti marsili f ottavi  on remarquera que ce programme comporte des allocations s elevant au total de 24 000 francs prises entierement sur les ressources de la societe malgre les ameliorations apportees a l hippodrome et qui ont necessite une depense de PS0 000 francs environ la societe des courses d ajaccio aura ainsi disiribue aux eleveurs au cours de l annee 1929 la somme de 76 000 franes dont 40 000 preleves sur ses propres recettes  le president  d cuneo d ornano
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="10" type="div" xml:lang="fr">
+    <p>
+     cullana storica di a muvra a cunquista francese di a corsica  da un giurnale di l epuca  seguitu  on est sur le point de voir dans cette derniere ville une fontaive tres considerable dont le plan fait un honneur infini a l ingenieur qui ya dresse  il a tellement menage la chute des eaux pour la conduite qu il ne donne que 19 pouces de pente sur les 9000 toises qu aura le canal  la qualite des eaux de cette fontaine est excellente  on en ebauche seulement ja conduite cette annee en attendant de pouvoir la faire dans des canaux de bois ou de plomb  elle sera a present surtout de la plus grande utilite pour la magcnnerie des casernes qu on doit batir  des fortifications qui on se propose de faire    on attend en corse d un jour a l autre m le marquis d arcambal colonel du regiment de rouergue qui va y lever une legion laquelle aura la meme formation que celles qu'il y a deja sur pied en france  l on dit que celle de soubise a ordre de fournir des dragons pour la tete des compagnies  que mm cafforio  casabianca sont deja nommes capitaines des dragons  suite des nouvelles de paris du 23 septembre  m chardon intendant en corse ne partira pas de quelques jours pour y retourner on travaille aux instructions dont ij doit etre charge relativement au plan quia ete dresse pour tirer de cette isle tous lesavantages qu on peut en esperer on dit qu un grand nombre d artisans de tout metier se disposent a y passer pour s'y etablir de meme que quantite de marchands quel moyen plus efficace pour l execution de ce plan si comme il n y a pas a en douter le gouvernement le favorise  on verra bientot des corses s attacher a la france  il se fera insensiblement des mariages entre les deux nations  par ces alliances on les verra gouter une domination que l amour de la liberte qui les animoit auroit pu faire regarder comme un fardeau peu supportable  numero du mardi 17 octobre 4769  suite des nouvelles de paris du 30 septembre  m le duc de choiseul ne perd pas un instant de vue les avantages qu on peut retirer de la corse dont la conquete est regardee a si juste titre comme son ouvrage on assure que ce ministre se propose d y faire reussir la culture d une production qui epargnera au royaume plus de 2 millions par an qu on fait passer chez l etranger rien ne lui echappe  son oeil percant est ouvert sur tout  numero du vendredi 20 octobre 1760  de toulon le 12 octobre  les artilleurs revenus de corse sont a la seine  y attendent les ordres de la cour sur leur destination ulterieure le regiment d eptingen suisse qui depuis son retour de cette isle etait a la vallete en est parti dimanche dernier pour wissembourg  il etait arrive deux jours auparavant 88 mineurs venant de verdun qui s embarquerent lundi pour passer en corse ou ils vont travailler aux fortifications les mulets qui ont ete au service de l armee dans cette isle reviennentsuccessivement en france  il en est deja arrive plusieurs brigades on debarqua la semaine derniere 3600 fusils pistolets stilets  autres sortes d armes qui ont ete prises aux corses  on les envoye a marseille  numero du mardi 24 octobre 1769  de genes le 44 octobre  nous aprenons de la bastia que le feu ayant pris dans la partie superieure de la ville l incendie devint considerable par la violence du vent qui causa en meme tems beaucoup de dommages a la campagne cet incendie ne put etre entierement eteint qu au bout de 3 jours  le gouverneur a condamne a l amende ceux qui n allerent pas donner secours attendu que peu s en fallut que l incendie ne devint general on a enfin execute a mort dans oletta cinq des complices de la trahison qui y avoit ete tramee  8 autres qui s etoient evades l ont ete en effigie les maisons des coupables dont les biens sont declares devolus au fisc vont etre demolies  on y elevera a la piace une colonne infamante onze hommes moins coupables que ceux qui ont ete condamnes a mort  deux femmes furent presens a l execution  les hommes ont ete ensuite marques d un fer ardent  serviront toute leur vie sur les galeres   les deux femmes passeront le reste de leurs jours dans une prison  numero du mardi 24 octobre 1769  d ajaccio en corse le 14 octobre  on vient seulement d avoir connoissance de ce que quelques habitans de cette isle mal intentionnes  vrais pertubateurs du repos public firent malicieusement inserer dans la gazette de livourne au mois d aout dernier au sujet de m le comte de perrez ce sont des horreurs qui excitent l indignation  qui inspirent un souverain mepris pour ceux qui ont ete capables de faire annoncer dans des nouvelles publiques des faits si injurienx qui n ont pas meme la moindre apparence de verite  tandis que tout le monde sgait que depuis le 24 juin que les troupes du roi entrerent dans les divers quartiers de cantonnement qui leur avoient ete asssignes m de perrez s est retire ici qu'il y a toujours reste  qu il y est encore actuellement on sait aussi qu il a sacrifie ses interets a sa vie meme pendant les deux dernieres campagnes en servant dans la legion corse en qualite de commandant sans aucuns appointe mens s m toujours attentive a recompenser ses bons serviteurs a ses fideles suiets lui a temoigne combien elle etait satisfaite de ses services en lui faisant expedier un brevet de lieutenant colonel d infanterie  lui accordant une pension de 800 livres  numero du mardi 24 octobre 4760  de londres le 2 octobre  le general paoli a eu l honneur d etre presente au roi comme simple particulier  s m l a recu tres gracieusement  elle a daigne s entretenir long tems avec lui  a paru fort satisfaite de sa conversation ayant parfaitement repondu aux diverses questions qu elle lui a fait on lui prepare un hotel magnifiquement meuble ac ses amis qui en font les frais sont dans la disposition de le mettre dans un etat a n avoir rien a desirer tandis que la cour tiendra a son egard une conduite a ne donner aucun ombrage aux puissances voisines  numero du mardi 24 octobre 1769  suite des nouvelles de paris du 7 octobre  ilya aussi une ordonnance pour la creation d une nouvelle legion sous le nom de legion corse du 10 aout  numero du vendredi 3 novembre 1769  de monaco le 4 novembre  un bateau de poste parti le 26 octobre de la bastia pour toulon relacha ici le 28 au matin e nous apprimes par cette voye une partie des graces que le roi a accorde aux regimens qui ont servis en corse dans le regiment dauphin m de leautaud don nine lieut col a ete fait brigadier m de s vincent rer cap des grenadiers aeu la commission de lieut col m de la rochepalier 11  cap a ete fait lieut de roi du s  esprit  les deux autres mm de maneville e duverdier ont eu 60o livres de gratification m de bonne 1 factionnaire a eu la majorite de l isle de re  400 livres de gratification annuelle m desgarets 3 factionnaire qui commandoit une compagnie des volontaires la commission de lieut col  400 1 de gratification annuelle  plusieurs autres officiers des gratifications le regiment de soissonnois quia eu le plus de part aux operations dans cette isle  qui etait a la brillante defense de loretto ou commandoit m ie baron de juigne son colonel avec les grenadiers  chasseurs a eu aussi une part des plus distinguees dans la distribution de ces graces mais nous n en savons pas le detail non plus que de celles qui regardent les autres regimens nous nous serions fait un plaisir de les annoncer  nous avons appris en meme tems que le schebeck le ruse commande par m le chev de damas se trouvoit a la bastia ou il etait venu prendre les ordres de m le comte de vaux lorsqu on fut informe qu un batiment tunisien avoit debarque pres de ja tour de la mortella dans le golfe de san fiorenzo  avoit debarque une quinzaine d hommes armes qui poursuivant 3 corses  3 genois qu ils avoient trouve sur le rivage avoient pris  emmene les 3 corses les 3 genois s etant sauves en grevissant les montagnes  sur quoi m le chevalier de damas avoit mis a la voile la nuit du 25 au 26 pour suivre le corsaire tunisien  on dit que le fameux jean carlo s etant embarque a livourne est venu descendre dans l isle  qu il s est mis a la tete de quelques bandits sans doute peu intimide par l exemple de pelone qui revenu comme lui  ayant ete arrete a ja bastia a ete envoye au regiment royal corse pour y avoir la tete cassee mais sort qu il n aura pas lui meme s il est pris il peut s attendre a un autre auquel l infamie est attachee au reste on ne craint point les tentatives qu il pourroit faire tous les postes sont solidement etablis  bien gardes  la communication est fort aisee de l un a l autre m le comte de vaux fait continuer de travailler aux fortifications de corse avec toute l activite possible  il doit se rendre a la bastia a l arrivee de m le marquis de thianges  et on attend incessament m chardon dont on a eu la nouvelle du passage a lyon  numero du mardi 7 novembre 1769  d ajaccio en corse le 20 octobre  s il pouvoit rester quelque doute sur ce qui a ete dit dernierement a l occasion de m 1e comte de perez la copie ci jointe de la lettre que m le duc de choiseul jui ecrivit le 12 septembre dernier est bien capable d en constater la verite  je viens monsieur de mettre sous les yeux du roi le memoire que m le comte de vaux m a adresse en voire faveur le desinteressement avec lequel vous avez embrasse le parti de sa majeste depuis le commencement de la guerre en corse est une preuve confiante de votre zele  de votre inclination pour son service elle a vu avec plaisir que vous reunissiez a cette qualite des talens militaires doni vous avez fait un usage tres distingue dans plusieurs commissions delicates qui vous ont ele confiees elle m a charge de vous assurer de la satisfaction qu elle a de voire conduite en general  elle a bien voulu vous en donner un temoignage particulier en vous accordani le brevet pour tenir rang de lieutenani colonel dans ses troupes d infanterie  elle a ajoute a cette grace une gratification annuelle de 800 livres sur l exiraordinaire des guerres je vous en donne avis  suis monsieur votre tres humble  iresobeissant serviteur signe le duc de choiseul
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="11" type="feu" xml:lang="it">
+    <p>
+     egli e altobelloa voce sommessa alternarono lingo la via discorsi pei quali si sentirono tratti a stimarsi scambievolmente   sicche quando furono in procinto di lasciarsi  lo alando gli disse     voi siete un giovane dabbene  signor rinaldo  e al tutto degno di combattere per una causa migliore   potrebbe darsi   ma non importa  voi capite bene  signor alando  che io non posso presentarmi in corte per dichiarare al re  che sta in bilico di commettere una solenne castroneria   a noi bisogna obbedire     sara       come   ne dubitereste      adesso non fa caso ragionarne  forse la non vi parra sempre cosi  intanto pregovi di accettare questo pugnale corso in ricordo di me    a    un pugnale   un milione e mezzo di grazie  noi altri non usiamo di cotesta generazione di armi     eh  via pigliate  adoperato alla scoperta il pugnale desidera piu cuore della spada  e circa a maneggiarlo alla sordina  caro signor rinaldo  o che credete  che non leggiamo libri noi   di quale arme mori enrico iii   anzi il prediletto re  che adesso vi regge  non corse pericolo di trovarsi stilettato dal damiens  su  su pigliate  ve ne stuzzicherete i denti  di un altra cosa io vo  pregarvi  se mai ci avessimo ad incontrare sul campo di battaglia promettiamoci di scansarci     voi mi chiedete un terribile sagrifizio   manon importa ad ogni modo ve lo prometto  perche capis co che a trovarsi nella necessita di ammazzare uno dei mgliori amici che abbiamo deve essere una cosa    una cosa da fendere il cuore     sta bene  io vi supplico per pura amicizia di non essere ucciso dalle vosire mani     toccate qua  disse rinaldo  porgendo la destra ad altobello  intanto che con la manca si lisciavale basette     e negozio conchiuso       l alando licenziandosi con assai cerimonie dal colonnello lo lascio alla condotta di ambrogio  il quale prese a studiare con piu diligenza il passo  andando su e giu  e sovente internandosi nei macchioni da parte come costuma il cane inteso a levare le starne  in effetto egli ne aveva cagione perche ad ora di sopra le siepi  o di mezzo le fronde dei cornioli si vedevano scaturire canne da schioppi e berretti appuntati da mettere il ribrezzo addosso anco ai piu  audaci   se non che ambrogio accorreva pronto agitando dalla lontana sul capo  il foglio sottoscritto dal generale  arragolando     salvacondotto     parlamentario     passo libero sotto pena di forca   e il valcroissant  che capiva non doversi scherzare coll orso  non risparmiava scappellafe ne baciamani  salutando anche quando non vedeva nessuno   amici miei   miei figliuoli    come dio volle verso sera arrivarono alla foce di golo  e ambrogio fermatosi in capo al ponte disse       signore  finche venendo con me voi correvate pericolo vi ho accompagnato   adesso che inoltrandomi con voi il pericolo sarebbe mio permettete che vi lasci con la buona sera      gran merce  signor ambrogio  mille complimenti al signor generale e accettate questo per bere  e cosi parlando gli caccio in mano un bellissimo luigi doppio nuovo di zecca  ambrogio monete di oro non ne aveva mai viste  sicche guardava questa con infinita  aiacciu   stamparia di a muvra  u direttore gerente  petru rocca   curiosita  il valcroissant covava con gli occhi ambrogio a mo  che fa il rospo alpusignolo   all ultimo questi domando  ed a che e buono questo coso signore     a che e buono   ti senti fame  egli ti dara da mangiare  hai sete  ed egli ti porgera da bere  vuoi amore   te ne comprera a sporte  desideri amici   mettilo dicontro alsole e gli amici ti cascheranno addosso al pari delle allodole attirate dallo specchietto  ti stucca un nemico   basta che tu consenta a perdere questo pollice di oro  tu gli farai consegnare un palmo di ferro vella pancia o nella gola a tua scelta  secondo a te piaccia egli ti spalanchera a due imposte le porte del peccato e della grazia  i tuoi pensieri possono fargli crescere li ali come ad un cherubino e trasportarti in paradiso  o granfie da diavolo che ti traboccheranno nello inferno   piglia la moneta di ora    ella puo tutto   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

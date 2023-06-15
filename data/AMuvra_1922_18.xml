@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1922_18
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     vers l autonomie il nous semble de notre devoir de signaler un interessant article paru dans l eveil du 10 janvier et du a la plume de m henri pierangeli chacun connait la puissance de travail et la modestie de ce depute de la corse un des rares depuis cinquante ans qui ait etudie a fond la question insulaire et dont l opinion merite d'etre retenue m pierangeli comme du reste nombre d'esprits avises  n'a pas laisse de s interesser vivement a la campagne regionaliste actuelle dans laquelle il a sans doute vu  c est la  son secret  le fatal et indispensable corolaire d une longue periode d'incurie et d abandon de la corse dans son article prefet ou haut commissaire  ce depute ouvre la discussion relativement aux reformes administratives a introduire dans l ile qu on veuille nous permettre d en citer le passage suivant qui nous a paru essentiel   ces lignes ne constituent elles pas la reconnaissance implicite de la corse nous ne dirons pas encore comme nation mais comme region dont la situation geographique toute speciale jointe au passe historique detruit ou tout au moins contredit la conception departementale notons que l institution  d un bureau corse a paris contribuerait puissamment a la neutralisation du nefaste parlementarisme insulaire et que le principe de l assimilation de la corse a l algerie etant admis il ne subsisterait aucune raison a ce que soient laisses dans l ombre les diverses questions afferentes a la conquete ou si l on veut a la francisation de ces deux pays  m henri pierangeli a l appui de son opinion et suivant son honnete habitude fait des citations historique nous sommes parfaitement d'accord avec lui quand il estime que le decret du 30 novembre 1789 par lequel l assemblee constituante declarait la corse departement francais et la soumettait par suite au meme traitement que le reste du territoire contenait en germes toutes les difficultes dans lesquelles nous nous debattons    toujours d apres l'honorable depute lequel s en rapporte lui meme aux  osservazioni storiche sopra la corsica d ambrogio cette situation equivoque n avait pas echappe a bonaparte puisque ce dernier avait songe etant premier consul a doter son ile natale  d un gouvernement dont elle put tirer avantage et qui devait la soustraire a la constitution  bonaparte etant meme alle plus loin  ce legislateur hors ligne avait propose que la corse cessat de faire partie integrante du territoire ce a quoi hatons nous de le dire personne ne pense plus de nos jours il convient d ajouter que le futur empereur avait soumis la question aux seuls membres de sa famille  les donnees de m henri pierangeli quoique substantielles sont trop succintes pour que nous soyons tentes de formuler ici un systeme de critiques nous estimons cependant que les pleins pouvoirs accordes au haut commissaire du gouvernement de la republique en corse ne pourraient s exercer que sous reserve de compensations a accorder aux administres et que l institution d un bureau corse a paris devrait legalement avoir des repercussions dans l organisation politique et judiciaire de l ile nous ferions peut etre de la peine a m pierangeli et nous exagererions certainement son audace en le qualifiant d autonomiste qu il veuille bien cependant nous permettre d admirer son courage puisque le premier d entre tous nos parlementaires il a ose soulever le voile de la routine et faire un peu de lumiere la ou certains de ses collegues ont interet a maintenir l obscurite la  plus profonde
+    </p>
+    <docAuthor>
+     Mathieu Rocca
+    </docAuthor>
+   </div>
+   <div n="1" type="his" xml:lang="fr">
+    <p>
+     margha  dans la brume errante que disperse l aube timide dans la symphonie des parfums mystiques du maquis la cote corse reveche avec ses apres sanguinaires se dessine comme un funambulesque dromadaire  en moi s acheve une vieille nostalgie qui se traduit par une larme amere  c est le retour  o rocs aux profils chauves monts aux sinueux contours mer aux roucoulements tristes  cotes lointaines estompees d opale et golfe suave que vous m attendrissez  le bateau glisse sur un lac qui sourit deja aux premieres caresses du soleil voici ajaccio en robe blanche et verdure tendre des villas des collines d oliviers un calme immense    les derniers promontoires quelques barques de pecheurs des rochers qui s allongent ainsi que des reptiles puis le port le navire corne  ses appels enroues se perdent dans la ville endormie tandis que sur les quais mornes de petites ombres s agitent  elles grandissent a mesure que l on accoste   encore quelques tours d'helice et je m en vais seul sous les palmiers silencieux   des paysages d une singuliere melancolie s etalent sous la lune pensive on gravit une cote que je me rappelle avoir descendue il y a bien longtemps un froid matin d octobre alors que je partais au loin   le cocher' disserte avec un continental sur les moeurs de la contree pendant que d un oeil songeur j observe' les alentours comme la nature est semblable a celle d il y a quinze ans   ici pres de ce granit solitaire un chene qui n a pas vieilli  la le meme noyer ou je venais ecolier en vacances marauder comme un galopin    enfin les premieres maisons vetustes d aspect mais solides et de bon accueil je traverse le village et je vais heurter a une cabane esseulee pourquoi viens je ici  faiblement dans la porte qui s ouvre une vieille figure aux traits bien connus pour moi mais alteree par les fatigues de l age s encadre  zia cecca  fais je ne me reconnaissez vous pas  aussitot un nom murmure par mon coeur anxieux monte a ma levre   margha margha ou est elle  ce joli nom evoque en mon ame de revenant tout un passe fleuri et des heures sans nombre de pur amour   emue zia cecca m embrasse elle m a reconnu mais je sens des larmes sur son pauvre visage  je tremble de savoir   margha parla t elle enfin la voix plaintive margha mon fils est la bas  et son doigt indique une direction bien certaine la bas vers l eglise ou sont quelques croix mornes   un sanglot m etouffe et au milieu de pleurs je revois la brune chevriere des maquis sauvages une ombre a ses cotes en uniforme de collegien    j avais des soupirs qui sont des balbutements de tendresse ses bras m entourent elle est belle  puis ce sont des courses folles a travers les sentes embaumees de la montagne le chant lointain des vagues qui nous bercent et les' premiers chagrins des premiers departs    apres le jour des adieux la lutte dans la melee qu est la vie le souvenir  constant les reves trop vite enfuis et toujours son image chastement gravee au fond de moi   puis c est fini    o chere petite margha que n etais je reste aupres de toi helas
+    </p>
+    <docAuthor>
+     Marco Angeli
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

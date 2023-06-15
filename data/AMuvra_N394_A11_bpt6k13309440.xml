@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k13309440
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k13309440
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 394 | Année 11
+     </edition>
+     <date>
+      1930-04-06
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Anou X1 — Numaru 394 : 'Esce a Dumenica ' Dumenica 6 Aprile 1930    GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI !  In Corsica. + + - + l~. eos ee à + 19 franchi  In Francia. i . -.......... 18 È)  Unione postale du mm mme BO  U Mumaru:5 soldi  Direttore : Petru ROCCA  ALMMINISTRAZIONE:  88, Corsu Grandval 88. — ATACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="it">
+    <p>
+     letteratura italiana  arduo argomento  appare quel su cui desideremmo intrattenere oggi il lettore arduo sotto ogni aspetto e ad ogni riguardo  perche  se siamo oramai decisi ad evitare qualsiasi noiosa polemica  rimaniamo nondimeno disposti piu che mai a far valere i nostri diritti  i diritti intellettuali dell autopomismo  di fronte a tutti gli avversari   una simile ardua ma logica presa di posizione  ci e di giovamento nel presente caso  permettendoci di esaminare la questione con tutta la placidita necessaria   il che non e poco dire     letteratura dilunghissima e vecchissima tradizione  la letteratura italiana  fra tutti i vantaggi di cui godette durantei secoli   i quali ella si merito per il suo geniale carattere  offre anche il vantaggio di esser stata per moltissime generazione di corsi la manna provvidenziale  o se si preferisce un linguaggio meno mistico  il mezzo culturale per raggiungere le massime idea dd    lita   verita questa contro cuinon  prevarranno certo gli innumerevoli sofismi messi innanzi da eterni denigratori  verita che bisogna accettare  se non si vuole essere finalmente ridoiti ad adoperare scappatoie e mezzi termini sempre piu ingloriosi      come e risaputo il programma autonomista inchiude appunto nelle sue grandi linee  fra gli altri fattori di rinascita nazionale  la rivalorizzazione di un patrimonio  il quale  checche ne dicano certi utopisti  non cesso mai di far parle integrante dell  intelligenza corsa   la letteratura italiana dunque  fin  dal principio  affianco per inodo dire la anima corsa nella sua marcia storica  ora faticosa  ora attormentata  ma quasi sempre fulgida di gloria e di forti speranze  tale leitetatura pero  ricca coi nomi di dante  boccaccio  petrarca  ariosto  torquato tasso ecc    doveva finalmente essere sostituita nell isola da una lettetatura forse di uguale ricchez24 e portata intellettuale  ma sicuramente meno efficace nell avviare i corsi verso unideale sempre piu conforme alla tradizione  alla civilta latina  abbiamo accennato alla letietatura francese   successe  in queste nuove congetture  quel che succede ordinariamente in simili casi  l uso della letteratura cosi importata  in seguito ad avvenimenti storici che e inutile ricordare qui  divento presto abuso mediante una infinita di cause determinate  di cui pero principali ci sembrano ilcambiamento forzato delle condizioni sociali ed economiche dovuto al trasferimento del potere politico  le varie pressione ufficiali  e sopratutto una crescente ignoranza   e qui  vaiendoci di uno spirito autonomista il quale sa coraggiosamente affirmare o formularedelleriservesecondo 1 casi  ci tocca di fare una costatazione la qualein definitiva  ne siamo sicurissimi   non dispiacera che ai pusillanimi o ai costruftori di sogni  dopo di avere goduto  attraverso i secoli  di una fama esclusiva e incontrastata presso i corsi la litteratura italiana  mediante le intromessione della francese  fini per essere completamente trascurata da queili medesimi isolani che ella pero aveva intellettualmente nutriti durante si lungo tempo   non crediamo oppertuno di inoltrarci qui in lunghe considerazione relative alle cause profonde  metafisiche  di una si lamentevole dimenticanza  anzi  invece di attardarci in inutili lagnanze  preferiamo scoprire completamente la piaga  affinche vi si possa eventualmente portare rimedio   ii secolo xix   il quale pero aveva visto realizzarsi il sogno del risorgimento   trascorse senza portare novita o mutamenti sensibili nel regime applicato alla corsica  in tali condizioni  per quanto seriamente vi si fosse accinta  una minorita intellettuale  anche ridotta  non avrebbe potuto tenere stretti quei vincoli letterari che legarono in ogni tempo  la isola alla terra ferma  sicche  noi assistiamo durante il medesimo secolo  ad un disperdimento talvolta insensibile  ma sempre continuo  delle vecchie tradizioni letterarie  a tal punto  che ben pochi sembrano essere coloro  i quali si ricordino di aver visio i padri leggere con passione e ammirazione   come realmente fu   le opere di silvio pellico  di manzoni  di gioberti o di guerrazzi  e faeilmente si capira che si un  destino si spietato venne fatto ad opere e geni immortali del risorgimento  lo obblio doveva risultare anche piu crudele per quanto spetta la letteratuta italiana contemporanea  perche qui  mediante le ragioni sopraccenate   dominate tutte dalla ignoranza    i legami vi sono interamente sciolti  e  diciamola franca  si e notato una soluzione di continuita   fatto rincresciosissimo  e che noi autonomisti deploriamo per i primi  non possiamo infatti concepire come la corsica  situata per modo dire alle porte di roma  rimanga all infuori di una corrente letteraria  il cui carattere trascendentale ha pervaso i piu lontani paesi di cultura latina   rumenia  argentina  brasile  ecc   una dimostrazione concreta in proposito ci sembrerebbe superflua  basti che illettore   qualunque siano le sue disposizioni   riconosca con noi alcuni fatti esperimentali simili ai seguente  ben pochi sono i corsi i quali potrebbero citare solo dieci nomi di letterati fra i piu illustri della italia  odierna  mentre invece  la mente corsa nelia sua quasi totalita  appare abusivamente satura di tutte le opere   e operette francesi che viddero la luce da piu di un mezzo secolo  principiando per il conte di monte cristo e i tre moschettieri  perfinire colla garconne e un mois chez les hommes   spetta a noi  autonomisti  di rilevare simile anomalia  e nessuno  speriamo  osera mettere in dubbio la nostra sincerita  vi sono delle costatazioni che occore fare  anche quando ne scaturisce  come nel presente caso  una certa amarezza  ma  oltre al fatto che le avvenire non vi si trova in mente ipotecato  tali costatazioni indicano quanta grande sia la nostra volonta di procedere per una via  irta certo di difficolta  ma oramai segnata da piu di una vittoria dello spirito latino  tradizionalista  sullo spirito esotico 
+  s
+    </p>
+    <docAuthor>
+     Michele Corano
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     parolle di fede  a voi  o rinnegati     vogliu parla oghie a voi  o miseri sviati  mancu piu degni di u nome di corsi  chi vi ne site andati per  sse francie e ci avete fattu case e figlioli  e un vi site solu scurdati di a vostra patria  ma le ete rinnegata e tradita     a voi  vogliu parla  o omi senza fede  chi vi site lasciati cusi vargugnosamente denaqiunalizza u spiritu e impastughia a cuscienza  per pude mustra scioccamente a i vostri padroni che vo  erate degni di esse tinuti da schiavi leali e sottumessi     a voi  o anime triste  vogliu parla  a voi  stranieri nautu a tarra nativa  nimici di a vostra razza  senza patria anc a mezzu a i vostri piu stretti  a voi  o innegati      un cridite che voglia ajutavvi a scusa i vostri orrendi fattacci  a sculpavvi di le irremissibile trasgressione  ne memu a invitavvi a fa un doppiu etradoppiu mea culpa fer dumanda perdonu   oime  so be chi oghie    sazii piu che pentiti  accumaudati ma micca cuntritti    sariaie disposti a mischiavvi a i veri palriolli e a mughia cun elli e piu in furiacheelli  eviva noi      ma lu orridu di a vostra faccia spaventa u mondu sanu  aria  celu e terra   y oime  per voi un ci e piu    perdonu ne pieta  vaspelte lu infernu dantescu spaventosu   a vostra anima avvilita  disprezzata  disonorata  degradata  chi e digia incagliata indi u fossu ignominiosu di u tradimentu  si ne andara indi a bolgia ghiacciata antenora  a mezzu a i traditori di a patria   un so dunque ste parolle che per ripetevi cio chi a vosira cuscienza v ha digia rinfacciatu  per fa vede a quelli di pocu arbitriu cum elli so  castigatii rinnegati  per raminta a i patriotti schietti di ave da scansa a vostra vicinanza  dispensatrice di iniquita     ma fuss  ella puru chi ste parolle di fede sianu per voi tante candelle di fele e chi st anatema scuppiata da u core si interni indi e vostre vene a modu ditoscu viulente  atroce   ricurdatevi di le ore sinisire di u vostru tradimentu  ricurdatevi di quella seconda fatale che vo  saltaste u fossu prufondu chi divide noi cd elli    a pocu a pocu  4 vostru judiziu  a vostra penetrazione si annientedenu  a pocu a pocu  u vostru ciarbellu si truvo privu di sennu  di intelleltu  e  ad un trattu a vostra anima piglio lu improntu di un altra razza   avale  mancu e lacrime di tutti i santi vi nettarianu a vostra fronte  e vostre labbre   a vostra faccia si assumiglie oghie a quella di li assassini di anostra patria   chi brutta sorte e a vostra  chi terribile destinu v ha ac  quistatu a vostra indignita  chi castigu tremendu vi tuccara   un pudete piu guarda intornu a voi  ne avanza  ne turna in darretu   dapertuttu  la ombra fosca di u tradimentu v inturnieghia     vi tocca a invecchia ind un scornu di terrastramiera  ricchi forse di soldi e ricolmi    pa 4 i i pe di onori ma povari di alegrezza e privi di affetti   e i vostre figlioli  i mischinelli  vivaranu cume voi  siranieri indi u paese stessu chi vi stipendio e disonoro   unn ete mancu piu a spe ui   5 ci   ranza di franca ui ultima volia u mediterrane u per vene asaluia u vostru paese nativu  perche a sapete chi oghie unn e solu a jente chi po leghie nantu a vostra frontelinfamerinnegamentu  o   da quellu jornu chi cursichella rivide a vostra faccia avvilita  obbrobriosa  a vostra faccia di traditori  a pe mughio i mio figlioli un so ghiudei     da quellu jornu vintimma voce di a nostra tarra tipete e litanie straziate di vignominiosu matricidiu    palpiteghia sta voce in ogni locu  per valle e per monti  per strade e per chiassi  e si ne va  ogni tantu  a rinviguri ssi indi le acque limpide di i nostri fiumi chi si ne portanu a u mare mostru u lamentu freminendu di a patria assassinata   mughie  sta voce  urle  sta voce  un imprescrittibile riprubazione     eiu unm aghiu creatu ssi vili   biu unn aghiu figlioli snaturati    lbiu unn aghiu allattatu assassini   e u ribombu di sfavoce sara forse u vostru piu amaru case tigu 
+  s
+    </p>
+    <docAuthor>
+     Ghiacintu di Muru
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     turnemu a dilla   un semu micca separatisti cunsideremu chi  in ju statu attuale  a ruttura di ogni legame tra a corsica e a francia unn arregaria che soluzione insufficiente a i problemi chi si ponenu a u nostru paese  ma cumbattemu un assimilazione dannosa ber i nostri interessi materiali e morali   un semu micca retrogradi  a vecchia corsica di i cinarchesi e di i capurali e oramai scumparsa  salutemu cu rispettu u so  ricordu ma un circhemu micca a ricustituiscela tale  un populu un torna piu ia darretu cum ella e vera chi un fiume un tracolla piu a  so  surgente  i nostri occhj un so micca aparti sopra a u passatu ma sopra a le abbene   semu noi corsi moderni     un semu micca antifrancesi  unn avemu nisun odiu pe  u populu francese  nemenu per alcun altru populu  custatemu p illegilimita di la autorita suvrana di u statu francese sopra a u nostru paese duv ella si e imposta in lu 1769 senza u cunsentu di a pupulazione  e dopu a stragge di pontenovu   cumbattemu u so  centralismu  chi ci porta un soprapiu di opressione  u so  imperialismu chi ci espone ad altre guerre per interessi chi un so micca i nostri   prutestemu contru a so  indifferenza pe  i nostri bisogni economici  a so  incumpreensione di e nostre aspirazione culturale e morale  a so  animosita sistematica contru a nostra lingua    nutemu la incapacita duv ella si trova di accurdassi a u ritmu di le evoluzione generale di u mondu   pensemu infine chi cio chi omu  per cunvenzione  chiama a francia unn e micca una nazione ma un statu chi cumprende un certu numeru di naziunalita  e unn acciitemu micca chi omu opponi a e nosire rivendicazione u dogma giacubinu di a nazione una e indivisibile   a corsica ha un passatu di nazione  e natu di evenimenti cumplettamente stranieri a  storia di francia   a corsica pussede e caratteristiche di una naziunalita rispundendu a e definizione muderne   forma un inseme geograficu perfettu  u so  populu pe a so lingua a so  razza  u so  carattere  i so  custumi  e so  tradizione  u so  sentimentu naziunale e essenzialmente differente di li altri populi di a francia   cume tutt  altru   ha u dritiu di dispone di se stessu   
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="4" type="div" xml:lang="fr">
+    <p>
+     giurnali chiama l histoire de lu corse a travers me des sanglants et heroiques dont elle esi iso presenle pour l admiration de tous so este oul serute notre passe la continuite me qui fique d une farouche tradition d independu  ce au dessus de ces clameurs de a an dans celle succession presque injn dorer ci de luties gloricuses relentil ja voix pie du colombo a toutes les epoques de ha histoire il a sonne l appel aux armes le re liement des energies et des heroisme  nl le colombo que d evocations la hey sonorite de ce mot ne suggere clla se voire esprit  pas a au sommet d une lour massive aux mu creneles on voit brusquement apparaitre ne guetleur dont le crepuscule  semble faute jusqu aux eloiles  ja sihouelte providentiele un danger menace la putrie cet home connait son devoir sans hesitation pe gestes ui paroles inuliles il sonne longu n meni du colombo pour donner l alarme i paysans de sa pieve il insuffle a la cavite sonore de celle conque toute l angoisse qui tenaille son coeur  qui ainsi groce an colombo le rassemblement de toutes les volontes corses bandees pou la tuile lendues vers un meme but dans une meme communion de pensees s effeciua dung l enlhousiasme et l inquietude de leur inde pendance menacee  un ecrivain s est gerie je ne sais ou  l his toire n est qu un perpetuel recommencemeni en effet la corse est aujourd hui de nouveau menacee dans son independance  i c est dans noire reputation d integrite dans notre orgueil d elre corse que nous risquons d etre atteints c est l eclal de notre histoire de nos traditions ancestrales qui serait terni si l entreprise d une poignee de politiciens etait menee a bonne fin  etre les heritiers d'une noble lignee de heros les depositaires de leur gloire les continualeurs presumes de leur oeuvre et en arriver la  finir dans la decheance qu apporte l esclavage de l argent  non vraiment ce serait trop lourd i que le colombo comme hier sonne la revolte de nos consciences et qu a son signal fous ceux qui ont le culle de nos grands sonvenirs se levent pour former de vaillanles cohories decidees a defendre l honneur de leur patrie  s il est vrai que nous savons encore vibrer a l appel de nos vertus ancesirales nous ne laisserons pas peser sur toutun departement l opprobre de la venalite car si nous n opposions pas aujourd hui aux meprisables entatives des chequards de la politique la ligue de nos volontes et de nos consciences nous proclamerions du meme coup l abitardissement de notre race  la jeune corse  azzizzu   recouvrer car avoue le la politique  ton triste vice  y a fait quelques taches de boue recouvrer avec eclat ton antique reputation de petite nation un peu primitive un peu farouche mais fiere et honnete que l on saluail tres bas dans le monde comme une romaine de la grande epoque  ou n etre plus parmi les peuples qu une petite grue que ses hauts prix ne preserveront pas di decri general voila l alternative ou ceux de tes fils qui te devaient le plus de respect t ont mise prouve leur qu ils l ont mal jugee  la nouvelle corse  dispacci h tombe sous le sens commun qu un telegramme se differencie de toute antre correspondance par son caractere urgent el par les moyens speciaux d acheminement dont il est l objet ces moyens doivent concourir a la transmission rapide en corse toni elemeniaire que paraisse cetle notion nous pouvons dire qu elle est sinon ignoree du moins necligee par ceux la memes qui ont la charge d organiser nos services  pendant certaines periodes de l'annee les telegrammes subissent dans leur acheminement des retards tels que le public gagnerait souvent a utiliser la voie postale  le materiel des petits bureaux est en manvais etat celui des bureaux moyens peu er harmonie avec l importance du trafic qu ils ont a ecouler
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="5" type="feu" xml:lang="it">
+    <p>
+     signore  io non dico nulla    manco male  ognuno a sua volta dunque  eallegremente  non vi accomoda la stanza  ne daro un altra   or ora vi mandero biancherie  legna e quanto occorre  gia ebbi ordine di provvedere a tutto   pure sapete che io ho obligo di esservi amico   mancasse li obli  go  mi senlirei inclinato verso voi per simpatia    comandatedunque   non vi  prendete soggezzione    figuralevi essere in casa vostra       signore  io non vi domando mulia       ho capito via    e vi compatisco    per ora vi dura la rabbia in corpo  vi rivedro piu tardi   se le faccende non lo impediscono desineremo insieme     tornato nelle sue stanze ormai tra la lettura dei giornali venuti di francia e il motteggiare tra gli amici  aveva dimenticato altobello  quando verso sera le usciere gli annunzio una donna instare di essere presentata al signor comandante    m immagino che non sara vecchia ne brutta  in caso diverso le avresti detto e alla occasione giurato che non era in casa     difatti e giovane ed anco bella     presto dunque falla passare  che la noia mi ammazza    ma il giocondo capitano fece viso funerale allorche si vide comrire davanti la severa e malinconica sembianza di serena   nondimenole ando incontro con quella maggior grazia che seppe  e disse     gia ci era da aspettarcelo   preso il tortore non piu mancare la tortora   ah   perche non si vede in voi disposizione alcuna di praticare coll esempio il deilo italiano  morto un papa se ne fa un altro     signor rinaldo  dunque altobello e veramente qui  rispose serena senza badarlo  o fingendo di non badargli  non ha ferite addosso p    figurate   gli e sano come una triglia pescata adesso     dio ve ne renda merito   permettete che io mi assetti un po        scusate  ma non mi avete ne manco dato tempo di offrirvelo     onorato   onorato   presto  portate vino  aranci  zucchero     non ho  bisogno di nulla  mi batteva il cuore dalla ansia  e dalla fatica       e venite      dal borgo  donde mi sono mossa ora  fanno due ore       e volete vedere il vostro sposo     no  signore       come non le volete vedere      no  lo voglio liberare   sono venuta per chiedervelo  persuasa che vi parra vero di saldarela partita dell obbligo che avete con una vostra nemica     oh  signora serena  che cosa mai dite   voi non sapete che la vostra proposta mi mena diritto in piazza san nicolaio a ricevervi otto palle nel petto  le quali naturalmente mi troncherebbero ogni aspettativa di promozione  mentre la mia famiglia ed io nudriamo speranza di vedermi elevato al grado di maggiore  colorinello  ed a suo tempo di generale  maresciallo di campo  e poi anche  chi sa  al grado di marescialio di francia  questo e impossibile  madama  ve lo dico col cuore in pezzi   chiedetemi tutto  pigliatemi la vita  le mie sostanze  non ve lo conirasio   ma che io mi esponga ad essere tratto in piazza san nicolaio    voleva dire mi esponga a vederetroncato il corso della mia fortuna  questo e impossibile  assolutamente im possibile     la vanita e feroce quanto il delitto e piu  serena lo guardo in viso  e conobbe che tornava lo stes so che picchiare alla porta di una tomba  non si smarri per questo che a molto animo accoppiava ingegno pronto   onde dissimulando il cruccio e il disprezzo  con aria ingenua riprese      mira un po   ed io me la faceva facile  potro almeno vederlo     circa a questo  cara madama  soggiunse il capitano  sollevato di un gran peso  che avea temuto rimbrotti  ingiurie e peggio per la sla ingratitudine  ed ora esultava nelvedere come ei si fosse con tanto bel garbo accomodato    circa questo  certo ci trovo intoppi no meno gravi   ordini espressi 1o vietano  e non era vero  ma lo affermava per dare ad intendere che ul grave pericolo gli pendea sul capo e che egli per amore di sirena sfidava   ma che non ardirei per voi  ogni francese per compiacere alle dame si sente addosso un po  del duca della rochetoucauld  il quale cantava in rima alla principessa di longueville  per meritare il vostro cuore  per piacere ai vostri occhi ho fatto la guerra ai re  e li avrei fatta anche ai numi  voi lo vedrete  madama   quando anco dovessi attirarmi sul capo laindignazione di sua maesta cristianissima  lo giuro    e qui stese la mano in atto poco diverso da quello di annibale quando il padre amilcare gli fe  giurare su le viscere palpitaniti della vittima odio eterno ai romani      conducetemi dunque     non io  madama  voi capite quanto sarebbe scortese indiscretezza cotesta  un cavaliere francese si rispetta abbastanza per astenersi da mettersi in terzo nelle conferenze   senza dubbio   tenete fra sposo e sposa     fate come volete  ordinate ie mi conducano al suo quartiere   pero che uscendo vi potro salutare  a     anzi vi dichiaro espresso che  se partiste privandomi delle onore  di baciarvi la mano  ne porterei lagnanza alla cancelleria della urbanita  quella dello amore non mi ascolterebbe     serena non porse orecchio a coteste sguaiataggini  era proprio roba buttata via  l accompagno onorato il quale confidatala al carceriere disparve  questi giusta gli ordini le aperse la prigione   serena come le consiglial affetto stava per abbandonarsi nelle braccia del suosposo  imperciocche sia natura degli animi gagliardi frenarsi nel manifestamentodelle mediocri passioni  traboccare nelle supreme  quando ad un cenno di altobello si trattenne e girando intorno paurosa gli occhi vide il carceriere ritto sopra il limitare della porta  presa da vergogna e da dispetto gli disse acerbamente     che fate costa   andate via     il carceriere  che francese era  comprendendo pio dai gesti che dalle parole le domande  rispose  che ci stava perche ci doveva sta re  essendo suo ufficio avvertire quello che dicessero i visitatori ai prigionieri  e sopratutto quello che gli portassero  ognuno puo immaginare che la presenza dell imy ortuno custode abbreviasse di molto il colloquio dei giovani  anzi a propriamente dire altobello non fiato   quella che fece le carte fu serena  la quale presto presto nel dialetto piu puro di oltremonti gli frullo non so che parole  cui egli acconsenti accennando col capo  il carceriere  trovando coniro le regole di non capite  usci fuori ad osservare  che era  cosa inaudita servirsi  per discorrere  di lingua diversa dalla francese  cio dare indizio della ignoranza e sopratutto della barbarie dei corsi   parlassero in francese  ovvero tacessero  correndo loro il dovere di farsi intendere  serena che aveva terminato di dire quanto le importava  strinse la mano allo sposo e quindi voltasi al soldato gli disse     voi siete un insolente  andiamo     e fingendo una grossa collera si fece a trovare il capitano rinaldo querelandosi della grosseria del carceriere     capisco  riprese il capitano ghignando  capisco la zotichezza di questo gaglioffo  e capisco quanto abbiate dovuto stridere a non potervi trovare sola col vostro marito   davvero ne sofiro piu di voi  ma che volete   io non posso mica dare ordini contrarii ai regolamenti  certe cose bisogna che il carceriere comprenda da se o piuttosto bisogna glielo facciano comprendere i prigionieri o quelli che vannoa visitarli      insomma poiche non mi e riuscito parlargli  spero che non sara caso di stato polere mandare al mio sposo la provvisione da casa       circa a questo poi  madama  io mi sono detto   e possibile  capitano cassagnac  che la legge ti stringa cosi duro da non lasciare in qualche modo che la tua profonda riconoscenza non si dimostri   no  deliberai meco stesso  il signor alando pranzera alla mia tavola    cioe faro portare il mio pranzo in camera sua  i  serena impazientita percoteva col piede la terra  sicche non si potendo piu reggere proruppe   per carita non vi dite piu nulla    erispondete a me  posso o no mandare provvisioni da casa al mio sposo  voi comprenderete che noi gente semplice non siamo abituati alla cuciua vosira  e poi  sia superbia  sia dignita  un corso non consentira mai di mangiare alie vostra spalle       vi chiedo umilmente perdono  madama  ma quesio  menire per me sarebbe grandissimo onore  non penso che apporterebbe scapito alla dignita del gentiluomo  ma poi fate quello che volete e mandate pure cio che vi piace       f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     dannu murtale  intenneritu  feghiu  a mezza piazza   un stolu di zitelli in li so  joghi   talle sane  speranza di la razza   e coricelli ardenti cume foghi   circheranu  in la vita  a fassi piazza   e ne fermera quindi belli pochi  intusicati da la idea pazza   futti si scurderanu di sti loghi   nun si videra piu che qualchi vecchiu  testimone impotente di u spavecchiu  piegne la scimita di li omi forti    un ghiornu maladettu venera   chi in lu paese nun si truvera  mancu piu ghiente pe  nterra li morti 
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="7" type="poe" xml:lang="co">
+    <p>
+     u mulinu  prima cantava  ed oghie singhiozzu   ancu li topi mi hanu abbandunatu   u cursacchiolu  chi unn e piu corsu   ha sarratu la porta ed e scappatu   granu  orzu  castagni e granonu   sempri dumandu e nun ni poss  ave   comu sara  mi affaccu a lu balconu    ma chi aghiu vistu   signori  ohime     card e mucchj  lamaghj cu mureddi   che coppi rotti e pezzi di cunceghi   e lu castagnu tagliatu in museddi   guai in un cantu  e in lu altru sfatteghj  ognunu parte e ni franca lu pozzu  prima  anch eiu cantava  ava singhiozzu 
+  s
+    </p>
+    <docAuthor>
+     Simone di San Jorghiu
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     aprile  affaccasti ancu tu  mese jentile   cume ti chiama a vecchia filastrocca  cerca omancu di un fatti purta in bocca cun ghiurnatacce non primaverile   ci ne e statu abbastanza catarroni cu catarzu   ssu  fo  ben di fratellu    ne tensi unu    lu sia niellu     da li capelli sima i scamberoni   chi  credu  da li sporni e le sternute ave susciatu tutt e mio cerbelle   e ora dunque di acquista salute   di unn ave piu le gambe a dispanelle  di ave a vista chiara  orecchie acute  e gustu a move un pocu le manselle   beh  si parla di jugnene a e manute   si possa almenu diferde la pelle 
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     sempre a moda  a moda in in nostru locu  oghie e bista bella chiara  unn e adurata pocu   ognunu la tene cara  chiughi e grandi  chi piu po  seguitanu ad una para   si sente una voce sola  chi ribomba in sta campagna e dice  viva la moda    da la piaghia a la munlagna la grida mamma e figliola   e nisunu si ne lugna   incu tuile le so  mode arrizzanu lu anticristu   e je nostre pullizzole mostranu cio chi un si e visiu   sinament  a spassighiassi pa  le strade guasi in cristu   se tirate un passu fora qualchi ghiornu di festinu  altru che cose a la moda nun videte in stu cunfinu   quanlu a vostra vista scopre ln lu luntanu e vicinu   viderete ste bambine  giovine di primu fiore  marchia cun passu a la fine par fa piu pocu rimore  denduli un virselln siranu  in tenuta di signore   capi nude o in rappell aliu  li capelli in papigliotti   par fa piu bellu trasaltu e  onamura giuvanotti    in faccia  molti culori chi un ghiettanu che odori   manc una fora nun sorte si unn e in ste cundizione  cu le rubarelle corte  a lu dinocchj e le armone  cu la labbra chiarasgina e un ditu di calcina   a triunica capu e spinu ci banu tulte bona manu   marchianu pa  lu caminu senza sape duve vanu    ne parenu a dilla franca   di minuta un veru zanu   un altra moda piu bella e chi quici piglia avale  tutte ci credenu in ella  nissuna la trova male   e di taglia li capelli    chivghe e grande in generale   ci vole a di chi la moda tutte le donne pussede  ghia chi ognuna la approda si ella ha una manu o un pede  ha scimitu e nosire donne  cose da un pudelle crede 
+  s
+    </p>
+    <docAuthor>
+     Ghiuvanni di Curzu
+    </docAuthor>
+   </div>
+   <div n="10" type="div" xml:lang="fr">
+    <p>
+     memoires du r p de singlande aumonier  sa majeste jui a donne  octroye la charge d aumonier a la suite du regiment infanterie de bearn vacante  non pourvue pour dorenavant en faire les fonctions  en jouir aux honneurs autorite prerogatives droits  appointemens tels  semblables dont jouissent ceux qui sont pourvus de pareilles charges m ayant sa majeste pour temoignage de sa volonte commande de lui en expedier le present brevet qu elle a signe de sa main  fait contresigner par moi son conseiller secretaire d etat  de ses commandemens  finances signe louis plus bas chavin d angervilliers   ma reception faite le regiment entra dans la ville  chacun fut a son logement apres avoir ete voir le mien je rejoignis le corps des officiers  tous ensemble nous fumes faire notre visite chez m de larnage commandant de la place ensuite nous fames chez messieurs les officiers des regimens de chaillou  foret  le lendemain je me disposai si visiter toutes les coinpagnies pour  connoitre par moi meme quelles  etoient la vie  les moeurs de chaque soldat en particulier  j appris qu un nomme barbu natif de nimes en languedoc soldat de la compagnie de m barot etait calviniste  je demandai a lui parler  j entrepris de le faire entrer dans le sein de l eglise pour cela je commengai par lui represenier le danger de son etat  l avantage infini qu il y auroit pour lui d embrasser la religion de son prince la religion de son corps  de presque tous ses concitoyens touche de ces motifs il me protesta qu il n etait point opiniatre  qu il ne demandoit qu a connoitre la verite pour s y rendre la dessus je l instruisis de mon mieux sur tous les articles contestes entre nous  les calvinistes quand enfin je l eus mis dans les dispositions necessaires je lui fis faire abjuration dans l eglise cathedrale d ajacio le 24 fevrier a cette abjuration assisterent tous les messieurs du chapitre les regimens de chaillou foret  bearn la garnison genoise avec une aussi grande quantite de bourgeois que l eglise put contenir  la ceremonie faite j entonnai en action de grace le te deum qui fut accompagne des orgues  des instrumens de musique tout etant fini je fis en presence de l assemblee la lecture de la lettre suivante  le pape accorde mon r p aux militaires la permission de manger gras en careme tout ie  temps  tous les jours qu ils ne pourront pas facilement  sas augmenter leur depense trouver du maigre vous n userez de la  permission qu apres en avoir con  fere avec m le marquis de mail  lebois je suis mon r p avec toute l affection possible le cardinal de tencin  en date du 20 juin  174i    apres la lecture de cette lettre je priai a diner une partie du clerge  j emmenai le nouveau converti  cette conversion ne demeura pas infructueuse elle en fit naitre plusieurs autres surtout celle du neveu d un ministre de geneve soldat du regiment de foret  vers ce temps le mari  le frere de madame colonna arrivereni de genes cette dame s etait attire l estime  la consideration de toute la garnison francoise par les manieres genereuses avec lesquel  les elle recevoit indistinctement  tous les officiers  surtout par la conduite qu'elle tenoit a l abri des soupcons  de la malignite messieurs de bearn furent en corps lui faire leurs complimens sur le retour de deux personnes qui devoient lui etre si cheres  elle leur repondit qu elle etait bien sensible a leur attention qu effectivement elle revoyoit son frere avec plaisir mais qu'il n en etait pas ainsi par rapport a son epoux cette reponse surprit entierement ceux a qui elle etait faite  elle leur parut cacher un mystere qu ils n osoient approfondir ils se retirerent mais ils ne furent pas plutot rendus chez eux qu ils me prierent d aller trouver cette dame e de lui offrir de leur part tous les services qui dependroient d eux je me chargeai de cette ccmmissicr avec d autant plus de plaisir quel le me fournissoit l occasicn de temoigner ma reconnoissance a celte dame qui en toutes rencontres m avoit comble de politesses  de bienfaits je lui temoignai l impatience qu avoieni messieurs lies officiers de notre regiment de scavoir quel chagrin pouvoitavoir une dame qui meritoitsi peu d en eprouver elle me repondit que son epoux avoit ete pris a la fete  des corses commandant en qualite de colonel  qu il avoit ete conduit prisonnier a la grande tour de genes  qu on ne l avoit renvoye sur sa parole d honneur qu a condition qu il reviendroit  qu il l emmeneroit vive ou morte avec lui  qu ayant temoigne a son mari la repugnance qu elle avoit pour le suivre dans sa prison elle en avoit ste extremement maltraitee a ces mots elle decouvrit son bras elle me le fit voir lout meurtri de coups qu elle avoit regus je rapportai a messieurs les officiers ce que j avois entendu  vu on en fut penetre de douleur  ne pouvant empecher son depart on retint ses effets suus pretexte que la garnison s'en emparoit  puis a l inscu de son mari on jui en fit remettre la valeur le triste etat ou se trouvoit cette infortunee dame parvint aux oreilles des principaux parmi la noblesse  la bourgeoisie corse  je fus encore charge de lui donner avis du desir extreme qu ils avoient de lui rendre service l occasion s en presenta peu de jours apres   elle en profitaadroitement  elle trouva moyen de s evader pendant le diner de se rendre pres d un couvent de cupucins a deux mille de la ville la ejle trouva 400 corses qui l attendoieni pour ja mettre a couvert de la captivite a laquelle son mari vouloit la reduire e des outrages qu il jui aurait fait essuyer  je n ai pu scavoir ce qu elle est devenue dans la suite ilest certain que son sort auroit ete des plus heureux s il eut repondu a sa vertu  ilya a ajacio beaucoup de grecs au sujet des quels j ai fait des recherches qui ne seront point indifferentes pour les lecteurs ce que je rapporterai m a ete communique par des personnes bien instruites  sur tout par un des principaux de ces grecs nomme theodorico de la maison des stephanopoli une des plus distinguees parmi celles qui se sontetabliesen corse  cette colonie grecque vient de la moree ou fut lacedemone ville autrefois si fameuse  qui a present n est qu un gros bourg connu sous le nom de misitra les grecs qui habitoient ce petit canton s appelloient dans les derniers temps menotes sous ce nom etranger a leur pays conservant tout le courage de leurs ancetres meme apres la prise de constantinople ils oserent faire tete au turc  a la faveur de leurs montagnes ils se soutinrent lorg iemps contre toute la puissance de ce formidable ennemi mais enfin oblige de suivre le torrent e de ceder a la force d un empire eleve sur les ruines de tant d autres ils aimerent mieux s expatrier euxmemes que de recevoir la loi dans une terre ou leurs peres l avoient donnee reduits a prendre la fuite ils n aspiroieni qu a trouver un prince chretien qui voulut leur donner un azile dans ses etats
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

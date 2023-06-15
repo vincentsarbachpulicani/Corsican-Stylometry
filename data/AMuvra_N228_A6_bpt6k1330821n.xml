@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330821n
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330821n
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 228 | Année 6
+     </edition>
+     <date>
+      1925-11-15
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     t annata — Numaru 228 : &gt; . . - | ON. ses RS Esce a Dumenica Dumenica, 15 Nuvembre 1925  A MUVRA  GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI :  Im Corsica. . + .-. . « . . + + . + . 12 franchi  In Francia. . . . ..«....... 15 »  YEsteru. ..., «......... 25 »  U Numaru:4 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     autonomia  un prete corsu ha dettu a voee alta  cio chi piu di un prete o seculare pensa e dice pianu pianu  a speranza di cirnu e indi pautonoinia       autonomia   a sta sunatai tredeci corbi di petra curbaghia si so messi in campagna racchiendu a tutta passata  in cerca di chermugli   i    cro  cro  cro a   u capi banda dettu cyrnensis e battizatu da manfredi ci una mertellata   barberinu  sbarabattuleghia sopra bastia vumitendu pezzi di sarpiin di un giurnale chi le accoglie cume manna  le elegante basfia journal   stu barberinu si vole magna i cristiani e vurria  ciutta u so pizzicacciu in carne pritina   i    stu falsu corsu chi denunzia   bellu mistieru     insulta i patriotti corsi chi hanu a pitturiccia di apre a bocca     boccaschiusa  racchia barberinu   o sinno gridate tutti  santa  santa santa marianna    marianna  adorala tu  si ella ti face luce e piume nere    la isula di miseria un sente e to eresie       preti e frati unn hanu lizione a riceve da te   e suttane nere o brune tafunate da u piombu banu fattu abbastanza per marianna   ed ella chi ti face   i de    e sterpa    esterpa in francia  e sterpa in corsica  cu a falcia di laicita e cu e legge massoniche   si ella dura sta pienara   dumane  altari e  campane corse capulanu in mare cue pianete di li ultimi preti 1   ma lasciemu da parte stu sugettu di amarore particulare       a corsica si o no  mereta chi iso figlioli pensinu  un pocu  asullivalla da i so guai    si ell e di si  un ci vele ne impiastri ne sfringingate di eeinture di iode  nantu e so piaghe  un rimediu   lighite be a tighetta   si chiama   autonomia    la autonomia di un colpu seccu taglia 1 mille trisciaghi carchi di malanni chi vestenu di rete ferrigne lu alburu corsu natu per campa liberu    la autonomia si intende un guvernu speciale arrembu a una nazione o a una sucieta di e nazione      stu guvernu presiede a i distini di plsula  ne spluta e ri sorze naturale  difende 5o cummerciu  noinina i so impiegati  crea le istituzione chi facenu bisognu   scole  universita  marina  pulizza  fissa u numeru  di sullati  chi elle offre in casu di guerra ecc    1   a corsica e ricca da per ella si ella si aiuta   bi  fureste di yisula stimate nanzu guerra  fre miliarde  oghie ne valenu dodici  ci una taglia di una miliarda di legnu  senza limosine di nimu  a corsica  in dece anni  torna un giardinu   a corsica patrona di se stessa  un mette tantu a fa i so affari  a corsica un manca di omi di valore  ci so e teste  micca  selu per guverna la isula ma per empiene u mezu mondu    ammiserita da tramanni seculari  impuerita da putadori strambi a razza corsa malgradu i macelli e lu abandonu  si e sempre bona  chi ella cambii a trista situazione  e videremu altre cacciate paulinche e napulionesche    eccu  a barberi  in corti termini  e nostre speranze sbintulente da a bandiera autonomista  bianca a testa di moru   chi ratacchii    chi elle so scimita     aufonomie  affaire classe  ne en parlons plus   racchia quantu ti pare   ma noi ne vulemu parla chi un parlemi pe i pari toi chi insultanu   senza mustra faccia   mastacciendu coghiu pritignu  i
+  s
+    </p>
+    <docAuthor>
+     Martinu Appinzapalu
+    </docAuthor>
+   </div>
+   <div n="2" type="trd" xml:lang="co">
+    <p>
+     un americanu in corsica  aghiu assistitu u 3 agostu a ti inaugurazione di u monumentu di pontenovu  7  prima di tuttu  un bisogna dimentica chi pontenovu si trova in corsica    a corsica e quella famosa isola chi fece tantu rumore ne u mondu  la isola induve nasci sampiero  pasquale paoli e napuleone   pontenovu e un picculu villaggiu  a 4o chilometri di bastia  sopra e sponde di u golu    e fu propriu in stu paesolu chi u o maghiu 1769  i corsi perdetteru la indipendenza   sanguinosa ed infausta battaglia chi restera sempre gloria immortale pe a corsica   era dunque a pontenovu u 3 agostu    e ne so fieru perche ne u 191o  a cracovia  ebbi un spettaculu identicu    u pubblicu americanu si ricorda a mio profezia sopra i polacchi  ed oghie  dopu ave vistu millaia di corsi sospirendu appressu a liberta  aghiu u presentimentu di una corsica libera e rispettata    quale puo impedi i fatali ritorni di a storia    a cosa e bella chiara  i corsi so stanchi di esse guvernati cume i negri di u senegale    a francia chi fu sempre  per elli una matrigna un inganna piu nisunu  e aghiu intesu in bastia  in corte  in aiacciu  in sarte cume dappertuttu a listessa risposta    ne avemu abbastanza      ci so  e bera  numerosi funziunarii chi si credenu razzistamente francesi perche manghianu   pane di u guvernu    e un expressione tipicamente corsa  e sti disgraziati si facenu i servi di u populu cunquistatore    ma pero a quistione e di impurtanza  e solu i francesi accecati di a loru preputenza un si avvedenu mica chi prestu si aprira a famosa quistione di u mediterrane u  simu  noi americani  moltu simpatichi a e minorita ethniche   a  or dunque  u 3 agostu  mi truvava  a pontenovu  diceraghiu poche cose sopra a cerimonia chi fu beramente grandiosa  piu di 3 ooo corsi  numerose bandiere e gagliardetti  cu a testa di moru  emblema naziunale   discorsi esultanti di amor patriu  voceri e paghielle  imprecazioni e speranze   mi truvava a u banchettu  vicinu a petru rocca  capu di i cursisti e fu per me una gioia senza paru di vede e di sente i prufetta di un prossimu risorgimentu   di sta ceremonia  hanu  parlatu e parleranu tutt i giurnali    mettera  ghiu sultantu in rilievu i capi di u muvimentu cursista    in primu logu  un cavaliere di le ideale  petru rocca  fundatore e diretiore di a muvra  anima intrepida chi da tantu fulgore a u parti tu corsu di azione       u so nome e cunisciutu inde la europa intera  e numerosi giurnali in inghilterra  in irlanda  in italia  in ispagna  in egittu  hanu parlatu di stu zeader   mi pare di rivedelu a pontenovu  in quellu famosu jornu di u 3 agostu    da u nostru primu incontru  ebbi subitu le impressione di truvami davanti a un omu sopra u quale i veri corsi ponu ave fiducia  u discorsu chi ellu prununcid a u pe di a crocee u piu dulurosu gridu chi mai sia surtitu da un pettu corsu         bidi altresi a santu cosanova  u babbu di a litteratura corsa  a maistrale celebre in tutta la isula pe e so satare e canzone populare cume u lamentu di a banditu e bell aiacciu chi ebbi le occasione di sente a u fonografa a nova yorka     bidi a stoli i pueta di tutta la isula   u sempetracciu  olivieri  lucciardi  mattei torre  rustincu  sambucucciu di casinca  codaccioni  minicale ec   i giovani arditi cume filippi  bonelli  renzu luciani  lu orzu di orezza e altri   bidi a dumenicu carlotti  un scrittore acuti e spiritosu una bell anima di isolanu     bidi  ageniu grimaldi unu di i piu sinceri  cunferenziere e scrittore di va glia chi da subitu le impressione di un omu poderosu  ellu parla l in glese cu a piu grande facilita  e mi ne rallegru  di altronde  chi ellu e figliolu di un valente  mauriziu grimaldi  chi servi la america durante a guerra di secessione  x  eccu li omi chi  sanu dirigge e disciplina u muvimentu naziunalisti tempu persu  vittulu spalanca le arecchie  cu corsu    e  dunque vera che sem  pre ci sianu  ne u seculu xx  campioni di a fede e propugnatori di liberta     si   ma bisogna per questu  anda in corsica  la isula meravigliosa chi dede a u vecchiu mondu cusi grandi ingegni  e a la america quel  lu straordinariu francisco morazan  2       a cerimonia di u 3 agostu fu per me un spettaculu indimentichevule    aghiu vistu sventula la antica bandiera sopra u tragicu campu induve casconu 8oo miliziani corsi    aghiu intesu i singhiozzi  e i canti di speranza di un populu interu  i  cosa ne dite  americani  che andate flemmatici across the world  bulete vede la isula induve nasci sampieru  pasquale paoli e napuleone  bulete assiste a u risvegliu di una naziunalita  nulla  di piu fa cile     quandu sarete in francia o in italia  lasciate a terra ferma a nizza  a marseglia o a livornu  e fate un giru in corsica      u viagghiu ne vale a pena  bederete la alzata di u sole in bastia e u tramontu ne u golfu di portu  a pi anura affucata  e nevi di vizzavona    un bederete nisun bandiiu ma una populazione ardita e fiera  leale e ospitaliera   andate in aiacciu  in bastia  in corti  in calvi  in sarte  ind e piagghie e sopra e muntagne  ma prima di tuttu  fermatevi a pontenovu  davanti a u famosu monumentu    e allora  capirete u misteru di la anima corsa   robert edmund loebe
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="3" type="poe" xml:lang="co">
+    <p>
+     a petra di algajola  per chi negra sfurhina o chi raggione tu bella  e distinata a mustra  almenu in ombra  a gloria di un napulione   ti ne fermi strallata in inezzu an chienu    nimu nnn ha u featu di arrizzatti in croechie  tantu se grande e sagra     e resti in tola  ballatata da vw  cantu di e ranocchie   o povara culonna di algajola   a eppuru se    senz esse    un mununientu   e tiri e jente a te in pilligrinaggi   per dilli chi omi e tempu unn hanu spentu di quella gloria spimpillente i raggi   oh un se a culonna di vendome  2   u fiern munumentu triunfale  risu di arte   1mpastu di cannoni e di pinseru   abbuzzatusi in chiocca a bonaparte   6   beni da a teghia  tu  ma  a fa spaccata   un fuccorre  vulendu  altra risorsa ca quella di mustratti   surninata di perle e di diamanti   petra corsa   si paltra ummenta  sottu u sole e a neve   gio chi a a francia duno le imperatore   ta pudaristi di a quale ella u deve di e so nove grandezze ne criatore   un ti rammarica di u to distinu    un piegne di unn ave  francatu u pozzu   4  qual e chi a sa si lu ariu parigginuti cunfacia piu megliu ca u to lozzu    e quale a sa chi un ghiornu a pruvvidenza un di i forza a una manu ardita e pura di alzatti a munumentu di a cuscienza di una corsica noa  franca e sicura 
+  s
+    </p>
+    <docAuthor>
+     U Babbuziu
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="co">
+    <p>
+     un so ca fiori     e cosa capita  o grida a bucialera u so amore pe a patria di sarail e di lyautey  abanduna ogni branu di ciochi face a nostroriginalita  laca a fiumara di u francisismu sirascina cume sassi attunduliti i pezzi di la anima corsa  cu frombu maladisce cioch omu duvaria binadi  vede di un occhiu gioiosu le osse isulane spaperse par su mondu a lu azzardu di guerre chi un ci riguardanu mancu di un unghia    o vedesi intuppa da dui sbirti    esse lampati in catcere poi esse mozzi da deibler o anda a pone carrube in nova calidonia    accidente   ma ste cundizione chi elli ci volenu impone tre o quattru mannarini di trovula pariggina un so  da accitta da jente chi tene piu a u so  onore ca a brinnata mariannonesca   a noi altri di u razzinu  un ci garba di sguilla cume e lumache chi la asciugna di u servilismu un ci ha ancu untu u billicu    i  per cio cuntinuemu e cuntinuaremu a grida urbi ef orbi chia corsica e u piu miseru di ecuntrade di la auropa  chi una vulunta tenace  pe u pif gran prufitu di u paese chi a tene in tutella a spolpa senza pieta   tutf i vittuli di la isula e tutt i puliziotti di oltre mare un ci faranu inicea crede chi i pronipoti di sambucucciu  solu per amor di le arte  correnu  ad assua cu un sangue caru i sciappali marucchini e i deserti sitiani  e un pudaranu ne menu persuadeci chi e mamme e e spose  corse mandanu figlioli e mariti a i macelli imperialisti per brama di gloria o per prufitu  i     no  una tragica necessita punta quelli disgraziati versu i campi di a morte  i  a surgente naturale chi dissitava e generazione isulane  attagnata da una manu inesorabile  u cornu di a bundanza nustrale  biutatu ci un accanimentu feroce un ponu piu fa bivea nisunu  allora  i belli falchittini cirnesi si barcanu i mari  cutighiendu u buccone chi l e statu toltu da casa soia   stu spalluzzu custrintu  stu cuntinuvu sfragueghiu ci hanu adduluratu u core  emu cercu u contravilenu di una tale intussicazione e lu emu trovu  la autonomia   tnostri pruggetti esposti cu bona fede e franchezza so tali chi  lasciendu u statu quo territoriale  un si attaccanu che a punti spirituali o economici   u schema chi ne emu lampatu nantu a carta un trapassa i limiti legali e un bisogna a fa crede chi ell e per simplice prudenza e per desideriu di scanza ogni interventu guvernativu  no  parchi avanti di raggiugne simili cunfini a marchia saria longa attraversu e pianure di u drittu e e macchie folte di e  legge   1 boia chi alzavanu adighia a piola tosata da minaccine di occhjin fronte poru distendei sonarbi e piglia u so partitu di un vedeci ancora stesi nantu a rota  squartati tra dui rami o seduti nant a unagu di  tre palmi   i sfittatori di capelli hanu bellu che a chiama a riscossa tutti li argumenti di a soffistica a piu tendenziosa a piu criminale  un ci faranu mai di ciocchi no un avemu mai dettu  un faranu mai a prova chi no avemu scrittu ciochi no un avemu mai scittu      e chi elli sapjnu  e spie i jlosi eibrutti chi no semu sempre stati muderati di nostra propria vulunta  i nostri disegni  lu emu esposti abastanza chiaramente senza chi e sunnambule di una stampa puzzulente venganu a traene doppie e triplice cunclusione   si u nostru pinseru fussi sbarsatu da e colonne di i nostri scritti  si rapacinu i traditor di patria  parchi ne avariamu pussutu fa un lavu fundutu da annigalli  e cio senza nisun curaggiu parchi u drittu di scrive e un antica cunquista e li orizonti di e lavurate di a teoria sfidanu li occhi  i piu acuti   so anni e anni chi i spiccador di stelle e i piscador di luna ci hanu fattu e capriole senza chiu padrone abbii mai pinsatu a chiama i gendarmi  i  ne lu annu 1925 di cristu  dopu a grande stragge fatta a nome di u drittu e di u principiu di e nazionalita       lu affannu di i diminticati si po spanna liberamente insuspiru a vittima po linta a so ardente prighera  strita a so angoscia  e  tantu chi e grinfie un  si ficcanu in locu da  fadisperu  nisun putere un si po oppone a tal lagni   j a  e po  cumu vulete chi  marianna  a liberale mariannona  sia piu gattiva ca quelli chi ella ha chiamatu tirani    e votre ricriminazione un so fiori apparagunate a centu chi lu hanu preceduta  un  eccune una fra tante chi fara spone u cutesciu lustratu a i bicchi motti chi ci volenu purta a u cimiteriu           le autore  o vittuli di u me disprezzu  la ha esposta  in un volumettu stampatu in 1862  sottu a u regnu di u nipote di pogre de corse  l onest omu chi  riclamo in quelli  tempi di opressione  o seguacci di u demagogicucartellu cioch ellu avia a certitudine di esse un drittu naturale pe a so patria era   nil novi sub sole   ufficiale di lu esercitu francese e cavaliere di a legione di ono  te    me a  eppuru  ghiuvan battista morelli  e u nome di st originale   fini i so jorni tranquilli sottu i castagni di u so paisolu tant  amatu  bocognanu  i  annasendu u scrittu di  stu valente ufficiale e quelli di i cursisti di oghie  i jacari rodi cursichella  saranu custrinti di ricunnosce chi a u rusulaghiu diu 1925 un ci e sbucciatu ca fiori  invece chi nant a quellu di u 62 ci e un prunu chi li pugnara a muccighile   e un balara po di pisa  i anca 
+  s
+    </p>
+    <docAuthor>
+     Petru Rocca
+    </docAuthor>
+   </div>
+   <div n="5" type="art" xml:lang="fr">
+    <p>
+     tous les deparfernenis continentaux de la france sont fondus dans une vaste et admirable unite  il n y a plus moralement ni provinces ni departement ilm y a que la france une majestueuse invidualite animee du centre aux extremites ef des extremites au centre par un seul et unique mobile une aggregation d interets identiques qui cree le sentiment patriotique et comme complement essentiel une seule langue pour echanger les memes pensees peut on dire que le departement de la corse soit identifie avec la nationalite francaise au meme titre que lun des departements continentaux  evidemment non la france et la corse peuvent avoir de l estime l une pour l autre elles n ont pas d inclination  elles sont politiquement associees elles ne sont pas unies elles resteront juxta posees autant que la for ces les y contraindra elles ne seront jamais  amalgamees  leurs elements constitutifs se repoussent  elles nous representent certains epoux lies par un mariage de convenance habitant sous le meme toit s asseant a la meme table jouant devant le monde assez habilement leur role mais ne paftageant pas le menie lit unions infecondes pour les peuples comme pour iles individus condamnes a ces alliances contre nature  en fait la corse est d une rare fertilite et cependant depuis pres d'un siecle qu elle est reunie a la fran ce les progres de son agriculture ont ete plus qu insignifiants tandis qu en france ils ont pris un ma gnifique essor  ah  nous voyons venir d ici une objections  les corses va ton nous dire savent peu aider aux progres de l agriculture par des travaux et des efforts perseveranis en un mot le courage du travail manque aux corses erreur  aucun courage ne manque aux corses  leur histoire en fait foi ce qui leur manque pour se livrer avec securite et profit a l agriculture c est d abord un air salubre dans les plaines ou la culture peut s etendre c est en second lieu la certitude d une juste remuneration par le placement de leurs produits or les plaines de la corse sont en general inondees  elles dennent riaiissance pendant l ete aux fievres paludeennes  tous les gou  vernements ont constate le mal aucun n ya remedie si au peril de sa vie que le  corse sait risquer  bravement la france le sait il pouvait au moins esperer d amasser une epargne on ne doit pas mettre en doute que bravant vinsalubrite de ses marais il n affrontat resolument ce nouveau chanip de bataille  mais ou placerait il l efcedent de recoltes la corse n a ni routes suffisantes  mi ports convenables  pour tirer par  ti des produis de son sol et de son travail  s i le  condamne a une sobriete plus que rigide par figrorance du bien etre i le corse vit sans aiguillons sans emu  lations sans possibilite de progres  il sent si bien lui meme la fatalite qui pese sur lui que si le hasard le met un jour en contact avec la civilisation vite il emigre il va cher  cher d autres contrees ou le travail remunere i di    e cependant on a fait des routes nous dira t on  oui des routes stra tegiques  mais les routes vraimen commeerciales les chemins vicinaux et agricoles si largement stipendiee sur le continent ou sont ils en cor  se on les a multiplies avec luxe en france et nous qui faisons par tie integrante de cette nation nous n avons pas seulement le necessaire il est vrai que la france aura la gloire d avoir introduit les chemins de fer en algerie et qu elle s'ac  cupe activement de civiliser le desert   puisque nous venons de parler de chemins de fer qu il nous soit permis de dire qu il n y a pas en fran  ce un seul departement qui ne soit sillonne en touts sens par des voies ferrees meme les nonveaux departements de la sterile savoie jouissent en ce moment de cet immense avantage le savoyard bien' qu'il ne soit francais que depuis deux ans fait deja trainer par le char de feu son bloc de pierre a  paris le corse francais  dit on depuis bientot un siecle le corse compatriote de l empereur transporte encore a dos d'ane son sac de ble a la mer  une de nos grandes richesses qui devient plusprecieuse a mesure qu elle sepuise dans les autres pays nos belles et majesfueuse forets a quoi nous servent elles  faute de routes elles ne peiivent etre exploitees et cependant le peuple qui avantla domination francaise vivait du produit de ses forets communales aujourd hui passees aux domaines de son droit de pacage maintenant supprime le peuple aurait pu retrouver dans le travail ume compensation a ses pertes si les bois pouvaient etre exploites   on a si peu fait en corse que tout pour ainsi dire y est encore a creer nos plaines seraient assainies nos routes seraient faites nous pourrions transporter au rivage les produits de notre agriculture ceux de nos forets les marbres de nos carrieres que ce ne serait pas tout sl nous faudrait encore pour attirer les naviress et favoriser notre commerce des ports surs et bien organises les rades de portovecchio d ajaccio de calvi de san fiorenzo de valinco pourraient contenir les flottes les plus nombreuses et ilay a pas en corse un seul etablissement maritime on multiplie sur la cote purement francaisede la mediferranee sous nos yeux a notre detriment les depenses de toute  nature pour attirer et faciliter le commerce et l on ne fait rien pour nous parceque lon a la pensee que nous nuirons aux ports francais  si cependant nous faisons dit on par  tie de la france ce qui est certain  c est que nous n avons marchande pour elle ni notre vie ni notre sang et que nous apportons aussi  notre contigent au budget de l etat comme a l'armee tout cela est il juste  en corse dans un pays gouverne par la france depuis bientot un siecle des marais pontiris comme dans les etats du pape    dans ce meme pays riche d un sol fecond  d un heureux climat admirablement situe pour les echanges dote d une population intelligente et prompte a faction  il n ya ni chemins de fer ni routes ni canaux ni ports   il ny a pas d agriculture il n y a pas de commerce   et quand le monde exitier est entraine pai le progres versi une situution meilleure la corse reste la sans faire un pas en devorant son frein   et c est la france qui gouverne la corse     qui nous le repetons la france et la corse ne se comprennent pas  elle m ont pas confiance l une dans yau  tre  et peuvent elles en effet se comprendre  elles n'ont ni le meme caractere ni la meme langue ef tandis que dans tous les departements francais les aspirations sont purement francaises en corses elle se bornent a n etre pas hostiiles a la franee elles restent exelusivementcorses c'est a dire italiennes  h est vrai que la france et la corse ne peuvent avoir les memes interets et le meme but que napoleon ne en corse a peine monte au pouvoir en france devenu francais ne vit plus la corse qu au point de vue de sa nouvelle patrie et ne fit rien pour je pays qui fut son herceau  ll fot grand et genereux pour lesi corses attaches au service de la fran  ce mais la corse elle meme fut oubliee  et tandis qu il dessechait les marais en piemont percait les alpes etablissait des routes monunientales  couvraif la france d'etablissements propres a hater le progres de l agriculture du commerce de l industrie  des sciences et des arts les fievres paludeennes continuaient comme elles continuent de ravager la pauvre cor  se j l on n y creusait ni routes ni ports  et nous en sommes encore en fait d agriculture aux connaissanceset aux  instruments les plus elementaires c est que comme il le dit lui meme a s helene tout ce qu il faisait pour la corse etait denigre comme un vol et considere comme un tort fait aux frangaisi o sm no lu e donc aux yeux de la france  la corse est toujours une etrangere qui recoit fhospitalite en france et qui n'a tien a aftendre de son illustre hotesse que des egards et les belles paroles des' discours officiels  oue lempereur napoleon ini entraine par un motif d equite decrete en faveur dela corse quelque mesure reparatrice et les memes clameurs se fe rententendre quel gaspillage   toutes les ressources du budget seront allees s enfuir en corse non il ne sera pas permis a napoleon ij pas plusqu il ne le fut a napoleon i d e tre juste pour la corse il pourra ss aventurer jusqu a recompenser quelques services particuliers des corses m pietri donnera acces a quelques pauvres affames de son pays dans les cohortes de la police et tout se ra dit pour 86 departement de 1 france mi nous ne le repetons jamais asse  1 france et la corse ne s entendent pas si la corse donne la main a ja fran ce c est en se tournant vers l italie et quand les fonctionnaires du e on tinent parlent a la corse c es pa visage tourne vers la metropole a dans une langue qu ils ne nous ou pas appris a aimer pi  personne ne s est etudie e com prendre le caractere corse disait la tribune legislative le general bre nier en 1822  les administrateurs de meme que les employes militaires y viennent avec des preventions qu ils ne cherchent pas a detruire en so donnant la peine de voir et d ap precier les choses par eux memes  et comme ils considerent leur resi dence en corse ou comme un pre mier pas dans la carriere ou com me un noviciat quelquefois encore comme un' exil il croient devoir sui vant la mode condamner toute ja corse indistinctement et tout aussi judicieusement que seneque ja con damnait du haut de la tour dans1 quelle il etait renferme   1  paroles perdues  le general bre nier ni aucun autre ne persuaderont jamais malgre leur eloquence ni a leur compatriotes ni aux corses que ceux ci ont francais voulez vous etre surs du fait  demandez a un francais de quelle nation est fieschi  demandez a un corse de quelle na tion est napoleon  et vous veriez avec quel dedain d un cote  avec quelle fierte de l autre se fera la reponse il e
+    </p>
+    <docAuthor>
+     Jean-Baptiste Morelli
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     tagliu    e a lu amicu j  filippi  cume lu giardinu    ti  jelosu di un tesoru      chi scruta u mar luntanu timendu per quellu oru     chi ellu tene in custodia  ed ogni passente odia    o tagliu innarpellatu a viglia di a muntagna stai  postu avanzatu di la ricca tavagna  e  di un isdegnu alteru spaventi u furesteru    ma chi si inoltri avanti      fra le  so case scure  sa un ti po da che vanti     e  ecappia le so paure  perch un vide ma iale accuglienza ospitale   eo  dopu affanosa  marchja cu sole estivu   in te volse fa posa    u ti aspettu gattivu    messe una strana tema  in la mio inerte scema     e  feminuccia vile   sarebbe voltu strade vit  quand u to campanile   rittu cum iina spada  di limpida schettezza   mi ispiro sicurezza   avale mi rallegru  di la mio cunfindanza      hi  chi a lu viandante egru  un manco pietanza           ne cunfortu o qualsia      i  attu di curtesia   u tempu chi da morsu       atutt ogni ramentu  in    versu paese corsu  i      un fara un mumentu o  chi o mi scordi di u jornu    chi o ti ebbe per suggiornu     ne menu di li amici di  chi mi hanu ricevutu  oo  bracce apperte felici     e  un hannu vulsutu  a e danne alu furesteru   vo  u minimu penseru           
+  s
+    </p>
+    <docAuthor>
+     A. F. Filippini
+    </docAuthor>
+   </div>
+   <div n="7" type="his" xml:lang="co">
+    <p>
+     lu anellu  y tn riccu scio di u paese di chio  un moce si e p ini chi benia di more era statu mi a in a so tomba  e  pa notte dopu a lu interru  quandu utta durmia in paese  unu di quelli avia pigliatu u mortu  si arricur so  chi i parenti lu avianu lasciatu in ap un anellu di gran valore    e chi de a   broni  pi  cosa fara di stu tesoru   dicia in elu su scellerato  i morti devei sa jaca in terra tutte e  vanita  un i av nostru di piu bale megliu per i o a enime che dec anelli di oru a e sodite  i quali ghiovanu di piu a noi dici puvaretti  chi un sapemu cio chi  manghieremu dumane    a vulusie di arruballu  ingrenda lempre di piu in lu cerbellu di u paiinu  u demoniu face luce e scif ya a i so occhi lu anellu di oru di u lsefuntu  u scelleratu brugia di arrua chi in laso mente  ba sempre ip cadendu a u desideriu  di scappa i casa  soia  ci un lampione e stru  menti adatti per apre a tomba  fura ifanellu e richiode a cascia       e eccula chi sorte cum un ladru  chi po timiconea mezzu paese  e ini ghiunghie vicinu a a tomba  in imezzu a u silenziu tremendu di a fantte      a  a per mumenti  sussina e trizina da a paura  una  malacella ha ughiulut in la notte oscura e zeppa  bole waltassine  ma a voglia di lu annellu l piu forte che a so vulunta        torna a bieghia  ma u rimore di  isa scherpi li rimbomba in pettu    warreghie un altra volta per aspetta   palgradu tuttu ripiglia a so strada    ava un ha piu peura  mancu l oc hi fissi e lucente di un gattu  volpe   imigulente  un li danu fastidio      e ghiuntu a lu usciu di  a capella  l apre  un altru sussinu li piglia  vilenduu cristu chi  da nantua le altare  pare chi ellu u u fissi cu i so occhii pieni di   rimproveru  ma sultantu nunda u po arresta senza sfiata fala iu i suterrane u   punta a porta chi resiste  a porta chi un si apre che da vanti a morte         i 3  ecculu poi davanti e cascie duve doimenu  aspettendu  la eterna auro ra    persone  chi hanu compiu a sc vita di gioia o di miseria    PS si omu speuratu  arrega a mezz a a su sughiornu di pace un enima ma a ladetta  bene per spuglia i morti    ecculu chi ba bersu la ultima cascia ane quella chi ellu cerca  ambani  a si ghiemba sopra ogni  cascia  e a 4 luce chi sorte trimulandu da u lat a pione   cerca di leghie i nomi di ad defabti  cine ptit e  1 a cascia chi ellu cerca e in di u   corna  deposta custi qualchi ghi nu fa  tandu tipone u so jampior a  nant un altra cascia e si mette a api a quelli chi ella ha da prufana    a friscura di a tomba ha cunse  vatu a u sepellitu tutt a sembianza di vita  u so capu e leggeramente spendicatu nant a una di e  so spalle  i so occhi chi parenu chiosi da un sonu placidu  e a so berba longa ferebbenu crede chi ellu si ha da alza   a sa vista u scelleratu sussina  e so  dinocchie pieganu  ma  malgradu tutt e si angoscie  lu anellu di oru li salta a li occhii  u vole piglia ma e dite secche e ghiacciate di u mortu resistenu cume si u mortu buliu ag  grappassi a u si ultimu ornamentu chi a vita la avia cuncessu di tene in u riposu eternu  a a  fine lu anellu cede e resta in manu a u ladru chi  chiode a cascia in furia  per corre a  cuntempla fora u so jatruciniu  in dinuchionu davanti a cascia  mena nantu u cuperchiu e u rimore chi  u piccu fade in le volte di a tomba ribomba e guasta u riposu di i morti   si alza allera per fughie da a tomba chi ava li face ombra  piglia u so lampione per andassine cu li altri attracci  stende u passu ma quale u trattene   quale li tira a vunella da dafetu            a saietta un uccide mica piu in furia  e cascatu seccu  u scelleratu  ghiacciatu di peura  cridendu chi u mortu chi era statu furatu  li avessi pigliatu per a iacchetta       qualchi mese dopu  i padroni di a tomba  andendu a prega pei so morti  truvonu u ladru stesu in terra  u fondu di a  so iachetta era inchiudatu in la cascia  un piccu e altri strumenti eranu spapeisi in terra  a so faccia mezza secca avia sempre e traccia di una cuntrazzione viulente  e un anellu sfulgurava a e so dite       leo  parlata di a custera
+  s
+    </p>
+    <docAuthor>
+     Matteu Cirnensi
+    </docAuthor>
+   </div>
+   <div n="8" type="art" xml:lang="co">
+    <p>
+     un renegatu  mi facciu un duvere di espone a i nostri cari lettori sta piccula discussione chi e aghiu avutu ci un renegatu   dunque  sera passata  tuttu spassiendu nant a u diamante  mi ne lighia a muvra quandu cruciai ad unu a u quale dissu bona sera   questu arrighiendusi      chi leghi      stu giurnalacciu  un ti facciu i me cumplimenti  o    e per cosa     un bon francais ne lit pas ce journal   a  sinfi u sangue accecammi   restai un mumentu siupitu  corta fu a riflessione   e    forse u so un bone francese  ma so un bonu corsu  ma iu chi se   aspetta chi io ti la diga       un se ne unu ne lu altru   a prova i chi facii tu  bon francais  da 1915 a 1918   ti ne stavi in corsica a fa u pass e u veni di aiacciu a bastia  surtii di un ospedale per entre ne lu altru tutt essendu sanu e gagliardii   i medici puliticanti ti carconu di  certificati per fatt ave una pinzione di muti16 di quella guerra chi tu festi  cu e cimice di le infirmerie        ed e u  mauvais francais  lasciai in preda casa  tettu e fornu sposa e figlioli e corsi nu e trince e di u nordu  pigliai u mio postu di battaglia chi io tensi cu curaggiu e onore  i zu mi  ma capiscu per cio faci u patriottu   perchi ti sbucchiuleghi varustite chi hanu cacciatu da 4 focu i mauvais francais cume me     or sta zittu chi tu patria un ne hai  e u so corsu avanti  tuttu ma aghiu esposttu amio vrtape a francia  ma tu chi si uii bon francais  ti si nascostu sottu a l ale di i  puliticanti  bon francais cume te  per un affrunta u periculu       e ava  sottu pretestu chi io leghiu i lamenti di un  populu malirattatu  ti permetti di judicammi   fammi u santi piace di escemi di tra li pedi di e e cn  si ne e andatu seliza patanccia una parela     carrissimi lettori  eccu di cioc  chi elle cumpostu u campu di i rene gati         
+  s
+    </p>
+    <docAuthor>
+     Sinibaldi
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     u ponte di moltifa u  stu gran ponte custruitu cun petre fatte in damascu  giace pressu moltifa u  sottu le muntagne di ascu   di e quali le acque raccoglie strette cume dentr un fiascu    inquantu  cari lettori   a so strana architettura   bi diro chi mancu armida cun tutta la so impustura ne averebbe fabricatu  unu di simil fattura        ellu e fattu a spin di porcu  scusate le espressione   si fanu u segnu di a croce quandu passanu e persone  averebbe ancu trematu forse u gran napulione    talmente la so presenza mette terrore e spaventu    eju  chi so grassu assai quand u passu inver mi sentu trima ci vene  i nervi e le osse  e u passu lentu lentu     per timor chi ellu un si spezzi ind u mezzu di la arcata   duve una sola petra di calcina appiccicata tene tutta la carcassa di a vecchja lacerata   pensandu che moltifa u sia tantu disgraziatu    avendu lu so stradone ed esse sempre furzatu  di scarica un carru carcu quand e a lu ponte arrivatu   e tuttu lu cargamentu strascinarlu sopra u spinu   un bi pare questu a tutti un fieru e crude  destinu   un e forse questu un statu vergugnevule e meschinu  
+  s
+    </p>
+    <docAuthor>
+     Ghjseppu Giovannelli
+    </docAuthor>
+   </div>
+   <div n="10" type="feu" xml:lang="it">
+    <p>
+     ci rividero i romani piu tenaci e piu forti   la nuova impresa fu  commessa a papirio masone  che veramente la condusse a termine slorioso a lui  funesto per noi  mia con tale e tanto sudore che il senato la giudico degna del trionfo  il quale papirio condusse sul monte albano  adesso poi i romani come sicuri posavano ii capo su due btanciali  quando di un tratto la sentono ribellata da cap minacciate piu feroce di prima giovenzio talma  collega di tito sempronio   le mosse contro con molto naviglio ed esercito  consolare  al cimento delle  armi ruppe i  corsi  cirque  volte e sei  ma cosi apparve nella estimativa dei romani o cosi desiderata o cosi trepidata la vittoria che il senato decreto rendersi pubbliche grazie alle deita tutelari  valerio massimo ha di questo consolo un caso strano  ed e che sopraggiuntogli il messaggio con lo annunzio del senatusconsuito mentr egli stava sacrificando  sullido  fanta allegrezza lo assalse ehe  mancatigli ad un tratto gli spiriti casco morto a  pie delle altre   lascio altre ribellioni  altre stragi  le quali  come sono sazievoli a racontarsi  furono truci a patiisi  unicamente vi  chiedo  che consideriate questo  anto gli imbeldi  innanzi che conoscano di che cosa sappia la vendetta del superbo dominatore  possono avventarare la prima ribellione  soli gli animosi arrisicano la seconda prova e la terza  consapevoli delle rovine che perdendo si chiamano addosso  ma contendere sempre senza consola zione di vittoria mai anzi con la  certezza di perdere e non isbigotdirsi  e piu  che  da uomini  in ses guito  a mario e a silla piacque fondare su i nostri campi colonie mandate quaggiu  non sappiamo se a fecondarli con la fatica o piuttosto col sangue  i corsi  fatti simili  agli  uccelli  per quanto si puo da cui va senza ale  dai comignoli dei nionti agguardavano le pianure abbandonate da loro  dopoche i romani  deriso fantico tributo delle libbre dugentomila di cera  pretesero spogliarli di quanto in biade o iu vino o in olio produceva la terra  e rigidi esattori inviarono a riscuoterlo oppio e tiberio gracco pretori  dall alto delle pendici i corsi  quasi spettatori seduti in circo  mentre da un lato spasimavano pei perduti retaggi  dall altro blandivano le ferite della anima  alla vista dei duelli che vavarizia o lo odio provocavanc tra gli abboriti dominatori  pero ne anche lerupi salvarono  e queste ultime gioie vennero rapite  imperciocche i romani  conchiusa la guerra   incominciarono la caccia degli uomini  ne dico cosa chie non sia  vera  dacche  con reti e cani si diedero a perseguitare per le selve i corsi come bestie feroci  fattane raccolta  mandavanli a roma chiusi in gabbie per cavarne schiavi accomodati ai  piaceri od alle  necessita loro  ma per quanto ci si affaticassero attorno non riuscivano ad acconciarli a nulla  e strabone ne chiarisce le cause con queste parole    quantun que volte un capitano romano    scorrazzando la isola  metta insieme  una funata di schiavi e li mandi a  roma  destano in cui li mira gran  dissima maraviglia  non si sapen do se prevalga in essi la stupidita  o la ferocia  molti abborrendo la e vita si ammazzano  gli altri im pazziscono o paiono corpi morti   per guisa che il padrone piglia a  detestarli  maledicendo il danaro    comecche poco  gittato in compeaexarliz strabone  pensando vituperarli  non poteva lasciarci della  natura indomita dei padri nostri testimonio piu solenne di questo   imperciocche fino da tempi remotissimi si conosca com essi sapesseto al tedio della servith preferire la morte    e  dal romani cascammo in potesta dei greci  come un brandello  di carne che il lupo vecchio  non potendo masticare  regala alle zanne dei lupicini  sotto la dominazione loro i corsi  stremi di ogni bene  ebbero a pagare i tributi con moneta di creatture battezzate  cosi e  invece di bisanti  figliuoli  ed il flagello  come in gravezza  crebbe di numero  perchein un groppo ci capitarono sul capo vandali  goti  saracini e longobardi  questi ulti mi oltre i mali presenti  ci lasciarono il germe dei futuri  come i numidi fuggendo balestrano frecce avvelenate  i saracini non potevano durare  perche  pazienza se figurandosi di aver dato il mondo a fitto  si fossero contentati dei raccolti  lasciandone tanto ai coloni che potessero vivere  ma no  essi  f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

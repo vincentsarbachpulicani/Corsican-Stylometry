@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330786n
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330786n
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 193 | Année 6
+     </edition>
+     <date>
+      1925-03-01
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Sest’ annata — Numaru 193 Esce a Dumenica Dumenica, 12. Marzu 1925  MUVRA  GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI :  In Corsica. . . , . . . . ... + « + . 12 franchi  In Francia. . ............ 15 »  A  PEsteru , . , « . . . . . . . . . 25 »  U Numaru:4 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 38: — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="it">
+    <p>
+     quell amico francese     ieri  quando mi capito la  muvra    grazie alla diligenza della posta  solitamente in ritardo   stavo rileggendo nella vita di pasquale de paoli scritta da jacopo d oria  la circolare del generale in data del i maggio 1794  nella quale si trovano queste dolorose parole      la successione interminabile delle stragi che caratterizzano la condotta di coloro che  esercitano ii potere della legislazione e del governo in francia  le abiurazione di ogni religione e di ogni culto comandata adun popolo infelice  e praticata con una empieta senza esempio  fecero sentire a tutti i corsi la necessita di alienarci dal  consorzio dei francesi  e di preservacri immuni dalle malefica influenza della loro aberrazioni       spiego il giornale  in prima pagina trovo  le effigie di pasquale de paoli  in quarta pagina lo articolo di monsieur lorulot  infamatorio  dei corsi  quando si dice combinazionel       se anche non avessi avuto sotto gli occhi ja circolare del padre della patria  lo articolo di monsieur lorulot me l az vrebbe fatta pensare   fortunatamente  monsieur lorulot non e la francia e non e tutti i francesi  se no  sarebbe carita di patria invitare i corsia leggerla e  a meditarla profondamente quella   circolare    sr  che roba e quel coso   dal suo autoritratto  suo autorittrato e il suo articolo pubblicato dalla  pensee libre  e riportato dalla  muvra  dell 8 febbraio egli apparisce un pover uomo  che si atteggia a superuomo   arlechino re   non e  dunque  da prendere sul serio   e non lo prendo sul serio     questo  pero  non toglie che le bestialita scritte da lui sieno di grandi bestialita  le bestialita sono bestialita anche quando le urla un grammofono incosciente       figurarsi quando lo astratto e urlato dal concreto   e di bestialita lo articolo di monsieur lorulot e pieno zeppo  si capisce che ie delusioni toccategli in  corsica lo hanno fatto andare in bestia   povero diavolo   che era venutu a fare in corsica    a organizzare conferenze   e gli e andata male   perche   perche in corsica  la relislon regne en maitresse   anche la asina di balaam disse una verita   ma come ci entra la religione dei corsi con le ideate conferenze di monsieur lorulot    che monsieur lorulot avesse intenzione di bistrattare  nelle ste conferenze ai corsi  la religione dei corsi   l  allora ha fatto bene a    seguire i consigli prudenti di un certo suo amico  perche  sebbene  oggi  non tutti i corsi  senza eccezione  sieno quelli di una volta in fatto di credenze e di pratiche religiose  colpa  un bel po della francia uf ficiale  tutti i corsi veri  peraltro quelli che non si vergogna  no  di esser corsi  quelli che non hannotradito il loro sangue  quelli che  secondo un espressione di pasquale de paoli  non sono dirazzati protesterebbero  e  forse  non soltanto a parole contro chiunque osasse di offendere in preseriza 1oro la religione dei loto padri  che e anche la loro religione  profondamente sentita  puo darsi che non tutti i corsi abbiano letto le parole che ho riportate di pasquale de paoli  ma tutti ne hanno scolpito  il senso in fondo alla coscienza  ma tutti sentono la voce di questa coscienza  che gli esorta a   preservarsi immuii dalla inalefica influenza  di certe aberrazioni esotiche   frustrato nelle sue speranze di proselitismo  e non sentens dosi la  vocazione di diventar martire della idea   monsieur lorulot ha sfogato il suo dispetto sforzandosi di far dello spirito a irrisione calunniosa dei corsi  caro signor lorulot   per far dello spirito non basta  appartenere al genere   bisogna  appartenere anche alla specie   e i vostri frizzi su la ospitalita tradizionale dei corsi  si la loro magrezza asciutta  su la grassezza rotonda dei loro preti  sul culto  dei loro morti  su la legione di domenicani vista in corsica  dove  oggi i domenicani non esistono ecc ecc  somigliano molto  non alle parole  ma ai fagli di ell asina di balaam  i i  c e un proverbio italiano e corso che dice    raglio di asino nonarriva in cielo   quel proverbio e la nostra risposta al vostro articolo  monsieur lorulot     ma se sapeste  monsieur lerulot  come il vostro  autoritratto vi presenta buffo   o chi rise 
+  s
+    </p>
+    <docAuthor>
+     U Babbuziu
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="it">
+    <p>
+     negletta e sconsolata sardegna  cosi scrisse  giuseppe mazzini in una magnifica lettera di saluto alla giuventu sarda  e cosi e stata per un lungo tempo indefinito la magnifica regione  sconsolata e dimenticaia  che pure aveva dati sempre i suoi figli migliori alla patria ed al re      basta citare le ultime guerre  nelle quali lo eroismo sardo ha avuto degli interpreti grandi e degni  mentre la isola solitaria e ferrigna ha sempre sofferto in silenzio la grave insuficienza o addirittura la mancanza di viabilita  di acqua potabile  di scuole  di vie di comunicazione con il continente  ecc   ora sembra giunio il momento di pagare il doveroso tributo di riconoscenza alla terra sarda  l impianto del tirso dara la forza  eletirica all intera regione  ma all infuori di questa magnifica iniziativa privata ecco il primo stanziamento di 15o milioni del governo per opere pubbliche  non e lo stanziamento gia deliberato di un miliardo gia stanziato e rateato anno per anno  ma si tratta di una disponibilita liquida   e scuole e porti e ferrovie e lavoro avranno i figli sardi  si che la storia della regione sia un eterna evoluzione verso la forma di quella civilta latina di cui la isola solitaria e stata sempre custode sicura e  gelosa      il popolo di italia 
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     ci rallegremu di vede pisula  surella  sopra a strada maestra di u sa prossimu e gloriosu avvenire  chi ella sia sempre felice        in ogni tempu  ebbemu  noi corsi una vera e sinitera simpatia pe i sardi a i quali tanti ricordi cumuni ci unhiscenu  ne u passatu e cu i quali avemu vassumiglianza fisica e morale   un bisogna dimentica che 4 nostru grande pasquale paoli fece falli  in 1793 quella  fratricida spedizione contru a sardegna    i i  avemu sempre dumandatu e dumandaremu sempre chi a corsica abbia pane  pace e liberta       ma eccu a disgrazia  a nostra vera mamma e morta  assassinata a puntendvu  e a vecchiasignora chi ci tene in tutella un pensa a noi  e si vergogna di a mostra poverta     quandu finisceranu tanti qual         simu poveri ma onesti  soli e abbandunati ma curaggiosi  simu fieri perche ind e nostre veni ribolle lu anticu sangue e se un guvernu  ciecu e sordu  ci lascia mere ne vaffanni  avemu un dirittu chi nimu un ci puo niga u dirittu di fa i nostri affari da per noi   
+  s
+    </p>
+    <docAuthor>
+     Ageniu Grimaldi
+    </docAuthor>
+   </div>
+   <div n="4" type="let" xml:lang="co">
+    <p>
+     lettera mandata da un corsu a un altru corsu  a ghivanni si     lione   moita  u 18 lugliu 1924   a  amicu caru   u piace chi io aghiu a ritrovammi in corsica a mezz a i mio parenti  e guastatu  in gran parie  da a tristezza chi io risentu a a vista di a sciagurata sibiazione ne a quale jace  u mio poveru paese  credila puru  tra i paesi disgraziati di a disgraziata corsica  moita e unu di quelli chi meritanu piu cumpassione  sbenturatu paese   misera vittima di a pulitica vergugnosa di abandonu chi disonora raprisentenii corsi e u guvernu francese  moita  dotata da a natura piu forse chi ogni paese di se parti  chi porrebbe nuiri ed arricchi piu di mille abitenti  po appena permette di vive  e cumu  ahi    a e 6oo persone chi hanu persistitu ad abitacci sopre 9oo chi ci eranu nanzu  dece anni fa    terre fertili  cusi fertili chi lu amu per falle produce un ha chi a pigliassi a pena di jetta a sumente senz ave bisognu di affannassi a travagli costosi e fastidiosi di insuvamentu  untempu  i moitinchi un dumandavanu a  furesteri manc u pannu cun u qualesi vestianu  granu e alire  biade  ci fecianu benissimu e bastavanu pe a cunsumazione locale  li arburi fruttiferi  peri  meli  persichi  noci  sorbi  castagni  ecc    spendianu   frutti squisiti cun tale  profusione da empiene ogni casa e permette lu allevu di numerosi  animali  a vigna  chi ricevia da i paisani custenti cure  dava un vinu assai prezzatu   ne u vicinatu  i valli di i dintorni procuravanu non solamente legname in quantita  ma ancu grasse pascure a capre  vacche  cavalli  chi un mancavanu     numerose surgenti cumunicavanua a terra un umidita benefica  e li orti di moita eranu piu belli  piu ricchi di quelli di e pieve vicine   st abundanza fecia a felicita di i moitinchi   la aria pura li dava a salute  a quelli stancati  addebuliti da u travagliu inn i loghi frebbosi di a piaghia aleriaccia  moita uffria un acqu acitosa riparatrice chi tre surgenti inesauribili spendianu senz arrestu   a natura generosa piattava torna mi u so senu ricchezze minerali di gran valore   arsenicu  antimoniu  tra moita e matra  tigliu appena dapertutiu  ma u paisanu ci attaccava poca impurtanza incapace chi ella era  per mancanza di solli e di cuniscenze  di sfruttale  grossi capitalisti soli pudianu  intraprende la opera scavairice   oghie moita un e piu quessa  e macchie hannu invasu u territoriu  ava  duve nanzu si stendianu campi biundeggienti di biade  vigne  magnifiche  verdi giardini  si innalzanu arbitri e listinchi  scope e filicaghie   ogni soria di piante e di arbuscelli salvatichi e i prospera in modu spareventule attestendu a rimerchevule fertilita di e terre     i gridi di i lavatori un riombanu piu in le aghie diserte  e un si sente piu ne i chiassi u muggjtu di e vacche aitiniennate tornendu da u vallu o da san gavinu  addio i rumantichi stazzi cusi pieni di animazione  duve i paisani trovavanu  a volunta latte callu e furmagliu frescu   oghie so bioti  di un biotu disperente  e i moitinchi compranu latte   condense     i sei mulini di moita un macinanu piu ne granu ne castagne  granu un ci ne e piu e e castagne si so fatte poche  i mulinai so pertuti e la acqua corre tristamente sottu e rote   una mistizia indicibile regna avale in si loghi sbandunati   u furesteru chi ghiunghie a moita  si smaraviglia di vede inculta una terra cusi ricca  un capisce e fidendusi a a sola apparenza qualificheghja di culpevu le la inattitivita di lu omu   u paese dinu e attristatu  altristisi pabitenti  e case  nanzu infrattenute cun gustu avale  cascatu lu sciarbu  dinerate  parenu vecchie ruine    i cherrughj e strette piuitostu  so impratichevuli petre di e ricciate attunduliate da la acqua piuvana  immundizie appena in gni locu  tedie rotte  petre cascate da e tittelle o sciolte da i muri  chi le abitente  disgustatu  lascia cusi senza mancu pontalle  rendenu a circulazione difficile a  u visitatore strangeru e anc a u paisanu  st ultimu  un pudendu fa cio chi ellu vorrebbe  cultiva eso terre per vendene i prodoiti e vive di una vita nova piu cunforme a u prugressu   si ricusa oghiea fa ancu cio chi ellu porrebbe fa   quelli chi hannu cunisciutu a moi  ta di nanzu fermanu culpiti di siupefazione davant a simule cambiamentu  lassu e lu omu  lassa a natura di una lassitudine immensa e straurdinaria   u  moitincu fughie una terra chi un li permette piu di vive  u paese si spopuleghia e le cifre parlanu cun eloquenza  moita  in menu di dece anni  ha persu 3oo abitenti  un terzu di a so populazione si ne e scappata per sa francia a buscass un pane chi a forza di e cose li avia toliu ne u so paese  e u movimentu cuntinua  irrimediabile  fatale quasi  in lu statu sociale e economicu atiuale    a  quelli chi si so fermati hannu pigliaiu u piccone e a zappa e si so fatti minatori  per un salariu di crepafame 1o franchi a u jornu  hannu abandunaii orti e campi e  accettalu a servitu  dece franchi  mancu da comprassi u pane e u cumpane perche   cosa chi parera sprupositata ne e nostre muntagne   oghie u moitincu  in la assenza di ogni produzione compra tuttu  pone  latte  carne purcina  legumi freschi e secchi  st ultimi venuti in gran parte da francia  e  a prezzi impussibili  per dece franchi eseguiscenu un travagliu di galeriani chi i tomba e si elli facenu a richezza di a societa  minera di matra  facenu a so propria ruina  e quella di u paese     li altri  piu indipendenti  chi hannu persistitu a vive cue so terre tiranu a lingua  si ell un hannu pensioni    i  e cause di sta situazione so vistesse che per li aliri paesi di  a corsica  ti ne parleraghiu ne a mio prossima lettera  sera un mezzu per infratteneci sopra a nostra isula ipfelice  e a so siluazione a un puniu di vista generale  principiendu da u particulare  cioe da cunsiderazioni sopra a regione moitinca   e per avale ti stringu cordialmenie a manu  i
+  s
+    </p>
+    <docAuthor>
+     Francescu R.
+    </docAuthor>
+   </div>
+   <div n="5" type="art" xml:lang="co">
+    <p>
+     u mondu e noi  2   ciscrivenu da ginevra   parecchi giurnali annunzianu chi a sucieta di e nazioni si occupera fra pocu di a corsica    o    un simu anc a vigilia di u gran ghjornu ma u fattu chi li omi i piu eminenti di ogni paese parleranu di i nostri guai  ci prova che noi simu u puntu di mira di la auropa intera   un  si puo niga chi esiste oramai una quistione corsa    u diverbiu un sara piu fra i soli francesi e noi  ma internaziunale   bederemu se a corsica soffrera sempre di a malaria chi face di a nostra isula un beru cimiteriu     una cunversazione chi aghiu avutu cun dui giurnalisfi inglesi   fra i quali u currispundente di u dar ly mail   mi permette  di scrive chi i delegati di a francia temenu cum elli dicenu   un coup de jarnac  e si adopranu mani e pedi a cio chi laffari di corsica sianu passati sottu silenziu    7  
+  s
+    </p>
+    <docAuthor>
+     Luigi Antonelli
+    </docAuthor>
+   </div>
+   <div n="6" type="art" xml:lang="co">
+    <p>
+     pulitica francese  parigi  25 ferraghiu  in francia  e cose banu di male in peghiu  u guvernu herriot dopu ave fattu tante prumesse 4 i lavuratori cerca ogghie di da u cambiu a tutt i puvarelli chi speravanu ne u regnu di a virtu    u  un trova dunque nulla di megliu che di persecuta a nostra santa religione       questu e  u periculu internu   ci ne risenteremu in corsica   ma i francesi hanu un altra spina  a tunisia    ne riparleremu piu tardi     a mi 
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="7" type="art" xml:lang="co">
+    <p>
+     lu avvenimentu di marseglia  ci scrivenu da marseglia   tutt i giurnali  hanu parlatu di li avvenimenti di marseglia   u 9 ferraghiu  a le occasione di una cunferenza tenuta da u generale de castelna u  parecchie centinaje di cumunisti hanu agreditu i cattolici chi surtivanu tranquillamente di u locu di a ruinione   duie persone so morie in seguitu a e ferite ripurtate  una vera tragedia   le indignazione e generale    u guvernu herriot   cumpostu di ebrei e di fra massoni   un e  capace di fa rispetta le ordine  e cusi averemu prestu una guerra civile     bellu risultatu dopu cinquant anni di repubblica    poveri di noi   a  giabiconi        e     spagna e maroccu  tangeri  8 farraghiu  un ertissariv di abd el krim mi ha  fattu le onore di ricevemi in casa soia  eramu tre giurnalisti  un inglese  un americanu e u vostru servitore  u   u  aghiu retenutu ste parole chi appruvaranu tutt i veri corsi      a francia e a spagna un hanu nisun dirittu sopra u maroccu    bulemu esse liberi e indipendenti perche noi appertenimu a una razza grande e fiera  e a nostra civilisazione e becchia di quattru mil annil     sic   avemu dimustratu sopra tutt i campi di battaglia di u rif che noi simu degni di liberta    un avemu bisognu ne di a francia ne di a spagna pe fa i nostri affari       avemu vintu i spagnoli e si elli un ricunoscenu a mostra ripublica  oh   allera  e cose cambieranu e bederete prestu a guerra piu furiosa che mai       a nostra guerra e santa perche noi difendemu un ideale di justizia e di liberta      avendu dumandatu a lu emissariu di abd e i krim  cosa ne pensava di a corsica  ellu mi rispose    boi altri corsi  avete tutt e nostre simpatie    a muora e interdetta ne u maroccu di liautey     sic  dipoi u mese di sittembre 1923  ma u nostru duce abd elkrim  allah u cunservi eternamente  riceve a vostru giurnale e ammira a vostra curagiosa prupaganda  e  cume la irlanda  a corsica e u risvegliu di una naziunalite      a  si 
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     canzone elettorale  u   partitu  di si vidara  dopu ave publicatu a canzona di u merru e quella di u contr a partitu avemu ricivutu una prutestazione di u partitu di  si vidara  fia    eccu a so canzona parchi notun vulemu ruvina a nimu    quale so li cuncurrenti   ditemi  duale la preva   eju avaria bisognu di una vistitoghia nova e po  sangue di lu ra    pa u votu  si vidara   chi la lutta sia mastina   a stelezioney si spera    mi ci vurria  una mula chi e vecchia la me sumera e po  sangue  di lura     pa u votu si  vidara   quale sara lu partitu duva si magra nucelle   torte incu lu brocciu frescu vinu caldu e po fritelle    e po  sangue di lu ra    pa u votu si vidara   ancu qualchi  impiegarellu  survegliante o cantunetu   faria la me faccenda vinendu da u ministeru e po  sangue di lu ra    pa u votu si vidara   di tutti li candidati   quellu chi  da piu dinaru saria lu preferita    hj lu tinaria  caru   e po  sangue di lu ra   pa u votu si vidara   priga vogliu  man e sera  par  che trovi  in st elezione    un cuncurrente chi paghi tutte e me cuntribuzione  e po  sangue di lu ra   pa u votu si vidara   pocu mi importa  la taglia  o si elle andede a le  scole   basta chi elli irovi prestu un maritu a  me figlioie e po  sangue di lu ra   pa u votu si vidara   da quellu chi manda scarpi cu la pelle la piu fina  accittaria daveru  ancu balle di farina  e po  sangue di lu ra    pa u votu si vidara   
+  s
+    </p>
+    <docAuthor>
+     Maistrale
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     a le amicone borghetti  dunque ti so piaciuti i pesci fritti   mi face assai piace  ma  di pe  un ti sede   essendu lu mid amicu  cu i toscritti  fammi passa     per cucinaru in pede   sera  cume tu dici  piverosa  e muschente e  cundita la so salza   ma un ti aghiu palisatu a vera cosa  chi mi aiuto per falla    e a donpa scalza   lodi assai la erticella e la pietanza  da giovanu infiamatu ancu ti arzerdi a crede chi curi ella sia abbastanza per sape quantu cie corsi basterdi   pianu figlidlu   chi un sai quantu netoc ca  a norchiaccia nuduta di u to palu  sapia chi   pesci fritti   petru rocca un ne pobbe spachia mancu   in riga lu   e pur so chi un ti scordi di li manzi chi preganu chi dio faccia cala u prezzu di  e sciappe accio chei pran zi  di cirnasianu sempre    in baccala   ti salutu tantu 
+  s
+    </p>
+    <docAuthor>
+     A. F. Tristani
+    </docAuthor>
+   </div>
+   <div n="10" type="let" xml:lang="co">
+    <p>
+     lettera a u sampetracciu  caru iannettu   ferraghiu  sulanosu  cust annu  cume maghiu  mi porghie  da u to giardinu  umidu di melancunia  ato bella litteruccia chi musca piu che a viola  ti  diceraghiu chi ella  mi ha fattu liva da pettui sturnelli canterini di sonnii anziani chi durmianu indu retinu prufondu di a macchia interiore  bravu cumpagnu  incoppia si boi e teniti forte di speranza chi u lavoru chi tu faci e nobile e degnu di fatica  u teatru pupulare corsu deve viaghia   e tu si natu stellatu per st opera santa e pia   un ti vogliu imbuffa  ma un ci e corsu amante di e nostre muse chi un ne acclami u to riccu talentu appena sbuccitu e un fermi incantatu a u sonu di a to cialamella   u signore th a datu lu ingeniu per serve cu splendurenza le arte chi canta  ride e piegne escatena le emozione  mettiti dunque in campagna cume tu ne hai la idea  arma su teatru ambulante senza piu esitazione e videre cume tu sare accoltu e benedettu in tutti paesi  a corsica di grossu minutu aspetta  dipoi centu cinquant anni  quellu chi fara piegne i so muri antichi e fara ride sporte e  spurtelli  e nostre case  tantu  1 antigogne ca e muderne ma sopratuttu  e piu vecchie  sai  quelle chi io cantai   case corse innarinlate nantu i sciappali di argentu   nere nere affuculate da fora cume da rentu     e nostre case saranu fiere di a to venuta e cusi cuntente di vede u to teatru chi parla u veru corsu sai   si elle si pudissinu tramuta elle  falerianu tutte in prucissio abbigrendu ulocu duve tu piantere e to tende pe asculta cio chitu dici  in seriu e in burle   dunque  fatti avanti  curaggiosu  chi u trionfu e sicuru     per istu veranu  ti manchera u tempu e u laziu    poi avale  ci e u teatru eletturale chi cumencia a entre in ballu e durera sin a u tre maghiu    ma  si tu fussi prontu  tempu scorsu u furore di le elezzione  sai  quant io seria felice di avetti  quinci  pe i to principii  a casinca e propiu a propositu per una turnata  i paesi so impurtanti e tutti vicini vicini  dunque   poghe spese di transportu di materiale  u dodeci maghiu  tutte ste populazione si rendenu a a festa  di san brancaziu  gran pelegrinaggiu e fiera regiunale  averisti una magnifica occasione di fa e to prove davanti un publicu simpaticu  ind un scornu raru  a la ombra di i pini e di i castagni  accantu u stradone di aleria bastia  sottu u bavellu di trinnichellu      chi ne dice  cerca di esse inn or  dine  appinza quelle fulette  appiceiga sei ale a ogni canzona  eiu  si io ci riescu  ti prepari una cummedia          i  ma ci pensu   cumu fare percumpia u materiale  u trimbulamentu  di taule  tende  tendoni  incrocchi  barbe e capillere  mustaccie bionde  bianche e nere  e pulberette a centu culori i custumi evocatori  e imprissiunanti       ci vole chi no  aiutimu tutti pera to cruciata  fa  remu una chiama sulenne a li ardenti patriotti chi leghjenu a muvra   sta chiama lasciami fa  mi mincaricu  e poi ci e cumpare   un li hai scupartu indogu    si tu u vedi  salutamilu caramente  dilli chi io aghiu ricevutu a so ultima lettera cu i ritratti    aio aio caru cumpare    li dicere  pianu pianu   parlate chi per mancanza di parla si more senza cunfessione  parlate a i vicini e a iluntanu  chi tutti sottuscrivinu pe st altru monumentu chi no vurriamu alza  un monumentu leggieru  comudu  purfatiu  chi giri da piaghia a monti u monumentu di u teatru corsu   u teatrucciu di tannettu u nostru  manch ellu un po sta arritu a corpu biotu  un ci vele  milioni   ma senza nunda un si fa  ce niente    intantu  per parte me  ti mandu cinquanta franchi  ti dj  ceraghiu  a parla francamente chi i  i ti do  a cundizione chi tu i mi reg  di quande tu fare quelle ricette co  piose e faulose   perche  u signore fece anc a me largu di core e scar  su di maranghini   un ti scurda di salutammi quelli di a to casa  poi  ziu moru cu a so barba uttantanninca appena grigia  ziu  marzianu   sepalu   di poesia  a brecci  quellu chi sta accantu a lo mu di a chiesa  quellu chi si sbianco le manu piu che me  ghiuvasni  asomoglia e i zitelli  poi  scoti quella aria campudunichina  vestiti di speranze e di veranu e da u to nidu fiuritu di amore e di visi cari  fissa a le orizonte marinu a vela no  va chi sfiora le aque turchine carca di i mille tesori di una razza   
+  s
+    </p>
+    <docAuthor>
+     Martinu Appinzapalu
+    </docAuthor>
+   </div>
+   <div n="11" type="art" xml:lang="co">
+    <p>
+     a quelli chi hannu  troppu panza e a quelli chi un hannu mica abastanza  tutt e distrazione di oghj un ci daranu mai la alegria e a salute di i nos  tri antichi  buschemucia un ghiocu chi e i fia passa e nostre dumeniche for di ajacciu  a la aria pura  per daei un pocu di muvimentu  a noi chi semu iroppu tripputi e chi un ci muvi mu quasi piu  o a noi altri chi semu secchi come sarrache e chi un avemu ne fame ne appitittu  e  tra i joghi muderni eccine unu chi ci cunvenga     1 nostri figlioli caccighieghianu  pescanu  ballanu e si distraenu cun sti sports  specie  di tronca colli salvatichi  impurtati di inghiltera  in duve si da piu calci  pugni e ineapate in un ora ca tutt i  diputati pinzuti un ne ciaccanu durante u so mandatu  ma noi un semu piu abastanza zitelli per scimita simile circhemuci uri ghiocu chi ci divertisca sen za dumacei  ci vole a noi una distrazione e mica una fatica    tra i joghi antichi ci sarianu e bucce chi riuniscienu tuile  cundizione necessarie per noi  divertimentu e muvimentu  dunque alegria e salute  i  o  anc una duzena di bucce  un pocu di occhiu e qualchi chiacchiare passariamu in cumpagnia ghiurnete sane in pace e in salute   e nostre panze si sdrughiarianu cum a cera  e  a se ra  a suppa ci pararia piu savurita ca mai  i   i  aio  quelli chi volenu juca a i bucce  grassi e magri  si aecelianu ancui mizzani   fatela sape prestu a muora chi apre  a parte da oghj  una lista di quelli chi velenu entre ne a sucieta ajaccina di bucci   u sigritariu aghiuntu  
+  s
+    </p>
+    <docAuthor>
+     Zézé
+    </docAuthor>
+   </div>
+   <div n="12" type="art" xml:lang="it">
+    <p>
+     la corsica prima del trattato di versailles  1768    gi archivi e le biblioteche italiane pubblichee private sono ricche di   epistolari interessantissimi  fonti inestimabili di notizie e di informazioni storiche  talvolta di alto e pre giso valore documentario  di  quandoin quandu qualche solerte editore piu con spirito di mecenatismo  che per brama di lucro  compie con ardimento encomiabile il gesto signorile di irarne di ali oscurita qualcheduno  talvolta pure sono delle associazioni letterarie o storiche che provvedono di loro iniziativa e con mezzi propri a pubblicazioni di questo genere   la solerte casa editricel  f  cogliati  del dott  guido martinelli  di milano  ha  per incarico  se non erro  della societa storica  lombarda   intrapreso la pubblicazione integra le del carteggio dei fratelli pietro ed alesandre verri il primo  economista di fama durante il governo di   maria teresa e  di giuseppe ii in lombardia ed il secondo letterato di garbo autore delle famose   notti romane        questi risiedette quasi sempre in roma  ove mori nel 1816  mentre pietro  tranne alcuni viaggi all estero  dimoro abitualmente in milano ove si spense nel1797  mes a    i duefratelli  appartenenti al pa  triziato milanese  e legati da sincero affettoe da comunanza di idee  si trasmettevano per corrispondenza  le notizie di ogni genere che cir colavano nelle due capitali e si comunicavano reciprocamente le proprieimpressioni sugli avvenimenti salienti del giorno  talora con commenti e giudizi non destinati certa mente alla pubblicita   meglio informato pero per le notizie politiche era il conte alessandro  il quale frequentando il mondo diplomatico  la aristocrazia e la prelatura delle urbe   era in grado di attingere le proprie informazioni a fonti pressoche sicure  il conte pietro ne era ghiottissimo e le comunicava tosto agli amici   vo  scorrendo con attenzione i volumi finora usciti  non poca fu la mia sorpiesa nel trovarvi spesso notizie di una certa importanza sulla guerra che i corsi combattevano  in  quegli anni per la loro indipendenza  guidati da pasquale paoli  avevauo dapprima scacciati gli oppressori genovesi ed ora lottavano disperatamente contro i francesi       non e a dirsi quanto questa lotta ineguale appassionasse roma  dove tutti erano favorevoli ai valorosi isdlani  i quali vi tenevano un loro  agente ufficioso  le abate alesandrini  che abitava nel palazzo del cardinale lante  ed era incaricato  di patrocinare i loro  interessi presso il papa    o    e pu i  a favore dei corsi si facevano persino scommesse   le lettere di alessandro al fratello pietro  rifletiono  naturalmente questo stato di animo della popolatione in mezzo alla  quale egli  viveva   spigoliamo ora nel carteggio     grande ammiratore dei corsi  si tra mostrato in quei tempi  un certo conte dalmazzo vasco  piemonfese  mezzo filosofo  origiriale ed un  po imbroglione  sin dal 1766  si era  fissato in mente di promuovere in italia una spedizione  militare onde alutare gli insorti isolani  abbocca o8 con agenti inglesi  si era messo  sc arruolare uomini sulla riviera ligure  sembra che la inghilterra favorisse di sottomano questo proaetio  purche un porto della corsisa fosse dato a re giorgie iii  ma allorquando il vasco venne scoperin arrestato  il ministero inglese  8o tutto  il vasco riusci a fuggire ta carcere e rifugiatosi  a livorao tra a de abate  non manco  di dat e gli inglesi da birbe  risulta rete nie come egli fosse un uomo ib a pretendere la amicizia e ad  usarne   pare rs eli li  dre che alcuni corsi contrari al  generale paoli  avessero affettivamente fatto invito al vasco  che in tutta quesia faccenda poco chiara era coadiuvato dal fratello nicola  di recarsi nell isola per contrapporlo allo stesso paoli  pietro verri  dopo avere detto di vasco  che si disponeva a salire i gradini del trono   aggiunge che forse aveva preso per guida le ambizione e la vanita che non potevano  mostrargli i pericoli che lo circondavano  il vasco si credeva qualche cosa perche aveva scritto un seguito al   contratto sociale   di rousseau  di cui aveva mandato in omaggio un esemplare algenerale paoli   egli peraltro non ando nell isola  ma vi invio con lettere di raccomandazione del capitano santo di livorno un suo confidente tale lanzoni  da una lettera di pietro ad alesandro del 17 febbraio 1768  risulta che il lanzoni riusci ad avvicinare il paoli  al quale espose alcune idee sulla costituzione  talune di esse apparvero felici al generale  altre invece gli sembrarono   vuote e mal digerite      vedendosi bene accolto  chiese a paoli una udienza segreta  ottenutala dichiaro che le idee di quel piario  che gli aveva  precedentemente comunicato erano del conte vasco  il quale  per il bene della corsica  voleva prendere le redini del governo della isola   che aveva lo appoggio della inghilterra  ed   altre simili pazzie    paoli  ascoltando si bestiale discorso credeva di sogriare  e mentre rimaneva attonito  il lanzoni  trasse fuori un ritratto ornato di diamantini e 1o bacio con rispetto  presentandolo al gerierale disse    questo  e il conte vasco   vostro liberatore e liberatore di tut ta fisola    alcuni corsi  informati di questa conversaziorie consigliarono al generale di   punire esemplarmente lo stolido  che con tanta imprudenza aveva offeso i riguardi dovuti ad una nazione libera e rispettabile  paoli  credette  non  ne valesse la pena  trovando piu delirio che insolenza in questa procedura   gli fece consigliare di andarsene  ed il lanzoni non si fece  ripetere due volte il suggerimento   nel rispondere al fratello   alessandro  lo ringraziava del  racconto che lo aveva divertito assai  specialmente lo episodio del bacio al ritratto  i  u  malgrado questo smacco il vasco continuo ad intrigare  finche capitato a roma il conte della  riviera  ministro del re di sardegna  lo fece  arrestare e tradurre a castel sant angelo   per assicurarsi della sua persona ne    ica e  fortunatamente non tutte le parsonne che si interessavano alle ivicende dei corsi  erano simili al vasco  vi era un conte filippo neny del consiglio di economia di milano  il quale era in corrispondenza con paoli  sembra pure che un certo generale  lloyd  che risiedeva a livorno  era stato nell isola a fare visite a paoli  questo lloyd  era yinformatore di pietro   sotio la data del 2o aprile  alesandro  comunica al  fratello risul targli che in corsica  vi fossero sotto le armi diciotto battaglioni di circa 6oo uomini ognuno  notava inoltre come i corsi fossero nella piu buona fede religiosa nella francia mediatrice  che aveva loro promesso di accomodare il tutto in quattro anni  oppure di lasciare ad  essi la liberta  di terminare i loro  affari per proprio conto  essa aveva  loro  insinuato di sospendere le ostilita e cosi avevano  accettato il  consiglio come prova di ossequio e di deferenza  purtroppo invece la francia stava trattando con genova il turpe mercato dell acquisto della isola    in una lettera di pietro ad alesandro  del 22 giugno  e cioe quando da oltre un mese con lobbrobrioso trattato di versailles  15 maggio 1568  la repubblica geno vese aveva venduto ja corsica a luigi xv  si parlava di pace alie seguenti condizioni   1  genova conserverebbe ii titolo regio sulla corsica      la corsica pagherebbe alla repubblica un annuo tributo simile a quello che il re di napoli pagava al papa 3  genova conticontinuerebbe ad occupare una piazzaforte del litorale  aggiungeva che solo i due primi punti erano accettabili  ed erano stati accettati  mentre la terza proposta poteva esser sorgente di eterne discordie  malauguratamente i corsi avevano perduto tempo ad impadronirsi di tutta la isola  intanto   ia  francia sbarcava truppe  paoli levava tributi e scriveva    se mi sentite incolpato di cattivo patriottismo difendetemi  e siate sicuri che non vi smentiro mai    secondo pietro  la condotta della francia muoveva a sdegno    ed io credo  sono  sue precise parole  che siccome ressun numero di schiavi vale mai un drappello di guerrieri  liberi  cosi la francia non sara mai interamente padrona della isola   generosita  va  lore e montagne  non si superano da chi ha veduto morire damiens   l allusione al tentato  regicidio del re  francese e piuttosto singolare nella penna di pietro verri    i    comunque le trattative di cui sopra non erano  che una listra e fallirono   da troppo tempo la francia agognava al posesso della isola   per lasciarsi sfuggire le occasione   le stesso pietro  dava poi noti  zia al fratello  che casa di austria non era molto soddisfatta delle cose di corsica  perche temeva che i borboni aspirassero ad impadronirsi di tutta la italia       vedremoin un altro articolo le fasi drammatiche della epica  lotta combattuta fra corsi e francesi  il carteggio verri ribocca di notizie alriguardo  le quali per noi italiani rivestono un particolare interesse 
+  s
+    </p>
+    <docAuthor>
+     O. F. Tencajoli
+    </docAuthor>
+   </div>
+   <div n="13" type="his" xml:lang="co">
+    <p>
+     racontu  ava si franghia  u corciu di ziu don ghia  mortu anni sonu era un di si antighi corsi onesfi  travagliadori e penserosi pe a so casa  ma un avia tante gnagnare cu a zitellacci quand ellu i chiappava in difettu di latrucinu  u soiu era soiu un ci era nunda a fa  i  ci vole a di  pet esse veru  chi ella era sempre strecciatu  cumei ladri  bench ellu un li manchessi nunda di casa sdia  un lavendusi chi ogni morte di vescu  lu oliu specchiulava da i so panni cume quand ellu zirla da e zimbine     un zitellu una volta    indria u tugnu si ioun mi sbagliu  andete  letulu lefulu  in mu so priu e picchio nantu u so chiaragiu muscatellu per sciaccassine duie   or  bella bella  la ora di u ladru e qualchi volta spiumbata     eccu  in fatti  chi  manu a manu  ti affaca ziu don ghia      o canaglio inde  qual e chi ti ha dettu di vene a manghia e chiara gie       u zitellu chi sapia cio chi la aspettava  resto ne cotu ne crudu  si resea   jube domine   e  piettu a meze froride  rispose     o ziu don ghia  un a mi ha detta nimu  e vi dumandu perdonu     bravu  ripiglio ziu don ghia  posta chi fu ha dici  franca  ti scusu per sta volta  ma fa attenzione a un veneci piu senza u mio ordine  allo  da u mumentu chi tu si riantu  lampamine duie belle mature   cunfentu u tugnu piglia e lampali ramelle  e gambunette a tifulmini  ma  sarrangiava di manera a falli casca tuttuin tupezzu  eppo  per ride  li disse  e    o ziu don ghia mi derete u vostru cappellu chi io u possi franghia e fa lu oliu per mamma  7  u vecchiu  digia malcuntentu di ave ricevutu ramelle in chiocca  si ingolle sanoda inghiuria e risponde  placidu placidu        si  si  u mio ciucciu u fi deraghiu  ava falatine chi chiaragie ne aghiu abbastanza    spenseratu u piscainu si aggronchia a u scucchiu di lu erburu e face per fala   quand ella era a la altura di e brec cie  ziu don ghia  chi avia pigliatu a lu appiettu un palu scubignu  principia a fa piovecolpi senza cumpassione  dicendu  x    ava si franghia 
+  s
+    </p>
+    <docAuthor>
+     Rustincu di Loretu
+    </docAuthor>
+   </div>
+   <div n="14" type="art" xml:lang="co">
+    <p>
+     gronaca aiaccina  7 matrimoniu  ghiovi e statu u matrimoniu di u nostru fratellu di fede dumenicu massa cu madimacella paula lazari   per via di un dolu recentissimu  soli parenti e intimi assistianu a  cirimonia  a  a  merria  u sicond agiuntu nicolai ha felicitatu  cu parole scelte  i giovanni sposi  in domu  prete felce  dop avelli uniti  fece  in un improvisazione piena di pieta e di puesia  un riassuntu di i duveri mutuali di novi cungiunti   i tistimoni eranu  pe u sposu  u nostru direttore petru rocca  pe a sposa  u capitanu tolla   a sera  u battellu di nizza si purto u nostru cumpagnu e so mugliere versi u paese assulanatu di i viaghj ciceronati da le amore   vitalia   ne fala  acqua   grandine   ventu  eccu ciochi ci tocca dipoi una quindicina   soga u sole e scappatu in pinzutia     canzone    maistrale ha cacciatu tre canzone elettorale      canzona di u partitu di u merri canzona di u contra partitu canzona di ie si vidara    cusi ognunu  po canta sicondu i so gusti  i so sentimenti  e so simpatie   e que a scuparta e cume quella di lu ovu di cristoforu colombo  facilissimu   ma bisugnava a pinsacci   ogni canzona un costa ca fre seldi e a muora  si vo e li chirite  vi ne po manda cintinare   ancu i muti si hanu da mette a canta   ungarese  a u   napulio  una quindicena di danzatrice ungarese ci hanu raligratu a vista cu  e so trenta jambe nude  e sinilse e a sgualtrezza di e so taglie chi si turcianu cume spighe sottu a tramuntana     i  tutte giovane  fresche e bella ma  savie   piu di un vicchiarellu si e firmatu a lingua di fora videndule andassine tufte inseme  sticchite sticchite  a u   soiferino  duv elle allughiavanu   pugilatu  i fratelli ricci  sempre in chiesta di niivifa  dop aveci fattu gode  ultimamente  quelle graziossime operette italiane  ci prumettenu  per la intrata di marzu  una mezza duzena di matchs di pugilatu    tanti ringraziamenti   marti grassu  scimughjne nizzardu  in  piazza diamante  impurtazione diretta da e sponde nurdinche  cunfetti  serianza e    alza la gamba  o maria juva     affissi  u partitu socialista sezione anatole france  nome cursissimu       ha cupartu i muraglioni di a citta di affissi rossi rossi chi parianu ciuttati in lu sangue di un maghiale polsu par zirrinu   quellu chi un travaglia un deve magna dicianu st affissi a la blum   allore e aceadutu chi una cinquantina di rentiers aiaccini  spavintati  un hanu piu toccu un buccone dipoi una sittimana  a  si st addispirati sfiatanu  a sezione anatole francia ne supurtera e cunsiguenze  ci  avvisu  
+  s
+    </p>
+    <docAuthor>
+     Laghione
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

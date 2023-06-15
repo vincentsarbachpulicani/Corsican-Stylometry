@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330871j
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330871j
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 319 | Année 9
+     </edition>
+     <date>
+      1928-05-01
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Annu JX-— Numaru, 729 | | Esce ogni dece iorni u 0 e | | I Maghji 1928    GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI :  InCorsica. « + . + . . . ......... 12 franchi  mFrancia...... ..»........ 15 »  A PESteru. ..... -..... 30 »  U Numaru:5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 38. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     pe u pane di legnu     corsi  attenzione   alcun lamentu fu piu ghiustu ca quellu di u castagnu   ma chi lu averaghiu fattu a lu corsu cusi ingratu   chi mi ha datu la sentenza   a morte mi ha cundannatu    in fatti  u castagnu  pruduttore di lu anticu pane corsu  oghie sparisce di piu in piu  e custere diventanu scogli lavati  u terrenu  brusgiatu da u sole poi scughiatu da e pioggie si ne va a ingrassa e junchine di e padule piaghjnche  e funtane si seccanu  i fiumi un so che turrenti di invernu e cutaghj a i jorni caldi   e cusi  anostr isula di e bellezze diventa la isula di a distruzione   di a desulazione  di la aridita     e cause di a disparizione di u castagnu in corsica so numerose  lu influssu di lu inchiostru  specie di tuberculosi castagnina  e guasi incurevule  e so rari i casi di alberi malati chi abbianu riesciutu a vince u terribile nimicu  in pocu tempu lu alberu piu rubustu e verdigante ingiallisce  si spoglia  e u so legnu tantu sodu si infracega e si ne casca a pezzi   i sapienti  dopu qualchi prova infruttuosa a vince u male  si so prestu scuraggiti  ti oghie  in corsica  u castagnu more perche  deve more     eppuru  sterponu e vigne da a filussera  e un rimediu fu truvatu   soga i danni di st iltimu influssu nucenu pocu ad altre terre  e    pe a corsica un vale a pena    u pruprietariu vedendu atfacca qualchid unu di i so albeil  per paura chi tutti unn abdianu listessa sorte  li da capu banzu u colpu fatale  e oghie  parecchie castagnete belle verdiganti so in prede a piola per malasorte  u legnu castagninu schiettu e pagatu u doppiu da le usine di a tinta     si a dichiarazione di i dirite di lu omu nota in un articulu chi a pruprieta e di u prupriefariu  un altru articulu di sta uchiarazione attesta chi tuttu sl po fa e disfa sopra u soiu  a cundizione di un nuce a u prosmu  le affare e custatatu chi a puprietariu distruttore di u di u nuce a tutti i pruprietarii  u rughione  a  prusperita di stu tughione e a le avenire cummerciale di la isula  no 1 corsi un capiscenu che eressu mumentane u  e chi   elli dimenticanu chi li affari di banca so cunvenzioni e chi a carta muneta e sempre carta  mentre chi e castagne so pane   dimenticanu dunque chi a i tempi di i nostri babboni  ques ti campavanu unicamente di u pruduttu di st alburu naziunale   i  o corsi  femu attenzione a cio chi ci pudaria stalba si u fiore francese ci mancassi un ghiornu       ci sara bisognu di a forza per fabbi capisce ste quistioni di prim ordine  ci sara bisognu francamente di una legge chi v impedisca di fabbi male a voi stessi e di fa male a  patria santa   si ell e  cusi  una riforma si impone  chiunque un si trova in statu bisugnosu mumen  tane u un deve ave dirittu di distrugge un alberu  massimamente si ell e un alberu fruttiferu  u pruprietariu un duvatia esse padrone ca di li alberi  ritti   ca di li alberi   vivi    un sustengu micca sta tesi da cursista accanitu chi vurria realizza le ideale in un ghiornu  ma in cursista chi vurria vede a corsica opulente e bella  regina dil lsule mediterrane e ad ogni puntu di vista   lu esempiu di u mio rughione pudera cunvince forse i piu increduli   canale di verde   unome solu la attesta   era un paese di alberatura fruttifera  di castagnete sopratuttu  dipoi una quindecina di anni  un intrapresa di ligname ha sterpatu guasi in tuttu u boscu di sant appianu e li altri alberi  intornu a u paese   oghie puru  i qualchi resti di ste nostre seculari piante  testimoni di una manera di vive scumparsa  cascanu sottu e piole di intraprese furestere    i resultati  pe u paese di canale cume per tutti li altri lucali di a corsica  so nefandi   e culline  e pendice  e conche verdiganti diventanu scogli murzosi duve e capre si innalpellanu per truvacci una magra pascura   e funtane  toccu jugnu  si seccanu  i venti i piu furiosi brusgianu i fiori e i talli di li altri alberi fruttiferi e di le altre culture  passanu li anni senza chi omu possa assaghia la antica manna di cirnu   so passati i tempi duve ancu u sumerellu  a pecura e u manbarinu rudianu frutti inzuccherati a pede di mansa    salvemuci  o corsi     o canalinchi  e ora di apre li occhj  sinno  fuss io puru buggiardu  un ghiornu venera chi paterete a fame di i cani  v accurgerete be tandu di u vostru male ma sera forse troppu tardi e    a jurerete sette volte  cume a volpe in caprara 
+  s
+    </p>
+    <docAuthor>
+     U Canalincu
+    </docAuthor>
+   </div>
+   <div n="2" type="let" xml:lang="co">
+    <p>
+     chi ella campi   carissimu direttore  eccumi decisu e ben dispostu  per piglia cunuscenza di u vostru bellu giurnale     intendu chi ell e u piu solidu strumentu per fa mantene a i corsi e so nobili ide e  e a so pura lingua antica  perchi avale un si sente ca sfrancisimi sgalabati e scimieschi in ogni scornu  i  eiu  parlu di i boni corsi  quelli chi so sinceri a fondu  chi riclamanu cu curaggiu la indipendenza e a liberta     ava po  diceraghiu chi ci ne e una rucchiata pieni di ipucrisia  uni pochi di zinivroni velenosi chi unn  isperghieni ca fele  hanu da esse i primi pentuti  i  eju v assicuru chi un so di quessi  e nisunu di sti fierazzoni impinzutiti un avara abbastanza forza ne putere per currompe e mi ide e  lo  disgraziatamente certi so bigliacchi  ci vole a parla nettu  si lascianu tira pe u collu  senza mancu avvedesine  e cusi  pocu a pocu  restanu strangulati cume a volpe nu cappiu   dunque  senza piu allungalla  vi mandu u me abbunamentu  credu chi ellu sia u piu bellu mezzu per pruvabbi chi eiu so un amicu fidele e sinceru   mille salutazioni e ringraziamenti di avanzu  a voi  caru petru rocca   e a tutti i vostri cullaboratori  frai  quali u sampetracciu   vi salutu a la corsa  cantendu  pe a muvra   per difende sta muvrella chi pasce nu lu rughione corsi  femu attenzione   stemu tutt in sentinella    pasculendu la erbicella  si ingonfia cume un paone  li da forza di un leone o corsu  la to paghiella    corsi  siamu tutti fieri   marchiemu sempre sinceri cantendu la liberta   sta muvra ci da lu core  tutti ci vole a cuncorre per dalli vitu e fierta    curneriu santini
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     in alsazia  e li autonomisti incarcerati dipoi u mese di jannaghiu un so ancora stati inlerrugali da u judice di istruzione e so sempre  ne la ignuranza di i fatti chi omu li rimprovera   di altronde  li aulonomisti so solluposli a u regime di u drittu cumunu   certi so in cellula cume i criminali   eppuru  ognunu a sa  i mulivi invucali da u guvernu per perseguila i patriotti alsaziani so essenzialmente pulitichi     ci vole a traculla sin a u mediu evu per lruva un paragone a una cusi barbara persecuzione     ci e da danne u vomitu a i pelli rossi    7    u scandalu e cusi grande chi a ligue des droits de le homme  benche tennera a lu eccessu per tulle fantasie puliziotte di mariannona  vene di manifesta a so indignazione prutestendu contru a vulsula asgialezza di la istruttoria  fendu sape chi ell e di regula chi tulta persona arrestata dev esse quistiunata senza perde lempu e chi ell e inammissibile chi dopu dui mesi di incarcerazione un individuvu un sappia ancore di chi delitu ell e inculpatu        in piu  a ligue des droits de le homme ha chiestu a u prisidente di u cunsigliu le applicazione di u regime pulilicu a i palriotti alsaziani lampali in prighio senza mulivu   un ci e mancu da indignassi chi a cumpassione supera li aliri sinlimenti  a vecchia leccia francia trinnega  u radicone e troppu merzu 
+  s
+    </p>
+    <docAuthor>
+     Pasquale Manfredi
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="it">
+    <p>
+     un fratellu di fede  il padre maestro  giacinto leca  dei predicatori  la morte ce la ha rapito fulmineamente  sia fatta la volonta di dio   liberato dalle cure gravi e delicate  alle quali per nove anfii si era dato in roma  con singolare competenza e con zelo instancabile  a servizio  del suo santo istituto  come compagno e consigliere del r mo padre maestro generale delle ordine  dei predicatori  del quale fu anche talora vicario generale  il p  giacinto leca era ritornato a milano nel su6 convento delle grazie  lieto di ritrovarvi la sua quiete antica  e risoluto di impiegare tutte le sue eriergie nell esercizio del sacro ministero qui dove le aveva profuse per tanti anni   del ripristinato convento delle grazie il p  leca era stato il primo priore  e vi aveva soggiornato dal 19o4 al 1913  a lui particolarmente si deve la rivendicazione della chiesa delle grazie all ordine domenicano  e dio solo sa che senno  che fortezza di animo e chie attivita egli abbia messo in opera a conseguire felicemente il suo scopo     era dunque naturale che il p  leca avesse una predilezione per un convento e per una chiesa che a piu di untitolo poteva chiamar suoi  e dove si vedeva circondato  non solo dall  affetto e dalla venerazione dei suoi confratelli  ma anche dalla reverente simpatia di un largo stuolo di persone che ne apprezzavano con la grande scienza la bonta esimia e si gioyavano opportunamente del suo consiglio sapientemente discreto     informato al vero spirito di s  domenico  il p  leca sapeva farsi tutto a tutti  ai grandi  ai piccoli  piacevole senza leziosaggini  grave senza affettazione e senza rustichezza  coscienza inflessibile  ma cuore generoso  sempre aperto alla compassione come fosse ooccorso di confortare un dolorante  sempre disposto a un sacrificio dove il bene da farsi avesse richiesto un sa crificio     percio siamo sicuri di rispondere a un desiderio di molti dando qui  una notizia compendiosa di una vita cara  la cui fine immatufa e repentina ha destato un vivissimo rimpianto nel convento delle grazie e fuori  e che confratelli  amici e beneficati considerano come una sventura irreparabile   antonio leca  nato da un ottima famigliain calenzana di corsica ii 21 ottobre 1863 educato alla scuola di un santo prete  le abate biasini  che l avvio agli studi ginnasiali e gli dette i primi rudimenti della musica  su i quattordici anni fu accolto nella scuola apostolica dei padri domenicani nel loro convento di corbara  e non ancora compitii quindici il 1o ottobre 1878 ricevette lo abito delle ordine  dei predicatori per le mani del dotto e piissimo p damiaro borgogno  pri  ore  che gli impose il nome di giacinto  nel noviziato ebbe maestro di disciplina religiosa e direttore di spirito il p  bernardo dei conii zeno di venezia  i  fatta la sua professione religiosa il giorno ri novembre 1879  fr  giacinto inizio i suoi studi filosofi ci sotto li stesso p borgogno  nel 1882 fu mandado a proseguirli  prima a ferrara  poi a s domenico di fiesole  dov era reggente degli studi e maestro dei novizi il pio e valente tomista p  raimondo massini   li termino in roma alla scuola del p  alberto lepidi allora reggente del collegio della minerva  poi maestro del sacro palazzo      come si fu lanreato lettore in  quel collegio  nel 1888 i superiori lo mandarono nel convento di ortonovo presso sarzana  riaperto allora allora  e benche giovanissimo  vi fu designato maestro dei novizi studenti  da ortonovo passo lo anno dopo a bologna  e la riniase fi no al 19o4  lettore di teologia  e successivamente priore del convento  reggente degli studi  provinciale di lombardia  durante  il suo provincialato ebbe  la laurea del magistero in teologia  conferitagli in un capitolo generale  al quale prendeva parte  nel 19o4 il p  leca  venne  come si e detto  a milano  istituito primo priore del nuovo convento del r mo p  cormier  maestro generale delle ordine   il quale piu tardi lo deputo suo commissario nella provincia domenicana di sicilia   nel 1916 il r mo p  ludovico theissling  successore del p  cormier nel governo delle ordine   dei predicatori se lo scelse a compagno per la ftalia  e in roma il p  leca ebbe vari e gravi incarichi di fiducia  e fu fatto consultore della s  congregazione dei riti   morto il p  theissling  il p leca  assolti i suoi impegni in roma  si ritira a milano   da qualche tempo egli accusava un certo fastidio di cuore  ma non pareva che vi fosse di che impensierirsi  invece quel povero cuore cesso di battere improvvisamente nel pomeriggio del 22 corrente   e la sua bell anima se ne volo a dio  lasciando riiratta sul volto abbellito dalla morte la serenifa luminosa della coscienza    martedi 24  nelia chiesa delle grazie gli furono fatu i funerali se  condo il solenne rito suggesiivo delle ordine  domenicano  celebrati dal p  provinciale di lombardia  dott  enrico brianza con la assistenza  oltre che dei religiosi della casa di milano  dei superiori degli altri conventi  della siessa provincia   bologna  venezia  bergamo  modena foritanella   e di altri coufratelli venuti di fuori  e con lo intervento di molto popoio  corso  a tributare un ultimo omaggio di affetto al caro padre e ad implorargli da dio la gloria dei santi   erano intervenute distinte personalita e rappresentanze   notiamo qui   chiedendo venia per possibili dimenticanze   il  mo e rev mo padre comm  prof  agostino gemelli o  m   rettore magnifico   dell universita del s  cuore  l ill mo e rev mo prof  d  adriano bernareggi  prevosto di s  vittore  li ili mo e rev mo signor canonico d  cantu  per il signor prevosio  di s  ambrogio  1j1 mo sig  marchese cornaggia medici  l il mosignor commendatore avv  giuseppe tacchi  fabbricere di s  bartolomeo di bergamo  l on  rappresentauza della fabbriceria delle grazie e quella della croce rossa italiana  i rr  rappresentanti delle famiglie religiose di  milano  minori francescani  minori capuccini  carmelitani  gesuiti  camilliani    fatebenefratelli  alcuni giovani del collegio domenicano di bergamo col loro padre maestro  il terz ordine domenicano maschile e femminile di milano al completo   la madre generale delle domenicane di melegnano con al cune suore delle case di milano  di bergamo e di settala  suore imeldine di venezia  suore del buon soccorso   istituto dibellemine con 2o fanciulle  istituto giovanna d arco     una lunga processione di confratelli  di amici e di ammiratori accompagno la salma del caro estinto fino al cimitero monumentale  e di la parecchi proseguirono fino al musocco  dove le spoglie mortali delle indimenticabile  padre furono inumate nel puovo reparto dell immenso cimitero  e dove  composte nell umile pace del sepolcro  aspettano la resurrezione dei giusti 
+  s
+    </p>
+    <docAuthor>
+     B. S. M.
+    </docAuthor>
+   </div>
+   <div n="5" type="div" xml:lang="co">
+    <p>
+     un pocu di storia         prucessu verbale di la assemblea generale di corsica   seguitu   don giuseppe andrei deputato della com  di erbajolo  domenico antone mattei deputato della com  dell isola rossa  orso giacomo fabiani deputato della com  di monticello  pietro antonio balestrino deputato della com  di algajola  e membro del governo  pasquale fondacci deputato della com  di si  reparata  giuseppe ottavio nobili savelli deputato della com dis antonino gio  pietro savelli deputato della com  di corbara  carlo francesco franceschini deputalo della com  di pigna  giambattista giuliani dep  della com  di occi  gio  bati  tortaroli pres  del tr  cr  dep  della ci  di lumio  carl  antonio colonna  anfriani deputato della com  di montemaggiore  gio  battista orsatelli deputato della com  di cassano  giuseppe maria marini deputato della com  di calenzana  dario darj deputato della com  di mocale  giambattista sivori deputato della com  di calvi  giuseppe maria malaspina deputato della com  di speloncato  giovanni filippi deputato della com  di feliceto  gio  silvestro soavi deputato della com  di nesa  francesco peretti deputato della com  di zilia  don carlo spadari  deputato della com  di avapessa  paolo oberti dep  della ci  di muro  giovanni casanova costa dep  della com  di catteri  franc  negretti dep  della com  di aregno  domenico antonio suzzoni dep  della comi  di lavataggio  gio  maria antoniotti deputato della com  di avalica  malteo canioni deputato della com  di olmi e gappella  alessandro franceschi depulato della com  di poggiola   giovanni renucci deputato della com  di mausoleo  giambattista leoni dep  della com  di palasca  gio  pietro mortini dep  della com  di belgodere  anton franc  tomasini dep  della com    di occhiatana  giacomo maria costa savelli dep  della com  di costa  ant vincenzo saladini deput  della ci  di ville  pancrazio leandri dep  della e  di $  fiorenzo  don giuseppe leandri dep  della com  di patrimonio  francesco maria antonj deputato della com  di barliaggio  angelo filippo donati deputalo della com  di farinole  gio  giacomo saliceti deputato della com  di oleita  giuseppe antonio piazza deputato  della com  del poggio  lorenzo luigi campocasso deputato della com  di olmeta  domenico maria limarola dep della com  di vallecalle  raffaello murati deputato della com  di murato  garlo domenico pasqualetti deputato della com  di rutali  gio   giuseppe casabianca deputati della com  di rapale  pielro beveraggi depuiato della com  di si  gavino  baldassare de pelriconi deputalo della com  di santo pietro  domenico franceschi dep  della com  di pietralba  fabiano bertola deputato della com  di lama  anton giuseppe bonavita depufaio della com  di urtaca  ang  felice massoni dep  della ci  di lento  quilico ant  sammarcelli dep  della com  di bigorno  orso maria bagnoli deputato della com  di campitello  angelo santo ciavatti deputato della com  di scolca  bernardo cacciaguerra deputato della com  di volpajola  don giovanni bonetti deputato della com  di vignale  carlo francesco morati deputato della com  del borgo  angelo mariotti deputato della com  di lucciana  pietro agostino luzi deputato della corn  di biguglia  giuseppe mi  bertoncini deputato della com  di furiani  anton guerino vittini deputato della com  della porta  francesco andreani deputalo della com  della croce  giulio paolo vinciguerra  deputato della com  di ficaja  gio   andrea ferrandi deputato della com  di quercitello  angelo santo frediani depuiato della com  di giocatogio  francesco  matia casabianca deputato della com  della casabianca  gio  tommaso giudici deputato della com  di polveroso  antonio casalta deputato della com  di silvareccio  gio  benedetto  casalta deputato della com  della casalta  anton paolo petrucci deputato della com  di si  gavino  giulio pietro pruno deputato della com  del pruno  giacomo francesco agostini depntato della com  del piano  francesco petrignani deputato della com  di scata  antonio francesco micheli deputato della comunita di si  cosmo e damiano  pasquale  emanuelli deputato della com  di cambia  stefano terramorsi deputato della com  di carticasi  pietr angelo rocchi deputato della com  di erone  giuseppe sarocchi deputato della com  di rusio  placido moracchini deputato della com  di san loren2o  giacomo fafaccini deputato della com  di aiti  basilio salvarelli dep  della com  di lano  pietr  antonio ristori  deputato della com  di piazzole  gio   natale giannetti dep  della com  di verdese  luigi ciavaldini depufato della com  di nocario  basilio campana deputato della com  di campana  gio   francesco galeazzi deputato della com  di monaccia  orso antonio anziani dep  della com  di parata  filippo innocenzi deputato della com  di valle  gio  valerio cristoferi  deputato della com  di rapaggio  valerio chipponi deputato della com  di carpineto  angelo paolo  alfonsi dep  della com  di brustico  gio  francesco giafferri deputato della com  di piedorezza  barlolommeo campana dep  delle com  di pasloreccia  gio  francesco raffalli dep  della com  di stazzona  carlo francesco pietri deputato della com  di piedicroce  giuseppe malteo donsimoni deputato della com  di carcheto  dionisio gavini depu fato della com  di campile  orso gio  giatferri deputato della com  di crocicchia  andrea guerini depuiaio della com  di ortiporio  pietro paolo innocen j deputato della com  di acquatella e penta  antonio poggi deputato della com  di monie   ambrogio buttafoco deputato della com  di olmeto  giacomo antonio filippi deputato della com  di prunelli  paolo santo pasqualini deputato della com  di vicinato  pasqualino giampietri deputato della com  di gavignano  silvestro  tommasi deputato della com  di caslineta  alessandro angeli dep  della com  di merosaglia  giovanni gioannoni depulato della com  di valle  tommaso caporossi depuiato della com  di frasso  anton giacomo valentini deputato della com  di pastoreccia  domenico maria battesti  deputato della com  di bisinehi  gio  sebastiano buttafaco deputato della com  del vescovato  stefano petrignani deputato della com  della venzolasca  carlo vincenti vinci  guerra deputato  della com  di loreto  pietro maschetti deputato della com  del castellare  carlo giuseppe desiderj deputato della com  di sorbo  ignazio tommasi deputato della com  di ocagnano  carlo frediani deputato della com  della penta  pier felice papilj deputato della com  di porri  giacomo fran  cesco giacomoni deputaio della com  di si  lucia  antonio quilichino quilichini deputato della com  del poggio  saverio ortoli dep  della com  di olmiccia  giov  tommaso coscioli depniato della com  di sant andrea  giulio cesare panzani deputato della com  di altagene  marco maria pietri dep  della com  di zoza  anton lelio roccaserra deputato della com  di cargiaca  giuseppe maria serra deputata della com  di loreto  anton paduo giacomoni  deputato della com  di mela  giulio antonio giudicelli deputato della com  di zonza  giaconio santo pietri deputato della com  di si  gavino  don giacomo peretti deputato della com  di figari  rocco francesco peretti deputato della com  di levie  giambattista susini deputato della com  di sartene  anton francesco ortoli deputato della com  di foce  marco maria quilichini deputato della com  di zilia e tivolaggio  giuseppe maria pietri deputato della com  di belvedere  gio   francesco giorgi deputato della com  di giuncheto  stefano leandri deputaio della com  di granaccia  giuseppe antonio tommasi  deputato della com  di grossa  giovan battista buttafoco deputato della com  di tivolaggio 
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="6" type="the" xml:lang="co">
+    <p>
+     teatru corsu di a muvra  a pulitica    riassuntu di cio chi precede  1 dui fratelli ors antone e ghjlormu  elettori di u merre jacumone  omi di poca vulunta  so assaltati da e moglie  dorotea e fiordalice chi  avendu ricevutu visita e prumesse da u novu cuncurrente  li facenu cambia partitu  3 o     ghiacumone  fissatu  e vantendusi di lu appoghiu di u judice di pace  decide di caccia di a lista eletturale i tre elettori chi ellu perde   e dui cummari li facenu a cummedia in sala di merria  a notte di ug ferraghiu   lu appellu di ors  antone e ghjlormu contru a decisione di a cummissione vene in ghiustizia di pace   scena iii  i listessi piu dorotea e fiordalice in fondu a sala   dorotea   a sapiamu ancu di nanzu chi tra tu  u to merre e a to cummissione  site tutti in famiglia   bilancia   oh  oh  qual e chi interrumpe senz esse interrugatu  silenziu  aghiu dettu   a saveriu  parlate   saveriu   i tre eiettori in quistione  ghjlormu figatellu  u figliolu paulu e u fratellu ors antone  figuranu sopra a lista eletturale di calviani duv elli hanu diggia  vutatu altre volte  e unn hanu mai dumandatu a so radiazione da cula  un si po esse in dui loghi  a nova legge un la permette  e vera  signor ghiudice    bilancia   verissima    saveriu   in piu  un paganu alcuna cuntribuzione in santa disgraziata   dorotea  cusi chi ti agranchessi  o vitupero  cume noi e paghemu   dumandate un pocu ad ellu  o sgio ghiudice  quant ellu ne paga    bilancia    picchia sopra a u tavulinu    dino     qual e quessu chi ha interrottu   chi ellu venga subitu qui  a  barra   saveriu   e una donna  signor ghiudice  e sera un pocu difficile a falla sta zitta   bilancia   una donna  avale  avemu da ave dino lu intrampalu di e donne in le discussioni di liste      subitu qui a  barra  aghju dettu   quale site  u vostru nome       saverin   e dorotea  moglia di unu di li elettori in quistione   bilancia  ah  ah    va be  a u secretariu  scrivite custi  dorotea figatelli     si ripiglia  no    no    avemu dettu       u secretariu   manzetti   bilancia      dorotea manzetti   1o franchi di amenda per ave interrottu senz esse interrugata  e dopu un primu avisu   a dorotea  avale  si ella vi piace  cuntinuate      a velettore clemente    chi rispundite  voi  a e decisioni di a cumissione  decisioni chi ellu vene di spiega qui u sgio saveriu pastacciuli    le elettore   un pudemu niga chi i tre elettori mentuati abbianu vutatu in calviani   pero  una volta sola  percosa  signor ghiudice  privalli di u so dirittu di vuta in santa disgraziata  paese duv elli so nati  duv elli so stati battizzati e allevati  e duve si so maritati   unn  banu micca dumandatu a so radiazone di a lista di calviani  elli corci  forse un sapianu mancu si elli ci eranu sempre scritti   bilancia   a justizia un deve arreghiesi ne a i forse ne a i corci ne a i scurciulati  a legge e legge  e i tre elettori in quistione duvianu rendesi contu cap avanti  sariamu freschi si no  aviamu da fa  entre in contu a niscentria di a jente      le elettore   ma  signor ghiudice  e statu u nostru merre chi la ha fatti vuta in calviani  pe i torna conti di u so partitu   avale  postu chi ellu era a capu di a doppia iscriz zione di sti tre elettori  duvia st  li avisati  si elli vutavanu per cl  oghie i so diritti un si discutavano jt    bilancia   vi dicu e vi ripet chi noi un duvemu entra in ad cunsiderazioni   8  fiordalice   ci entrate be pe vostru amicu jacumone   a sapemu be chi bo  site di a so cumbriceue ma picchiateci puru in capu  ande  remu piu luntanu  e cula ci ne sera ancu per boi   bilancia  alzendusi    torna   a  barra  subitu   i  saveriu   unn e micca a listessa  signor ghiudice  e a cugnata fior  dalice  moglia di ors antone figa  tellu     bilancia  pusendu    un voglia chi ellu si dica chi noi femu qui dui pesi e duie misure  pe a prima vol  ta sara perdunata anch ella  ma  li servi di avisu    a le elettore  e tuttu cio chi voi aviate a di   le elettore   no  signor ghiudice  vulemu schiarisce ancu le affare di e cuntribuzioni  postu chi u mio aversariu la ha fatte entre in contu  si ghjlormu e ors antone un figuranu cume imposti  figuranu e mo  glie  i beni chi elle pussedenu in paese lu hanu avuti per dota  e unn  hanu mai pensatu a falli mette in capu a i mariti    i  bilancia  ridendu    ah  abi    bella  bella  allota vuteranu elle  quandu a legge a la accurdera    dorotea   quandu no  vuteremu noi  po dassi chi elli cambjnu la affa ri   bilancia  in collera    dece franchi di amenda   a 4 secretariu  scrivite   dorotea   e pa dassi chi a jus  tizia sia piu ghiusta ca cusi      bilancia  a u secretariu    scrivite  cinque jorni di travagliu   a dorotea  cuntinuate  si ella vi bolle  vogliu chi e cundarine piovine come a grandina    fiordalice   cundannate e vos tre mataffare  bilancia senza pisone   bilancia  su le furie   oh oh    insultanu a justizia   un si parli piu di amende ne di jurnate di travagliu   picchia nant a u tavulinu  pia giunia      prigiunia      mormoriu in la sala    dorotea   imprigiunate e vostre inghiustizie  ghiudice di i mio stifali   bilancia  cu li occhj di fora  si caccia a barretta quadrata e 4 sbatte ii pianu    giandarmi     duve so  ssi giandarmi   chi face nu  ssi giandarmi         saveriu   anderaghiu a chia malli eiu  signor ghiudice      bilancia   si  e diteli chi io la a ghiu da ampara eiu a magnassi u pane di u guvernu cusi scuccagn  tu   zampitteghia    dorotea   veni   veni quindi  i famito  chi ti vogliu da i giandarn  e altre cose    fiordalice   i8   abbicinati   abbicinati quindi  o falzo  ti vale mu lascia un bellu ricordu   saveriu   signor ghiudice  pf gliate nota       bilancia   piglia nota   pigli nota      di que  vogliu chi ellu $i ne parli fin chi u mondu e mond      risaie e voci cunfuse   dorotea   un canapu chi vite u collu     bccu cio chi bo  fare tel    bilancia  sona a campanella e lampa in pianu    giandarr   i disgrazia  arrestate     imprig (r) nate       casca fiaccu sopra a   pi dione  auf 1  que diventa va 5 lera    un
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="7" type="poe" xml:lang="co">
+    <p>
+     a marsigliese in niolu  quandu nasce un niulincu  pf allegria inlu paese   e fuil ognunu e ennvintu  che cantera a marsigliese   la natura lu riclama   ma com ha tutte le prese   du io senu di a so mamma i ella conta a marsigliese   piu saviu che i savii dotti  ello jugne a braccie slese cantendu davanti a totti u cantu di a marsigliese   e quandu va a la scola per ampara lu francese   u so maestru ln loda a u cantu di a marsigliese     a u reggimentu mai stancu di piega sott a le arnese  parte di lu pede mane u   a u cantu di a marsigliese   pe la so primu iurmentu e zitelle si so rese  a so dumanda a lu accentu di u cantu di a marsigliese   quandu liscrizza la voglia a meei a tante pralese   ne piglia una per moglia  a u cantu di a marsigliese   maritatu  tuttu gonfiu di piglia tarre difese   in so piu bellu trionfu   ellu canta a marsigliese   come ognunu ha un figliolu  da cintu a ja curtinese   da si sente da niolu che canti di marsigliese   si sente da li badelli voce dolce e veranese  e le acelle cu li acelli fischianu la marsigliese   fin a golu  quellu fiume chi face grande surprese  mugghia nantu le so scume u eantu di a marsigliese   pianu pianu  si ne corre lu annu ln jornu ju mese   u niulincu un conta pore chi canta la marsigliese   e quand ellu stinza la anca per piglia le grande stese  strappa in so core a manca ma canta la marsigliese   a logu di anda culandi   piu prontu ca e pronte accese    aspetta per de profundi   u cantu di a marsegliese   ghiunta a lu fiume lette u e trasfumatu in cinese   paga caronte in pape u  cantendu la marsigliese   notte nera  tempu elernu dave le strade so ascese   lascia quella di lu infernu cantendu la marsigliese   plutone ne e guasi scemu   e questu sempre a so spese  quandu sente   fiu un li femu  chi cantursegliese      quandu vede lu so visu   diu perdona le so offese    dice     enlriin paradisu chi a i cantatu a marsigliese    in ssi paesi luntani   in assemblea curtese   li suprani  i sultani cantanu la marsigliese   niulinchi  niulinchi    o dimmu e nostre palese o siamu sempre cunvinti di canta la marsigliese   caracutu
+  s
+    </p>
+    <docAuthor>
+     J. M.
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     improntu  vogliu serive a la   muvra   e risponde a la  muvrella    dilli chi lu tempu e bonu e la staggione piu bella  chi ella vaga  so cunvintu  da la piaghia a monte cintu  la corsica girera   ed in ogni lilturale   la verita spieghera di lu be cume lu male   dara li cunsigli belli  a i turicci cu li agnelli   tra qui e st etima chi bene scalanu i nostri signori  tandu si      steranu bene ancu  li capi pastori    feranu li belli prezzi  a pecurine e muntoni  quelli chi hanu le so bande  di agnelli senza riparu  cetcanu di accumpulalli  e di offrelli di rigalu   di corsiea  o eleitori   sti mio cunsigli ascultate  quelli jorni di furori   in cu pacienza pigliate   micca per minima cosa nascanu le fucilate  perche  chi casca pe piazza  chi pe le macchie scapate  e li cuncurrenii inseme facenu le scaccanate   e voi  o sgio direttore  accettate a magra musa   e  si ellu ci e qualchi errore  e chi la mente e cunfusa   si la mio parola e stolta   sara megliu un allra volta 
+  s
+    </p>
+    <docAuthor>
+     Tomasini di Castirla
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     sempre per quellu accampu  i o muvrarella  i per te so sbighiulatu   sta canzunella oghie mi aghin intricciatu pe a famosa caccighiata cu lu pianu mai tiratu   ma comu je chi li piani su rotti    pe u sgio marlie so stati boni cazzolli   e ancu piu bruttu affare fubbe pe li puliziotti   avianu intesu un bonu muscu muvrinu   fubbe surpresu di ajacciu lu cunfinu    credianu falla grossa   un truvonu che musinu   hanu truvatu dund ella era passata   fu mal piazzalu lu postu  e la ha mancata   e la muvra in li so monti si e subitu inalpeljatta  1 so cusciofli vulianu in arrostu   pei puliziotti era sete di agostu    ma  ingullinu ja saliva  partendu senza fa mottu   li accadi sempre cume mese passatu     a questi jenti chi avianu speratu di impastughiacci la guida pe seuraggi lu suldatu   si eranu ascosi per tiralli a cerbiole    pe li curiosi   sempre cusi ci vole   credinu di ave la pelle     un pobbinu ave le ugnole   in cu primura ajula  petru rocca   senza peura   chi nisunu la tocca   ella chi cu li so amici e mansa cume una sciocca   or si era mossu  marlier lu capizzone   cane di morsu      ma in lu nostru rughione si fermara barbi falu cume natale zuccone    chi ne saria si perdiamu ad ella   a cumpagnia di a nostra muvrarella      un valeria piu a pena   di parla di pisulella   di tantu in tantu ghiuene a lu usciu e ci trova   cu lu so cantu     lu sangue ci rinova   un vi pare  cari amici  chi ella sia una gran prova    eiu  qui sulettu in terra di erbajolu   ci u dialettu  di a muvra mi cunsolu   e cu i pastori pueti   mio fratelli di niolu   si di le volte ci ole un colpu di manu   chiamate forte chi io senti da lunlanu   si io mi trovu a u venachese pe lu moule piu supranu 
+  s
+    </p>
+    <docAuthor>
+     Cesari Sebbiu
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     a u mio fratellu  ti vogliu ringrazia  fraleilu caru   di a pena chi li pigli a da nutizie    si ti hai rollu penna e calamaru   ur dimmila  o frale  senza malizie    ti ue vogliu manda prestu un fangottu du chi tu ne abbia almenu per vint ottu   mi lasciasti in marseglia  da sl attobre  cu li occhj pienghiulenti  tu la sai   a scrive un lelterinu un pensi mai   e purlaniu  diu sa si io contu le ore    di vedeti in salule  ju piu prestu   a dumandu per grazia a lu signore   deciditi  o frate    e si io ti pregu di dammi e to nutizie a tempu persu   un ti vurria sape cusi traversu   e questu lu silenziu un lu mi spiegu  falla  si tu la sai  ancu in canzone   e cacciami da u corpu sta pnllone    scusami si io mi mostru un pocu ardente  ne e causa  la sai  u mio bone core   so be chi thai da di     ma lascia corre   a to chiama mi trova indifferente    un tengu tantu a mette e mani in pasta    una volta per annu nun ti basta    nunda di novu quindi  in sti rughioni   a salute di tutti e passaloghia  preghendu chi ella strappi la pastoghia   ti mandu un basgiarellu timiconi    ne farei altrettantu si tu poi   ma  frastornu  o frate    pocu per noi 
+  s
+    </p>
+    <docAuthor>
+     Ghiuvanni Olivieri
+    </docAuthor>
+   </div>
+   <div n="11" type="art" xml:lang="fr">
+    <p>
+     appel aux corses originaires de montemaggiore lunghignano cassano zilia et calenzana  l eglise de s rainier est un des monuments artistiques trop rares helas en corse qui se soit relativement bien conserve jusqu a present   cette eglise de l'epoque pisane en mosaique de pierres blanches et noires ornee de sculptures symboliques est un pur joyau d architecture sa juridiction s'etendait autrefois sur toutes les paroisses comprises dans ce qu on appelait la  pieve de piro  c est a dire montemaggiore lunghignano cassano zilia  malgre les efforts tentes pour la faire placer sous la direction des beaux arts comme monument historique  ce qu elle meriterait a tant de titres  nos demarches n'ont pu aboutir et le temps qui n epargne rien vient de poser sa griffe destructrice sur ce monument de noire beau passe la situation est critique sa toiture est en train de s effondrer les murs s effritent sous l'action de l humidite les belles sculptures tombent faute de tessources pour les reparations les plus necessaires et si on n y porte remede l eglise de s rainier comme tant d autres monumenis de noire belle corse ne servira plus que d abri aux troupeaux de passage 7 eh bien il ne faut pas que pareil malhene puisse arriver sous la poussee de l opinion publique un groupe d hommes de bonne volonte se sont reunis pour y remedier  us sont tout disposes a payer de leur bourse et de leur peine pour conserver a notre domaine artistique et historique ce chef d oeuvre du passe ils font appel a votre generosite sans aucune distinction d opinions poliliques  vous tous dont les ancetres sont enterres dans notre cimetiere a l ombre de ces murs seculaires  vous tous qui malgre la distance et le iemps gardez vivant au fond du coeur l amour sacre des pierres de la palrie  vous en qui ne peut pas ne pas survivre le souvenir des belles fetes de jadis  comprenez notre but secondes noire effort  nous acceplerons avec reconnaissance la moindre obole et nous esperons que vous ne trabirez pas notre atlente  le president
+    </p>
+    <docAuthor>
+     Abbé Alfonsi
+    </docAuthor>
+   </div>
+   <div n="12" type="feu" xml:lang="it">
+    <p>
+     spero dimostravelo  signore  il mio padrone e signore       il paoli gli vibro an occhiata di  lraverso    sua maesta il re di francia voi  sapete che va degnamente insignito e due titoli del pari glo1iosi  uno x possiede comune co  suoi antenap lo altro glielo deferivono i popo    ticonoscenti   desideroso sempre  pe meritarsi i nomi di cristianissiia di bene amato  prese in mationsiderazione la guerra secolare  che laca 5   i te ot    lacera due illustri popoli  il  cerso e il genovese  e poiche per esperienza propria ed altrui conobbe ormai disperato che traloro potesse caderetermine alcuno di concordia  delibero affrancare la corsica dall odiato governo della republica genovese  se la provvidenza non avesse risposte nelle sue auguste mani le forze della prima nazione del mondo  forse avrebbe comandato ai genovesi sgombrassero da una contrada che non avevano o voluto o saputo nel corso di tariti secoli felicitare   e trovatili contumaci a obbedire sarebbe ricorso all ultima ragione dei re  la potenza sua unita in bello accordo con la magnanimita gli persuase partiti piu blandi  volle risparmiare sangue cristiano  ela provvidenza secondo il pio desiderio  la francia  ricca abbastanza per pagare la sui gloria  con molio denaro acquistava il diritto di beneficare la corsica  e cosi operando era mossa dal desiderio di appagare i voti secolari di questi popoli genorosi  dacche con grato animo essa rammen ta che un giorno vennero ascritti alla famiglia dei sudditti di s  m   che sotto le bandiere francesi militarono  e per ultimo  che anche nei tempi recentissimi manifestarono per mezzo di oratori e di istanze  non una volta ma molte  il fermo proposito di essere chiamati a parte della naturalita francese  la francia pertanto oggi senza oslacolo vi apre le braccia  e voi potete commettervici con effusione di cuore  uniti alla francia  di deboli diventate ad un tratto potenti  invece di temete le minaccie dei nemici  sta adesso ai nemici a imparare la paura delle vostre   la francia conosce le vostre piaghe  e vuole  e puo riparale   nuove strade si apriranno  saranno asciugati paduli  ponti eretti  la agricoltura ricondotta in fiore  icommerci promossi  questa fortunata isola sta per diventare in mano alla francia scala dei suoi traffici per tutto levante  arsenale per le sue armate  piu acconcio dello stesso telone  per la copia dei suoi legnami cantiere privilegiato   perla moltitudine e dei porti fidatissima stazione navale  i vasti golfi le accertano la scuola di marina quasi esclusiva  qui ufficiale si civili che militari  qui prelati  e con essi le belle case  le splendide masserizie  la urbanita  le arti del lusso  le feste  stupendo a dirsi  quello che la francia con la fatica di molti secoli consegui  voi altri corsi in un giorno  anzi in un ora  acquistate   ne questo e tutto  s m  cristianissima intende ancora sopra i suoi antichi sudditi felicitarvi   non mica  che in lei chi e fonte di tutta gi  ustizia possa allignare parzialita  bensi perche qui vede urgente riparare le ingiurie della dominazione altrui   a questo scopo divisa affrancare i corsi per trent anni da  pagamento di qualunque imposizione o gravezza  e voi  illustre signore  che per le egregie opere vostre meritaste che un principe barbaro mediante onorevole ambasciata vi palesasse lo alto concetto nel quale vi teneva  non maraviglierete certo se il re cristianissimo  chi e quanta  gentilezza vive nel mondo per mia bocca vi partecipa la sua ammirazione  e il desiderio di vedere con la presenza vostra onorata la   corte con ufficio degno  come sarebbe quello di tenente generale degli eserciti del re  o se meglio vi ag gradisce vita piu tranquilla  rimette in voi la scelta della provincia di terraferma dove vorreste andare governatore   finche il paoli conobbe che questo discorso era per durare un pezzo stette quieto  o parve mano a mano pero  che volgeva alla fine il suo passo si fece piu accelerato  gli si infiammo la faccia  tremava  tuttavolta si contenne  e socchiuse gli occhi per nascondere le faville delpira chequinci prorompevano tacque fin tanto gli fu possibile senza offendere lurbanita  costretto per ultimo a parlare  con voce tremula incomincio   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

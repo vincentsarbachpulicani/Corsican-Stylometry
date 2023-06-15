@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330920k
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330920k
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 369 | Année 10
+     </edition>
+     <date>
+      1929-10-01
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Annu X — Numaru 369 Esce a Dumenica 1 Ottobre-1929   GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI :  ina eue ns + 15 franchi  SR 180  In Francia  Unione postale « «&lt;&gt; tt  U Mumaru:5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 38. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     dio ti salvi  regina   u spiritu di lutta unn e micca speciale a i corsi  mancu in materia publica  unn e che a nostra manera chi cambia cu quella di li altri paesi civilizzati  perche differenti ne so i mutivi e i scopi   in li paesi di ordine e di travagliu  di prugressu e di bepista  le elettore e indipendente  e lutte elettorali ci si ponu fa  guidate da un ideale a pro di a cullettivita  ma in corsica  paese di miseria e di incuria amministrativa  paese duve dumineghia una classe chi e vana  egoista  rapace e tirannica cume a setta signoresca di mill anni fa  si vota per tradizione di famiglia  per odii o simpatia o bisogni persunali  e per temenza di u putere puliticu  odiosamente sustenutu da quellu amministrativu chi ne dipende  da custi  lutte accanite chi ruvinanu i isuia abbandunata a selva a e padule e a i malandrini pulitichi di casa e di fora   guerdate cio chi si passa attualmente  in vista di e prossime elezzioni senatoriali  ci serebbi da ridene si a nota divertente unn  era supraniata da i lagni di a corsica marturiata mezz a battibecchi di corbi  urli di lupi e macchiavelli di volpi   chi tristu spavecchiu    i dui capimacchia avversarii si osservanu  tenebrosi  e hanu discioltu i so  cerberi chi si abbaghianu da un campu a lu altru  intantu chi le ultime dispusizioni sianu pigliate pe  a battaglia    ss ultime dispusizioni cunsisterebbinu  per unu e lu altru  in la scelta di un terzu candidatu    si dicerebbi chi elli si vergognanu a fallu connosce  cio chi da a crede chi ellu sera vergugnosu   u piu ridiculu di le affare je chi un campu disprezza lu altru di unn ave ancu trovu u so  terzu ladrone  e i dui si affannanu in lu stessu imbrogliu    un si po micca esse piu incunsequenti  ma chi porrebbinu dissi di seriu  unn avendu che quistioni pesurnali a trasgioglie cheappitittia suddisfa  senza meriti a fa vale di opere pubbliche cumpjte e senza programma a espone pe u bene di a corsica       per ognunu di i dui capi partiti in lutta  y unicu scopu je  a dominazione pulitica in la isula e  per ottenela  tutt i mezzi so boni  ancu quellu di mette a lu incantu u corpu elettorale corsu   basta chi ellu li ne resti a pelle per pudenne fa un portafogliu ministeriale   infatti  chi videmu   a corsica moralmente ipotecata da una nova banca di san ghiorghiu  u populu corsuavvilitu ridottu a  limosina  prontu a prosternassi davant a u vitellu di oru di un lederlin incunisciutu  a accetta a schiavitu di  ssu potentatu di a finenza covu scatulitu  cum ellu accetta dipoi longu tempu a schiavitu di un doumersprezzente e di un giordan carnavalescu  dopu ave accoltu e riveritu altri rijetti di a pulitica francese chi u lascionu laceratu e scunsideratu   questa e la opera principiata da pulitici corsi passati  cuntinuata da pietri e aggravata da landry u quale  un pudendusi disfa di giordan      oramai cunusciutu in corsica cume una nullita parlamentaria e un strumentu di  nostri malanni  sente u bisognu di chiama in rinforzu i milioni di lederlin per dumina u prossimu mercatu elettorale   landry ghje un omu di capu  dopu giordan e lederlin ci ne sera di altri  dicenu i so  partigiani  e a so  stampa grida  ci un seriu comicu  chii corsi un so micca a vende      ma u piu chi stupisce ghje chi i cunsiglieri generali di  dui campi  fra i quali ci e omi di talentu e pieni di leghjttima ambizione si prestinu a u cummerciu di  ssi mercanti di schiavi     tanta placida passivita finisce per fa crede chi li incettaghj pinzuti compranu ancu i tintennaghj e a prezzi meravigliosi     eppuru  di sti tintennaghj ci ne e altieri  savj e dotti   corsi di onore di antica tiglia chi devenu disprezza lu oru di lederlin  anullita di giordane l ar  roganza di doumer     chi aspettanu quessi per rivultassi contru sta pulitica mascherata e di cumprumissioni  cumminciendu per vuta contru un triumviratu pinzutu eppoi fendu chiama a u risvegliu diu populu corsu  chi  malgradu tuttu  cova sempre in ellu u focu di la indipendenza e le amore di u prugressu      aghiu in punta di a penna inomi di certi veri corsi capaci di fa a crociata di u risorgimentu  ma  ssi nomi un li vogliu pone qui   a quelli chi i portanu li deve basta di sape chi a corsica la osserva  spera in elli e aspetta chi elli cornizeghjnu a beata chiama pe a futura lega cirnese  sola organizzazione chi possa rimette la isula abbandunata in sesta di a so  storia e di e so  ricchezze territoriali   aspettemu  e  intantu  dimuci un  dioti salvi regina  
+  s
+    </p>
+    <docAuthor>
+     V. G. d'Altimonti
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     u cungressu di rennes  cume no  lu aviamu annunciata in lu nostru ultimu numeru di u 15 seltembre  u partitu autonomista brettone ha tenutu u so  terzu cungressu in rennes i 7 e 8 settembre   u partitu naziunale gallese avia delegatu madamicella tegwen cle e  membru di u so  cunsigliu puliticu  madamicella cle e nasconde sottu un surridenle visu i piu vigurosi e nelli principj     dui partiti autonomisti co esisienu in alsazia e lorrena  in fora di i parlili autonomizanli catolici   a  landesparieiz e a  fortschriitpartei   in la assenza di u sgio roos  u primu era rapprisentatu da u sgio hollweg   u secondu  da u sgio camillu dahlet  deputatu di saverna  chi cunquisio annu passatu  u lu ultimu cungressu  le unanime simpalie e chi un manco di esse circundatu lempu juntu   u partilu corsu aulonomista avia mandalu a petru rocca  pasquale manfredi e h  yvia croce   i federalisti francesi eranu  cume di abitudine  rapprisenlali da u sgio eugeniu poitevin  direltore di u hederaliste   infine  e fiandre avianu delegatu u sgio ward hermans  deputalu di malines  di visu energicu  dutatu di parola infucata e maschia  u sgid hermans duvia fa sopra tulti una impressione prufonda   u lucale  ben sceltu e ben dispostu  avia moltu facilitato u da fa di i cummissarj  un spaziosu ingressu accuglia comudamenie i cungressisti  dui  sland   di libraria ci eranu slati inslallati setto a direzione di madama f  debauvais  e  tutt  a jurnata si caccionu di mani i  tracis  di u partitu  le edizione di gwalarn e u libru di mauriziu duhamel  la question bretonne  esciuta a manc stessa  un pocu piu distante  in un ritiru chi facia pieculu saloltu  u cummissariu generale di u cungressu dava indicazioni nicessarie ad ognunu ci dislribuia i  bullittini di alloghiu   infine  una vastissima sala  decurata di bandere breitone misculate cun quelle di e naziunalita rappresentate  era riservata a la assemblea generale   mentre chi i jugniticei facianu o rifacianu cunuscenza  u cunsigliu puliticu tenia seduta in unu di i salotti di u primu pianu   a mezziornu  a majo parle di i cungressisli si adunianu a l hoiel moderne  quai lammenais  pe  u pranzu in cumunu  u contu era circa u doppiu di quellu chi era statu previstu   ci volse aghiusta tavulini ala lesta in lu grande  hall  di l hotel   a e duie dopu meziornu a spaziosa sala di e feste di i salons gaze si inzuffellia di una folla in sussurru  u  barde   loeiz herrie u presiedia la assemblea generale  avendu cume assessori  madamicella jaouen in vestitu di quimper e u sgio job loyant  u sgio raymondu tassel essendu secretariu   dopu un aringa in brettone  u presidente da a parola a u sgio olier mordrel  co direttore di breiz atao  pe  u rapportu morale   le oratore  ben ispiratu  parla in primu di u cunsiderevule sviluppu e di la influenza di breiz alao dapoi un annu  in brettagna e a lu esteru  mostra u muvimentu brettone chi lrova  grazie a previsione e lu allargamentu di a so  duttrina  alleali utili in  ulle e minuranze naziunali e chi cumencia ad inchieta u guvernu  bonu segnu    u sgio loeiz herrie u ringrazia le oratore caldamente applauditu  e da a parolla a u sgio fransez debauvais per u rapportu amministrativu e finanziere  quici risorte dino u prugressu di breiz atao dapoi a so  fundazione da morvan marchal  cu u capitale iniziale di  7 franchi e mezzu   cun numeri a lu appoghiu  insiste sopra a prugressione dipoi u 2 ferraghiu scorsu  cio e di  dipoi chi u giurnale e sellimanale  i dui affissi di breiz atao so siati apposti in 2oo ciltai e cummuni di brettagna   29o novi deposili so stati creati  malgradu e misure pocu direlte di u guvernu   lacerazione di affissi  pressione sopra i depusitarj  inlerdizione di vendita in le biblioteche di e stazione   a tiratura e duppiata   segue u rapporlu di i 15 presidenti di federazioni  poi  dopu una piccula arretta  a seduta e ripresa cu i discorsi di i delegati furesteri   parla u sgio ward hermans  depulalu di malines  chi cunuscia rennes per esseci statu  ricuveratu in  unu di i so  ospidali militari  durenie a guerra  avanti di esse internatu da u guvernu belgiu   ellu  vuluntariu     cume essendu di   pa  trioltismu dubbiosu    a so  corta e ardente allocuzione e una nova affirmazione di  ssu dirittu di i populi di pude dispone di elli stessi  chi u guverni imperialisti unn hanu pruclamatu ca per viulallu a discapitu di e naziunalita chi elli opprimenv   u deputatu di saverna  sgio camillu dahlet  eloquente quante originale  face  in seguitu  un discorsu duv ellu insiste sopra a necessita di mantene solida la amicizia brittoalsaziana  di a quale si po misura la impurtanza cu le irrilazione chi ella causeghia a u guvernu  sl amicizia e nula attemp a e perquisizioni in alsazia  mentre chi   cu i corsi   i brettoni eranu i soli a difende u dirittu di li alsaziani  a  so  lingua  a so  cultura e a so  amministrazione autonoma  digia  le oratore avia pussutu  a u cungressu di castellina  rendesi contu di i sentimenti brettoni  riguardu a u so  paese  u sgio mauriziu duhamel parlendu in aisazia davant a 4 ooo persone avia pussutu  a li applausi di queste  rendesi contu anch ellu di i sentimenti alsaziani riguardu a a brettagna   eccu a parolla di u nostru  pasquale manfredi  digia cunusciulu anch ellu e appreziatu da i brettoni  chi fiocca senza impunti  ordunendusi in armuniosi periodi cun grazia ed agevulezza prudigiosa  u so salutu a i brettoni porta culandi tutt a puesia di la isulella   a so  gioia di truvassi fra quelli chi luttanu per un identica rivendicazione  si cumunicheghia a tuttu lu auditoriu   quella non menu forte di cuslala u prugressu criscenle di u muvimentu aulonomisla  scatena  frenetici applausi  o     ste tre allocuzioni chi sentenu a vera fraternita di cumbattenti uniti contr un nimicu cumunu   lu imperialismu culturale di u statu francese   ricevenu le ovazione meritate  sta luminosa parentesi e chiosa cu le ordine di u jornu e u lavoru di e sezioni esaminatu puntu per puntu e un per unu   u sgio olier mordrel passa  in seguitu  a  pulitica generale  le ide e espresse so chiarissime e cunvincenu  a so  chiama a tutti quelli chi ponu diventa propagandisti un fera sicuramente fallu   un secondu pranzu in cumunu adunisce torna i cungressisti a l hotel moderne  poi  in la serata si ritrovanu rue poullain duparc per a cunferenza   u sgio mauriziu dubamel apre u focu cun un veru prucessu di u regime unitariu  a sta lamentevule organizzazione oppone u regime federale e mostra cun ellu una brettagna pruspera in la so  vera via  u sgio olier mordrel cuntinua ma cun sentimentu privu di scaccanu vinditteru a lu indirizzu di e paradussali stupidita di u regime odiernu   entre in caccia contru a falza idea chi molti si facenu di a breitagna di apressu e canzone di botrel e cartuline pustali e e  biniouseries   e mostra a naziunalita di u so  paese tale chi ella si e furmata accantu a  francia  senz ella e suvente contru ella  dimostra cun chiarezza chi i brettoni   in li tempi  arditi marinari  intraprendenti   so cascati oghie in una situazione inferiore in cumparazione a valtri lucali di a francia chi  denaziunalizzenduli  li ha tagliatu e radiche maestre chi li purghianu u piu putente succhiu     u sgio ward hermans li succede a  tribuna  u deputatu di malines si era prupostu avanti tuttu  per risponde a e beffe di a stampa francese  di spiega cioch ell e u belgiu   statu paradussale  furmatu di duie razze aversarie e chi unn hanu niente di cumunu ne lingua ne interessi ne ricordi  e chi i gran stati hanu artificialmente abbragati pe i bisogni di a so  pulitica  persunale  di altronde  a francia avia dapoi longu tempu meditatu le annessione di i territorii chi formanu oghie u belgiu  e senza le oppusizione di le altre putenze  ss attentatu serebbe perpetratu a i jorni di oghie    insomma  dice le oratore  u belgiu unn e ne piu  ne menu chi un dipartimentu francese pe  a so  pulitica interna cume esterna  cu a reazione sistematica e a so  odiosa repressione  e ellu u gran culpevule  e ghie per ellu una vergugna chi un si cancellera ca cu a so  propria csistenza  di ave lasciatu  dopu un seculu di seducente indipendenza a quistione diu drittu di un populu di 4 milioni di anime non risolta in li so  punti capitali    u deputatu di malines spe   ra chi u fronte unicu di e nazionalita  e di i populi  marchiendu lenta mente   vincera quantunque un ghiornu l im   perialismu europe u chi  per u so  veru paese  un po  esse che a morte di u so   destinu   u deputatu di saverna  sgio camillu dalhet  succedea u so  cullega di malines  e ben piazzatu per dimustra chi li alsaziani so qualificati per cunosce li avantaggi di u federalismu sopra a u regime unitariu  hanu cunuscintu u primu da 1931 a 1918  cunoscenu u secondu dapoi lu armistiziu   a ceniralizzazione e a calca  la incumpetenza  la irrespunsabilita  le oppressione a  fonctionnarite   u federalismu e a vita piu facile y amministrazione ben regulata  a liberta per e minuranze etniche  e y rinascimentu per e grandi citta  oghie sbuffulate da parigi   qui  cumpara certe citta di francia a certe capitale di i stati alemani cume munich  dresde chi un si aghiaccanu micca in la ombra di berlinu ma vivenu di una vita propria     pasquale manfredi chiode a lista di li oratori e riassume tuttu cio chi e statu dettu  invuchendu lu esempiu di a corsica  mantenuta in una puverta sistematica chi forza li abitanti a spatriassi  di stu lamentevule statu chi si accresce di piu in piu tira prufittu u statu francese cu i pieculi funziunari chi ellu ci caccia pe i so  bisogni  e a spupulazione si aghiusia la incuria di i servizj publichi  u scandalu di e strade ferrate ed altre  e quellu non menu grande di e cumpagnie di navigazione  cu stu guvernu centralizzatore  a passu ancu piu accelleratu che a bret tagna  a corsica corre a la angunia   pasquale manfredi accena  passendu  varj punti di a storia brettona  u so  bellissimu discorsu e  dino ellu  una chiama a le unione di e naziunalita oppresse per una liberazione cumuna   a matinata di a dumenica era cunsacrata a una passighiata in citta ca una cummemurazione   a 9 ore e mezzu un bonu numeru di i cungressisti si adunianu in piazza di u municipiu per rendesi a u cimiteriu di u nordu e depone una palma sopra a tomba di u grande storicu di a brettagna  arthur le moyne de ia borderie  ci fubbe un solu incidente  a lu ingressu di u campusantu  un cummissariu di pulizza informa chi a bandera brettone un pudera esse spiegata  sciolta ferebbe correi peghiu risichi a la unita francese  imbucinata un presenta alcun periculu  i cungressisti si inchjnanu davanti a  le ukase  prefetturale  e un dispiace mancu  in soprapiu  chi u statu francese si incarichi di ajuta a prupagranda autonomista  pruvendu di chi modu gudemu di a liberta a la ombra di la una e indivisibile   una prima allocuzione e prununciata da u sgio jean cholea u   a nome di u cumitatu di u centenariu di la borderie  poi  u sgio olier mordrel arrega a  memoria di u gran patriotia brettone lu omaggiu di li autonomisti di oghie   semu a brettagna viva chi vene a di a  brettagna morta  dormi in pace  cuntinueremu     cummossi e silenziosi  si sorte da u cimiteriu sottu a guida diu sgio yann bricler e seguiti da  puliziotti in civile  fautonomisti devenu adempie un coriu pellegrinaggiu a i lochi istorici   a 11 ore  sottu a presidenza di u signora meavenn  si e tenuta a reunione di u gruppu feminile   a mezziornu  i cungressisti si ritrovanu in la sala chi avia juvatu a sera nanzu a la assemblea generale e duve quattru immense tavule apparicchiate lu aspettavanu   tuttu gustendu a  distinta appitittevule  lettura e data di molte lettere e dispacci di scuse  fra i quali    da parigi  jeunesse corsiste paris prie deleques p  o  a  transmettre a freres bretons voeux succes complets congres autonomiste     da strasbourg  dr roos pas revenu de voyage ne pourra rejoindre congres regrets sinceres neanmoins  nos chaleureux souhaits pour ample reussite ef meilleur avenir  sommes avec vous dans la lutte commune    paul schall   dopu sta lettura  fatta da u sgio duhamel  li oratori hanu dino a parolla  madamicella tegwen cle e sviluppa le idee di u partitu naziunalista gallese  louis ne  le roux evoca cummuventi ricordi di nanzu guerra e di esiliu petru rocca saluta di novu a brettagna a nome di a corsica  u sgio camillu le mercier di erm ramenta li incidenti chi marconu le erezione di u monument di a  vergogna   a rennes  duvellu stessu fu arrestatu  u sgio eugeniu poitevin saluta e minuranze naziunali a nome di un altra minurita i francesi federalisti u sgio ward hermans leghie una pagina di soiu sopra li incridibili persecuzioni suppurtate da i so  cumpatriotti fiaminghi  durente e dopu a guerra  da parte di u statu belgiu  dopu altri discorsi di morvan marchal  camillu dahlet  kervella  olier mordrel  a 4 ore di sera  i cumgressisti si separanu dopu u cantu in coru di u bro goz da tutta la assistenza arritta     avemu accenatu in lu nestr  ultimu numeru a un incidente chi avia marcatu a fine di u cungressu  eccu qual chi precisione a stu suggettu  versi cinqu ore unasessantina di autonomisti eranu attavulinati a terrazza di u cafe de la paix  in mezzu ad altri trecentu cinquanta cunsumatori a  richiesta di una signora la orchestra avendu su  natu u bro goz ma za dou  tutt i cungressisti  in pede  intunonu u cantu pupulare brettone   agenti provocatori impustati prutestonu in termini insultenti e  attempu a i sciuvini presenti  riclamonu a marseillaise chi la orchestra pincipio  tandu chi i patriotti  27  si alzavanu e si incistavanu invece chi i cungressissti firmavanu seduti e a cappellu calfatu   petru rocca chi occupava un tavulinu cu i sgio dahlet et ward hermans  truvendusi vicinu a i superpatriotti francesi  questi lu interpellonu direttamente  u volsenu furza a cacciassi a  paglietta da capu esi fecenu avanti  canne a la aria   sia cum ella sia  dopu un fughj fughj generalediicunsumatori unsciappa sciappa di tazze e bicchieri e un  izuffata a pugni  calci e bastunate fra un gruppu di sciuvini e u nostru direttore  tuttu fini a  questura duve tre sangui schietti dbleus blancs rouges  fra i quali un  ajutante chiamatu wacks       si dolsenu di ave ricivutu una bella strufinata da e mane   e i pedi di u nostru direttore   terminemu  ringraziendu i nostri fratelli brettoni per a simpatica accuglienza riservata a i nostri tre delegati
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="3" type="let" xml:lang="co">
+    <p>
+     letterinu  a pamici e cumpagni di fede   a muvra  mbela a mio porta  begu chi ella si ha da spazienta e inticcia una curnata per bede si lu orsu e bivu o mortu   scusatemi tutti  e un crepa coreper me di un pude risponde a tutte  sse lettere addirizszatemi per bia di a muvra  da francia  siria  algeria  indocina  ecc    e sopratuttu a voti cusi dolci cume quelli di jilormu   mira  u ferru ci vole a battelu quand ell e caldu  li impiegati ma  ruccani  chi  i soldi lu hanu a zanin  di ritornu culandi  compranu  ss ajfaricelli chi no  femu per suvenire e per ulilita   elli si ne van   st inguernu si diu vole ci sazieremu di rime   lu esiru e rivenutu piu che mai  a decisione di riesce piu terribile  u ventu chi ci punta piu favurevule   ci sera forse ancu uni pochi di successi cume quelli di   zuccone   nunda che per chi qualchissia si senti asciuva u palaticu da linghiulia e a jelusia   ma eh  cumpagni  sempre pe a liberta e contru iuttu ciocchi e di nasata imperialista   lu orsu di orezza
+  s
+    </p>
+    <docAuthor>
+     L'Orsu d'Orezza
+    </docAuthor>
+   </div>
+   <div n="4" type="div" xml:lang="co">
+    <p>
+     impicci e  mbrogli  intransigenza  in la so  scduta di u 12 settembre  u cunsigliu generale di lu altu renu ba  in un votu aduttatu datutt i cunsiglieri  a la infora di i socialisti  chiestu a u guvernu una soluzione di u probema alsazianu lorenu  e particularmente per cio chi riguarda u statutu religiosu e scularu  u bilinguismu  li impositi lucali  la amnistia di i cundannati di colmar e una larga decentralizzazione amministrativa   stu votu e statu presentatu incu un cappellucciu abbastanza fiuritu a lu indirizzu di u sgio briand     le conseil general  rendani hommage ala haute sagesse et a l habilete diplomatique avec lesquelles je president du conseil poursuit le oeuvre de pacifivation e i ja grande idee di une entente eurapeenne  se fait le inteprete de la satisfaction profonde de la population di alsace pour les resultals obtenus dans la voie de ja conciliation internationale     pero  i giurnali sciuvini gridanu a la intransigenza  ll    a nota umoristica e stata data da st indirizzu  prupostu da la autonomista bockel     le conseil general du jaut rhin  reconnaissant les services inoubliables que le president raymond poincare a rendus a le alsace  adresse a u grand francais ses voeus sinceres de prompt et complet retablissement     ma i sgio rosse e sturmel  un cunprendendune forse la ironia  un lu volsenu vuta   ecunumie   ne u 1926  u sgio poincare  dendu di manu a  so  famosa  riforma amministrativa ordino a suppressione di 218 prighio  fra e quale 124 avianu menu di 4 pensiunarj  21 menu di 3  22 ne avianu 2  23 ne avianu unu solu e 3o un ne avianu manc unu       chi fecenu di ste biutate prighio  14 so state lampate in terra  16 so state sprighiunate  29 si ne so trafalate  75 si ne volenu trafala  i dipartimenti utilizzanu sti lucati  sia cume scole  sia cume depositi  sia cume sale di spettaculu   ma eccuti chi  in seguitu a un novu votu di e camere  tutt e prighio dipartimentale funu ristabilite e un tucco piu chea rifa e trafalate e riadutta le altre     a suppresione avia procuratu 1o mi lionia u tesoru u rifacimentu custara 8o milioni a u cuntribuibule di u 1929   ordine  contr ordine   tuttu u regi  me francese di u quale no  un ci sbarrazzaremu che cu la autonomia   sbagliu  u sgio francescu pietri  direttore di la corse touristique si e datu a pena di piglia a nostra pratesa a u suggettu di le anhologie eccu ciocch ellu scrive nantu a presse libre di algeri      parlant de v  anthologie des ecrivains corses   que vient de publier notre erudit confrere yvia croce    tyrrhenia     bulletin mensuel de culture e i de propagande ilaliennes paraissant a milan   ecrit que ci est ja  une grave incoherence et urne grave erreurs  et tout le long de cinq colonnes  l auteur anonyme de ce pamphlet si en prend tour a tour a l auteur de l    anthologie    a mi  paul graziani  qui en a ecrit la preface  et a l editenr  mi  pierre rocca   a mi  yvia croce  a qui il reproche de si etre servi de la langue francaise ponr exalter nn passe tout entier ilalien  et di    avoir adresse a un autre pays  ci est nalurellement de la france qu il si agit   un livre qui ne pouvait si adresser qu a le iialie          a mi  graziani  a qui i  fait le meme virulent reproche  et chez qui il va presque jusqu e decouvrir des sentiments de mepris envers le italie et les italiens   mi  pierre rocca est encore plus maliraite  celui qui   depuis tant di annees luite e nos cotes pour la glorification de pa ilalianile  de le ile   ne eut du jamais permeltre qu une telle offense fut faite a le italie     ringraziemu assai lu amicu pietri  ma li duvemu fa osserva  avendu particulu di  tyrrenia  sottu a  li occhj  chi noi ur ci videmu micca a frase  qui depuis tant di annees lutte a nos cotes pour la glorification de l italianite de le ile  applicata a u nostru direttore   ne cuncludemu chi u sgio pietri ha fattu u so  articulu fidendusi a  so memoria  a quale ha fallitu   certamente  u distintu direttore di la corse touristique si fara un duvere  e un piace  ne semu sicuri  di invia una rettificazione a la presse libre e a i giurnali di corsica  chi si so spicciati   si capisce   di riproduce u so  articulu chi ella ha vulsutu di culatu e chi si e fattu di fele   u focu  ogni volta chi una macchia colla in fume e chi a fiara devastatrice  stendendusi  cunsuma loghi in cultura e alberatura  e di mendu di inculpanne u pastore picciafocu chi  pur  di ave un pocu di pascura nuvalina lu annu dopu   un teme di occasiuna i peghiu divasii  ma  ben suvente dino  altre mani criminali mettenu u fulminante a  cep  pa secca per fa licca da e fiare e nos  tre fureste di pini e di larici  qui  uti  ne e piu benefiziu pasturinu ma benef  ziu di altri jatti mammoni chi pensanu piu a empiesi u scarsellu che a bef e   za e ghiuvitu di u mantellu verde di cirnu vaeso surgenti chi si attagnanu   eccuci  per esempiu  una bella fu  resta commuda pe  a piola e matura per esse acchiarinata  in qua e inda  di una quantita di alberi giganti chi hanu dumandatu force dui o tre seculi per esse ciocch elli so  chi calcula le incettadore di ligname  a cosa e bergugnusissima ma bella semplice  u jegnu osciatu calendu di prezzu  per ellu  non per u cumpradore di j esteru   si mette focu  chiappendusi cusi  grossu e minutu  per un lascia piu che una cresta dinudata da arre  gabbi u cumpientu ma fendu un culus  sale benefiziu   e  avanti a sega  dopu pincendiu   e lu occhiu di i puteri publichi   face u cegu cume sempre  perche    chi maneghja  brumeghia    ha sempre dettu u vecchiu pruverbiu corsu  acqua    o signore    e stata cume lu oliu santu tutta l is  tatina  si omu unn era prontu a cert o  re di u jornu per corre ad empiesine un stuvigliu  cume ad arrubbera  si era ridotti ad abbiassi versu la onda salita per lavassi  e di chi si parla di migliuranze e di igiene  quande a prima citta di la isula di tutt e miserie misura la acqua a bicchieri        avale chi e piuvitu in altu  e chi a gravona e crisciuta le affare e ancu piu bellu  e funtane publiche e e prese di li abiticuli tiranu terra impastata dapoi tre ghiorni   un parlemu di la acqua per beie      campa chi  cume isumeri  avemu pigliatu ujalabu di lu ambastu  e chi pensemu di accuncia a soma  tuttu viaghiendu   
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="5" type="let" xml:lang="co">
+    <p>
+     per l   anthologie   ci scrivenu  caru sgio direttore   in ritardu  sicondu u solitu   ma sta volta u ritardu e parsialmente ghiustificatu da sta raggione  chi  prima di ringraziabbi di u vostru donu magnificu di le anthologie  bulia legghie tuttu u libru  e lu aghiu lettu  e ava u ringraziamentu che vi mandu e tantu piu calurosu quantu piu viva e stata a mo suddisfazione di ssa littura   le anibologie e un opera chi ristara  un veru munumentu di u pinseru corsu e di a storia corsa  e bisogna esse prufondamente grati a u sgio yvia croce di i sactifizj chi ella ha duvulu imponesi e di le arte squisita chi ella ha adupratu a custruillu   qualch unu   a sapete   averebbe vulsutu chi u libru fusse statu scrittu in lingua italiana  le impurianie e chi ellu sia statu scrittu   un vi dicu nulla di a prefazione di u sgio graziani  e un capulavoru   francamente  e critiche fatte riguardu a lingua usata un mi so  piaciute nulla  li antichi rumani parlavanu a lingua latina  dunque a storia di roma antica un si pudarebbe scrive ca in lin  gua latina      ovvia      ancu in argumentu di patriuttismu  u iroppu siroppia   eppo ogn unu scrive inde a lingua chi ellu ha imparatu   a  u sgio yvia croce e a u sgio graziani  fatemi u pioce di dilli tutta a mo ammirazione e tutta a mo ricunuscenza   sentu chi elli v hanu fattu le omore di qualch ora di egattabuia   oh  cum elli sanu fa i so  interessi  ssi magnoni  a esse piu tonti di cusi  si more   elli  i piengu   cun voi mi rallegru   i mo saluti aff mi 
+  s
+    </p>
+    <docAuthor>
+     Dum. Monti
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     u cunventu di corbara      biancu cume i so frati  u piu cunventu  fideghia cun trent  occhj  quajo  u mare  furiosu  mugghicnie  viulentu   e pare di  chi tipu singulare        rentu a mo sulitudine sirena   li omi sponenu  alegri  ogni timore   ma prima di culla nantu a so schena arricumandan  la anima a u signore   mugghia puru o mugghio chi a me u to mug ghiu  un disturba ne a pace ne a prighera   ne quandu fraji i scogliin mezzu a u bugghiu  ne quandu u sole indora a to scugliera   chi voci pie chiucchiuleghianu intornu a stu rimitu jancu      a terra  i monti  preganu  inde e so lingue  fote e ghiornu   preganu e teghje  e piante  le erbe  e fonti   qui regna asantita   a cima  un calvariu   sant  agnulu     qualla  sant  antulinu   in bassu  u laziu  augustu santuariu di a vergine  eppo u tevaru viginu  a    qui martinu didon  da un fatu tristu sframbulatu  truvo un core ospitale   e custrui in silenziu a gesu crisiu u so gran munumentu triunfale   3   o jorni belli di a mi adolescenza   da diu surrisa inde st aggrondu amicu   o jorni antichi  a mo ricunnuscenza vi torna novi  ed e  vi binadicu    e binadicu a te  same sbandatu di ape fedeli  tornu a la arnia cara  4    per impastabbi  mele prilibatu   dulcezza santa di sta vita amara  5  
+  s
+    </p>
+    <docAuthor>
+     U Babbuziu
+    </docAuthor>
+   </div>
+   <div n="7" type="poe" xml:lang="co">
+    <p>
+     lamentu di amore  a una ajaccina   in la  mio memoria e scrittu li mai mi scurderaghiu  di quella bella serata  di quellu cinque di maghiu  dopu tandu in iu mio capu  altre ide e piu mun ci aghiu    ssa sera  madamicella   di voi mi innamurai   dopu chie vi tengu caru cumincionu ji mio guai  dopu a vostra cunuscenza eiu un ne riposu mai   sile voi la caggione   e fute le indifferente   mi ete faltu una ferita  chi  oghie  assai mi sente  aperta cun un cultellu  di lu acciaru piu putente   un siate cusi cruda  appiate cumpassione    di li mio vinti dui anni calmale la cumuzione    per carita bi dumandu  cara  la vostre affezione    la corsica aghiu giratu da ia pieghia a la muntagna corti  ajacciu e bastia  bonifaziu e la balagna   mancu in tuttu lu universu un trovu vostra cumpagna   pur  di jugnene a pussede li vostri dicennov  anni  scalzu e spugliatu anderia  affruntendu ji malanni   ma quella di lu cuntrariu mi fera bive in affanni   gattivi mumenti passu e nun so piu duve anda   lu mio piu grande travagliu e di stammine a pensa a  bella citta di ajacciu chi  suvente  bi avera   stanotte aghiu fatt un sonniu  oh  quantu mi ha riturnatu  di innamurammi di yoi  che un ci avessi mai pensain  angoscie  suspiri e pienli  eccune lu risultatu   avale mi bastera  solu u cantu di li acelli  mi abbegu be chi le amore  e un ghiocu di zitelli    giovani pigliate esempiu sopra a petru f   elli   qui ripongu la mio penna cun grande le emuzione   u mio core batte a rompe e ghietta cumpassione   ma auguru longa vita a quella chi ne e caggione 
+  s
+    </p>
+    <docAuthor>
+     U Tiragliatore
+    </docAuthor>
+   </div>
+   <div n="8" type="div" xml:lang="fr">
+    <p>
+     corsi e francesi m trani demande a m le prefet quelle reponse a ete faite a ja motion volee dernierement par le conseil general a propos des paroles prononcees par m deroy au comite consultatif de la marine marchande paroles qui avaient un caractere blessant pour la corse  m le prefet lit une longue reponse de m baudoin qui a preside les seances du comite consultatif a marseille  colte reponse ne donne pas satisfaction a m caitucoli et le debat s envenime  m francois pietri ne saurait tolerer qu on fasse une discrimination entre le contribuable de ja france continentale et le coniribusble corse tous deux sont fondus dans l'appellation unique de contribuable francais el avec force protesie contre les propos inseres au comple rendu analytique des seances du comite consultatif  m camille pictri s associe a cette protestatien  m emile sari dit que le propos n a pas ete tenu aux seances du comite consultatif sans cela les membres y delegues par le departement de la corse l'auraient releve  m alexandre musso confirme la declaration de m sari il ajoute que le coupable ne peut etre que m deroy qui en corrigeant les epreuves du compte rendu analytique a voulu corser son opinion en opposent le contribnable francais au contribuable corse  m musso demande que sa protestation figure au proces verbal de cette seance il demande en meme temps une enquete  m camille pietri demande une sanetion contre m deroy  m le prefet de la corse repond qu il ne saurait entrer dans l idee de qui que ce soit de vouloir differencier les francais du continent des francais de corse pour qui tous ont la plus profonde sympathie  l incident est clos sur cette sage replique   l eveil de la corse  m trani pose une question a m le prefet relativement e son voeu de l annee derniere sur l incident qui aurait eu lieu a la reanion du camite consultatif de nos services maritimes pendant laquelle un agent du gouvernement m deroy aurait pu dire que les contribuables francais en avaient assez de payer pour les corses   le prefet repond en donnant lecture d'une leltre du president du comite consultalif qui tend a faire croire que le propos n a pas ete tenu la lecture de cette lettre avec ses reti cences l embarras qu elle exprime a s expliquer franchement sur ce penible incident prouve malhenreusement le contraire de ce qu elle voudrait affirmer  m caitucoli se dresse a son banc en une superbe improvisation dont les termes vehements sont accueillis par les murmures approbateurs de l assemblee et du public noire directeur politique fletrit l attitude grossiere d un agent du gouvernement qui ne recule pas devant une insulte a fout un departement pour etayer la position prise par le ministere dans la question de nos services marilimes  m pietri intervient dans le meme sens ii s eleve lui aussi contre l'attilude inqualifiable de m deroy  mm musso et sari membres du comite consultatif protestent vivement contre cette version de l affaire ils affirment que ces paroles n ont jamais ete prononcees puisqu elles ne figurent pas dans le premier compte rendu qu on leur a soumis   is ajoutent tautefois que m deroy a bien pu les inserer apres coup au proces verbal  ces mots font bondir m caiucoli qui en termes plus vehements encore s indigne de peftitode inquelifiable de cet agent du gouvernement n hesitant pas a falsifier tn proces verbal pour satisfaire on ne sait quel parti pris contre les corses il espere que l assemblee saura relever l insulte et demander en hani lien la reparation et les sanctions qui s imposent  m trani est dn meme avis mm sari et mugso soutiennent queles mots inerimines n ont pas ete prononces en leur presence et ils demandent une enquete et des sanctions s il ya lieu  l incident est clos  la jeune corse
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="9" type="feu" xml:lang="it">
+    <p>
+     se voi sapeste  o piuttosto possiate non sapere mai  come sia acerbo pei genitori raccogliere le eredita dei figliuoli   voi troverete consorte quale si merita la bonta vostra  mia figliuola  e in lui avrete sostegno della vita  e poi la prole che vi consolera e ricon  durra la gioia nell anima contristata  ma io non ho piu alcuno al mondo   lo albero tagliato giace in ferra co  suoi frutti e le sue fronde    ma voi chi siete   forse        io sono il padre di giovan  brando   cosi e   questo misero nelle vigili notti  fra la solitudine della casa aveva sentito rimorso per la durezza dimostrata al suo figliuclo  penso come gli avesse armato la mano non lo odio  bensi le amore  e cio se non poteva fruttargli scusa alcuna al cospetto del mondo  almeno il padre doveva sentirne un po  di compassione   ancora la superbia del nome intemerato  lo affetto immenso di patria vediamo formare in parecchi una seconda natura che ad ora ora suffocala vera natura  ma questa quando te lo attendi meno manda dal profondo un grido che il cuore dell uomo e costretto ad ascoltare   pero il padre di brando obbedendo a questo grido nel buio della notte  prosteso sopra il monticello senza croce e senza nome che copriva le reliquie del suo figlivolo  gemeva e pregava  dopo avere aspettato un pezzo che serena gli rispondesse  non udendo parola  il vecchio riprese    dunque voi non avete nulla a  dire al desolato matteo      che dovrei dirvi  voi avete data la vita a colui  che la levo al padre mio     e ne siete stata vendicata pur troppo         che fa a me la vendetta  forse mi rende il padre      pure la desideravate coll ardore del cane che perseguita ilcervo  e non sapevate  che la vendetta da meno di quello che prometie  anzi non da nulla o male   io lo appresi da molto tempo   voi lo apprendete adesso   fatene senno  figliuola mia  e perdonate      lo  al padre di chi mi ha ammazzato il padre      perdona il padre di cui fuimpiccato lo unico figliuolo     considera   tuo padre fu onorato e compianto  il mio figliuolo portarono al sepolcro senza lume  e senza croce   veruno lo rammenta senza ribrezzo   il padre stesso lo condanno  i   io non vi odio  matteo  ma ja memoria del vostro figliuolo mi sara sempre argomento di maledi zione     senti  figliuola  ne io  ne questa terra che gia fu mio figlinolo abbisogniamo di perdono   non io  perche mi senta immune di colpa  se i padri confidassero ai figliuoli la anima come lettere chiuse ai condottieri di navi  le quali aperte nei luoghi indicati impongono loro quello che si abbiano a fare  certo che il mio figliuolo continuerebbe ad essere adesso la gioia della mia vecchiezza  e di vendetta non temo  che vendetta e conservarmi non tormi la vita  la quale in breve io rendero al mio creatore in mezzo a maggiori spasimi che i miei nemici non saprebbero immaginare ed anco credo desiderarmi  nepoti non ho   congiunti  remoti ed ignorati oconosciuti poco   tutta la mia stirpe porto meco nel sepolcro   la mia casa mi rovina addosso   fra pochi anni andra dimenticato perfino il nome dei brando   nel modo che alle prime brezze di autunno cessa di farsi sentire questo singulto della notte    questo canto  di cuculo    o in questi pochi anni lo terra vivo nella memoria degli uomini un delitto commesso  un supplizio patito  un padre morto di dolore  deltuo perdono molto meno ha mestieri il mio figliuolo  se  come spero  il suo  pentimento gli frutto quello di dio   e se cosi non e  ed io a pensarlo inorridisco  e se cosi non e  che cosa puo aggiungere  o figliuola  il peso della tua ira al furore dell eterno   io lo faceva per te    per te che vedrai suscitata la tua stirpe nella benedizione del signore    per ie  felice se potrai dire con onesta baldanza nel tuo cuore  non ho demeritata la bonta di dio  per te se misera  che potrai levare il capo al cielo senza rampogna si  ma ed anco senza paura e dire col sanio david  e tu signore fino a quando    se al ino consorte  se ai tuoi figlioli accadesse ma di offendere  tu moglie e madte avrai diritto di chiedere perdono  perche tu figliuola avrai perdonato   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

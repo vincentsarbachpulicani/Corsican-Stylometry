@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k13308630
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k13308630
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 311 | Année 9
+     </edition>
+     <date>
+      1928-02-10
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     sou IX — Numaru 311 Esce ogni dece iorni OU 10 Ferraghiu 1928    GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI:  in Gorsiea. . + . « . . . - . . .. . 42 franchi  In Francia. . - - ......... 15 ME  A lEsteru  U Numaru:5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — AIACCIU  Contu currente ca a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     anti francesi   lu ultimu accampu di a muvra  a scopu di una perquisigione fruttuosa  unn ha mancatu di da a prudita a i jargastroli di certi giurnali  fendune sgucciula a solita bavaghjne    unu fratutti u petit marssillais  dopu mintuatu u fattu   fin qui  niente di maie   sentenzieghia  veru tercanu di cunuscimenti    a muvra  tres mnettemeni anti francais     fendu vede chi ellu ne sa  ancu piu che a pulizza e i puteri prefetturali chi  elli  aimenu  aspettanu di ave esaminatu fout a loisir i docimenti pigliati per  pude ghiudica e di  que era e que unn era        dunque  ssu fogliu corsu annigatufra cinque altri fogli di oltre mare   ssu fogliu chi sa tantu interessassi a u be di a corsica  cu lu unicu programmai  dilin  dilin     petru e catalina hanu avutu un masciu   dilon   dilon      u corciu zi antone a si ha stinzata    pif  paf  sc  i tali si hanu betu quaranta buttiglie  di spumante in le onore di    ecc ecc    ci lampa un pannu murtuariu addossu  cantenduci eso esequie   e perche   si  parla e scrive in corsu  imeu minima piazza a i mal nerbe iboilea u   ecc   che a i nostri antichi autori  vole di esse anti francesi   si truva for  di sennu chi omu possa fa ratacchia a i nostri criampuli  moire pays si apdelait la gaule et nos anceires les gaulois  e unn esaltamicca cume nostrii bayarde iturenne  vole di esse anti francesi   si chiama un de paoli padre di a patria e vanta e prudezze di un circinellu  vole di esse anti francesi     si  alza una croce duv elli funu trucidati i nostri antenati   nti contru centu  difendendu una terra e una liberta vole di essi anti francesi   si  per di chi li omatoni di u suvernu attuale un so micca locch elli ci volenu fa crede ma jente piu o menu tarulata  vole di esse anti francesi   si  affrma e pruva chi a corsica un po sorte da  ssu statu lamentevule ca ci un regifn speciale  vole di esse anti  amcesi   sl mustra una corsica sen za strade ferrate  una corsica duve piu di cinquanta paesi ne soridoiti a u seculu di oghie di appruvisiunassi a soma di muli o di sumeri  e duve e strade chi esistenu so in un statu piu che iamentevule  vole di esse anti francesi   si  trumbitta chi noi simu i soli a unn ave nuzione di a luce eieitrica  vole di esse anti francesi   si  lagnacci di e zinzale chi hanu resu i dui terzi di a populazione di u litturaleinfettu  vole di esse anti francesi   si  mette in vista un frais    sinet chi cambia lu orariu di i so   bozzachi di batelli  e cresce i prezzi a so medu senza nissun  avisu e malgradu e lagnanze generali vole diesse anti fran   cesi    si  vede e tucca chi ellu si beie u pastissu in pian di mez   ziornu  vede chi a pulizza e a i justizia si accapanu di tutt altru ca di perseguita i occidiu e  lu arrubbecciu e leg  assi di  ssu statu di cose  vole di esse anti i francesi  i  si  cundanna a pulitica e i  puliticanti chi ci si roica u fi  nu a le osse  vole di esse ami francesi  i  si  avisa i religiosi corsi contru u malannu di u triangulu massonicu introdutiu in ia terra di santa divota vole di esse anti francesi   si  chiama pinzuti quelli chi ben suvente dicenu   encore un corse  un sauvage  ecc   a i nostri fratelli chi a miseria di visuia obliga a scappa luntas nu per stantassi un pezzu di pane  vole di esse anti francesi   si  infine  appughia a lingua duve u dente carafunatu ci frighie vole di esse anti francesi  ebbe  simu fieri di esse  ie  simu fieri di esse anti francesi   soli  pudemu lagnacci e parla  un stolu darretu a noi  un osanu ancu dilla e un stolu piu forte  strinti a cannella  un ja pont di   ma tutti a pensanu  e  malgradu tutt i sbavaghjnumi di toscu  malgradu i mezzi velenosi impiegati  u sangue si bolle sempre in li chiocche corse e a verita un pudera che luce 
+  s
+    </p>
+    <docAuthor>
+     Altore
+    </docAuthor>
+   </div>
+   <div n="2" type="poe" xml:lang="co">
+    <p>
+     lettera da a muntagne  chi e stu gran bisbigliu in casa toia   chi mi caccianu ava sti jurnaluzzi    a muvra mess a saccu   ma chi boia ha osatu  dicendu chi tu puzzi   puzza  toscu e velenu  o li mostri   eccu e sole virtu di i rinnegati chi  per vindetta  nentru liso chiostri  rugnicanu da porci mal ticchiati   chi prova degna di elli  e chi hanu fattu i schiavetti a li ordini di st eroi    chi intendenu salva marianna e i soi in lu nostru paese fieru e sbrattu   e soga emu bisognu di scritture o di cuntratti  noi  pe statti a latu  sog un sanu chi a e nostre ide e pure   u ciarbellu ci basta pe stampatu   ecc un passu di piu versu le amore chi no aviamu per ss accattani    si prima  per elli aviamu russore   a va  manc attenzione   cum a i cani   ma  intimichicci   aibo   faccianu puru   corsie basta  efocu a lu altru restu    fin chi ci sera fiatu  u corsu onestu un cambiara di un pelu  ti assicuru   noi qui  da i nostri monti  insuspettiti  aspettemue nutizie date stessa   tutti li scartafacci imbuggiarditi   sapemu chi e una stampa sottumessa   cio chi elli dicenu e per noi zeru   volpa ci dorme sottu  e volpa tonta   per noi  fusti e si lu solu veru   muvra  per cirneeila sempre pronta   muvrellu
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     un puntu di drittu  a bandera corsa  emblema sediziosu  u povaru natalacciu  un pudendusi vindica sopra a u curatu chil avia dettu e soie in publicu  stupo sopra i muri di u presbiteriu passenduli davanti una sera versu mezza notie  i  la auturita si sfoganu in listessa manera cu a nostra mucra  chi ellu hanu crtdutu di tene pe e corne mentre un v e pussutu ferma mancu un pelu rasinu di a coda in manu   a  bandera branca a testa di  moru sparta auventu per onora a festa di santa divota padrona di a corsica  si aviada vede fa st ultimu affrontu da jente corsa  da jente chi guvernai corsi  e sentesi dichiara insegna pruibita in la republica  prima del mondu  chi hafattu una revoluzione per pruclama a liberta  f uguaglianza e a fratellanza  avanti tuttu   un agente di a forza publica si e intrudottu  armatu    un pocu  timiconi  e bera  dendu ordine di caccia la insegna sediziosa da u balcone  di nostru direttore avendu fattu arimarca chia bandera naziunale corsa duvia per ottu jorni onora a martire corsa  e chi niente a ci averebbe pussuta caccia durante st epuca  prucessu verbale e statu fattu   pero  u cummissariu di pulizza accumpagnatu da agenti e giandarmi  si prisinto     u luni  per sesisce a bandera di e nosir antighi e custato chi ella un ci era piu  avertitu chi ella era chi un ci saria stata ca sin a dumenica sera     sti dui forni  u tribunale e chiamatu a ghiudica per macula forse a panna limpida   chi ne dite  chi ne pensate  o corsi  di i mezzi impiegati oghie in la patria di de paol  ed i sciagurati antenati chi ellu si paro golf      e we  facci rinega u paese  a so lingua  i so custumi  fa sparisce  finu  a vultima vistiga  pistiniu di un razzinu bellu spiccatu  insita u castagnu a queca magiiaghia  avete capi iu   faccinu puru  a poca simpatia di duie razze opposte  crisciuta sopratfutu da vincuria di un guvernu di sparlacciume e di falze prumesse  ha pocu tendenza a esse spianaia iui mezzi chi noi videmu impiega aijorni di oghie   a storia  intendimu a vera storia  e micca quella imposia dai guverni puliticoni  un pudara mai cancella certi faiti  e  cuutempu  diu ha fattu e fara dino       oh tante leccie  chi so diventate riccioni quande u magunazzone ci si e messu  oh  quanti riccioni  cu a manu prutettrice di fomu  hanulasciatu traculla a talla linda  diventendu alberi  in quattru e quattru     a quelli di i nostri disgraziati cumpatriotti chi  ghiumpadori di schena e branculadori  applaudiscenu a st opere degne di un tempu nerunianu ci cuntentemu di mandalli u nosiru disprezzu 
+  s
+    </p>
+    <docAuthor>
+     A. F. Franchi
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="fr">
+    <p>
+     en alsace lorraine la presse francaise qui de la droite a la gauche  l humanite excepte  se livre a la danse du scalp autour de nos camarades incarceres a regu du gouvernement un mot d ordre representer les autonomistes comme une bande de gredins payes par l allemagne a l egard de qui tout souci de legalite serait une fhiblesse voyons un peu ce qu il en est  le depute hueber dont le courageux discours a la chambre a provoque lemoi que fon sait ne cachait pas avant yarmistice ses sentiments ententophiles cu ti en etait de meme de notre ami paul schali qui fat reprimande en 1917 parle ministere d alsace lorraine pour ses opinions defavorables au reich et qui ne dui probabiement qu a sa jeunesse  il avaitig ans  d eviter des sanctions plus graves  le docteur ricklin depute au reichstag etau landtag ne cessa d y protester contre le traite de franefort en pieine guerre il interdisait chez lui l usage de l aliemand et ne parlait que le francais ta m pink contre qui ia justice fran caise a lanceun ineperant mandat d amener futarrete au debut des hostilites comme suspect de sentiments anti allemands i l abbe hnegy fut egalement arrete en 1914 sous la meme inculpation  camille pahlet qui le premier defendit l idee astonomiste de 1921 a 1523 dans la feuille radicale la republique aujourd hni convertie a la theorie de l  etat unitaire   fut pour sa francophilie interne par les autorites allemandes a ehrenbreitstein  punition grave reservee d ordinzire aux seuls criminels  i nous pourrions allonger cette liste telje quelle elle permet de mesurer la bassesse du gouvernement francais qui presente comme des agents allemands des hommes dont la plupart ont souffert pour la france lorsqu ils ne la connaissaient que par oui dire  a une epoque ou poincare se bornait dans l elan de son patriotisme a aller en molletieres et casquette plate rega pari der les autres se battre  le     mais la presse francaise  la plus pourrie de l europe ne se contente pas de diffamer par ordre ces hommes dont sarraut n est pas digne de cirer les chaussures elle affirme que la  repression des menees autonomistes souleve l enthousiasme de l aisace lorraine et s efforce de le prouver a grands coups d interviews de reproductions d articles et d ordres du jour   passons donc de l autre cote de la barricade pour contempier les champions de lafrancisation integrale  on a attribue a diverses personnes le mot fameux  le plebiscite est fait  prononce au moment de l entree des troupes francaises a strasbourg les alsagiens en font generalement hommage a la servilite d un certain ungemach maire provisoire de la ville c est le fils d un sujet badois installe a strasbourg peu avant 1870  lors de la suspension des journaux autonomistes le gouvernement recut un telegramme de felicitations signe ostermeyer conseiller general du haut rhin ce digne homme peut invoquer son amour de la patrie car il en aeu successivement quatre a la guerre de 1870 age de 20 ans il s enfuit en suisse dontil requit la nationalite ayant accompli son service militaire dans la milice helvetique il rentra en alsace ou il se fit naturaliser a nouveau non pas alsacien lorrain comme iliui etait possible mais allemand de sorte qu apres la derniere guerre ii ne fut pas reintegre de plein droit dans la nationalite francaise comme tous les alsaciens lorrains mais qu il lui fallut se faire rfbeturaliser  renaturalisation qui eut lieu d'ailleurs apres son election illegale au conseil general ajontons que cet 1dolatre infermittent dela france cune et indivisible  est decore de l ordre de l aigle rouge que guillaume il n'octroyait qu a bor escient  a pendant la guerre la france voulut envoyer en amerique pour les besoins de sa propagande un homme qui fut le prototype de l alsacien inconsolable d avoir ete separe de la mere patric elle choisit l avocat blumeathal juif polonais qui en 1885 possedait encore la nationalite russe  le senateur eccard  dont le nom jusqu'en 1918 s ecrivait a vallemande eckardi  est l'auteur d une loi qui porte son nom laquelle permet de retirer la nationalite francaise aux allemandi habitant l alsace loffaine de les expulser comme etrangers et de vendre leurs biens le general senateur radical tauflieb apprecie partieulierement cette loi qui lui permit d'acauerir a bon compte une magnifique villa sequestree eccard eckardt appartienta une famille de pasteurs protestants originaire de wiurzburg baviere  a crois bete st i de leon le docteur oberkirch ami de leon daudet arbore un patriotisme non moins intransigeant cet ancien titulaire de la bourse bismarck bismarck stipendiat  qui n etait accordee qu aux etudiauts d un germanisme eprouve est ne dans le duche de bade pres de la ville dont il porte le nom  le depute michel walter fait en ce moment grand bruit de son attachement a la france et ses thuriferaires nous le montrent achetant le iour de varmistice une grammaire francaise et se plongeant frenetiquement dans l etude du francais afin d'etre plus rapidement en mesure de faire sa classe en cette langue or cet ancien oberlehrer d un lycee de jeunes filles poste reserve aux allemands d un loyalisme indiscute imposait a ses propres enfants pendant la guerre l usage exclusif de haut allemand leur interdisant jusqu au dialecte alsacien trop particularise a son gre  j a jaeger redacteur en chef du journal de l est yun des principaux crganes de la propagande francaise appartient a une famille originaire d allemagne   fritz kieffer autre propagandiste francais est d origine badoise cet ancien ami de la comtesse wedel feinme du stathalter allemand d alsace lorraine renrouvait avant et pendantla guerre les  menees francaises  avec antant d ardeur qu il reprouve aujourd hui les  menees autonomistes  peut etre sa conversion viest elle de ce fait qu il se vit refuser par lekaiser pour raisons professiounelles le titre de  kominerzienrat  conseiller du commerce qui lui paraissait la juste recompense de son zele pro allemand  georges weill est ce depute socialiste qui aux revendications precises d hueber vint opposer a la chambre les sentiments de  l alsace republicaine  aquelle ne peutraisonnablement pius demander l autonomie puisqu elle fait partie d un  etat unitaire    il appartient a une famille juive originaire de speyer palatinat  lui meme avant la guerre reclama non pas la nationalite alsacienne lorraine mais bavaroise gn sait que passe en france des le debut de la guerre cet ancien depute au reichstag s engagea dans parmee francaise ou il occnpa le poste peritleux d interprete  le maire actuel de strasbourg est ie socialiste peirotes comme grumbach qui sigoait naguere  homo  dans les journaux francais de gauche comme le depute joseph pfleger il voyait autrefois le salut de l'alsace lerraine non dans le retour a la france mais dans la constitution d une republigue autonome comme a eux  es opinions passees lui font maintenant horreur son patriotisme francais est d autant plus remarquable que la famille peirotes a la grece pour berceau  mme peirotes toutefois est badpise  un savoureux detail pour finir  lorsque apres l armistice clemenceau vint pour la premiere fois a strasbourg une charmante alsacienne en costume national mie wetter vint lui offrir le baiser de l alsace  cette jeune personne etait particulierement qualifiee pour representer les  cheres provinces recouvrees  c est en effet la fille d un prussien     ainsi d un cote des alsaciens au thentiques tous anciens francophiles  de l'autre une bande de fransquillons dont la plupart sont de purs allemands et qui n exagerent leur zele assimilateur que pour faire oublier leur origine sespecte ou leur passe germanophile i tout cela le gouvernemet le sait mais il interdit a so presse de l ecrire parce qu il a besoiri di mensonge pour couvrir ses coups de force  n a t il donc pas compris que cette consigne de la calomnie et du silence ne pourrait etre observee devant les jures d alsace parce que les accuses parleront et qu ils ont des avocats et qu ils auront des temoins  u  attendons les debats promis nous n avons pas fini de rire la verite eciatera en depit de poincare l integre dont la probite bien connue se manifesta naguere en falsifiant dans le livre jaune de 1914 les pieces diplomatiques qui je genaient de barthou chef d une magistrature qu il qualifia en pleine chambre de  gangrenee  pour bien marquer qu il etait digne de la diriger  de sarraut l opium dont le seul aspect suffirait a prouver que fhomme descend du singe  etes vous enfin pret fachot votre dossier est il suffisamment  potasse
+    </p>
+    <docAuthor>
+     Maurice Duhamel
+    </docAuthor>
+   </div>
+   <div n="5" type="his" xml:lang="fr">
+    <p>
+     film eu maquis les dernieres affiches de l  inspection generale du recrutement des militaires de cariere invitant les jeunes gens a s engager soni des plus reussies d une typographie parfaite elles sont rehaussees des plus vives couleurs tout a ete misen oeuvre dans l enecution de ce travail pour donner aus aspirants a la gamelle et a la quinine une idee de ces paradis lointains que sont les colonies  les dessins d une belle envolee soni soulignes d un texie des plus heureux qui fait ressortir les avantages procures par marianne a ceux de ses enfants qui veulent bien la servir sur les terres empestees jusqu au coup de marteau  on voit done sur vune de ces affiches dans un radieux decor africain deux jeunes imaarins negociant l achat d un regime de bananes et d un perroquet a leurs pieds la marchande une negresse pas laide dutout examine avec un vif interet les visages juneniles de nos deux cols bleus sur une autre dans un paysage extreme oriental d une clarte eblouissante evolue un fringant sous officter colonial tout a la joie de vivre ei de montrer ses sardines au second plan un de ses camarades se fait nonchkalammeni porter par deux coolfes  l inspection generale du recrutementetc... soucieuse d atteindre son but n a rien neglige pas meme le cote sexuel de la chose ei a fait figurer non loin de nos deux marsouins une indigene aux allures provocantes d hetaire du boulenard sebastopol d ou elle provient peut etre bien aprestout  voila en tout cas de la publicite bien comprise qui vaut celle des plus grandes marques ei qui pourra faire augmenter dans de notables proportions sinon le chiffre d affaires du moins le chiffre des contingents coloniaux de la firme  republique  helas  comme toujours cette publicite sera plus operante en corse qu ailleurs un grand nombre de nos jeunes gens verront la encore une fois l occasion d echapper a la misere et une fois de plus au grand dam de notre pauvre ile ils prendroni le chemin du bureau de recrutement ils pourront la choisir leur corps et lieu d affectation madagascar senegal indo chine selon le genre de fievre qui conviendra le mieux a leur temperament  ainsi embrigades dans les armees de la grande nation qui n a pas le moindre gout pour le plus feti des desarmements et aussito happes par fraissinet nos pefits compatriotes seront amenes en une nuit a marseille ou ils debarqueroni a l heure que deibler affectionne  ce sera alors la caserne s estompani dans l aube sale ei ou ils auront un jus s il n est pas tropiard l immatriculation  puis  puis ils s en remettroni au sergeni major et a l adjudant chef qui leur donneroni sur le champ un apergu des edens coloniaux
+    </p>
+    <docAuthor>
+     Romanetti
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     litiga di fre donne  ascultate questu cantu  paisani e cittadini  senterele  di tre donne     fatti distinti e fini chi banu interessala fantu liluntani e li vicini   una si chiama scicchetta e quill altra filicina  la altra ha lu nome grisgetta  vistula di a bianca crina   di truvassi a u lavandaghiu ne fecenu la cumbina   u fattu ne cunsistia in affari di elezione   una cu la altra ammiitia tale e tale opinione  per eleghie un candifatu a u cunsigliu di cantone   grisgella cu filicina so di listessu partitu   sianu tutte di rapina   cume un sarpu avvelenitu mustrendusi tutt e trene pe risponde a un fale invilu   gusi disse filicina gridendu cu voce sciolta     unn e micca una ruvina di vuta un alira volta   chi  sin che campu  massoni chi ellu un venga a la me poria    scicchella    prima  eri cu massoni    cum e  ne he  persu a iraccia  un mi fa tanti brioni   se una scrianzataccia    e to degne qualilai e ti porti scritte in faccia   filicina    un se micc a lu to paru  per chiamammi serianzala   si massoui e u to piu caru  donna sperta e sfinazzata  mi pratendu piu che te  di esse curretta e mparata    grisgella cusi li disse inc un esirosa manera     a cosa chi piu bi affligge e bi affanna mane e sera    si pelezione so rolte unn arrizzate bandera   ci scumettu lu sumere cu tutti li furnimenti    e nniizie passaggere  so parlate da li venti   certe lingue maldicenie ci servenu di strumenti  ma scicchetta la ha rispostu    un ci vale oppusizione   tu chi si sempr a lu oppostu     so ben fatte le elezione    ci scumeltu la sumera  funa  umbastu e cavizzone   a scumessa resto fatta davant a di altre parsone  aspittendu a cosa esatta di la corte  in cassazione  sin a lu primu di lugliu par sape di le elezione   vense la epuca fissata   e trascorse ujorm in vanu   le elezione e cunfirmata  a la citta piu luntanu   scicchetia parti pressala  cullendu cu a corda in manu   disse   vogliu iu sumere cam ellu si e cunvenutu   ma grisgella la ha rispostu    e tuttu tempu  perduta  un ti vogliu da sumere  i  ne ti devu alcun tributo   sciechella    ti manderaghiu lu uscieru per cilatti in tribunale  inc un ghiudice severu   di justizia imparziale   di modu chi ella li costi piu ca chi u sumere vale   cum essendu assermintaiu di a justizia cantunale  lu uscieru ci si e purialu cu lu codice penale   e ne ha citatu a frisgella di un accusa micidiale   la una e la altra fu chiamata  dopu sposte le difese  grisgella fu cundannata   in virtu di e legge offese   a la resa di u sumere e paga tutte le spese 
+  s
+    </p>
+    <docAuthor>
+     Minicale
+    </docAuthor>
+   </div>
+   <div n="7" type="poe" xml:lang="co">
+    <p>
+     raconti  a u fucone  eccu la epuca di e fasgiole e di e veghie intond a u fucone   a sera ci e reunione inde matte u  cecc antone cerca a so pipa chi ell he in bocca  stefanu stracquatu sopra a una panca  fume e face finta di dorme  ma raccoglie capi par cuntalli in paese   matte u fuma anch ellu e stupa   a u fucone si parla di ne bellu tempu e di  u nivulatu  di vaccine e di porci  ma si conta ancu stalbatoghj  ed eccucine unu di li ultimi   un paisanu  surtendu di ajacciu  cuntava i so soldi  avia tre franchi in manu  mentre  passendu par un ponte  senti e ranocchie soitu chi facianu   qua   qua        $u tre micca quattru sangue di la mazzetta  fece u paisanu arreghiendusi di colpu     qui  qua  qua     ripiglionu e ranocchie     or eccu  contali fu       disse lu amicu inzargatu  lampendu u pugnu di a muneta in lu pozzu 
+  s
+    </p>
+    <docAuthor>
+     Pianura
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     a simonu di li lecci  voi chi seti sapienie in lettari e midicina   voi chi seti valenti  gunusciti ogni duttrina   e chi seti a li occasioni ancu una bona furcina     voi chi seti crisciutu in lu rispettu e la stima   e chi di grossu minutu mittisti li motif in rima   e chi a lu contra parlitu deti culpacci di lima     voi chi seti a tutt ora prontu pali vostriamichi  andeti a inmbi e mora palli novi e par li antichi   e chi  mancanza di jaddi  manghieti ancu pani e fichi     voi chi aveti u gestu largu  a parola justa e franca   voi chi aveti amici fidi in ogni locu e gni branca   sareti lu nostru elettu   chi prisenza un vi ni manca   pa lu mezzu di la muvra a quali cullabureti   mi permettu di inviabbi  li me rispittosi affetti   prighenduvi longa vita   riuscita di prugetti 
+  s
+    </p>
+    <docAuthor>
+     Simonu di San Jorghiu
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     focu di invernu  nu buschettu di parioi  u vuschettu di par  bati i atiolg    ppi  batti  la me pioni   chi lu invernu e beddu e benchi a qui  peddu di  benchi i sishi cu u celi sighi bury   la aria  bensi  e ma la nevi po a iu  ma la nevi coprii  monti e ni manda la si ridura cu liso malanni pronti   nu buschettu di parioj  puschetiu di pari batti  batti  ja ne pisie e fa ceppa da mi oe u h  chi scalda lu nostra doc za  oh  cusi PS fi  cri sl cara la fiamma  chi no avemu a lu feo ua edda sil  chi e du fuconu  edda si      chi e ia mame di 1  ma di a saluta di babbonut  i ziteddi tutt intornu  stani a senta a bedda stori  chi raconta  tornu a torm  zifranchesene zia vittoria  e voi altri ni catagni  fasgiuleti li castagni par bia di sia vinetta carc  a soli di a cuddetta    nu buschettu di la ariola batti  batti  la me piola  i chi  la sera  senza focu    troppu trisiu e ln me locu  parlata di sarte
+  s
+    </p>
+    <docAuthor>
+     Simonu di li Lecci
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     fi u nostru direttore  carissimu petru rocca   vi mandu la abbunamenta  filato di st altra rocca    tessutu a fili di argentu  per tesse in pannu corsa  vi mandu lu mio enneorsu   armatu je lu tilaghiu  rifaltu novu ju fusu   di ii corsi lu linguaghiu era guasi spentu lu usu   e  grazia lu vostru lume  ripiglia lu so custume   le magendule so pronte  lu subbj so preparati  apparisce a le orizzonte ghjorni belli e spurgulati  chi date lu bonu esempiu contru iutt i rinegati   si io pudissi fa riclama per stu nobile giurnale  cu lu parlatu di mamma  e scrittu injingua nustrale    tutti ascultemu a la chiami di lu nostru capurale   ci avemu di li omi franchi e tutt affattu di core   di scrive nun so mai stanchi per salva lu nostru onore  e si noi un lu ascultemu  corsi  a corsica si more   scrivu st ultimi filari cu grandissimu piacere   per chi ogni corsu ampar a fa attu di duvere    e lu primu ingaggiamentr dev esse l abbrramentt   salulatemi pamici chi hanu l istinto muvril possanu vive felici  sempre cu mierior desti  senza numina nissun  salutateli in  rmupu   bi mandu per capu di aria  quantunqu ellu sia passatu gioia per caccia lu affanu a tuttu lu parentatu  quatiru vesture di pata ben tessutu e pettinato 
+  s
+    </p>
+    <docAuthor>
+     Petru di Niolu
+    </docAuthor>
+   </div>
+   <div n="11" type="art" xml:lang="fr">
+    <p>
+     dedie a mr marlier prefet de la corse mr marlier qui est l un des metteurs en scene de e perquisition faite a la muvra voudrait sans doute qu cette affaire prenne de l envergure ti 2 a 7 e qu il se detrompe  cette affaire fera certaineme  i  di  moins a bruit que certain coup de revolver tire dar un tazi i e i  la nouvelle question d alsace lorraine  suite  esdministrateurs francais consien du mecontentement de la star pce meme chez lecrs sdiairisss e parfois commis une zutre br   il a pu leur arriver de irsiter ge aminisires comme les ialige jear seanicitranis de quelque colonie pinu ue comme des francais d augiuro e les a sacicus lorsains se sont pe pa que leurs propres fonctionpale risente moins bien traites que pets nes de pe interieur  ee a resencs des particular s ernuia linguistiques du par icuiaris poe litica ci de l etat d esprit gene ei tie fisaciens lorrains certains franssisde l interieursesonteutiies erreur fatsle  jusqu a les traiter de boches    de cette sspece d antinomie entre deux ssprits differents correspondant a des differences ethniques a pris piissar ce en alsace lorraine ua cour rent d opinion qui tend a s opposer a le fusion do ce pays avec la france a on assimilation politique et culturel ha conservei a valsace lorraine son individualite notamment sa largue sans pour cela la separer de la france tel est le bat poursuivi quant aux n gsyern5 envisages pour atteindre ce but ils varient   na   le plus itenvee consisterait dans le regionalisoie large   administrative appliquee a toute la france et noa pas seulement a paleacalorraine  un autre plus radical consisterait dans l amonomisme il s agirait d accorder a l aisace lorraiine tout en la laissant  dans le cadre de ia france  uie autonomie cempiete qui ferait d elle comme un etat dans l etat si jon comprend bien les partisans de ce systeme l alsace lorrnine deviendrait quelgue chose comme se qu etatt lu pologne avant 1836 epoque a l guelle elle nerdit faulonomie qu elle tenait du traiie de vienne ou le grandduche de finlande qui garda son autonomie pendant pius longtemps pu encore cumme ce qu estaujourd hui l etat libre d irlande pour realiser cette solution il s est constitue un gronpement politique important le heimafbund  qui a publie son manifeste le y juin 1026 parmi les sgnataires de ce manifeste figuraient douze pretres catholiques et six pastenrs protestants  symbole du front vxique entre les deux confessions  ainsi qu un certain nombre de foncitonpaires les principaux organes de ce groupement sont la zukunff la volksstimme ei la wafrkeit  pour comprendre ie caractere du sficimatbuna  et soa programme h favi se rapys er que le mot allemand hsimar signifie la petite patria par tpposition i ia grande comme gei diraitie  pays  par opposition a la perie   le heimaibund n est pas un parti hcompresc en eitet des adherente pouvant appartenir par leurs tesdantes individuelles a des partis diffe tenis ii s euisuit qu il peut se cogsii teera cote de iu des partis pronrement dits avant des programmes dif ffrents meis comme base comune le prircipe da l'antenomie c est ainsi bulli vien de se former un  part  autoncimiste  independent du hei inetburda mosis apparente a lai er doni li sur scibile etre de grouper sous lc drapezu de l ausouomisme des elements avances  enfiu une ircisi eme solution consisterait dans le suparaticine pur et simple ce qui comporterait que ial sace lorraine forma un etat compietement independant comme la beizique le grand duche 4e luxembourg ou la suisse  hest remairquer an aucun de ces elements protesiatairss ne demanda le retour de l alsace lirraine a l allemagne ce qui r empe ne qu en franceon ne dencuse l astozgmiome le separalisme ci meme ie simple regionalisme comme etani d'inspiration allemande et qu on n y voie des moyens detournes destinees a preparer ce retour  c est dans ce cadre que s'est deroule a colmar le proces en diffamation intente var l abbe haegy pretre et publiciste alsacien a m edouard helsey redacteur au journal de paris  en publiant dans ie jour1al une serie d articles sur ia situation ca aisace lorraine m heisey avait eu l intention de pousser un cri d aiarme sur ce qu il considera t comme un peril national qu il convenait de camjurer au plus tot mais il ne paraissait pas admetue la spontaneite etla sinceriie du malaise  comme d auires publicistes francais i y voyait plutot un article d importation allemard autrement dit l effet d une manoeuvre destiree a eloigner paisace lorraine dela france et a la rapprocher moralement eet allemagne d autre part ii prenait vivement a partisle clerge crtboliaue d alsace isrraine qu il accesali de fomenterie malaise dano va inieret sonfessicunel et par opposition contre a france laique ce ch e zlsacienlorrain etani presque reprisenie com me svmpafhisani de meme que lc catholicisme en general et le saint siege avec je pangermanisme  m helsey s en prenzit nomm ment a l abbe haegy ancien depuiz aie ce lorcaine au rkeichsiay pi sident de la societe d edition  alsatia  laquelle publie en hante aisace piusieurs journaux dent le pins important esi l zlsesser kurier ges iournaux ne sont pas affilies au EUR heimatbune  auoiqu ils lui soient fa orables lis represen eraient gleiot lu nuance regionaliste que la nuance automomisie l abbe haegy lui meme sst membre de l nion populaire resublaine nationale parti surtout catholiaue et dant le zrogramme comporte le mairtien d un regime special sn alsuce lo raine  que valnit l enquete de m helsey  on en a ccuteste fopportunuite et l exactitude dans des milieux catholiques francais du l on a preterdu qu elle pouvait faire plus de mel que de bien un francais de l interieur qui viten alsace depuis le retour de ce paysa a france m oscar de ferensy redacteur en chef de la pola d al sace a publie a strassosre e la societe d edilton de la bassz alsace une brochure intituieo les erreurs ef les lacunes d une anu iete sur in situ ation en alsace a prupos des articles publies bar m edouard helsey dans le journal  il pretend que m helsey froisse profondement le clerge et les cathuliques d'alsace par ses suspicions a iniurieuses  il proteste contre la lsusgicion consistant a attribuer le mecontentement de l alsace a l or allemand ii dit que c est une erreur  formidable d identifier la resistance h des catholiques avec l autonomisme  i a paris l importante revue catholi que le correspondant a publie dans i son tumero du 10 mai un article de i m pierre de ouirielle a peu pres dans le meme sens que la brochure de m j de ferenzy en ec qui concerne le mecententement en alsace lorraine  m de quirielle dit  il faut se garder h d en faire une fabrication allemande  quoi qu il eu soit de l opportunite et de feyactitude de l enquete de m helsey l abbe haegy s est estime diffarze parce que ses articles contepaient a son egard ie reproche d'etre ur conemi de la france un homme dangereux pour la paix er ja securite cationale  d ou le proces en diffamatica qu il a intente contre le redacteur du jcurnai  ce proces s est termined unemaniere inattendue que d'zucuns ont voulu considerer comme un evenement emotionnant et d une grande importance politiaue tandis que d autres n ont pretendu y voir qu une  comedie  grace a une action habile mais de caraciere plus politique que judiciaire du procureur general lesdeux adversaires ont fire par se reconcilier et s embrasser publiquement l abbe haegy ayant retire sa plainte contre m helsev n l un es principaux temoins au presis a ete ie general de castelnau president d une importante ligue de catholiques francais dont la deposition a ete publiee integraiement par l echo de paris du gavril d autre part le d ricklin ancien depute d alsacelurraine au reichstag et president du heimatbund  devait aussi paraitre comme temoin mais au dernier moment on a renonce a l entendre sa deposition ayant paru desormais superfiue ce qu'il comptait dire il pa i publie dans un supplement special de lla zukunft du 23 avril cette publicaticw a donc tout pinteret d une deposizion sm justice rien ne saurait mieux caracteriser la situation a laquelle se rapportait le proces de colmar que i quelques extraits de ces deux depositions celle du general de castelnau i catholique mais francais de l interieur et celle du dr rickiin egalement catholique mais alsacien autonomistc
+    </p>
+    <docAuthor>
+     Alcide Ebray
+    </docAuthor>
+   </div>
+   <div n="12" type="feu" xml:lang="it">
+    <p>
+     non ci era da appuntellare le fa per timore di ruina   mariano fingendo non avere ink5o continuo   ma siete venuto con un branco di bestie e di cristiani  ta con un eretico  e come se fosse poco mi ci avete tratto legato an o giovanni brando    questa  che lmiita e stata  dove non si gua dagna  fratello mio  la perdiia e simira  se costui commise malefizio tocca pensarci ai bargello  adesso ti avete messo su le braccia tutti i parenti di giova   non rifinano dire  che ora si fa buona giustizia  me ne rallegro tanto  ma se mi tagliano gli olivi  ammazza  le bestie  brusiano le biade  accrutolano i castagni  chi mi rifa ildanno  e se mentre vado attorno per ie fiere da qual  che macchia mi viene u archibugiata nella testa chi mice je cava  la giustizia eh  continuando a vivere insieme voi capirete  altobello  che voi mi mottote a brutto par  tito  onde coniido nelle vosira compitezza         se temevate davvero  che dalo starci sotto il medesimo letto ve ne potesse derivare danno  ilripiego ci era prontissimo       quale     andatevene di casa     come  uscire di casa mia     e perche sarei uscito 1o7 peri farvi piacere  questa casa  ppartie  i nea ane  omo avoi icmpi i caig y si  le ssive non sono mie come vos  i tre  quando abbiamo di viso f i    diviso mai  ne divideremo   dunque se sopra la mensa co mune voi aveste imbandito il frut to della terra comune non mi avreste dato nulla del vostro     nulla dei mio   ma che svagellate  altobello   o non vi rammenate      di che ho a ramentarmi io     dei contratto       qual contratto      quello col quale mi avete vendute i vostri beni cosi mobili  che immobili  semoventi  usi  servitu  como o  diritti  crediti  insomma iufio  uiente esciuso eccettuato di quello che vi spettava sopra la eredita naterna     io vi ho venduto quesio     gia  vale a gire il vostro procuratore prete stallone  un degno sacerdote in verita  il quale riscosse il danaro per voi  e si prese la fatica gi portarvelo fino a venezia     fino a venezia  in verita fon me ne era accorto  e mi immagino che ne avrete le prove     ecome  primieramente ho il mio libro di amministrazione  che atresta avere io sborsato tutta ia somma di un tratto  il quale paga mento a cagione della scarsita dei quattrini mi ha messo in piana terta  none vero  lucia     piana terra  piana terra     lo sentite  lo dice anche lucia  che uon fa altro che contradirmi    e poi ho la ricevuta     ricevuta di chi  mia force     ella e come se fosse vostra  perche fu sottoscritta dal prete stallone vostro procuratore  un degno sarcedote       sta bene  per questa volta abbiamo discorso assai  ora tornate a dormire che dovrete aver sonno   mariano non so lofece dire due volte per evitare di sentirsi chiedere materasso o paglia  dove i suoi parenti potessero adagiare le membra  fingendo non ricordarsi che una sola stanza occupava la madre  ed ignorare chi era stata ceduta all ospite  sbatacchiato lo uscio tiro precipitosamente iunorsu lo altro a chiavacci   pertanto non reco piccola  1araviglia al suo fratello  quando eopo alcuno spazio di tempo si senti  chiamare trave1so il buco della chiave     altobello  altobello     che volete da me     se domani uscirete di casa priima che faccia giorno alto   di che lvi pregherei   in questo caso vi i raccomando la osteria del violino    pulita sapete  e ci si spende pocc  costa la gente si leva da letto priima della alba     voi potreste aprirs   i bauli e cavarne i regali  che lo zi5 i ha mandato a me e alla mia lu i cia    pensate che non e robba vos  tra e che il vostro dovere vi obbii   ga consegnarmeli  se me li ritenete un minuto piu del necessario sarebbe un rubarmeli  capite    un ri barmeli  sicche fate chi io li trovi depo che sarete andato via     non dubitate  sara pensiero mio     e quelli dello inghilese  sat  su a strillare la scema  auche que di delle inghiiese  io voglio    hi vi glio    e che puzzino dizolfo nos me ne importa niente    li voglio    e voglio     f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

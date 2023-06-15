@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330864d
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330864d
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 312 | Année 9
+     </edition>
+     <date>
+      1928-02-20
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     nnu IE Numaru 312 Mana andai doce Sasaki so Ferraohiu rav$  pu e i Esce ogni dece iorni 20 Ferraghiu 1928 mn TTT te  Him. I i o, A . For es i ; Mà - ss] i CE A o, Iro E pn LE ÙN I eco Pi use Fr, CD À - Eu dittu xi __@ imi ni ES e. pii : o i  GIURNALE DI E PIEVE DI CORSICA  ABBUNAME foco hu va  In Corsica. . . . « . . . . 10.8 i #35, franchi  In Francia: , . 4. 4 . . . .. 15  A YEsteru  U Mumaru:5 saldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — ATACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="let" xml:lang="co">
+    <p>
+     lettera aperta a u sgio raymond poincare   attualmente capu di u guvernu francese  sgio presidente     in francia  duvei currenti di le opinione publica so scatinati a rombu di articuli ufficiosi  sete sempre umone ogni volta chi vo salite a u putere e catastroficu nannu quandi vo  sete custrettu di lascia ad altre mani e guide fraciche di u mariannunescu guvernu   u vostru ultimu discorsu di sirassburg dimostra chi voi un sete ca un umatellu   stu discorsu di stagione   semu in carnavale  o sgio presidente   monumentu di alta fantasia storica  e u chiavatoghiu chi ci iascia vede a cumbriccula   sete statu vittima di a vostra sicurezza generale  frattu avvelenatu diu cariel    permettite che vi spieghi  chi sete capace di unn ave ancora capitu  ll     le affare di alsazia  o sgio presidente u cunuscite megliu came impedi a ghiente di duttrina di adupra u mezzu legale di a prossima cunsultazione elettorale per invia a  camera deputati eletti sopra a un programma autonomista  eccu u scopu di u gabinettu dettu di unione naziunale   un vogliu insiste perchi  oramai  da un polu a lu altru  si cunosce u sleale miscugliu chi v ha permessu di cunfonde in un stessu suspettu li idealisti e li agenti provocatori    per oghie  vi vogliu intrattene di a sola parte corsa di a piccola combinazione   u 3 ferraghiu da mane  un pocu dopu e nove  a stamparia di a muvra e u me domiciliu eranu abbuttati da un  ghiudice di istruzione accumpagnatu da gendarmi e puliziotti  dopu tre ore di accanitu buligume  magistratu e colonna mobile si ritironu ci una filzarella di scartafacci degni di figura ne qualchi prossimu libru gialu   la imparzialissima agenzia havas infurmava di u fattu a grande stampa  chi  u 4 a la alda  mittia stu cugnolu in chiucchinu di i so lettori     stu     dispacciu di ajacciu un cuntene che quattru piccule inesattezze  postu chi a perquisizione e durata da e 9 e mezzu a e 12 e mezzu  chi i documenti sequestrati pudianu aliughiassi in una stacca  chi a muvra va di u stessu trottu   antifrancese  dipoi nov anni e chi noi un semu ancora separatisti   altri giurnali  tali l  buvre e u quofidien  briand e sarraut vi spiegheranu  mustronu subitu a pinzuntissima punta di la arecchia  stampendu    ste due note  o sgio presidente  lascianu induvina u genere di documenti chi i puliziotti duvianu truva in casa mea  lu eminentissimu prefettu di u dipartimentu  amicu di u vostru parente lannes  rinsignatu dai so sbiri persunali ne avia guarantitu una bundante raccolta   ma     unn anticipemu   afrezza unn essendu andata a u locu  tuccava  senza perde tempu  a dimustra chi a mira era stata pigliata per un  altru segnu      nn  un giurnale di bastia  ghiallu canterinu di u palazzu lantivy  annunciava le albore di he 5 ferraghiu cu stu cuccuricu arrighitu     u 6 u quotidien stampava    questa un bastava  a capiscerete  i strateghi di a piazza beauva u e di u quai di orsay stimonu insufficiente un tal ripiegu e urdinonu a ritirata definitiva    3  per cio  stu bouquet  inspiratu da li autori di u falsu passu in traccia di fassi parduna di ave vulsutu mette cesare in gabbia ficchendu attila in la trappula   i   di altronde e quistione chi ellu mi ha fattu pone  citendumi cume   testimone  u judice di istruzione di mulhouse chi un mi cunosce ne di mi ne di ti  intusicavanu u triangulu massonicu  u quale luce sempre a parigi  a berlinu e a mosca  tandu chi ellu ha tramuntatu a roma   stu colpu di jarnac purtatu quand omu si impiega a dissipare gli equivoci  da un idea di a sincerita di i gran ciarlattani di locarno   un cunsigliu per finisce  o sgio presidente  a bugia  a calunnia  la ipocrisia e     a rabbia un ponu cuntinua ad esse regule di guvernu in un paese chi vole fa crede chi ellu porta a fiaccula chi schiarisce u mondu     inquant a i separatisti  circateli  in lu compulu di li omi chi vi facenu scorta   i separatisti so quelli puliticanci sempre in bisbigliu tra di elli e sempre di accordu cu a sacchetta chi vo tinite a collu   i separatisti so quelli prefetti  quelli magistrati  quelli puliziotti chi a ripublica ci rigala   u piu gran separatista sete voi chi ci fate calcica da jente macagnata   umilissimu e devutissimu servitore 
+  s
+    </p>
+    <docAuthor>
+     Petru Rocca
+    </docAuthor>
+   </div>
+   <div n="2" type="let" xml:lang="co">
+    <p>
+     e primizievdi lu orsu di orezza u so effettu  caru direttore   so sbarcatu in corsica per affari pulitichi     ghiuntu in bastia  mi e cascatu sottu li ecchj un novu libracciolu corsu   e primizie  di porsu di orezza   1   la incapatoghia di le autore appiccicata a  cupartina rivenendumi in mente  e u prezzu essendu aburdevule  compru  ssu libru   diu santu     lu orsu e sempre porsu   vegu in li so versi chi ell e sempre puntu e offesu da marianna  e chi ellu face parte di i numarosi scuntenti  vurria sorte di a schiavitu  scopru in  sse canzone di u pueta orezgincu una forte aspirazione di lotta di a nostra vita mischina per arrivanne a un pianu suciale piu elevatu   mi ne spassighiava dunque der  ssi nostri paisoli corsi muntagnoli cu    primizie   in stacca  senza dubitammi chi io trascinava toscu u toscu di averita  per spiegammi megliu   una bella sera  assistente anch eiu a una reunione inde u merre  li dedu di manu  chi aghiu fattu  tintu di me  fu lu amorbu generale   sse ballate asciutte  schiette  di  per chi unn e sordu   ghielonu tuttu cunsigliu municipale  u merre piglio lettu  e u guardia  per unn ave ssa tacca in la so famiglia  dimissiuno su lu col  pu  si  imbeh imbeh     o figlioli  un prisentate ssu libru a certi merri si boi un bi ne vulete pigliauna manata a u collu   la altra sera  le affare fu differente  essendu differenti li auditori  mi chiappai di esse in mascherata ci uni pochi di giuvanasiri e di damicelle  dopu ave fattu un giru in paese ed esseci fiaccati da u ballu  ci inchiarchiaimu a un bellu focu e ci missemu u corpu a capanna cu pulenda e figatellu    datu suddisfazione a u venire  circai quella di u spiritu   e per cio  intoppu sse  primizie   un pocu mossu da a curiusita di vede lu effettu prudotfu   o diamime  e giuvanotte volsenu canta tutie e canzone e fui obligatu di rileghiele un so quantu volte perche e vulianu sape a mente  i giuvanotti  lli  un la finianu piu cu i  cunsigli   e una bella bruna mi strappo  senza chi io mine dubitassi  a pagine di un   serinatuzpratendendu chi ella era per ella  infine e infatti chi mi affuavanu  lampendumisi tutti addossu per pude megliu coglie tutti ssi versetti   chi ne dite di u sprupositu di diversita chi ellu ci e astu mondu  questi mi strappanu e pagine di stu libru per ie nesile come reliquie  quelli u lamparianu in lu focu si ellu li casca in manu   mi ne cunsolu perche luni ci trovanu una lezzione amara  ghiuvitu   li altri ci trovanu piacere e divertimentu  altra juvitu  primizie un so dunque robba fettata   cum ellu un mi ne ferma che un pezzu  fate u piacere  caru sgio direttore  di mandammineunu     chi dicu  unu    mandatemine un pacchettu  di manera chi io ne possa cappiu macaru unu appressu ad ogni merre chimi si parera pocu cunvenevule     e boi altri  o giuvanotti  cumprate ssu libru  a vostra amurosa sentendu sti serinati un po manca di spicca un saltu e lampabbisi a u collu     e tu  caru orsu  curaggiu   a  primaoccasione contu di organizza una festa cu rappriseutazioni corse  ti spedisceraghiuu prudottu di a questula da chi fu possa almenu cumpra u necessariu per scri 1 ve   u to amicu 
+  s
+    </p>
+    <docAuthor>
+     Ficca Nasu
+    </docAuthor>
+   </div>
+   <div n="3" type="poe" xml:lang="co">
+    <p>
+     chi sara    un stridu assai piu forte ca lu tonu mi discito  insischitu  la altra notte   la eca risonava per monli e grotte   or chi sara   gran diu di paltu tropu 1  sara mughiu di toru  o poru un sonu produttu da un strumentu musicale   o un jagnu cavernosu e sepulcrale  tremu a pensacci  e un so duve sonu      calmati 1    mi ha cunvintu un amicone chi conosce i secreti di stu mondu    un sta tantu in penseru e cunfusione    per me  a muvra imbela pe u rutondu  soga e sbarcatu qualchi nivaghjone chi vole manda futtu a ju prufondu  
+  s
+    </p>
+    <docAuthor>
+     Paoli di Tagliu
+    </docAuthor>
+   </div>
+   <div n="4" type="poe" xml:lang="co">
+    <p>
+     risposta  cara taglia   lu ecu di u feombu chi tu ricevisti   o tagliu  in li to elpi silenziosi   mosse da i puliziotti operosi   chi accampavanu a tana di i muvristi   scalonu in banda cume fanti lupi   un guvernu di indule sterpatrice sperava sicca pullima radice di la idea chi unn e pe  chiocchi cupi   ma u frombu di st ocioni junti in schiera un fu ca pe  so spesi  u siessu vulu    i si purto cu la so coda in ci      chi a caecia era siata pocu fiera   e ssu guvernu chi la ha suggeriti credendu di truva li affari arcani   ci lescia piu ca mai corsi arditi chi ou volenu lu ossacciu cure i cani    a muvra 
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="5" type="art" xml:lang="fr">
+    <p>
+     la nouvelle question  d alsace lorraine   suite  le general qui avait fait la connaissauce de l abbe haegy au moment de la rentree des francais en alsace a dit notamment ceci  je mesuis plusieurs fois a cette epoque entretenu avec m l abbe haegy dont tous ceux qui le connaissent apprecient la haute intelligence et le pui desinteressement   au cours de ces conversations intimes nous avons naturellement envisage sur le plan moral et religieux les' conditions de la nouvelle vie de l alsace dans le cadre de a mere patrie retrouvee les promesses solennellement formulees et que chacun connait ici constituaient evidemment la base des vues que nous echangions sur la solution de ce probleme ni m l abbe haegy ni moi n emettions aucun doute sur la realite et la valeur des declarations formulees et renouvelees par les autorites frangaises competentes mais jene iaissais pasignorer a mon interlocnteur qu a mon avis les forces sectaires desloges maconniques mises en sommeil cu en veilleuse pendant la guerre ne tarderaient pas a relever la tete au fendemain dela paix et a reprendre leur oeuvre de dechristianisation par une lutte sans treve ni merci contre l'egli se catholique leur action viserait certainement la vie religieuse des provinces reconvrees et s'appliquerait soit sournoisement soit ouvertement a aneantir les libertes promises a nos freres catholiques de l'alsace et de la lorraine ll he  et comme conclusion je dis a m l abbe haegy croyez en noire experience ne vous endormez pas mais veillez et criez j ai meme emplove s il m en souvient bien pour exprimer ma pensee un vocable emprunte au rude langage des camps  qui veillez et criez si vous etes menaces   si vous consultez ia serie des voeux emis etadoptes par le couvent du grand orient en 1923 qui lesa d'ailleurs communiques a la presse si vous voulez bien vous rappeler la declaration ministerielle de juin 1924 vous reconnaitrez que les evenements m ont que trop justifie mes previsions  ainsi le general de castelnau ne se faisait pas plus d illusiens que jes catholiques aisaciens lorrains euxmemes sur le sort reserve au catholicisme en alsace lorraine mais il ne voulait pas en tirer de conclusions dans le sens d un relachement des liens entre l alsace lorraite et la france et cela ron seulement comme francais de l interieur qui tenait au maintien de l unite nationale mais meme comme catholique en efet comme catholique ilemettait l opinion suivante   nous catholiques nous croyons que la providence preside aux destinees des peuples c'est providentiel lement que l alsace est revenue dans le giron de la france  et sur le plan religieux qui seul est le notre nous pensons que les alsaciens si fermement attaches a la fois catholique nousont ete rendus pour aider leurs freres de l interieur a reconquerir les libertes qui leur ont ete arrachees   une telle opinion ne peut proceder que d une foi integrale et profonde a qui considere les choses avec plusde realisme ii semble qu ilya plus de probabilites pour que ce soit la france laique qui detourne l alsace du catholicisme plutot que ce soit l alsace qui yramerela france   deson opinion le general de castelnau tirait la conclusion suivante  et vous voulez vous isoler monsieur l abbe dans le confort suppose da l autonomisme ou fuir dans le dechirement du separatisme en un mot deserter la lutte ce n est ni courageux ni fraterne  pi catholique c esttrabir la mission providertielle que vous devez accomplir dans votre patrie reconvree   la deposition que comptait fairele dr ricklin et qu a publieela zukunff nous renseigne assez exactement sur lestendances de l avtoroemisme et du e beimatbund   i m commence par rappeler que en octobre 1918 lorsque le landtag d aisace lorraine se fuf constitue en conseil national il lui avait propose de voter la motion suivante  l alsace lorraine rentre dans le sein de la frauce dans la ferme attente que lui seront garantis le maintiende sa langue ses institutions religieuses son administration propre et ses interets economiques   ce que contenait cette motion ajoute le dr ricklin c est aujourd'hui le programme autonomiste du heimat bund  quant au patriotisme des autonomistes par rapport ala france etaleur pays ou petite patrie heimat  il le definit de la maniere suivante  si le  heimatbund se declare pour le maintien des liens qui notis rattachent aujourd hui a la france il nele fait pas par un sentiment patri otique particulierement chaleureux a l egarddelafrance au heimatbund  nous ne sommes pas des patriotes dans le sens que fes francais donnent a la notion de patriotisme dont le culte est devenu pour eux une vraie religion nous scmmes sous ce rap port beaucoup plus sceptiques ce qu ilfautattribuer sans doute a tout notre passe politique i  par contre nous sommes animes d un amour ardent pour notre pays heimat  qui pour nous prime tout etaupres duquel il ya aussi peu de place pour un patriotisme exuberant en faveur dela france qu en faveur de l allemagne de meme que aussi longtemps que nous avons appartenu a l allemagne nous ne lui avons rien accorde qu une attitude loyale de meme nous ne devons pas aufre chose a la france que de nous confarmer a ses lois et de ne rien faire qui puisse porter la moindre atteinte a son existence et a sa securite  dans cette definition du patriotisme alsacien ily a comme ia confirmation que les alsaciens ne sont ni alle mands ni francais mais alsaciens avanttout   sur la question des promesses qui ontetefaites aux alsaciens lorrains notamment dans la proclamation du general joffre quant av maintien de leurs traditions et de leurs croyances le dr ricklin esteacore plus sceptique quele general de castelnau pourlui on ne peut pas attendre de la france qu elle se considere comme liee par ces promesses c est pourquoi il demandequ onieur substitue un statut legal  en ce qui concerne specialement la question religieuse le dr ricklin ne croit pas quel'alsace lorraine puisse rien esperer d'un retour de a france a ses anciennes croyances autant vaudrait selon lui esperer que les fleuves remontert vers leur source  commeilfallait s y attendre on a cherche a exagerer la signification politique  de l issue inattendue et un peu theatrale qu a eue le proces de colmar peur certains journaux qui fe croyaient peut etre pas sincerement te qu ils dissient on eut dit que l embrassade publique entre l abbe haegy et m helsey mettait fin ala question d alsace lorraine que tout etait redtre dans l ordre qu il n y avait pluslita de parler du malaise alsacien lorrain  dans  la volonte du 17 avril m victor basch presidentde ja ligue des droits de l homme a eu le courage de remettreles choses au point au risque de passer pour un tronble fete il commencait par signaler la mauvaise tenue des audiences  ce sont la disaital des moeurs intolerables contre lesquelles j ai demande a la ligue des droits de l homme de protester vigourensement  nous demandercns a m barthou s il va permettre plus longtemps que les audiences judiciaires soient transformees en meetings politiques ou en salles de spectacle  quant a la pretendue soumission de l abbe haegy il faisait remarquer que aussitot apies les proces  son journal velsesser kurier avait revele publiquement l inanite de toute cette comedie en protestant que l abbe et ses partisans ne comptaierit modifier en rien leur politique  bref le denouement du proces avait ete du theatre et du mauvais theotre et ce n etait pas en chantant la marseillaise dans une salle d audience qu on pouvait guerir le malaise alsacien  su 7 m victor basch expliquait ensuite ja complexite du probleme alsacienlorfain etcorisiatait que desle debut  les methodes qu emploverent militaires et civils hauts commissaires ou gouvernement central furent egalement detestables  7 en ce qui concerne l importante question des langues ilrappelait que jusqu en 1870 le francais avait ete l'apanage de la bourgeoisie  i demandaif qu'il fut appris desormais par toute la population mais que celle ci pot conserver l usage de sa propre langue sur l utilite du bilinguisme au point de vue international ildisait  c est le bilinguisme qui doit etre la forme linguistique de l alsace un bilinguisme qui au point de vue ec0nomique et au point de vue intellectuel est un avantage incomparable qui a donne a la france des hommes comme edmond scherer et neffzer qui a fait jusqu en 1870 et qui refera de nos jours de l alsace le trait d union entre la civilisation francaise et ja tulture allemande   l alsace devenant un trait d union entre la france et l allemagne apres avoir ete entre elles une pomme de discorde tel est en effet le resultat que beaucoup de francais et d allemandsattendent du nouvel ordre de choses mais pour que alsace puisse jouer ce role h faut qu on cesse de ja considerer comme un p s francais quiaurait ete superficiellement germanise par un demi siecle d occupation allemande et qu il s'agisait de refranciser a tout prix  une solution favorable du probleme alsacien lorrain est elle possible si on ne devait l attendre que de l une des trois methodes signalees plus haut regionalisme autonomisme et separatisme  il serait permis d en douter en theorie le regionalisme est admis dans certains milieux frangais dans l action francaise m charles manrras a ecrit un jour que join de rien redouter des libertes alsaciennes et lorraines il souhaitait au reste de la france la contagicn du regionalisme demetz et de strasbourg monarchiste il se represente le roi de france comme le president des republiques francaise et la france pai consequent comme une confederation d etats a propes du proces de colmar le 7emps du 14 avril protestait contre ja confusion que l on creait entre les idees regianalistes acceptables et discutables quand elles s etendenta la france tout entiere et cesidees autonomistes pour l alsace seule  mais pratiguement etant donne le principe de lacrepubliqueune et indivisible  qui a ete pese par la revolution et qui est considere presque comme un dogme politique intangible il parait tres difficile qu on puisse transformer aussi profondement le regime de la france  quant a l autonomie  telle que la demande le  heimatbund  et a plus forte raison le separatisme on n y consentira jamais de bon gre en france bien que l angleterre n ait pas au meme degre que la france la passion de l unite et de funiformite ila fallu que l irlandese revoltat contre elle pour qu elle consentit a lui accorter l autonomie en en faisant un etat libre dans le cadre de l empire   un des principaux obstacles a la solution de ia questien d alsace lorraine consiste en ceci on s imagine en france qu en donnant satisfaction aux alsaciens lorrains on donnerait en meme temps satisfaction aux allemands en ce sens qu on creerait une alsace lorraine qui eventuellement pourrait plus facilementfaire retour a vallemagne or c est plutoi le contraire qui serait vrai les allemands savent faire une difference entre deutschland et deutschfum c est adire entre l allemagne et le germanisme ils admettent que des pays de culture allemanden appartienneni pas a l etat allemand mais si la culture allemande est menacee dans ces pays alorsils peuvent desirer qu ils appartiennent a cet etat inversement les populations de ces pays penseront d autant moins a regarder vers l aljemagne que leur culture allemande ne sera pas menacee par les etats auxquels elles appartiennent comme allogenes il ne manque pas de gens enfrance qui comprennent ces choses maisil y en apeu qui osent le dire  ainsi la nouvelle question d'alsacelorraine est d une solution plus compliquee que l ancienne l ancienne en effet etait simple se reduisant a une question de force et ne comportant qu une solution solution catastrophique il est vrai si on voulait la resoudre par l annulation du traite de francfort la nouvelle par contre comporte des facteurs multiples et divers et depend quant a sa solution de l intelligence plutot que de la force
+    </p>
+    <docAuthor>
+     Alcide Ebray
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     a petru rocca  u puppulu muvrinu  esse tuppatu    or cum e chi quist annu un mi hai piu in cicca  cum e chi di almanaccu un ci ne e micca   cum e chi da u so latte mi hai spuppatu    sera forse scurdanza o pur  rilerdu    per chi un vogliu pensa chi ellu sia segnu   chi di leghie a to stampa va sia piu degnu perchi  nain insitalu    un su basterdu  
+  s
+    </p>
+    <docAuthor>
+     A. F. Tristani
+    </docAuthor>
+   </div>
+   <div n="7" type="art" xml:lang="co">
+    <p>
+     pila canale  una bella festa  tutt omu chi cerca di diy sanamente i so paisani per ane tana lu istintu nucificu di a nr o altre dissenzioni  e min vecchj custumi di li amtichi  se  omu da bene  un omu chi ama fn paese  un veru corsu  u ten  so filippi di pila canale merita o nie sti tituli  i soli chi no  posso dalli per nostra parte  come anu sisti  cur  ghiuntu di pocu da lochi may ni  lascia corre i guanti e a canna  ta per da di manu a i lavori e campi  vedendu chi la anima cor   sine more da e gattive impo  zione straniere e chi ellu un si svilu  pa ca u gativu istintu  prufitta di u so primu permessu per furma un cumitatu di feste dopu e molt difficulta riscuntrate     stu cumitatu  cu i sgio  tenente filippi  presidente  santu gue mi a  paoletii  bartolu ciccada carlu brumi  pancraziu feliciaggi  ghiuvanni giancardi  lisandru feliciaggi  si mette subitu a popera  prufittendu di e feste di carna  vale  organizzeghia pe 1 dumenica 16 ferraghiu tutt un programma di divertimenti pe a populazione  a festa ha avutu un veru successu   dopu a messa in tronu di majestacarnavale uua grandissima sfilata di maschere  giandarmi e ufficiali a pedi e a cavallu  un prefettu  cumissari  guardia campestra  musicanti  travestuti di piu comici banu giratu u paese     passendu subitu da u regnu 2 morte  so maesta e accumpagnaia a sepultura  cundannaia da  folla a u supliziu di u focu  e cundotta in piazza di a caserma duve  pienta da duie sbilliganti vucerzirice  li si mette miccia  u ritornu di a  ot ia e stupendu di scaccani e gioia generale   a 8 ore di sera grande tappriseniazione astistica  ve  u nostru sampetracciu cu zarafinu rocca unn hanu pussutu rifiutau so cuncorsu a u fratellu di fede  u tenente filippi  e  quantunque uvisati tardivamente hanu pussutu prepara un reperibriu sufficiente da incanta tutt una populaer riunita in una grandissima sala     i sgio pancrazi  colonna bella voce di bassa cantante  sergente l  bozzi  tenore leggere  dumenitu santoni  simone santoni  simone decui  intercallanu i so belli canti a quelli di u sampetracciu cu a misica di i dui artisti   sgio bertelli  viulinu e fancelli accumpagnamentu   u cunsigliere municipale  sgio feliciaggi  si incarica di fa regna le ordine in puntu e virgula   di altri amici lu assistenu       fatiu curiosu e degnu di felicita  zione  u cumitatu offre ogni tantu a i spetiatori  ritelle a vulunta e bevande per chi ne vole  ma per st ultime  pocu successu  perche a populazione e un mudellu di sobrieta  e in piu  ordine seccu era statu datu chi tutta persona vista un pocu riscaldata e  occasiunendu u minimu disturbu  duvia essa messa 4 le indice e espulsa   a populazione acciama u tenente filippi chi ha pussutu riesce cus be  senza un solu mancamenty  4 diverteli in sana unione   a l hotel di francia  duvei nos tri amici ajaccini si eranu ritirati per restaurassi  u sampetracciu fubbe dino furzatu a canta pe a padfona chi unn avia pussutu assiste a ip presentazione e pes di altri chi u ne eranu suddisfatii di avellu intesu una volta sola     canalinchi so boni corsi e amant a so lingua  a  prova  tutte e  cano zone di u nostru artista  e un 5o quantu almanacchi di a muvra so stati strappati da e mani di i sgio fe  liciaggi  guelfi e pianelli incaricati di a vendita  un dn sd  san pancraziu  di maghju  vidare un altra festa cursista ancu piu st  jenne  u tenente filippi a la ha pi messa e u sampetracciu un pude  du rifiuta u so cuncorsu a sell bo  fratellu affaccara un altra volta  ni cu piu pruvistu di risate  per i passa a ssa bravissima jente   momentu aiegru     l
+  s
+    </p>
+    <docAuthor>
+     U Spettatore
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     a i corsi spatriati  e ghjuntu lu annu vint ollu o jase  chi ti ne pare  pai purtatu lu fangottu di cose scelte e piu rare per du la ricunuscenza  a fe  o persone care   ty se venutu de frencia   senza essene aspittulu    pai imbiancatu la faccia cume on vecchiu trapassatu   e a gli jorni  li se sempre   ne sposu ne marilalu   1 corsi chi sele andali per ista io cunlinente   visete dimenticati  di amica e di u parente   va sanu piu  parla corsu   o vergogna di la jente   so turnati infrancisiti   vanu sempre erranti e soli  da la corsica smarrili comei falchi stantaroli   e passano ja so vita   senza moglia ne figlioli   perdendu la lingua corsa   si cummette una macagna   fi chiudi  nentr una iossa  si come pacqua chi stagna  un ti abbedi chi ssa turba ti accarezza e ti si magna   semu corsi di natura   un femu piu pataracchie  senza colpa  un ci e paura da piattassi pe le macchie  noi lasciaremu di  e canta tante curnacchie   lasciu li impiegati a parte  chi vanita da mare inla  tignenu le bianche carte cu distinte  qualita   e in corsica di istalina  rienlrenu a suggiurna   molti si ne sonu andati per circa piu caldu lidu   si ne stanu spatriali  luntanu da in so nidu  ciasched unu e divenialu di lu so paese infidu   cerrenu per ogni loca come corbi di rapina   hanu amallatu la focu lu invernu cn la istatina    si ne e rottu iu so fornu   ela so casa e in ruvina   a vizzosa randinelia cambia suvente rughione  torna in la sa patria bella quandu estiv e ja stagione  etu  corsu  ti ne sisi lunlane da lu fucone    sale a sente a si ellu canta qualchi volia  come corsu naturale   a so rima ognunu ascolla   e quellu chi un vole sente unn e che persona siolta 
+  s
+    </p>
+    <docAuthor>
+     Minicale
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     lu almanaccu di a muvra  caru sgio direttore     lu almanaccu annunziatu in la vostra lellerina     e da me tantu  aspeltalu si mi e arrivata siamalina      profumatu e surridente    cume la alba in oriente     febrilmente lu aghju apartu per vede ja so figura   di esse in octavo o in quarta  pocu mi facia primura   ma vulia assicurammi si ellu sustenia li esami   tempu letta pziu so     di v pueta sempetracciu  mi so deltu   per lu mol  a questu ji fuma u stracciu  e  si u restu e cusi jellu  lu almanaccu e ellu  e ellu    per parla anch e u francese  bench un sia tantu straito  j a i goinpris chi ell e un cirnese quellu chi fha cuncepitu   e mi so deilu intra me   que di li aimanacchi e u rel   teste cu barette misgie  donne corse vere  vere  lingua chi joda e chi sdrisge u ludru accant a je pere   a puesia piu line   sperghie roseequenduspine   sopra a i tempi anlichi e oscuri  rinsignamenli preziosi   falli storici e sicuri  prufani e religiosi    conti  stalbatoghi  fole   ci ne je per chi ne vole   un voglia micc allungalla  perche u inde mi disgusta    purlantu  ci vole a falla   e  postu chi a cosa e ghiasta  dienchiuvostr almanacch   di bellezze  e un veru saccu   tuttu quellu chi mi leghie  credi puru ad occhi chiosi si ellu si trova ind e veghie  un purra fa che gbielosi  ripetenduy a li essislanli   di stu libru  e fole e i canti   e u vi ringraziu di core e vi so moliu obligatu     carissimu direttore   fer lu almanaccu inviatu   e lu ricumandu a tuiti quelli chi amanu i boni frutti
+  s
+    </p>
+    <docAuthor>
+     U Falcu
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     a mio cucia u a  g   hai dettu  caru cuginu  chi io lu aghiu vituperatu   tuilu in longu    ssu sistinu da per ellu la ha rimalu  cun ballate nove pove  racuniatu ba le so prova   di le muse ne so schiavu perche l impresiu la rima  sai chi io so iroppu bravu  elu piu che tengu in stima e lu justo  a liberla  le onore e fugualita    chi bole tumba ssu cantu  ne pesi le so azioni   eppoi chi ellu sparliin tantu ribotte cun piccaglioni  altrimente  a stu prufittu unu e erchiu e lu altru afflitto   u pueia a lu veranu   canta cumela sirena    si io rilornu a cala manu li feraghiu majo pena  chi fabricheraghiu un pernu per inchiodallu a lu infernu   lu infernu di le canzone e ancu peghin ca lu focu  senz adupra iu bastone  senza calcia quellu loe u  ferisce anima e core   tutt appughiendusi a unfiore   caggione di stu subissu   mi ne possu tene fieru   li apreraghiu un abissu terribile e binditteru   di ave tombu ja cuncordia  gridera  misericordia   chi io mellia rivoluzione  quessa pudaria anch esse  ma ciu  ne mio canzone  bugie un ne so tesse   ellu  sia in casa o fora   ne cappia mille per ora   di piglia la mio difesa ti ne so ricunuscente  der  ss animaccia vilipesa presiu si avera da pente  nanzu che di fammi un forto  megli era che fusse mortu 
+  s
+    </p>
+    <docAuthor>
+     L'Orsu d'Orezza
+    </docAuthor>
+   </div>
+   <div n="11" type="poe" xml:lang="co">
+    <p>
+     lu accampu di a muvra  sentu chi la nostra muvra  lu altrujornu hanu accampatu   da pulizza e da giandarmi   ogni usciu era curatu   eiu un riescu a capi ciocch ellu hanu dubitatu   soga manuvremu  appiattu  emu tombu a qualchidunu   chi hanu le so idse a parle si ni teuvara piu di unu    si noi semu cursisli e forsi par voi un prunu    teltu quistu un ci distorba ne mancu ci da paura    un sara quisiu li affari chi ci mittara paura parchi semu discindenti di la razza corsa pura   e la nostra muvrarella parlara sempri sfacciata  cugliara sempri ji venii senza tenasi infanata  tirendusi dui salti  in orordi a mpruvisata   parnoi  quisti vaffronti sonu p    di sameri   e  sempri  la nostra lingua parlaremu vulinteri   una cosa ci frastorna   so li abusi di puteri   gbladichemi a questi fatti si li cosi eranu a very   e si ellu ci era bisognu  di un suecorsa cusi fieru  postu chi  di risullaiu  hanu faiin un grossu zeru 
+  s
+    </p>
+    <docAuthor>
+     G. P. Codaccioni
+    </docAuthor>
+   </div>
+   <div n="12" type="his" xml:lang="fr">
+    <p>
+     film du maquis la troupe corse du bourbon palace troupe 1hedirale des plus mediocres sera bientot dans nos murs si elle n y est deja  la serie de representations donnecs par cette iournee sur la scene du theatre politico insulaire durera vraisemblablement jusqu at 22 avril mais a l encontre de ce qui se passe dans les efablissements de spectacle du monde entier le programme ici ne varie jamais c esttoujotti sta meme piece qui est jouee ou plutot on nous la joue toujours au contraire egalemeni de ce qui se produit dans ces memes etablissements le public nesiffle jamais ce qui doune a croire aux artistes que leur jeu plaitencore  i on ne contati que trop le the e de celte piece une dizaine d individus que leur defaut d inii tiative a condamnes a de maigres situations d avocats ou de pro fesseurs se disputent avec un acharnement inoui quelques sinecures de 40 000 francs par an offertes par une entreprise qui il faut le supposer a de l argeni a jeter par les fenfires suricut si on songe au prix du beurre et aux pauvres capacites des candidats du premier dri dernier acte ces gaillards sont capables de ioutes les vilenies de toutes les bassesses pour arriver a leur fin d une hvpocrisie rare on les voit se faire risette puis se tirer soudainement dans le dos tous les appuis tous les concours leur sont bons et les pois de vin sont soupeni ici des quartiers de lard ou plus economrgneiment des morceaux d eloguence  quoiqu il en soit nous assisterons encore une fois aux memes scenes dans les memes decors  autrement dit nous verrons ce que nous reverrons les scenes suivantessoni a la memoire de tous  4 ga ristaurne a  f 000 francs pour une voix   la faurnee d adolphe  mori aux v    quant aux decors ils ne changent guere l un represente le palais lautioy ou l action se deroule presque constamment  pour la scene  la tournee d adolphe il est figure par une buvette ou une nombreuse figuration vient se piquer le nez gratis  comme bien l on pensi cespecia cle ne suscite plus aucun enthousiasme ef settie l apathie du public autorise les comediens a reparaitre sous nos veux  on peni dire gue la vraiment le cochon de payant n en a pas pour son argent  jusqu a cetableau se situant a l issue de la represesiiation finale qui est archi comsu de tous la foule prend place devatit l hotel de france  une fenetre du premier etage s ouvre un artiste parait qui remercie au nom de la iroupe  certains pourront se creer un passe femps agreable en obserpant si c est tonjours la meme jetetre qui s ouvre quant a nous lois essaierons cette annee de fai e siffler vigoureusement au parerre car les exhibitions de ces cabotitis nous horriprlent
+    </p>
+    <docAuthor>
+     Romanetti
+    </docAuthor>
+   </div>
+   <div n="13" type="art" xml:lang="fr">
+    <p>
+     une question a un journaliste un tres grand quolidien se distingue depuis longtemps par la violente campagne qu il mene contre les auionomisies d'alsacelorraine ce journal mene en meme temps une campagne visiblement dirigee en faveur du raltachement du canada ala france  c est son droit mais nous lui ferons remarquer que le canada jouit actuellement d'une autonomie tres large dans le cadre de l empire brilannique ei que jusqu ici il parait satisfait de ce regime le quolidien en question cherchet il a creer des lifficultes a l angleterre dans son dominion    ge qui est cerlain c est que le reporter  gui lranche de l homme d etat et du grand ecrivain  charge de la campagne contre les autonomistes d alsace lorraine  dans ce meme organe est un personnage des plus curieux a etudier son acharnement contre les palrioles alsaciens neconnait plus aucun frein comme ce scribe ne fait jamais rien pour rien il y a des chances pour que sa besogne soit amplement remuneree par qui l enigme ne serait peul elrepas malaisee a resoudre si l on scrulait avec soin le passe de ce monsicur ou etait il pendant la guerre n est il pas alle dans les balkans n y a t il pas en une attilude des plus suspceles  ne frequentailil pas une femme qui se livrait a lespionnage ne s est il pas un jour vu chasser a coups de pied quelque part par un officier francais  un medecin major pour preciser  chez lequel il s eluit sournoisement inlroduii asalonique  nous posons ces questions au publiciste qu elles concernent qu ij nous rassure sur son caracieres nous ne demandons pas mieux que d'elre detrompes rassurer les honnetes gens vaut mieux que de les vilipender  x x x
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

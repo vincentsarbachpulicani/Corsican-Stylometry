@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330795m
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330795m
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 202 | Année 6
+     </edition>
+     <date>
+      1925-05-10
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Sest' annata — Numaru 202  Esce a Dumenica Dumenica, ro Maghiu 1925  A MUVRA  GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI :  In Corsica. . . . . . . - . . . .. . 12 franchi  In Francia... .. .......... 15 »  A VEsteru . . , ........,.. 25 »  U Numaru:4 soldi  Direttore : Petrù ROCCA  AMMINISTRAZIONE:  88, Corsu Crandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="it">
+    <p>
+     ajaccio elettorale  di quello ajaccio  dante si ne sarebbe giovato per aggiungere un non poco saporito capitolo al suo gia saporitissimo inferno   e non solo ajaccio da motivo al amatore di spettacolose commedie politiche di valersi   qual libro sacro   della opera  lugubremente fastuosa dei poeta fiorentino    ma e la corsica entera  la terra di heroica prole cantata dal moltedo  che per ora sta assumendo la tetra fisionomia di una strega libidinosa e spietata   ajaccio pero  piu che nessun altra citta della isola   si presta ammirabilmente agli sfoghi e scatenamenti elettorahi  qui il luminoso cuadro naturale non riusce che a rendere  per antitesi  piu fosco le ambiente sociale in cui si svolge la lottapolitica  gloriose o meschine  le ombre tutelari della citta siano esse  come il buonaparte  figure storiche risorte nell anima popolare a nuova vita leggendaria  oppure siano simboli di entita politiche rappresententi un complesso di ideali  come e il caso per marianna del frigio beretto  passano etornano a passare sott il torbido cielo elettorale   e poiche ad ogni glorificazione metafisica corrisponde un culto terrestre  vi sono in ajaccio processioni nelle quali lo idolo o la santa  incoronati da viole o da rose  vengono si corteggiati da lunghe schiere di fedeli  di credenti  di convinti  tutti quanti vocerando litanie adoperate al ritmo   a volta febbrile e a voltaminaccioso   della passione elettorale    a napoleone i suoi ultimi difensori  diceva un cartello appeso da idolatrica mano al colio del destriere di bronzo di piazza del diamante  l iscrizione rimase parecchi mesi illesa  e certo non mancava di stranezza quell ex voto che lungo di sollecitare protezione e domandare conforto alla divinita  garantiva soltanto la fedelta di qualchi seguaci    dapoi quel gesto mistico  parecchi anni sono trascorsi  e la anima ajaccina e rimasta sempre propensa al culto napoleonico      e adesso  in ajaccio  vi soro adunanze politiche dove si teca la maggior parte degli elettori  e in queste adunanze  tenute non in vaste pianure  41 paro delle tradizionali con sulte  ma bensi in ampi garages  in sale di teatro  i candidati parlano  mentre sopra lo auditorio tumultuoso sventolano le bandiere  fremono le aquileromane  testi in un tempo della napoleonica gloria   l adunanza sciolta fra gli applausi della maggioranza o gli ostili schiamazzi di una minorita sempre pronta a suscitare tumulti  i repubblicani o i buonapartisti  secondo che quella sera la fortuna si e dimostrata piu favorevole agli uni o agli altri havuto sguardo alla sovranita assoluta della strada  i repubblicani o i buonapartisti diciamo  si aggruppano  si muovono per schiere  mentre la luce delle torcie mette in rilievo la aspera decisione dei visi     chi dira mai  chi potra mai contare lo hibrido esploso degli inni  che allora frammischiati a gutturali credo  si esalano da migliaie di petti  chi mai potra indovinare a quali fonti sono ispirate le imprecazioni in dialetto  le ripetute affermazioni di forza  di incrollabile speranza nel felice epilogo della lotta   monstruosa e multiforma  la manifestazione  dopo di haver clamorosamente percorso le principali vie di ajaccio dopo di essersi fermata davanti alla prefettura  davanti al municipio  davanti ad ogni monumento rappresentativo della forza  delle ordine  pubblico  si disiungge  si frammenta  ed allora vi ne sono chi si recano al caffe  echi si recano in cenacoli chiusi per aspettarvi le ispirazione dello spirito santo elettorale intorno a tavolini non sempre nitidi e rilucenti     ajaccio elettorale vive di una vita intensa   la citta e affollatissima  gli uffizi postali  automobilistici sono gremiti  giacche gli elettori  per lo piu  hanno premura di recarsi al luogo dove  con la degneta di brenno mettendo la spada nella bilancia  confiderano all urna il segreto delle loro convizioni politiche   o  amara ironia del destino  e soltanto in simili occasioni chela citta dove lo italico condottiere sorti i nativi  ritorna alla vita  vede come per incanto  il suo porto aprirsi al traffico elettorale     ma  una volta terminata la lotta  ajaccio si immergera di nuovo nella sua consueta torpidezza di citta trascurata  si ne rimarra sola con i suoi ricordi napoleonici  isuoi giardini di fiori e di aranci i suoi boschetti di ulivi e di pini   e per un tratto di tempo non soffiera piu sul sacro lido formato dalle incomparabile  golfo  lo stesso preciso vento che si dice soffiasse sull angosciosa sponda dello stige    
+  s
+    </p>
+    <docAuthor>
+     Michele Corano
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     pontenuovu duv e si    a corsica e a a moda   si parla di ella e si ne scrive  la isula scunusciuta e un oggettu frequente di recerche scientifiche e storiche  un eramu mica  assuefati a tanta sullecitudine   cume si parla di noi in francia un la so  forse vale megliu un saperla   cume si ne scrivo  a so  e giustamente  perche a so  tengu a cio che i lettori di a muvra  i veri corsi  sappianu  cunoscanu a manera elegante cun a quale in francia si racconta a storia di a nostra isula e di so abitanti   un gran giurnale francese ha publicatu  pocu fa  un articulu interessantissimu  talmente interessante che un giurnale di corsica la ha ri prudottu  sopra u bi centenariu di paoli   la idea pare felice a prima vista   ma cosa si dice esattamente in questa pagine di storia e di letteratura      lu articulu cumincia cusi      la physionomie de pascal pao li reste quelque pe u nebuleuse   aux yeux de la plupart des fran  cais et  dans le histoire de france   de lavisse  le general corse qui  tenta de resister aux projets de   choiseul est tout juste l objet   di une breve et dedaigneuse men  tion  analogue a celle qui rap  pelle le existence du curieux  aventurieux que fut theodore  de neuhof  a    un principiu un e male   u sgio lavisse che ha scrittu a piu cumpletta di e storie di francia ignora a paoli e un vole cunoscerlu  la assimila a un avventurieru e u tratta cun simile disprezzu  grazie tantu a u scio lavisse    furtunatamente  malgradu u scio lavisse  paoli fu e sara a nostra grande e vera gloria naziunale   cuntinuemu        en face de choiseul  il compta    pour pe u de chose et le ile devint   francaise en 1768 par  un traite   ou paoli ne eut point de part de   la une irritation persistante qui   la empecha de comprendre les eve  nements accomplis       caru scio giurnalista   avete un talentu propriu raru per presentar li evenimenti a u vostru modu   la isula  dite voi  e diventata francese in 1768 a u seguitu di un trattatu che un ha datu niente a paoli  inde ire   ma se non sbagliu  u trattatu auquale fate allusione e quellu intervenutu tra genua e francia pei vende a corsica duie miglione di libre genuese  un traitatu di vendita  a francia che era ricca  a quelli tempi luntani  ha pututu cumprar la isula a i genuesi  ma un ne avea mica abbastanza soldi per cumprar a paoli e a i veri corsi  che consideravanu cume un disonore di esser venduti cume une banda di capre   e percio fu pontenuovu duve a forza brutale sepelli a giustizia    e voi  scio giurnalista  cun buona fede  si intende  vi diminticate di pontenuovu e un ne parlate    aghiu dettu prima che a corsica era e a moda   in fatti  pocu tempu dopu  un gran giurnale di parigi publico un altru articulu avendu per sug gettu    a cunquista diu barone de vaux   qui si parla di pontenuovu  ben obligatu  ma cume   9    noel jourdan de vaux baron e                  semble avoir ete pre   pare par sa belle carriere militaire   a jouer un role important dans   les oberations destinees a redui  re les corses a le obeissance       un si parlerebbe mica megliu di negri da guinea       le 2o fevrier 1769  le lieutenant   general de vaux  a ce moment   gouverneur de thionville  etait  nomme  sur la proposition de   choiseul  commandant en chef   des quarante bataillons charges   di avoir raison des rebelles sou    leves a la voix du dictateur   paoli     le 7  de vaux etait a lento     le 8  2ooo rebelles furent repous    ses par les regiments de champa  gne et de soubise  et  decimes a   pontenuovu  ce qui amena la dis  persion des fideles du dictateur   et le avance decisive des francais   jusqu a morosaglia et corte  le   14  le champion de le independance   etait reduit a proposer un armis  tice ce qui determinaitta reddition    des pieve  paroisses  insurgees  e  ma scusate  scio giurnalista  perche trattar i poveri martiri di pontenuovu di ribelli e di insurretti   un sarebbe megliu di lasciarli dorme in pace   perche insultarli dapu morti    un avete sempre pretesu voi  cume tutti vostri altri cumpatriotti  che a francia ha sempre luttatu per u triunfu di u dirittu e di a giustizia    i corsi di 1768 eranu liberi di un amar mica a francia che avea cumpratu la isula a genua senza cunsultarli   eran liberi di star indipendenti cun paoli se cusi gli piacea  cosa venian a far i francesi in corsica a quell  epoca    perche allora truvar bene  truvar giustu  cume voi fate  che u scio choiseul abbia mandatu da francia quaranta battaglioni  cio e quaranta mila uomi  contra due mila sfurtunati  infelici corsi  per riducerli  malgradu elli  all obbedienza  per sottumetterli cume ribelli   5  cun che dirittu   quellu di u piu forte    lu oru di francia un era sufficiente per riducere i corsi  ci e volutu u barone de vaux e quaranta mila uomi   e cusi a liberta di un populucciu  che avea purtanttu u dirittu di viver anch ellu  fu affucata   caru  scio giurnalista  se vulete parlar di a nostra isula scrivete sopra i so siti  e so calanche  e so fureste  u $o cielu  u so mare  u so clima  a so natura  nessunu v inchietera   ma vi ne pregu  lasciate tranquilla a nostra storia che un puo che girarsi contra di voi     un avete mica a pretensione di far creder a un solu uomu sensatu e di buona fede che a corsica  piu di un seculu fa  si e data voluntariamente e a francia   perche questu un e veru   i martiri di pontenuovu  gl eroi di a piu nobile di e e cause  quella di a liberta di u so paese  si dirizzanu tutti contra di voi per prutestar contra sta impostura   e quandu perisu che ci so ancu corsi che osanu  per vigliaccaggine assuciarsi a simile infamia  u rossu mi monta in faccia daa vergogna 
+  s
+    </p>
+    <docAuthor>
+     Picciafuocu
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="it">
+    <p>
+     regionalismo corso  anche quest anno e comparso lo almanacco della   muvra   il battagliero settimanale di ajaccio raccoglie i piu notevoli articoli politici e le piu interessanti novelle e poesie pubblicate durante lo anno insieme a detti umoristici tradizionali  disegni satirici  curiosita storiche  tutto in dialetto corso  pur imitando nella edizione i caratteristici almanacchi francesi  continua cosi la tradizione del bugiardello una specie di  barbanera   pubblicato per lunghi anni in italiano a bastia  di grandissima diffusione fra il popolino   e una piacevole  lettura  utile ad intendere quale e oggi lo stato di animo del popolo corso  notevole sovratiutto il resoconto della mi rindella di i pueti  del convegno cioe  nella foresta di vizzavona  dei  piu cospicui rappresentanti  del movimento corsista  i quali  alla fine di ina rustica agape fraterna  pronunziono discorsi politici e cantarono le loro canzoni      non ancora forte per potere partecipare alle lotte politiche il parti io corso  di azione si limita all atti vita letteraria  alla rievocazione delle glorie della corsica  in prosa ed in versi quest anno si scoprira 3 pontentiovo il monumento ai miliziani caduti contro i francesi in difesa della liberta della patria nel 1769  la pieta isolana ha gia permesso di raccogliere oltre 18 ooo franchi in una pubblica sottoscrizione alla  quale hanno partecipato non solo i residenti nell isola ma anche i corsi sparsi nel mondo  dal marocco alla cocincina  impiegati delle amministrazione  coloniale francese   un interessante articolo sul momento storico attuale del  popolo corso  alcuni giorni or sono ha pubblicato giovanni ansaldo su   rivoluzione liberale        oltre lo almanacco della muvra diversealtre pubblicazioni attestano lo spontaneo rifiorire della lettera tura corsa  citoi lavori  inviatimi in omaggio  che ho avuto possibilita di leggere  antonio bonifacio ha pubblicato a nizza i frutti di imbernu  versi della sua maturita frutti di inverno  con rapide note di colore egli tratteggia il caratteristico paesaggio del capocorso  la lingua di terra che si protende nel mare di liguria ed il cui orizzonte e limitato dall ampio  cerchio delle coste italiane dalla riviera di ponente all elba  su questo scenario meraviglioso a  bonifacio fa risorgere le me   morie lontane della sua fanciullezza  abbozza scenette idiliche di pastori     e di marinari  rievoca le gesta dei conterranei capicorsini  un tempo audaci corsari in caccia di feluche genovesi  oggi laboriosi  marinai  scaltriti nei traffici  dal libro si effonde un largo senso di bonta ed     una intima poesia  l autore  lonta no dalla sua isola  non ha dimenti cato gli affetti famigliari  ivi abbandonati per obbedire alle necessita della vita  e che ormai si riducono a pietosi ricordi  le sue rievocazioni commosse riescono qualche volta a raggiungere la lirica  i  a  bonifacio insegna lettere francesi ed italiane a nizza  ed e le animatore di quella colonia insulare che sotto lo stesso cielo  ed in vista delle estreme  vette della terra natale nun puo sentire troppo acuta la nostalgia   il sacerdoto domenico carlotti  martinu appirzapalu  e uno dei piu ferventi sostenitori del movimento autonomista corso  curato in francia prima della guerra  ha sentito il bisogno  dopo la grande crisi mondiale  di ricorigiungersi alla terra natale  e vi e ritornato  temperamento esuberante come i parroci della antica  terra di comune che convocavano la assemblea della pieve e guidavano i miliziani alla battaglia  con ardenti polemiche difende la lingua corsa dai troppi francesismi che minacciano di cor romperla  ed agita i problemi gene rali della isola   cercando di scuotere  la apatia di molti suoi conterranei   con la sua canzonetta trinnichellu   ormai famosa in tutta la corsica  ha  messo in ridicolo la ferrovietta tra   ballante e disagiata  unico mezzo  di communicazione fra le due prin cipali citta  mezzo di cui pur tutta  via sono prive ancora bonifacio  e sartene  carlotti e anche un vi goroso verseggiatore ed un appassionato folklorista  barbabianca le anticone e la rielaborazione poetica di una leggenda da focolare  nella quale e adombrato il ricordo del nomadismo della gente corsa  e del primo suo fissarsi in sedi stabili  questo nuovo periodo di civilta e simboleggiato dalla costruzione del tempio par iniziativa del paterfamilias  il venerando barbabianca  con la protezione e lo intervento miracoloso di dio  il poemetto  scritto con molto garbo e smagliante di colore  e corredato di un glossario per quelle voci che si allontanono dalle radici italiana e francese   un mazzolino di fiore di un intenso profumo ci e offerto con la raccolta dei versi di marco angeli   malincunie  si tratta di un tenue poeta  nei suoi versi lo aspro dialetto corso acquista una squisitezza formale che da valore ad ogni parola  a  bonifacio carita serenamente la sua giovinezza ormai tramonta  carlotti si ricollega alla storia del suo popolo  marco angeli si rifugia in uno stato di animo nostalgico  che attenua le impressioni delle ambiante  esterno e conosce la realita naturale solo a franimenti e di scorcio  mn  il paesaggio infatti e sempre il medesimo  le scogliere della nativa sartene  battute disperatamente dalle onde  gli argentei oliveti che fanno corona dila cittadina  le viottole piene di sole sul greppo montano  e qualche bianco viso bendato di nero  ma tutto cio e artificiosamente stillizzato  sicche il selvaggio paese corso appare ridotto  in forme calligrafiche a semplici contrapposizioni di superfici unite  con qualche tenue nota di colore  secondo la formula nipponizzante di aubrey beardsiey  o di umberto brunelleschi   ci si sente insomma dei decadentismo   la lirica assume qualche volta lo aspetto del ninnolo profumato  francese e qualche volte rivela la diretta reminiscenza       piove malincunia  in fondu a lu giardinu e piegne lu viulinu d un agra nostalgia   io non so se la tenue ma purissi   ma vena poetica di marco angeli possa ancora a lungo trovare dlimento  se il poeta cioe possa avere nuovi originali momenti di svilup po della sua personalita  e probabile chi egli abbia tutto detto con questi versi  vi e troppo una intimita da hortus conclusus  alla sergio corazzani  troppa timidezza e riluttanza ad un piu ampio respiro perche egli si arrischi ad un piu vigoroso battito di ali  ma il popolo corso deve conservare gelosamente questo libretto dalla copertina madreperlacea  perche i gracili versi che vi sono contenuti hanno una nitida risonanza di poesia  e attestono in marco angeli una compiuta personalita di artista  i
+  s
+    </p>
+    <docAuthor>
+     Camillo Bellieni
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="co">
+    <p>
+     grazie mille   in trenu  e un callu chi si sciappa  nant una panchetta  incornatu a u purtellinu  pitteo di 1 olmeta sgocciuleghia cume un pane di asciunghia   in faccia e una donnaccone inciabbata  chi spezza di sudore  si asciuv a e londereccie e patanscia   un zitellucciu di dece o dodeci mesi  spannellatu dorme e  di tantu intantu rumena quelli zancheri imbuffati chi i si volenu ronziga e mosche       in piu bella si  jendu  a mamma u si piglia in collu  si da una spetturighiata   ma u zitellucciu    insonnulitu  di gattiv indule mastaglia  piglia  lenta  si appuppa  stirazzigheghia piegne e un vole sughie   a sedata in his    pitteo da una sguerdata  in bisbo a quellu capitignulu sticchitu chi pare un purione nant una cu latta     cume u criappullellu si tirain  coda a mamma si mette in zerga     sughj mi  hai capitu    si tu ne voli     osinno facciu sughie  lu amicu       ah ma eo    so a ringraziabbi
+  s
+    </p>
+    <docAuthor>
+     A. F. Tristani
+    </docAuthor>
+   </div>
+   <div n="5" type="poe" xml:lang="co">
+    <p>
+     ritti per cursichella   a lu nostru partitu di azione  perch ellu aradicheghi e tenghi morsu ci vole a crealli un postu di succorsu fermu e sincera per ogni cantone   chi ellu vadi la sera a lu fucone  in de ziu ghiuvan battista o in de orsu di chi si vinlicheghia u sangue corsu  abbunendusi a a sposa di u muvrone   e in ogni core circa di fa capisce chi a muira e qualcosa di sacratu e chi in piu ci   diverte e ci strnisce   e quandu chi ogni corsu si e abbunatu in cor di inguernu si videra fiurisce rosnle in quantita  per ogni pratu   ne  ed eo per que mi so decisu in beru per cumbatte  aghin ermatu manu e pede micca per nunda ma per falli vede chi ne nostru  sangue corsu e sempre fieru   qui per u mid  paese  e u mio mistieru di 4 muvra santa  predica la fede   e cun piace cunnosce chi ci crede a  razza di paulu e  di sampieru   adupra  bogliu tuttu u mio sapere e e mio pussibilta  in ogni manera per chi ogni corsu faccia u so duvere   e chi a testa di u moru inla bandiera si scopri li occhii e ridi da u piacere di vede chi cirnea l e sincera  i
+  s
+    </p>
+    <docAuthor>
+     U Puvarellu
+    </docAuthor>
+   </div>
+   <div n="6" type="art" xml:lang="co">
+    <p>
+     san brancaziu  anfarti fratelli  un ci scurdemu di vene in pelegrinaggiu a u gran san brancaziu di casinca  i 12 e 13 maghiu     hannu annunziatu a so presenza   ghiannettu u sampetracciu  ghiu anni  olivieri  peretti pincu di pianellu  matteiu cirnensi di volpaiola rustincu di loretu  filippi    di tagliu     cullazione campestra al ombra di u pullone  trinnighelli a 7 ore 9 ore 3 ore  4 ore  missone e prucessione a io ore e mezu cu a statula e reliquie di u santu  aligrizie e fiera opulare 
+  s
+    </p>
+    <docAuthor>
+     Martinu Appinzapalu
+    </docAuthor>
+   </div>
+   <div n="7" type="art" xml:lang="fr">
+    <p>
+     apres pontenovo   comment la corse devint francaise tout recemment dans le ournal des debais m ulysse rouchon a fait une analyse de la these soutenue par m louis villat sur la corse de 1768 a 1189    nous protestons energiquement contre les allegations du redacteur des debats elles tendent a repre senter les corses comme des  rebelles et a faire croire que le marechal de vaux fut pour nous un adversaire loyal et genereux   m rouchon ne devrait pas oublier que les corses defendaient leur independance et qu ils n'etaient point rebelles n ayant jamais prete serment de fidelite a la france   nous faisons connaitre aujourd'hui a nos lecteurs d apres le dr a mattei et m villat lui meme comment la corse devint frangaise
+    </p>
+    <docAuthor>
+     Eugène Grimaldi
+    </docAuthor>
+   </div>
+   <div n="8" type="div" xml:lang="fr">
+    <p>
+     devotion luxe et corruption voila ce que la france apporta en corse pour les classes superieures compression et barbarie pour les classes inferieures  ... le peuple corse fut soumis et baillonne la justice sommaire tint lieu de justice distributive  on fit des atrocites dont le souvenir en corse n est pas encore efface    dr a mattei  les annalesde la corse vol ti 1879 p 184 mi  7768  les 5 et 22 aout louis xv fait des ordonnances edictant les plus hautes penalites contre les villages qui refuseront de se soumettre   1769  le 14 fevrier les francais mettent a mort fabbe saliceti et douze autres habitants d oletta qu on rom pit tout vifs leurs cadavres resterent exposes dans le chemin d oletta a bastia  le 22 mai apres la reddition de corte la maison du gouvernement national est saccagee par les troupes d invasion la bibliotheque de paoli est partagee entre les officiers superieurs francais  le marechal de vaux fait vendre a l encan sur la place les habits et autres effets personnels de pascal paoli et le tout produit 230 livres  mais aucun corse ne se presente a cette vente impie et seuls en profiterent les mercantis francais qui sui vaient les troupes d invasion le 23 mai ordre a tous les corses de livrer leurs armes a feu sous peine de mort  le 17 juillet les francais condamnent plusieurs corses a etre marques au fer rouge  au cours de cette annee de la part du vainqueur ce ne furent que massacres devastations incendies ren darit le nom francais odieux pour la masse des habitants  les villages de furiani barbaggio patrimonio borgo lento etc sont brules ou saccales   1770  le 24 mai nouveau decret contre le port d armes  le 1 aout on donne l ordre de bruler tous les maquis de la corse afin de detruire les bandits  c'est a dire les insoumis a la france   le 24 septembre ordre aux familles des corses qui suivirent paoli a livourne de s embarquer incontinent sous peine de prison ou d expulsion ignominieuse  1771  le 6 mars on abolit la chasse  le20avril le gouvernement francais menace de chatier toute personne qui donnerait asile aux fugitifs  tiendrait des propos seditieux ou correspondrait avec les exiles  le 12 mai on prescrit aux habitants sous peine de mort de denoncer tout homme vu arme  des rixes sont la consequence de ces actes et les francais exercent des atrocites le nom de sionville a inspire tant d'hufreur que la renommee l a transmis jusqu a nous   le 22 juin on defend de planter des chataigniers  au mois d'aout declaration qui punit pour la premiere fois d une amende de cinquante a cent livres et en cas de recidive du carcan et des galeres quiconque possedera fabriquera vendra un stylet ou couteau pointu les partisans de paoli sont accuses de voler ef d assassiner le gouvernement francais prescrit de les pendre sans aucune forme de proces et pour mieux oter a cette  race execrable  la facilite d echapper il enjoint a nouveau de bruler les ma quis   e x   1772 dans le mois d'aout le roi ordonne de compiegne la formation en corse de quatre juntes nationales orezza caccia quenza guagno et d une juridicton prevotale c est a dire autant de tribunaux a jusfice sommaire  le 24 octobre on oblige les habitants de la corse a faire la corvee des routes excepte les nouveaux habitants francais   le 13 decembre on deplace la junte de guagno a mezzana et la junte de quenza a tallano pour promener partout la justice sommaire  ceux qui ne veulent pas devenir sujets du roy de france sont consideres a la fois comme vagabonds et rebelles  aucun corse ne put s absenter sans un conge du podestat  ceux qui ne reparaissaient pas a leur domicile au bout d un mois furent declares fugitifs et apres six mois poursuivis comme felons i 1774  au mois de juin le fameux sionville va dans le niolo eu pour des motifs insignifiants il exerce des destructions et des massacres   par le fer et par le feu voila comment la corse devint  francaise
+    </p>
+    <docAuthor>
+     Louis Villat
+    </docAuthor>
+   </div>
+   <div n="9" type="art" xml:lang="co">
+    <p>
+     la idea nera  ancu i neri hannu u stumacheghiu   pare chi bularianu falla finita cu tutti i trafficanti di carne muntunina   infattu  eccu a nutizia chi ci junghie da u fondu dill africa  da johannesburg    ultimamente  in questa citta ci e statu uconvegnu di i vari rapprinsintenti dill idea nera  ognunu ha datu u so avvisu e poi u presidente  un neru  a prununziatu ste parole   i    u jornu ghiunghiera chi saremu in gradu di vuta cum ella ci parara  e di piglia certe risoluzioni  chi i bianchi a boglinu o un la boghinu  u sole luce pe ognunu e nimu  po arristallu   dunque  un bi addurmintate mica  e dite puru chi un accittaremu mai chi i bianchi a si scialinu inde stu paese  sti ruglioni so nostri e staranu nostri    soga un so queste fiere parle   e soga un ne pudariamu di altrettantu  noi corsi  chi senza ave a pelle imbarniciata semu quantunque cunsiderati cume li ultimi di i strazi  
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="10" type="art" xml:lang="co">
+    <p>
+     l archivio storico di corsica  sottu a direzione di  u prufissore ghiuacchinu volpe  diputatu a u parlamentu talianu  l archivio storico   di  corsica  tantu aspittatu da i studiosi di u nostru passatu  e uscitu in milanu  per cura di a sucieta tirrhenia  po  a littura di sta dotta pubblicazione ci a biramente campatu  e un pudemu che applaud a la iniziativa di i noti sapienti cullaburatori di u prufissore volpe     u primu numaru di l archivio porta in  frontispiziu u ritrattu di pasquale paoli  un pudia esse altrimente pe una rivista   cunsacrata a a corsica  a  avemu pudutu apprizza a scienzia di u sgio a  solmi  inde lu articulu intitulatu   la corsica  studio storico  a stu sapiente  un li bastanu e fole di tutti i pedantoni  a sivera critica di u sgio solmi un ammette tante chiacchere  ci cusi le autore riesce a vede chiaru ind e u gloriosu passatu di la isula   non menu degnu di a nostra attinzione e lu articulu di u sgio michel e  intitulatu   esuli e cospiratori italiani in corsica  ognunu sa chi certi patriotti italiani cume tommaseo  guerrazi etant altri  traditi o dinunziati da i vittoli  si ne trova ancu in halia di sti scillarati   funnu belli affurtunati di truva asilu in corsica  e appuntu  u sgio michel e  ci parla  di a vita disgraziata di sti puvaracci  ci par la di un ghiurnale stampatu in corsica in 1833  le osservatore del monterotondo chi avia per iscopu di addutrina i liberali di italia  ci parla ancu di una carboneria corsa  chi avia stretti rapporti cu a giovine italia di jaseppu mazzini  cume le altre vendite di italia  st assuciazione bulia fa rifiuri a liberta  prumittendu guai e troncacolli a i vittoli   ci bularia una pagine sana di a muora per di tuttu u be chi noi pinsemu di l archivio storico  cu i so belli articoli  e so varieta  e so recenzioni  sta pubblicazione ralligra tutti le amante di e cose patrie 
+  s
+    </p>
+    <docAuthor>
+     U Pittore
+    </docAuthor>
+   </div>
+   <div n="11" type="Non défini" xml:lang="co">
+    <p>
+     una scupata  gattivu induvinu    eh   quistu o misse   diti puri missa  e veru sangue di u nosciu signori  risana i malati e tisuscita i morti    pinsende a stu barilottu preti larenzu  incantatu  pirdi u filu di li so litanie e di una boci di piu in piu spinta e lenta  murmulava      santa maria     ora pro e i  rispundianu tutti  tomi e donni   sei a u corpu        ora pro e i     e tanti a valtari     ora pro   e i   tan   tu di ce   ra      o   ra pro    e       e tan   tu di fun   zioni   o   ra    pro   e     un a   me  e  en longu e strifulatu come un bucchipanzulu  deti un  terminu   a st infilicastrati  e preti larenzu  dopu ave datu  una strinta di mani in ghiru a li adulati  si appruntava ad andassini quandu passendu dananzi a minganu li dumandeti  pianu pianu a li aricchii     quale annuncia sta morte impruvisa      idu stessu  o gio cura     idu rispundi u nosciu preti stunatu  grattendusi a chierica  pussibile        comu  pussibile   zi  ficatellu qui prisente  ci ha ettu e tradut  tu a lettara e dici chi saria mortu  sutarratu e chi la arba    vuleti di piu      ar fetiia  vede ancu a me       allora  eju  e preti lare  dissi zi figatellu in furia un so piu ne ciocche leghiu ne ciocche dicu    senza fa attenzione a sti paroli u  nosciu preti avia presusta lettara a  la lestra   sbuttedi a rida a u primu sguardu e si missi a grida     banda di prasciti  imbicilli   bestii   narpii   tonti liatoghii   finiti sta cumedia     a littura si feci a mezz a scuculi  di risa  mentri chi zi ficatellu firitu ia a so dignita di intellettuale e di scrivanu  duvintava biancu come un fogliu di carta  e chi zia cudazzana  li occhii imbarati  ripiddava a pocu a pocu i so sensi e appinzava dighia qualchi ghiastimma    i  era curta sta lettara e curiosa   par traducciala preti larenzu chi un avia mai fattu suldatu  fu moltu imbarrazzatu  certi paroli un li truveti mancu annant a cu  diziunariu i un vulia  purtantu fa vede chi idd un capisciva e  a forza di invinzione e ricerchi  ni junsi puri a la fini ma era in un bagnu di sudore  filiciolu chi soga si era prima be appuntatu lu stomacu incu qualche sciuppina  avia scrittu feu
+  s
+    </p>
+    <docAuthor>
+     L'Omu di Cagna
+    </docAuthor>
+   </div>
+   <div n="12" type="Non défini" xml:lang="fr">
+    <p>
+     marrakech le 20 fevrier ma cher mere  suis je mort et enterre et l erbe a pouce sur ma tombe et attend et attend et attend finale ment jen ai marre de ton silence voila 2 mois que le vago ne m a plus a portee une babillarde de toi tu n aimes donc plus ton fils poura rester ainsi une flopee de temps sans m ecrire nonobstant les marques d afliction que je fai tout jour donne  j ai bien recu le figatel et le fromegi plein d asticots du cochon que tu m a envoye  je les ai bouffe et te remercie  au lieu de tout ca ma chere mere ne pourrais tu pas a la place de la boustifaille m envoyer quelques plumes un peu de peze pour que j eusse la faculte et la possibilite d aller dire une messe a la cantoche avec les copains  si fu avais ete trouffion ma chere mere tu pigerais bien que ce n est pas marrant au regiment quand on n a pas le rond pour s envoyer quelque chose dans le buffet et se payer de temps en temps un kilo de pinard et pour noyer le cafard  tu me feras savoir dans ta prochaine si notre vache moulinee a fait un vitelle et si notre poule a couve les poussins  a une derniere recommandancion j ai a te faire  ne fais plus ecrire tes lettres par zi ficatellu  il est marteau ce mec la il est fada be te et je n y entrave que d alle dans tout se qu y me dit et surtout soigne t0i ma vieille  dans l attente des tes nouvelles qui je l espere seront excellentes je t embarrasse affectionament  ton fiston affectionne felix  proscriptum  le juteux vient de me porter a la connaissance que je pourrai partir le mois pro chain en perme envoie moi vite des picaillons feu
+    </p>
+    <docAuthor>
+     L'Omu di Cagna
+    </docAuthor>
+   </div>
+   <div n="13" type="feu" xml:lang="co">
+    <p>
+     dunqua filicielu era vivu   zia cudazzana si cripeti guasi da la aligrezza   zi ficatellu insultatu  cuprulitu di jastimmi  andeti subitu a chihassi e durenti vinti jorni  presu da una freba cavaddina  fu a la manicci cu la morte e un facia che ripeta traparlendu     suis je mort et enterre    ah je suis bete ah je suis martea u  etje suis fada      fine
+  s
+    </p>
+    <docAuthor>
+     L'Omu di Cagna
+    </docAuthor>
+   </div>
+   <div n="14" type="art" xml:lang="fr">
+    <p>
+     cortinchi de pietr ellerata premiere partie ugo fils aine de guglielmo devint donc a la mort de son pere seigneur de pietr ellerata de ugo naquit guglielmo i de pietr ellerata qui eut trois fils  orlando ugo ii guglielmo ii orlando qui etait laine prit pour lui la seigneurie de pietr ellerata et fut plus tard eveque d aleria  1 comme son arriere grand oncle curieux types au demeurant que ces prelats corses du moyenage elus par le peuple toujours par monts et par vaux participant a toutes les luttes se melant a tous les combats ils n etaient ni pauvres ni chastes ni soumis meme a rome car ils ne craignirent pas de se revolter contre la papaute lorsque celle ci pretendit rattacher les eveches insulaires a l archeveche de pise en 1098 ou les partager entre pise et genes en 1133 tres jaloux de leur independante d esprit batailleur leur psychologie peut se resumer en ce portrait d eveque d aleria que nous vimes la main gauche ouverte sur les evangiles la main droite fermee sur la poignee d un glaive ti est vrai qu un autre eveque du nebbio celui la ne celebrait jamais sa messe sans avoir au prealable depose deux pis tolets charges aux deux coins de vautel comme eux orlando cortinco refleta la violence et la brutalite du milieu ou il vivait contre les marquis de san colombano tyranneaux voulant imposer le  droit du seigneur  il se mit plusieurs fois en campagne et leur fit une guerre d extermination au cours de laquelle caccia et giussani furent ruines giuvanni della grossa raconte qu il existait a caccia une eglise dediee a santa  esdra et ou les habitants confiants en la saintete du lieu avaient cache ce qu ils avaient de plus precienk se moquant de leur superstition naive l eveque d aleria pilla le sanctuaire venere mais dieu pour le punir ajoute le vieux chroniqueur lui envoya immediatement la maladie de la pierre et devenu infirme la seigneurie des cortinchi passa alors aux mains de ses deux freres ugo ii et guglielmo ii ugo li avait epouse une soeur de giudia de cinarca dont il eut sept fils guglielmo ti s etait marie avec une fille de giovanninello de pietr all arretta qui lui donna trois fils  vincentello aldobrandinucciu guglielmo ht aa mort de ugo ti et de guglielmo ii la discorde se mit entre leurs enfams les sept freres chasserent de pietr ellerata les trois freres li s ensuivit une guerre apres laquelle un accord fut conclu pietr ellerata resta aux trois freres et les sept freres allerent s etablir a gaggio ou ils se firent batir un choteau 2  des trois freres vincentello qui avait epouse rine soeur de guglielmo della rocca resta seul a pietr ellerata aldobrandinucciu mourut jeune laissant deux fils  orlando et guglielminucciu guglielmo iii etait alle s installer a verde 3  en a l eveche d aleria a existe depuis la fin du vi siecle jusqu'a la revolution la ville detruite par les sarrazius vers 826 n etait pas completement abandonnee au xiii siecle et la famille cortinchi y residait encore  2  au n n 0 de piedicorte di gaggio sur la culladi gaggio   les ruines du chateau y sont encore visibles  3  il s y construisit un chateau a 14 kilometres de tallone 11 en reste une tour en ruine habitee en 1370 par alexandre sauli alors eveque d aleria l endroit ou se trouveient les fardins en a garde le nom d' eorto del vescovo  guerre entre vincentello orlandu et guglielminucciu de pietr ellerata contre rollanducello de pietr all arretta quand apres la mort de giovaninnello de pietr all arretta son neveu rollanducello s empara de ses biens orlandu et guglielminucciu passerent dans le nebbio pour lui enlever le patrimoine de leur aieul aides par leur oncle vincentello de pietr ellerata ils lui declarerent la guerre vincentello et rollanducello etaient consideres a l epoque comme etant les deux principaux seigneurs de l ile tres vigoureux ils se distinguaient l un et l autre par un courage egal et une meme adresse extraordinaire a la suite d un accident de cheval vincentello mourut et la lutte se continua entre rollanducello et orlandu et guglielminucciu auxquels etait venu s adjoindre un batard de ugo fils de giovanninello appele guglielmo apres une lutte longue et cruelle rollanducello finit par tomber dans un piege que lui avait tendu babilano da mare et fut remis aux mains des cortinchi de pietr ellerata qui le mirent immediatement a mort pour venger la famille de giovanninello massacree par lui a son retour de pise son fils neri resta sur une galere de genes rachete plus tard par ranieri de gozzi son frere maternel moyennant trois cents ecus neri declara la guerre aux cortinchi mais fut battu maitres du nebbio orlando s installa a patrimonio pendant que guglielminucciu se fortifiait a porretto au dessus de pietr alba  guglielmo iii de pietr ellerata a la mort de vincentello de pietr ellerata guglielmo iii son frere revint de son choteau de verde ou il s'etait retire a pietr ellerata pour y attendre que son neveu guglielmo surnomme plus tard schiumaguadella fut en age de gouverner sa seigneurie du parti de giovanninello  oppose a celui de giudice de cirnarca  guglielmo iii etait le seigneur le plus puissant aussi quand une ligue se forma contre le redoutable seigneur du delades monts devenu vieux et aveugle guglielmo iii en prit la tete passa les monts avec deux mille hommes et mit le siege devant cinarca apres plusieurs engagements un neveu de giudice qui commandait ses troupes avec autorite et un remarquable courage lupo d ornano reussit a le mettre en deroute le poursuivit et le bloqua sur le sommet de saliceto se sentant perdu guglielmo iii eut alors recours aux promesses et dit a lupo d'ornano qu il lui donnerait la main de sa fille s'il le laissait rentrer dans ses terres lupo y consentit trahi une seconde fois par son fils salnese le vieux giudice de cinarca prenait quelques temps apres le chemin de l exil  guglielmo ili avait epouse une soeur de guglielminuccio de giunepro appele plus tard guglielmo de cinarca qui lui meme avait epouse une soeur de guglielmo iti mais a la suite d une querelle de partisans guglielmo iii aide de son neveu orlando cortinco de patrimonio declara la guerre au seigneur de cinarca qui prit la fuite celui ci usant de stratageme attira chez lui ugo cortinco da gaggio qui habitait noceta le mit a mort puis passant les monts il fit aux cortinchi une guerre acharnee dans laquelle il finit par perdre la vie des propres mains de guglielmo iii a cette epoque les seigneurs d outremonts faisaient peser sur les populations une telle tyrannie que pour demander du secours contre ces despotes orlando cortin co de patrimonio et guglielmo della rocca fils d ariguccio allerent a genes pour reprimer de pareils abus la republique envoya avec eux l implacable gottifredi da zoaglio qui portait le titre de marechal a peine arrive dans l ile celui ci inaugura son administration en envoyant  alle forche  orlando cortinco da patrimonio l accusant de rebellion en realite voulant se defaire d un homme qui lui donnait de l ombrage puis par haine de la noblesse et arguant de sa parente avec orlando il envoya guglielmo ii mourir avec son jeune fils dans la cour de la malapaga de genes ou giudice de cinarca les avait precedes et avait rendu le dernier soupir en 1313  guglielmo schiumaguadella et les defenseurs de la terra di commune l an 1354 le fils de vincentello de pietr ellerata guglielmo schiumaguadella energique chef de populations se revolta contre son oncle maternel le tyrannique guglielmo della rocca entraina dans sa rebellion tout le deca des monts et ne lui laissa pas sur le territoire cortinco un coin de terre veritable tribun du peuple attentif a defendre sa cause comme a la servir il fit rentrer dans leur seigneurie les populaires renuccio et caponiello cortinchi fils d orlando cortinco de patrimonio mis a mort sur l ordre de gottifredi da zoaglio renuccio dont la probite et les talents etaient apprecies meme des genois fut nomme par eux vicaire du sous gouverneur de toutes les possessions qu ils avaient en corse quand renuccio mourut leonello lomellini gouverneur jugeant incapables de lui succeder ses deux fils polo et ristorucello 1  nomma a sa place son frere caponiello non moins energique et redoutable aux seigneurs non moins integre et devoue a la cause populaire que renuccio celui ci precha la revolte contre les cinarchesi  2  et le comte ugo soulevant contre eux le peuple les battit et les obligea a repasser les monts
+    </p>
+    <docAuthor>
+     J.C. C.
+    </docAuthor>
+   </div>
+   <div n="15" type="art" xml:lang="fr">
+    <p>
+     seance du senat du 6 avril 1925  extrait de yofficiel du 7 avril  m emile sari ... connaiss   beaucoup de departements qui cus dans une situation identique a coprient la corse e de m victor berard  1 ya d autres partements pauvres s de m emilesari aucun autre de sement ne saurait etre comparg par corse sur le terrain economique 4 la je fais appel au souvenir de nog legues qui ont bien voulu visiter ceo partement il y a un an et demi le  que leur a t il ete donne de pa tater sdes l arrivee ils ont vu des por inacheves le port de bastia le ria  important de toute l ile n offre entre qu un abri insuffisant pour les navires qui le frequentent et attend depuis cinquante ans qu on procede aux tra vaux de son amenagement ils ont vu une ligne de chemin de fer inachevee elle aussi cette ligne est ia seule de toutes celles comprises dans e pre gramme fraissinet de 1879 qui n ait pas  recu son execution complete  savez vous messieurs que sur lex 181 lignes projetees comportant un tra ce d ensemble de 16 000 kilometres seul le petit trace interessant ja corse est encore actuellement en voie de construction que dis je est encore en discussion  et le resultat de cette poli tique economique c est qu un arron dissement le seul de toute la france celui de sartene est depourvu de toute voie ferree  400 groupes scolaires sont a cons truire  les cotes orientales de l ile infestees par le paludisme presentent 200 000 hectares de terrains incultes et les tra vaux d assainissement prevus par la loi du 15 decembre 1911 sont menes avec une lenteur desesperante  un point tres grave reside dans l insuffisance du reseau vicinal 1 500 kilometres de lacune restent a construire et l entretien des chemins existants est tellement onereux et difficile que toutes nos routes sont impraticables x certains de nos chefs lieux de can ton  et la plupart de nos petites communes  ne possedent d autres voies d acces que des chemins mule tiers et la farine qui y est transportee a dos de mulet revient a un prixtel que le pain coute 1 fr 80 le kilogr  alors qu il est taxe 1 60 a paris on avait bien promis de completer le re seau des routes nationales pour parei dans une certaine mesure a l'insuffisance des chemins vicinaux qu attend done le gouvernement pour accorder son approbation au projef de construction de la route corte cervione au su jet de laquelle l entente est intervenie entre le ministre des travaux publieset le conseil general  connaissez vous beaucoup de cas analogues en france voila un departement qui place sous un ciel de lumiere incomparable et dans un cadre merveilleux ne peut mettre en valet ses richesses naturelles ses sites pittoresques ses sources minerales  son climat et qui ne peut compter sur les  ressources que normalement il devrait posseder
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

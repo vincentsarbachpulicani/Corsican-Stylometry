@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330984h
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330984h
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 246 | Année 7
+     </edition>
+     <date>
+      1926-03-28
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Annu VII — Numaru 246  Esce a Dumenica  Dumenica, 28 Marzu 1926  MUVRA  GIURNALE DI È PIEVE DI CORSICA  ABBUNAMENTI :  In Gorsica. - + + + + + + + + + + rip 12 franchi  In Francia. + « « -]&gt;2&gt;&gt;.&gt;.&gt; 18  à lEsteru . 3 &gt;&gt; &gt;&gt; RE»  U Numaru:4 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  38, Corsu Grandval 88. — - AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     paoli di taglio  risa e pianti  e surtita a magnifica raccolta di sunetti e poesie varie di f anfarte taglincu u gran maestru chi ha fattu  cu granitu e marmaru finu  una di e prime quadrere di u casarone di a nostra litteratura  h  daremu u resu contu di stu capilavoru ne a muora di dumenica prossima   per oghie riproducemu u bellu introitu chi u nostru ha postu in testa di risa e pianti    a litteratura corsa aspitava  dipoi anni e anni  chi elli fussinu  riuniti in mazzulu tutt i fiori colti da u gran pueta di tagliu   risa e pianti e pa a nostra lingua una ricchezza e un onore  ci e di tuttu un pocu  ogni modu  ogni sintimentu dipiniu cu a penna cundida in lu piu puru patriuttisimu corsu   arte di maestru italianizqanie e originale  garbu di gran scrivanu e tonu di vapostulu  nn  ligera e ardita a rima sorte limpida cume una funlana da u scogliu  sempre parjetta e armoniosa cume a ciccona chi canta e chi sona   a so risa   un veru castigu paimuderni   una lizione di murale a la antica  un spirtu maliziosu e carizzante chi facevede a piaga  e ci face ride par facci piegne piu since ramente inostri guai   u so piantu  una semplice prucissione di risate duva u corsu si vergogna di ellu stessu  u prisente chi si vede in lu specchiu di u passatu  a miseria di a corsica muderna chi si cumpara cu a fieita di la antica terra del comune   stu libru e ancu u ritratiu  veru e naturale  di le autore  onest omu  bonu babbu e tumpagnu sinceru     risa e pianti issendu di listessa famiglia ca u me rise e canti  un  vogliu luda un parente strettu  ma lighjtelu  o corsi  e imparetelu a mente  in ogni pagina ci e billezza e fierta    beatuu gran corsu chi ha cumposti  uw lamentu di u castagnu  quellu lagnu immurtale chi scrisse par sempre  in lettare di oru  u nome veneratu di tagliu in la pusferita cirneana 
+  s
+    </p>
+    <docAuthor>
+     Maistrale
+    </docAuthor>
+   </div>
+   <div n="2" type="poe" xml:lang="co">
+    <p>
+     tagliu in festa  u jubile u  ella merchiava  tutta fiera  in testa cu i zitelli e zitelle pumpunati        ellu seguia  a passi cuntati   e ujubile u  tuitu tagliu e in festa     li ucelletti cuntenti  a la furesta si la cantanu tutti in allegria   u sole spimpillante a si ridia e u vecchiu tuttu allegru era in finestra   a campagna suride a la natura   cuiso piu belli e variati fiori i si appronta a mette a piu bella vestura   ridenu a scascanera tutti i cori   a ciccona ribomba nu a pianura i cuncerti divini piu sonori 
+  s
+    </p>
+    <docAuthor>
+     Paoli di Taglio
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     pueti corsi  luigi antone gentili  quanti  nomi di u seculu scorsu  quant opare degne di esse messe in luce e di da sustanza a i nostri pinseri di oghie  quantu bellezze trascurate per colpa di un artificiale spustamentu di ideale chi  per sempre  so intrate in le nebbie pagne di lu ubbliu    poghi si pudaranu imagina ciocchi e due o tre ultime generazione  educate cu scopi di bassu realismu  bannu pudutu pruduce infatti di vandali e di iconoclasti   1 poghi documenti sfuggiti da tale furia destrulliva i duvemu talvolta a rari studiosi liberati da le ambiente avelenalu  talvolta a ghiente onesta pe a quale a pieta filiale e u piu dolce di i duveri  u  in ciocchi cuncerna u puela gentili ci tocca ad unisce in un solu sintimentu di gratfitudine u duttore campinchi  di calcatoghiu  omu cultissimu e letteratu di allissima scelta e u gluriosu mutilatu di guerra paduu gentili  pufigliolu di u pueta  lu unu e valtru avendu cuntribuitu cun uguale tenacila a  riesumazione di una reverita memoria  oramai cara a tulti corsi     luigi antone genfili nacque lu ottu di oltobre 18o5 in calcatoghiu  paese di u cinarchese postu cume un elerna sintinella a crocevia  di e strade di aiacciu  di vicu e di u sarese   ne u 1824  quand elle funu instituite e scole primarie  u giovanu calcatughiese affrunto u cuncorsu per lu insignamentu e  adighia titulare di u diploma di bacilliere es lettere  fu numinatu stitutore publicu in sare    ma sla residenza essendu troppu alluntanata da u paese nativu  gentili sollecita ed ottene a scela di carghiese      ohime   chi hai fattu    le insegnante vintenne  attempu iuntu in quella culunia greca  ebbe a  scumbatte cu           a pulilica   qui traserivemu e so proprie parole a stu suggettu  parole colte ne una so dumanda adirrizzata  quasi un mezzu seculu dopu  u 25 nuvembre 1863  a le ispettore di le istruzione publica di u circundariu di aiacciu     j arrivai a cargese en janvier 1825 mais je ne pus reussir a ouvrir mon ecole attendu les sourdes menees et les intrigues clandestines du cure de cette commune  je rentrai donc chez mol  a u  ne u 1826  dumandatu da u sindacu di sollacaro  principio e so funzione in stu paisolu ma lu annu dopu e di ritornu in calcatoghiu induv elle apre una scola e induv ellu insignara fin a u 1849  epuca induva tor na     a pulitica u custrigne a  demettesi di e so funzione  eccu e so duglianze  tratte da a so currispundenza   en 1827 ie revins a calcatoggio ou j ouvris mon ecole et ou j a i continue a exercer jusqu en 1849  eboque a laquelle je me vis force par les tracasseries et les persecutions incessantes de l autorite locale de me demettre de mes fonctions    e  u dannu un e iamaniu parchi dui mesi dopu e numinatu a cannelle induve ellu eserciteghia circa cinqu anni   ou j a i fonctionne  sic  jusqu e 1854     in quella annata   amalatusi  fu custrettu di dumanda un congediu di un annu  ma un esgendu guaritu in si breve tempu  luigi antone gentili si vide rimpiazzatu in cannelle e  un vulendu accitta un postu alluntanatu  abbanduno una funzione chi ellu riempia dipoi vint anni  u guvernu un li tense contu di sti quatiru lustri di servizi e un fu che ne u 1864 chi ella li fu accurdata  soiu forma di gratificazione  una mudestissima pinzione   bonu sposu  si era amugliatu ne u 1844 cu mariana paravisini di e cannelle  e bone padre di famiglia  ebbe quattro masci e tre femine  fu onoratu di la amicizia di li omi di marca di u so tempu   i galloni di istria  i multedo  li abbatucci  i monsign casanelli di istria  ec   da giovanu  ardente  e  certu  ambiziunosu un firmede micca stranieru a e briglie locale e  appena iuntu a la eta di vinti tre anni u videmu cunsigliere municipale di u so paese    7 quandu principio a puetizza le anfarte calcatughiese  sicuramente di bunissim ora parchi tra i manuscritti chi no avemu avutu in manu avemu scupartu un ode a carlu x   a so opara  tutta in schiettu italianu  e varia e folta cume una macchia  gentili ha curatu cun ugual amore ogni genare   poemi  sunelti  brindisi  canzoni  ode  ditirambi  inni marcanu ogni tapa di a so vita sana   a sta produzione fiurita e pampanuta ci vole ad aghiugne a tradu in le calanche  acquerellu di f  corbellini  zione di le eneide di virgiliu chi a morte li impidi di cunduce a termine e numarosi discorsi  siasi di ricevimenti siasi di inaugurazione   la intera produzione di u pueta di calcatoghiu si e firmata manuscritta  accetiuaia la didone abbandonata  traduzione libera ma fedele del quarto libro dell eneide di virgilio marone poemetto in ottava rima diviso in tre canti  stu poemetto vide a luce in aiaeciu in dui opusculi  u prima  canto i  surti da i torchi di giuseppe pompeani ne u 1882  u sicondu  canti 11  ini  fu stampatu da santo massel ne u 1888   eccu a prima uttava di sta fedelissima traduzione chi avaria duvutu desta a curiosila di i letterati di a penisula    canto la bella e nobile didone   che lasciando la patria e il rio germano  fondo la alta cartago  e al pio campione die il consorte il dolce nome invano   che  quando  ad onta dell ostil gianone nascer dovendo il popolo romano   giove il prence trojan da lei divise   cieca di cruccio  e di dolor si uccise   eccu ancora i primi filari di ii narciso  poema in tre canti   canto narciso altier  cui l esser bello fe disprezzar perfin le de e del cielo   amor invan tento quel cor ruliello   lo punse invan col piu potente telo allin sdegnato vendicossi  e l empio fu dell orgoglio suo misero esempio   un pudemu in si breve studiu impostuci da a piazza chi ci po esse cunceduta da a nostra cara muvra  melte sottu a li occhi allusingatu di u lettore altri brani di e so rime  sara que u scopu di un volumettu gia in preparazione  i  u nostru articulu un e ca un prima e umile omaggiu a u calcatughiese luigi antone gentili  gran corsu e gran pueta  chi  in tempi ormai sfuggiti  apri u so core e  da e rupe asprose chi trafalanu versu i scogli di orcinu  lascio scula  in toscane sonorita  u dolce arpeggiamentu di un itaca cetra  
+  s
+    </p>
+    <docAuthor>
+     P. di B.
+    </docAuthor>
+   </div>
+   <div n="4" type="poe" xml:lang="co">
+    <p>
+     troppu pena   o cirnu vanu a te lull i penseri di lu to scunsulatu figtiolu    chi acciacalu da jorni duri e neri  slringhie piegnendu lu so core in dolu   o cirnu  a te vanu in foltu volu trafranchendu sl orizzonii strangieri   a te vanu li mio voli sinceri   postu chi io devu sta luntanu e solu    ma deh  invanu la mio voce chiana  ciel di cirnu  pruleggi la mio mamma  e la si dolce fidanzata cara   e pene di la orrenda luntananza x  mi lacanu quantunque la speranza   di vene a dorme chiusu in la to farra 
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="5" type="art" xml:lang="fr">
+    <p>
+     contre le bon sens le sous secretaire d etat de la marine marchande avait sans mot dire depose sur le bureau de la chambre je projet de convezlion sur les services maritimes postaux de lu corse  li avail loujours ele de regle de prendre avant d elaborer une telle convention l'avis des chambres de commerce de la corse cetle facon d agir etait frappee au coin du pur bon sens  le ministere de la marine avec son sous secretaire resident a paris ils n onl par consequent qu une nolion fort inexacte de nos besoins et de noire situalion la corse est une region a part elle a des exigences qu il faut bieh comprendre si en ne veut pas ravailler a sa ruine la mer qui nous separe du contineni nous cree uns situation toute parti culiere elle nous isole du monde en tier voila pourquoi la convention qui doit nous rattacher a la metropole doit etre disculee et signee en connaissance de cause et nullement a l aveuglette   or le minisire qui de par sa fonction doit representer el faire valoir nos intereis est bien oklige de pui ser dans ses bureaux les renscignements qui ini sont necessaires son adminisiration peut avoir ele induite en erreur nourrir un' faible pour la compagnie concessionnaire du avoir une notion plus qu insuffisante de noire' etat l'amelicration de notre malbeuseuse silualion esi d ailleurs le moindre de ses soucis les bureaux ne se preoccupent que de rea liser coute que coute des economies meme conire les bons sens et au detriment de nos interets les plus evidents et c est la l unique source du le ministre puise es renseignemenis  les chambres de commerce connaissent au contraire la question a fond e les se composent d hommes du metier qui passent leur vie dans le commerce qui confiaissent parfaitement les difficultes qu rendent difficile l exercice de leur profession et par conire tout ce qui peut faciliter leur tache constamment sur la breclie ils sont au courant des moindres petits details ils savent de la facon ja plus sure ce que peut causer de mal la supression d'un seul courrier l elevation des tarifs le reiard dans le transport de certaines categories de marchandises etant done dans leur element les chambres de commerce n eprouveni aucune difficulte a fournir au ministre des renseignements de la plus rigourense exactitude elles ont au surplus tout interet a mener les choses a bien puisqu en s aitachant a obienir de la compagnie corcessionpairo des condilions avaniageuses elles travaillent pour le triomphe de leur propre causc se priver d unctelle collaboration n est ce donc pas vouloir marcher les yeux bien bandes sur une route semee de precipices  on a toujours d ailleurs reconnu la necessite de recourir a une pareille collaboration on n a en effei jamais procede au yfenouvellemeni de la convention sur les services maritimes postaux de la corse sans prendre l avis de nos chambres de commeree c est cette annee seulement qu on a voulu modifier celle facon d agir sans consalter les personnes les plus inleressees a une pareille affaire la compagnie concessionnaire ne manquera pas de soigner ses propres inierets sans nullement se soucier de ceux de notre depariement la corse sera encore une fois vacriliee pour permetire a des gens d affaire d exercer plus aisement ct plus lucrativement leur metier  la chambre de commerce de bastia a il est vrai transforme en deliberation le rapport de son president pour en envoyer une copie aux representanis de la corse c est encore la une fiche de consolation nos deputes et nos senalcurs ne man queront sans doule pas de s agiler ce ne sera pas croyez le bien pour soutenir el defendre nos interet mais pour preparer a la propostion de la chambre de commerce de bastia un enterrement de premiere classe  povera corsica non avrai mai bene  disait autrefois le pere de ia palrie cela esi surtout vrai aujourd hui
+    </p>
+    <docAuthor>
+     Pierre Ignotus
+    </docAuthor>
+   </div>
+   <div n="6" type="art" xml:lang="co">
+    <p>
+     quessa e farina di u te saccu  bisogna a di subitu chi u cappa di quale si parla qui un e micca quellu di casamacciuli  chi e mortu trefit anni fa  requiein eterna  quellu chi intervene qui e bivu esi porta be e si ne sta a u sole a u ponte di tuarelli  in falasorma  e per furtuna  o per disgrazia  ha per bicinu un certu muzzone chi face listessu mistieru ca ellu   tutte dui bendenu qualche bicchieru a i passaggeri   i clienti piu assidui di lu unu e di lu altru eranu casarumani  mantillinu  cirbone e qualchi bolta ciccatone  tutti pidone di posta  chi fitulari e chi ausiliarii   cirbone chi amusava i passaggeri e u povaru murasto  quand ellu facia u serviziu da galeria a luzzipe u  ava chi e cambiatu  face u  serviziu da galeria a u ponte di tuarelli quandu in cabriule  quandu in bicicletta e qualchi bolta a pedi   a distanza da galeria a tuarelli e di ondici chilometri  e dopu ave distribuitu  a u mulinu di u fangu  u currieru di cannesi  cirbone ha u tempu di arrangia qualchi burla pa i so cullega e per li usteriaghj di u ponte   i  fra tant alire  tutte ben arrangiate e ben  dette  cirbone  un ghiornu si amuso a fa una burla a cappa  e li rappurto chi un so  clienti galeriacciu  dopu ave betu ds ellu  era andatu in la altra usteria di muzzone   e cula avia dettu chi un avaria piu  betu inde cappa  parchi lucabella  a so moglia  pigliava la acqua a u traghiettu di u vescu  duve e donne lavanu i so panni e ci facenu ancu qualch altra cosa   cappa  azzargatu  ci disse          cirbo  quessa e farina di u to  saccu  
+  s
+    </p>
+    <docAuthor>
+     Ghiuvan-Paulu
+    </docAuthor>
+   </div>
+   <div n="7" type="let" xml:lang="fr">
+    <p>
+     rabat le 6 mars 1926 cher monsieur rocca  j ai recu vos envois d almanachs je vous enverrai l argent avec celui des cartes que je ai pas encore toutes vendues mais j espere que ce sera chose faite dans une quinzaine de jours j ai encore recueilli quelques abonnementis  faites du bruit beaucoup car il est inadmissible que nous soyons nous traites en parents pauores alors qu ici on depense des millions pour l embellissement des villes et pour la salubrite du pays  dire que le maroc qui etait il y a cinq ans le pays d election du paludisme est aujourd hui completement salubre alors que nos parents meurent chaque annee par la malaria et continueront a mourir par la faute de qui vous savez  c est ignoble ef je me demande pourquoi tant de patience alors que cela seroit si simple   ah si vous voyez les belles routes qui sillonnent ce pays les multiples ecoles qui y soni creees chaque annee les dispensaires pour les juifs et les arabes les ecoles militaires pepinieres de futurs officiers qui un beau jour janqueront dehors leurs insiructeurs a  et vous tolerez vous en corse nous tolerons que lon nous refuse quelques credits pour les ameliorations urgentes a faire    mais alors notre histoire n est qu un moi    paoli sampiero sambucuccio n oni done jamais existe  ah quec esi penible cher monsieur d assister a pareille detresse car moi je n aime pas mon pays je l adore et je donnerais volonfiers ma vie pour son juste relevement     enrayer l exode journalier vers le continent ei le mirage des terres lointaines voila ce que j appelle servir son pays     mais je m apercois que ma lettre prend l allure d un journal aussi en vous priant d excuser la longueur de ma missive veuillez recevoir l expression de mes sentiments immuablemeni corses   a vous
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="8" type="his" xml:lang="co">
+    <p>
+     la antigona corsa   seguitu     un circa mancu  se incapace di suspitta a pervesita di i putenti  e e raghione di u duveri chi diu impon a li omi di rifurma un mondu induva satanassu li tene testa  credi tu chi ellu sia satanassu chi ci cumanda di bunifica i cori di i so schiavi  e chi a duttrina di u maladettu possa fa nascia i martiri   tocchi da a manu di diu chi castica i prediletti  oghj un semu piu ca criminali  cundannati a li ultimi supplizii   ma a cennara di u nostru lignaghiu assuara a terra nativa  e merce a lu esempiu datu da i fratelli giovannali  u populu corsu un stancara mai di rivindica a so indipendenza     u jornu dopu  squatroni di suldati accamponi u paesi  chi par l in  zecca  chi par a bocca di santu petru  di e rosse  postu un pocu piu sopra  e di altri  pe a bocca di a sorba  i primmi junti corsinu versu a bocca di verde e si impustonu ne a furesta di marmanu  a u limitu di a nevi ci un purtava alcuna traccia di ped umanu  erani dunqua cert e sicuri di ave tagliatu i passi a a piccula banda di i fughjiticci   o le facce dispiacevule chi avianu sti sbirri   e chi bizzarri vestimenti di suldati   capu rasatu  pelle bruna  occhj bassi  risa crudele  passu traditu  barretta grisgia  fatia diu pannu u piu rozzu  un mantillottu cun fasce a e jambe di listessu culore e di listessa roba  un si assumigliavani mancu par ombra a ti omi di guerra chi si vedini in certe catedrali   sti sbirri sultantu  eran armati di arbaletti forche  e tutti  purtavan a la cinta  un grossu pugnale senza batta  5  a so prisenza fu festigiata da e vecchie  dunnaciole fanatiche chi cupriani di applausi i vincitori di la eresia ma un tardo a ghjtta a custernazione in paesi   spugliavani li abitanti cu a scu sa di assicurassi si ell un ci erani i giovannali  ziricavani  po imprighiunavani li omi a u minim attu di scuntintezza  e ne mancu si privavanu di mulesta e donne in tutte e manere ancu e piu bruttali  ben chi ellu si fuss intrati in la sittimana santa  un si facian alcun scopu di magna a carne di li animali arrubbati a i bujatteri e a i pastori  di manera chi  si par casu  i giovannali eran affaccati a lu impruvisu  e abbastanza numarosi par riprincipia a battaglia contru simili guardiani di a fedi  tant e tanti cristiani  cunvinti e sinceri  avarianu prigatue forz ajutatu a u trionfu di li eritici  ma a causa di i rinuvatori era persa senz appellu       tantu pocu disposti chi i  spiriti fussini in stu paesi generosu ad ajuta in le so ricerche sta milizia barbara  un passo u jovi santu senza ci un zitellu un scuprissi a casa  u rifuggiu  di i giovannali e  subitu  a notte dopu  a grotta fu accampata  si avia da vede  di certu pe a prima volta  i suldati cristiani fa corre u sangue umanu u jornu  di a morte di u redentore   quella notte  comme tuite e notte scorse  annunziata si era seontra cun angelico a la tomba di a famiglia  e cula chi u giovannali ricivia da e mani di a surella a pruvista quotidiana di i pruscritti  ma sta volta  a jerbula pisava   ci era a pruvista di a sittimana parchi nunzia ghiudicava prudent e necessariu  di interrompa sti scontri notturni  attesu i rumori chi currian in paesi e chi di erani junti a le arecchie   li addii fannu piu tennari e piu prulungati ca mai  e u presentimentu di una disgrazia piu prufondu  si erani separati cun pena  e dopu chi a stella mattutina era sparita a le orizonte  angelico par riturna a u so piattatoghiu induppiava di  prudenza  ammutulia u rumore di i so  passi  fughia i punti schiariti da luna  era sempre sottu a  la ombra di a furesia a quattru passi di una di e due intrate di u suttaraniu  quan  du si vidi circundatu in un bottu di omi armati di piottuli luccichenj  di farru   a voce bassa  u missenu in dimora di rendasi senza cundi  zione  se    guardatev o frateili  u nemicu  e qui  grido curaghiosamente u  giovannali  ma  subitu casca  tra  paratu di parte in parte e in parecchj loghi   i giovannali  avertiti  si priparo  ni a mora da suldati e a vende a so vita a prezzu di sangue  ma li altri truvon un mezzu sicuru di vinciali senza periculu  chi a gloria un lim  purtava  un lignaghiu piattava lin trata principale di a grotta   gi mis sini focu per affumicalli come vol  pi ne a tana   cusi furzavani li assi  diati a circa di scappa par l altr in   trata  senza speranza  ben intesu  infatti  accicati da u fume  sti scia  gurati  lampendusi a la cieca contr una sepe di arme pinzute e tagljve  un fecenu  ca offra a cannella a a boja       la alba nascente schiari la angunia di e vittime  ad altu jornu funu cacciati di a furesta e appughiati di punt a u paesi  a u muru di a cas  tagniccia chi inturniava a tomba di i rosazia  di  era statu dicisu  par tempu  ci un bastava  per sti scuminicati di essa indegni di ripusa in terra santa   duvian essa abbandunati a i corbi o brusgiati parchi e so cenare fus sinu $parse da i venti 
+  s
+    </p>
+    <docAuthor>
+     Rampinu
+    </docAuthor>
+   </div>
+   <div n="9" type="art" xml:lang="fr">
+    <p>
+     que veut la corse  a cote de l histoire le parler e quand l histoire et la langue revivent chez un peuple on peut croire a sa vitalite  le grand merite de santu casanova polemiste ct ecrivain de talent aura ete de forcer1es corses a s interesser a leur dialecte en leur offrant le regal de sa prose caustique et mordante il aura reussi la difficile gageure de ranimer en nous si sceptiques a l epoque le gout de notre parler que nous allions perdre irremediablement sans l arrivee de ce fhaumaturge qui l a ressuscite  n omettons pas non plus de signaler l effort meritoire de petru vattelapesca p lucciana  auteur de tant de comedies savonreuses et mordantes aujourd hui injustement dedaignees parallelement a ziu santuil a fait oeuvre dialectale utile un seul regret a son endroit  qu il ait cru bon de se borner a ecrire un sous dialecte incapable de representer selon nous malgre sa saveur et sa verdeur le dialecte plus generalement employe en corse   les semailles etaient faites dans le vaste champ historique et litteraire de notre pays semailles qui ne devaient pas tarder a donner des resultats  petru lucciana dont nous avons signale l ceuvre si importante fondait en 1904 la societe cirnea qui publiait un bulletin  cirno ollagnier et piaggi edit  mais en rgo8 lucciana dispareissait et avec lui la societe dontil etait l animateur  a ce meme moment la societe des sciences historiques elle meme est en pleine crise  jusqu en 1913 rien on aurait pu croire a une faillite totale de ces idees a une lassitude generale des esprits qui n est pas a notre honneur  les premiers symptomes d une renaissance de ces idees vers cette epoque nous sont fournis par la publication de l opuscule capital de petru rocca les corses devant l anthropologie paris gamber 1913  et par la publication d un journal a tendances timidement regionalistes la renaissance de la corse ou pourtant joseph ferrandi mena le premier une campagne pour l erection d un monument a pontendvu  enfin avril 1914 est une date des calendes corsistes a retenir  elle marque la parution de a cispra de saveriu paoli et t versini la preface de cette revue est un veritable manifeste regionaliste precis clair concis le probleme corse y est courageusement et lucidement expose a cispra merite d'etre le breviaire de tout bon corse 1   4 c est au milieu de la veulerie generale que s paoli a jete son cri angoisse qui s est repercute dans l ile endormie ou les ondes qu il a produites semblent entore y resonner comme celles d un colombo vengeur  enfin on se reveillait les annees precedentes n avaient ete que des annees d incubation mais helas  la guerre allait disperser tant de nobles projets elle emporta tout et tous dans la tourmente aussi jusqu en 1918 les esprits sont ils tenus en haleine par le fleau le revirement qui allait s operer dans les esprits sous la double influence de a cispra et de l opuscule de petru rocca est interrompu observons d ailleurs que cet arret est momentane et qu il prelude a l eclosion et a l entier epanouissement de ces memes idees epanouissement qui se fera apres les hostilites  cette periode de tension des esprits a ete favorable a la germination de ces graines que le prevoyant genie des precurseurs avait semees  a muvra en 1920 a paris la revue de la corse parait simultanement a a muvra  mais c est a a muvra exclusivement que revient l honneur d avoir cree et developpe une doctrine politique a la mesure de nos besoins  le corsisme dont nous examinerons plus loin les caracteres  c est a muora qui a repris avec une force singuliere et en leur insufflant une vie nouvelle les theories de a cispra qui sont d ailleurs celles memes de petru rocca dans les corses devant l anthropologie   c est a muvra qui aura cu l honneur de susciter ce mouvement d opinion qui de jour en jour gagne chacun de proche en proche   c est elle qui aura preside a l eclosion de tant de publications regionalistes corollaire indispensable de toute vie regionale  c esta a muvra secondee par u partitu corsu d azione que revient le grand merite d avoir ele ve la croix du souvenir a pontenovu acte de foi acte symbolique de courage aussi autant que de piete plein de germes d avenir
+    </p>
+    <docAuthor>
+     Matteu Cirnensi
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="it">
+    <p>
+     a lucianu battestini  encomio al  poeta chi in versi si belli  richiama a dovere li incavli fratelli che lascian la patria per cielo stranier   oh quanto soavi  ob quanto sensali  suoi detti trovai di amore animati  ob quanto mi destano al cnore piacer   o voi chi alla muvra recate alimento  invece di paglia che via porta il vento  porgetegli il pane che presta vigor   tu nostro compagno lo esempio ha gia dato  il quale di noi non fu innamorata di quei sentimenti di alto valor   come jui trattiamo soggetti di peso  ecerto i lettori chi havranno compreso diranno in lor stessi  e vero  e cosi   intanto  o poeta  gradisci ll saluto di un tuo amiratore che qui sta perdulo e spetta tnoi canli se vengon ben si 
+  s
+    </p>
+    <docAuthor>
+     U Falcu
+    </docAuthor>
+   </div>
+   <div n="11" type="feu" xml:lang="it">
+    <p>
+     che raffaelle giustiniani litigo co  fratelli ornani per la taglia messa sul capo di sampiero   milleotiocento scudi toccarono per sentenza agli ornani  ma raffaelle non si acquieto al giudicato  e ricorso in appello  oltre i dugento scudi chiese il decimo sopra i mileottocento assegnati ai suoi avversari  come andasse cotesta infamia a finire io non lo so  questo so bene  che a genova non se ne vergognavano  in effetto di che cosa avevano a vergognarsi i genovesi   considerando essi i delitti negozi mercantili come gli altri  qual  maraviglia se nella maniera medesima li trattassero   pero la e cosa piena di amarezza infinita  osservare come la avarizia e la cupidita giungano a spegnere la coscienza non pure dei presenti  ma dei futuri eziandio  non pure dei partecipi al misfatto  bensi degli altri i quali o per  mitezza di discipline  o per religione di ufficio  ed anco per trascorso di tempo dovrieno mostrarsi piu giusti  corsi il casoni non aborrisce dettare  queste empie parole  che la strage del sampiero fu evento molto favorevole alla repubblica permesso da dio per sollievo e per quiete dei corsi  e quasi gli paresse poco  a ribadire la empieta  piu oltre aferma  che alcuni di prudente e circospetta natura conobbero che dio con questa morte pareva che manifestamente favorisse la causa della repubblica  alfonso  figliolo di sampiero  sostenuta un pezzo la contesa piuttosto con virtu che con fortuna  ebbe alla per fine a capi  tolare   molti patti egli pose alla resa  e molti la repubblica gliene promise  ma fuori dal concedere a lui e a stoi compagni di esilio di menare con esso loro un cavallo e parecchi cani per uomo  sembra che gli altri o non osservassero od osservassero poco   e perche la guerra tirava alla fine  i genovesi per illustrarla con tale un fatto che togliesse ai posteri la speranza di potere  non che superare  uguagliare la loro virtu  fecero questo  lionardo da casanuova   tornato di francia dove si era condotto perla quinta volia  in cerca di soccorso  casca in potesta dei genovesi  i quali 1o condannano a morte  antonpadovano  recatosi alla bastia con una faniesca nel disegno di liberarlo  ottiene facolta per la fante di visitare lionardo   la quale cosa facendo la donna quotidianamente  ed anco talora lo stesso giorno piu volte  opera in modo che le guardie rallentino la consueta dihgenza  allora antonpadovano pi glia le vesti della fantesca  e penetrato nella carcere  persuade il padre a salvarsi in abito donnesco  veramente lionardo tentenno un pezzo  poi lascio svolgersi dalle parole del figliuolo  che si sforzava capacitarlo com egli innocente  ed infiammato di carita filiale  non corresse pericolo o poco  anzi meritava premio  e non glielo negarono i genovesi  no in fede di dio non glielo negarono  pero che ordinassero   il giovane antonpadovano ad una finestra della casa paterna di venaco si impicchi  la casa  dopo lui morto  si abbruci   al fine delle sue parole il frate abbasso la voce   comecche brontolasse sempre corrucciato  cosi il fragore del tuono per allontanarsi non cessa atterrire i petti dei mortali  in ultimo il tuono si spense sopra le labbre frementi di lui  allora si nascose la faccia dentro le mani  nessuno vide se pianse  o dio solo conobbe le sue lacrime secrete  e certo un giorno vorra retribuirgliene il merito in palese  di un tratto il frate  dopo alcuna pausa  sorse risoluto in piedi  e favello    si    basta  il restoad un altra volta  per oggi io non ne posso piu   e trovata a tastoni la scaletta  che menava sopra la coperta  prese a salirla  il signor giacomo  dondolando a furia la scatola fra le dita  esclaitava      bene  benissimo  ma sapete signor alando  che cotesto vostra signor frate    come lo chiamate   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330896c
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330896c
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 345 | Année 10
+     </edition>
+     <date>
+      1929-02-17
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     SE _ Moses à ne Fece a Dumenica ©» "Dumenica 17 Ferraghiu 1929  Annu X — Numaru 345 Esce a Dumenica Dumenica 17 t'etrag 929   GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI:  In Corsica. . . . . +0... + 15 franchi  In Francia. . 4 + ........ 18 »  Unione postale . . . « + ~~. . . . 80 »  U Numaru:5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  38, Corsu Grandval 38. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     parla poincare  lu omu chi scaccaneghia in  li campusanti e chi ha innalzatu la ingiuria a la alta cundizione di modu di guverna  ha espostu  cu sfacciatezza  a un  assemblea di scarsi di cuscenza e di ignuranti u problema di e minuranze naziunale accumudatu in salza tricolore   lascieremu li alsaziani  linguuti quant ed ellu  oppone un fasciu di verita a u mazzulu di buggie di u nanu di sampigny e  per una volta  faremu da egoisti  accapenduci solamente di risponde cun una curnata muvrina a e pizzicate di u presidente di u cunsigliu chi vene di occupa u postu di u publicu ministeru davant a a  camera di i camerati  riunita in alta corte inquisituriale   u barbazzutu lorenu  mastuchendu a so rabbia di vede sgambitta in quella mandria chi ellu cridia zeppula a sciocche manse  ha mintuatu in lu so fantasmagoricu rumanzu a muvra e u p  ci  a   senza dimentica u nostru direttore   lu epiletticu sciovinu ha pigliatu a so contu tutt e fole sporche  tutt i raconti schifosi stampati da i so giurnali o sparsi a voce da iso agenti diffamatori   a so tesi maestra  puntillata da un duplice spirtu e amatiunata di furberia e stata questa   i muvimenti  separatisti  so stati creati a berlinu  eccuti e so proprie parole     appare chiaramente chi u partitu autonomista brettone e natu in alsazia  almenu chi ellu un sia natu piu luntanu   ne le assuciazione pangermaniste     dast affirmazione  sguillendu pian pianinu  poincare amento a minuranza corsa   disgraziatamente  pe u demagogicu mazzacane  a paratina e stata male incalcinata  e a so vituperosa predica torna in fume ci un esame superficiale   difatti  per ciocchi riguarda a brettagna  ci vole ad esse di mente fosca o di malafede per un sape chi da un mezzu seculu esiste in quellu anticu paese  aggregatu cu a viulenza  una catena non interrotta di pruteste e di azione autonomiste  passendu per le assuciazione brettona di u sicondu imperu  i regionalisti di a fine di u seculu xix  i nazionalisti di u 1911 e vattuale  strollad emrenerien vreiz   in quant  a la isula persa  u sgio poincare un sugnava ancora a ricunquista le oltre vosgi chi la idea di una difterenziazione di razza tasanava molti cumpatriotti  ramintemu u libru di petru rocca   les corses devant le anthropologie   publicatu in parigi in lu  1913  e a  cispra  di u sciaguratu saveriu paoli chi  in lu  1914  dava u volu a la altagna di la autonomia  didipiu  a nascita di u nostru giurnale tracolla a u principiu di u 192o  mentre chi i primi motti alsaziani un so che di u 1924 echiu   partitu autonomista di alsazia  unn e statu custituitu che in lu 1927    quessu e un memento cronologicu chi un duvaria mai  sorte da u chiucchinu di i mantenuti di marianna  eppoi  ecci bisognu di tant abbinte per ave una naturale spiegazione di e tendenze di quelli chi  in corsica  hanu sempre un igniccula di le onore di li antichi    chi u   presidente   un cerchipiu i quattru pedi a u muntone i so velenosi e puzzulentiargumenti ponu esse cibu bastante pe i lettori di u  temps  o di u  journal des debats   ma  giamai un fara crede a u mondu intieru a lu agguatu chi a mancia tedesca po da a spiegazione di a prutesta cursista  di altronde  cu stu puntu di vista di opportunita  le eroe di bordeaux lascia a gambe a la aria i so sbirri giurnalisti chi banu avutu sin ad oghie per cunsegna di unn ave in punta di penna che alira  la italia e mussolini   i fattori chi danu u narbu a un muvimentu cume u nostru u capu diu guvernu francese i cunosce cume nai  so di ordine etnicu  storicu  sociale  linguisticu  economicu  morale    e ancu geograficu    per accitta lu indegnu sfatuquo ci tuccaria a rinnega sterpa e parlata  a smentica i vistuti di pelone di ponteriovu e a vive di disprezzu  di miseria e di servitu   ma semu sicuri chi i  rappresentanti  di u nostru   dipartimentu   unn hanu ancu pussutu fa crede a u gran lorenu chi u populu di pasquale paoli sia cascatu in simile infamia 
+  s
+    </p>
+    <docAuthor>
+     A. F. Franchi
+    </docAuthor>
+   </div>
+   <div n="2" type="let" xml:lang="co">
+    <p>
+     lettera di aleria  caru cumpare   bi mandu quattru filari da lu estremu puntu di a costa orientale  da quellu locu famosu duve   tramoria citta  butulendu un lagnu   aleria ne sta     cumu mi trovu per sti piani   chi bentu mi ci purto   pocu impreme    un ghiornu freddu di jennaghiu  mi colsi annant a trinnighellu  dicendumi in core   ci mettera lu asgiu    ma  cu a pazienza di i frati  eredu chi ellu mi jugnera a portu   dopu una mezza jurnata di azzega e ponta  di fischi e di ripusate  una voce chiamo puru puru  aleria  aleria   mi scavalou e cercu a bede e case di a cilta paese     di case  caru cumpare  un ci ne era che una sola  arremb a uni pochi di ezcalvptus  quella di a gara  cu u nome in fronle     cumu   dumandai  e iutta que aleria   e    chi tu perdi le orizzonie   mi rispose una curnacchia  qui ghie a gara  u paese  millu custindi  in  ssa cuccula  quessu  cu u campanile  e u forte  lu altru sbianchisgiume  a diritta  e casabianda  quagghio  ssi casoni rossi  u cateraghiu     allora  perche un mi ci porti  o trinnighe      ti ci purteria vulenteri  disse ridoni bocchi neru  ma un possu sghiglia di qui  e seria anch eiu euriosu di ficca u nasu ind e famose puvine di a capitale rumana di cirnu  piene di tesori  ma chi boli  a sorte nera e cusi   eiu un so scalatu in corsica  per basgia paesi   locca ad elli a bene a hasgiammi  eppo   unn hanu abbastanza  chi mi sentenu fischia cume un disperatu    e turno a fischia  fendu scappa le aciartule  e si tiro all inda   fuiu dunque custrettu ad appruda ghiambe  a curnacchia  per tenemi cumpagnia  si messe a pidighia accanin a me  chiacchierendu  cume cummare razia mapia  quand ella ha unasu in focu  i    a momenti ci simu  a strada e bella dirilta  u vedi u to tagnone duv ellu ingonfia u spinu di argentu  ci so e trute di libbra    eccu u pianu a calviani     ah anh   quellu pianu chi si ne parla tantu       16  dice ancu u pruverbiu  a saperei lu  i  ogni corsu ha una lenza in calviani  7  ci ne hanu tutti qualcusella  ci e ancu a lo fella    cro  cro  cro  milla in ss origiali e u lre pali arrittic una piuma bianca a testa di moru chi sbattuleghia all aria tra i pali ci e un palmu di biada rispellalu per meraculu da u magnazzone   alzai lu occhiu e sculinai a cosa lale e quale  mi parse ancu di vede chi i pali eranu presi e avianu fallu una cacciata  e   criderete chi io contu fole   ma inno  poi    accantu  aghiu vislu  ancu a vostra lenza  o cumpa  stretta strelta  ci era dentru una muora chi pascia la arba  e vicinu  tre ghiagheri tecchj distigherati  per tutte le altre lenze un si scurgia che pecure e muntoni in banda chi stavanu  acapu calalu  le iglie mezze biote  cume rassegnaie a u so distinu    cro cro  u ponte a tavignani  mi indettava a mio cumpagna  accantu  u cateraghiu   u vedi  ci so e belle case  cent anni fa  ci siavanu i ladri chi arrubavanu fasgioli  di notte  e   ancu    fune cu boj liati  un predicatore l ammestico tulli  in tempu di jubileiu  tutt e sere  cumenciava a so predica  buciendu    cateraggio  cateraggio  caterrazza dell inferno   dipoi hanu cambiatu tempu e ghiente  quelli di ava so boni e bravi e sterianu megliu si ellu un fussinu e zinzalaccie sterpamondu     chi so sti muraglioni cusi alti     la accinta di la anlica citta  agguarda sli pezzi di malloni e di marmeru e porfiriu  so tulle cose rumane    eccu davanli a noi e ruvine di santa laurina  una chiesa di i primi seculi  sta bella casa quadra si chiama casa gavini  e tuttu cio chi tu scorpri da qui  sta cullina  sla bella pendita  a passa verdi casabianda  era a citta di aleria   aleria  di punta a roma   i vecchi tomba  i zitelli doma   ava poi  camina da per te  ti lasciu  e bonu suggiornu  cro cro cro   fermalumi solu  mi ne cullai per quelli chiosi pieni di ricordi  arca  immensa e musole u di a regina  mill anni tense u scetru in manu quella chi fu capu di a civilta corsa e fuculare di cristianesimu  qui  in foce di tavignani  barconu e vele di i navigatori fenici  in lu annu cinque centu nanzu cristu  custi  in orlu a u slagnu di diana lra e muntagne di poslrice sbarconu e trireme di roma  caput mundi  e legione vittoriose di silla chi alzonu i palazzi  e sottu i mio pedi  quantu splendori sepolli  tempj e chiese e casamenti di ogni sorte  roba preziosa  ghjenie gloriosa  principi e capitani  omi liberi e schiavi   sangue corsu e sangue rumanu e sarrucinu  quanlu ne ha betu sta terra  e di tante bellezze  orgogli e ficrezze  chi ci sa piu  un semplici armone di muraglia arrilia  a testa di u papa  ierusalem desolata est  cum ell e precisa a sacra scrillura   a gerusalemme corsa e desolata  e dorme sollu a desolazione e lu infinitu guaiu     facciu ste riflessione pocu a pocu  abbingu u giru di a cullina e ne affaccu nantu a vera punta nuda  tira una iramuniana fresca  u sole luce  lu occhiu scopre un meravigliosu panorama      un contu buggie caru cumpare  dumandate puru a qual bi pare  cume me  bi diceranu   chi unn ha bistu aleria un cunosce a corsica   si mai bi affaccate quinci  u truverete u mio dettu  cridite chi li antichi unn avessinu sale in zucca   ci si intindianu  vi rispondu  a sape sceglie i piu belli punti  per una cilta capitale  a scella un pudia esse piu quenia che in slu locu comudu per ogni cosa  appettu ad aleria  baslia e un lafone  senza orizzonte  remb a un iscogliu  aiacciu e bellissimu  ben inlesu  mae senza terreni ala larga  corti e una furtezza  niente di piu  aleria avia e si ha mare e fiumi  un islagnu vicinu  portu magnificu faltu da matre nalura  duie alzale di terra inariulate e sane  una piana chi si stende da cerbioni a sulinzara  larga di una quindicina di chilometri tra  qui a u pedimonli  da stu tronu a regina aleria bella  incurunala da tulte e magnificenze  scupria i tre  erzi di u so reame  piaghia gialla di spighe mature e di feni  mezzanic di e prime culline e di i paesi  a mezza luna di la alta catena munlagnosa  cu i so pinzi bianchi di neve   u san pelrone  muntagna di cerbioni  monte rutondu e monti curtinesi  monte di oru  punta a paglia  sorba  renosu  monti di fiumorbu  monte incudine  forche  di bavella  era qui  in stu maestosu ricintu  u    granaghiu di roma i qui sbuccava  da ogni falata di cirnu  u legnu  e  mele  u vinu  i oliu  ogni risorza ed ogni merce  da qui ve internu lu influssu  ogni risorza ed ogni i ne cullava versu lu internu lu influssu di u benista e di a civilta  o tempi duv ellu si pudia ripete  1n berita    tana rice a  aleria bella   e oghie  chi si canta  un ne parlemu   di   alerta  aleria   chi unnz ammazza  vituperia    dece case a u forte  qualtru o sei paisoli di tre case e un fornu  persi inde a pianura  una populazione munlagnaghiola di seicenlu anime  u doppiuin cor di inguernu  eccu cio chi figura la antica capitale  runzicata da lu abandonu e da e zinzale  ghiungu cusi  meditendu  a  piazza di u forte  a facciata di u forte genuvese mi mosira una scrizzione recente   fort di aleria  x  de matra  1576  a chiesa  chi pare falla ava mi face cennu di entre e mi prisenia un altra scrizzione  medievale  questa    ambroxius di omessa  episcopus  14oo   almenu cusi mi pare di leghie     ma mi possu bellu sbaglia      entru in chiesa    belluccia sta navata mudesta di prupurzione  cu bilrate culurite  muderne  chi u ventu si incarica di spalanca   santa lucia  san antone  san brancaziu  san luiggi  un immensu quadru sopra a all aliare maggiore  mi danu una sguardala  san marcellu  papa e  martire  lrinneca a so liare a tre cu   rone e rumena u so bastone in ma nu     ti si puru affaccalu  mi disse  stringhiendusi e labbre fine  e un seculu chi io la aspettava   un sai chi no  simu qui peghiu che ind u desertu      un massalla a    scusatemi  gran san marcellu  pensava a boi e hi tengu caru perchi so chi bo  avete suffertu i turmenti per a fede  bi prumettu di vulta piu aspessu in pelegrinaggiu  o bealu san marcellu bi vurria dumanda una hella  razia  si bo  vulissile inlercede  a    senlimu     a  vazia di vede torna biva alesia la morta     ah figliolu caru  chi dumandi  e un bellu meraculone quessu  si iu sapissi quant ellu ci e intarrali  per sli canti  preti  frali  beschi  boni corsi cristiani  chi mi facenu listessa dumanda da seculi e seculi      u piu chi chiama e petru di aleria u primu vescu chi  cu binti solli mandati da u papa fece a catedrale e u battisteru  ci e tanti morti e tanli vivi chi hanu straziatu a so vitaper sta piaghia chi bulerianu  bulerianu   ma  un si po      allora ci abandunate ancu voi     bi abandongu     so i corsi   in generale   chi abandonanu a cristu  e u signore e pocu cuntentu  ti assicuru  un bedi cume elli piglianu i scurtoni chi cascanu in lu infernu e si scordanu di a via di u paradisu  e tu boli chi u granu caschi spulatu in la aghia      allora u deserlu di aleria un fiuriscera mai piu  chi peccatu  sta bella terra   rasca e ricca         si hano u gran tesoru di a fede  chi elli si ne curinu  eppo  un perdinu speranza    alo  si videra  neparlaraghiu quassu cu sanla laurina  santa devota  santa julia  san fiurenzu  e sant  alesandra sauli   dicerei chi u jornu di u sullevu    si abbicina  si cuntentu  ava     cuntentissimu  e bi ne ringraziu  e bi prumeilu chi si io vegu ssu jornu furtunatu  gran san marcellu  a costa orientale sana sana e a corsicatulta vi purteranu in prucessione per tutt i carrughj novi framanti di a citta rinaia  e bi faremu ancu una sialua piu bella tutta in oru quand io surtiu fora  mi parse chi u sole e a terra  umare e i monti di la isula  vullati vers  aleria  cantessinu  cu sonu alegru di mille  campane    aleria  alaria   piu unv ammazza che a miseria   aleria di punta a roma  insacca e insomal  e a vocc in gran sussurru di un populu rispundia    in aleria  fiore di la isula bella   vi chiama e richiama cusi cirneella   da tutte le pieve  un ghiornu di maghiu  da corti  bastia  balagna  pumonie  arrivate in flotta  in pelegrinuggiu   e chi corsu fieru errizzi la fronte  
+  s
+    </p>
+    <docAuthor>
+     Martinu Appinzapalu
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     frischignolu  un sentite la nutizia  chi in corsica stende u volu  hanu tombu a frischignolu  pienghienu parecchj merri e cunsigli generali      si so carchi di penseri   chi finiscenu li annali   francescu maria castelli ha bissu e un sullepu generale pe a castagniccia  ma qualchid unu u piegne e u piegnera  e   piu chi  piegneranu so i so prutetti    x  perche frischignolu era un omu doppiu in tutt i punti     banditu terribile  facia corre usangue per un si o per un no  ha fattu sbirba piu di due cenfu personne  ne ha tomb  ottu o dece  ne ha macuccatu tant altre    atia trima paesi interi  cullerosu  suscettibile   misfidenfe  per una parolla pigliata in traversu  un tenia piu a soia  in somma  frischignolu lescera in pannalidi u banditismu corsu una pagina scritta di sangue  e a corsica ne purtera e piaghe per un pezzu     per contru   nu reghione duve stava  tuttu era tranguillu     in fora di i so  nimici  francescu maria un facia male a nesunu  un si facia mai vede ne a donne ne a zitelli   unn he mai cercu ne solli ne pang  duv ellu cumprava  pagava   ma frischignolu avia un altra faccia e un altra vita   era a so  vita pulitica         mantfenutu da grossi capizzoni  andava sempre ben bestutu e megliu armatu  si ellu patrunizzava un pertitu  a vincita era piu che sicura   secondu u travagliu a fa  tuccava danari  ma a forza di abituassi a stu genere di vita  u banditu diventava piu esigente  mosse finu a  so  candidatura cume deputatu in lu 1924  dipoi stu mumentu  puntu culminente di u so putere  i sd ordini fumu imperiali   merrie lampate all eria  merri imposti da ellu  ghiudici intimuriti a cartucciafe  cummissi di percezzione imposti o cacciati da e so  piazze  era padrone e duminitore  pe  iso boni servizj avia ricevutu  in 1928  trenta mila franchi   e avale  un pianu puliticu era torna in merchia  e ne senfiamu digia u pesu   tuttu gue avia da cresce u contu di i nimici di  frischignolu   parecchj avianu juratu di falli a pelle  si ne era abbistu  e ultimamente quande un so  amicu li parlava sopra a u seriu  li rispose     piu prestu finisce  megliu e perme    diventatu misfidente a lu eccessu  u banditu un puriava piu guide  impancaglitu  a vista accurtava   tristu e addisperatu  perseguitatu da u rimorsu di ave tombu una giuvanotta  girava cume un scemu   face chi  pertitu  pusfiatu forse da  muntagna  una manu vindittera  un si e solamente cuntentata di tiralli a palla e cirbiole  ma la ha cacciatu e trippe per dalle a i cani   ava speremu di vede li alti puliticanti a ricerca di un altru fiero  quale urimpiazzera    7  sera tristamente vera chi ci e una manaccia nera  corsica  chi f addispera    ma  un altra vinditerra la ha dichiaratu la guerra da la matina a la sera 
+  s
+    </p>
+    <docAuthor>
+     Ghiudice
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="fr">
+    <p>
+     le salut par l'autonomie l ecrasanie victoire des candidats aulono misles aux recentes elections de colmar ci d alikirch remet en picine acluulile les pro plemes du federalisme et des minoriles nationales   dos ignorants pretentieux au des jacobins sectaires s obstineni a maintenir une equivoque trampouse ot a creer une confusion impudente qui suppriment toute difference entre la notion de l autonomisme et celle d un separatisme uniquement inspire par lu haine de ia france  tous les esprit eclaires s accordent a considerer la centralisation comme le mal qui ronge les grands elats en general et l elat francais en parliculier sous le second empire le parti republicain n avait pas hesite dans le fameux programme de nancy e stigmatiser l action nefaste du regime unificateur cf a preconiser comme remede la solu tion regionalisle  certes on nous objectera que le regionalisme n est pas l autonomisme  c est une erreur profonde et la federation regionaliste ne nous contredira pas si nous declarons que l idee fondamentale du regionalisme c est la gestion des affaires de la region par la region elle meme l autonomisme n exige pas aulre chose  nous comprenons dans lgs attributions souversines de ja region non seulement tout ce qui regarde son administration propre son budget l utilisation de ses ressources ct de ses richesses naturelles la reglementation de son commerce et de ses douanes mais encore la faculte d organiser librement sur son territoire l enseignement a tous les degres en tenani compte de ses traditions intellecinelles morales et religieuses de son histoire et de sa langue  l etat francais quels que fusseut les gou vernements au pouvoir n a jamais tenu le moindre compte de ces revendications si jegitimes 11 faut chercher la raison d un aveuglement aussi obstine dans l esprit d e galitarisme stupide qui depuis le revolution a guide l action politique de tous les regimes qui de paris ont dicte leurs ordres et donne leurs directives a l ensemble des nationalites constituant la france   des endormeurs dans le but d empecher des realisations utiles nous conseilleni de patienter sous pretexte qu on ne peut du jour au lendemain transformer l'organisetion administrative d un pays ces agents d une propagande interessee ont propose a differentes reprises des systemes plus ou moins efficaces depuis la simple et inoperante deconcentration jusqu a la creation des regions economiques encore plus artificielles que les departements puisqu elles operent des reunions factices de pays parfaitement differenis et que par contre elles en dissocient d autres qui devraient former un tout indivisible et naturel   pour corser sans jeu de mots ces belles heories journalistes prebendes et parlementaires houlevardiers favorisent a qui mienx mieux un faux regionalisme qui consiste a celebrer dans les banquets ou dans des publications chargees de tromper un public facile a abuser les sites naturels les chansonniers de mirlitons baptises grands poetes pour la circonstance et les joueurs de fifre de vieille ou de guimbarde  entre autres choses ces periodiques pretendus regionalistes ont pour tache de chanter en dialectes locaux les bienfaits d un prefet de la republique ou d un compatriote devenu un des piliers vermoulus de la democratie si c est par de pareilles entreprises que l on s evertue a donner le change sur les idees essentiellement saines mais dont les profi teurs du regime oppresseur que nous subissons redonient ja realisation qui meltrait fin a leurs prerogatives injustifiees  par bonheur ces manoenvres auxquelles viennent s ajouter des tentatives de basse police de calomnies et de chantages m ont aucune prise sur un publie dont les yeux se dessillent devant les honteux scandales dont la cause profonde reside dans cette meme centralisation jacobine que nous n avons ja mais cesse de denoncer x les regions qui autrefois eurent une histoire nationale distincte de l histoire de la france ces regions auxquelles la monarchie accorda les privileges de pays d etat et qui ont conserve intacte leur vigoureuse personnelite qui en fait incontestablement des mi norites nationales  alsace bretagne corse flandre catalogne et pays basque d autres meme dont pindiyidualite quoique bien nettement caracterisee a cependant subi pour des raisons diverses un leger effacement lorraine occitanie se sont ressaisies et leur resistance plus ou moins vive suivant les lieux et les races donne tous les espoirs aux autonomistes  geux ci en ces derniers temps ont noue des liens moraux ont confronte leurs aspirations respectives et leurs besoins divers les regions les plus resistantes et par cela meme les pius opprimees nous avons nomme l alsace la bretagne et la corse ont constitue un comite central des minoriles nulionales de france ou chacune d elle est representee par des delegues autorises i l alsace pays de langue et de race germaniques  la bretagne pays de langue et de race celtiques  la corse pays de langue et de race italignes fortes d'un loyalisme largement eprouve sur les champs de bataille arroses du sang de leurs enfants ont un hesoin pressant de voir s epanouir toutes leurs pnissances spirituelles et materielles  tous les moyens de repression que l on cherche a opposer a defaut d arguments rai sonnables a d aussi jusies revendications ne peuvent qu exasperer les sentiments patriotiques des populations et les pousser a des exiremites que nous pourrions ne pas approuver mais que les dirigeants actuels des mouvements dont les intentions sont hors de tout soupcon ne pourraient sans doute plus empecher
+    </p>
+    <docAuthor>
+     D. P. Leonetti
+    </docAuthor>
+   </div>
+   <div n="5" type="his" xml:lang="fr">
+    <p>
+     film du maquis nous savons nous corses dedurs longlemps deja que nous ne ommes pas precisement aimes ur le continent mais on nous apporie que dans certaines villes lu midi a marseille notamment lepuis les derniers attentais comnis par nos compatriotes on ne beut plus nous voir en peinture  dans l echelle des antipathies 10us venons immediatement apres les romanichels dont le dictiontaire dit qu ilssoni des bohemiens vagabonds et les espagnoles crasseuses qui vendent de la dentelle  quand il wwy a pas d agents  tout cela n est pas tres flatteur evidemment mais il nous parait difficile de remonter le courant et cela fait sourire lorsqu une feuiile insulaire dit qu il faut absolument faire changer cet etat d esprit  cest la certainement une tache au dessus des forces humaines autant esperer que poincare accordera un jour des degrevements d impotset collaborera a a muvra  un continental peut en effet douter jusqu a un certain point de l existence de fauves daus les forets equatoriales et de cannibales dans le zoulouland mais ii croit dur comme fer a l etat de sauvagerie des corses  vouloir lui demontrer le contraire equivaut a lui demontrer que l aeronautique francaise n est pas la premiere du monde ei que le lieutenant colonel rousset m esi pas le premier stratege d europe  mieux vaut donc ne pas s attacher a les convaincre et traiter comme ils le meritent ces  civilises qui oni la gentillesse de penser a nous chaque fois qu on assassine gion vole ef qu on escroque
+    </p>
+    <docAuthor>
+     Romanetti
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     sera di invernu  in casa sta tutta la famigliola    chi si pu fa cun ste veghie lamante    ha lu piu chiugu un librettu di scola   a vecchia zia feghia fiure sante   babbu  seriu  si cerca qualchi fola   mamma cosge   babbouc leghie a dante  senza vede chi lu so nasu cola    e mammone chi un sta a fanne tanic  penciuleghia e si succhia una fasgiola   faccie calme  fra noi  nimu manca  in tutt e case  qualchi pullastrone    cridendu di fa be  lu mare franca    noi tenimmu caru lu fucone   a larga tola cun la vecchia panca   a chi l unn  ha paura di u zappone  farina a mette in fornu un li ne manca  e li chiosi un si fermanu da pone   di chi un teme di ave la schiena stanca      stemu in casa  fora lu celu e nern    a neve a stracci zeppi e lenti  cala   a v alare si appoghia un fustu interu   chi babbu ad arrivallu pe la scala   ci messe tutt a forza e spdo  ne beru    si e calli cume piuli sottu a la ala   e si pens a jn corciu furesteru  chi  pe  sse strade  pocu la si sciala   foliu e lu bughiu  e lu ventu e fieru   fieru e lu ventu e fischia e mughia e  ntrona le muraglie da carciula a lu tettu   babbone ha cuminciatu una canzona di i vecchj tempi  e li trema lu pettu    in tutt i cori  ssa voce risona  3  e siemu a sente in religiosu aspeltu   a le pertiche  carche a roba bona   ly fume annoda un turchinu frisgettu   e mette in capu a tutti una curona     a ceppa in lu fucone arde e schioppetta   saltanu e vecchie e si intananu in grate   guai  si un suppulellu di filetta x ci fussi in  sse rie affumatigate   i porrebbi  la nostra cara casetta   in fume andassine in quatiru spalate   o signore  la mio preghera accetia   e fa chi ste muraglie runzicate un cunoscanu focu ne saetta    e chi la to bonta suprema faccia sta luntanu u bisognu e li malanni   preservaci di i mali  di a jentaccia   di i disaccordi e di tutti li affanni    chi a tutti ci fiurisca risa in faccia  leggeri sianu a li vecchj li anni   e sempre a lu mal  si possa fa caccia  dacci la grazia di fa vecchj panni   e di seguita sempre la to traccia   ava la banda intera penciuleghia   tutti li occhj si impeggianu di sonnu   babbu si stinza e bocchipenzuleghia   mammone  freddulosa in lu so scornu  pens a lu leitu e si scalla una teghja  babbone apre una bocca cume un fornu   u piu chiugu chi chiama e nizzuleghia dice a mamma chi e ghjuntu lu so tornu   ellu in primu rompera la veghia     toccamanate  basgi  a bona notte  si accantanu carreghe  scarpi e   botte    mamma spegne lu focu e la lumera   a porta  li purtelli so ben  chiusi   tutti ramori morenu  cunfusi   u sonnu invoglie tuttu   bona sera 
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="7" type="poe" xml:lang="co">
+    <p>
+     capi e    capi   a yamicu   fleca nast     u capi macchia di u mio paese   sempre ratacchia in modu curlese   quand ellu sorle   marchia ridendu    le amiche porte ne va pieghiendu   e un bonu strumentu chi un sta mai solu  ha gran talentu   merl acquagnolu   e per cacciassi le ide e nere   ronca pe  i chiassi cum un sumere   in ja grandura ci sporna un pocu   vol fa figura in ogni iocu di esse scortalu da jente fida   da ogni lalu   viva   si grida   e di mistieru   capi pastore   anc a un interru cerca le anore  di a cumpagnia di i so  elettori   stampa buggia pe ave furori   vol esse incensatu cum un patriarca   perch e ben natu e guida a barca di la pulitica   ntercumunale   sta metafisica di lu parziale   vene lu abbrogu   ricoglie a jente   in ogni logu grida si sente   u capurale un vol sta solo   sterebbe male   serebbe in dolu    xe so  serale   oh  chi ticchjna    certe cantate       rima mischina   figlia di vinu   robba di stracciu   fa nu cunfinu   lu vanghigliacciu   di lu stampone un si separa   a ju calzone fatt ha una sbarra   cusi  a calore  u si accherna un pocu  bicin a u core  o a quellu jocu   e cosi  senle u vecchiu chermuglin    e puzzulente   da santavugliu a lu pudore   a y onesta     su stampadore un ci  ol piu sta 
+  s
+    </p>
+    <docAuthor>
+     Sussinu
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     primavera  cantate giojosi amici fideli   risona  di cieli l amor di li chiosi   u nome di diu   piu forte e piu grende  ardende si spende tale acqua ind un riu   e quella gran frase   amatevi  amate    survola contrate  da le amore invase   lu acellu suttile cerc un piattatoghiu  un umile alloghiu piu primaverile   la campana sona   e la aria difonde le note profonde di quieta ciccona   la pasqua gioconda chiama la natura   e me  creatura trista e vagabonda   finche  nde li albori di lu annu nuvellu  rimiri lu acellu  e rimiri i fiori   e questa armunia  bella e infinita   ben prestu mi imbita a fa puesia   anfarte perdutu su lu aridu scogliu   ora mi ricogliu per diventa mutu   guard u labirintu di lu astru lucente   chi per le occidente ne parte scunvintu   sona la campana  la ultima armonia   pensu a te  maria   o stella luntana  
+  s
+    </p>
+    <docAuthor>
+     U Canalincu
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     canti di esiliu  notte di jennaghiu  luce la luna innaurata  sispecchjain laneve bianca  ed in sta fredda nuitata corre a me  anima stanca   nant a le ale di u penseru  fra li nivuli grisgiogni  rapidu  sgualtru e leggeru u me  spirtu corre in sogni   passa  rivene eppoi pianta  poi  riparte come u ventu  mentre u tristu core cania u so  solitu lamentu   duve sci  tu  o cara   duve so i to  bell occhi   ava  sottu a luna chiara  chiamenduti  so in gbjnocchj    ma nun senti la me  voce   nun senti a voce implorenie  signor  diu   la me  croce quantu la feste pesante    la luna innaurata luce     a me  alma va currendu   facciu la me  via cruce e a gni lappa sto pienghiendu 
+  s
+    </p>
+    <docAuthor>
+     M. Alessandri di Chidazzu
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     definizione  lccu ciu the pensu in me stassa  amicn di cio chi seguiti aspessu   piu si rimenu e piu puzza cume quella poca cosa  si ella v abbraccia vi slurza  ogni virlu tene ascosa   e buggierda  tradilrice   prumelle  ma un lene mai  viziosa  calunniatrice  trescina tutti li guai  azzizza  gni nimicizia  tuttu ruina e  nirisica  abbacchisce la justizia   e lu omu lu rende vile   a li acchj mette u mandile  e quest e   brutta pulitica 
+  s
+    </p>
+    <docAuthor>
+     L'Orsu d'Orezza
+    </docAuthor>
+   </div>
+   <div n="11" type="poe" xml:lang="co">
+    <p>
+     spaiseghianu  i giovani di castirla   quelli chi venenu ava  lascianu iu so paese quandu si onu marita  giuvanotte castirlese un ne volenu piglia   eppuru le damicelle in castirla so belline   gi ne je moltu garbate  tantu dilicate e fine   cantanu ale so  purtelle megliu che le cardelline   quandu dice un castirlese     mi ogliu marita  avale     pensanu  tulte surprese      un feriste micca male      qualessa sera  fra noi   chi sera a gusti toi   a  dopu si sente in paese    tale si marita altro   tandu  e nostri castirlese     cume li altri e un bufo   si ellu mi avia dumandatu la averia rispostu no      giuvanotti di castirla   vi la dicu franca  franca    o voi site senza gustu   o lu curaggiu vi manca  circatevile in paese   bi piglianu nant un anca   e per quessa  stu cunsigliu a voi lu vogliu da  quandu vi sentitein brama di vulehbi accumpagna  sceglite una paisana  un state piu a spaisa   qrante a voi  o damicelle  chi bramate di esse spose  appiate dipiu manere accugliance ed amurose  un fermanu vecchie figlie che le vane ed orgogliose 
+  s
+    </p>
+    <docAuthor>
+     F. Franceschetti
+    </docAuthor>
+   </div>
+   <div n="12" type="div" xml:lang="fr">
+    <p>
+     a cunquista francese di a corsica on n a pas marque sur la carte si les ecclesiastiques  les religieux sont compris parmi les 32735 habitans en etat de porter les armes s ils n y sont pas compris le nombre doit en etre encore plus considerable y ayant 66 couvens en comptant celui de l isle de capraia outre qu il y a environ 1500 autres habitans mais en meme terms il faut defalquer du total tout ce qui se trouve dans les differentes forteresses occupees par les troupes de france  dans tous jes endroits qui en dependent dont les francois sont egalement maitres il est en meme tems hors de doute que parmi ceux qui sont en etat de porter les armes du cote de paoli tous ne paroitront pas en campagne quelque pressans que puissent etre ses ordres  numero du mardi 48 avril 1769  de genes le 8 avril  on estici comme par tout ailleurs  meme encore plus dans la plus grande attention sur ce qui va se passer en corse maintenant que les francois doivent avoir recu les renforts qu ils attendoient  les patrons des batimens venant de livourne ont rapporte qu il en etait arrive quantite a fa bastia  san fiorenzo charges de troupes de munitions de guerre e de provisions de bouche partis de provence  l un ne doute point que le comte de vaux qui devoit passer dans cette isle pour y prendre le commandement general de l armee n y ait deja fait publier l ordonnance suivante  de par le roi  noel charles comte de vaux lieutenant general des armees du roi grana croix de yordre de si louis commandant en chef les troupes de s m dans l isle de corse  sa majeste ayant fait connaitre aux peuples de l isle de corse par sa declaration du 5 aout 1768 qu elles etoient ses intentions concernant la pacification de cette isle elle a juge devoir leur faire expliquer de meme qu'elles etotent les lois de la guerre a laquelle ils se sont exposes par la temerite qu ils ont eu de resister a ses troupes  en consequence il 0rdonne ce qui suit  i  les villages sans retranchement dont les habitans commettroni des hostilites contre les troupes du roi sans etre soutenus exterieurement par un corps arme seront brules  les biens des habitans devastes   ceux desdits habitans qui tomberontentre les mains des troupes de s m seront envoye prisonniers en france quand meme ils se seroient rendus par composition s m defendant de leur accorder des conditions contraires  il lorsque les habitans seront retranches ou defendus exferieuremeni par des gens armes ils seront recus a capituler  la capitulation sera observee parce qu il y aura lien de presumer alors qu il n aura pas ete libre auxd habitani de venir a l obeissance  qu ils auront ete forces de s y refuser  iii  les habitans des villages soumis qui seront pris les armes a la main seront reputes brigands commetels envoyes aux galeres  iv  ceux des villages qui ne seroni pas encore venus a l obeissance s ils sont pris seuls ou en petit nombre sans eire porteurs d un ordre par ecrit de leurs commandans  eloignes du corps des autres habitans armes seront reputes brigands  envoyes aux galeres  ve les villages qui se soumeitroni a l approche des troupes du roi seront regus favorablement  participeroni aux graces que sa majesti est disposee d accorder a tous ceux qui le meriteroni par une soumission volontaire  de monaco ie 17 avril  un courrier depeche de la bas tia le dimanche 9 de ce mois par m le comte de vaux fut oblige de relacher a la capraia a cause du gros temps qui survint ayant remis a la voile le 10 au matin il fut encore oblige le 12 de venir relocher ici il a rapporte que le generai parti de toulon le 4 arriva le lendemain a san fiorenzo d ou il se rendit tout de suite a la bastia il y parvint a 4 heures du soir  fut reconnu commandant general de toutes les troupes a la tete de celles qui se trouvoient dans cette ville il a ajoute que tout le convoi des troupes des munitions de guerre  des autres provisions est arrive le 5 au soir  que les deux regimens trjandois qui ne partirent qu apres le convoi sont aussi arrives a leur destination  numero du vendredi 21 avril 1769  de la bastia le 14 avril  nos operations ne tarderont pas de commencer   la capacite de nos generaux leur bonne intelligence  l ardeur que temoignent l officier  le soldat nous donnent lieu de croire qu'il se fera de la bonne besogue mous attendions nos renforts tout est heureusement arrive en divers endroits  mais par ou commencerons nous d agir c est ce qui est encore un secret e le secret dans les projets assure pour l ordinaire le succes de l'execution depuis la consulte que paoli fit a casinca les 15 16  17 mars il ne s est rien passe de bien interessant il paroissoit neanmoins qu il meditoit quelque coup important avant l arrivee de nos nouvelles troupes apres s etre assure que tous ses gens entroient parfaitement dans ses vues  avoir donne ses ordres en consequence il avoit meme deja rassemble les 500 ecclesiastiques ou religieux qu il avoit resolu de faire armer  le 29 il leur avoit confie la garde de la tour de prenato sous le commandement d un chanoine guerrier qui porte sur lui des marques de valeur par la cicatrice d une blessure qu il a recue en combattant contre nous les soldats qui etoient dans ce poste lui ont servi pour grossir ce qu ii appelle son armee mais nous ne savons pas si la troupe sacree qui doit defendre la tour de prenato fait partie des 5000 hommes qui doivent toujours tenir la campagne  qui composent le tiers de sa milice ou si c est des r500 qu il a a sa solde ou enfin s ils font nom bre avec 2000 autres qu il peut encore joindre au total dans le besoin car quoiqu on ait annonce en divers endroit qu il auroit 30 000 bommes sous les armes on ne voit pas que ses forces soient au dela de ce qui est calcule ci dessus ne lui etant pas absolument possible de tenir tout son monde arme
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="13" type="feu" xml:lang="it">
+    <p>
+     all ultimo palpito del sole corrispose lo ultimo del suo cuore queljo si immerse nel mare  questo nella eternita   e lo lasciarono appeso in obbedienza delle ordine  del generale  non posero sentinella a guardarlo  reputandolo abbastanza vigilato dalla giustizia inesorata ma retta che percoteva indistintamente umidi e superbi     i corsi in quei tempi non consumavano olio per risparmiare sole  onde si coricavano a buon ora   ordinariamente prima delle dne di  notte andavano a giacere  se qualche occorenza non li persuadeva a vegliare   sicche chi si fosse aggirato per le vie di corte avrebbe  maravigliando  veduto dopo assai cotesto tempo due lumi accesi in due case diverse  per cui manca di discorsi  gli obietti estremi passano a un di presso comme acqua piovana per la doccia   chi poi costuma notare  da tutto piglia argomento di speculazione  e quindi causa di conoscenza  per la quale cosa non parra strano se affermo che dal modo con che la luce dei lumi viene riflessa fuori dai vetri delle case tu puoi distinguere in quale stato si trovino le famiglie  calda e  per cosi dire  petulante e la luce che rischiara i conviti e i  festini  pero  se da imposta allo improvviso aperta essa prorompe  ti parra che insulti la notte  anzi pare che la provochi e la ferisca  piu modesto  non pertanto meno sicuro splende illume compagno agli studii delle sapienza  come quello che sa essere luce in traccia  di luce  ma il lume acceso della tribolazione trema  e supplica che al suo dolore non si aggiunga il dolore della tenebra  abbastanza la travaglia la vita delle miserie circostanti  perche non vengano anche i fantasmi della notte a crescerle il peso     e non sarebbe stato difficile indovinare che i lumi  i quali in cotesta notte scaturivano dalle finestra delle due case di corte  erano stati accesi dalla tribolazione  per verita uno ardeva nella casa del padre di giovanbrando  lo altro in quella di orso campana   virammentate di lellina ia figliola di orso  che doveva essere moglie di giovanbrando   ebbene  essa e quella che veglia  bisogna che voi impariate meglio a conoscerla  diventando di ora in poi parte importante della nostra storia   e perche vi entri bene nella fantasia io ve la vado a descrivere con parole succinte  di statura e breve  e di membra asciutte  pero mirabilmente disposta a sopportare le fa tiche  forte come lo acciaio  destra quanto i muffli dei suoi paesi  la pelle pallida le imbruni il sole  che il padre usava menarla sempre se  co pei monti a caccia  o ai procoi per vigilare le faccende di villa  giusta il costume corso le vela il capo un pannilino bianco fino alle  sopraciglia curve in bell arco  ma  quasi indivisi  gli occhi fme teneva mezzo chiusi e bassi forse  per modestia  o piuttosto perche sapesse che mettevano paura  in effetto le sue pupille apparivano  chiazzate di nero  di celeste chiaro e di giallo  ma  quietando essa  quest ultimo colore non si distin   gueva troppo  e gli alri due componevano un cotal grisgio scialbato assai somiglievole al piombo polito  quando poi qualche passione vagitava  il giallo si estendeva  si accendeva   insomma i suoi occhi  allora diventavano pari a quelli del gatto salvatico   il volto ovale con si perfetto contorno che meglio non avrieno disignato le grazie  la bocca ombreggiata dalla caluggi ne del labbro superiore mostrava due margini stretti  e rovesciati in dentro  indizio sicurissimo di animo deliberato e costante   questa fanciulla stava seduta 5opra a una panca dinanzi al camino per abitudine  non gia perche la stagione invogliasse a scaldarsi  da parecchio tempo erasi recata in mano le molle  e percotendo con quelle di tratto in tratto il pavi   mento  ne aveva scheggiato un mattone   di contro a lei giaceva in terra la serva  vecchia corsa con gli occhi  il naso ele mani uguali agli artigli del falco  e forse la somiglanza dilei col falco non finiva qui  teneva le spalle appogiate  o come i corsi dicono  arrembaie alla parete  le gambe su ritte  e con le braccia iese e le mani aggruppate si agguantava i ginocchi  anima propria  o piuttosto volonta ella non aveva  bensi con lo occhio fisso nel volto della fanciulla spiava quello che avesse a fare o non fare    f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

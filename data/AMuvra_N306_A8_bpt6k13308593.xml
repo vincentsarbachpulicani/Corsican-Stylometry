@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k13308593
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k13308593
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 306 | Année 8
+     </edition>
+     <date>
+      1927-12-20
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     zu VIII — Numaru 306 Esce ogni dece iorni : ~ —  MUVRA  GHIRNALE DI E PIEVE DI CORSICA  ABBUNAMENTI :  i + . « + 12 franchi In Corsiea. + + + + + + ~~~  In Francia. &lt;&lt; +. . + +... . 18 »  rEsteru. . . -.- ...... 80 »  U Numaru:5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  38, Corsu Grandval s8. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     sterpamentu  e penciula amministrativa  in la nostra isula chi si spuuleghia di jente in seguitu di da struggle for life sut imussibule da la incuria di un gue rnu solu culpevule  ts fer mavanu  in piu di e bellezze paturali e u dolce clima  e nostre macchie imbalsamate da postri fiumi di pisia cu fi a di u piu riccu e squisitu salva ticume vivu   i merule  torduli  trizzine e pernici  trute e anguille  facianne delizie e u dolce passatem ui di i sebbiati corsi chi avianu e tetra bona vulunta o u furtunatu benessere per tn sulca yonde e un gira i quattru scorni  voi li pa  culu di lu ultimu sterpamentu  sottu li occhj di certi magnabrenna chi un dolce e culpevule farniente ben pagatu barculleghia  per falli gode di a penciula amministrativa   mentre chi u francu ma pocu astutu cacciadore  armatu di un fucile e di un scartafacciu chi ellu paga salitu  gira e sette chiappelle e si ne rientre maccu  scalzu e strappellatu senz  una coda  lu espertu cappiaghiu face un girettu bi quotidianu in la so tesa  tranquillamente  e passa a sera avanti notte davanti a giandarmeria cu a so sacchetta imbuffata a crepera di pizzichi gialle e di pedi rosse   suvente  ssu nostru nimicu di a fatica  lascia  pendiga da bocca di a sacchetta un capu arecchj longu  e  scuntrendu    revetus de leur uniforme  conformement    ecc    ecc    li impunenti carabinieri li lenta un bonsouar bragadie    e passa   qualchi volta  a scurdanza di u rigalu di a mezza duzzina per lu arrostu incappia u nostru appiaghiu  ma sine tira a bonu contu  mandendu piu luntanu   duzzina intiera   altrettantu ne accade in cio chi cuncerna li abitanti di e nostre acque   mentre chi le amatore di a pesca a u lumbricu o a  mosca artificiale adopra in vanu tutdi so ardigni e a so stuzia e rispettendu a chiusura cume una bi quaresima  i pettinadori posti fiumicelli si nettanu   ughe e grandi  un piattanu cu piu  in pesca pruibita    fa a occhiu strachiucu ne autel pienu  duv ella un  silunghie a reta  u scalavru cu  u torbidu e u nassinu a u cuvatoghiu  ci e a dinamita e  a fiume biotu a calcina e u patellu cu di altri toschi piu putenti e piu raffinati     qui un si parla piu di u rigalu per duzzine o mezze duzzine  ma  a libra o u chilo apparinanu quantunque le affare  e  ancu e rete catturate so rese  in secretu a i sterpadori   tuttu que face chi in li nostri hotel  pudete dumanda ad ogni pastu di u jornu  ancu per ave cume vicinu di tavula un agente qualunque di a legge  ancu in tempu di caccia o pesca pruibita  quellu merlacchione armustitu e quella truta cu  limod acellame senza traccia di iefi  ta di piombu e panere di pesciu picchiulatu  imbarcanu per di altri lucali  a cunsula di altri palatichi fini   a videmu e a tucchemu  cunuscimu i delinguenti  cunuscimu li incettaghj  i puteri incaricati vedenu e toccanu cume moi  cunoscenu cume noi i delinquenti e i ponu chiappa  e a sterpazione cuntinua tranquillamente cume si ella fussi auturizzata   si sente ogni tantu chi quella vaccina o quella rucchiata di pecure so state abbelenate bejendu in qualchi fiume  si sente ancu chi qualchi persona ha avutu per listessu mutivu serii sintomi di attuscatura e  i sgio incaricati di fa rispetta legge e bene publicu  in lu so dolce farniente ben pagatu  cuntinuanu a culpevule penciulata 
+  s
+    </p>
+    <docAuthor>
+     Altore
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     nota brevissima  in un articulu  note breve  cumparsu u 27 novembre 1927    bastia journal  si stupisce che i francesi cunoscanu male a geografia e raconta a lu appoghiu u fattu segente    una casa di parigi  a a quale una persona chi sta in bastia averebbe cumandatu un canniicchiale da pagassi in varii acconti ha rispostu chi un facia mica simili negozi cun siranieri     un pocu piu tardi  un altru corsu averebbe fattu una cumanda di altri articuli  e a detta casa averebbe fattu a stessa risposta  cun una franchizia di 1 francu e 5o cent   e u giurnalista di   bastia journal  scrive a stu prupositu    pareinammissibile chi nell annu di grazia 1927 lu impiegatu di a currispundenza cummerciale di una casa parigina un sappia mica chi a corsica e un dipartimentu francese  di u quale  ajacciu e u capu locu e bastia una sottu prefettura  sede di sn cuvetnu militare e di una cor ne ha mai intesu parla di napoleofei e chi ellu o ella si figura prubabilmente chi napoleone e natu in cina  cosa pensa di un francese chi un suspetta mancu la esistenza di un dipartimentu chi ha datua a francia un imperatore  marescialli  generali capi di armata e  cosa che un pariginu unn ha mica u dirittu di ignura   u nostru prufettu di pulizia        e chiaru  caru cullega di   bastia journal   chi questa casa un sa mi  cachi a corsica face parte di a francia  ma unn e sola  e longa a cumpagnia di i francesi chi un la sanu nemenu    so sicuru chi questa casa  cume tutte quelle di francia  cunosee benissimu a geografia di a francia cuntinentale  di a guinea  di u sudanu e di le altre culonie francese  pero un cunosce mica a corsica cume francese     perche    perche un francese  un veru francese ben intesu  unn ha mai cunsideratu e un cunsiderera mai un corsu cume un francese     a casa di parigi chi vende i cannucchiali sa benissimu chi napoleo ne e natu in corsica   ma napoleone  imperatore di i francesi  vivu cume mortu  e statu sempre cunsideratu cume un cotsu  mai cume un francese   tutti i storici  antichi e muderni  lu hanu sempre chiamatu  le corse     l italien     quand ellu campava  si ne so abbanstanza burlati di u so accentu italianu   lu avianu ancu datu u sopranomedi   la paille a u nez  a causa di a so manera stessa di pronunzia u so nome   napuglione       cunstatemu una volta di piu chi i signori francesi  malgradu tutte e nostre riverenze e e nostre prutestazione di attacamentu e di affezione  unn hannu mai vulsutu cunsideracci cume fratelli e contiuemu a riverirli umilmente         chi e causa del suo mal     
+  s
+    </p>
+    <docAuthor>
+     Stizza
+    </docAuthor>
+   </div>
+   <div n="3" type="his" xml:lang="co">
+    <p>
+     fole corse  u mulinu di pugiacca  cume un filu di paternostri  u piu luntanu purghiendu la acqua a u piu bicinu  e lu altru a quill altru  i mulini di u vergalu maestru  sputendu acqua furiosa  stavanu ciatti in le castagnete chi avianu lampatu un cuvertoghiu rughjnosu a u pede de quelli scrucchioni ranficati  oa u pede di u vergalu sciumacciulente  tandu  macinavanu piu ferina chi ellu un ne sbarca oghie da i catati marini     ava  chi pieta  quassu  so cullatu a bedeli e unn aghiu trovu ca e so petre ammuntulate e cuperte di un mantellone verde  beru pilone cirnese chi piatta e lacrime di  sse tuine   mi so divertitu a guerdallu  ssu pilone nostrale  e a coglie i nomi di tutte quelle piante  splendore di  jorni di cudrura  aghiu vistu u jcaru cu quelle frundoni verdi e narbicute  cu e radiche di u quale e nostre donne antiche facianu u sugu pe stira e camisgie u jfilettellu tuttu pilosu  u pan purcinu chi guarisce i cionchi  verbucciulu chi   pampa  oliose  la ellara abbracciendu  sse petrancule di i muri sfalati  e strin  ghiendule tantu da paura chi ellu un scappassinu anch elle      in qua e in la  una pratalina culurita mettia un pocu di gioia trisfa in  ssa verdura chi la ombra di li elpali scagliosi e buccaluti facia piu fosca   uni di ssi fiuretti  orgogliu di u nostru auturnu  era natu in la cameruccia di u mulinaghiu  ava tutta scurticata e sfundata raggiu di lume in quella ombra ottusa  e cusi  in la mio mente piena di i ricordi di u passatu  sorse u ramaricu di a vita mischina e dura di quelli mulinaghj  e ancu di tante storie di strigoni e fulletti chi  tandu piu che oghie in un seculu senza puesia  empjanu a notte  i circondi di u paese e e campagne     bi cunteraghiu una di sse fole   di seratinata  zia cinarchese di scolca falo a lu ungaru  mulinaghiu di pugiacca  u so granu da macina  ne vulia prestu a ferina  chi un ne avia per fa pane a i soi     falate puru  a le albore sera pronta   a povara vecchia un ne durmi da u penseru  quandu li parse jornu  si alzo  ed eccula falendua u mulinu per ssi petricaghj  ghiunta a  funtana a trave  li parse di vede un ballu rittu in una chiusella  inquant a me vulpaghiacci ballavanu     vulpaghiacci ballanu sempre a st ora  murmugino  chi elli un si ne tecchjnu mai piu    e piglio ghio senza arreghiesi   a zia vecchia un si abbide mancu chi malgradu i giri e i rigiri di i ballarini  un si sentia un zittu  era un ballu propriu stranu  senza sonu   u vergalu mughiava  e a luna sperghia sopra a tutt a valle cume un mantellu di seta fine chi cascava spampillendu nant a e fronde di ar  gentu di li olivi  chi cuntrastu tra u mughiu gattivu di quelle ombrione e a dulcezza serena di quella auttata limpida e chiara  u mulinu era appiupiulatu in un catagnu neru e paria propriu un strigone orridu cu e so duie  bocche chi zirlavanu una saliva  arrabbiata ci un fracassu infernale  4  zia cinarchese si senti cudra le osse  e u jornu un benia mai      cuzzo a porta di u mulinu     bum  bum  bum     nunda    ghie a mumenti jornu  e ssu bujessu dorme sempre    e cuzzo piu forte a quella purtaccia sgangherata e trizinosa     qual e a st ora     disse da nentru lu ungheru  1  marmuttendu una prugantula     aio chi e ghiornu  so eiu pe a ferina      ghie a st ora chi ellu si junghie  guerdate i signali  unn e che mezzanotte  diancine      oh  la sciagurata  mezzanotte  cum averaghiu fattu  furtuna chi aghiu trovu jente    vulpaghiacci balianu     vulpaghiacci     site tonta   seranu stati piuttostu i strigoni o i fulletti  chi oghie e u terzu jornu di aluna a falce      oh  la sfurtunata  ava un boitu piu  aspetteraghiu la alba qui     e cusi  lu ungheru ebbe cumpagnia  ssa notte   prima chi u jornu venissi  a ferina fu pronta     mine culleraghiu  disse a vecchietta  chi ava un ci sera piu strigoni     fa cum ella ti pare  ma pigliati sempre stu tizzone incesu  ghie sempre bughiu  si tu trovi a nimu  di sta prugantula   e a li suffio in la arecchia   a vecchietta parte cu u so zenu in capu  quassu u ballu era finitu e i ballarini si ne falavanu erapiendu a strada   fendusi chiassu cu so tizzone  a vecchia cappio a prugantula di lu ungheru    chi ella vi cresca cumpagnia   lasciatemi passa pe la mio via     chi ella cresca a to zenata   risposenu quelli  strada facendu   ghiunse cusi in casa  a zie ve chia cu a so ferina  si misse subitu a staccialla per pude fa prestu  v levame  u zenu un finia mai  e unn e mai finitu  fin chi ella campo  zia cinarchese unn ebbe bisognu di circa facitoghia   parlata di a custera
+  s
+    </p>
+    <docAuthor>
+     Matteu Cirnensi
+    </docAuthor>
+   </div>
+   <div n="4" type="poe" xml:lang="co">
+    <p>
+     parla corsu  mi spassighiava nant un grand viale  murmurendu versi di minicale   quandu a tre passi  ti vegu un amicu  cume me di la pruvincia di vien         te  te  chi vegu   chi surpresa  mi    si tu  carissim amicu juvanni    allora  cumu va dipoi tant anni      tefires bien  et loi  mo cher ami     ma comu e chi ava parli francese    un ti ricordi piu diu to paese     parla corsu  ah oual     gna pas danger  les passants me prendraieni pour forestier     poh  fughjmi da qui  puzzi talmente lu infrancisitu pazzu e mi digusti   vulendu fa li motti di  ssa jente   chi un se piu lu fratello di i me gusti  
+  s
+    </p>
+    <docAuthor>
+     M. Alessandri di Chidazzu
+    </docAuthor>
+   </div>
+   <div n="5" type="art" xml:lang="fr">
+    <p>
+     cumitatu di e minuranze naziunale di francia  1  lia ete cree entre les organisations signataires des presents statuts et celles qui y adhereroni par la suite un comite dit comite central des minorites nationales de france dunt le siege est provisoirement fixe a paris  2 la doctrine dont le c c m n f se reclame est basee  sur le droit des peuplesde disposer d eux memesetsur le federalisme international  aux etats modernes bases sur la force rendus caducs par la croissante interdependance economique du monde et dont les antagonismes ne peuvent que provoquer des guerres de plus en plus terribles il souhaite substituer une federation de peuples ou chaque nationalite pourra determiner son propre statut politique et poursuivre son developpement culturel selon ses traditions etses tendances mais dont l unite economique sera assuree par la suppression des douanes et la pratique du libre echange cette conception lui paraissant la seule qui puisse donner aux peuples les deux liens essentiels ia liberte et la paix  3 pourront etre admises au c c m n f toutes les organisations representant des minorites nationalesopprimees par l etat francais dans leur iangue leurs traditions raciales ou leurs interets qui declareront approuver la doctrine exposee a l article ii lorsqu il aura ete reconnu par le conseil qu elless en sont inspirees dans leur activite anierieure n 4 les fondateurs du c c m nf declarent n avoir aucune animosite a  l egard du peupletrancaiset combattre  seulement une formule etatique surannee oppressive et dangereuse pour la paix formule d ailleurs commune a d autres etats  s le c c m n f est compose des delegues des organisations representant les minorites nationales a raison dio mi a cia le nome  posant d une voix quelque soit le nombre desorganisations qui la represente  ou le nombre des delegues qui representent ces organisations      6  les reunions du c cm nf el ontlieu tousles 3 moisau moins des reunions exceptionnelles peuvent avoir lieu si les evenements le rendent necessaire    7  dans l intervalle des reuniogs  le c c m n f est represente par un secretaire general elu a la majorite  des voix pour une periode de un an et  reeligibie a 8  les reunions du c c m n f ont pour but de permettre aux organisations adherentes de confronter leurs informations et leurs methodes de s epauler reciproquement et er particulier d accroitre leur action sur fopinion publique par des manifestations communes ehaque organisation conservant bien entendu une autonomie complete en ce qui concerne sa propre propagande  c e  les decisions sont prises a la majorite des vois  10  le c c m n f est cree pour une duree illimitee il ne pourra etre dissous que par un vote admis a la majorite des voix toutes les organisations adherentes etant representees  ordre du jour le comite central des minorites nationales de france qui groupe les partis autonomistes d alsace de bretagne et de corse et dont la doctrine est basee sur le droit des peuples de disposer d eux memes et sur le federalisme international x reuni a paris le 4 decembre 1927 pour examiner les recents evenements d alsace lorraine  considerant que quatre journaux alsaciens lorrains ont ete suspendus parce qu imprimes en allemand alors que l allemand langue des 85 0 0 de la population alsacienne et lorraine doit etre considere comme la langue du pays et qu au surplus la plupart des autres journaux continuent a paraitre en allemand notamment un journal royaliste  que le zukunft ayant essaye de publier trois n en dialecte alsacien et la wrarrheit un n en francais ces n ont ete saisis preventivement bien que la loi du 22 juillet 1895 ne leur fat manifestement pas applicable  considerant que ces mesures constituent une manifestation nouvelle de l oppression dechainee par le gouvernementfrancais en contradiction avec le principe des nationalites solonnellement proclame par le traite de versailles et le pacte constitutif de la societe de nations  proteste energiquement contre l application illegalement etendue d une loi scelerate  a la pressc autonomiste d alsace lorraine  et fletrit l attitude oblique du gouvernement francais qui n osant et ne pouvant interdire l expose d une doctrine s efforce par des confusions deloyales de deshonorer les avtonomistes les met hors la loi commune leur supprime tout moyen de defendre les candidatures de leur parti aux elections prochaires et leur rend impossible l'exercice normal de leurs droits de citoyens
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="6" type="the" xml:lang="co">
+    <p>
+     teatru di a muvra  i successi di zuccone   cummedia in 4 atti di    seguitu   riassuntu di cio chi e esciutu  natale zuccone  impiegatellu in marseglia  rientre a u paese  duve  a mamma filumena vana quant ed ellu  intreccia un matrimoniu cu rusina di jannone  pruprietariu impazzitu peu   pane sicuru    tuttu e cumbinatu fra i parenti  ru  sina sola un ne sa niente  natale  fie ru annuncia a nutizia a un certu pasquale  cumpagnu di saveriu  u veru amicu di rusina  in lu caffe di mariuccia  cu a quale si innumica a causa di e so manere impulite   mariuccia  dopu cunsultatasi cu pasquale e saveriu  corre ad avisa a cumpagna di cio chi si passa   ghiannone rientrendu  prupone a  figliola u matrimoniu cu zuccone  e la annuncia a so visita  rusina si difende    scena iv  i listessi  entre natale  ghiannone  manerosu    ah  bi aspettavamu   porghie una sedia  mira senza manere  o nata  accumudatevi     natale  sficchitu  si da un allisciata    eh  lasciatemi macaru fa i mio duveri inversu madamicella   si avanza cu a manu tesa versu rusina capi calata  madamicella  vi rappresentu i mio piu umbuli rispetti  cuntentissimu di vedevi in bona salute        rusina  intiera   cuntentissima di pudenne di altrettantu per boi     ghiannone   aio  pusemu  fate contu  o nata  di esse in casa vostra   natale  pusendu accant a rusina   merci mansiu ghiannone  a rusina  madamicella  mi parite un pocu     un pocu    tutta chosa       ghiannone   e zitella  un la vijete   eppo dino un pocu assaltata   natale   oh  ma foi    passera prestu    azzighendusi un pocu sopra a sedia  enfin  madamicella rusina  eccumi qui per dumandabbi in matrimoniu  site quella chi    chi    commeni dirai je  a sola di u paese chi riempite tutt e cundizioni per esse a sposa di un impiegatu  e un sfigura micca a fiancu ad eliu in una grande citta di francia       rusina   siate ringraziatu pe u bonu cumplimentu    natale   di agliore  aghiu lu accunsentu di u vostru papa  e mi credu lu omu attu a rendevi felice      ghiannone accunsente cu gesti   rusina   avete fattu benissimu di dumanda a babbu nanzu a me  e un possu che ringrazianne dino a vostra mamma tantu appenserata per boi e per me  ma  vurria riflette prima di prununziammi sopra a qualcosa chi e pe a vita e chi voi intendite tratta cusi a la lesta   natale   eh  bon sang  un mi cunuscite    rusina   un dicu      eppo mi so giovana     natale  oh ge    mira aghiu una bellissima piazza in francia     rusina   mi face moltu piacere   natale   e un vegu u mutivu di vule allunga un unione tantu desiderata da i nostri parenti   ghiannone   stu pover omu ha raggio  o rusi   alo  bia  rispondi    rusina  ci un suspiru    site voi u padrone  o ba  a v aghiu diggia detta   ghiannone   o nata  un la vi pigliate a male per vedela cusi  e a giuventu chi a vole  ma rispondu per ella   e un affar  fattu simu intesi  rusina sera a vostra    natale   ci contu  madamicella    rusina        face un gestu versu u babbu    ghiannone   e detta  alo   chi bale di ripetela    cambia tonu  ma eh  o nata  un siate po  cume una manata di i mariti di oghie chi facenu passa una vita chi mi ne so eiu a e disgraziate moglie  mira    natale   caru mansiu ghiannone  cuntate puru sopra a me  per quessa  a vostra figliola sera cherita  gattata  choyata cum ella po esse stata fin qui in casa vostra  vi ne rispondu    a rusina  madamicella  mi vantu di fa di voi una donna orosa seretea maitressa di a casa ferete e disferete  un vi manchera pane  vestiture ne divertimenti  ghiuru e pesu a manu davanti a vostru babbu  permettite chi io vi basgi a manu   rusina  ritirendu a manu    approvu i vostri boni sintimenti  ma unn e necessariu pe umumentu     ghiannone   infine po     o rusi  e o unn e      chi bale di fa tantu a difficile   una manu poi        resina tende a manu chi ellu basgia zuccone  a videte  o nata  e le emuzione  persona assaltata un  fece mai a  e e i  giannone   alo  chi tuttu sia pe u megliu e cu a vulunta di diu   natale  di cuntentezza   avale  scusate  cara fiansata  mi permettu di chiamabbi cusi   scusate si io ti rubbu a bostru babbu per purtam   milu a magna cu noi  averebbi tantu bramatu di ave dino a boi accantu ma postu chi bostru babbu si e oppostu per peura di e gazette     rusina   cume  o ba  milesciate sola    ghiannone   voli vene dino tu  allora    natale   ah  mi feriste tantu piace    p rusina   no  no  babbu ha raggio  a critica e bizzarra in paese   natale   figuratevi steremu pocu e i raggiunamenti serebbenu pocu interessanti per boi  pezze  manghiaria  imbitu  messa ecc  ecc   tutte bricolle da un mischiabbici  niente che per lu annoiu chi elle vi darianu   ghiannone   or andemu  tu  a mio figliola  magnatine tranquilla  facci un bon caffe chi noi veneremu a pigliacci tutt in famiglia  ba be cusi    rusina   fate cio chi boi ne cridete   ghiannone   unn e megliu chi io di a una voce a to ziu michele  di venuta  e arricaccilu qui cu noi  e u to solu parente strettu   rusina   no  no  pe stasera unn imbitate ne dite nulla a nimu  un altre jornu  un altru jornu   ghiannone   lasciemu corre  allora  stattine in pace   natale  tocca a manu a rusina    a bientot  dunque  penserete un pocu a me  speru    rusina  si   si   a bedeci  sortenu    rusina si lampa a pusa e si appoghia a u tavulinu sbucciendu a piegne      scena v  rusina e mariuccia chi sorte da u so piaitatoghiu   mariuccia   or ava marchi be    or ava e fattu u pizzicu a l  a  o rusina  mena sopra a u favuli   lu hanu vulsuta vede   ci mette    ci met  nu a pezza   tera   mariuccia   quale   chi si vede  hi si ha da  rusina  un dendu capu a mi riuccia    ohime   so propriu ne 4 sottu una gattiva stella   mi ci hi st juntu   soga duvia anda cusi   sai  mariuccia  trinni  x   parinocia  trinnichendula pe y     bracciu    brava  cumpagna  ni ti ne consoli in  ssa manera   da rasina   cunsulammi   di che   mariuccia   di u to bellu accop  piu  i  rusina   u mio accoppiu    u mio accoppiu      vai e di a saveri chi ellu venga subitu qui senza di de tempu  per  mariuccia   ma taggiune  i 88 mu  in  fine   aghiu di anda    cusi p     fusina  accumpagnendu a ma  riuccia fin a lu usciu   vai e chia mami a saveriu  ti ripetu   sbrigati  tendone  attu quartu  scena i   in casa di rusina   rusina sola passa e bene infuria  ta  intercallendu di suspiri e scia  mazioni  mumenti di riflessione ripetuti   rusina   u mio poveru babbu  quantunque      tamanta pena chi io lu aghiu da fa      o signore  perdunatemi    ri  lete e si ripiglia  che un mi scordi di u piu primurosu    va in camera e rivene cu ritrat  iu di a mamma  u basgia  o ma  o ma      a mio povera mamma  a cio chi ella ne jugne a to rusina   pet  donami  perdonami e prega per mei  u ribasgia e la alloca in unu di i pacchetti  posa un mumentu    ri  ess avendu a canruna l e das   che faltre quandu a capruna e  sata pe u ciarbellu  povera me   si alza  peghiu  a mio sorte   seraghju cunusciuta cume ave fattu u primu passu      essemi offerta  tale una poca di bonu     ci e da scimiscel e chi fa  comu sorte di un impicciu simile      spusa a zuccone   ih  mamma  mamma  nanzu una sticchinetta      e inutile  e inutile    un possu  un possu fa altrimente     si sente un fischiu in piazza    rusina  tenendusi u pettu    ah  mi sentu strappa u fiatu   o ba  per donu  o ma  perdonu        va a u balcone  cullate    posa e piegne   scena 1   saveriu e pasquale enirenu in punta di pedi   saveriu  ci una voce chi trema    eccumi  o rusi   rusina musirendu un visu scu voltu    cumu mi judicarei  o save  chi penserei  piu tardi  di me  ni   saveriu  chi un capisce    a chi suggeitu   spiegami  i    rusina   spiegatti   un si a u cu  rente  oh  tinta di me     saveriu  agru    tinta di te pi tinta di te     un trovi altru mez zu per scusatti di a to bella prova  e u bellu  mi faci vene qui  e per imbitammi a u to matrimoniu  forse 
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="7" type="poe" xml:lang="co">
+    <p>
+     a tutti i corsi  eccu la annata vint ottu chi pian pianu si avvicina  un si parla che di votu   a dritta com a mancina  sara tuttu par nienti    lu zuccaru e la farina   sonu sparti li banderi pi totti quanti i partiti   ci ne e bianchi  ci ne e neri  e nt fe ci ne e rossi e sculuriti   ci so quiddi di li tecchj cun quiddi di li famiti   ma aunn aghiu ancu vistu 8 a ne quidda chi a no  ci vurria   e chi devi purta scrittu  ni so pieghi   autonomia  come quidda di juvanna purtava   jesu  maria   senza dubbiu ne timori  eccu a strada a suvita   da corsi  senza russori pa lu so nomu a purta  un parlu di infrancisiti  quiddi lasciemuli sta    unn importa u candidatu  unn importa li opinioni   da i corsi un sara vutatu si  na so dichiarazioni  un dici  senza fantasia  chi edd e par la autonomia 
+  s
+    </p>
+    <docAuthor>
+     Simonu di San Jorghiu
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     sole di vaghime  u sole ferma bassu a le orizzonte  e manda un raggio di malincunia  e sopra a un mondu freddu cume e fonte   sparghie le ardore di la puesia   chi freddu   chi ventu  chi ghietta spaventu    chi ardore   chi amore   chi sparghie dulore   a notte lascia u jornu una tristezza chi si dipinghje in lu ultimu surrisu di on sole chi cu la so pallidezza  manda li ultimi raggi a lu mio visu  chi sole scuntenta  chi ghietta spaventa    chi notte    chi ghiornu chi mi da frastornu    pensosu eia mi restu ad orlu mare can fragnulime di acqua chi mi incanta    piu amare   pueta   so sola  ma mi ne cunsolu  
+  s
+    </p>
+    <docAuthor>
+     U Canalincu
+    </docAuthor>
+   </div>
+   <div n="9" type="art" xml:lang="co">
+    <p>
+     cronaca aiaccina  elettricita   in vista di prossima nstallazione di luce e forza elettrica  simu stati diggia pregati di da u numaru di lumi e a forza in  cavalli chi no  cunsentariamu ad impiega   si ella fussi   un ci vole ancu a mustrassi tantu ottimisti  si ella fussi  e un seria micca troppu prestu   sariamu pronti a da  ancu spendendu i nostri soldi  un evviva a i signori di a sucieta di le industrie riunite   battelli   e la annata di e visite  dopu i battelloni di e flotte inglese e i francese  u nostru golfu ha vistu ancurassi in le so acque una furmidevule nave di guerra americana  di movu mudellu  i marinari americani si hanu gosu a piu pude durante quattru o cinque jorni  a vista di i nostri ludati sea side   assuciazione   le assuciazione di culuniali in riposu  riunita jorni fa  ba prucedutu a furmazione di u so scagnu  un ottantina di aderenti eranu prisenti   lughiamenti   u scandalu dura e piglia forza  certi pruprietariu cu  nusciuti dumandanu senza russore un criscimentu tale  chi u prezzu di i so lughiamenti arriva a franca u 1ooo per  1oo di quellu di avanti guerra  piu forte  pudemu certifica  chi certe  di sse sanguette imponenu cume cundizione  a novi lucatarii  avanti di rimetteli e  chiavi  u pagamentu di soma de pusitate in piu di u prezzu di a pighione  nne a  curaggiu  si ella vi dura le e voi di no  o quelli chi site pagati pe u rispettu di a legge  durmite chi e u vostru tempu    circulu  u circulu di u cantu di a piazza di u diamante da riprisentazioni continue dipoi una misata cun affluenza numerosa di jente  zitelli sopratuttu  un cavallu grisgiu e stupenduin liso jochi e induvine  cipolla ricoglie scaccani    elezzioni   per li elezzioni consulare di l 141 scorsu  duie liste si truvavanu in prisenza per e piazze vacanti  ste duie liste eranu e  2  i sgio bandecchi  fieschi vilahova  gambarelli  gatto e noaro   a prima lista  la eletta  ha ottenutu 4161 votu  a seconda  2o93 voti   pe u tribunale di cummerciu u sgio orsoni e statu rielettu presidente cu 27o voti   so stati eletti in seguitu  ghiudici ti  tulari  benedetti speziale  268 voti  e lorenzu lanzi  265  ghindice suppleente  pasquale nicolai cu 268 voti 
+  s
+    </p>
+    <docAuthor>
+     Pipistrellu
+    </docAuthor>
+   </div>
+   <div n="10" type="feu" xml:lang="it">
+    <p>
+     xo virtu le quali si propongono a vita  la fama  o patria  non sono mm di consumo  cosedi lusso sco itongu u meritamente dalla buona mono quanto non pud ridursi fame a ai di nostri si giudica inanche lo meno pessimo  un lia dei  i udendo narrare mirabitanto pia di galileo  domando esse ai ano per cento di intee senti dono  oh  se lo apostolo delrondo lia a pellegrinare nel tm fronton  troverebbe piu scritto  re del tempio  deo igno to  no  davvero  perche il dio e bello e trovato ed il suo nome si legge sul fastigio del basiliche  nelle facciate dei palazzi  nei frontoni dei tribunali  in carcere  in bottega  in sagrestia  alla taverna  al bordello  in faccia ad ogni vomo segnato tra ciglio e ciglio  da per tutto  insomma  da per tutto  ed e il dio quattrino  quanto alla francia la cosa e diversa  e ognuno lo sa  quivi dio tutelare del gran popolo continua ed essere la trinita  liberta  fraternita  uguaglianza     tornando altobello a casa in compagnia del signor giacomo  egli si accorse dal non rispondere di costui a parecchie proposizioni  o rispondervi a vanvera  che il suo spirito galoppava in rimote contrade  si timase pertanto in silenzio  e lo condusse per mano comesi costuma i fanciulli  egli entro senza accorgersene  o almeno senza darne segno  come del pari si assise alla mensa  altobello allora  noto cosa  alla quale a cagione del tumulto dell animo non aveva avver  tito prima  cioe la assenza del fratello mariano  e noto eziandio la miserrima imbandigione  non gia che di questo a lui venisse molestia  che avvezzo dalla infanzia alla frugalita  e soldato  si sapeva adattare  bensi se ne crucciava per le ospite  edanco per la superbia naturale ai corsi  che li persuade a ostantare maggiore stato di quello che veramente possiedano mentre adesso vedeva cascare la madre nel vizio opposto  mostrandosi di gran lunga piu disagiati di quella che fossero  pero a cavarlo ben tosto di pena valse le osservazione  che il signor giacomo continuava nel suo stato di estasi  non badando  ne curando quanto gli cascava dinanzi agli occhi  singolare qualita di ques   te nature settentrionali  che come i sassi posti su la cresta dei colli  quanto piu sono pesi a smovere   tanto piu difficilmente si fermano una volta abbiano preso il ruzzolone  di gresto divagamento in quel punto insanabile furono segni tuffare le dita nella scodella del pan bol lito nel latte  e recandosele al naso come per prendere tabacco  e scambiando la scatola col bicchiere accostarla alla bocca per bevere  allora altobello giudico conveniente accompagnarlo nella sua stanza  e quivi laciarlo in balia dei suoi pensieri  arrivati che furono sopra la soglia  il boswell riscotendosi disse     signor alando  egli e certo che nell ordinario andamento della vita  quando i bisogni del corpo abbaiano  la anima tace paurosa  dove poi questa sia tocca dal fuoco celeste  ella si strascina dietro il corpo quasi schiavo altrionfo il bisogno che si pasce di pane forza e che taccia davanti il bisogno che si nutrisce di preghiera   pero francesca domenica lo aveva precorso nella camera  e con la sollecitudine solita alle buone massaie gli andava indicando     veda  ecco qui il sun cavastivali       nei tempi moderni non saprei a cui paragonarlo  e negli antichi a  veruno se togli licurgo     no signore  egli e modernissimo  me lo riporto la altra settimana maestro nottola  se le fara bisogno qui trovera il suo vaso da notte     degno proprio di essere messo in paradiso   francesca domenica trasecolata guardava ilsignor giacomo  quando questi scosso il capo si volse attorno gli occhi consapevoli  e favello     gran peccatore in fede mia ha da essere quello che abita qui dentro  e pare che tema lo assalto non di un diavolo  bensi di una legione di demoni     o signore  tutta scandalezzata esclamo francesca domenica  come potete dire questo      e chiara  a che tanto presidio di santi in fortezza se non temesie la scalata di centomila diavoli  idolatri   voi non sapete come si adora  ne come si prega dio   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

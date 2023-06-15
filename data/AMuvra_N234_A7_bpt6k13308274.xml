@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k13308274
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k13308274
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 234 | Année 7
+     </edition>
+     <date>
+      1926-01-03
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Numaru 234 VU CC sea snai ‘E Dumehica ia Dumenica, 3 Ghjnnaghiu 19  A MUVRA  GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI :  In Corsica. ii. +0 . ~~. + + . . 12 franchi  In Francia . . +. 4 + . . à...à . 15 COM  AU PEsteru. ; Lal ...... .. 25 2.  U Numaru:4 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     bon di e bonu annu      bonu capu di annu  megliu un altru annu  di jente e di roba   a salbazio di vanima   bonu annu    bon di e bonu annu  a intt i nostri parenti  a nostriamict  bona anniata  scema di mag nuscula       mannarini tordi  e   pomi jungaruti   cibolle  barnarecce a narpiate  furmagliu maccu  vinu di sottu a scala e pulenda e ugni e spaffal ci     chi elli sterpinu i parcittoritma chi ellu un ne fermi razia   ne i   zi lu    chieso foglie di centu culori diventinu tante canzone per canta a cursichella  urfanella e      piducchjusella cum ellu dice qualchi sia      pa i pidocchj   tempu ci una mosca si rodi un chiodu   a misura chi elle ingrandatu e corne di a muvra  cascanu i lendini e scappa ancu qualchi sumete  re i ru  dipoi chi a muvra sha attu un  giru  in  pianu e i monti  e spuntatu puesia den  mara  risate corse e brioni  chi ella campi  nia chi ella re gni    a so stamparta  una vera furnace duva si coce  stalbatooh e canzone ha fattu nasce u teatru corsu iorsu sciappatu   a so musa  suminendu afmonia e rime  ha criatu centu e centu pueti di marca e di eneigia  chi elli  creschinu e mul tiplica   i dv   iso $crittisiso atti so piaciuti in tal manera chi vabunati  di figliera in figliera  hanu francu  i cinque  mila     cinque mila corsi chi  pensanu cume noi  parchi cime noi  cantanu e ridenu e amanu a corsica  gh elli sianu benedetti  elli e le so famigliulellet   ne cu  dipei a croce di pontendou avemu ancu butti  li antichi di u nostru partitu   mi pare chi elli riposini megliuin pa ce dipoi chii muderni cantanu a lingua e a fierta di i nostri babboni     asmici cari  un so mica fraie par fabbi una profezia  ma  si lu annuendvu  i tempi so trise ti  avemu a libra contr a noi e fintantu chi ellu un si fara a chilo  saremu vume zia madalena di e cristinacce chi li mancava sempre un pane par finisce a sittimana      a    itvece di fa dece libre di farina a pane  cunsiglio a vicina  pruvate a fanne dece child  ln a  cusi fece zia madalena fendu a chilo  fu aman di diu  ci era piuttostu un pane di piu ca di menu   e andede a ringraziu asovicina       5 a    binadettusta quellu chi ha imbintatuu chilo 1   e  ava a libra ha cambiatu di pelu   fintantu  chi ella un truvara chilo da so pede  sara megliu a ponesi dui pomi e dui fasgioli  ci  un  
+  s
+    </p>
+    <docAuthor>
+     Maistrale
+    </docAuthor>
+   </div>
+   <div n="2" type="poe" xml:lang="co">
+    <p>
+     sturnelli  fior balguiellu    cum ell e brava  o cari  u mo figliolu      per  dss omu tin li manea ca u ciarbellu   bol fiordi moral a     e  bera  o janfili  chi per  se francie in dei forni si cose pane di oru    fiurin di murza a  un bi piace piu arocriu e ma  na volta bi liccavate e dite a magna a scurza   finrin di indiziu i  disgrazia  o lembrige  a perde i so denti    ma piu disgrazia a perde u so judiziu   fior di saggine    inton sulbestra a statu impinzatita chi nun sa sternuta a a  patiggina   fior di limone    des  e a scola fusfobrahda era un sumere   ma da a francia e turnatu un salamone     fior di zucca       sintenduvi canta cu tanta razia   a mumenti  o titti  bi dicie   a prucea    fiurin fi nocce    posta chi ho nwevete piu capelli   chi ne fate  o mari  di a vostra chiocca    fior di patata     a vostra faccia e carne  cartapesta   begge chi bo le avete pitturata      fior di furesta    o chi belli scarpetti frigiulati    i v hann fatti per calzabbi e testa     nn
+  s
+    </p>
+    <docAuthor>
+     U Babbuziu
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     u teatru di a muvra  teatru corsu ambulante  di u sampetracciu  a chi un curinosce oghie a ghian  nettu notini  usampetracciu  e segnu chi ellu un cunnosce nemenu a fitetta  vu  destinatu da parenti ghiustamente ambiziosi a fa u duttorone o lu avvucaticchiu  ghiannettu  attempu chi elle ebbe un pocu di pelu mortu   sottu a u nasu   lascio in piantu i so prufessuroni di filosofia e si ne ando  a puta   so vigna  i e   mudestu  u sampetracciu stimo  chi le amore di u paese e lamore di  a famiglia eranu  abbastanza grandi  da empieli u core e da spannalli a mente  e a so casa rumurosa di canzone e u so caru  san pedru adumbratu  da i castagni frunduti funu per ellu lu universu              lu universu   ghiannettu  di un ucchiata la ha stimatu troppu majo e u so orizzonte la ha tracciati da u so purtellu   du di lu  fatti chi un e un  mondu  sanu a distesa chi trafala da u so puntinu  si spande in pentiche ed in cullette e tracolla versi e sarre chi si ficc   canu incele       e  soga un ci e da cunfonde  lu occhju  umana chi  da valdi a quarcette  da macchioni ad orti  a vignali  a petranculi  lascia capriula u so sguar   du fin a i vagoni fundufi di u  vecchiu e u face salle a salti mu i vrelli fin a i nivaghioni di monte  di oru e e cuccule chi si paranu a  ghisoni   1       un tal spetacule  cuntemplatu  da ogni capu di annu ad ogni san  sulbestru cu li incantevuli mutamenti di ogni staghione  fece zirla in pettu a ghiannettu u trizzini leggeru di a puesia  moti       e da tandu la eremita chiappo a cetera e i so accordi spartonu li echi di u rughione    i  e puesie senza gromuli  stacciate  cula tela di seta di a so musa  e canzone  carche a malizia  a satara e a speranza  sbrulledenu cume causgiule da u capifocu di u so core  rr e    ma pure  e carte frisgiulate  ale moderne di e vergine di flicona un bastonu  sicondu jannettu  per cul  la  cusi in altu da pude suprana i monti corsi   li manco  parse  a destrezza di u falcu e di le altarre e tocchju di u  stantarolu da pudessi lampa da e nuvule  entre pa i purtelli di ogni poghiu cirnese e  fassi padrone di ogni fuculare          a favella ci u spirtu materni ghiudico u sampetracciu  ci vole a purtalli cu secu  apre li usci pitturati a tristizia di i nostri paisoli  empiene e case  affumicate da tizzoni strangeri e fa canta i rataghi cume tant arpe di allegria   e cusi nacque u teatru corsu ambulanie  ovu di cristoforu  colombu chi u sampetracciu caccio da a so bartula e fece tene rittu  naanta tola di u  tinascimentu corsu  sciaccendiine  ci un colpu seccu  a punta fine      pe a realisazione   cume sempre  una chiama di a  muvra e i cinqui nelli ghiunsenu ad appullassi cu fis chi e chiuruli cume torduli trizzina   ti  quandi a carciara fu piena  ghiannettu busco tela e tavuloni castagnini  intuppo sega e martellu e u teatru sorse  st agostu  sottu u verde frundame di san petru   ricunuscente  notini u battizzo u teatru di a muvra   ognunu ava cunnosce i primi successi di a valente truppa custituita da u sampetracciu  in san petru  in riventosa  in venacu  in corti  li artisti corsi funu accolti  cu li applausi i piu calurosi  i piu frenetici     di farraghiu  aiacciu  e bastia avaranu a visita di u tealru ambulante   la istatina vidara u tindone simbolicu di a scena corsa a  fiera di aulle  a  purziuncula di vicu  a santa di niolu e in altri  lucali di la isula    i  pe u nostru dialettu  pe u spirtu nostru  o janne  tocca e viaghia  
+  s
+    </p>
+    <docAuthor>
+     P. di B.
+    </docAuthor>
+   </div>
+   <div n="4" type="div" xml:lang="fr">
+    <p>
+     in parigi cume parlavanu i corsi ottant anni fa    citoyens    la corse est francaise depuis pres de quatre vingts ans mais sous le rapport materiel elle ne l est que de nom  e  permettez moi de vous ie dire  jusqu ici la france n a point rempli envers nous l engagement qu elle a contracte en nous enlevani notre nationalite en detruisant notre republique naissante qui sous la presiderice de paoli notre immortel legislateur excitait l admiration de l europe entiere cet engagement c est de nous donner avec le titre de francais les avantages dont les francais jouissent  7 a   nous sommes toujours paudres sans inidustrie  notre sol est demeure inculte pour vous faire apprecier l etat d abandon ou nous ont laisse tous les gouvernements qui se sont succede depuis 1769 il me suffira de vous dire qu en 1836 nous n avions ni une seule charrette mi ure seule voiture par la raison bien simple que nuus n avions pas une seule route  la legislation francaise nous defendait d'avoir de lindustrie nos produits etaient repousses de la france comme etrangerset'de l etranger comme frangais     la nature a beaucoup fait pour nous les hommes n ont presque rien fait  7    d ou vient que tant d avantages naturels sont demeures improductifs  les causes en sont nombreuses je ne vous citerai que la principale c est l'insalubrite de nos cotes elles sont bordees d etangs de marais qui ne sont separes de la mer que par une lisiere de sabie de ces etangs de ces marais s exhalent pendant l ete des miasmes qui engendrent des fievres souvent mortelles et rendent impossible tout etablissement agricole
+    </p>
+    <docAuthor>
+     Xavier de Casabianca
+    </docAuthor>
+   </div>
+   <div n="5" type="art" xml:lang="fr">
+    <p>
+     l enseignement professionnel en corse nous avons dans un premier article signale la faussete de vues en gendrant une erreur d organisation qui menace de compromettre le succes de l ecole nationale de corte  nous savons que cet etablissement dont la creation ne manque pas d etre providentielle en ce pays devore de fonctionnarisme politique ne se recrutera pas facilement meme s il allait demeurer le seul et unique de son genre a li y a une mission de reeducation a entreprendre en corse avant d esperer y voir l application du mecanisme social qui fonctionne partout ailleurs et qui rend possible tous les essais de cette nature  tant que pon ne se decidera pas a creer un courant d opinion favorable aux carrieres manuelles ja tache sera impossible a mener li faut com battre et vaincre cet etat d esprit qui fait poser par des parents de jeune candidat a l apprentissage la question souvent faite au directeur de l agriculture  quel ernploi notre enfant obtiendra til apres cela    il faut que brochures tracts conferences entrent en campagne contre le fonctionnarisme devastateur de nos campagnes et de notre race   la preparation professionnelle de la jeunesse qu une application scrupuleuse de la loi assure partout reste chez nous a l'etat embryonnaire dans nos etablissements officiels ou prives qui emargent cependant aux budgets de l etat du departement des communes des chambres de commerce elle est totalement negligee dans les etablissements d etat d enseignement primaire superieur dont le role est pourtant nettement defini comple ter l initiation manuelle des enfants commencee a l ecole primaire susciter les vocations ef diriger les jeunes gens vers l apprentissage d un metier  les ecoles primaires superieures prevoient en dehors des sections d enseignement general des sections  commerciale industrielle ou agricole suivant les besoins de la region  qxr'a ten tait en corse  a ajaccio une ecole primaire superieure  ecole menagere dans l'esprit de la municipalite qui en decida la creation  aussitot transformee en anfichambre de l ecole normale d institufrices en boite a brevets en officine de preparation sur examens et concours de l enseignement   la nouvelle corses
+    </p>
+    <docAuthor>
+     Jean Maki
+    </docAuthor>
+   </div>
+   <div n="6" type="art" xml:lang="fr">
+    <p>
+     assez de farces  le tout pour la corse  n est pas du tout pour l autonomie  notre confrere est trop vieux pour se lancer dans l inconnu pour travailler a la realisation desesperances quigerment chez nous dans tous les coeurs jeunes le monde a beau changer la corse a beau gemir se debattre dans les affres de la misere et de l abandon le tout pour la corse reste confine dans ses idees  l autonomie pour lui c est une question oiseuse unetisane separatiste qui provoque les nausees du peuple corse  inutile donc d insister notre grandissime confrere reste de l autre cote de la barricade et personne ne saura l en deloger  tout le monde ne peut pas etre de la meme opinion la divergence d idees 1a discussion sont meme souvent utiles c est en effet du choc des idees que jaillit la lumiere voila pourquoi nous nous altachons a relever toutes les attaques dirigees contre notre maniere de voir pour mieux faire ressortir la verite   notre pauvre departement n a presque pas change depuis l annezion en 156 ans il n a pas du tout progresse  nos routes sont rares et impraticables  nos marais qui ne sont pas desseches sement la mort dans les parties les plus fertiles de notre ile  le travail n est pas encourage et le pauvre proprietaire foncier se trouve entierement depourvu de ce qui pourrait lui fa ciliter sa tacher  la france qui s est impose des sacrifices immenses pour nos plus lointaines colonnies n a jamais pu trouver le temps de s occuper de la corse et l argent necessaire a l amelioration de son malheureux sort  notre confrere peut il nier ces faits  c est sur eux que nous appuyons toute notre campagne s ils sont faux il n y a plus lieu de reclamer l'autonomie mais s ils sont vrais pourquoi ne pas reconnaitre que nos interets ne seront bien geres que lorsqu ils seront confies a notre propre garde  qu on bataille ici en mauvais corse ou en mauvais francais que nos poetes foulent aux pieds les regles les plus sacrees de la prosodie peu importe  tout cela n a viaiment qu un interet secondaire ti n est pas en effet donne a tout le monde de sortir de l universiie de salamanque d etre nanti de diplomes sur peau d ane l essentiel c est se faire comprendre de n avancer que ce qui est vrai et reel  le peuple n a pas soif de beaux mots de phrases limees mais seu lement de verite  jusqu a present il a ete trompe sur son sort a chaque election des saltimbanques politiques lui bourraient le crane en lui faisant croire que la corse allait changer d aspect la farce a trop dure nos compatriotes commencent maintenant a voir clair a comprendre qu en france on n a nul souci de nous e  dire cela ce n est sans doute pas faire une incongrite dans cet ordre d idee notre confrere pourrait avec profit consulter la collection d un journal qui au moment de la separation de l eglisse et de l etat menait ine enragee campagne contre tout ce que les catholique respectent il pourrait voir les pelletees d ordures qu on jetait alors sur les choses les plus sacrees  c estapres cet examen qu il pourta se prononcer en connaissance de cause et nous dire vraiment ou se trouvent ceux qui ecrivent qui disent et qui font des incongruites
+    </p>
+    <docAuthor>
+     Pierre Ignotus
+    </docAuthor>
+   </div>
+   <div n="7" type="poe" xml:lang="co">
+    <p>
+     miginu  a geniu grimaldi   in dolu di u so gattu   ballada di u padrone   per me lu dui dicembre  sara un ghiornu assignalatu   lu vegu e ci pensu sempre cu lu core insanguinatu   aghiu persu le mio embre perdendu u mio bellu fattu    miginu era lu so neme   nome di mele e culatu   piu dolce che lu fiurone e lu natteru innuratu   quella chi marchia in falgione la ha tombu e lu mi ha levatu   a purta tamantu dolu  un so cum io ne feraghiu   da la marina a niolu gira vogliu fin a maghiu   da nimu un cercu cunsolu solu a solu pienghieraghiu     pienghieraghiu a meze macchie cu le ire e u sbirru banditu   luntanu da le ratacchie  di lu vittulu accanitu  diceraghiu a le curnacchie  lu colpu chi mi ha feritu   o lu mio fidu e pumposu occhi di celu e di brace  visi tondu e labbri rosu  biancu rombu di bambace ti ne andesti a lu riposu   a quattru mesi di fasce    quand ellu nasci miginu  fin di lugliu a la aurora  corse tuttu lu vicinu seculare frate e sora capannelle e lu cunfinu quellu di casa  e di fora   li amici cu li parenti tutti lu volsenu vede   a chi li tucco li denti   chi li bagio capu e pede   ellu cu ghioghi innucenti tutti apparu i cuntintede   oh   si io pensu a li to ioghi   a etc razie e gentilezze  cace mi sentu da foghi e strugge da tennerezze   e le arme mi empienu li occhi si io ammentu le to carezze    ghiugave  iurnate intiere da lu salotti a la stanza   cun tappucciu o cun bucchiere per te ci ne era abbastanza   facie mille saltere   ballavi la contradanza   un pudia move un frassu senza la 1o cumpagnia  tu mi seguitave a spassu per capi corsu e bastia  ti ne stava chetu e bassu quandu pensosu scrivia    quand io mi ne andava in lettu ne saltave prontu e lestu  ti annidave a lu mio latu    quantu volte cu lu fretu  li mio pedi hai scallatu    la matina  in primu sbeghiu  sintia lu to runruninu    avale cercu e palpeghiu un trovu piu lu to spinu   ne sentu mianghiuleghiu o migi  lu mio miginu    ti aghiu postu ind una fossa  in fondu di lu giardinu    un palmu di terra rossa copre lu to pelu finu   cusi breve la to corsa   cusi duru u to destinu    vogliu chi u to nome caru un si spenga cu ato stella   chi ellu u canti u stazzunaru   eballatia pasturella    per te chi lu appinzapalu songa di la cialamella  
+  s
+    </p>
+    <docAuthor>
+     Martinu Appinzapalu
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     a edmondu bernardini  ringroziu di buon cuor  stu vecchiu amicu si mostra versu me gentile assai   musa cortese lu saluferai i a stu gran cuore fattu all usu antien   mille volte merci li la replicu pe la grazia e pe la so manera   a casa mattei ne aud esse fiera di un omu tale  a verita li dicu   gradisca intantu una stretta di manu st amicu gentil  caru parente   benche soffrente un passu tempu in vanu  di i so giornali so riconoscente  ma u piu chi mi dispiace  oh   casu stranu    di vede chi a mio musa on sta piu a sente 
+  s
+    </p>
+    <docAuthor>
+     Paoli di Taglio
+    </docAuthor>
+   </div>
+   <div n="9" type="the" xml:lang="co">
+    <p>
+     pe u teatru di a muvra  a cumuna di parapiglia  cumedia in 4 atti di maistrale  li azionesi passa in sala di meria   attu i   scena i u sicritariu  u sicritariu  solu     sicritariu di meria   bellu impiegu   un ci e piu manera di vive  cu centu franchi un mese  impussibule  un ci e mancu da magna una volta par ghiornu  un ci e soldi  un ci e soldi   un canapu   chi elli vendinu u cumunale postu chi ellu un serve da nulla  a chi elli vendinu una furesta  postu chi elli e distruggenu tutti li anni cu u focu   e i paisani   tutti avari cume pani di orzu   mi facenu travaglia sittimane sane e     mai un soldu mancu di vittoriu  oh   ma a parte da ava  sara un altru par  di manighe   chi elli venganu   ma chi elli venganu   ava mi ci vularia una mutenda nova  ma mancu a debitu  un si ne trova  chi elli venganu  ma chi elli venganu   scena ti  u sicritariu  pitrinu   pitrinu picchia a la meria u sicritariu  intrate    a parte    ava cumencia a canzona   travagliu assai e paga  mai      pitrinu  salute  a sgio sicritariu   u sicritariu  un e a salute chi manca  chi vulete    pitrinu  bi facciu sape chi a me moglia ha avutu una zitella     u sicritariu  e po allora   pitrinu  allora  allora   saria par falla rigistra   u sicritariu  anh  anh  par falla rigistra  e cumu si chiama        pitrinu  si chiama dumenica   u sicritariu  a parte   bai  chi ti vogliu da a dumenica eanc a luni   a u paisanu   ebbe  sarafatta  e detta     pitrinu  allora a bedeci    u sicritariu  allora a bedeci   soga un sapete a nova legge    pitrinu  a nova legge   chi legge   u sicritariu  a legge  voi altri un sapete mai nulla   una legge  avete capitu    pitrinu  e cosa dice sa legge   u sicritariu  dice cos ella dice  ma si vo un la sapete  dumenica e u nome di un ghiornu  mica di una zitella  allora eju un rispondu di nuilla   pitrinu  umbe  ava unome e datu e bellu ca datu   lu avemu battizzata dumenica e po lu aghiu scritta a u me fratellu cantuneru in francia    u sicritariu  ancu chi bo laghiate scritta a pilutone   a legge e legge     pitrinu  guardate  o sgio sicritariu  si ellu ci era mezzu di arrangia le affare   si ellu ci vole a paga ancu qualcosa       u sicritariu  a parte   anh   anh   ava cumencia a vene di corpu  e   a u paisanu   postu chi bo sete di u partitu lagate sempre un cinquinu  saria dece franchi  ma un la dite a nimu   e par boi  x  pitrinu  zampendu u cinguinu   allora possu cunta sopra a boi   u sicritariu  andate puru in pace   ma    acqua in bocca    pitrinu  allora a bedeci  e grazie tante  sorte      u sicritariu a bedeci     a parte    ci e vulsuta tutta  ma  ntantu u cinquinu e cascatu  u    vogliu ampara  eju u calateiu    scena hi u sicritariu  falettu  falettu picchia u scagnu di meria   u sicritariu  intrate     a parte  ava ci e un altru rompi  stivali   ma lu aspettu   falettu  bonghiornu  a sgio sicritariu   de i u sicritariu  a  vegu anch eju chi ell e di jornu   chi bi manca     falettu  burria u strattu di nascita di u me figliolu chi si ha da ngaggia  elia  natu in  u     infine diciott anni fa   u sicritariu  pigliendu u rigistru   si  ci e a nascita di elia  ma e purtatu cume femina  allora un puo fa suldatu     falettu  femina   cumu   hanu purtatu u me zitellu cume femina   ohime  a me famiglia   a vidia chiara chi u merru  di la epuca era un assassinu  videte parch eju un era di u so partitu  u tornu chi ellu mi ha fattu  o si ellu mi casca  ellu  a so mula ou so purcellu      sicritariu  elia  elia  ci e ancu da sbagliassi  un si e mai sapiutu  si sant elia era masciu o femina  mancu in petra di verde     falettu  un dicu mica  a sgio sicritariu  ma u merru  si ella era statu sinceru  mi pudia ave cunsultata  eju  vulinteri  la avaria fattu vede e tasta      femina   un ci e male     u sicritariu  u casu e gravu  ci e ancu a prigiunia  i  falettu  a prigiunia   ohime  a me famiglia   nucente cume la acqua   un ci saria manera di arrangia si affare   mi mettu in le vosire bracce  si ellu ci e a paga a   e  u sicritariu  a parte   megliu face a vene di corpu   e falettu  postu chi bo sete di u partitu  cu dece franchi  spergu di vede di arrangia sa femina in masciu  ma un palisate         pu  falettu  palisa   mancu par more   lamdendu i dece franchi  in vita e in morte  vi ne saraghiu ubligatu   i  u  sicritariu    e detta e fatta   falettu  sorte   allora a bedeci  e grazia    u sicritariu  acqua in bocca     a parte  cinque  e dece facenu quindici franchi   u li vogliu mette  u pane in casa   scena iv  u sicritariu  u stimadore   u stimadore picchia a la porta  i  u sicritariu  intrate    a parte   ava avemm un altru lagramante   ma chi ellu venga  ma chi ellu venga    si magna e so ugne     u stimadore  bonu apitittu   bonu apitittu  u sicritariu    un  e lu apitittu chi  manca   basta chi santa lucia ci mantenga a vista  chi vulete  avete avutu famiglia  ancu voi   e    2 stimadore  si   aghiu avutu famiglia  a me lovia ne ha fattu tre di masci e sette di femine      e      
+  s
+    </p>
+    <docAuthor>
+     Maistrale
+    </docAuthor>
+   </div>
+   <div n="10" type="art" xml:lang="it">
+    <p>
+     l apostolo della corsica    l uomo che doveva illustrare con le    sue preclari virtu la diocesi di aleria   apparteneva alla illustre famiglia ge novese dei sauli   che aveva dato alla    repubblica tre dogi e parecchi senato ri  ed alla chiesa cardinali  arcivesco vi  e vescovi insigni per dottrina e pieta  si  alessandro sauli  secondogenito di domenico e di tommasina spinola  entro giovanissimo nell ordine dei barnabiti  revelandosi tosto predicatore di grido  nel 1567 veniva eletto superiore generale  e  due anni dopo il pontefice pio v  che ne  apprezzava le  non comuni doti  lo nominava vesco vo di aleria in corsica  carlo borromeo  del quale era stato maestro e guida  lo eonsacrava solennemerite nel duomo di milano il 12 marzo 157o   ll  novello presule aveva fretta di i raggiungere la sua diocesi  ove  tutti    da lui   speravano grandi cose   egli za stesso non si nascondeva le difficolta   della sua missione   dio voglia  che   nonfallisca la loro aspettazione   seri e  veva ad un amico  il 24 aprile prende  va imbarco a genova su di un brigantino  il quale pochi giorni dopo toccava le coste della isola  desolata  non senza avere corso pericolo di essere catturato dai predoni  che infestavano il mediterraneo   la corsica  dilaniata da furibonde lotte civili  presentava uno spettacolo i  selvaggio e lugubre    nido di guerra   ogni torre   la feroce tirania di ge  nova aveva fatto della isola  un cumulo  di rovine   le stragi  gli agguati  le ven  dette erano fatti di ogni  ora  le chiese i ed i monasteri  spesso teatro di assas   sinii  e quasi tutti gli edifici del culto   semi diroccati  ricoveri di armanti  po  chi vescovi vivevano nelfisola  la   maggior parte godeva le rendite delle   rispettive mense sul continente  il basn so clero corrotto e screditato  ignorante e supertizioso  non aveva alcuna au  torita morale sui fedeli molti preti non    conoscevano il latino e non sapevano 5 amministrare i sacramenti  il quadro   era senza dubbio spaventoso  e tale da   far ttemare i polsi ad un altro uomo PS che non fosse alessandrosauili  il buon  i prelato non si perdette di animo  ma i si accinse fiducioso all opera di reden  zione   la diocesi di aleria  posta sulla mi costa orientale della isola   rimasta qua   si due secoli senza pastore  si trovava  nel piu completo abbandono  tutto era 3 da rifare   dai diocesani chbe aecoglienze festose  dopo di essersi recato a bastia  a riverire il governatore della isola    che era un di lui cugino   faceva il sud ingresso   squallido  a dire vero  i l 11 maggio  trovo la  cattedrale ababattuta e lo episcopio distrutto e non suna casa da potervi fissare la propria   esidenza  la malaria regnava sovraina   allora come ancora oggi del res zo   in quella plaga acquitrinosa  fa cendo ogni anno numerose vittime   ituttavia il giorno della pentecoste pre    la parola di dio dinanzi alla popolazione accorsa  numerosa  dopo di phe ando  a stabilirsi a corte  nel cen tro delf isola  verso la meta di giugno  fambio sede recandosi a tallone  ove per prima cosa fece riparare la chiesa gedistribui largamente soccorsi ai bisoignosi  con grande dolore  il pio vesfovo  dovette  eonstatare  come la reigione non fosse quasi piu praticata da leseuino  tranne il battesimo  il popo 1 null altro aveva di cristiano  il senlento religioso era nei piu misto a superstizioni semipagane e molti non apevano fare neppure il segno  della  proce  la colpa era del clero neghitto15o  e dedito alle lotte  che insanguinafano il paese  si diede  con i pochi sardoti condotti dalpitalia a catechizre quei terrazzani con la parola e on lo esempio nelle sue gite nei pae i visitava poveri e ricchi  predicava mitezza e la conciliazione  e non di zjpdo riusciva a mettere di accordo nezpici irreconciliabili  la riforma del fero  fu oggetto di ogni sua cura e nei eentun ani che stettein corsica indiszj ben tre sinodi diocesani  nelle chieme  introdusse i fegistri dei nati  dei patrimoni e dei defunti  e negli ultimi apri del suo apostolato promulgo i deyeti del coneilio di trento  fece pure giampare ad uso del clero le   costituponi ecelesiastiche  le quali rimasero zi vigore sino alla soppressione della pocesi   ma anche da tallone dovette esulare causa dell insalubrita del clima che ferava la sua salute decise di portarsi  fuori diocesi  a bastia  ove poteva anche curarsi   tutte queste ed altre riforme incontrarono non poche difficolta  non solo fra la popolazione  ma pure fra i preti  per cui dovette contro alcuni di essi procedere con rigore  proibi opportunamente ad essi di esercitare funzioni civili  obligandosi alla sola cura delle anime   questa decisione provoco un coro di proteste  ma egli tenne duro e spunto  coi poveri era sommamente caritatevole   non solo una discreta parte delle rendete della mensa an dava in elemosine  ma pure le rendite proprie volle dedicare ai miseri ed ai sofferenti  sobrio e dignitoso  e di gusti semplici  viveva senza lusso  accontendandosi di un modesto alloggio  a bastia apri tosto un seminario  per avere buoni sacerdoti  dei quali difettava la isola  e volle che ai chierici fosse impartita una istruzione teologica completa e severa     il suo zelo appostolico rifulse di speciale splendore  allorche  dopo la vittoria di lepanto  moltissimi corsi che era  no statti in schiavitu  al loro ritorno in patria  sfiniti dai patimenti vennero da lui nutriti  albergati e vestiti  dopo una visita pastorale alla balagna  ando a risiedere ad algajola  nella pieve di aregno  ed anche qui seppe cattivarsi  con la dolcezza dei modi  gli animi dei contudidi   va notato che in questa regione  una delle piu fertili della corsica  la religione era quasi scomparsa  il popolo era ferocemente deditoalla vendetta  ed egli  con animo fortee sereno  si diede a combaterla senza tregua  proibi innanzi tutto chesi entrasse nelle chiese con delle armi  poi si diede a comporre  vecchi dissidi fra famiglie  onde ricondurre la calma negli animi secondo lo spirito del vangelo 
+  s
+    </p>
+    <docAuthor>
+     O. F. Tencajoli
+    </docAuthor>
+   </div>
+   <div n="11" type="art" xml:lang="co">
+    <p>
+     u teatru di a muvra  a banda furmata da nosiru fratellu notini viaghia di sucessu in successu   sittimana scorsa ha raccoltu li applausi di i curtinesi cu le allucazione e a pulitica   a notte di natale in venacu  fu un veru deliriu  a nova cummedia di u sampetracciu  i buvaloni e slata accolta cui piu calorosi applausi   sciaccamanate a grandinera so sia  te reservate a e graziose inlerprele   medamicelle lisa e pitruccia padovani  doroiea cesari  a i fratelli a i berti  a ghiuvanni olivieri  attempu pueti e arlisti  a casanova chi accant a u ziglione si fece una fasgiulata cantendusi una paghiella  a clemente viola chi ne pare una cardanila e a ottaviani     fra quindici jorni  grande raprisintazione in corti cu i buvaloni  un bell impiegu e a cumuna di parapiglia     inquant a e canzone nove un si contanu piu   a  moda  71 trenu  o mari  tutt e tre di jannettu  PS venachese di olivieri  i me panni di alberti       evviva a ghiannettu    u cannucchiale
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="12" type="art" xml:lang="fr">
+    <p>
+     ajaccio la nuit dans la nuit du 24 au 25  a 4 li 20 du matin exactemeut  un incendie se declarait dans le logement de la famille predali au 4 etage de l immenble portant le n 8 de la rue marechal ornano  l alarme avait ete donnee par une locataire de la maison melle helene ciecoli dont les appels reiteres trouverent bientot de nombreux echos dans ce paisible quartier de notre ville   les premiers secours furent organises par m m ciccoli voisin des sinistres martin baretti seraphin rocca  kersaudy etc sous les ordres de l inspecteur special livrelli dont l'energique ardeur est a signaler out specialement  i a 5 h 14 seulement arrivereni les pompiers de la ville et une dem heure plus tard vint le piquet d incendie de la ciladelle    le fleau fut finalement conjure apres deux heures de travail les degals soni evalues a pres de 50000 fr  t i n li l incendie de la rue marechal ornano nous a encure une fois prouve que les services de protection conte ce genre d accident sont a peu pres nuls a ajaccio    les gendarmes  tous presenis  ailleurs  les pompiers  une heure apres falarme  le piquet militaire une demi heure apres les pompiers municipaux   les ajacciens peuvent donc dormir sur leurs deux oreilles en attendant d'etre transformes en grillade ou en vulgaire cocke  di le hasard providentiel  et en l occurence le hasard pourrait bien s appeler le pere noel  a permis que quelques jeunes gens retour de reveillon vinssent a passer par la et pussent ainsi voler au secours des sinistres n  mais ils auraient tres bien pu passer par ailleurs ou ne pas passer du tout   nous ajouterons que le service d ordre officiel ayant totalement manque des individus peu recommandables en profilerents pour essayer de faire tout autre chose que du devoument  ces miserables ont je droit le plus absolu au mepris de leurs concitoyens et ils auraient meme celui d etre a l ombre pendant plusieurs' semaines    les autres ceux qui soni charges de veiller sur la securite de 25 000 existences  meritent un peu moins que des compliments  en ce qui concerne la presse dite d'information que nos confreres a part l'eveil permettent de nous etonner du silence religieux qu'ils ont cru devoir garder a cet endroit
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

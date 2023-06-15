@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1922_2
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     vexations a toulon vexations a marseille vexations partout j ai recu de plusieurs corses de toulon des renseignements sur la facon dont sont traites les employes ouvriers marins et militaires de la ville ou s illustra bonaparte la prefecture maritime la municipalite et l arsenal se sont entendus pour brimer vexer et malmener la colonie corse des ouvriers ont subi des sanctions uniquemnent parce qu ils sont corses et un oficier a declare devant moi qu il ne conaissait pas  il y a trop de corses a toulon il est avantageux de les degouter pour qu ils s'en aillent      comme si la sainte trinite de l ancre de la croix et du marteau ne suffisait pas a rendre la vie impossible aux employes militaires et travailleurs insulaires quelques renegats de la colonie corse ames damnees de p 0 poli frappes sans doute par l'efficacite des lettres de tulle ont adresse des missives anonymes  contre les compatriotes qui menent sur le littoral une action de controle d epuration et de reorganisation rendue indispensable par l autocratisme ignare et grotesque d un comite central qui ne veut pas comprendre que selon paoli qui ne veulent pas laisser aux sections le choix du president par le majorite   je ne qualifierai point de semblable procedes s'unir a l ennemi contre de pauvres bougres qui ont quitte la faim insulaire pour tomber dans la faim continentale signaler et denoncer des freres de race pour enrayer un mouvement irresistible de liberation et de conscience est le fait de gens sans foi ni loyaute indignes de porter le nom d corse    0    aussi la colere gronde entre nice et marseille et l on peut s attendre a des incidents a toulon specialement les ouvriers de l arsenal finiront par repondre violemment aux brimades de  chefs que renseignent des vittoli eti ces derniers  que l on devine aisement pourraient bien passer bientot un mauvais quart d heure  des  officiers des professeurs des empleyes ont ete sournoisement denonces et brimes mais qui seme la haine recoltera la tempete et tous les corses  de toulon du midi et de l ile malheureuse jugeront severement l altitude inconcevable des renegats et des vittoli complices des brimeurs  galonnes et  des hauts' fonctionnaires corsophobes   a titre de represailles je demande instamment a mes nombreux amis et militants de mener une campagne tenace pour que l on refuse le journal de ces miserables et qu on le remplace par a muvra a laquelle l on doit s'abonner parce que notre feuille sera toujours le refuge des faibles et la tribune des brimes  il faut tirer une vengeance efficace des procedes inavouables de certains unionistes centralistes et pour cela le meilleur moyen est d intensifier le boycottage de leur organe officiel qui doit disparaitre des cotes  mediterraneennes   je sais qu une cinquantaine d abonnes ont refuse la feuille des renegats corses de toulon de marseille et du littoral votre devoir est clair abonnez vous a a muvra organe energique de volonte farouche et de constante verite vous atteindrez ainsi vos denonciateurs au point le plus sensible leur porte monnaie
+    </p>
+    <docAuthor>
+     Orsini d'Ampugnani
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="fr">
+    <p>
+     l impartial va reparaitre  les corses de nice auront enfin un organe digne d eux   mon ami et camarade de combat de peretti della rocca fera reparaitre le mois prochain le journal l'impartial    directeur de paris nice  grand et repute journal mondain vieux deja de quarante ans combattant glorieux de la guerre il est chevalier de la legion d honneur  ecrivain et journaliste parfait henri de' peretti della rocca est tout designe pour etre le pilote qualifie et competent du journal d independance et de verite qu a ete et que sera toujours l impartial  il sera aide dans sa tache par son pere  m jean de peretti dont tous tous les cor ses ont apprecie les articles et les ouvrages signes souvent du pseudonyme de jean du maine   corses avant tout m m de peretti pensent que l on peut aimer et servir la france sans sacrifier le patrimoine particulier des provinces et des peuples qui en font partie  comme nous ils repudient le separatisme francophobe et n ont qu un desir qu un espoir sauver les coutumes l esprit et la langue des peuples meridionaux  en assouplissant le cadre francais par le regionalisme  inutile de le dire j ai contribue de toutes mes forces et de toute ma modeste influence a la reussite du projet de mes amis et je puis annoncer des maintenant que des felibres nicois et provencaux collaboreront a l impartial  m m de peretti consacreront en effet plusieurs colonnes aux dialectes et langues de corse de provence et du comte de nice et cela donnera une saveur toute particuliere a leur journal   certes mes amis apporteront dans le regionalisme corse un element essentiel de moderation mais il faut nous en feliciter car apres tout le bruit fait autour et par notre mouvement il importe de fixer d apres l experience des effets produits la formule de la politique regionaliste  la prosperite par la liberte dans le cadre francais  par leur passe par leurs origines et par leur competence journalistique jean et henri de peretti donneront a l organe qui reapparait un relief qui s etendra aux colonies corses de nice et du midi et servira efficacement les interets de notre ile  par eux les corses de nice en particulier auront enfin un organe digne de la situation preponderante acquise a la colonie par des corses de valeur qui tels santiaggi beretti bruni grimaldi carlotti de gioanni marcangeli capuri et tant d'autres font partie de l elite de la cote d azur  a muvra souhaite a l impartial le plus grand succes et invite les lecteurs et militants regionalistes a le faire conaitre autour d eux
+    </p>
+    <docAuthor>
+     Orsini d'Ampugnani
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

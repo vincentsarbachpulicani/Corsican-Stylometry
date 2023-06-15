@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k13308704
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k13308704
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 318 | Année 9
+     </edition>
+     <date>
+      1928-04-20
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Annu IX — Numaru 318 | Esce ogni dece iorni 20 Aprile 1928    GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI:  In Corsica. . . . + - , . . . . . . . 12 franchi  In Francia. . . ........... 15 »  A VYEsteru. ..... ......, 30  U Numaru:5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     opinioni  un omu  e si salvata   un si po micca capisce chi u  guvernu francese voglia  senz altru  difende a i corsi di ave e so  opinioni pulitiche e di esprimele pienghiendu i so guai  ellu chi eredito di u dogamu  des droitsde le homme et du citoyen  e chi suppurta i cumunisti   e vera chi questi so francesi o russi  e i corsi so  pe a francia     neri bianchi     cunquistati  cum ell e vera chi u dettu dogamu ii fu salvatu da un corsu    senza napuleone a mataccina di i revuluziunarj pinzuti un serebbi ancu finita ava    ma rivenimu a noi   $oga a muvra vole cambia di osteria a cirnea e mettela a quella in faccia  cum elli a gridanu certi chi so piu realisti che u re per fa i so  affarucci persunali    inno   a muvra un predica  mi pare  che a rivolta di e cuscenze corse contru a mancia guvernamentale  in una a corsica chi ghie intraccia di diventa un cimiteriu sottu selva  quand ella averebbi da esse dipoi vecchiu tempu un giardinu di vita e di bundanza   quant a la autonomia corsa  unn e micca un idea cusi diabolica da chi uguvernu ci lampi a scunghiura  postu chi millerand ellu stessu  gran  cerbellu e core patriottu al quantu  truvo la idea logica  a corsica essendu  per di so storia e per di so situazione geografica  in un casu tutt a fattu particulare   casu particularissimu  in fatti  cunsiderendu chi ella fu una nazione libera di un milione di abitenti  chi a matura a creo per esse indipendente  PSchia so storia ghie un gloriosu accoltu di lutte seculari per mantene  ss indipendenza acquistata di mascita ma chi li fu finalmente tolta perche    un limitu rinchiude la umana forza  si lu curaggiu corsu mai ne ebbe   ma lu core nun sta sottu la scorza   e per para lu spirtu unvale sepe     pero  si u guvernu attuale trova chi la idea di la autonomia corsa ghie miciva a la unita naziunale   malgradu chi a corsica un faccia praticamente parte di  ssa santa unita   chi ellu  a cumbatti cun teorie sennate  cu le azione di un amministrazione degna  e soprattutu in opere economiche e suciali da pudecci pruva chi noi sterebbimu peghiu  cambiendu di regime   un ci e che  ssu mezzu per mette ipace e u ristoru in casa incisimita   sgangherata di cirnu  u guvernu  qu ispone di  ssu mezzu  dunque  fi ellu li adopri e chi ellu porti e so pe altro  perche  e forche un   di nni mai fiuritu in la nostra terra beniu  di gloria e di liberta  mi mio contu  a dilla franca  un o lantu partiggianu di la autonomia  ca sola ragione chi si elli accadissi  ro cu 4 so mentalita in puli le puderebbi diventa una che la di merria    e sapemu cioelan a 27   va 7    e sap e una merria corsa  vendetta  rossa e miseria nera       ma un do che a mio manera di vede  rispettu quella di li altri e lesciu sempre a maggiurita prevale   cio chi ci vurrebbi  a pare me u  ghie una corsica sullevata da un sambucucciu mudernu chi sterpi e sanguette di ingordu succhiu surtite da u pilagu puliticu e appese a i fianchi diggia scherniti di mamma cirnu  un corsu di core  di energia e di talentu  una specie di miraculu sorsu di a massa  novu fiammente e creatore di a cunfederazione cirneana   cunfederazione senza mischj nucivi ne spirtu velenosu  forte e disciplinata a  manera di un fasciu  chi possa di cun autorita a  francia   o nentru o fora   dacci subitu cio chi ci revene in travagli publichi e istituzione sociali  sinno  guerra a i to guvernenti e i to percettori        a corsica fera da se  principiendu perfa dimissiuna tuttu u so corpu elettu  si u casu si presenta   in lu stessu tempu  a cunfederazione sambucucciesca dicerebbe in corte chiacchiere a i miliunarj corsi    unitevi in un cuncertu di azione economica per mette in valore iutte e ricchezze di a nostra isula  quellu di voi chi manchera a  ssu cuncertu sera cunsideratu cume traditore di patria  i vostri milioni devenu frutta ancu a vostru prufittu persunale  dunque un ci e scuse     eccu cio chi ci vole per sorte di u pantanu     unione  forza e vulunta corse  capitalisti e omi di affari  iniziativa privata in pienu soffiu di geniu e di azione ancu cu lu aiutu di caifassu  si parigi e i miliunari corsi un volenu fa u so dovere   tutt u restu je  chiacchiere a u ventu e scritti sopra a rena    unomu unomu  cirnu e si salvata  di geniu unti ne manca ne di azione  prestu  cerca e trova  cirnu amata   chi po  un omu  fa una nazione 
+  s
+    </p>
+    <docAuthor>
+     V. G. d'Altimonti
+    </docAuthor>
+   </div>
+   <div n="2" type="poe" xml:lang="co">
+    <p>
+     u cunvertitu di si  liunardu  san liunardu di portu mauriziu pridicava in de noi  cun fua di ventu  sbuffulava ogni viziu    cunvirtia a centu a centu le anime  chi a so yoce ammensava ancu u core piu feroce   dopu intesu una predica in niolu   li corre appressu e u ferma in sagristia un certu pampasgiolu    unu chi  for di a spia  a dilla in balaninu    ne avia fattu quassu quant e cucckinu     cunfissatemi  o padre  rugnuleghia   si omu  agguantendu u santu per un bracciu  san liunardu u fideghis    uh      chi goifu mustacciu    ma  surridendu  u santu  si china  e lu altru si indinocchia accantu   un la sa ma  ca diu  chi filastrocca di intrillicci e fallie di ogni culore si sgauglia da a bocca  di  ssu gran piccadore   ma e tantu u pintimentu   chi a a fine u puaracciu scioppa in pientu     le avete a pace  ava  ci un bonu surrisu  assoltu lu omu  dice san liunardu     padre  so  in paradisu     risponde quellu  e  u sguardu fissu in de li occhj a u frate     chi bi agghiu  a fa per cio chi bo mi fate   unn avariste mai qualchi nimicu    unu chi bi agghj fattu qualch uffesa    in anima  vi dicu  chi quellu ha a viia appesa  a un capellu   in di un frombu  mi laropu in du  ellu sia  padre e u vi tombu     chi sciarpolli so  quessi 2    ci un delittu vulete paga a diu tanta clemenza     eh        si  capiscu   zittu       diu legghie in de a cuscienza     ebbe      voi ne sapete  piu ca me  padre  sia cume bo  ulete    ava  sse robbe un stalbarianu piu   nebbe   a corsica ava e civile e colta   si    da u tupezzu in su       diciamu una volta      si ann e menta e pulegghiu     forse era megliu quand ella era peghiu 
+  s
+    </p>
+    <docAuthor>
+     U Babbuziu
+    </docAuthor>
+   </div>
+   <div n="3" type="his" xml:lang="fr">
+    <p>
+     film du maquis pauvres corses du continent  ce qu il leur faut subir et qu est ce qu ils prennent comme francisation par choc en retour  apres que la grande presse parisienne leur eut inflige pendant des mois la tyrannie des histoires de glozel et autres balivernes voila qu on vient de leur imposer duranti plusieurs jours le raid hippique paris cannes  qu est ce que le raid hippique paris cannes  c est l elucubration de quelques mondaines et demi mondaines en mal de publicite et desireuses de forcer l attention dun public autrement que par le moyen banal du collier de perles pas autre chose  les details de la chevauchee et le rythme une etape de tout repos par jour et une nuit de repos soni en outre etablis par quelques snobs avides eux aussi de reclame  la perfomance sportive insignifiante en elle meme et que nombre de meres de famille de notre connaissance eusseni ete a meme d accomplir dans des conditions identiques sinon meilleures si elles n avaient d autres chats a jouetter n est done qu un pretexte   vous comprenez qu il peut etre seduisant quand on est blase de fout ei du charleston qu on a pour toute famille un pekinois qu on ne s embarrasse d aucun scrupule de prendre le depari un beau matin devant une nuee de photographes avec la satisfaction de se dire que le soir meme les journaux donneront voire photo des details intimes de votre vie les noms de vos fournisseurs et les mensurations de vos cuisses et de vos mollets  ajoutez e cela que la manauore qui mesi pas sans profit se double d une operation commerciale que le lendemain meme de l arrivee a cannes les concurrentes s exhibent dans divers palaces que quelques jours apres la vedette de la course parait a l eldorado de nice dans un numero de danses nues et vous pourrez degager la haute moralite de l epreuve a laquelle les grands quotidiens ont consacre une ou deux colonnes par jour pendant 15 jours  voila ce que la grande presse d ungrand pays trouve de mieux a offrir a 40 millions de lecteurs dont plusieurs millions se sont fait trouer la peau et ont eto eux les protagonistes de la plus formidable course a la mori  voila ce que nos freres du continent qui ont encore du sang dans les veines doivent mecher et digerer en silence voila les amazones quine tiennent debout qu au son du jazz band qu ils doiveni encenser  voila les vierges au teint cireux qu ils doiveni adorer  voila les faces a claque qu ils doivent admirer  nous nous sommes empares entre mille autres choses et au galop decette equipee de cavalieres en jujube parce qu elle nous semble realiser le type parfait de ces manifestations diversement oiseuses organisees par des petits creves du bottin mondain par des hommes qui soni presenis a tous les essavages de combinaisons pantalons de toutes les bon nesmaisons de lingerie fine des hommes qui sont de toutes les repetitions generales de pieces bien parisiennes ou il y a des petites femmes en chemise culotie des hommes qui sont partout ou l on voit de l entre deux et du ruban rose  tout ceci d ailleurs pour mon  irer a quel point l air du continent est devenu irrespirable pour nous corses qui fremissons a la vue et a la lecture de tant d insanites pas assez d oxygene vraiment et trop de gaz dileteres
+    </p>
+    <docAuthor>
+     Romanetti
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="co">
+    <p>
+     pisticcine  masciu   femmina  mi so vislu  ne le ubligazione di fa esce a me zilella da a scola perche a maestra la ha posiu una lizione chi mi ha scandalizzatu   state poi a sente      achetez avec vos gonomies  un livre alphabetique  volse di un saltere  afin de connaiire votre grammaire  de pouvoir chanter une cantilene  connaitre boivin  soulf et catilina      capite  chi insulti a minnanna chi unn avia mai postu pedi in cantinella  dice chi ella era briaca e chi  infine  catillava    chi poga crianza di parla in stu modu di una donna attimpata        chi ne pinsate di sti sprupositi   di dilli a la me figliola chi tocca a pena i vinti ire anni  ne e siata scuraia   figuratevi chi ell e iantu nucente chi un sa si a mappamonda e femmina o masciu   a zitella e speria e capace  ragiona cume me jennaru pilorzu di fulgenzia chi si lascia cresce i capelli e dice chi ellu sfida u prifellu e i chjrurghi pe u jornu di a cuscrizione   u  don pour le service   un lu li diciaranu ed e fieru chi u so maestru la avia palisatu chi a testa era quella chi trascinava e cumandava u corpu  dunque  unn e che a testa chi conta  chi vulete   in paese so tutti astuti a paru     cusi dicia fiurimbella  chi ell  avia avutu sempre u  dubbiu chi ciccone di mastru laighiu di jubencu fussi masciu  mancu quand ellu caschede drentu a  cuscrizione  perche avia intesu u maggiore chi lampo    mais ci estune eruffe     ne   or a maestra la avia dettu chi zie insignava sempre a femmina    un fu che cuntenduli e coste  quand ella si avvidi chi ellu li ne mancava una  chi i so occhj si aprinu a luce 
+  s
+    </p>
+    <docAuthor>
+     M. S.
+    </docAuthor>
+   </div>
+   <div n="5" type="poe" xml:lang="co">
+    <p>
+     cursisti  muvra  prisenta sempri curaggiosa  inturchiendu li corni   to manera   e a chi ti face un azione ritrosa falli vede chi se  di razza fiera   di puru     a mio famiglia e valurosa  pront a piglia vindetta mane e sera    chi nimu a maestretti si pruponga perche quista famiglia e bella longa   forse avarei capitu a pampasgiolu cu la bella pruposta geniale   si e resu tuitafattu to figliolu   par esse la difesa nalurale   si e dicisu ancu a vene da niolu per fa la guerr  a chi ti face male   u so cantu e un leghjtimu discorsu  chi in hi so veni corri sangui corsu   in fora di leoni di ccchiatana   tutti li to figlioli lu hanu scrittu   dendu succorsu a la mal ora strana  ognunu ha presu parti a lu cunflittu  ed ellu si ne e statu a la luntana    forse ha cridutu di onn avecci drittu   quand unn ha presu parti a lu to dolu  forse ha cridutu di unn esse figliolu   u babbuziu e ghiuntu ci un bastone decisu a picchia in capu a li judei   prisentava la forza di sansone quand ellu stermino li filistei   in piu  avia a fiancu un pistulone   e in ogni canna  palle  cinque o sei   si nimu avia anciatu una parola   era prontu a scarca la so pistola   lu orsu di orezza ne e statu scuntentu di quista la superba nuvifai   e statu presu da un prisentimentu   e passo longhi stondi  nde li gnai  talmenti era bizzarru lu spaventu   a sta cosa chi unn aspittava mai   presu da lu furori  alzo li bracci e si arranco di colpu li mustacci   ancu lu cacciadore  da parigi si e offeriu a manda la miunizione    e j artigliore  pe i so amici   manda una batteria di cannone   per fa la guerra contru li numici so pronti a yene senza permissione     ogni figliu di cirnu e risolntu   per le onore  di fa tuttu par tuttu   appinzapalu  e ziu minicale   u vecchiu sindacu e lu strampalatu  tutti y anfarti chi stanu a le acquale e minichella di ascu e u sbersuraiu   da parigi parfi voce infernale  di chidazzu e filippi u cemeratu  la ajuta di le donne nun fu vana cu paoli divota e a cirneana   simonu di san jorghiu e u gran fratellu duttor luciani  simon di ji lecci    paoli di tagliu nostru giuiellu   offrinu  chi la musa  chi li bracci  tristani cu rustincu  u pastorellu  hostranu chi i cursisti nun so stracci   da pafrica mandonu i so penseri ghjlormu casanova ed olivieri   in st armaia di forza e di talentu un saria mancatu codaccioni   infine  sariamu siati centu armati e fieri piu ca li leoni   tatti soltu lu altu cumandamentu di u sampetracciu nostru cunfaloni e rocca lu gran capu di tulf ora   solta lu pannu biancu a testa mora 
+  s
+    </p>
+    <docAuthor>
+     Luigi Cossu
+    </docAuthor>
+   </div>
+   <div n="6" type="div" xml:lang="it">
+    <p>
+     un pocu di storia     prucessu verbale di la assemblea generale di corsica   segnitu   titolo xi   della corona  e della di lei successione   il monarca  e re della corsica  e sua maesta giorgo 111  re della gran bretagna  e li di lui successori  secondo le ordine della successione al trono della gran bretagna   titolo xii   dell  accettazione della corena  e della costituzione del regno di corsica   articolo primo   ii presente atto costituzionale sara presentato a sua maesta il re della gran bretagna  e per lui a sua eccellenza il sig  cavaliere gilberto elliot  di lui commissario plenipotenziario  e specialmente autorizzato a tal  effetto    art  ii   nell atto dell  accettazione  sua maesta  ed in suo nome  il di lei plenipotenziario  giurera di mantenere la liberta del popolo corso secondo la costituzione  e la legge  cd ii medesimo giuramento sara prestato da  suoi successori ad ogni avvenimento altrono   art  hi   l assemblea prestera immediatamente il seguente giuramento  che gli sara amministrato  da sua eccellenzail sig  cavaliere elliot   zo giuro per me  in nome del popolo corso  che rappresento  di riconoscere per mio sovrano  e re  s  m  giorgio re della gran bretagna   di prestargli fede  ed oinaggio  secondo la costituzione  e leggi della corsica  e di mantenere la detta costituzione  e leggi   art  iv   ogni corso prestera nelle rispettive comunita il precedente giuramento   fatto  e decretato all  unanimita  e dopo tre letture  dall  assemblea generale del popolo corso     in corte questo giorno diecinove giugno  mille settecento novantaquattro  e soitoscrilto individual  mente in assemblea da lutti i membri chela compogono   soltoscritti all originale  mario giuseppe peraldi  e gio  girolamo levie deputati della comunita di  ajaccio  giuseppe antonio capa  relli deputato della e  di appieto  angelo antonio stefanini deputato della c  di sari  don gio   agostino graziani deputato della g  di s  andrea  gio  domenico vincenti depufato della    di cannelle  ferdinando gentili da brando deputato della c  di ambiegna  saverio murati deputato della c  di casaglione  geronimo pozzodiborgo deputato della c  di arro  paolo ferri pisani deputato della c  di lopigna  luigi antonio borgoma   no deputato della g  di calcaiogio  gio  ma ria murzi deputato della c  di frasseto  gio   antonio quilici deputato della c  di quasqua ra  gio  antonio cipriani deputato della c  di campo  giuseppe santamaria deputato della c  di santa maria e sicche  ignazio ornano depulaio della c  di torgia e cardo  antonio leonardi depufato della c  di grosseto  giacomo sebastiano foata deputato della c  di azilone e ampaza  cosmo colonna ornano depulato della c  di pila e canale  ignazio pasquini deputato della c  di  ziliara  paolo battista forcioli deputato della c  di forciolo  giacomo santo casabianca deputato della c  di guarguale  filippo folacci depriato della c  di bastelica  carlo maria peraldi depiitato della c  di cauro  natale costa dep  della e  di tolla  gio  batt  fiori deputato della c  di eccica e suarella  francesco benedetto panattieri deputato della o  di sarola e carcopino  antonio maria leca depntato della c  di valle  pietro paolo cuttoli deputato della c  di cuttoli e cortichiato  battista peri depuiaio della g  di peri  pietro paolo cuneo di ornano deputato della c  di tavaco  felice antonio mannei depniato della g  di bogoguano  anton santi tavera  depuiato della c  di tavera  marc angelo mariaggi depntato della  c  di ucciani  giulio orazio  carbuccia deputato della c  di carbuccia  gio  francesco sabiani deputato della g  di zicavo  dezio bartoli  denufato della c  di palneca  antonio fran   cisci deputato della g  di ciammanaccie  pietro paolo casanova depuiato della e  di 8  polo  antonio tasso deputato della c  di tasso  antonio bozzi dep  della c  di guitera e giovi cacci  ignazio peraldi deputaio  della c  di corra  giacinto renucci deputata della c  di cozano  sebastiano peretti deputalo della c  di zevaco  pasquale bertolacci  e gio  antonio frediani vidau depulati della c  di bastia  filippo graziani deputato delle c  di s  marlino di lota  pietro casanova deputafo della c  di casevecchie  pietro francesco samaiei deputato della c  di cardo  pietro paolo morati deputato della c  di ville  francesco figarella deputato della c  di s  moria di lota  pasquale negroni depniato  della c  di rogliano   gio  maria marini dep  della c  di  tomino  antonio padovani depufato della c  di centuri  antonio tommasi deputato della g  di pino  domenico stella deputato della c  di morsiglia  francesco vecchini deputato della e  di luri  angelo francesco marchini deputato della c  di meria  cosiantino altieri deputato della c  di barettali  don giuseppe anfonorsi deputato della c  di cagnano  anton giacomone lazarini deputato della c  di pietracorbara  gio  tommaso tomasini  e angelo nunzi deputati della comunita di sisco  ambrogio franchetti deputato della c  di brando  vincenzo alessandrini depulaio della c  di canari  giorgio saliceli deputato della c  di oliastro  pietro giorgetti deputato della c  di olcani  silvestro angeli deputato della c  di nonza  anton giacomo pietri deputato della c  di olmeta  anton luigi astolfi deputato della c  di cervione  francesco maria agostini deputato della g  di s  andrea  francesco luigi biscari deputato della c  dis  giuliano  luigi santolini deputato della g  di valle  angelo raffini deputato della g  di s  nicolao  clemente semidei deputato della c  dis  reparata  paolo emilio gontri deputato della c  del poggio di s  maria  eugenio giordani deputato della c  di s  giovanni  paolo luigi vittini deputato della e  del poggio di tavagna  gio   federico filippi deputato della g  di isolaccio e taglio  gio  cesare borghetti  deputato della c  di orneto  carbonaccia  e velone  angelo luigi maria corsi deputato della c  di talasani  angelo santo taddei deputato della c  di pero  lodovico santo gaffajoli deputato della c  di moita  carlo matteo manenti deputato della g  di pianello  giambattista marsili deputato della c  di matra  gio  felice taddei deputato della c  di tallone  felice antonio lepidi deputato della c  di zuani  carlo giuseppe negroni depulato della c  di ampriani  don persio tristani deputato della c  di zalana  giulio antonio pietrini deputato della g  di linguizetta  pietro saverio casalta deputoto della e  di canale  marc antonio ferrandi depuiato della c  della pietra  e amministratore generale  giuseppe maria felici deputato della    di chiatra  clemente calendini depulato della c  di tox  anton giacomo brandizj deputato della c  di campi  pietro antonio mattei deputato della c di novale  bartolommeo  dionisj deputato della c  di valle  angelo bereni depuiato della c  di felce  filippo francesco muzj depulalo gella c  di piobeta  gio  pieiro raffini deputato della c  di tarano  anton martino emanuelli deputato della c  di perelli  pietro bonifacj deputato della g  di piazzale  carlo davidi deputato della c  dell  ortale  anton domenico bartoli deputato della c  di isolaccio  domenico francesco tiberi deputato della e   di ventiseri  matteo pietri deputato della e  di ornaso  pasquino achille deputato delle c  di solaro  paolo domenico susini deputato della c  di prunelli  giacomo francesco maesiracci deputato della g  di corte  domenico santoni depuiato della c  di castiglioni  don francesco colonna dep  della g  del prato  gio  battista ciaccaldi dep  della    di popolasca  orso andrea colonna deputeto della c  di piedigrigio  gio  agostino santini deputato della c  di omessa  tommaso cervoni depniato della    di soveria  paolo luigi taddei deputato della c  di castirla  francesco ant  vincentelli deputato della c  di castifao  giuseppe guidoni depufato della c  di asco  saverio raffalli deputato della c  di canavaggia  niccolo giorgideputato della c  di moltifao  e membro del  governo  pietro sinibaldi depuiato della c  di casanova  felice giorgi deputato della c  di campovecchio  domenico giacobbi deputato della c  di lugo  francesco maria guglielmi depuato della g  del poggio  anton francesco casanova deputato della c  di riventose  pietro e irdioni deputatc della c  di s  pietro  e am  e ministratore generale  maileo stefani depulato  lella c  del seraggio  francesco costa depuiao della c  di gatti di vivario  anton santo muracciole deputato della c  di muracciole  santo allibelli deputato della c  di antisanti  fichele micheli deputato della c  di noceta  rio  giacomo guerrini depniato della c  di tospigliani  orso santo bonelli deputato della   di vezzani  anton filippo tristani deputato ella  g  di pietroso  gio  lorenzo natali eputato della g  di lugo di nazza  anton falteo mucchielli deputato della c  di ghisoi  orso pietro maestracci dep  della c  di orscia  francesco rossi deputato della c  di ozzi e acquale  simone alberlini deputato ella c  di albertaccia  giuseppe maria genti i depritato della e  di calacuccia  orso leone antini deputato della e  di casamaccioli   aolo ignazio de zerbi deputato della e  di ermano  gio  benedetto andrei deputato ella c  di bustanico  gio  andrea defendini eputato della c  di alando  pietro luigi farcantonj deputato della e  di alzi  carlo faria mazzola deputalo della c  di mazzola  ior santo semidei deputato della c  di iedicorie  giuseppe felice orsini deputato ella com  di rebbia  paolo luigi orsini depuato della com  di arbitro  francesco antonio antini depniato della com  di castellare  nionio trojani depniato della com  di tra  nca  giuseppe maria guiducci deputato della om  di s  lucia  giulio orsatelli deputato ella com  di favalello  orso giovanni paoli eputato dello com  di altiani  germano tris  ini deputato dalla com  di focicchia  carlo ilippo marchioni dep  della com  di pioiorte  luc  antonio gabrielli deputato della om  di pietraserena  durenzio terramorsi cputato della com  di giuncaggio  giacomo  rancesco tristani deputato della com  di ancheraccia 
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="7" type="the" xml:lang="co">
+    <p>
+     teatru corsu di a muvra  a pulitica riassuntu di cio chi precede  i dui fratelli ors  antone e ghjlormu  elettori di u merre jacumone  omi  di poca vulunta  so assaltati da     moglie  dorotea e fiordalice ck avendu ricevutu visita e prumesse ha u novu cuncurrente  li facenu cambia partitu  o   i ghiacumone  fissatu  e vantendusi di lu appoghiu di u judice di pace  decide di caccia di a lista eletturale i fre elettori chi ellu perde   e dui cummari li facenu a cummedia in sala di merrie  a notte diu 4 ferraghiu   ghiacumone   posa  ti dicu   ghiuvanni  ci un gestu espressivu di manu versu lu usciu    ci truveremu a la aghia  si diu vole    ghiacumone  a voce bassa    posa  per iu criminacciu  lasciateli anda   scena iv  ghiacumone saveriu ghiuvanni  ghiacumone   mirate chi e parolle un tafonanu pelle  e i fatti so quelli chi cuntanu   ghiuvanni   allora  o sgio merre  avale site ben persuasu    ghiacumone   altru ca persuasu      ma unn anderanu luntanu a pentesi  lasciate puru fa    ghiuvanni  ie  ma per cio chi elle venenu di lenta qui     u lu appiccighemu  ssu cirottu chi vo  le avete prumessu  a ste lingui longhe   ghiacumone   u prucessu verbale   uff  lasciemu corre   pensemu piuttostu a li affari serii  a v aghiu digia detta   elle hanu i detti  noi averemu i fatti caccienduci intantu i so manzetti di omi da tra li pedi   saveriu   micca solu da tra li pedi ma ancu da stu mondu  i caccieria  si iosapissi di un fa pescatu    ghiacumone   eh  o savel    tu po ci vai un pocu forte   eili corci  un so gattivi sughjetti    saveriu  cuntentu   ma tantu  sottu  sottu e sottu ci vole a sta      gesiu speciale di le indice di una manu sottu a palma di la altra manu   ghiuvanni  cu listessu gestu    le  sottu  sottu  ci vole a sta      che  o sgio merre   ghiacumone  suddisfaitu   comu li pare     saveria eviva noi  per lu mundacciu    ghjuvanni   eviva noi    tendone  attu terzu scena i  u judice bilancia  u secretariu  numerose persone   bilancia  a u secretariu    tut ti e prontu pudemu principia credup  u secretariu   si  signor ghiudice   bilancia  sona a campanella   hum  hum   tossa    rumore in la sala  silenziu    tossa  hum  hum   urumore cuntinua  silenziu  dicu  o jente di sti cunfini  soga pigliate a justizia di pace per un pagliaghiup  risate  finimula     avete capitu   rumore  allora  vulemu fa silenziu   x a 2 e e a ca o mi ne vo a ghiudica in casa meia    sona dino a campanella  e    rumore si arreghie  i p     hum  hum(r)   signori  eccuci  qui  oghie  25 aprile 1o    per ghiudi ca sopra a e liste eletturali di e differenti cumune di u cantone lopu esame di e decisioni pigliate ia e cummissioni municipali  nis unu ha diriftu a a parolla fora che incaricati di issioni neari  i di e dette cummissioni    mmissioni   di e partite aversarie  avete capiu  avemu dunque disognu di sienziu  e quellu chi aprera a bocca endz esse interrusat a  ir tu i cntesse interrug avera di e  u secretariu   si  signor ghj dice  a i vostri ordini  de  bilancia   per du e dass ve vulemu principia      u secretariu   cumuna di  e i di sant  disgraziata  a  scena ti  i listessi  saveriu pe a cummissione municipale  un elettore per difenda a parti  aversaria     bilancia  sona a campanella    avanti    u secretariu  a voce rivolta    santa disgraziata    bilancia   alo  cummissione municipale e difendidore aversariy di a cumuna di santa disgraziata fatevi avanti a sta barra       si avanzanu saveriu e lu altru elettore   bilancia   quale site  voi   saveriu   saveriu pastacciuli cummissione municipale     ianu amicu di u sgio ghiacumone      bilancia   parlate forte    saveriu  a voce rivolta    save  riu pastacciuli  pe a cummissione municipale  amicu di u sgio       bilancia   lascemu corre li ami  cizie    ne avete sopranomi    saveriu   mi chiamanu mullizzone  signor ghiudice  e un so micca perche   bilancia   avete un mistiere  un impiegu   alo  parlate   saveriu   sottu piore di a cunfraternita  signor ghiudice    eppo si travaglia un pocu di tuttu  pudete pensa    a lu usu di i nostri paesi    mio moglia spazza a scola e a mer ria    tuttu face chi       bilancia   basta cusi  vostra moglia unn entre in lu contu   a u secretariu  avete nutaiu    u secretariu   si  signor ghiudice   bilancia  a le elettore aversariu     e voi  sentimu un pocu  dateci i vostri nomi  cugnomi  qualita  ecc     le elettore  appughiendu sopra ogni parola  clemente scambaroni  dettu boccapanzulu  campanaru  avucatu di u partitu contr u merre     bilancia   benissimu    a save riu  voi  dateci a cunascimenti e decisioni di a cummissione   a u secretariu  pigliate i scritti chi cuncernanu lu articulu radiazione    u secretariu  leghie    appelli in ghiustizia di pace pe a radiazione di li elettori   ghjlormu  ors antone epaulu ...    saveriu  interrompe    i tre figatelli   bilancia   chi so  ssi figatelli   saveriu   avete vulsutu sape u mio cugnome  signor ghiudice  e ghiusta chi io dica ancu quelli di li altri   dl  bilancia   capiscu  capiscu  sti tre elettori so di listessa famiglia  e i figatelli saria u cugnome di sta famiglia   a u secretariu  cuniinuate   u secretariu   dimu dunque  ghjlormu  ors  antone e paulu manzetti  a dumanda in radiazione e stata fatta da u sgio     8  saveriu   lu aghiu fatta eiu  si gnor ghiudice  a cummissione la ha appruvata a la unanimita  e un pudia fa altrimente  perche  cio chi e veru un po ca luce   bilancia   a juce  simu noi qui per falla  cu i puteri chi ci so cu cessi   saveriu   un ne dubitu  signor ghiudice  siccomu un site un om da bene  un omu di pura justizia  bilancia  gestu di manu di fo mu chi unvole lode    un surtim(r) di a quistione  spiegateci dundue  mutivi di a vostra dumanda       saveriu   i mutivi so boni  posi  chi a cummissione la ha appruvatti un vi pare   
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     animali sitagnanu da a populazione  ogni animale si lagna pi ja populazione    tempu juntu ala muntagna   nu la piu bella stagione  ghje lu populu nimicu  ghj ji manda stu casticu   ogni bestia si lamenta   sia grossa o pur minuia  ma nisunu si spaventa  pi sta pesta incunnsciuta  p ogni cristianu natu le animale e biastimatu   si lamenta ju vitellu  chi fu ju primu attaccatu  ella corciu   mischinellu   ghje sempre a gridu levatu  nimu corre a la campagna per cura la so macagna   a capra  senza riscallu   bi face cumpassione   e dice     chi ti aghiu fattu  populu senza ragione   per me  malannu e dulore   e nisunu mi succorre      si lagna la pecurella   bestia cusi di bone core  ppuru si presto anch ella quando nasci lu sigaore   e ci da cu tantu affettu  glatte di lu so pettu    si pienghie ju mannerinu chi da tuiti e detestafu       oh   chi perfidu destinu  da quale sera mandatu   purtantu vecchj e zitelli amanu li figatelli    di sti povari animali ogn un prega lu sterminu   ma seremu tutti uguali eprestu senz un quattrinu  si ellu sparisce u bestiame   ci pizzichera la fame   di la bestia  lu pastore   ava qui piglia difesa   ne parla cu gran vigore  sempre tenendu sta tesa    de u passatu e per pabbene bu vivu chi ci mantene    eli pruprietari  a paru  vendenu li so reghioni   u prezzu je tantu caru     ci calanu poricchioni    per noi altri lu strapazzu  e per elli i boni bueconi   simu sempre invidiati da poveri e da signori    chi elli siamu cundannati  per cent anni a fa i pastori  di dicembre e di jannaghiu sempr esposti al acquifraghiu  ogn unu ci detesteghia  incu manera spietata   quantu in muntagna che in pieghia  a galera e preparata    sla a tortu o a ragione   ci preganu la prigione   si ne ride lu avucatu in cu ju procuralore   ci tratta di mal andatu   que ghie lu unicu favore chi ji nosiri capizzoni facenu pe lu pastore   finiscu in mio lamentu   a penna vogliu ripone   pastore  serai cuntentu  di leghie qui ste canzone  di quellu chi ghie firmatu 
+  s
+    </p>
+    <docAuthor>
+     Barbirossu u Spenseratu
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     sant antone  festa patrunale di u mio paese  u diciassette jannaghiu  festa vogliu a sant antone  la feraghiu cu gran core ecu tutta divuzione   in ricordu di i mio jorni passati iront a u cannone   quella epuca gia luntana un pare mancu piu vera  aspittendu la mio morte da la matina a la sera  pensav a lu mio paese recitendu sta preghera    fate  voi  o sant  antone  chi avete lu gran putere  datemi forza e curaggiu chi ioresisti a ste fruntiere   u mio paese nativu   chi io possa rivede  vivu    a sant anfone di u porcu vanu i mio ringraziamenti  grazie ad ellu  suppurlai li mio piu tristi mumenti  e  piuvendune a rivoce u   u piombu mai mi ha toccu   cantemula tutt inseme   di sant antonela festa  perchi noi possamu  a u male  teneli sempre la testa   e ci franchi di e disgrazie  focu  fulmine e timpesia   chi ellu regni sant antone  u nostru gran prutettore  chi ellu ci venga in ajutu nott e ghiornu a tutte fore  e poi purtacci cun ellu   in celu  cu lu signore 
+  s
+    </p>
+    <docAuthor>
+     G. L. Alberti
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     a i nostri raprisintanti  i nostri raprisintanti ava so tutti sbarcati   e ni temu forfamenti chi ellu un sianu malati   me  murissinu pur tutti  un sariamu ruvinati    cu  certi di  ssi puntelli  ci e di ave poca speranza   tuttu lu so sape fa  so le prumesse in prisenza  poi  vultatueilu spinu trovanu chi e abbastanza   tutti li so chiacchiareiti duranu pochi momenti   in cu tulti si prumessi nun ci e da spera nienti  chi ella saruggi la so razza e stirpa la so sumenii i   so tutti quanti listessi  mancu ci e da fa pareta   ma credu chi pa  uni pochi sara la ultima scumpiela   nasn  in palazzu birbonu   un ci ne hanu piu da metta   ma la megliu di li cosi e di tenali a distanza   chi  duranti lu so tempu   ci ne hanu fatt abbastanza    e si elli un volenu senia   li si ampara la crianza   li parolli che vi dicu  so di un corsu di i siniceri  come me tutti ti corsi faranu lu so duveri    nanzu che di sceglie ad elli  e megliu sceglie nn sumeri   un li canusciti titi    so infidi come la volpi   si ellu un fussi pe a paura ci farianu brutti colpi  chi elli sianu da lu lupu e chi un lionu li spolpi    di tutti quant elli so   un ci ne e manc unu fidu  buv oglia chi omu ni passi   si senti listessu gridu      di tutti li so prumessi vi juru che mi ni ridu    chi diu ci guardi a tutti da quillu chi si e rifattu   nun parla piu a nissunu  subitu chi ell e impiegatu   kun vi da mancu risposta si nanz unn e salutatu   cacciemucili di via ancu a colpi di bastonu   e di a nostra valintai chi ognunu sia padronu   chi sa   a forza di sceglia  travaremu ancu lu bonu    par finiscia diciaraghiu a tutti quil di sta ciorma      ni seti mulacei vecchj e boni dala riforma   stelivi dunqua da cantu chi un seti boni che a dorma  
+  s
+    </p>
+    <docAuthor>
+     G. P. Codaccioni
+    </docAuthor>
+   </div>
+   <div n="11" type="div" xml:lang="fr">
+    <p>
+     giurnali elezione  ... et cependant il n est que de regarder autour de soi pour se rendie compte de la lameutable situation dans laquelle croupit notre malhenreux pays  on n a pas assaini un pouce de terrain ghisonnaccia esi toujours le point terminus de la voie ferree de la cote orientale  les bateaux fraissinet n ont guere accelere leur vitesse et aucone unite nouvelle n est venue accroitre la flotte de cette nefaste compagnie  le projet d electrification dort dans les cartons de l administration  l etat des routes esi lamentable  les ecoles sont des taudis l agriculture et l industrie n etant pas encouragees l emigration s intensifie et la cherte de vie augmente sans cesse  la sante publique laisse de plus en plus a desirer la tuberculose continue ses ravages et le sanatorium obligatoire pour chaque departement loi de 49148 n est pas encore projete  dans le domaine moral et intellectuel rien n est fait pour sauvegarder la dignite du caractere insulaire et la tradition d honneur qui doit etre la gloire de notre pays l etat peu a peu nous depouille de notre patrimoine culturel notre dialecte est meprise  penseignement de notre histoire est neglige presque interdit l idee d une universite insulaire ne fait l objet d aucun examin serieux livre pieds et poings lies a une majorite maconnique le pays se demoralise et se dechristianise  tel est le triste bilan de l oeuvre gouvernementale facilitee par l inertie ou la complicite de nos representants nous le soumettons sans acrimonie au jugement d un publie que nous avons vonlu eclairer et qui nous l esperons ne se laissera pas berner une fois de plus  il faut souhaiter aussi que ce public enfin edifie reconnaisse que les faveurs personnelles qu il serait tente de soliciter ne font qu aggraver la detresse generale et qu elles appellent forcement comme contre partie des charges nouvelles qui annihilent les avantages obtenus par d humiliantes supplications  il suffirait pour mener a bien l oeuvre de salubrite et de progres que nous appelons de ious nos voeux d un homme degage de touie ambition personnelle et qui ne verrait pas dans son mandat un tremplin pour ses convoitises ou une assurance d immunite contre d eventuelles poursuites cet homme fort d une independance dont ne peuvent plus se prevaloir jes deputes sortanis doue d une energie dont avcun de ces derniers n a jamais fait preuve et d une connaissance approfondie de toutes les questions corses n aurait d autre but a son activile que le relevement materielef moral de l ile et le salul du penple corse  cel homme se revelera t il  d sanguinetti   corsica  il y a longtemps que nous signalons ici les dangers d one presse dite d'information  entierement livree aux politiciens et dominee par la police de surete generale qui se permet tout parce qu elle a les clefs de l opinion cetie presse a grand tirage est en fait une presse de communiques emanant de la presidence du conseil du quai d orsay de la place beauvau de la prefecture de la seine dela prefecture de police ou venus par les canaux des agences et parallelement une presse de faits divers composee en premiere page de plaques de sang decoupees dans la pegre parisienne par ces messieurs du quai des orfevres et de la rue des sanssaies contumiers eux memes de ous les stnpres comment les choses en sont elles arrivees la c est l histoire de toute democratie qui tof ou fard s asservita une maffia cette maifia fait trembler les marchands de papier qu elle alimenie en recits de meurtres et de cambriolages a  l action francaise
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="12" type="feu" xml:lang="it">
+    <p>
+     non erro  non vi fara disturbo  generale  dargliene anco cue dei vostri  i    devota  poiche mi pare che siate devota pieragia di castirla       si certo  giusto  voleva dire che voi non mi avete riconosciuta     il vostro zitello non avra mestieri di questo brutto regalo  se come corpo gagliardo gli deste cuore disposio adoperare viriuosamente in pro del suo paese     ma sicuro che gliel ho dato  fatti qua oltre    o dove sei ito  presto  che ho furia   il giovanetto si era rimpiattato dietro le spalle alla madre   ella lo spinse dinanzi a se tutto vergognoso con gli occhi bassi  il generale gli pose la destra sul capo  e gli disse      guardami in viso   ed egli lo guardo  allora il generale si volse alla madre  e soggiunse      nor occorre altro  devota  questo giovane fara dire di se  o non mi chiamo piu paoli  lo met to nella mia compagnia col fiore dei giovani del paese     e adesso vado a infornare il pane  mio colombo addio  un bacio e addio     uri altro  e un altro  signor generale  non ha da costarvi nulla    capite    grazie a dio ho da fargli le spese  e ad un altro ancora se occorrera   gli mandera o gli portero la provvista settimana per settimana  ve io raccomando perche lo ho solo  ma all occorrenza non lo rispariniate ve  giacinio mio  obbedisci il signor generale come obbedivi a tuo padre  che vuol dire un zinzino piu che a tua madre  e ora anche un bacio    e addio  che ho furia   p   e via di corsa   il generale stava per richiamaria  senonche minuto grosso gli diede su la voce notando         lasciatela andare  eccellenza    che la buona femmina pare che abbia furia di andare a infornarvi il pane  e un altro figliuolo   minuto  dubito che la stagione dei tuoi motti sia passata   per me  penso che sela nostra causa sostenuta dalsangue piu puro delle viscere del popolo avesse a soccombere  sarebbe segne che dio lia ritirato le sue sante mani da questo mondo  i  rientro il paoli ne la stanza  e chiusane diligentemente la portasi volse al cavaliere valcroissant dicendo     signor colonnello  se vi piacera espormi il fine della vostra ambasciata  sono disposio ad ascoltarvi   il cavaliere attendeva ricevere lo invito di assetiarsi  visto pero che il paoli prese a camminare su e giu perla stanza  non fu tardo ad imitarlo   intantoche essi si movevano su due linee paraliele  il cane nasone messosi in ierzo si era cacciato nel mezzo regolando i suoi moti con quelli dei nostri perso  naggi  il cavaliere chi era uomo dotto non pote astenersi a cagione della accompagnatura   di paragonare il paoli con gli eroi dei tempi a mezzo barbari  come evandro  pa troclo  telemaco e siface  che virgilio  omero e tito livio ci rappresentano inseparabili dai propri cani  e per la irrequietudine sua a catilina il quale giusta quando avverte sallustio  ne vegliando dormendo poteva star fermo un mo mento  tuttavolta con felice disinvoltura incomincio    innanzi tratto permettetemi  signore  che io mi congratuli con voi  che col senno e la fermezza  che tutta europa cnorano aveie saputo ridurre i corsi dallo stato  in cui vivevano  a quello in cui oggi li vediamo       e li conoscevate voi questi corsi      i francesi  che con la distanza di parecchi secoli visitarono la isoia  ci lasciarono ragguagli cosi copiosi come veridici    e adesso li conoscete voi questi corsi    f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

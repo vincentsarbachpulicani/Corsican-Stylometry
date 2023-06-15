@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1331010d
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1331010d
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 272 | Année 7
+     </edition>
+     <date>
+      1926-11-30
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Annu VII — Numaru 272 E”  Esce ogni dece iorni " 30 Nuvembre 1926  MUVRA  GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI :  in Corsica. . -,. + . . . . : . . . - 12 franchi  mFrancia................ 15 »  à PFPEsteru. ............. 30  U Mumaru:5 soidì  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 38. — ATACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="fr">
+    <p>
+     un anniversariu  d 30 novembre finiscenu 137 ini che a corsica fu dichiarata terra francese sta data seria cume sempre passata inabista senza che if giurnale francese di u 7 novembre l avessi fatta cunnosce a i so letdoi per l intermediu d un scrivaciuianu insipidu e insipiente  un ci dispiace micca a u cuntraciu ci permette di jtta un colpu d oechiu indaretu e di cuntimpla e mine accumulate stu fratempu per unn esse tassatu di parzialita un parleraghiu micca tantu eiu quantu ch io feraghiu parla queili d i quali nesun impinzutitu po suspetta e simpatie  i cedu a parulla a u prufessore ambrosi chi n a cunferenza ch ellu ha datu in nimes e chi fu stampata diu petit marseillais wi 7 8 e ro jugnu 1926 si sprime cusi    la constitution qu il pasquale paoli fil adopter par ses compatriotes dans une assemblee generale de 1755 celebrait ces idees de liberte  d egalite de souverainete populaire de tolerance relipisuse qui sont aujourd hui notres le 14 juillet la republique corse fut fondee et declaree indipendante c etait la premiere republique de l europe protoivpe de la republique francaise fondee quarante ans plus tard paoli general et president elu pour de lmigues annees reduisit les genois a quelques places fortes il dotasa patrie d institutions nouvelles  un hotel des monnaies une imprimerie nationale une universite l armee fut nationale composee de tous les citoyens qui sarmaient et se nourissaient euxmemes les fonctions furent gratuites  la justice impartiale et rigoureuse merite de surviore dans l expression populaire de  justice proline il eut sine marine de guerre qui osa entreprendre une conquete coloniale lile de ca raja grace a un pouvoir execuhj fort parce que degage des variations electorales a un pouvoir legislatif reduit strictement a son rile de conseil et de controle la corse etait libre tranquille hohoree et prospere  strufinatevi pocchj EUR rileghjte  situ a pasquale paoli a corsica a libera tranquilla onorata e prospera  scrivendu que un sinnieghiu micgi ripetu i termini di u prufessore ambrosi e ambrosi un facp micca perte di scrittori muvristi  chi stomacu po ave u cullaburafore di ue petit marseillais per ststene che  ce fut au 30 novembre 1789 que declaree partie in EURranie dela france la corse di briser pour toujours ses fers et s ecrouler v anarchie de tant fe sitcles ce grand acte de liber sociale etaii reserve a la fran k c est sous louis xv que les e urs de la corse cesserent  cs sous louis xvi que la civiliion y pesi rod de e prit son essor  e forse kai quessa chi i francesi l hanu im et c est sous l egide des do ts principes de 1789 que timeneerent a germer dans li le l agriculture le commerce et les arts    eccu un bellu schiaffu a verita a'storia e a y antichi corsi a testa di i quali stava de paoli  que les souverains del europeadmiraieni   eambrosi chi cuntinua a parla un contemporain vantait sa science son instruction sa dignite de vie  c est un homme disait il qui fait honneur a l honime  catherine de russie lui envoyvaii des compliments flat teurs  frederic de prusse une epee d honneur ou se troisvaient graves ces mots   combaits pour ta patrie  et jean jacques rousseau lni ecrivait son etonnement et ssa sympathie le bonheur de l ile paraissait complet elle avait come chef lun des hommes les plus remarquables de ce remarquable dix huitieme siecle  le bonheur de l ile paraissait complet    e qual e chi trunco a felicita cumpletta d u populu corsu  a francia suffuchendu a liberta a tranquilita a prusperita in u sangue di martiri di pontenovo  u zo novembre e per noi un anniversariu chi noi un putemu celebra   dipoi che a corsica e francese e nazioni un ci hanu piu mandatu cumplimenti ne applausi ma sentimenti di pieta e di cumpassione   une preuve frappante dice la corse di u primu novembre 1925  sur la question primordiale question de vie ou de mori pour la corse on peut le dire sur les ravages du paludisme elle se decharge du soin d apporter le remede sur la societe des nations elle supporte qu unemission americaine qui visite generalement les races desheritees miserables a qui elle apporte les consolattons de sa charite vienne chez nous comme elle est allee chez les armeniens distribuer quelques soins a nos malades  elle refuse 8 millions a la corse pour etablir les relations maritimes qui la relieraient plus etroitement a la france  etelle envoie so millions pour la culture du cacao et de la vanille en afrique occidentale  aghiu prumessu di lascia parla a l altri tengu parulla o per megliu di a passu a u giurnale di caitucoli chi tuttu u mondu a sa unn e di i nostri dunque di poi chi a corsica e francese  notre pays a ete systematiquement ecarte des preoccupations de fous les gouvernements la republique a genereuserment installe le rail dans les continents les plus eloiones les negres des colonies loiwtaines ont des trains pourvus de tout le confort desirable  wagons couloir dotes de w c etc sit  notre voie ferree a nous s arrete comme par hasard en pleine foret et les pauvres trams qui circuleni entre les deux principales villes de cofse sont un anachronisme a cote de ceux des autres depariements frangais i les tarifs combines des chemins de fer corses ef des transporis maritimes rendent impossible toufe exportation de nos produits et font revenir a des prix sureleves les articles que nous sommes obliges d importer   trois cents millions ont ete depenses en vertu du mandat que la france exerce en syrie la mise en valeur du maroca coute a la mere pairie une somme globale d environ cinq milliards un programme s appliquant a la france entiere d une depense de douze milliards a ete etabli par le mi nistre des travaux publics canoaux tunnels forers hydrauliques oeuvre d un caractere local regional national tout y est prevu c estun travail qui fait honneur a son auteur la corse a cependant encore ete onbliee  quand done posera t on nettement la question de confiance du departement isole ot delaisse   la jeune corse du 27 novembre 4925    e dopu ave lettu st articulu quale seranu i corsi ch averanu u curaggiu di celebra l anniversariu di u 30 novembre  saria veramente tina cosa miseramente ridicula   perche  perche sarebbe celebra l anniversariu di a ruina di a nostr isula avanti d esse fraricese a corsica era libera tranquilla e prospera e facia l ammirazione di tutte e pu tenze  rileghjte ambrosi  i dopu ch ell e francese a corsica e un paese abandunatu chi face cumpassione a tutte e nazioni  rileghjte la corse et la jeune cor se
+    </p>
+    <docAuthor>
+     S. c.
+    </docAuthor>
+   </div>
+   <div n="2" type="let" xml:lang="co">
+    <p>
+     lettara aiaccina  e caru cumpare   bi avia annunziatu st etima scorsa chi u nostru rocca andava megliu  dopu a mio ultima lettara avemu avutu quantunque i penseri a causa di novi accessi di frebba di malta   un averia mai cridutu chi malta  isula  cusi cristiana  pudissi crea una frebba cusi infernale   ava si e puru alluntanata anch ella  chi u diavule a si porti in su le forche   p tru  giranduleghia digia pe a casa  sempre snasittendu in li armadj o in le pignatte  lagnendusi chi elli un li danu mai abbastanza da magna  figuremuci un pocu si quessa ci face piace   i nostri amici e fratelli di fede devenu  credu  risentene altrettantu      e visite di questi un so state a pocu  alessiu marchetti  simonu di aulle   sambucucciu di casinca  prete gentili  lucciardi  simonu di li lecci  costa  appinzapalu e tant  altri inchieti pe u nostru malatu  so benuti da luntanu  i piu distanti e li impediti da mutivi serii unn hanu mancatu di scrive a spessu dumandendu nutizie ringraziati sianu tutti da parte di rocca e di a muora   essendune a u capitulu di li amici  un mi vogliu scurda di fabbi sape chi maistrale  sbiguttitu da quella famosa grandinata  si e lampatu a u trottu in portu  inchietu pe e so alimeie  ava bene di annunciacci chi a grandina un ci e ghiunta ma chi   i i cumpensazione  li incettaghi ci so  affaccati ci un  scalu di prezzu sprupusitatu  poveru maistrale   averei zappatu in mogliu  chi a vegu  campa chi ava ti daranu anc a te una pensione di guerra    simonu di aulle  ellu  fiaccu di varia nurdinca  si ne e rientratu a u paese  sfrumbulendu lu impiegu per prufitta almenu di e veghie paisane cu e so castagne arrustite e i sanguinelli nataleschi  5  noi altri qui ava  caru cumpare  avemu puru u bellu tempu dopu duie settimane di toni  saiette  venti e burrasche  u celu e ridiventatu serenu  fenduci gode cusi belle jurnate tepide e assulanate      si aiaccini ne prufittanu  caru meiu      u diamante  u grandval e u corsu napulione  credu chi elli frusteranu da i colpi di taccu chi elli ricevenu da a mane fin a mezza notte  i      i menu frequentati so i caffe  o figlioli      un pastizzu trenta soldi  altri cinque soldi appicigati pe u pourboire      un bale a di ma     ci vole a cunta  chi a vegu    i cinema  per contru  so sempre pieni zuffi  una e chi i prezzi so raggiunevuli  la altra e chi quantu u napuleone che u municipale prisentanu films di tutta bellezza  la ruee vers l or  destinee  surcouf inde i fratelli costa  romola  scaramouche inde ricci e simongiovanni  hanu sempre arricoltu un numaru sprupusitatu di spettatori    parlendu di u teatru  un mi vogliu scurda di dabbi un picculu resu contusopr a cunferenza fattaci ghiorni fa da u celebre oratore paul de cassagnac sopra a la acula majo  napulione   presentatu da u sgio paoli  merre di aiacciu  e circundatu in scena da u cumitatu bonapartista  le oratore  omu altu  forte e simpaticu  ci una voce sonora e piacevule  ringrazia  poi dopu una lode a u nidu  u so mare e e so cullfne  intacca u suggettu tantu cunnusciutu ma sempre tantu bramatu da li ajaccini    eccu le essere cuncepitu in lu senu maternu  fra le odore di a polvera e u fischiu di u piombu  in mezza guerra di la indipendenza  corsa sustenuta da ti gran pasquale paoli  eccucilu  zitellu sulitariu  a a grotta  scularu salvaticu e studiosu a  brienne  omu in li terribili jorni revuluziunarii  qui legghie in lu libbru di a vita per fanne dopu tutt a so pulitica   cuntrariamente a i varii scrittori chi hanu fattu di napuleone un accanitu di 4 guerra e un ambiziunosu di cunquiste  le oratore ci prisenta un napuleone amurosu di pace  un napulione chi offre sempre la amicizia a i suprani di la auropa ghielosi di a so gloria  un putente chi sa mantene u so sangue corsu in bullore  pe un risponde  sempre cu a spada a li affronti fattuli da si regnanti a paga di una nazione nimica  ella  di a pace  e  ecculu qui  suldatu  guerrieru  gran capitanu  chi lascia da parte li insignamenti di i so prufessori per ampara li esempj di i celebri antichi chi ellu ugualia poi depassa   ecculu qui  fieru di a so puverta  rifiutendu danaru e valori di arte qui  magnanimu e caritatosu per li altri  affeziunosu pe a famiglia  e ecculu infine abandunatu  traditu  vintu  per unn ave vulutu esse un vincitore terribile  prigiuneru grande e senza tacche  inmanu a quelli chi un vulianu a pace che cu a sparizione di lu omu    a  tutt un vulendu fa alcuna allusione pulitica de cassagnac1enta quantunque ogni tantu un pizzicu a certi guverni recenti debuli  perche male organizzati  o una lode a cert  altri chi prusperanu  perche pussedenu la autorita  in la finale  ancu piu applaudita  che le alire parte di a cunferenza le oratore si prisenta ellu stessu  divoiu a memoria di le imperatore  figliolu di un piu divotu a le imperatore  pellegrinu sulitariu sopra e tombe di i discendenti di i bonaparte  e infine  omu pienu di speranza in la a  venire  e  sappiate caru cumpare  chi un passava un soffiu solu sottu a volta di u teatru municipale  mentre aiaccini  incavalcinati da le orchestre a u pullinagghiu ascultavanu religiosamente cu e lagrime a li occhj  hanu raggio   chi ci e  infatti  di piu grande per elli che a memoria di u so gran napuleone    a serata fini a u gran caffe di aiacciu duve le oratore cu u merre a fiancu  u cumitatu bonapartista e una folla immensa trinconu curdialmente     sopra un altare impruvisatu in fondu di a sala  trunizava una sfatula di u capurale in cappotta grisgia  adombratu da e pannua tre culori di arcole e di u stendardu a testa di moru di a liberta   stendardu biancu di la indipendenza corsa     caru cumpare  essendu statu abbastanza longu  per sta volta mi arrestu senza scurdammi di datt una stretta di manu 
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="3" type="poe" xml:lang="co">
+    <p>
+     ricordu di giuventu  a casuccia    mi ramentu   a mezz aranci e tiglioli  ci entraimu a lume spentu   muti  muti     eramu soli   u core ci trimulava e le amore ci guidava   ci guidava a passu lentu versu a stanza incunusciuta   eri trista     quellu pientu mi dava una pena acuta   e pensava  agiscu male      cosa temu     e naturale      naturale si  o amore   e purtantu     peurosu        guasi presu da u terrore   mi truvava eiu  to sposu    fusti tu chi decidisti   e  dicendu    aio   entristi   quellu   aio    soffiu di bocca  palisava lu to core   a te donna  ti era tocea di fa la offerta di amore   e cunducemi a lu anellu pe a manu  da zitellu   e pii desti  mio tesora    altre prove avanti jornu    ci pensu e ripensu ancora quandu jungu a lu cuntora u di a casuccia     muri soli     a mezz aranci e tiglioli 
+  s
+    </p>
+    <docAuthor>
+     Altore
+    </docAuthor>
+   </div>
+   <div n="4" type="poe" xml:lang="co">
+    <p>
+     dolce ricordu  nustalgia      o quantu volte  sunniendu a notte   vegu lu poghiu   paese tantu amatu    vegu le so pendici  le so orte e lu so campanile innalpellatu   vegu di la mio casa  lu fucone duve fubbe allevata la famiglia   sorelle  mamma  babbu e babbone  tutti inturniati a quella zilia   sentu ustinlinttime di a catena   le adore di e castagne imbrustulite    vegu lu testu chi mamma rumena     o cari iempi andati  duve site   sentu murmura quellu fiumicellu chi mi nannava venuta la sera   u cantu dilu ciocciu a lu purtellu   quand ella venia la primavera   mi discelu  ci un core aifannatu   guardu  rimira luifu lu eoniornu    un vegu piu cio chi aghiu vistu in sonnu   eiorna  mi addurmentu addisperain   e cusi passu un esiliu di affannu    esiliu voluntariu  quessa e dera    ma  quand eiu partii di casa meia mai averia cridutu a tanto ingannu   un ci vale per me che a muvrerella    quella si chi ogni fantu mi cunsola    tutti hi dece jorni ella mi trova e miparla di a nostra cursichella 
+  s
+    </p>
+    <docAuthor>
+     Ghilormu
+    </docAuthor>
+   </div>
+   <div n="5" type="the" xml:lang="co">
+    <p>
+     a signatura di zia catalina  cumediola tragica in 1 baruffa e 5 inciuffati     seguitu   inciuffata iti  zia catalina  sola  inculiata scrivi     lu magiusculu   ma comu mi ne possu mai invena     so sempre santabugliata di capu a tal  puntu chi perdu guasi li spiriti vitali     petru  sargente entri canticchiendu   aria di valencia   aulle    paisolu   se u solu  duve mi piaci a campa    aulle   ito  monti   i to  fonti   un li possu smintica    aulle    zia catalina  pesa u capu     o tamanta carita    ci se u me fiddolu   ghiunghj a tempu  te iu me jaddu  imponimi tu chi se istruitu  e lu magiusculu chi mi sorti di mente  ma chi castigu   me   petru  surridendu faci un lin fantasia     eccu  prima si faci cusi      zia catalina    un cappiu   petru    dopu cusi      zia catalina    un altru cappiu    petru    dopu in rondu eppo     zia catalina    un altru cappiu   petru    sareti cuntente avale   zia catalina    bravu  va puri chi un vaghiu piu da impacchia   e  petru    diti sempre cusi  ma   zia catalina    ma chi    petru     ma  sempre  ricumin cieti   zia catalina    sta volta e finita   petru    e novi mesi chi eju so qui  en conge   e da u primu jornu battu la farramana      7    zia catalina    chi vuoy fa  so bestia     petru    un dicu micca quissa  ben luntanu      un vi manca ju sennu  ma posta chi vo un pudeti impara      zia catalina    so capra  la mi ha be ditta  babbitu     petru        un vale micca la pena di strapazzavi lu ciarbellu     zia catalina    ahan  dici tu che si   petru    chi utilita ci po essa a la voscia eta     zia catalina    chi utilita a la me eta  ahan     piu si ne impara  piu si campa  dici lu pruverbiu lacatu da i nosci majori  ahan  ahan   petru    un ci e ne ahan ne ihon  comu vo vi seti passata sempre di signatura  vi ne pudeti passa ancu avale  unn e piu tamantu affare    i  zia catalina    ahan  un sara piu tamantu affare  di essa sempre ubligata di circa dui tistimonii tutti li volti chi ci e un mandatellu o un   raccumudatu  a tucca e chi ci voli di signa  un sara piu tamantu affare di essa ubligata di fa sape i so affari a quistu e quidd altru    ahan        petru    basta  a vuleti senta  un mi impacchieti piu         zia catalina    un mi impacchieti piu  ahan  oh li fiddoli di oghie  a me hai da parla in stu modu  a me  a to mamma  chi mi so frusta li ugni stintendulu suldarellu pe circa sempre di inviattiala scola  ahan  li avaristi presu ru  u certificatu a la eta di sedici anni  si eju un ti avissi fattu da lizioni particulari da un capu di lu annu a lu altru    saristi mi  oghie sargente di  cululiale   li avaristi mi  u gallonu annant a manica si eju un mi era sacrifiata  andendu sempre a trippa di fora       ahan  a ciocche si jugni   eppo dici  fa pa i fiddoli  eccu a ricunniscenza     e to suredda  tricci tusa di   fransuasa   chi ghiunghj sempre spitturisgiata et culurita di russu cum un bacu  saria mi impiegataini posti talefrachi e talifonialu  maroculu    u ballaria mi u  fossu trottu e u charlastonu   si idda era fir mata qui cu i minuci briunendu di fame    o li fiddoli di oghie  chi tw fussi tu apparitu una tricciulata di p     parlendu cu rispettu   pitrazzinu      si risenti ancu per insignammi lu ellu magiusculu   un ti tucca puri indocu  i fruvaraghiu i stitutori e li stutitrici  i piddaraghiu i lizioni particulazi      mi privaraghiu nanzi di corpu  e pa sape di suda sangue  pa sape di mettaci dindannie mesiaghiu da imparaa signa non solamente nomu  ma cugnomu e ancu supranomu postu chi vo a piddeti quindi       petru  sorti    fareti ciocche vo vuleti    canta   aulle   di istatina la aria fina   faci rinascia l amor tu mi si caru  zia catalina   a mi so missa in capu  unn avaraghiu riposu prima di sape signa  lucchini cafaline  e a la ron da  vidareti tandu si eju so capra   fala u tindonu   imbaruffata iv zi francescu  zia catalina   zi francescu   entri   sa sempre in favella o prusarpi  ti se pisata li frappi  ma comu un impetta mai la to lingua   hai di arrichita si o no    u ti do mi  eju lu calmante  soga e ghiusta chi tu ricevi crianza in vicchiava  chi pocu 1 hai avutu in giuventu  un mi fa cudda i santissimi in ca pu  pa la santa carita  teni menti    vo  gliu chi u bastonul    e u ti facciu turra per sempre mi  u maginculu in a to chiocca sumirina     fe 7  caprona   ti inviaremu a fa li alti studii a pariggi  ti mittaremu in pinsione a la surbona chi tu impari lu magiuculu  ne   e  oh  a quale mi lieti ia distinu    zia catalina   oh a quale mi accupieti la trista sorte     zi francescu    si idd un era pa i me ziteddi     zia catalina    vula chi tu vidissi   zi francescu    chi mi avii da fa veda   a    zia catalina   cosi mai piu visti  fala u tindonu  inciuffata v  zia catalina zi francescu  u pidonu omu grassu  grassu   petru  rossu e pienu di facciale   curtu  cortu  fundu  turidu   ha un collu di misale   stenta lu so mandatellu lighiendu lu so jurnale   u pidonu     o zia catali    ci saria un mandatellu di a vostra figlola   zia catalina   fransuasa    un dici micca si idda e sana    zi francescu   scuseti o sgio ricivitore     si tocca  di ditu in fronte a lu appiattu    u pidonu   sapeti signa     zi francescu    capiscu chi sa  signa   zia catalina         segnu affirmativa di capu   u pidonu  stunatu u vostru nomu   zi francescu    u so nomu   zia catalina    u me nomu  si   u pidonu   allora piglieti penna e calamare      a zia catalina   u pidonu   e signeti qui   metti u ditu annant a u righjstru    zi francescu     a bastonu pisatu   e signa qui   zia catalina   lu magiusculu  u e  ca  i  u pidonu   comu feti    oh   diavulacciu chi mi impiastreti tuttu      zia catalina casca svinuta briunendu   u pidont  impavuritu     avale poi li aveti azzunguittata   petru traghi  o ba  chi aveti fattu   zi francescu  da fuora  vindetta corsa   petru    o ma  o ma   zi francescu   va chi unn ha male  mancua piola la acciacca       suttrinendula  o catali  o catali    zia catalina     aprendu li occhj  eh  lumagiusculu  fala u tindonu fine
+  s
+    </p>
+    <docAuthor>
+     Simonu d'Aullè
+    </docAuthor>
+   </div>
+   <div n="6" type="art" xml:lang="fr">
+    <p>
+     qu attend il  fache de ce que nous avions retabli les justes proportions de la manifestation des fuorusciti de bastia monsieur a trojani epanche sa deconvenue en un petit papier insere par une feuille bastiaise  s il faut s en rapporter au fieleux chapeau qui precede la prose a numerotation de notre contradicteur ce dernier aurait eie vise par notre article or nous avons beau nous relire le nom du brillant chroniqueur de la traverse et du pontettu n adorne point nos colonnes ilya la un mystere que nous ne pouvons elucider qu en risquant l hypothese d une possible identification du president de la corse frangaise avec l un de ces mentons bleus du journalisme dont nous avons parle pour memoire  ce serait en ce cas nous supposer trop de noirceur  de toute evidence monsieur trojani a contracte vis a vis de la grande patchie une dette tout autrement considerable que celle qui echoit a tout citoyen de france en retour du bonheur imparti par la providence d avoir vagi pour la premiere fois au pays de mistinguett etde poincare nous sommes des premiers a rendre hommage aux loua bles efforts de ce grand citoyen qui tient a se liberer par cheques d amour et de reconnaissance   ie est tout a fait regrettable que de heros civique soit si mal seconde dans sa tache de redemption on peut veritablement deplorer que le haut di pave de sa bonne ville laisse ala plebe voire a la pegre le soin d epauler un tel desinteressement  pour en revenir a nos moutons nous jugeons qu il serait oiseux d analyser neuf des dix affirmations dont plusieurs sont infirmees par la bouse etalee par son vice president a la meme page du journal et que monsieur trojani avec un soin jaloux d ancien sergent major a classees sous un numero d ordre  la neuvieme que notre urbanite nous fera modestement qualifier de miserable intimidation nous a deja fait placer son auteur au pied du mur   nous insistons a nouveau  qu attend donc l'orateur principal pour eructer ce qui lui chatouille tant le pylore  i
+    </p>
+    <docAuthor>
+     Petru Rocca
+    </docAuthor>
+   </div>
+   <div n="7" type="poe" xml:lang="co">
+    <p>
+     matinata  la alba basgia lu celu e la marina  una ad una si velanu le stelle   si azzittanu li ucelli di rapina   e belan in la mandria e pecurelle     di guazza lacrimosu u fior si inchina si aprenu timighoni le purtelle  vegu le faccie di duie zitelle     una si stinza    ti altra si pettina     si affretta tutt ognunu a lu travagliu u zappaghiolu si interr in lu tagliu u carru carcu strida da le scosse    a furesta si sveglia e si culora    a croce di u campanile si innora   u sole face piove freccie rosse   
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="8" type="art" xml:lang="fr">
+    <p>
+     suum quique  le conseil general de la corse s est dans sa derniere session occupe un peu des interets de notre departement  cela sort de pordinaire et nous pouvons bien marquer d un caillou blanc ce jour mille fois heureux ou nos elus cantonaux ont rompu avec leurs vierlles methodes de travail notre assemblee departementale n a jusqu a present travaille qu en vue de la politique si elle consentait parfois a faire quelque chose c etait pour repondre aux desirs de certains grands electeurs ou bien pour soigner les interets electoraux de quelque gros bonnet politique  c est dela sorte que certaines par ties de notre ile se trouvaient ainsi grandement favorisees jouissaient toujours de copieuses et importantes subventions alors que d autres croupissaient constamment dans un eternel oubli on aurait dit que le conseil general rougissant de ces dernieres les traitait en parents pauvres  desormais la methode semble changee et il faut s en feliciter cette inno vation est nous affirme une certaine presse insulaire due a l impulsion du president de notre assemblee departementale m landry est peut etre un homme fort intelligent doue des talents les plus rares et en possession des connaissances les plus etendues il n en reste pas moins un homme politique profondement preoccupe de ses interets electoraux i n avait donc aucune raison pour rompre avec les vieilles habitudes de travail du conseil general de la corse   les voeux emis par notre assemblee departementale au sujet de ia transformation en gare de la station de saint pancrace et de l achevement de la route qui en traversant les cantons de casinca tavagna et moriani doit relier vescovato a cervione sont dus plutot a la pression de l opinion publique qu a l intervention ct au savoir faire de m landry celui ci n a jamais pu reumir sur sa tete ou sur sa liste la majorite des suffrages dans les cantons de vescovato et de pero casevecchie interveuir pour les faire beneficier de la moindre petite faveur c etait absolument de la peine perdue m landry n a pas l habitude de travailler pour le roi de prusse il n a donc rien fait pour provoquer la solution de ces deux importantes questions  l opinion publique emue de voir qu une petite station de chemin de fer etait chargee de desservir deux ou trois cantons qu une route comniencee depuis 1874 veste toujours inachevee a pu seule imposer la solution qui est intervenue  les corsistes ne cessent d autre pari de repeter que notre pays se trouve abandonne qu il est ia proie des aigrefins de la politique qui l exploitent au gre de leurs interets et de leurs caprices ces verites criees sur les toits cornees dans les oreilles de tous nos compatriotes commencent a penetrer les esprits c est une bonne semence jetee en terre qui nous reserve une excellente moisson dans un avenir tres prochain   le temps des chariatans des arracheurs de dents des debitants de balivernes est fini dans nos campagnes on ne manque pas de reconnaitre publiquement l etat lamentable de notre departement et de constater l incurie l inertie et la complete incapacite des hommes que loue une partie de notre presse insulaire on sait que le salut de la corse peut uniquement venir de la campagne energique entreprise par les corsistes c est la une oeuvre de salubrite publique a laquelle nous nous associons de grand coeur et a laquelle nous souhaitons uu prompt succes
+    </p>
+    <docAuthor>
+     Pierre Ignotus
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     vaghimu    vaghimu    e rinfrescata la muntagna   u nivulu ci piatta la sulana   i pulloni si senti a tramuntana   matura si ne fala la castagna   u porcu  di musinn piu si lagna e fughie alegru da iu so purcile  aprendu gricciule di muceichile  si tecchia puri e faci a magna magna    a fumaccia curona li alti monti   e scappanu li feri da cuscionu   u tempu scura  e ribomba lu tonu   e mughja sottu i ponti   a biciartula dormi in la so tana e piu canta lu grillu settimbrinn   a serata si veghia a ln caminu e di ballotti ugnunu si inzana   ln casa si e chiusu zi taltarinu   e face a la ziglia focu e fiara   si scalda li ossi tosti di vecchiara    si acconcia lu pilonu nant u spinu i  u sumirellu stancu da lu imbastu   si lecca pianu li muchi a lu ascusu    a capra bela e appinza lu musu   chi voli ci u sgio beccu fa cuntrastu  
+  s
+    </p>
+    <docAuthor>
+     Rizzanese
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     parlate corsu    canzona  aria cunisciuta   in piazza di u diamante   un vicchiarel dicia cusi    signor  chi affare stunante  nissunu nun parla piu corsu qui    in ajacciu ed in tutti li paesi   e una ver e gran vergogna ava  altre cose che in francese   u corsu un vole piu parla    riturnella   parlate a nostra lingua amata   cume me   bis   chi  lingua piu dolce e beata   nel mondu sanu l un ci ne e      l allandon  vi   ne es ce pas    li   bonjour  comment ca var   in pace  lasciateli sta   ajaccini e curtines    bastiacci e sartines    pruprianinchi e calvies   parlate a nostra lingua amata  cume me  came me   voi chi francese parlate   si sa lingua nun vi po basta   quella di li arabi imparate   per voi difficile nun sara   tand annant a tutte le nostre piazze una risata pudaremu fa   sintendu giovani e ragazze parla in  ben sidi barka    la ser a spass annant a u corsu   que  un ghiornu e accadutu a me   se vi sentenu parla corsu   dicenu    7fens un paysan bombe   si no semu di cent anni in ritardi  voi chi corsu un sapete parla  seti una manza di bastardi   e seti indegni di campa   o cittadinie muntagnoli   vi pregu tutti di asculta    a li vostri cari figlioli   la lingua corsa imparate ad ama   cusi la corsica ne sara fiera   e prestu prestu la alba spuntara  duv a nostra bianca bandiera   in corsica dino svintalara 
+  s
+    </p>
+    <docAuthor>
+     M. Alessandri di Chidazzu
+    </docAuthor>
+   </div>
+   <div n="11" type="div" xml:lang="fr">
+    <p>
+     giurnali abandonu la france laisse dire que ja corse lui coufe et ne ini rapporte pas quoi qu elle verse plus d impots qu elle ne retire de bienfails nationaux services publies confection de roules drainage des endroits marecageux et fievreux amenagen ent des cours d eau tres insuffisonis quand ils existent ll y a trente ans que j entends parier de l assainissement de la plaine orientale en dehors de quelques fontaines d'eau potable dues a finsistance des parlementaires de l ile et de quelques rigoles d ecoulement presque rien n a ete fait la malaria disparait des marais pontins de l albuferu de majorque parce que les gouvernements italien et espagnol ont propose et fait voter les eredits necessaires le notre a toujours promis mais n a jamais tenu  evidemment l ile une demi fois plus grande qu on departement francais moyen 150 kilometres sur 73  au lieu de nourrir maigrement 200 000 habitants ferait la prosperite de 600 000 si on assechait les marais si on tracait partont des routes si des chemins de fer parconraient la corse de bout en bout au lieu de la traverser seulement ou de s arreter a la moitie comme il arrive sur la plaine orientale si les tenanciers de la compagnie ferroviaire ne frappaient pas les marchandises corses d un larif draconien si la cie de navigation m imposait pas un faux de fret proportionnellement formidable si ses agentsne favorisaient l embarquemeni des produits des gros cultivateurs ou commercants etne relardaient pas le transport des fruits des vins des lieges qui s entassent et s abiment sur les quais des ports secondaires  les corses aiment leur pays efs'ilsle quittent c est parce que la mere patrie ne fait pas son devoir vis a vis d eux les laisse en arriere leur refuse ce qu elle accorde a d autres moins meritants par les services rendus a la metropole  la corse agonise on s en desinteresse comme d une colonie lointaine perdue a 7 ou 8 heures de nice a une douzaine de marseille hommes genereux de bonne volonte faisons connaitre sa detresse demandons qu on vien ne a son secours quand il en est temps encore dr probst  l ame gauloise  preti corsi c est le clerge que nous retrouvons dans toutes les tentatives de revolte fomentees de exterieur ou provoquees a pinterieur ce sont ces bandes d hommes armes que pon qualifiait volontiers de bandits qui faisaient aux troupes francaises apres la conquete cette guerre d embuscades el de parlisans qui n etait pas toujours sans danger et l on concoit que les chefs militaires et les administrateurs aient fait tous leurs efforts pour reduire le clerge pour disperser et punir severement les audacieux bandits ou non qui en depit de toutes les mesures prises contre eux provoquaient des revoltes incessantes contre  autorite   certes nons ne saurions retracer ici les pe ripelies de cette lutte soutenue contre les pre  tres et les rebelles trop souvent qualifies de brigands et de bandits depuis l'errivee du compte de vaux jusqu a l'empire rappelons seulement les jugements severes portes a l epoque sur les uns et les autres voici d abord dans un memoire ayant un caractere officiel une appreciation extremement dure sur les membres du clerge insulaire  gens pour la plupart ignorents adonnes a toutes sortes de vices crapulenx intriganis ce sont eux quide tous temps ont ete les organes de la revolte etsouvent leur boule feu   ce sont eux qui oni ete les organes de la revolle  cest bien ce qui explique cette aversion pour le clerge du pon compte pourtant des hommes eminenis d une baute culture pleins de foi patriotique n hesitant pas il est vrai a allumer la guerre mais en courant courageusement tous les risques et se faisant tuer au premier rang des milices qu ils en trainent au combat aux accenis du vieux chant de guerre corse dio ti salvi regina  h pierangeli  la corse touristique
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="12" type="feu" xml:lang="it">
+    <p>
+     mviarono il mari  che promise roma e toma  ma stremo di denaro ron riusciva a motivo che valesse   avendo menato per teologo il padre etsuita porrata si ristrinse seco lui per consigli   questi propose levare gi argenti dalle chiese e con protesvg fenerli custoditi in bastia  vaes 19 al mari piacque la pensata   dii mando a pigliare  dalla sola cg rzete  chiesa dei serviti  ne rime  6oo libbre e gli parve averli   si in buone mani  raccolti gli argenti a  enti  perche la faccenda si man tenesse segreta  spedi il gesuita a venderli in livorno  e questo il gesuita fece  solo non ritorno  simile al corvo della arca  ei batte vale in contrade lontane  benche altri affermi chi ei se ne andasse a roma a mettere in salvo il bottino nel collegio di gesu  dove i suoi superiori dopo lunghe disamine sentenziarosio che il ladro il quale ruba al ladro non fa peccato e lo venerarono due cotanti meglio di prima  quandoi corsi se lo aspettavano meno  ecco commoversi le materne viscere di maria teresa  i papi le hanno paterne  e a carlo emanuele altresi  e prima coi bandi  poi con buon polzo di gente comandata da un colonnello cumiana aizzano i corsia dare addosso ai genovesi  la imperatrice  di accordo col re  aperti un bel giorno gli occhi  vedono  che  la repubblica ha violata la umanita  e la giustizia continuando nei  modi piu aspri  alla distruzione delle onore   delle sostanze e della vita degl infelici corsi   cagione della nuova tenerezza la lega di  genova con la francia e la spagna per istabilire le infante don filippo nel ducato di parma e piacenza  nella quale la republica era condotta a cagione del marchesato di finale  che donato prima da carlo vi ai genovesi  il medesimo imperatore con la consueta verecondia di casa di austria  cesse al re di sardegna  cosi questi signori  a seconda dei loro interessi  si dicono corna  e quando a vicenda lo uno ha scoperto gli altarini dell altro  maravigliano se il popolo si ride dell autorita di tutti    oh  nonsono curiosi costoro    dietro ai sardi  e  ai  tedeschi si accordarano gli inglesi  chi erano allora di balla  i francesi per astio ritornano  la isola in mano a loro pari alla veste di cristo giocata a dadi tra sbirri briachi  che parlo  o che taccio  la lingua per queste infamie non si avvolge impunemente  come chi cammina per la melma senza macchia non puo  uscirne  i principi discordi stipulano un armistizio nel quale includono i corsi  nella pace finale di aquisgrana li  dimenticano  donde cio  gli e chiaro  gli includono nell armistizio  affinche continuando a combattere non iscompiglino le nova nel paniere  gli scordano nella pace perche i genovesi  aiutati da capo dai francesi  abbiano facolta di rimettere ioro le mani dentro i capelli  di fatti i francesi per la smania di mestare entrano di mezzo  e arruffano la matassa peggio di prima  a una parte non piacciono  all altra sgarbano  e inimicatisi genovesi e corsi lasciano da capo ogni cosa in asso dicendo  chi la ha da mangiare la lavi  ora si che i genovesi non sapevano a qual santo votarsi  i gesuiti in ammenda del furto si proffersero seminare zizzania fra i corsi e fino a un cerio punto riuscirono  che un cerio padre ricchini imbroglione di tre cotte arrivo a scalzare il generale giuliani  vomo dabbene  ma facile ad essere aggirato  il gaffori tenne sodo  e fu mestieri venire a patti con i  richiesto dalla republica di mettere in carta le sue pretensioni rispose   dandosi un paio di fregate alla fronte  e presto fatto  e incomircio  non si parli di concessioni perche questa parola implica facolta di riritarle  quando anco ci si aggiunga la altra di irrevocabili e perpetue  dicasi convenzioni  ancora tacciasi di perdono  perche la natura somministri ad ogni uomo il diritto di pigliare le armi per la liberta  si adoperi il termine dimeniicanza e sara meglio  molto piu che potrebbe convenire ad una parte ed all altra  e cosi di seguito  i genovesi crederono diventarne mafti  cotesti republicani bottegai a sentirsi toccare la regia autorita andarono su i mazzi  le consorti republicane offersero cedere le gioie per sostenere nuove guerre anziche perdere il titolo di regine di corsica  vanita di vanita   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k13309922
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k13309922
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 254 | Année 7
+     </edition>
+     <date>
+      1926-05-23
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Annu VII — Numaru 254  Esce: a Dumenica  Dumenica, 23 Maghiu 1926   GIURNALE DI E PIEVE DI CORSICA  ABBUM MENTI:  In Corsica. ... . + . .t. .. . .. . 12 franchi  In Francia. ... . ............ 15 »  4 VEsterù. . S.........., 85 »  U Mumaru:4 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     a francia separatista  corsica un avrai mai bene   quella sintenza di pasquale de paoli paria una biastema  oramai e divintata una profezia   dipoi chi a patria ha persu a so naziunalita  corsica si ne va di male in peghiu   un mi sapariste spiega  o fi glioli  da duv ellu vene stu castigu pin la piu maravigliosa isula di u mondu  e case si sarranu a morte  i paesi si ne morenu e i patriotti  bandiscenu un nidu chi elli tenenu tantu caru      purtantu a vita e facile cu dui pomi e dui fasgioli posti par le istate cu e castagne lu invernu  omu si ne puo vive a u sole tranquillu appinzzendu unu rocchiu  eppur si more    si nimu mi puo spiega u misteru di le emigrazione corsa  pruvemu a circa tutti inseme   dipoi pontenovu  a corsica mi pare chi ella sia stata bella fidata caddumisticata   ha datu ancu un imperatore a a so padrona  napulione  u piu gran geniu di a storia umana  napulione a fierta di lu orgogliu francese   cume ricumpensa  par noi altri corsi  pocu e nulla  i numici soli di u regnu imperiale ci so ristati  dipoi tandu un corsu un e piu un puo piu esse ripublicanu vistu un   a la fine di un nome  ci so i banditi chi ci ne volenu a morte  tante inghiustizie e tante umiliazionein pagamentu ditanta fierta  e  a napulione  statelu a sente a sant elena     aghiu fattu pocu pa a corsica  quande vulia fa qualcosa par ella era cu me se vulissi arruba a francia    a  napulione ill ha fattu anch ellu pocue nulla par noi  quand ellu era putente  tandu un era corsu  quand ellu casco allora fu umaltra par di stifali in marseglia u corsu chi ta ricunisciutu era pigliatu pesule pesule e lampatu in mare  cume tistamentu a corsica abbe tutti i numici di stu sicondu imperu  i  in la ripublica  un pudiamu pratende a nulla  eramu bonapartisti     allora u corsu si fece topu    muru in tutti i tafoni  in  dite le piazze chi i francesi si vulianu  ellu ci si ficca  dle corse  francai di  ani cais par for  le  encor  i  ta di on     encore toi   tante canzone  anti scherzi chi ellu fu ubliga tu di ingolle cu risa ghiacarina   a nostra campa e stata chi  quandi u bacinu sbarsava tandu partia una pistulittata   una pistilittatae a man di diu  par unu chi cascava ci ne era mille e mille chi guarianu  tutti quelli corsi chi si so cumprumessi par li altri so tutti in paradisu      nous avons des adversaires qu parlement ha dettu moro giafferi in pienu cunsigliu generale   avete intesu   noi cigsemu fatti stirpa pa i francesi  elli  assai di elli ci ne volenu   a nostra fidelta pa a francia un si discuta  certi  carnava a tenemu ancu piu cara ca a corsica   e a francia chi face par noi  ci ha trovu in di una butteglia  libari e indipindenti  ava in sa butteglia ci vole suffuca  semu ubligati a esiliacci par se culunie suminate di freba galla e di diaria   di tutte st umiliazione  in corsica un si sente un zittu  a francia e sempre a notra mamma  a chi si piegne e un siparatista   i nostri riprisintanti so i piu disgraziati di u parlamentu  ubligati di siguita cume cani famiti  cambianu di culore cume di camiscia  sempre guvernamintali    e nostre tradizione  un si ne parli  o figlioli  di napulione semu i soli a umondu a un pudenne parla  mancu duglianze a la famiglia di u principe vittoriu    a nostra lingua  chi nimu ci senti a chi a parla e siparatista   la italia da cinque miliardea la sardegna e a francia un ci da niente  zitti e bassi  unsi dica nulla  i  u siparatisimu e natu  u fossu ingranda a francia  a francia e divintata siparatista   ancu i cieghi a vedenu   unci rumpite piu i stifali  o puliticanti   a can chi seguita un si da pane   voi siguitate cu a coda bassa  noifemu vede i denti e le ugne   par ottene qualcosa a u parlamentu  a vostra autorita pesapocu  un avete un ossu ca quandi vo gridate    prenez garde  prenez garde     dunque u partitu di i scuntenti e nicissariu pnicissariu pa a vostra brinnata   nicissariu par pruva chi infatti di siparatismu  a francia ci da punti atutti quanti 
+  s
+    </p>
+    <docAuthor>
+     D.V.
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="fr">
+    <p>
+     qu il y aitun probleme corse et que la solution soit urgente il n est que de se promener dans ajaccio pour s en rendre compte que dis je la simple vue du quai de jour et de nuit suffit pour donner une idee de l abandon dans lequel a ete laisse cet admirable pays   le jour le voyageur du continent cherche vainement un hangar un elevateur un de ces amenagements ou un de ces appareils qui sont indispensables aux operations d'embarguementou de debarquenient et sans lesquels on ne saurait imaginer un port moderne ici rien le quai nu et c est tout   la nuit c est l obscurite quasi complete l obscurite qu essaient lamentablement et vainement de dissiper quelques becs de gaz etioles il fait a tel point obscur qu une promenade sur le quai est dangereuse lorsqu il n y a pas de lune ajaccio la blanche est le soir venu ajaccio la noire et pas seulement sur le port l electricite est pour l istant inconnue    la corse departement francais il faut le dire brutalement fait honte a la france et a coup sir les etrangers qui la visitent font des reflexions peu flatteuses pour notre amour propre national    l avenir dela c t  l avenir dela corse on prononce cette expression sur le continent elle n a guere de sens  l avenir dela corse c est avant tout de mettre ce departement au niveau de la situation pre sente des autres departements et ca presse  si l on n agit pas et vite elle ne sera bientot plus qu un pays sauvage ef desert ou vivront comme ils pourront des bergers ef des retraites   un probleme domine tous les autres c est celui de l assainissement d abord vivre eh bien  on ne vit pas longtemps dans certaines parties de la corse  dans la region d aleria la duree moyenne de la vie ne depasse pas vingtsix ans dans le fiumorbo la moyenne est de 25 ans toute la region cotiere la seule ou la culture est possible est insalubre a cause des marais le marais il est inutile d insister c est la fievre    les landes et la sologne ont ete assainies malgre foutes les enquetes malgre tous les projets la corse en est toujours au meme point   apres l assainissement la question la plus urgente est celle des communications sans voies de communications rien ne sert d avoir un sol fertile un sous sol abondant en richesses naturelles au point de vue des voies ferrees c est la misere il n esiste en france qu une seule sous prefecture qui ne soit pas desservie par le chemin de fer c est une sous prefecture corse  sarfene   le reste du reseau est un peu plus qu embryonnaire il ya des lignes du programme general freyssinet de 1878 qui ne sont pas encore executees les routes departementales sontinsuffisantes et a peine passables quant au reseau vicinal il est lamentable   les ecoles offrent en majorite un spectacie desolant elles sont d abord en nombre beaucoup trop reduit ef trop nombreuses helas soni les salles de classe qui ne sont que des taudis j mal eclaires mal aeres   i
+    </p>
+    <docAuthor>
+     Léon Bancal
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     tuttu iangue e tuttu more    un ci e nulla nulla che miseria  e a corsica face vergogna a francia       eccu cosa scrive un giurnalista di marseglia  benutu qui pe rende contu di u viaghiu di a cummissione parlementare   si l on si agit pas ef vite  la zor se ne sera bientot plus qu un pars sauvage et desert    cosa ne pensate o rinnegati    cosa ne pensate  o corsi vergugnosi chi stentate a vostra brinnata gridendu a squarciagola     je souis france   ogni volta e quandu ricevite calci    leon bancal  omu sinceru  ricunosce chi lu abbandonu ne u quale si trova a corsica e bera vergogna pe a francia   si  ma so digia sett anni che noi a gridemu ne a muora     avemu dunque ragio  e allora perche  bulete voi nega ciocchi si tocca   bel modu avete di credevi   doublement frangais   un site che doppj sumeri e cume vo a sapete  ronchi di sumeri un collanu in paradissu     andate a fabbi un giru per stu congo o per stu maroccu  e bederete a differenza chi ci e tra noi e quelli beati negri    bederete quale so i veri figlioli di a   nostra cara mamma   a i negri  e strade  i porti  u cammin di ferru    a noi  e macchie  i scogli  e zinzale e a miseria    se a corsica e ruvinata e spopulata   a quale a colpa   se un avemu ne porti  ne strade  ne agricultura   a quale a colpa   se a frebba  e zinzale e a miseria ci tombanu prima di u tempu  a quale a colpa   e sopratuttu a boi  e rinnegati  chi mane e sera  liccate u    spinu di marianna    lu avemu sempre detta    i corsi  si salveranu elli stessi o diventera   nu tutti guardia prigio  ma noi un bulemu che cio accadi   simu troppu fieri di u nostru gloriosu passatu   e cumbatteremu per ottene la autonomia    a iveri corsi di stringhjesi intornu a nostra bandiera  quella di borgue di pontenovu   
+  s
+    </p>
+    <docAuthor>
+     Saveriu Malaspina
+    </docAuthor>
+   </div>
+   <div n="4" type="poe" xml:lang="co">
+    <p>
+     destinu  o cirnu  bella cirnu  u to vestitu   e di azzuru  di argentu  e di verdura  mai si ne vide in terra piu fiuritu  guerdiana di i tesori di a natura   quand eli ebbe pensatu li universi  iddio in la isulella  pianu pianu   pose li belli resli si diversi   chi fermavanu in la divina manu   di le isule ti fecela piu bella   ti involse tutfin un velu di lumi   poi un agnulu piettu in una stella  ti innaguo di una pioggia di profumi    dissi iddio   fiore di a ereazione   di valorosi perturiscerai   la andatura di u mondu cambierai   vai   ti do la mia benedizione      e brillo cursichella a mezzu mare  frumbo raggi di bellezza et di gloria   di un sangue ardente scrisse la so storia  poi suffugo soit a catene amare       oghie si ne sta sola in la amarezza  sbuffulendu li so gridi dulenti     ma spera   spera  perche la salvezza   e sempre nafa da l un mardi pienti     
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="5" type="let" xml:lang="co">
+    <p>
+     quelli chi ricevenu a muvra e chi un si volenu micca abbuna  un hanu ca a ricusalla a u pidone   lettera da  a costa orientale  caru cumpare   avale chi maghiu longu longu ha fattu a so cumparsa aprendu a meta di i so diti lungherini  aghiu anch eiu  un momentu per mandabbi e mio nutiziole   vi diceraghiu  caru cumpare  chi custannu  maghiu unn e piu maghiu   si e propiu accupiatu cu  furdanu di marzu catarzu  e dipoi chi ellu mi fece a so visita  un face altru che piove  scilucca infrisculina  senza da sole  tutte cose chi un piacenu a i nostri paisani  ne mancu a i piscadori  anguille e truite si restanu in tana  fate puru belli bucconi  mosche deliziose  pinghelli sauriti di lumbrighi  un ne volenu  un ne volenu  ne in fiumaltu  ne in golu  ne pe sti vaglini chi arrianu a padula versu u mare   la annata e bona pe u pastore  annata di arba e di fronde   u granu e diggia in meza spiga  e prumette gran divizia    ma ci vole calore e sole    o sinno   ci sara forse  ancu divizia di frutta  le amandule so zeppe   i merletti rosi di e chiaragie lucenu appicciulati tra e cascie   e nespule sfascianu u giallore di a so pelle di oru   a figa lampain terra i so cali verdi e gonfii   e talle di a vigna alzanue so creste tennere  e la alimea caccia i so ciuppi pronti a fiuri    tuttu andera be  si maghiu ride imbece di torce urugnu cum ellu face   bi diceraghiu  caru cumpare  chi u mondu un soffre miseria  e iurnate so di quindeci e vinti franchi  u sollu corre e corre  i nostri cuscritti si hanu spesu  prima di fa partanza per la armata  3ooo franchi di cartucci e polvera  ci simu criduti ritur   natia u fronte in quellu abissu di colpi e tronite   quantu spese  a la scimesca  chi elli si duvianu rispara   dopu lu hanu da suspira  avale so dunque  tutti imbarcati e diggia arrullati a u serviziu di marianna  cusi  truveranu pace  ancu e nostre campane   parchi  da quellu benedettu iornu chi io e feci nove framante  un de lasciavanu ripusa  in campanile  fendu piu ciccunate ca chi elli unn avianu capelli in capu      un mi vogliu scurda  caru cumpare  di dibbi chi no avemu fattu bella festa  in san brancaziu   san brancaziu e u gran locu di pelegrinaggiu di a costa orientale  a so chiesa fatta da l ar   tisti di pisa  quasi a la epuca di a canonica di mariana  si e sempre arritta  benche u tettu si ne sia fa latu e sia statu riffatta di pocu  a fecenu spaziosa   po tene rentu un millaiu di persone  e ci iugne veramente qualcosa di mondu  forse  sta volta  san brancaziu ha vistu piu di 2ooo corsi  almenu in piazza di u campu duvell u si sona  si canta  si balla e si discorre di affari  perchi  a i iorni di oghie  a forza di impara le irreligione impurtata da u cuntinente  cumea gattiva ferina  uni pochi di corsi  un cunoscenu  in fatti di devuzione a i santi ca quella chi patanscia e cala u spinu davanti i puliticanci  ne vulete tucca a prova    quindi anni fa  e questue e le offerte pe u santu cullavanu sin a sei o sette centu franchi  chi serianu circa quattru mila franchi  oghie  si iugne malamente a e listesse some   cio chi vole di chi u santu riceve cinque o sci volte di menu che prima    quellu chi prima lampava un dicinu  u lampa sempre  pensendu chi le affare sia listessu    a festa  fora  si e passata alegra  ci era un sfru sfru di ottomobili e di capriule chi un cessava mai  ci eranu ebarrache chi aggruitavanu mercanzie lucichente  sottu vitrina  ci eranu i   banchetti    taulini carchi di bicchieri e di manghiusca  a lombra di i pulloni  a meziornu  a folla face a so inerenda in qua e in da  annantu la arba  quattru balli so armaii chi facenu salta a giuventu     in chiesa  e cerimonie funu maestose   a statula di san brancaziu alluminatu da la mane a la sera  a messa sulenne fu cantata da u piuvanu di san niculaiu di muriani  i canti dolci e pietosi surtinu da u labbru di e giuvannette di a venzolasca aiutate  a lu organu  da u so vicicuraiu  prete belgodere  u curatu di castellare dede un predicottu  iu corsu  caru cumpare  in puru corsu  e fu capitu da tutti   e poi  sfilo una prucessio magnifica chi fece u giru di u campu e si appicciava a i muri di a chiese da capu a coda   di i nostri amiconi aghiu scupartu sulamente maffeo cirnensi e ghiseppu filibpi  chi disgrazia  chi ghiannetiu cu u so teatru ambulante  un sia pussutu vene mancu st annu   si cuntava dino sopra minicale  ma ba scrittu chi ell e per quelle pieghie di portu e un si e mossu   allora  sara megliu un altra ora   forse  lu annu chi bene videra nasce una fiera  pio fiera che mai  si ne parla  si ne parla  campemuci cu a speranza   e boi  caru cumpare  circate di fabbi un affaccata  prufittate di u bellu tempu e un mancate di stringne una manu a li amicacci vecchi e novi chi contanu sopra a vostra visita   daltre cose un bi ne parlu  curaggiu e pazienza chi ci ne vole per boi e per li altri  per tutti noi  intantu chi elli maturghinu i frutti di u nostru pinsere  a u sole di maghiu longu longu e splindurente di dumane 
+  s
+    </p>
+    <docAuthor>
+     Martinu Appinzapalu
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     per u sgio sari  e bera o aghiu mal capitu    un si puo piu canta in corsu    e que sari ha stabilitu    a varbitrariu da ricorsu   i lamenti  ella ha difesu e la lingua corsa offesu   quest offende ogni scrivanu chi la piglia per so contu  dunque denduci la manu  a fa guerra ognun sia prontu   chi  disprezza stu parlatu   da no sia biastematu   fateci vede in lu scrittu di romanetti i lamenti duve truvate dilittu  pe i vostri regulamenti    per dibbi la verita   sari  ci fate pieta    sari cerc a carminata   un pettine a la so barba chi mi pare ingarmigliata   sta lezione  mi garba   cantemuli u lazerone e le ultime funzione   cu la pettina ferrigna carminemu u barbazzale   e grattemuli la tigna  tutt inseme  in modu tale da chi sari lu pilutu  dica     mamma mia aiutu    
+  s
+    </p>
+    <docAuthor>
+     U Vecchiu Sindacu
+    </docAuthor>
+   </div>
+   <div n="7" type="art" xml:lang="co">
+    <p>
+     prucissioni  parlamintare  dopu ave magnatu e sparlamintaiu da aiacciu a bonifaziu e da portuvecchiu a bastia  affacca e capula  ece u a caravana in calvi   a sera in la citta   semper fi delis    ci fu pranzu e vini talmente fini chi i puliticanti eranu tut ti briachi merzi  cantavanu a ooce rivolia    semi cuntenti o la la lera   semi cuntenti o la la la    u lindumane ci vulia a parte par anda in aiacciu  piuvia e ne falava  in li cantoni di belgodere  omessa  calacuecia  evisa e piana ci era u parapiglia  i merri in filacchina  ci un cartulare pienu di lagrime e di guaizu guardia campestra in vugatonda  u cantu  neru a pala in manu cu a baretta nova  i giandarmi crosci cume piulelli  i x  a brucissione parlamintaria  dep avessi gratiaiu u fapezzu e strifinatu vocchiu mancu  un ne fece ne una ne duie   salto in battellu e lascio parte e vitture bidte   par se strade  e pupulazione aspittavanu  ad ogii ori   on   on   u merru si miitia e spicchiette e cacciava u cartulare     un stimadore si avia messu a so midaglia di u 7o u caniuneru facia a sumbaftiuta a ogni vittura  e mai nimu    in nioin era falatu zi agnuleitu da lozzi a sente si i ministri incittavanu furmagliu   in calacuccia ci era archi di trionfu e belle cose   e mai nimu    in evisa  era cumandaiu u pranzu a lusiaria di a spilonca  u padrone avia stirpatu iutfe trute di u portu   minicale si avia schiaffatu a so barretta misgia  e mainimu   par su pranzu ci sara a causain aiocciu conir a si scrianzatacci   a prucissione  ella dopu fattu cullazione a bordu sbarco in portu in la proprieta di maistrale   e zinzale di u pueta saltonu in cresta a quelle belle pinzute codi corte   e viiture ghiunsenu in portu  ecculi fuiti in pusizione   on  on on  afficca e capula  par se calanche  e po in piana  cula un discorsu  u sumere di salbadore cun roncu li fece un salutu   in cargese  a prucissione e pianiaia  parlamenti e toccamani  cusi chi ellu un fussi piantata   un so ciim ell e siata   una iimpesta di venta e ajffaccaie in quellu mentre  fate contu di vede u diavu le scatinatu   e duie jesgie scupuuate li alberi in tarra e a croce di u paese  ritta ritta  cambiata di piazza e purtata in lu fussettu      quessu e u fullettu   dicia un paisanu  vole riliva a corsica spiantenduci e case   aghiu capitu     e megliu a perdeli ca a truvalli  si magnoni   facia un altru     carn e pomi  britiava un altru currendu apress a u so cappellu   mai piu chi ella torni sa cumissione   di satanassu cu tutte so corne  ci ne passemu 
+  s
+    </p>
+    <docAuthor>
+     U Ricciu
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     filari pe u capilanu orioli  chi parti a u maroccu in guerra  aghiu intes una nuvella chi mi ha fattu dispiaceri  dicinu chi un capitanu part a fa lu so mistieri    ma chi ellu chiti ad aiacciu nimu ci trova piaceri   tutti quanti li aiaccini si facinu maraviglia   e subitu la nutizia e corz a piglia nf piglia   dicinu in pienu caffe      sort un babbu di famiglia     chi ellu fara bonu viaghiu spiremu  si diu voli    faci pe li so suldati  come un babbu a li figlioli   si un ufficiali e ben vistu  e lu capitanu ortoli     parlendu di quist amicu a me mi trema ja manu  pinzendu chi a l apero mancara lu capitanu   li preg una bona scianza a st ufficial di tallanu   la ser a lu apperitivu qual e chi un ni parlara   la partita di manigila qual e chi la jucara   lu me jaseppu mancinu senz ellu comu fara    massiu ortoli in aiacciu ha una fort amicizia perch e lu omu di boni cori senza varuna malizia    ellu si faci ubidiscia   tuttu fendu la justizia   ci voa urganizalia una partita di caccia   e prima di fa partenza cullaremi ala piraccia a lu levru di buteglia li emi da rompa la faccia     chi elli aghi da parta st omu nun mi pari ancora vera    cusi dicia mancini  parlendu a roetu tavera  quini cessu li me josi   denduvi in bona sera   paulu battista
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="9" type="art" xml:lang="it">
+    <p>
+     la donna corsa   seguito   e per questo aito di egoismo vergognoso  strada facendo  si ricordo di avere dimenticato il raspino per impastare il pane  e non volendo rifate il gia percorso cammino  mando un servo a prenderlo  la povera madra che credeva ad un pentimento della figlia e stava per rallegrarsene  rimase cosi indignata nel vedersi portar via anche quel misero oggetto  che usci in questa tremenda maledizione     possa tu rimanere pietrificata dove ti trovi         ela pastorella sposa rimase pietrificata sulla cresta della montagna a simbolizzare le ingratitudine   ed ora  venendo alla donna corsa in generale  devo dire che sino a pochi anni or sono  essa era socialmente poco considerata   la sua condizione  rispetto all uomo  fu cosi moralmente inferiore  nei secoli passati  che ancora oggi ne risente il malessere  gia fin dal 1765  il singlade scriveva     les corses ne semblent prendre des femmes que pour leur commander avec fierte et si en faire servir sans egards et sans menagements      lo stesso giudizio si potrebbe ripetere  nei secoli passati anche attualmente  sotto alcuni rapporti  non e raro il caso  ad esempio  di incontrare nelle strade di campagna  dopo il lavoro dei campi  marito e moglie che se ne ritornano a casa  lo uomo a cavallo  mentre la donna lo segue a  piedi con un cesto sulla testa     sebbene le migliorate condizioni econoggiche del paese   in confronto del passato   abbiano modificato in grande parte la sua situazione  e pur sempre la donna  che si da ai lavori della agricoltura  piu faticosi e rudi  mentre lo uomo passa la maggior parte del suo tempo ad occuparsi della politica locale  essa esercita buona parte dei mestieri che potrebbe fare lo uomo   coraggiosa sino alla temerarieta  affronta i pericoli con indicibile sangue freddo e ne sopporta con animo forte  le conseguenze talvolta tragiche nelle circostanze gravi della patria  abbandono i lavori della casa e dei campi  per seguire il marito od i figli alla guerra  prendendo talvolta parte a combattimenti come avvenne a pontenovo l 8 maggio 1769   benche le educazione intellettuale delle donne corse  sia in generale assai trascurata  sona tutte ottime spose e madri affettuose   nell isola  i casi di infedelta eoniugale sono piuttosto rari   amano la casa e ci tengono  ad abbellirla  a renderia confortevole   allattano esse stesse la propria prole  e sono capaci dei piu grandi sacrifizi per dare una posizione ai figli  dai quali di altronde sono assai rispettate ed amate  a  mentre nei centri popolosi del con  tinente il culto della famiglia ba subito  dopo la guerra  una trasformazione rapida  in corsica esso e rimasto fortunatamente profondo ed immutato nelle idee e nei sentimenti  se la famiglia e tuttora cosi solida nell isola  enon ha subito alterazioni  lo si deve alla donna  che ne e la pietra angolare  la quale ha preso nella vita sociale  una piu netta coscienza della sua dignita  pur conservando intatte le qualita e le virtu antiche   parlando delle donne corse  il maufortte dice brutte  ma non e vero affatto   sono invece assai belle  piuttosto forti  di statura media  con capelli neri  ed occhi parimenti neri  malinconici  con tinta della pelle leggermente ambrata  nel complesso  un tipo che sta fra la bellezza romana e quella ellenica  ma che invecchia presto  col forestiero sono molto gentili   guai pero a corteggiare una fanciulla e poi abbandonarla laloro fierezza offesa   con offesa di tutto il casato   puo dare luogo a terribili vendette  
+  s
+    </p>
+    <docAuthor>
+     O. F. Tencajoli
+    </docAuthor>
+   </div>
+   <div n="10" type="art" xml:lang="co">
+    <p>
+     a cummissione parlamentare    avemu lettu e rilettu i piu gran giurnali   le matin  le journal  favenir  le oeuvre  le quotidien  lecho de paris  l humanite  le gaulois  le journal des debats  fillustration  le petit parisien  avemu lettu tutt i giurnali  chiuchi e grande  rossi e gialli  e un emu truyatu nulla  nulla  manc una riga sopru viaghiu di a cummissione he  ma ne  sti giurnali avemu visiu longhe relazione di un   inviatu speciale  sopra u maroccu  u congo e madagascar     la france a les yeux sur nous   si ma solu quandu si tratta di i nostri banditi   povera corsica    ripigliemu i discorsi fatti in ajacciu  a u cunsigliu generale o davant a u monumentu     disse landry     la corse est un departement francais comme les autres  mais elle mi est pas un departeemeni pareil aux autres    e  o scio landry  avete ragio    a cummissione ha bistu chi a corsica vn e micca uh dipartimentu   pareil aux autres   e ne ebbe a prova duranfe u so viaghiu   urli  gridi e fischi inogni logu     ma se landry bi interessa  eccu un alitu passaggiu di u so discorsu    notre fusion dans la nation francaise est si complete  sic  que nous sommes incapables di imaginer seulement la possibilite de cesser jamais di en faire partie       o landry  qual e a to lingua  e quali so e nostre aspirazioni      continua cusi lu anzianu ministru di la acqua salita    toute tentative de nous eloigner de la france  si  nsidieuse seraii elle  quelque habilete perfide qu elle empleyai a essaver di exploiter certaines impahences du certains miecontetitemenis ne reussiroit meme pas a brovoquer ici de l indignation car bi dessin demeurerait pour  o incomprehensible    e  ma landry un e corsu   e figliou di pinzutu            propriu ridiculu u discorsu di altucoli i    tous les voyageurs ftonnent de voir ce magnifique  e  la corse  en proie a l abandon ans lequel jl est       re ne maravigliemu   1  a  dutati a ha sempre avutu cume de cora cu brancu di vigliacchi senza  ta enza cerbellu    2  a corsica  iu i so destini a una na ne me fa quale un avemu in cumune origini ne tradizioni     pui  speue caitucoli    il y a des  sli historiques qui sont la leg de cette situation   di abord    evation de ia corse a u rang  de departement francais      o sgio caitu   avete mai apertu un libru di storia   ne dubitemu  parche saperesti chi a corsica era una nazione libera prima di esse un dipartimentu  francese       e cusi fini caitucoli     la bataille de pontenovo que nous avons commmemoree      pocu laziu avemu di ride  ma vi devite sbaglia    perche un v avemu vistu a pontenovu  u 3 agostu 1925      xx     a tutti sti discorsi  u ministru de monzie ha rispostu senza fa a minim allusione a i corsi morti in guerra  ma ci parlede sulamente di salva u francu       contribution volontaire    donnez donnez toujours    zin   boum  boum     musica pano      e noi  povari tinti  emu credutu chi marianna ci duviva copre di marenghini     i  che tu scia tosu   x       e avale  in biaghiu pe u paese di e zinzale e di a miseria     scrive leon bancal ne u petit marseillais     nous traversons grosseto ou nous entrevoyons  a u passage  le buste du general grossetti      i    a u passage     chi bergogna  signori ministri e deputati    bi pudivate reghje un mumeniu davant u bustu di u generale chi salvo i francesi a quella famosa battaglia di a marna     le      scrive dino u p  mi    e a casala e briva  arret di ane minute  sic  ou sans quitter les voitures   resic  ministres et parlementaires regoiveni les souhaits de bienvenue du maire  mi  nicolai  et de la population    a ca  avete capitu   i ministri e i deputati di marianna un si so mancu degnati di mette i pedi in terra per onora u sindacu di casalabriva     ci maravigliemu assai chi a populazione un abbia micca pigliatu a fischi i parlamentari        in sarte  de monzie ebbe sia bruita riflessione     je ne voudrais pas que la corse fut un musee di espoirs et de souvenirs       un sapemu quale fu a risposta di u primu aggiuntu rocca serra  ma noi cusi parlemu      o scio de monzie  o ministru di marianna  grassu e tondu  u vostru viaghiu in corsica e un monumentu di ignuranza e di malafede    bi nighemu u dirittu di parla di un paese chi un e vostru  ma noi corsi simu fieri di i nostri gluriosi ricordi e campemu di speranza   u circundariu di sarte e u piu disgraziato di europa    un avemu ne strade  ne luce eletrica  ne banca  ne cammin di ferru  ne giurnale  ne biblioteca  nulla  nulla che a miseria  a noncuranza e lu abbandonu      aspettemu dapoi cent anni   simu stanchi    un bulemu piu chiacchiare       eccu cume duviva parla u scio rocca serra       arrivendu in bonifaziu  a cummissione fu ricevuta da u sindacu carrega e quest ultimu parlo press a pocu cusi      ce ne est pas sans humiliation que nous jetons un regard di envie sur la sardaigne ou le gouvernemeni italien a realise di immenses iravaux       bulete sape a risposta di u ministru   eccula   e nous avons dessein de faire pour la corse  a u moins aussi bien et aussi vite que ce qu a fait le gouvernement italien pour la sardaigne        avemu gia dettu chi u ministru de  monzie e un ignurante  e avale finimu per crede chi ellu un ha mai lettu un giurnale     un sa dunque chi u guvernu italianu ha spesu in sardegna 1 9oo millioni di lire        aussi bien e bole dunque di dui miliardi di franchi pe a corsica      aussi vite   bole di tre anni di tempu     o scio de monzie  prima di apre a bocca  imparate a storia  a geografia e la ecunumia pulitica    o sinno sarete a risa di i sculari        x  ha ben parlatu u scio carrega  ma una sola cosa ha dimenticatu     ha dimenticatu di fa cunosce a de monzie stu picculu dettagliu    lu annu scorsu  a sucieta di u bacinu di u tirsu  sardegna  averebbe offertu a u  nostru   cunsigliu genetale di da a iuce elettrica a tutt u u circundariu di sarte      ma perche u cunsigliu generale ha fattu u silenziu intornu a un offerta di cusi grand impurtanza       avemu dettu chi a cummissione parlamentare fu accolta in bastia a  son di fischi    ma se boi vulete ride  parleremu di u ricevimenteincunsigliu municipale     l 1  maghiu  a 7 dre di sera  u scio sari  sindacu di bastia  apri a seduta straordinaria     assai straordinatia  bederete     in presenza di i ministri de monzie  roustan e li altri membri di a cummissione     e quandu a barba jalata di sari fi  ni quellu famosu discorsu  accadette allora un grave incidente     si alzo u cunsigliere gaudin  prununciendu ste parole   a    a l occasion de la mort de si  a  i  le prince victor napoleon je demande que la seance soit levee en signe de deuil          stupore generale   un beru scumpigliu    e di qui bedite a guigna di i ministri e di trenta delegati di marianna    e si  sari si messe a grida     monsieur gaudin  vous ne avez pas la parole      e per una volta dimentichendu u francese  sari  pallidu e nerbosu  disse pianu  pianu a gaudin   sta zittu  o lisa         de monzie  assai inquietu  dumando    quelest ce monsieur      2 un sapemu cosa rispose a barba jalata di sari  ma ci e da crede chi ellu un  ha cunfessatu chi gaudin e u so cuginu       a surtita fu piena di gridi e cusi fini a seduia straordinaria di u cunsigliu municipale di bastia            u lindumane  a cummissione faciva un giru in capi corsu    una bella spassighiata   aligostie e binu di patrimoniu     cume furcinata  un ne parlemu    a u champagne   piu di cinquanta buttiglie   u mezzu ministru roustan aviva digia salvatu a corsica une poche di volte     si vide de monzie ne le obbligazione di imterrompelu      je ne prends aucune responsabilite de vos promesses       j a i bien le droit de parler     non monsieur roustan ci est moi qui suis le chef de la mission  sic  et je ne puis rien prometire       le incidente frai dui ministri fece brutta impressione   ci fu un corsu  u scio bi    chi disse abbastanza forte  ci estuneighoble coomedie               in pinu  u scio antone leandri si rinchino duie o tre volte davant a i ministri  servenduli stu bellu piattu capicursinu     quoi qu on fasse pour elle  la corse mangera plutot du pain bis avec la frane ce qu un goiea u avec ne imporie qui  fut cememe un  gatea u de savoie        a      quoi qu on fasse pourelle   ancu se a corsica sara sempre umiliata e ingiuriata u scio leandri afferma chi e megliu a manghja u pan brinno di marianna    e liberu   gt  ognunu sa chi u ministru de monzie ha disertatu a cummissione prima di fini u so giru di corsica   si e imbarcatu in bastia via nizza  u 14 maghiu    e si spiega  dopu i fischi di ajacciu e di bastia  e dopu le incidente di capi corsu  de monzie ne aviva abbastanza     si je laissais faire roustan  il allait tout donner  la france et le alsace avec elle        de monzie si ne e andatu  e cume i ministri facenu e disfacenu  u corteii chi duviva parte venari sera a 9 ore  ebbe le ordine di aspettallu     bersu 11 ore  sopra i  quais   de monzie e sari parlavanu  parlavanu   e allora funu interpellati da un passaggeru di prima classa     que faites vous la messieurs  montez  nous sommes fatigues de vous attendre    nous avons paye notre place et vous ne avez pas paye la votre      sic   sari umiliatu di vedesi ingiuriatu ne u so propriu paese  si messe a grida cume un cervu     qui etes vous  descendez      gendarmes  a moi       u passaggeru di prima classa sce  se a terra  bellu arrabbiatu e indirizzendusi a sari     et puis qui etes vous      je suis le maire de bastia       le maire de bastia  je mi en fous      sari alzo a manu    e    de monzie u calmo e poi guaitu guattu  munto a bordu     ma chi campanacciu   una vera cunfusione e da u batellu partivanu ifischi a lu indirizzu di u ministru e di u scio sari          pa  a li indumani  15 maghiu  in nizza  u ministru de monzie faciva e seguente dicchiarazioni a u petit nigois     jerentre  je ne a i pas fait de promesses  je les a i prises en horreur depuis que j a i constate la religieuse ferveur avec laquelle les corses les accueillent    je wai rien promis      e allora  a scio ministru  perche site juntu in corsica      perche tante chiacchiare quandu voi sapete chi marianna un bole fa nulla       povera corsica  i lampioni so spenti  u pane cresce  avemu la acqua e u sole  e zinzale cantanu e simu sempre cua miseria  a vergogna e a malaria     
+  s
+    </p>
+    <docAuthor>
+     Pasquale Manfredi
+    </docAuthor>
+   </div>
+   <div n="11" type="art" xml:lang="co">
+    <p>
+     cuscogliule  to e mo   u doge di a serenissima  avia finitu u so tempu  un altru era statu eletta  tutti e dui eranu gnurenti cume talpe  i senatori aspettavanu sti dui magistratia u iornu di le intronisazione  perche era usu chi in sa sulennita u doge chi escia e quellu chi entrava in funzione fessinu ogn unu un discorsu  a u mumentu di a cessione di le insegne ducali     tutti i senatori e particularmente quelli chi eranu ielosi di si elezione  si promettiamu una bella sbilligata   u iornu di a sulennita arrivo in fine  a sala di onore era apparicchiata  pe a cerimonia  1 dui dogi si avanzanu allora unu versu lu altru in mezzu a le attenzione generale   u vecchiu magistratu  fissendu li assistenti in la aspettativa  stese a u so successore le insegne ducali cu sta pardla    i    to     mo rispose lu altru   nimu rise   pazienza    boli scumette dicia orsu leone  chi aghiu da fa imbestiali a ziu jacumu  sta volta ciele chi ella li scappi a pazienza    ne  a scumessa fu tenuta     andonu dunque i dui amichi in la butteia di ziu jacumu per cumpra drappu  orsu leone cumincio a fa spacchitta i bailottuli  ma era difficile per cuntentallu tutta a butteia ci passo  quandu tuttu fu sottu sopra  orsu leone si fisso nanta un ballottu     fate u piace datemine un palmu di questu   i  aldra ziu lacumu seriza nafantassi  piglio u metru e misuro u pezzu di tela poi tendendelu in cu un surrisu a u cumpradore disse si    sempre a u vostru serviziu 
+  s
+    </p>
+    <docAuthor>
+     Matteu Cirnensi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330930z
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330930z
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 379 | Année 10
+     </edition>
+     <date>
+      1929-12-08
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     x — Numaru 379 Esce a Dumenica | Duinenica 8 Decembre 1929  ; chi Li 5 à LI ri NC PRESE Em Mr. i; Di. chj nc di CH A PE Na nd Lens i is  GIURNALE DI E PIEVE DI CORSICA  snai ABBUNAMENTI :  imCorsiea. + + ++ tt + + + + + 15 franchi  In Franeis. « + &lt;&gt; + + +. 18 a  Unione postale DIG ERE 30  U Numaru:5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 38, — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     suspetti  e da moltu tempu  chi una manatella di cani arrabbiati ci abba ghianu darrettu  mossi da a secreta speranza chi a paura ci fara lenta u nostru programma di ideale e di fede  sti birbanti  a i quali per riesce manca solu una cosa essenziale  u curaghiu  contanu assai sopra a le impressione chi e so  minaccie pudarianu facci  pena e tempu persi  a corsica intera po esseci testimone chi no  unn avemu mai accurdatu a simile cummedia a mi nima attinzione  appena si no ci semu fatti  di quandu in quandu  una scaccanata     un ci semu mancu dati u fastidiu  dunque  di vultacci versu sti jagaracci per stupalli addossu  cum elli a si avarianu meritata  e stu cuntegnu ci e statu dettatu  prima  da unostru prufondu disprezzu  eppoi ancu e sopratuttu da a cunsiderazione chi simile svergugnate insinuazione un ponu che ghiuva a  riuscita di u nubile ideale chi noi sustinemu   stu puntu vale una spiegazione  chinoi saremu felici di furnisce qui i matarani e sgaiuffi chi ci attaccanu  hanu a trimulella quand ellu si tratta di lampa a parolla chi pudaria magari cundannacci davant a un tribunale patagunese  tibetanu o sempliciamente lunare  allora  per guadagna tempu  e ind u stessu tempu scusa un attitudine pietosa a forza di esse vigliacca  elli hanu inventatu u suspettu a longa scadenza  per pruva a nostra cumplicita cu u grande mongolu u re di i kalmucchi  o u guvernu di u monomotapa elli passendu per la uretra di pugniquadratu  a busciga di tartempion  e i budelli di culifritiu  ricollanu sin a la arca di noe  e  per fa piglia pazienza a e poche teste biote chi lu ascoltanu  pretendenu chi ellu hanu la eternita per stabilisce e so  accuse   ma sti prucedimenti sarianu di natura abbastanza ridicula  si elli un si valessinu  per ghiustifica a so  raghione di esse  di un grande ideale  di un immensu amore   le ideale  le amore di a francia   or dumandemu a i nostri lettori  dumandemu atutt i corsi ciocch ellu li ne pare di st affare  di i predaghj senza russore chi credenu di piglia a pratesa di a francia  o di a francia stessa  chi lascia intende chi ella ha bisognu  per rinfurza a so  influenza inde la isula  di simile apologia  qual e chi omu duvara u piu critica   da una parte  a vile e ruffanesca sfruritatezza di certi nostri aversarj pare incridibile  e da la altra  ognunu si dumanda cume una  srande nazione po calassi sin a tali    prutettori     ma sentu i cumpagni antonomisfi fammi osserva   cumu   ne sete sempre a stu puntu  stimate chi elluci possa esse un pocu di cuscenza de la una cume inde la alira  allofa e chi voi sete bellu semplice       homu mi perdoni  ma almenu da e sta volta  vularia pruva di rapr un suppulellu cu i malinten umati  i vittuli  e u so  idolu     cusi  cu tonu di infinitu disprez zu  diciaraghiu a i primi  a chi vale di briuna a sfacialera  di lampa tante insane purcarie   in vanu a vi pigliate cu cumpatriotti cuscenti di i so  duveri cume di i so  dritti  e vostre manovre  e vostre asserzione  lascianu cumpletamente indiffarenti  non solu li autonomisti  ma ancu a maggiuranza di i corsi  per l amor di diu  finitela dunque cu e vostre calunnie  e zittatevi  postu chi un pudete lenta che scimughjne    in quant a marianna  a lu idolu cu i pedi di oru  eccu ciocch eiu li diciaria  duvessi puru aitirammi i rimproveri di li autonomisti  pocu disposti a transige     ti eri fattu  per  ssu mondu  una numata di nazione di omi prodi  di omi di onore  ma avale  arrampichenduti a li argumenti di i buggiardi cume a una tavula di salvezza  diventi a ciantula  non solu di u mondu latinu  ma di lu interu mondu civilizzatu     tale sarianu state e me  raghione  ma  agguantendumi per un bracciu  un amicu mi avaria forse trascinatu fora di u chierchiu di infamia  dicendumi   un si raghiona ne cui vittuli ne cu lu idolu  solu occupatu a cunservassi un paese cunquistatu  le orecchie di i primi so definitivamente tappate   in quant a lu altru  cunuscemu oramai a sincerita di a quale ell e capace  per a nostra edificazione  avemu  in linea genetale  i scandali finanzieri e pulizzieri  in linea particulare  vale a di relativamente a u nostru paese  un je mi en fichisme culpevule sottu  ad ogni rapportu   economicu  suciale  culturale   lu amicu avaria prubabilmente  certi diciarianu sicuramente  parlatuin stu modu chiaru  ma  ghiova quantunque di lampa qualchi volta certe verita a lu aversariu e ancu a la aversaria  si elli cuntinuanu a seguita u stessu caminu che prima  tantu peghiu per elli da sta scillarata persistenza  noi tiremu a cunclusione  cume no  lu avemu dighia detta chi u nostru muvimentu  datu a nubilta e leghjttimita di a so  origine  e un muvimentu a u disopra di ogni veru e fundatu suspettu 
+  s
+    </p>
+    <docAuthor>
+     P. di B.
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     libere opinione  dopu a battaglia  a chi leghie a muvra sa chi noi un semu micca temneri pe  i capi pulitichi chi  a noslru pare  si facenu complici di a francia cusi ingrata pe  a corsica   i mettimu dunque tutti in lu stessu saccu  e u resultatu di la ullima baltaglia eletturale ci lascia indifferenti  a u puntu di vista situazione di i dui partiti in lolla  un pigliemu parie ne a  la amarezza  di u campu landrystu ne a  gioia di u campu pietristu adornatu di un maghiu chi tene in la cima una sciarpa ministeriale   ma  aspettendu megliu  unn avemu mieca troppu a lagnacci da i delega u senatoriali  ci hanu sbarrazzati di u cirottu giordan  cio chi ghie diggia qualcosa  un indiziu chi u corpu elettorale corsu si ha sempre del bonu in pettu  talmente veru  chi serebbimu stati liberati ancu di le attuale presidente di u senatu  senza a magnanimita di u sgio sebastianu gavini  vuluntariamente sacrificatu cum ellu fece u so  fratellu  chi  si ellu unn avia vulutu para i colpi a doumer  serebbi mortu senatore  o forse      un serebbi ancu mortu   perche  un simu a di  certi colpi in certi casi e a certi omi  si elli un tombanu subitu  lascianu piaga muriale    ma le ospite e sacratu in corsica  or doumer era  a tortu o a ragione  ospite di i gavini  e tantu basta  in  ssa vecchia casa di a nobilta corsa un si transige micca cu u duvere   quantunque  a so  osservanza di a nostra bella iradizione ci costa fora di misura  tantu piu chi doumer un ne apprezieghia micca a dilicalezza  accegatu da u so  orgogliu  un ricunosce mancu la impurtanza di u serviziu chi l e stalu resu tirendulu tre volte da u pozzu duve tutta a flotia di u mediterrane u unn averebbi pudutu piscallu    si ellu avia duie dite di fronte  averebbi brusgiatu centu cironi in domu avanti di parte da aiacciu    e chi ellu sia statu elettu  prima  a  piazza di u sgio antone e dopu  a quella di u sgio bastianu  ci pare cume una stracciata impia in le ultime pagine di a nostra sloria pulitica     i landrysti dicenu     deh  senza doumer  pietri un serebbi mai statu  minislru         quessa e pussibule  perche   pietri  si scrive senza  y  e i pinzuti spirtanu di l   i  finale  ma ci vole a ricunosce chi doumer  malgradu tulta a so  putenza  unn averebbi pudulu fa ministru un parlamentariu zappocchiu  genere giordan  per esempiu      per far della polenta ci vuol della farina     cantavanu piialiani  in guerra  a verila unn e che una  dicia sempre ziu casgione quand ellu ricunuscia un dannu faltu da e so  capre   eppoi  un iocca micca a noi di niga a fiaccula di u geniu corsu  mancu quandu si agisce di un aversariu puliticu  dunque  le onorabile pielri e ministru di e culunie  e duvemu pregalli di illuslrassi in la so  altissima missione  un siasi che pe u nostru desideriu di vede sempre mantenuta in gloria a rinomina di a nostra sterpa   u piu chi ci dispiace e chi a corsica unn  essendu che una soilu culunia  secondu u dettu di lederlin e i fatti di a francia  u sgio pietri un si ne pudera micca occupa  e cusi sera ubbligatu di da manna a scimie  quandu chi a nobile cirnu  mamma di ministri  di re e di imperatori  unn ha che coppule urzine   una sottu culunia    u sgio lederlin un pudia truva una piu brutia  e in lu stessu tempu  una piu ghiusta espressione per mustra a corsica accantala fra i vecchj accessorii di a casa francese   ma chi avera vululu intende  ne u fondu u sgio lederlin  avera vululu culpisce a corsica  a francia  o e duie     sera statu prufondu o semplicemente sgalabatu  dicendu cusi   sia cum ella sia  ellu ci deve una spiegazione  eppoi    lasciacci a pace in la nostru bassa cundizione di sottu francesi e ancu di sottu neri  cio chi vene a di chi  si ellu fussi elellu da noi deputatu o senalore  un serebbi che un sottu parlamentariu  or  un lederlin  francese di vera schiuma  riccu a milioni  cummandatore di a legione di onore  anzianu parlamentariu interu e sanu  un deve accetta di degradassi  dumandenduci un pezzu di titulu puliticu  a nci  pezzi di imbrogli francisali a la malora    di altronde  in fatti di roba pulitica pinzatesca  ne avemu abbastanza cun doumer     ci semu sfatti di a nostra vecchia cunuscenza giordan     seusendu u termine  e un tenimu micca a rinnuva la esperienza cu lederlin  ognunu in casa soia  e li affari anderanu megliu    ci so chi dicenu     quaniu ci ne e corsi eletti pulitichi in francia   ie  ma  ssi corsi vivenu dipoi longu tempu in lu rughione duv elli si so distinti  ci si so attaccati  ci hanu fundatu u so  fuculaghiu e ci hanu tulti i so  interessi  invece chi li eletti pinzuti in corsica affaccanu tuttu di un trattu cume acelli di rapina  si calanu justu u tempu di chiappa cio chi la ha attirati  eppo scappanu a u so  pullaghiu  sin a lu altru bisognu  si elli un trovanu preda in aliro   dunque  a cumparazione fra i dui predetti casi unn e sustenevule  e i  corsi devenu fa i so  affari da per elli  chi  grazie a dio  un mancanu ne di roba ne di sennu  solamente  per quessa ci vurra prima a truva le omone chi voi sapele    ma  chi cerca trava e chi seguita piglia       v  g  di altimonti
+  s
+    </p>
+    <docAuthor>
+     V. G. d'Altimonti
+    </docAuthor>
+   </div>
+   <div n="3" type="poe" xml:lang="co">
+    <p>
+     puliticaccia  a pace di i paesi  tempi scorsi  in una cantina era attaulinata jenti detta pietrista  cun di altra detta landrysta  u fumentu di u  pastizzu  e di altri toschi un tardo a fa mova li abituali discussioni  e cun elli  li impruvisazioni puliticanci di cufiscioni pietristu e di spaccamuntagna  landristu  dui trimendi buccaloni in puesia   spaccamuntagna u ci aviati prumissu lu famosu lavatiu   ma lu v aveti ricussu     sia par l amor di diu      e tutt u vostru talentu e statu fumi a lu ventu   cutiscioni ghia chi tu parli cusi   eiu ti vogliu risponda    sopra sta pulitichella discutaremi una stonda   ma  bassa un pocu la voci    un ci vol  micc a cunfonda    spaccamuntagna  eiu nun cunfondu micca    un ci mittiti tarrori   e gridu   viva u sgio landry   omu di tantu valori   ne avemu vistu la prova    lu emu fattu sinatori   cutiscioni li eti fattu sinatori    chi prova miraculosa    ma si ellu ci e riuscitu   fu cu lu ajutu di casa    la manu di un lederleni sara stata generosa   spaccamuntagna  a credu qui ci e ghiuvatu lederle com un cucinu    e lu v avemu  nchiaccatu a versu lu barrittinu   si cunoscini a lu belu cert agnelli di musinu    cufiscioni cert acelli di musinu    qual e chi tu chiamaristi    so sicuramenti quilli di li radichi pietristi   chi parolli dissensati    chi raghiunamenti tristi   spaccamuntagna eviva lu sgio londryni chi e quillu chi piaci a me   cu quilvaltr elettu  sari   e lu amicu lederie    a noi tutti li onori e li soldi a piu pude    l alcool cuminciendu a fa effettu  a cunfraternita landrista intona in coru sta riturnella in francese di sottu scala   le   pastisse  et le   pinari     le bon vin que l on a biu       vive landry et sari qui z oni tete zelus    et nous l avons     o la la leru   et nous l avons  o la la la   cutiscioni  sicura   o spaccamunta     ma un si sa com ella sia   u sgio pietri e numinatu ministru di a culunia    quissa po pruvatti  credu   a so  forza e simpatia    e cum ella li si parveni  a cricca pietrista ripiglia anch ella  in coru  una riturnella in cianfrese    ah  les fraises  les frambouases   le bon vin que l on a biu      dans la futte corsouase   pietri la a le   dessius     spaccamuntagna malgradu li to  disprezzi   o pessimu cutiscio   e iu nostru sgio landryni chi ha vintu l alizzio   lu emu fattu diputatu   epp avali sinato   cutiscioni  quelli evvivi lu sgio pietri   ti la gridu e ni so fieru   unn e micca lu to  landry chi e di lu ministeru   a poi aspitta da cllu a piazza di duganeru    spaccamunfagna spezia di matalandatu   cerca e misura i to  detti   se ti si magna la rabbia   teni li to  denti stretti   tantu  un vali  aveti persu   em  avutu dui eletti   cutiscioni tiru la punta di pietri   la ripetu e nun la negu   parchi ellu a i culunii mi ha da busca un impiegu   a lingua tenila tu   o sinno  a vegu  a vegu       spaccamuntagna apri a bocca par cuntinua lu attaccu  ma ricevi un colpu di buttiglia a ciaccaron  di nasu e un po linta che un ughiulu di dulori   baruffa  buttigli e bicchieri saltanu all eria  tola e carreghi  so sottu sopra  u iumi e spintu  corrinu i pugni  i calci e i colpi di ogni genaru  a la muta e a la ceghesca  a padrona chi era in cinta si sveni erisico di fallusi prima di la ora  dopu mezz ora di parapiglia  tutt  ognunu avenduni pa u so  contu  a chi scappo pa  a porta  a chi salto pa  u balconi   quist affari si passava un sabatu sera  a dumenica da mani mi e resciuta di vedani uni pochi   chi  ti avia a canteghia ligata come si ellu vultava da u dintista   chi  purtava u turbanti come li arabi  di altri senza benda  aviani i labbri imbuttacciti o li ucchiali di fantasia   i dui famosi impruvisadori  un si so pussuti scopra par dui jorni   soga ne avianu avutu parti e piu ca parti  paro  i mogli ricumincionu a matina a batta a tarantella  e senza u cuncorsu di a jenti a spiccalli  saria ricuminciata un altra barruffa ancu piu bella   cusi hanu vintu tutti  o za la le ru       pinsai in me  stessu   e  o la la la       vinciaranu sempri   risa interna di poca durata  parchi  pinsendu a i cummedii e i miserii di u me  paisolu a causa di  ssa malsana puliticaccia chi intuntisci tanta povara jenti  a rabbia mi si magna da grida a  faccia di  ssi capi cocthia chi ni prufittanu e ni    campanu   u boia  u boia  oh  chi bona cosa saria  
+  s
+    </p>
+    <docAuthor>
+     Pinzuti
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="fr">
+    <p>
+     l avucatu berthon contru i corsi toute la lumiere sur l affaire berthon nouvelle reponse a l'avocat pierre versini j etais bien loin de penser qu a l avocat pierre versini iraient un jour mes felicitations tout ce que je prevoyais a son egard se resumaitainsi reponses cinglantes ou silence meprisant or l irunie des choses m oblige a le congratuler pour sa reponse du 1cr decembre a mon article du 27 octobre en s evertuant a travailler contre mol il vient de faire d excellente besogne en ma faveur je ne suispasun ingrat et je le remercie de s etre recueilli tout un inois pour aboutir a ce curieux resultat unu il est donc etabli que m versini avec les ans gagne en patience intellectuelle ce qu il perd en patience tout court mais que ses longs efforts se retournent contre lui par l effet sans doute d une hostilite du sort a moins que  hypothese que j emets timidement cet avocat ne ploie sous le faix de ses multiples talents d historien de politicien et de conferencier  on ne doit surcharger son esprit pas plus que son ane et me versini devrait le savoir lui qui cite si souvent les fables de la fontaine  toujours les memes comme bien d autres phrases toutes faites qui lui sont cheres  ainsi donc en colonnes massives m versini lance contre moi en guise de refutation des arguments aptes justement a demontrer ce que j ai deja prouve si bien que je vais les tourner contre lui sur le champ sans avoir besoin de me recueillir tout un long mois et en opposant a la densite opaque de sa prose la clarte de quelques alineas la breve simplicite de quelques questions  a 1 m versini delivre a mon frere le dr alessandri qui ne lui demandait rien un brevet de loyaute et d honorabilite mais alors pourquoi m versini avez vous rejete si categoriquement a la reunion du jury d honneur la declaration de cet homme  loyal et honorable  alors que vous avez accepte de si grand coeur la declaration de votre confrere m berthon  la saine logique vous commandait ou d accepter ces deux declarations ou de les rejeter toutes deux  au nom de quelle loi de l esprit et de quelle loi morale avez vous etabli une distinction entre l'honorabilite que vous decernez au d alessandri et celle que vous decernez a m berthon pour juger celle ci bien superieure a l autre et seule digne d'etre retenue  2 apres avoir tout nie vous reconnaissez enfin que m berthon a en effet prononce ces tristes paroles sur les hommes corses a cheval et leurs femmes marchant a pied chargees de fardeaux  c est donc le commencement des aveux bientot vous aurez tout reconnu comme exact et vous croirez maintenant vous en tirer en appelant  boutades inoffensives  ce que j appelle injures graves  pouvez vous d ailleurs m'expliquer le comment et le pourquoi de cette  boutade  au milieu d une plaidoirie concernant un medecin issu d une famille eduquee  voyons elle est parente de la votre  ayant fait ses etudes a paris la ville qui polit les plus  sauvages  et menant enfin dans la creuse la plus continentale des existences   j'enregistre a mon actif ces deux points capitaux ils ouvrent une large breche dans la mauvaise cause que vous soutenez et il me serait aise d achever une demolition si bien commencee par vous mais je vous sais desormais capable de la parfaire tout seul et je passe a quelques apercus curieux de votre reponse  ll 3 de quelle amnesie avez vous ete victime pour m accuser d avoir supprime dans la  muvra  du 7er aout un passage de mes declarations qui auraient pu exercer une forte pression sur l assemblee des corses tenue e 20 mai  donc deux mois et demi auparavant  dans quel monde interplanetaire avez vous vu des soustracticns ou des additions de pensees agissant a frois mois en arriere  vous pouvez m en croire m versini bien que je ne sois pas votre ami cette polemique vous a fatigue et un long repit vous est necessaire pourquoi vous presser l affaire berthon est bien eclairee  depuis le 27 octobre et nous pouvons prendre l un et l autre tout notre temps pour l'eclairer encore mieux  42 pourquoi malmenez vous la veriteen declarant une fois de plus que vous etes intervenu en ma faveur a la reunion du jury d honneur alors gue vous savez pertinement qu un membre de ce jury vous donnera quand je le voudrai le dementi public le plus formel et manifestera son indignation pour votre haine dechainee contre moi au cours de cette seance mouvementee   grave faute pour un demonstrateur quiconque veut montrer la verite ne doit pas jouer avec elle un seul instant  je prends acte pour terminer de la declaration vraiment inesperee que vous faites en maniere de conclusion a savoir que vous etes un chiffre dans la collectivite corse  et je vous pose cette derniere question  5 puisque vous comptez si peu pourquoi etes vous seul a prendre la parole en cette affaire qui devait etre discutee par le principal interesse m berthon e faut il en deduire que vous etesson porte parole ou bien que me berthon renonce a defendre une cause que seule votre aveugle obstination soutient encore  l incident n est pas clos m versini car ce n'est pas un incident  mais une affaire capitale et il ne dependra pas de vous croyez le bien d en arreter le cours
+    </p>
+    <docAuthor>
+     Pierre Alessandri
+    </docAuthor>
+   </div>
+   <div n="5" type="poe" xml:lang="co">
+    <p>
+     invernacciu  eccuti  invernu neru e dulurosu   cu le to  noiti eterne e ghiorni corti  spintu e lu sole  e li fiori so morti sottu lu to  celacciu nevicosu   ahi  quanti malanni ta ci porti    empi pozzi in lu pianu fanghinosu  appronti u zinzalaghiu perniciosu duve succomberanu li piu forti   sterpi pecure e capre a lu pastore    crepi la barca di lu piscadore   sparghj senza pieta lu dolu immensu   o re di li elementi scatinati   se  maladettu da li malabbiati   da quelli chi un ne parlu  ma ci pensu   
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="6" type="art" xml:lang="co">
+    <p>
+     punte puetiche  altre volle  avemu parlatu di un defuntu pucia di valle di orezza  u pipaghiu juvan simone   qualchid una di e so  punte satiriche  chi li custonu bastunate  ci inducenu a riparlanne   in paese di rapaghiu boga a pulitica  ed e un mese chi nu  dutturone  si mantene li elettori  ghiuvan simone  chi cunuscia u carattere di i so  guasi paisani  cappio sta prufezia chi  si ella si realizzo  fubbe causa di falleli busca   evviva lu duttore    gridanu rapaghiacci   chi  a forza di migliacci   si passera le ottore   finiti li migliacci   ci unimu a li  chipponi    per binu e maccheroni  votanu rapaghiacei   sempre spiritu murdace  un bel ghiornu  arreghie un bancherotta chi gridava  aver di lutto  ed aver da approvisionare il paese colla cassa che portava sulla spalla       ci ne hai aghi     eh  quante ne volete      aspetta   chiamendu a moglia  o mari  bercami u decaliiru  i  quella  credendu altru  porse u stuvigliu       te  misuramine intantu un decalitru   u  bancherolta   vedendu chi ellu parlava seriamente  fece tandu     a me mi sembra che sei impazzito  ma che  li aghi a decalitri        pazzu si tu  chi pretendi purta u mondu ind a to  scatula eunn hai mancu da cuntenta una persona  unn hai mai vistu nulla  tu  qui  simu di quelli chi cumpremu u vinu a coffe e u furmagliu a ciarrate   i     ok  come mai    e u  bancheroiia  parti ridendu  cunvintu di ave da fa a un scemu   u sgio ne    gridava cume un persu  perche i porci avianu sterpatu u so  granu  u dannifichenteera u vicinu di u nostru spiritosu pueta  ci era dunque voci  pruteste  minaccie   ognunu dicia a soia e a cummedia durava   cume u purcaghiu prutestava  ghiuvan simone disse     ci vole a bede  puderianu esse siati ricci     fu tanta polvera lampata nentr a u focu  ebbe di andassine in casa  e     fanne a so  satera  seria troppu longu a riproducela  ma eccune u puntu principale   ghiuntu in piezza a sant  antone   ci era la aghia  e si tribbio   
+  s
+    </p>
+    <docAuthor>
+     O. F. Piazzoli
+    </docAuthor>
+   </div>
+   <div n="7" type="feu" xml:lang="it">
+    <p>
+     decio cottoni arrivato su i 1uoghi si apposto in uno dei rialzi di terra abbandonati dai francesi e si diede subito a trarre   clemente pure giunse dalla altra  parte e omai di ripari non voleva sapere niente  bensi fare impeto alla scoperta  piu cauto altobello ne lo dissuase confortandolo ad imitare il cottoni  dai ripari ammazzarono a man salva  e comecche i corsi non isbagliassero il colpo a volo  vi avete a figurare se a fermo  onde pareva la morte vendemmiasse  che gli uomini cascavano giu  stretti insieme da parere propriamente grappoli  ne i bersaglieri si contentavano di volgari ferite  al contrario volevano scegliere  cosi colpirono i colonnelli del reggimento rovergue e del sassone  e dopo questi la piu parte degli ufficiali  il marchese di chauvelin  non anco disperato di vincere chiamava a se il marchese di tilles e il visconte di beauve  ed ordino  che preso un distaccamento dai reggimenti medoc e brettagna  si recassero a sloggiare i corsi dai fortini  i valorosi colonnelli partirono ad eseguire il comando  non li trattennero la pioggia delle palle  non i morti che seminavano per la via  per essere i parapetti bassi saltarono i ripari e quivi incominciarono a trucidare con le baionette in canna   i corsi si provarono resistere co pugnali  ma conosciuto subito impari il gioco fuggirono e si sbandarono  i francesi stando raccolti in manipoli   appena usciti perderono il loro  vantaggio  sarebbe stata sano con siglio anco per loro tornare indietro alla guardia dei fortini  ma o non seppero o non vollero   fatto sta che continuarono il tilles a perseguitare il paoli verso biguglia  il beauve  il cottoni verso luciana     e adesso  che come generale non mi resta a fare piu nulla  andiamo a sostenere le parti di soldato   disse pasquale paoli   rispetto a voi  signor boswell  restate qui  che non e giusta  che ne abbiate a toccare per fatti non vostri  addio    nasone  andiamo     con vostra buona licenza  signor paoli  dacche abbiamo passato tanta parte di giorno assieme  permeltete chi io ig finisca     ma voi non siete armato       di fatti io non mi presento alle palle francesi in qualita di soldato  bensi di invaghito     non praticate da savio  signor giacomo  arrosto che non tocca lascialo andare che bruci  dice il nostro proverbio   e mentre il paoli cosi favellava  correva  e il  signor giacomo dietro sbuffando     bene   il proverbio non manca di senno  ma ora che son diventato mezzo corso mi tocca piu non credete  intanto che andavano  nasone percorreva fiutando la terra  di repente lo videro fermarsi  poi  taspare  dimenare forte la coda  poi squitti dando segni di sorpresa e di allegrezza     fermi  qui dietro ci ha qualche cosa di nuovo  noto il paoli  in effetto di li a pocchi secondi ecco dai cespugli uscire a diecine  a ventine  cani meno grossi  ma della razza di nasone  quale grigio  quale rossigno  i quali si ricambiarono quei convenevoli  che il galateo dei cani diverso da quello di monsignor della casa predica onesti  dietro i cani naturalmente vennero i padroni  i quali mirando  ed essendo mirati dal generale  corsero ad abbracciarsi di cuore  erano montanari delle costiere e li guidava vinciguerra da canavaggia  in breve spiegarono  che  il generale spiego e lesse lo scritto  vergato con mano tremante   il quale diceva cosi    signor generale  raccomando mio padre a voi  la mia anima a dio  fra un  ora saro con gli altri valorosi morti per la patria  vito savelli     ah  quel caro giovane pareva se la sentisse piovere addosso     bene  prese a dire il bowell  benissimo   che manca a questa lettera per essere bandita sublime in tutte le scuole del mondo  se non  essere scritta alle termopili da da uno dei trecento di leonida     chiedo perdono  rispondeva il generale tuttavia correndo  leonida  e i suoi si consacravano morendo agli dei infernali  vito rende la sua anima a dio di cui si sente parte  la differenza mi sen bra enorme    bene  voi parlate sempre bene   erano sul punto omai di sbocca re dall  estremo lembo del bosco  allorche videro venire inconiro a loro un uomo fuggendo  il quale ne teneva un altro in collo quasi intendesse rapirlo  il generale che se lo trovo addosso  lo abbranco pel petto gridando    ah  dalla altra  parte e il nemico etufuggi      non fuggo  no  rispose trangosciato il corso  lasciatemi andare  cristo  o non vedete che questo che io porto e morto  mi fu ucciso accanto  no in verita  signor generale  finche il mio povero fratello mi sta davanti non mi riesce levargli gli occhi di dosso  enon mi posso battere    vado a sepellirlo e torno subito   alora il generale mettendo una mano su la spalla dell uomo     tu sei di alesani parmi  e dei tommasi  non piangere       io non piango   va  torna indietro   chi ti co manda   il capitano decio       be   aspetta  e scrisse sopra  un foglio col lapis   fa quelle che ti dira il tommasi  p  p   porta questo al capitano  ed ordinagli da parte mia  che ceda a poco a poco il terreno dilungandosi dal borgo verso il lago benedetto e procuri tirarsi dietro i francesi  in quanto a questo valoroso non darti pensiero a sepellirlo  lo riporro io stesso con queste mie mani sotto terra   sei contento    il cerso non potendo parlare gli bacio le mani  gli pose fra le sue braccia il fratello  e preso il foglio in un momento disparve   in questo modo  sicuro il generale che il distaccamento  francese non lo avrebbe molestato  con urli che andavano a cielo  suono di cento corni e latrati di una iorma di cani casco improvviso alle spalle dei granatieri che operavano sforzi piu che umani per rovesciare i parapetti corsi e penetrati nel borgo sovvenire la gente del ludre   in parte si vedevano mucchi di cadaveri a pie della trincea senza che lo avessero potuta mano mettere   in parte pero compariva aperta  e li dentro la rottura si battevano a baionetta a coltello  ne le sassate mancavano  ne i pugni  ne i morsi  pero il sudore si mescolava col sangue  per mancanza di forza le  ferite sdrucivano piuttostoche trapassassero le carni  gli sosteneva la rabbia  la paura e la vergogna del perdere   ormai dalla una  parte e dalla altra  toccavano ilpunto in cui anco un grano poteva dare il tracollo alla bilancia   e veramente 6o cani e cenlo montanari erano qualche cosa di piu di un grano e lo provarono avventandosi con fuore non piu visto al mondo  terribili gli uomini ma due cotanti piu i cani   le gambe addentate e le cosce non le lasciavano piu per ferite ne per colpi  anzi ne anco morti  e fu mestieri con taluno aprire co  ferri i denti e liberarlo della testa mozza delle cane   i corsi visto il generale a loro tanto diletto  raccolsero quel po  di lena che si sentivano nelle braccia per non apparirgli minori del la aspettativa ed anco delle promesse che gli avevano fatte  ed egli in mezzo alla tempesta e senza ne pure cavare la spada sereno etranquillo diceva   su da bravi  anche uno sforzo e abbiamo vinto    mentre voltatosi al signor boswell  il quale colla scatola in mano lo aveva seguitato  intendeva domandargli     si puo egli fare di meglio    vide sparirgli il cappello di capo  onde temendolo ferito proruppe in dolorosa esclamazione  senonche il signor giacomo sorridendo rispose     poca perdita  un cappello frusto    e continuo a tirare sula presa di tabacco che aveva incominciato ad annasare   pero indi a breve avendo scorto nasone il quale corso dietro alcappello glielo riportava soggiunse    anzi guadagno  e grosso  perche il cappello intero prima eostava due scudi o meno  ora forato in questa congiuntura acquistera un valore venale di dieci sterline o piu   forse forse anco venti   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     cio chi stalbo  a ghjlormu casanova    ors latu entre lu orsu era malatu  mfrendu di dure pene  ahbattulu  addisperatu quanl esse  nu le catene   ejl e stalbatu  eccu cos ell e stalbatu      un so cummedie ne scene    si vide affacca una musa tulta carcu a puesia   pisse   un mi lruva piu scusa   de tremendo malatia    doi u fa ju to  corsu  ppi altro  u a lesciami ju mio car  orsu    a malatia  pai  vai a lu to  veniu    bai  voie e  e piu  qui  ci aghiu pusessu   spieg altro1u lo  talentu  lesciam a ju mio prugressu   esciam a o sus mi pari tropp insulenie      ghiunghie ascumudalajente   a musa  se tu mi credi insulentc   ti credu  ndegna   gattivu  tradilrice  assai nuciva  angusciosa e pestilente   batti u grassu  botti u magru  e sin a lu locu sagru   a malatia  que nun sia u lo  penseru  musa di storia e di bene  devoru lu mondu  ntieru  si io vogliu  lu carcu a pene  per ticchiammi nun mi busla tultu cio chi u mondu  mpasta   a musa  un serei cusi tremenda   per suddisfatti  eiu bastu  te  mi ogliu mette in iaccenda  preparatti un bellu pastu   ma si lu nun manghj tuttu  di orsu perdi fondu e fruttu   a malatia  accettu la to  pruposta  e genere di scumessa  beneraghiu bell apposta   grazia mi sera cuncessa di tene la mio parulla chi val  assai piu di nulla   preparativu fu fattu in pompa ed in allegria   per sustene ju cuntrattu ci era uterpe ca urania  all accoria  fresche e belle  ci eranu e nove surelle    a dece ore  malatia ghiunghie secca  scalancata    a so  brutt  antipatia  un bulia esse aspettata  disse  acerba  a terpsichore   ghiunghj attemp a stu favore   melpomene  in presidente  piglio piazza a tavulinu  tantu grende  chi e sembiente a lu celu archi turchinu  dicendu   a statem a sente  per beje  ci e acqua o vinu      malatia  prima  robba cunsistente che possi empie lu corpu  per serve  la vostra jente mi pare unn esse di  roppu  a mio fame unn e leggera  e di a terribile e nera     picchia un timpanu di argentu melpomene  a la allegrelta  urania disse    sentu   eccumi qui  bengu in fretta a  vostra dispuzione  servevi la cullazione     lu antipastu fu servitu ci un mille di stelle in salza  molalia  cum un imbutu  rineula   mbevita  sbalza  dicendu     robba piu molle   date qui tonnu e cibolle     urania  mu tasta  chi manghj tuttu  robba un ce piu deliziosa  e collivu  e u mio pruduttu  e le cunservu  jelosa    mai ne averebbe dalu  melpomene mi ha furzatu   di vedemi ricusa   pastu cusi deliziosu     credi  ti vurria pulza   ma un cultellu sanguinosu  benche unn abbia pazienza  unn e pe  la mio cuscenza    perfida  trista  tradita  rinculava malatia  melpomene impone  ardita    ci e scumessa   via  via  un bogliu cuntestazione   devi abbatte a cullazione    malatia  quest e troppu  un si devora  perdu la scumessa mia   mi ne surteraghiu fora    lu orsu li hai per una cria  ma ogni cosa lu impattu    neru sera mio rigaltu    
+  s
+    </p>
+    <docAuthor>
+     L'Orsu d'Orezza
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     e staggione  quandu di invernu sparisce u biancu lettu   bene veranu cu lu tempu perfettu   tandu  ogni giuvanetta porta fiori e rose in pettu   ha le labbre surridente   e cerca lu so  dilettu   a  primavera face piazza le estale    i giuvanotti cu le so   nnamurate vanu  dopu la annuta   a fa longhe passighjate    a li loghi bughj e ascosi  passanu belle stundale   a lu auturnu   ogni frutt ha dulciura    e giuvanotte   senza di alira primura   di ia pampana di vigna si facenu una ciniura  cantendu le canzunelle  briaghe di uva matura   dop e lu invernu   riancu di jornu e notte   contru lu freddu si face focu forte   poi si joga a le pallute  fra zitelli e giuvanotie  fendu tante finte guerre da le finestre e le porte   ma le staggione   quantu so belle tutte   quella di i fiori cume quel  di le frutte  quella di li gran calori cu quel  di e fronde morte   facenu cambia di moda a le nostre giuvanotte 
+  s
+    </p>
+    <docAuthor>
+     Menicu d'Osani
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     vaghjmu   a f  a  franchi di olivese   nant a la nostra muntagna pasci  pasci la fumaccia  faci freddu  la aria e pagna   e lu nivulu minaccia   a notti veni  tira u ventu   prestu a u focu  i me  zitelli  u cieli e tristu  chi spaventu   un ci e piu soli un ci e piu stelli   e soffia la tramuntana  dura sara la nuttata   curriti a la funtana  dumani sara cutrata   incippetimi lu focu e turreti li animali    unn andeli piu in locu   ne par be  mancu par mali   chi  eo sti nuttati scuri ci e mazzeri e licramanti   e nun si e mai sicuri di pude tira avanti   aval  so tutti a lu descu  intornu di lu fuconu   zifula pur   ventu frescu  viniti  accenditi e sonu    e  nu catagnonu caldu   u braccu dici a la fatta  e megliu qui che  nu valdu  cu sia pessima nuttata  
+  s
+    </p>
+    <docAuthor>
+     Simonu di li Lecci
+    </docAuthor>
+   </div>
+   <div n="11" type="let" xml:lang="fr">
+    <p>
+     lettre de paris chaque annee il se depense des millions pour proteger les animaux pour sauver du malheur les chais galeux ct les chiens hydropiques cela m avait toujours paru une singuliere aberratiou pour une epoque ou des familles entieres sont decimees par le taudis l alcoolisme la tuberculose et je pensais que toutes leurs miseres physiques intellectuelles et morales rendent les hommes autrement dignes de pitie que les mouches et les crustaces  mais c est a paris qu il faut etre pour voir jusqu ou peut aller cette toquade  a titre d exemple je me bornerai a reproduire une eu tete de papier a leltres que je garantis authentique  clinique pour petits animaux 29 avenue de lowendal xv  medecine  chirurgie  hydrotherapie bains sechage electrique  soins de beaute hopital  e maison de convalescence garderie a ja campagne vous pouvez crever de la malaria pauvres corses sans medecin sans pretre et vous n aurez plus l amertume de vous comparer alors a des chiens les chiens des belles dames parisiennes ont une maison de convalescence et recoivent des soins de beaute  les frangais ont bon ceur
+    </p>
+    <docAuthor>
+     U Balaninu
+    </docAuthor>
+   </div>
+   <div n="12" type="div" xml:lang="fr">
+    <p>
+     giurnali puliticaccia si la lutte electorale qui vient de se cloren pu etre une bonne operation financiere pour quelques maquignons politiciens   et nous n en doutons pas   la corse en est resiee comme toujours helas amoindrie morulement et maleriellement  moraiement on a assiste au spectacle le pins ecoeurant qu on puisse imaginer les caisses ont fonctionne a guichets ouverts pulliquement sans que les champions de la fe te foruine el les rabalteurs prissent la precaution de sauver au moins les apparences ces pratiques electorales faussaniles inslilutions ont certes de tous temps existe mais n avoir plus ja pudeur du geste discreti racoler sur la place publique les electeurs et les pousser brulajement vers l auge comme de vulgaires gorets affames cela depasse les bornes et jette une nouvelle note de diseredit sur la republique celle ci deja chancelante eut pu raffermir les honneles gens dans cette opinion que le suffrage les elections et les representants c'est de la turlupinade  une democratie qui s ecarle de la vertu cl s appuie carrement sur l immoralite pour vivre ne peut tarder a succomber  materiellement nous avons fait l acquisition de trois boues qui broutent bien et produisent peu la corse ils s en soucient comme de leurs premieres chaussettes 1l l on prouve au cours de leurs mandais perimes et feront de meme an cours de leur mandat actuel   mais l on nous dit   monsieur doumer sera president de la republique dans deux ans et alors    tenons nous bien les cotes qu est ce qu il va nous laisser tomber dans je  blaire ce prince roi quand il sera sur son irone elyseen   fumisterie  dans l autre camp on chante sur l air de mignon   venez voir le joli petit oiseau qui nous vient de la region seraphique avec ses ailes dorees ses griffes crochues et son gros bec ah ce qu il est bean si nous elisons depute ou senateur monsieur lederlin la corse sera vite rattachee a la metropole par un fil a la patte   eh bien que ce  zozo  rapelasse ses bas de laine bourres de papier s il veut c est son affaire mais qu il nous fiche la paix  assez avec les meteques les candidatures exotiques font certes le bonheur de quelques maquignons mais non celni de notre malheureuse corse toujours pelee et galeuse  corsica nuvembre 1929  charabia leu churabin  mon cher directeur est notre langue corse ce languge empreini d harmonie et de virilite mele de larle latine et de musique itulienne   car c est ainsi que le qualifie un ecrivain francais contemporen  m qciave aubry cu son gb thec  brelan de lemmes  ou le coup d elut du 18 brumuire  s exprime ainsi vers le milieu de ja page 27   madame letizia grande en son fautewil el les yeux immobites repondit lentement dans sou charabia corse aucz vous ete maries par un pretre napolione pa n an e ed d abord il me semble que cela esi du francais lres correcl personne n en disconviendra e par le nom de napoleon qui n est ni du corse ni du franguis mais du vrai charabia celui de m aubry ci non le langage de la venerable mere de celui qui ful le grand empereur  ll  e il est pavrant pour ne pas dire plus de conslater que encore a l heure actuelle apres 160 ans de viecammune semee de bous el de mauvais jours des conlinentaux qualifient notre langue de  charabia  el quels continentaux  des lettres la fine fleur du panier devant cel elat te choses dument conslale que pouvons nous altendre du servun pecus de la mosse dont l ignorance peut paraitre justifiee en somme aux yeux de celle ci toule proportion gardee nous devons les corses etre des anthropophages ou quelque chose d analogue  mais oui  du moment que les letires traitent noire langue de charabia   l eveil de la corse
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

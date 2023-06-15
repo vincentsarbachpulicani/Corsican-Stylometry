@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1923_24
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="co">
+    <p>
+     a lingua corsa ha subitu u destinu di a razza chi a parla   una e la altra  so state cumposte di elementi i piu diversi spessu incumpatibili  e per cio  senza accordu sufficiente da le unificazione perfetta   dunque  tutt e due malamente create a lu azardu di circustanze accidentali e accidentate  un hanu mai pussutu perfeziunassi   una  a u puntu di vistu ricchezza di vocabulariu  uniformita di espressioni  di accentu  e regule grammaticali  la altra  a u puntu di  vista cultura  intelletuale  finezza di custumi  studiu di lettera  tura e cuminione di ide e pe u sviluppu materiale e murale di a cullettivita   i nostri antichi un hanu mai praticatu le unione che per difende a so indipendenza quand ella era minacciata  da i stranieri   in su   casu u eranu lioni di curaggiu e santi di fraternita   ma dopu a vittoria  ricadianu inle divisioni sanguinose  malgradu   i sentimenti umanitarii chi i purtavanu a i piu bell atti di pieta individuale     un simplice colpu di oechiu in la storia corsa ci spiega cume a nostra  razza e a nostra  lingua so surtite di bona tempera  ma roze  e mal aghiustate  di a furnace suciale   e cum elle so restate sgangarate e sparse  simule a e vecchie torre di i tempi eroichi     da quand ella fu abbitevule  cio adi ad un epoca incunnisciuta  a nostra isula deve esse stata un puntu di refugiu pe i diversi perseguitati di i populi cuntinentali    specialmente quelli furmati intornu di u mediterraniu     ma  sti  esiliati un eranu  pero  aventurieri di rapina  postu che a si epoca a corsica  intieramente cuperta a macchie  un uffria niente da racoglie     no  eraanu sicuramente di boni sentimenti   selu  in rivolta contru a barbaria di i tirannii   fieri di caratere e travagliatori  cume tutti i sfurtunati abbandunati ad elli stessi ubbligati di ingeniassi per sudisfa i bisogni di a vita materiale   cun si virtuosi culunizatori  la isula fu pocu a pocu messa in cultura  e grazia a la so fertilita  maravigliosa  a ricchezza di e so fureste  i so belli pasculi e a so pusizione avantaghiosa sopra u gran lavu mediterraniu  divinto un oggettu di inviglia     da quessa funu  prima  frequenti incursioni di a pirateria   poi guerre urganizate pe a cunquista  da tutti i populi di la auropa e di la africa di unordu  chi a si disputavanu cun accanimentu   cusi  a manata di culunizatori pacifichi au sguagliata in li invasioni  ed ogni populu guerrieru lascio e so tracce in la isula bramata   dunque   furmazione di un populu natu in li strazii ci un destinu di strazii     sempre  o perseguitatu da stranieri o divisu da e guerre interne   per cio  avemu ereditatu di una lingua troppu variata in accenti ed espressioni per una sola significazione  cume noi avemu ereditatu di un spiritu di partitu chi ci ha sempre messu in preda a la avidita di capi pulitichi   cusi  ogni regioni adutto e so espressioni cu i so accenti probbii   tantu piu mentenuti chi la anarchia signuresca dividia paesi e paisani  a tal puntu ci una regione cunsiderava forse muralmente ubbligatoriu di un parla mica cume a regione aversaria      simile spirtu un deve esse esistutu che in li tempi i piu rinculati ma  li incunvenienti ne saranu restati       sa lingua incumpletta  disciolta  senza regula  a u logu di esse cultivata per le unificazione  e sempre stata  a u cuntrariu  di piu in piu sfurmatu  siasi da li ignoranti  scusevuli   siasi dai tenuvi di intellettu ci una infarinata di istruzione  parlatori di una gattiva crusca  e piu tardi  da una simule categuria di corsi   chiamati infrancisiti  parlatori di un linguaggiu piu che ridiculu    quantu a i spiriti cultivati  i struiti  parlavanu rumanu sottu a roma e parlanu francese solitu a francia   ma un si so mai occupati di cultiva a lingua materna   lu hanu  a u cuntrariu  sempre disprezzata cunsiderendula cume un poveru oggettu degnu sulamente di a populaghia  un segnu evidente di su disprezzu risorte ancu da e predighe che u cleru corsu un face mai in corsu   dipoi qualchi tempi  certi corsi di valorehanu intrapresu di unifica a nostra lingua materna  di assestalla cu tutte e so regule  e sogranu ancu ad insegnalla in e scole   la opera e santa  e pia  tutti corsi di core devenu incuraggilla quelli chi si desinteressanu o chi si vergognanu di parla  corsu devenu esse cunsiderati cume gattivi patriotti  cume prufanatori di li ossarii sacrati  cume indegni di a so nobile discendenza  si po esse sapienti o ricchissimi e resta corsi     onore dunque a tutti i letteratori chi scrivenu dinu corsu   a tutti quelli chi travaglianu a funda un academia per le unificazione di a nostra cara lingua materna  piu dolce e piu culurita che tutte le altre  in tantu che la academia in furmazione ci di a e so regule  ogni scrivanu corsu duverebbe rinuncia a scrive esclusivamente in la manera di esprimesi aduttata da a so regione nativa  scrive di manera ad esse capitu dipoi e bocche di bonifaziu  fin a fultimu pinzu di a giraglia di capi corsu  e da bravone a e calanche di piana   per quessa ci vole di adutta un vocabulariu mezzanu inguadratu di viculese e di castagnicciaiu  per lu ortografu  tenesi a lu italianu ed e vita soprattuttu  lu abbusu di li apostrofi   per nostru contu stimemu chi a parula deve esse  quant e pussibile  scritta intieramente cum ellu si face in le lingue madri  e mica a pezzi  magnata da li apostrofi cum ellu si face in li linguagsci inculti  chi li artisgiani di la academia corsa si spiccinu a funda in una sola forma tutte e ricche materie di a nostra lingua  e fanne un campanone lindu  chi sbranatu da  u partitu corsu di azione  sunga in gioia e maestosu a resurrezione di 
+  s
+    </p>
+    <docAuthor>
+     V. G. d'Altimonti
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     ispirendussi di u libru di petru rocca   les corses devant le anthropologie  1913  yunu di i piu putenti argumenli di u curzisimu un annu dopu a cispra scrivia tutti corzi devenu brama una corsica  autonome     una nazione indipendente cu a so lingua e so lege  u so guvernu a parte  u puntu u piu urgente a realizza e la autonomia   che cosa vole di sta parola chi ha fattu   e  faci sempri  anc ava runca tanti sumeri e gumita tanti scrivaciuloni impiegati    malgradu tuttu ciochi si e  pratesu la autonomia un ne e mica un  problemu insolveule  anzi       a corzica e un ammalata e un ammalata geuva  u so male  ognunu lu vede  e di un ne esse piu a corzic  di un tempu  fiera e bella  ardita e indumabile    ave la autonomia e dunque  per ella  ave lu arrisanamentu   e ricunnoscia che stu cantonu abandunatu a mezu mari  e la immagina di una nazione  le altestazione una razza chi un si voli mica lascia affunda in lu mullizzu  di una cilisazione mal cumpresa  e ricunnoscia che sta nazione  etnicamente spiccata di a so padrona  ha bisognu  par cunsirva  a so naziunalita  di vive solla un regimu spegiale   i lege francesi so bone ma in francia stessu   francalu u  mare e i fruntieri  ci vole a mudificalli   parchi  come la ha scrittu montesquie u  per fa una lege   e a piu forte ragione per appjgalla   ci vole  nanz a tuttu  a cunsidara u razzinu di le abitante e a larra chi u nutrice   ordunqua  in rispeltu a i nostri usanzi  a u nostru sangue diffarenle da quillu chi scorri in li veni francesi  a u nostra carataru  diametralmenti oppostu a u cuntinentale  dumandemu che ci sia adattatu un codice a parte   in sigondu logu  intarvene a quistione di a lingua  argumentu principale di una razza  a lingua e u strumentu chi serve a differencisa un populu da un altru   ci pari una cosa strana di custata che in pruvenza esiste una  cattedra di lingua e literatura  pruvinzale   che li opari di mistral   aubanel  roumanille  ccc    vengonu imparati a i sculari di arles e di marseglia  e discussi a la universita di aix mentre che in corzica  a nostra lingua e bandita da ogni scola   e soga un ne degna e bella   avemu tatt una literatura  e di pueti ugni logu ne e fiuritu  parchi  dunqua  tant inghiustizia    darci la autonomia e restituirci a nostra naziunalita   ed e parquella che no duvemu no  ommi di u partitu e noi tutti corzi di sangue e di fegatu   lutte par ottena da a francia una specia di home rule   com u ci hanu prumessu    onorevule pa e duie parti   sigondu le ispressione  di a cispra  e sopratuttu inchiudemuci be in fu mullamu che  darci la autonoemia e ricunnosce cioche no semmu  cioche no fummu   una nazione  parchi a corzica un ne e mica un dipartimentu francese  ma una nazione vinta chi a da rinasce    
+  s
+    </p>
+    <docAuthor>
+     Marco Angeli
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

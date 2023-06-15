@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330982p
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330982p
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 244 | Année 7
+     </edition>
+     <date>
+      1926-03-14
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Annu VII — Numaru 244 ' Esce a Dumenica i Dumenica, 14 Marzu 1926  MUVRA  GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI:  In Corsiea. .-. . .« . ..... . .. . . 12 franchi  In Francia... . ... -....... 15 è  À. PESU. » sn ini » sn i à in ei a mù 06  U Mumaru:4 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandvai 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="fr">
+    <p>
+     battelli videndu chi cume sempre u statu pocu primurosu d entre in cunfittu cu l opinione publica francese in timigone s appruntava a pone pesca accesa in lu foltu macchione di e giustificate riclamazione di l'isulani da mandalle in fume u padre eternu a muvra a prima di tutt i iurnali corsi e saltata in campanile e ha fattu scuppia u battifocu   u aumaru di u 14 farraghiu lampa in fatti da valli a monti u tintennu d alarme  u stessu iornu u nostru direttore esponendu a l assemblea generale d i cummercianti e industriali d aiacciu e clausole cavillose di u disegnu di a nova convenzione fece appruva a l unanimita d i trecentu soci presenti u dispacciu ch omu sa a u sottu secretariu di a marina mercantile  i  a  da tandu e sbarsatu piu inchiostru per tratta a quistione ca ch elpun corre acqua di u liamone da sott a u ponte a trughia   arrigu pierangeli omessa e lisandru gaudin iniziavanu una campagna chi facia a prova di a sleale duplicita d i servizi di u ministeru postain evidenza da u sgio gaudin ia un articulu intitulatu  une attaque brusqueecontre l opinion d u quale spicchemu su passaggiu chi mostra cume u guvernu piglia cura di l opinione d i corsi    rien ne laissait prevoir il y a 15 jours seulement que nous etions a la veille de voir voter par le parlement le projet de loi d'ou devait dependre tout notre avenir d'insalaires  sf je me rememore les phases anterieures si je me reporte enfin a toutes les periodes qui procederent chaque nouveau regime de nos ser vices maritimes postaux je demeure confondu devant la facilite avec laquelle on a pu faire la conspiration du silence autour d une question que l opinion publique corse avait toujours si passionnement suivie   ne a so seduta di u 14 farraghiu u cunsigliu municipale di bastia aduttava a l unanimita un votu piu ca severu a l adirrizzu di u ministru eccune i punti principali   considerant que le depot du projet gouvernemental prevoyant la nouvelle convention des services maritimes postaux de la corse n a pas ete precedee d aucune consultation locale ni d'une preparation suffisante   que lots du depot des precedentes conventions les corps elus et les groupements inferesses du departement mt toujours ete appeles a faire ntendre prealablement leur voix  le dans ces conditions le depot te ru et constitne en quelque sorune attaque brusquee contre l opirion insulaire   su  considerant d autre part que telle e elle nous est presentee consacrant es dispositions draconiennes dii passe en matiere de connaissements et d attribution de competence la now velle tonvention se montre souveraibement injuste   a mo songe seerant que le maintien d un live et e vitesse reduite sur al pagano constitue une regression avait qu la convention de 1903 y tait poele 3 services ef que  avedide a us genereux de 1907 avait detalete e 2 sur 3 de ces services auco sonctionne a 14 noeuds e crifegsiderant qu en presence des sammome que l italie s impose en ce la cors peur relier par un quotidien se a la sardaigne la france doit eviter autant que possible d habituer ses passagers a voyager sous un pavillon etranger    considerant enfin que les nouveax farifs que la convention consacre assimilant ainsi une ligne de navigation a une compagnie de chemin de fer constituent pour notre pays un sacrifice supplementaire de pres d'un million par an    le conseil municipal de bastia reuni en seance publique le 24 fevrier 1926 i  emet le voeu que la convention proposee ne puisse etre votee sans les remaniements essentiels suivants  1  retour immediat au droit commun en matiere de connaissemenis et d'attribuiion de competence  2  retablissement des 3 services sur fltalie tels qu ils fonctionnaent en vertu de l avenant de 1907  3  remaniement des tarifs actuels    fait appel a la chambre de commerce a tous les corps elus et a tous les groupements de l arrondissement de bastia et les invite a se solidoriser avec lui dans son geste de protestation  passemu sopr a l articuli chi mostranu e dimostranu chi u novu prugettu ci riporta a un quartu di seculu in daretu per ciochi riguarda e relazione cu a francia  inquant a i servizi cu l italia ci truvemu in ia situazione d avanti uis o  l ultima pfutesta e quella di a camera di cummerciu di bastia appruvendu a l unanimita u rapportu di u so prisidente u sgio fantauzzi  stu rapportu perraggione di piazza un lu pudemu mette ir exienso sott a l occhj d i nostri lettori ma ne ristamparemu i punti principali  contraifement a tout les precedents le projet de convention sur les services maritimes postaux de la corse a ete depose sur le bureau de la chambre des deputes sans que m le soussecretaire d etat de la marine marchande ait cru devoir solliciter notre avis c est par la presse que nous sommes informes des modalites de cette convention     on a de la peine a s expliquer que l on ait supprime de gaite de cceur deux voyages hebdomadaires sur livourne la nouvelle convention ne nous laissant sur cette ligne si interessante qu un seul voyage a vitesse reduite 7 cette ligne est frequentee par les touristes qui s embarquant a nice pour ajaccio ou calvi apres avoir' visite le sud de l ile viennent prendre a bastia le bateau de livourne c est la traversee la plus courte pour les ramener sur le continent 4 ou 5 heures de mer tout au plus ti nul n ignore d autre part que la corse a besoin de la main d oeuvre italienne c est par livourne que nous arrivent tous les ans a partir du mois de novembre des milliers d ouvriers italiens qni se repandent sur toutes les regions de l ile et reprennentle bateau pour rentrer chez eux a la bonne saison elle est aussi tres frequemment utilisee par les emigrants de la toscane et du sud de l italie qui vont chercher du travail a marseille et s embarquent a livourne pour bastia avec prolongement sur marseille et vice versa enfin il ne faut pas oublier non plus qu en dehors des corses qui voyagent pour leur plaisir ou pour leurs affaires nous avons dans l ile une population sedentaire de 15 ou 20 000 italiens qui sont souvent appele1 en lialie  en principe l idee d appliquer un ta rif kilometrique pour les voyages en mer comme il existe partout pour les distances a parcourir en chemin de fer parait en elle meme assez logique  elle est appliquee depuis longtemps en italie pour l exploitation des servi ces maritimes postaux  mais c est precisement dans l application de ce principe que l'on peut voir comme le systeme italien est plus souple et plus equitable que celui de notre ministre de la marine marchande  tout d'abord les prix prevus par la loi italienne des 5 avril 1908 et 30 juin 1912 sont etablis d apres un bareme qui est lui meme conditionne pour les passagers d apres la distance parcourue et la vitesse du havire transporfeur  un exemple tera mieux comprendre l economie de ce systeme  le prix des passagers est ainsi fixe  sur les navires donnant une vitesse de 20 noeuds etau dessous    1 cl 0 fr 11 cent par kilom  2 cl o  07  3  0  03  sur les navires donnant une vitesse de 45 noeuds  1 cl 0 fr 06 cent par kilom ame  o  03 80  3e  0  02  tandisque dans le projet de convention dont nous avons a nous occuper le prix des places en premiere classe reviendrait a o fr 30 centimes le kilometre a 0 fr 20 centimes en seconde et a 0 12 en troisieme et a 0 10 centimes en qua trieme indifferemment quelle que soit la vitesse du navire transporteur  ces prix sont des prix prohibitifs  malgre toutes les promesses qu on nous a faites et bien que la conference internationale reunie a bruxelles se soit prononcee pour l interdiction absolue des clauses d exoneration il n y a rien de change dans le projet l etat a beau se substituer a l armateur il met en pratique aujourd hui ce qu il condammnait hier 9 on nous dit et on nous repete sur tous les tons que ce sont uniquement des raisons d economie qui ont empeche la marine marchande de faire mieux nousavons vu que ces raisons sont surtout bonnes pour bastia   des economies on en reclame d un bout de la france a l autre bout et les projets les mieux etudies ne sont pas pres d aboutir c est par nous que l on commence esperons que l on ne s arretera pas en chemin   leslignes de la corse sont elles vraimentla seule entreprise de transport qui laisse des pertes  e je me suis laisse dire qu en france le deficit etait la regleen matiere de service maritimes postaux et qu on ne parvenaita equilibrer les depenses avec les recettes qu au moyen des subventions de l etat  n est il pas vrai d autre part qu en notre qualite de contribuables nous avons paye jusqu ici notre quote part des 7 a 800 millions que l etat debour se tous les ans pour combler le deficit des grandes lignes de chemin de fer du coritinent  a commencer par celles qui sont directement exploitees par le ministere des travaux publics  assurement l'amelioration de nos services maritimes postaux etait et reste avanttout une question d argent  mais n est ce pas une verite reconnue qu en ameliorant l outillage economique d un pays on seme pour mieux recolter  c est ainsi d ailleurs que la question  fut envisage au parlement italien et pour finir je laisse volontiers la parole au rapporteur de la loi sur les services  maritimes postaux entre le continent 1 et la sardaine 2  n l  il n ya paslieu disaitil de s arreter a ces considerafioos d economies car il s agit de resserrer de plus en plus l uniteeconomique du pays et de corriger dans la mesure du possible l inferiorite qui resultepour les iles de leur position geographique   que le gouvernement de ia republique medite ces paroles et qu il en fasse son profit  dopu a tale requisitoria un c e che a laca fala u tindone   e ch omu un venga micca a faci crede chi a puliticaccia e darretu a l argumenti parchi nisunu sogna ad adirrizza rimprovari a i parlamentari corsi i rimprovari s adirrizzanu a un guvernu chi fidele a una direttiva e per ragion di statu s oppone a qualunque ameliorazione di anostra vita economica a un guvernu chi e sicuru chi nisun magioranza parlamentaria un permittaria un sacrifiziu per un isula chi e e deve esse un rocher sirategique e una fabrica di suldati valurosi e di funziunari accumpiti i puliticaccia un ci ne e criditela puru chi a prova l hanu fatta i cunsigli municipali d aiacciu e di bastia u primu firmendusine mutu e quillaltru dendu di voce
+    </p>
+    <docAuthor>
+     Pasquale Manfredi
+    </docAuthor>
+   </div>
+   <div n="2" type="poe" xml:lang="co">
+    <p>
+     a la musa  no  chi l un vogliu  a musa un dolce liuto  e tristu  ma suvente risulutu lu cantu corsu  e lu traduce male   dammi u strumentu di la pasturella  rigalami una verde cialamella   scultata di un amore cu e so ale      tagliala a le ramelle di un macchione   a la jemba di un succhiosu pollone   in lu paese duve so ingrendatu    empila di ju to piu bellu cantu   chi ellu si fermi a sentela in incantu ancu lu rusignolu innamuratu       mettici le universale armunia   fa chi elli imili la malincunia  di la mamma a lu veculu appughiata   di li amanti impazienti la rumanza   la voce sempre alla di ja speranza   e li lunghi suspiri di la amata      lu struscime di e foglie carezzate   di li ucelli le gamme frisgiulate   di a tramuntana le cumpiente amare   a canzunetia di e nostre sorgenti   u mormu di le fiumare spumenti   e lu innu maestosu di lu mare      fa chi ella soni la unica bellezza di palba chi lu lume gia carezza   e li raggi di le corse jurnate   a vita intensa di una imatimata     a stanchezza di una molle abrugata  la armunia di le notti innorate      canteremmu la vita di e campagne   lu pastore chi atteppa in le muntagne   solu  stancu  fischiendu la so banda   u vignaghiolu e li vendemmiatori   u bojatteru  poi li siadori  chi correnu a la zucca tutt in banda   e pighieremmu in un tonu minore tutte le vibrazioni di lu core     cun note tormenta te per li affanni   ir allegretta gamma cristallina 1 jochi e gioie di la zitellina   forti di u soffin di li mio vint anni    o musa  tu  sterai sempre sopra   a sente cumu lu pneta adopra u strumentu chi ellu ti ha dumandatu  rinforzerai lu elenu chi si spegne   e si talvolta lu mio cantu piegne   da te sola ellu sia cunsulaiu    
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     un muvrista  sogu capitanu a u nu fanteria culuniale  aghiu trenta quattr anni  a me famiglia e di a pieve di ornanu  mancu di a corsica dapoi novanni e pe a prima volta scrivu in dialettu     chi i lettori di a muvra mi pardoninu si e u un sogu ghjurnalista e tingraziu u sgio direttore di dammi la ospitalita ind e so colonne   sogu be chi i corsi hanu le abitudine di parla a visu apertu  e allora chi ellu mi sii pardunatu fe u un mi facciu cunosce  ricurdetivi chi sogu ufficiale  ma u capitanu x    sara sempre prontu a fa u so duvere di corsu    cume sogu juntu   muvra  a cosa e abbastanza straurdinaria   mi truvava ind u mese di maghiu di lu annu scorsu a u mi aroccu  bicinu a kele a des sless e una sera  dopu una vera sanguiniccia cu i riffani  truvendumi a u riposu in daretu di a ligna di focu unu di i me paisani u tenente x    mi fece passa un ghjurnale ind u qualiuna bestia mi guardava cu e so corne inturcchiaie  stu jurnale era a muvra     u tenente mi suf fio  pianu pianu  ind una arecchia     o sgio capita  leghjte a muvra u piu bellu jurnale di corsica  u solu chi ci insegna a verita  ma faie attinzione  leghjtelu senza fabbi vede parchi a muvra e interdetta in tuttu maroccu    rimasi di stuccu   chi ghjurnali e quissu  un ghjurnale corsu pruzbitu     cunfessu francamente chi nu mese di maghiu  sentiva parla pe a prima volta di a muvra e di u muvimentu autonomista    e cosa dibbi  a muvra fu par me  una rivelazione  e poi  duranti cinque settimane  u me tinente mi dede sempre a muvra chi ellu ricivia regularmente par chi mezzu   un la sogu   sopra a fine di u mese di lugliu fui jeritun a direzione di la uersa eriturnai a casablanca e poi in francia  e truvendumi a u spidale di ti      scrissi per riceve rigularmenite u jurnale di e pieve di corsica   e cusi luntanu di u me caru paese  mi sogu famigliarizzatu cu pidea cursista    per me si strappava u velu di la ignuranza  micca chi e u mi cridia piu francese di i porighjni  ma ignurava tante belle cose  a nostra storia dapoi chi u gallu ci guverna  e chi ci eranu in corsica una banda di ghjovani pieni di amor patriu   a digu in alta voce  hannu piu curaggiu sti  cursisti cu a so penna che noi altri suldati cu a nostra sciabula    la autonomia chi elli dumandanu e  in berita  u solu statu puliticu chi cunvene a  corsica  indi fora di quessa un averemu che miseria     e dunque u nostru interessu di fa i nostri affari da per noi   la autonomia dara a i corsi  u pane e a dignita  e ci dara sopratuttu a vera pace  a quietudine o sinno saremu sempre obbligati di jacci sciappa le osse a u maroccu o in siria quand a marianna li ne pigliara a fantasia     capitanu x
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="4" type="poe" xml:lang="co">
+    <p>
+     u mio palmu si lagna  un so per cosa mi hanu  chiamatu palmu e puru cinque metri  aghiu passati   ma quantu  in verita  si so ingannati  e a dilla frarica  un pocu mi ne lagnu   ua pretendu la altura di u castagnu ma trovu a cosa assai misteriosa   per cosa battizzammi alla ritrosa un ciera nulla a perde  anzi guadagnu   perche u simbolu so di la vittoria  mi hanu sceltu fra tutti i mio antenati   u mio nome appartiene gia a la storia   i mio rami so assai considerati   nu e chiese li si canta inni di gloria in ghiorni pasquarecci assignalati 
+  s
+    </p>
+    <docAuthor>
+     Paoli di Taglio
+    </docAuthor>
+   </div>
+   <div n="5" type="his" xml:lang="co">
+    <p>
+     a catena di ziu teram antone   leghienda   a notte di natale teram  antone si ne vultava da la isulaccia quandu iuntu  di avanti a u cimiteriu  chi si trova a un paghiu di centu metri da u paese  bide intornu a un focu imburatu  quindici o sedeci murtuloni chi ghieranu in treccia di coce una callaghiata di osse  in u e  teram antone da bindalu chi ella era piglio un bastone nudicutu e li si cozza strunchizzinlendu capocchie e fiscule  poi si sciacca a catena a collu e parte di un trattu   unu di i murtuloni li si chinca appressu  li altri mezzi furuusciti si eranu arrampicati a un cipressu e annunciavanu i punti per duve teram antone passava     ecculu a la acqua santa  in di a serdulaccia   a u ponte di u nocciulu in tagliu   quellu chi hi curria appressu rispundia     ne pigliatu lu aghiu  ne piglia lu possu cunn ha punti dumenica adossu  e  si sa che in di tempi e donne un cuscianu mai a dumenica  cio chi francava da a gattiva sorte   quand ellu iunse in piazza teram  antone avia u murtulone a e zanccare e ghiera prontu a fanne un benaghiu    zia razia intese e ghitto pe a finestra una pizzicata di sale  allora u fantomacu scappo cume u diavule a a croce   triunfante teram antoneappicco a so catena chi ghie sempre cunservata cume un ogettu preziosu e misteriosu chi preserva a casa da tutti i guai  
+  s
+    </p>
+    <docAuthor>
+     Iseppu Filippi
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     una panna in ventilegne  vinendu da bonifaziu l auto di a posta si fermo a u pe  di una cullatella    dissi u motore     so saziu   un possu ne su ne ghio ohime la me biella    di marchia un aghiu laziu  sta mane  a sgio cunduttore   mi frighie u radiatore come un pesciu in a padella   chiamate puri u duttore  aghiu una fribarella chi mi matra di sudore   o ia me sorte niella    u cunduttore astizzatu   salta a mezzu stradonu lestru  da l auto arristatu    ghiura    sangue di un muntonu      o porcu vituparatu  capriciosu  mullizzonu   chi per un nulla si affanna   ci vuol lascia tutti in panna    va  ti ni pregu in ghinocchiu  rulla o ti crepu lu occhiu      sgio moture chirchinna      un possu ne su  ne ghio        pa u beatu sant antiocu ghiuru  un hai male in locu    ma se privu di crianza   soga a magneto un da focu    di si ellu ti manca essanza   va cunnoscu lu to jocu    oliu  un hai abbastanza    di me ne faci u sdraziu   o risa di bonifaziu    falla almancu par piace  cammina fin a sarte  perch aghiu un viaghjatore chi ba da piglia u vapore   dopu avare riposu si ti un faci lu ritrosu      sgio motore suspira      ciocch un si po  un si po 1   zi anghiulinu  tira e teni   da un coipu di manivella  infurzendusi di reni suda  suda a misciulella   e lenta un p    chi veni a spigna la ultima stella   e cusi tandu aghiurno   ma u motore dissi    un si pd    cusi marchia marianna  sempre in panna  sempre in panna   ma quandu si dice  zo    ella chi niente po   ci da un colpu di sanna   e ci invia a ripa in ghio    si stu tempu nun si spanna per corsica nun ci e pro   simonu di aulle
+  s
+    </p>
+    <docAuthor>
+     Simonu d'Aullè
+    </docAuthor>
+   </div>
+   <div n="7" type="his" xml:lang="co">
+    <p>
+     a i corsi  mi udite  frafelli  col pletro appoggiato sa cor  dell angoscia giu roso  straziaio   a voi di voi stessi domando merce   pensati a gli eventi degli anni che furo  gli sguardi  fratelli  volgete al futuro     la via che calcale la vostra non   vi porta a smerrivi   che fate  che siete   se a terre lontane gli affetti volgete   chi questa meschina  selvaggia  emera    mirafela   e nude  nel bujo sepolta   qualch eco di vita le giunge talvolia   ma spirto vilale nel sena non ha   non pense a una gloria maggior del sno fato   de sogni celesti l incanto e cessato   so chiede de figli  le cuze  l amor   fratelli   son la ossa de vostri antenati   de  padri son la ossa que solchi spregiati     final terra ha egnal dritto de corsi sul cor   non ha lo straniero  bisogna di vai   gia bella 2 la sorte de popoli suoi   e supplice innanzi la patria vi sta   deh   piu non si vegga lenenis nell oblio 1  strappite le spine dal suolo natio   e apch esso di alloro ghirlande dara   lucianu battestini  la antigona corsa  o le origine di u nome kirie eleison e criste eleison   datu a i dui scoglj di ghisoni  i giovannali eran una setta di scumunicati  a so fedi  nata sicondu atradizione in italia  versu a meta di u xiv sseculu  truvo in corsica i so apostuli i piu divoti ne u cantone di levia     erani veri illuminati chi pratindiani di fa rinascia in terra i tempi di saturnu  cio chi spiega e so spiazioni rinuvate diu paganisimu  i sacrifizj imposti da sta nova fedi e so ceremonie  primitiv e grussiere  futtu lu apparatu diu paganismu    or dunqua di corsica si erani messi in campagna per predica e sparghia sta fedi nova  sullivati da li affiliati di carbini  i cunvertiti di ne dila franconi a bocca di verde  travirzoni a folta furesta du marmanu par sbucca in le pianure di a jsunaccia  po   pigliendu a u nordu  si resinu in alisgiani induvai capi  antivisti avian avutu  primura di pianta una furtezza in casu di periculu     ma un si erani micc arretti in ghisoni  senza fa novi zelanti  u piu riccu di u paesi  u bel angelico rosazia  tuccatu da sta novita per cunvinzione o piutostu per orgogliu nativu di difenda una causa cundannata  avia risistitu per seguitalli  a e prighere di a mamma  una povara viduvella  e di a so surella picciaghia  a dolce e pia  annunziata  in vanu ste due scunsulate aviani messu sottu a li occhj di vaccicatu i patimenti chi li aspettavani  in vanu traitoni di impieta a so nova fedi e li ramintoni i fulmini di a jesgia chi pindiani sopra a u so capu  in vanu e due donne  cun pienti e lagrime invuconi l amor filiale e fraternu  angelico adunia a la firmezza corsa l esaltazion eroica di un cunfessore  e di un martire  piu e due mischine  si ingignavan a fa risorta la enormita di u sacrifiziu  e piu angelico mittia un puntu di onore a rienpialu tuttu      una mane annunziata truvo a camara di angelico biota e u baicon apartu  lu ingratu era scappatu senza mancu dilli a vedaci  scunzulate  a mamm e a figliola  appena cullate nant un puntizolu vicin a la so casa  videnu in  la macchia  ma diglia luntanu  una banda di omi sgiialtri e lestri chi pigliavan a l inghio  pe u candle di fiumorbu  verzu la inzecca  i si  doppiamenti culpita ne a so fedi religiosa e ne i so sentimenti materni  a povara mamma riintro if casa par piglia lettu e muri pochi jorni dopu         annuziata risto sola  come ammantata di un doppiu dolu  posta chiu fratellu  per ella  era perzu quant e a mamma  ma  da donna corsa  cuntinuo ad amministra cu a piu gran cura i beni diu so picciaghiu e sempr a nome di questu  cu ipastori e cu  li affitturarj  vivia tutt affatu ritirata senz aitra servitu che a so vechia nutrice guasi imputente si ella la accadia di franca lu usciu  un era ca par anda a la jesgia parrucchiale o par anda a inghjnucchiassi nantu a fossa di a mamma chi si truvava abbastanza luntanu  da u paesi  in una proprieta di famiglia  sigondu lu usu di e famiglie asgiate   comu annunziata un avia mai rifiutatu unalimosina ne un serviziu  un era mai stata sottuposta a alcuna malignita in paesi  ma in lu so core  li paria di un pude scappa a la riprubazione chi cascava sopra a e famiglie di i giovannali   quisti  prestu vinti e dispargugliati sopra a diversi campi di batta  glra  scacciati ancu da a so cittatella di alisgiani  sembravani di piu a i fideli  rei  indegni di misericordia  chiu dimoniu avia purtatu a la rivolta e a la eresia  i caricavan a piace di i setti piccati murtati chi aviani fattu altre e setti catelli  dentru le imaginazione di e vecchie dunnacciole   a yocchj di li omi  induvei quali u patriuttisimu corsu avia cunservatu  qualchi illusione sopra a causa di sti ribelli  a so disfatta era una cun    danna     parolle severe cascavanu infu    cate tutte e dumeniche da a bocca rispettata di u prete contr a lu impru    denti chi ardiani di da la ospitalita a  sti rimpruvarati  ed a la prima du   menica di quaresima era statu lettu da u pulpitru di verita  un mandamentu di u vescu di aleria decretendu di scummunicazione maggiore chiunque daria a u passaghiu a sti scumunicati u pane e u sale   di manera chi nun solamenti a divota annunziata era custretta di privassi di assista a e prediche sante di a quaresima  ma ancu di rinuncia  a la cunzulazione di sente la santa messa cantata di a dumenica e di e feste  per un vedasi a u momentu di a predica  u puntu di mira di tutti i sguardi curiosi  parchi  tutt a lu intornu  i paisani si dubitavani chi a so pieta nativa un li faria micca riniga quellu chi era doppiamente  u so fratellu e chi  almenu di faccia  li si assumigliava stranamente          eranu circa sei mesi chi angelico avia chitatu a ghisoni e ogni jornu chi diu facia luce  annunziata avia assistitu a la prima messa a la so intenzione e passatu a piu gran parte di a notte in preghiera per ottena chi a grazia di u celi tucchessi u sventuratu sopra a u so sbagliu  lu invernu era per finiscia e un si era piu ce a quindici jorni di e feste di pasqua     una sera  quandu tutti i lumi di u ij paesi eranu spinti  e chi ellu un lucia   piu ca un luminellu a u purtellu di   a camara induve a surella di ul giovannali ingrucculata  davant a   le immagine di a madonna  annun   ziata intesi gratta e picchia pianu   pianu e di una certa manera a lu so 1 j usciu  manera discreta chi ella  cunnuscia     si alzo tutta cummossa e senz alcuna esitazione  andede a riceva sta visita innaspittata ma induvinata da u so core aduluratu     sete voi  angelico  ne so sicura  sclamo annunziata  tutta piena di emozione  si  sete voi  sia laudaiu  sete infine di ritornu  
+  s
+    </p>
+    <docAuthor>
+     Rampinu
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     ancu a i frati li scappa   a pacienza  cu dulcezza disse un frate a un sprezzante e fieru atte u     i scherzi e inghiulie suppurtate tuttu que per amor di de u chi essendu in croce ha pardunatu anc a ghiuda e a pilatu   la parte manca ci vole a tende si a dritta un schiaffu ricevite  nostru signore  cusi intende   di sta parabula chi ne dite  v ascoltu cun atterizione   date a vostra opinione    subitu un schiaffu a manca limanda  le umile frate li purghi la dritta  eccune dui da la altra banda     ma chi maistrale rivista  ricevi u fanfarone  da u frate chi era un umone      padre questa un l ete detta   un so stati li vostri patti   uri deviate fa bindetta ne in parole ne in fatti   postu che mi avete minatu a ghiesu avete mancatu     chi dici  bruttu impustore  quand a manca mi hai schiaffittatu per rispettu di u signore  ti aghiu prestatu lu altru iatu  senza ditti ciisi aghiu da fa    si un antru schiaffu forni a da   questa accade qualchi bolta   a forza di tira a corda strappa  quandi u bravu si rivolta   e tandu chi lu cattivu chiappa  un pigliate per pultrona  a iente chi spessu perdona 
+  s
+    </p>
+    <docAuthor>
+     U Vecchiu Sindacu
+    </docAuthor>
+   </div>
+   <div n="9" type="art" xml:lang="fr">
+    <p>
+     le concept regionaliste l exemple irlandais en 1915 il n y avait encore en irlande qu un sentiment assez confus de nationalite mele a un souvenir plutot estompe dans la brume d un passe lointain d une liberte perdue d une nationalite perdue cependant on ne doutait plus de ia nationalite d antan et meme on envisa gieait assez couramment la necessite d un corps politique special au pays d erin la verite c est que le sentiment national irlandais commengait a se faire jour sentiment de l entite politique dira t on  eh oui  mais cependant la conscience nationale n allait pas plus loin dans ce sens ajoutons toutefois a ce sentiment assez vague une absolue incompatibilite une mesentente seculaire avec les anglais  quant a la langue depuis un siecle elle avait recule des environs de dublin aux montagnes de l'ouesi de l ile sterilisee dans ses racines elle etait devenue rachitique a un point tel qu on s attendait a la voir disparaitre d un moment a l autre c etait l agonie du langage gaelique les hautes chaines du donegai et du kerry allaient devenir le tombeau de cette langue car sur ce sol ingrat moins de cent cinquante mille hommes achevaient de s eteindre  la langue anglaise tendait partout a supplanter la langue gaelique universite arts litterature vie intime ou collective tout subissait l empreinte anglo sazonne la langue et l esprit anglais tendaient a detruire tout soupcon de gaelisme en un mot l irlande se mourait  la reaction  elle fut d autant plus profonde qu elle avait ete tardive le sinn fein se dressa devant l etranger qui cherchait le retablissement du home rule ou retour a une constitution autonome dont les irlandai avaient conserve le souvenir il n y avait pas plus de cent ans que l irlande avait ete administrativement reunie a l angleterre  cependant il s agissait de determiner le pole positif sur lequel diriger son intelligence  et d'abord  quelle serait la base de la nouvelle culture qu on allait se donner  cette nouvelle nation que l on voulait ressusciter serait elle d esprit britannique ou celtique c etait la un point capital qu il importait de fixer au mieux des interets irlandais aussi les patriotes n hesiteront ils pas l irlande pays celtique devait le demeurer ou plutot le redevenir   mais pour cela il fallait plus qu une decentralisation administrative il fallait la liberte voila pourquoi les patriotes irlandais inscrivirent orgueilleusement en tete de leur mouvement  sinn fein nous memes  la conquete de la liberte  pendant plus de vingtans le sinn fein mena la lutte la ligue gaelique lui fut un appui considerable car cette ligue s etait employee a sauver ce qu elle avait pu des traditions et de la langue celtique d irlande par diversesmanifestationsartistiques elle avait reussi a interesser un grand nombre d'intellectuels a la conservation et a l etude de la langue  le sinn fein completa cette oeuvre qui avait deja avant 1914 cinq deputes au parlement de londres  nous passerons tres vite sur les phases de la lutte qui sont connues de tous   la republique a ete proclamee a paques 1910 un millier d hommes tient a la poste generale de dublin pendant buit jours contre les forces anglaises reunies  la repression est sanglante  malgre cela la victoire resta au sinn fein qui aux election de 1919 obtenait un succes complet le parlement irlandais est alors cons titue ipso facto en dehors de l angleterre   cependant la guerre dura deux ans encore menee par un peuple entier  un traite y met fin reconnaissant en partie les revendications irlandaises  l etat libre d irlande est desormais constitue un pourtant ce traite n est pas reconnu par une forte minorite du sinn fein qui desire la realisation immediate et absolue de l independance  d autre part la constitution d un etat du nord demeure anglais dans les six comtes ou l immigration anglaise predomine laisse au coeur de l irlande la constante morsure de la division du pays
+    </p>
+    <docAuthor>
+     Matteu Cirnensi
+    </docAuthor>
+   </div>
+   <div n="10" type="art" xml:lang="co">
+    <p>
+     per e contru  cridete voi chi li anti autonomisti sianu ilavuratori  no      cridete chi elli  sianu i pastori  ne menu   cridete chi elli sianui preti  un ci e pinseru   allora cridete chi elli sianu  i cuntribuibili   mancu quelli   cumercienti industriali  1mi ti  pindustrial y  resarii o li operai   mancu appena  p e p    allora quali sarebbenu di apressu voi li anti aulonomisti   i  li anti autonomisti so quelli chi nan zu a guerra tuccavanu centu  ranchi u mese cume funziunarii a riposu e ava ne toccanu qualtru e cinque centu tutti i mesi     quessi dicenu  chi ella duri a cuca  gna  andaremu a circa megliu   hanu tutti i portafogli imbuffati e gonfj di biglietti di banca   cunoscu una famiglia cumposta di u babbu e dui figlioli  un mascu e una femina  vedui tutti e tre  a femina vedua di guerra ci una figiola  u mascu bedivu anch ellu ma stitutore e rifurmatu di guerra u babbu fattore a riposu  tulii inseme toccanu mille dui centu franchi u mese e avanti a guerra     bulete chi quessi sianu aulono  misti   mancu a pinsalla    ma u piu porta u menu  si quessi poghi toccanu tanti sold  ci so quelli chi i paganu sti soldi e quale so   so i cuntribuibili chi un ponu piu paga u percettore 
+  s
+    </p>
+    <docAuthor>
+     Giuvan-Paulu
+    </docAuthor>
+   </div>
+   <div n="11" type="art" xml:lang="it">
+    <p>
+     corsi  ricordiamoci esser noi i figli di quegli uomini  che primi  diedero all europa  il memorando esempio di combattimenti  ostinati  meravigliosi  incredibili  in pro della liberta   che quegli nomini videro devastare i loro campi incendiare le loro case  mietere le loro messi  confiscare i loro beni  cadere trafitti sui proprj campi  figli  fratelli e padri  eppur non sostarono dalle battaglie   eppur non si scoraggiarono in mezzo a tanti disastri  in mezzo a tante rovine    l amore della liberta fu per loro si grande  si profondo  che dopo a quello di dio  fu il loro unico culto   corsi     saremo  noi dunque bastardi    avremo noi dimenticato tutte le nostre tradizioni  futte le nostre glorie    avremo noi rinnegato il nostro sangue  che e sangue vero di eroi  la corruzione degli ultimi tempi  avra dunque gangrenato fotalmente il nos ro cuore  avra affogato in noi  ogni sentimento genoroso   saremo noi dunque  precipitati fanto in fondo dell abisso della vilta  dopo essere stati le ammirazione del mondo     corsi   ricordatevi  che non si urta una sola zolla nel sacro suolo della nostra patria  senza che guella non rammenti una gloria  non attesti un trionfo  se voi fendete lo orecchio verso le nostre valli solinghe  vi udrefe un antico  incessante fremito di liberta   se voi v inginocchiate sulle sepolture deivostri padri udrete uscir dal loro gelido seno una voce  possente come quella dei fati  che grida   figli  rammentatevi dei nostri sacrifizj  delle nostre fatiche  delle nostre prodezze  e siate costanti nel mantenere intatti quei sacri diritti che vi concesse iddio  e che gli nomini fentano rapirvi     fratelli    ascolfiamo dunque la voce dei nostri padri  ella e santa  ella e sublime  ella non puo essere menzognera  tal voce         
+  s
+    </p>
+    <docAuthor>
+     P. Borghetti
+    </docAuthor>
+   </div>
+   <div n="12" type="feu" xml:lang="it">
+    <p>
+     mi arrapino piu colpopolo che coll uomo  impercioche questo sia caduco  e invecchi  e instupidisca  e dimentichi  ma quello si rinnovi sempre  goda di giovinezza perpetua  e  dove voglia  non gli fanno mai fallo la mente ne le braccia  ma tanto e  quando mi metto a considerare come lo uomo  spicciolo  e le masse degli uomini dimentichino presto  mi cascano le braccia  e torrei piuttosto a scalpellare un pezzo di granito della algaiola   che imprimere in cotesti capacci un ricordo per loro governo  oh  quante volte fatto un falo dei miei libri mi sarei ridotto in qualche eremo lontano  dove non si sentisse ne anco il rumore dei ranocchi     ma poi me ne dissuase la speranza  che dei  picchia  martella  una volta lo abbiano a capire    la capiranno  con un grossissimo sbadiglio disse ferrante canale  e ci mise dentro un suono di voce  che male si distinse se intendesse approvare o piuitosto interrogare     pero  riprese il frate  di racco mandazioni e buone parole  secondo il solito  per la parte dei francesi non fu penuria  e giovarono quanto lo incenso ai morti  in effetto i francesi senza ridere chiesero guarentigia di buon governo ai genovesi  e questi di proteste empirono loro le tasche  ma appena eglino ebbero svoltato il canto  ci acciuffarono peggio di prima  gravandoci di 2o soldi  non piu a fuoco  bensi a testa  e con altra imposia troppo piu incomportabile  chi era uri ire percento sul valore delle terre  sarebbe stato piuttosto agevole cavare a san bartolomeo una seconda volta la pelle  che a corsi quattrini  sia che ne patissero a quei tempi inestimabile inopia  sia che le terre  a cagione di cotesti trambusti  andassero nabissate  ed anco a parte cio  fossero state stimate quattro cotanti oltre il giusto prezzo  dopo molti strazii il banco di san giorgio se ne accorse  e soppresseil balzello  mail senato udito cio fece una lavata di capo a san giorgio delle buone  e gli disse  che cotesto suo era un  pigliare il male per medicina  e che per  uscirne a bene co corsi ci abbisognano tre cose  forche  e poi forche  e sempre forche  e corsi eforche stavano insieme come la pasqua e la alleluia  san giorgio  che se ne sentiva fradicio  rispose  che una volta voleva fare come gli tornava  eun altra come gli piaceva  e a cui non garbasse gli rincarasse il fitto  voi lo sapete  le parole sono come le ciliege  una tira la atra  sicche alle corte il senato ripiglio il governo della isola  dando licenza a san giorgio  strano a dirsi  per la prima buona azione commessa durante la sua vita   a carne di lupo dente di cane  torno sampiero incompagnia di undici fidati  e con esso lafortuna corsa  sampiero si che avrebbe meritato la famosa tomba delsignor torquato  non quel coso del buglione  il quale non leva mai un ragnatelo dal buco  cosi e  signor inglese  mentre per fare ammirande le geste di parecchi  che il mondo costuma salutaro grandi  bisogna aggiuntarviun  terzo almanco di fantasia  per quelle di sampiero e mestieri sminuire la verita a fine di non passare da sballone   soccorso ilvalentuomo non ebbe da veruno  che tale non si potria dire quel po di munizione speditagli da cosimo duca di firenze  ne gli ottomila scudi con le undici bandiere di caterina regina di francia  intorno alle quali occorreva ricamato in oro il motto     pugna pro patria       singolare aiuto in fede di dio  tanto piu singolare  se si consideri  che federigo re di prussia mando al degno erede della grande anima del sampiero  generale paoli  una spada con la medesima leggenda  pugna pro patria  senz altro  le quali parole voltate in buon volgare significano     il nostro mestiere  che e quello di re  non ci permette aiutare repubbliche   se ti puoi reggere da te reggiti  se no impiccati   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k13309477
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k13309477
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 397 | Année 11
+     </edition>
+     <date>
+      1930-04-27
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     — Numaru 397 ‘Esce a Dumenica pi Mn A umenica 27 Aprile 1930    GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI :  Corsica. . « «~i. .....«... 15 franchi 18 »  In Franeia. . 4 +. + + + 18  Unione postale + . + + + + + + + + ~ 30  U Numaru:5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — ATACCIU Contu currente cu a posta — Marseglia 45,52
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     la ultima vergogna  sapete benissimu  lettori di a muvra  chi a puliticaccia e stata sempre u nostru ultimu pensere  e chi mai i succhioli di e so  anche di polpu hanu riesciutu ad amurzassiaenostre carne  unn avemu mai ri  sentitu  ssu pessimu calore chi ha scimitu tanti povari cumpatriotti  accegati sin a u puntu di un vede a so  miseria  quella di a so  patria  ne u prufittu di i capi macchia chi ne hanu fattu a so  industria   noi di a muvra avemu sempre inchiudatu  ssa tiranna maestra chi ha piagatu e cuntinua a piaga sinu a lu ossu a nostra corsica tantu cara e tantu malabbiata   ed oghie dino ci tocca di alza a voce  di accinna a un scandalu senza paru  di grida un attenti  a i nostri fratelli corsi a i quali pensemu chi ellu fermi sempre in senu ui suppulu di quellu istintu di razzinu chi facia sempre culla e vampe in faccia di i nostri antichi  ogni volta chi elli si truvavanu in la alternativa di a vergogna e di le onore   ed oghie  le onore di cirnu e cumprumessu    currimu a u piu infangatu e infecciatu di i precipizj    un cappiu sturzatoghiu e a u collu di a nostra mamma  e simu noi  noi i so  figlioli  incaricati di tira a corda per livalli u fiatu  digia tantu addebulitu da noi stessi cu i nostri pessimi modi di agisce da fi glioli snaturati   corsi  figlioli di quelli fieri chi luttonu seculi e seculi per mantene una liberta  una indipendenza  un onore  oghie cume muntoni in banda  cume maghiali  simu messi a lu incantu   un tocca a noi a prisenta lu incettaghiu   un tocca a noi a falli a so cundotta a pubblica u so  passatu  a critica i modi di acquistu di a so  furtuna  un lu cunuscimu  un lu vulemu cunosce  u chiamanu lederlin  cum ellu si puderebbe chiama dupont  duval ranc  combes  chaleil  doumer  giordan   nomi chi chioccanu a e nostre orecchie cume campane cannate e striduleghie     e un qualunque persunaggiu chi po  ave attaccamentu a noi  pensere di i nostri bisogni  dulore di i nostri guai  cume noi altri pudemu ave penseru e attaccamentu per i zulu   e un furestere  un incunusciutu   unn ha mai messu pede in corsica  e ne vole fa u so  ortu  a so  cunfina  e percosa  percosa li manca un titulu di senatore chi ell unn ha trovu a cumpra in qualunque puntu di a terra francese chi u rispinghie  chi un ne vole sente mancuu nome   e stu furestere  stu incunusciutu  st incettaghiu  ha pussutu truva fra i nostri cumpatriotti orecchie per sentelu  occhj per mirallu  mani per allisciallu    e stu furestere  stu incunusciutu  stu incettaghiu ha pussutu truva in corsica trattatori per le infame cummerciu   vergogna  vergogna  vergogna   ne    oh 1e mischinelle scuse di li imbastarditi  oh  le vili justificazioni di i sacchittaghj  oh  le cummediate speranze di bene publicu di i muntoni lanuti   tutta a javel di lederlin un bi pudera lava    ma forse a stella di cirnu unn e ancu spenta  ci si ferma sempre corsi chi hanu u sentimentu di u russore  fra li incaricati di manda un rapprisentante a u senatu di marianna ci si fermera una maggiurita non curruttibile per un lampacci a tamantu trapiccu    rispinghjeranu a lederlin  un vurranu tucca a manu a lu incettaghiu   un si venderanu  un venderanu u so  paese   alzeranu a manu per un corsu  qual voglia ellu sia per francacci da st ultima marca di lu avvilimentu   delegati corsi  in voi spe remu
+  s
+    </p>
+    <docAuthor>
+     Altore
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     parolle di fede  eccu a vostr  ora     state a sente  voi  o vecchj corsi  babbi e mamme  a ni emammone  voi tutti chi site vincorruttibili rappre  sentanti di i tempi andati e i cummuventi custodi di u spiritu corsu   state a sente  voi chi  da tantu lempu  assistite cun affannu e amarezza a a curdugliosa angunia di cursichella evi sintite manca u fiatu quande vo  lampate un sguardu afflittu versu ssi vostri cunfini deserti e trasandati   state a sente  voi chi avete sempre in mente la antica riputazione di fierezza  di onesta e di gloria di u nostru populu e indi le orrecchie lu ecu furiosu di u culombu chi chiamava a li arini li arditi paisani di ogni pieve     state a sente  voi chi bramate di vede prima di more u risanamentu di la isula sviata e u veranu alegru e gagliardu di a razza     la ora di fa da corsi e picchiata   e picchiata fora di fa ribumba avostra voce  di fa capi a vostra vulunta  di salva  a vostr  anima   datevi curaggiu e sperate   tocca a voi a riuni e a ricuncilia tutte e bone vulunta  a pripara a la ultima lotta tuttu cio chi e roba corsa  bastaranu poche parolle    per fa bolle un sangue impetuosu indi e vene di quelli chevo  ete creatu  bastara lu impetu di a vostra decisione e a frenesia di a vostra voce   datevi curaggiu  e avanti   a vosir  opara e bella precisa e specificata  un ci e mancu  opu a spiegallavi tantu  chi  si ellu un fussi statu un bruttacciu amor propriu  sarianu parecchj anni chi u sbollaru rabbiosu di a vostra chiama avarebbe intrunatu valle e monti     una cosa sola aghiu a divvi  chi ella sia cumpletta a vosira sentenza   chi ella si spanni inlieramente a vostra cuscenza     un vi scurdate chi a colpa unn e tutta di quelli vostri figliulini chi si ne so andati per sse francie a infangassi indi u fossu di a servitu o per  sse culunie a pigliassi frebbe e cogliesi matarana     un vi scurdate chi a colpa unn e tutta di  ssa nostra bella giuventu spaisata e custretta di lasciassi incappia e incavestra da i ladri sbirri incaricati di u sterminiu di a razqa corsa   dite a tutti quelli chi ell  hanu ingannatu i vostri cunsigli o u vosiru silenziu   o figlioli ci semu sbagliati  diteli  a francia unn e a vostra manuna  un rinuegate piu la opara di i vostri antichi  vultatevine prestu in casa riturnatevine in tarra nostra  oghie unn e u riccu chi po fa u piu   a vincapaci  a li incerti  a li inciampaii  a i debuli  a tutti quelli di bona vulunta  diteli cio chi ellu fu u turmentu di a vostra anima  e chi un pudete piu vede oscurassi pianu pianu u splendore diu populu corsu   a i vili  a i sciagurati  abbiate u curaggiu di di u vostru sdegnu   a i rinnegati  mandateli a vostra maledizione   fate vede a u mondu chi certe ide e  chi un so ne scritte ne parlate  per essesine state tant anni imprigiunate ind a furtezza di u vostru capu  un ne surtaranu che piu stupende  piu prudigiose  piu spavenievule   fateci capisce    a noi chi aspittemu cun tanta ansieta a vostra sentenza    chi prestu la accendita magnifica chi precedera a saetta tremenda di u vostru mughiu  alluminara a notte fosca chi ricopre la anima corsa e spargugliara  cume tanti fistuchi di paglia  i nuvuli di toscu chi le oppressione straniera ci lampo a tradimentu  per imbruita u nostru celu  per brusgia a nostra tarra  per suffuga a nostra jente   babbi corsi  mamme corse  babboni e mammone  voi tutti o cari vecchj chi simbulizzaie a nazione corsa  vi pregu di sta a sente sta chiama  vi cunghiuru di apre u vostru core a quelli che vo  avete messi a u mondu per esse corsi  ma  che corsi  e di lampa indi lu oirendu coru di i perfidi e di fincuscentiu tonu di a vostra voce sulenne   guardate chi cursichella e a li ultimi e chi un ci e tempu a perde per dalli aiutu     guardate chi tocca voi a  da u motu a a nostra risurrezzione    to  chi ella ribombi prestu a vostra voce grave  imprecaloria e vindicairice   chi ella scoppj presina rivolta irresistibile di u spiritu corsu    quellu jornu  una stella nova frammanie si accen dara ind u celu splindente di cirnu  un sole piu bellu e piu ardente scaldara i cori di i veri patriotti e fara sorte da a tarra corsa i talloni gagliardi lu alburu maestosu di a liberta   e a grand opara di justizia e di verita sara cumpjta  grazia avoi   allora pudarete more cuntenti 
+  s
+    </p>
+    <docAuthor>
+     Ghiacintu di Muru
+    </docAuthor>
+   </div>
+   <div n="3" type="let" xml:lang="co">
+    <p>
+     lettera da parigi  caru pipisirellu   ci e veramente longu tempu che nun ti aghiu piu scrittu  cosa voli  tu sai cume me che vengu di tirammi 18 mesi di serviziu  in quella gabbia scura chiamata caserma  1 poveri russignoli cume me un ponu sempre da libera via a i canti chi lu assufjocanu  perche sti canti un so mai di quelli chi piacenu a i nostri padroni   infine  sta faccenda e finita  ed ava rispiru la aria pura di a liberta  piu nimu ava mi impediscera di ponemi duv ella mi pare e di canta sopra u versu chi mi piace   caru amicacciu  u me  piu grande piacere saria statu di riturna in patria ma e impussibile  sai bene chi marianna ha impeditu in corsica ogni travagliu  ogni prusperita per un sta a corpu a lampione  so statu ubligatu a fughie  per listessa ragione so custrettu a firmammi qui   u fattu e duru ma e cusi  per sin a chi a corsica sara serva per sima chi i corsi unn avaranu capitu qual  elli so li artigiani di  tuttii nostri guai  a vita sara impussibile in casa nostra  e noi saremu  furzati a circa in altro u pane chi elli ci impediscenu di coce in lu nostru fornu   ah  signor gesu  quandu ci pensu  esse figli di una terra cusi ricca chi pudaria mantene a tutti noi cun tanti di altri  eppo  esse ubligati a lascialla  no  quandu ci pensu  un so ciu che  farial  ma aghjamu speranza  ti corsi cumencianu a capisce a ragione   digia  u bughiu si schiarisce prestu spuntara la alba nova  prestu  u sole di a liberta  di a justizia  di a prusperita risplendera nu nostru cielu  travagliemu  a amicu  aa pripara u so  avvenimentu   e  se no  unn avemu a furtuna di vedelu spunta  i nostri figlioli u vederanu  e noi pudaremu more cuntenti di avelli priparatu una vita migliore che quella che no  avemu passatu noi  dn  prighendu diu di asculta sta me preghera  basgienduti fraternamente da luntanu  mandenduti tanti saluti di a parte di catalina e prumittenduti di scriveti suvente  ini fermu qui per oghie   u to  amicu e cumpagnu di fede 
+  s
+    </p>
+    <docAuthor>
+     M. Alessandri di Chidazzu
+    </docAuthor>
+   </div>
+   <div n="4" type="poe" xml:lang="co">
+    <p>
+     u graneddu di u granu  a g  di a grotta   o  raneddu chi formi un campu di oru   quandu in la spiga ti basgia ju soli   tu  lu alimentu di u biancu e di u moru  chi a mamma dumanda pe  i figlioli     o  raneddu chi sei lu alimentu   di li omi di li campi e di a ciltai  sustanza carizzata da lu ventu   per te lu omu si sforza e un cheta mai     o  raneddu  ti canta ancu lu aceddu   e la jesgia ti da binidizioni   lu addisperu  mpidisci a u puvareddu   impidisci a rivolta fra i nazioni  la umanita di mora  se  sacratu   se  ju pani da u celi inviatu   si  di san jorghiu
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="5" type="div" xml:lang="fr">
+    <p>
+     giurnali a nazione vinduta   on peut vendre un siege de representant du peuple duns les basses alpes car qu estce que les basses alpes une creation ci la plus arlificiche qui se puisse imaginer des consliluants  ces absurdes et barbares vivisecleurs qui pour guerir les provinces de leur  parlicularisme  les depecent puis rapprochant cousunl l un a l autre les fragments les plus helerocliles en firent des deparlemeuls   un morcean de provence un morcesu de dauphine  suture et voila les basses alpes muis lu constituante a eu beau souffler dessus et nupoleon apres elle qui avait pourlant un souffle prodigieusement  animateur   ils n'ont pu lui conferer  d aulre existence qu administrative  quand on vend les basses alpes a rosthschild y a t il quelque part une nation basalpine qui se voile la face un peuple basalpin qui en meure de honte et une histoire bas alpine qui en soil souillee  eh non parce qu il n y eut jamais de nation bas alpine de peuple bas alpin d bistoire bas alpine  et le danphine lu provence  personnelites historiques eux  sont fondes a dire  on a il ya cent ans et plus taille dans notre chair vivante  d un lambeau qui elail dauphine d un lambeau qui etait provence on a fait quelque chose qui n est ni dauphine ni provence un monstre si pen viable qu il s'est pourri mai constatez que ce n est que la que la gangrene s est mise el voyez comme tout le reste esi sain   voit on maintenant ou j en veux venir a ceci  lorsqu une colonie est vendue l orsqu un departement comme les basses alpes est vendu  il y a bien des individus qui se deshonorent mais qui ne deshonorent qu eux ils n entrainent pas ils ne font pas rouler avec eux dans la vase une personnalite historique qui  imperissable alors qu ils dispa raitront  restera exposee aux mepris des autres personnalites historiques peuples eb nations du monde  or vendre ia corse c est precisement cela   car la corse esl une nation fa corse est pn peuple nation peuple qui ont leur histoire et qu elle histoire    qu on ne dise pas elle est si petile celte nation qu il y a pen d apparence qu on s apercoive de sa honte comme si la grandeur ou la petilesse d une nation ne tenait qu a sa superficie avec son vaste territoire telle apparait bien petite et telle qui n est qu un estuaire telle qui n est qu un bout de presqu ile   une nation est grande qui a eu des premieres conscience de sa personnalite qui l a degagee dans la douleur a lutte des siecles pour l affirmer et l imposer sous la figure un etat souverain   et ces quelques milliers de montagnards meritent bien le nom de peuple qui doit etre reserve et revient de droit quelle qu en soit l importance numerique aux populations qui se sont voulues libres qui pour le restir ou le redevenir n ont jamais lesine sux le sang a repandre  histoire d une petite nation fiere d un peuple voue au joug et toujours herisse pour rejeter ie jong quoi de plus dramatique de plus riche en magnifiques episodes en he roisme en sacrifices que ceite hisloire de corse d ou surgissent  l animant ja dominant  ces grands hommes que la petitesse de leur pays n empecha pas d etre a l echelle de l europe et du monde  cette nation ce peuple voila ce qu on vient de vendre a lederlin
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="6" type="art" xml:lang="it">
+    <p>
+     narratori ltaliani  due romanzieri ha avuto dopo il 187o la italia  continuatori massimi del cuerrazzi e del manzoni  giovanni verga e federigo tozzi  il verga  siciliano di catania  il tozzi  toscano di siena  morirono tutt e due sconosciuti  e sono ancora  per vergogna nostra  impopolari       giovanni verga dette al verismo forme nuove  nosire  e una sostanza paesana e universale  non fu punto imitatore dei francesci  com e sembrato a certi ignoranti  giova del res1o ricordare che il verismo fu un moto letterario europeo  e non soltanio francese  prodotto verso la fine del secolo scorso da un impetuoso rinnovamento della tradizione romantica  il verga porto appunto in codesto romanticismo ringiovanito una hmpidita e un equilibrio classico  italiano  non si perse nella cinica e torbida rappresentazione di pochi istinti  ne tanto meno nello sterile diletto cc  bozzetto locale  la sua arte ba verxmente un significato morale valevole per tutti gli uomini  nei malavoglia ci e il dramma di una famiglia  nel mastro don gesualdo il dramma di un uomo   nelle splendide novelle ci e tutta la vita della campagna siciliana impersonata in tipi estremamente scmplici  elementari  tratteggiati e messi in moto con un energia che soggioga  uso  come tutti i grandi  i modi schietti della parlata toscana   federigo tozzi  morto giovane subito dopo la guerra  fu piu personale  piu poeta  ed espresse attraverso le sue persone una filosofia amara e fatale  nelle 7re croci e nel podere  come anche in diverse novelle  prevale come motivo fisso un dissolvimento di costumi e di destini  una decadenza non pero cerebrale  ma inevitabile e religiosa come una legge di vita e di morte  l incanto sorge poi dal fatto che la infinita raffinatezza de  suoi personaggi non si accampa nel solito ambiente di lusso  ma risalta sullu sfondo puro dei campi e delle vie di siena  un altro suo libro  bestie  e lutto di liriche piene di vigor terrestre e di una tristezza grandiosa  ebbe una vita inquieta e dolorosa  il suo nome si ingrandira col tempo  quando  sara sepolta la generazione che oslinatamente gli nego il riconoscimento intero   molti altri romanzi e moltissimi libri di novelle sono usciti in italia negli ultimi trent anni  ma nessuno dei nuovi narratori e giunto ell  altezza di questi  o son poveri di cuore  e perdono il tempo in fredde analisi psichiche  in pitture di paesaggio  in esercizi di stile  oppure son difettosi nella forma  sfrenati  poco curanti nel vaglio degli elementi e nella disposizione dei fatti  alcuni si divertono con puerile insistenza a riprodurre in un brutto gergo da grand hotel i viziele magagne di una classe di oziosi  meritano pero di esser nominati  fra i romanzi  la veliu di bruno cicognanie la trappola di delfino cinelli   come racconio non di intreccio ma filosofico  si ebbe il lemmonio boreo di ardengo soffici  magnifico scritore e pittore fiorentino  uno dei primi tra i formatori della coscienza italiana nuova  bello anche il michelaccio di antonio baldini  una specie di novellona fantastica aventurosa   da un genere alquanto diverso  e cioe nell  autobigrafia lirica  gia gagliardamente realizzata dal soffici nell   arlecchino e nella giostra dei sensi  e da altri minori  sorge ora un giovane e potente artista  luigi bartolini marchigiano   questo tipo curioso di pueta incisore  che vive non di letteratura ma insegnando disegno in fondo a una provincia  ha dato in questanno all italia un libro di molta bellezza  passeggiata con la ragazza   libro di ricordi pacsani tutto animato da un sentimento altissimo di unione con la natura  e di ridente e sana carnalita mescolata a una maschia elevazione spirituale  in lui ij paesaggio e davvero anima e sangue  non basso pretesto per fare della poesia in prosa  le persone e i casi di questo libro suno indimenticabili e hanno il dono della vita  lo stile e arioso  vario  libero e rigoroso a un tempo  e indipendente dalle scuole e dai gruppetti della presente ltalia letteraria  nulla rsmmenta qui lo sforzo abile della gente letterata   tutto e naturalezza  la naturalezza terribilmente complicata dei poc1a  e arte vera  cioe piu viva del vero   dal bartolini possiamo forse aspettarci il grande romanzo italiano moderno  degno di tener compagnia ai migliori 
+  s
+    </p>
+    <docAuthor>
+     Berto Ricci
+    </docAuthor>
+   </div>
+   <div n="7" type="art" xml:lang="fr">
+    <p>
+     contru u furesteru chez les corses de cannes les corses du canton de cannes se sont reunis en assemblee generale le dimanche 13 avril 1930 dans un des salons du grand cafe maritime mis a leur disposition par m lewe le distingue proprietaire 3 m jean panzani presidaitia reunion quiavait pour but  1 payement des cotisations  2 insciption de 20 nouveaux membres  3 une commission composee de mm nami grimaldi carbuccia antonini de peretti della rocca et squarcioni a ete designee pour l organisation d un banquet et recevoir des a present les inscriptions des compatriotes et de leurs amis  ce banquet aura lieu le dimanche 27 avril 1930 a midi a l auberge de l observatoire de super cannes au prix de 40 francs par personne  l ordre du jour etant epuise m grimaldi transmet a l assemblee les remerciements de mile pietri directrice de l ecole primaire superieure de jeunes filles de cannes pour la sympathie qui lui a ete temoignee par tous ses compatriotes a l occasion du deces de mlle leca maitresse d'internat  d autre part les elections senatoriales qui auront lieu le 11 mai en corse etant l objet de commentaires nombreux et susceptibles de fausser l opinion des continentaux sur les meeurs electorales du pays l ordre du jour suivant presenie par m grimaldi a ete vote par acclamation et a l unanimite moins une voix  les corses de cannes soucieux de la dignite de leur petite patrie ja loux de sa tradition de probite et d independance s elevent de toute leur force contre la candidature de a m lederlin qui est uniquement d ar gent aux yeux de tout le monde l'i le de beaute n'est pas un pays a ven dre et les corses de cannes sans distinction de parti estiment que leurs compatriotes se doivent de choisir librement pour les represen ter au senat un homme qui soit un republicain cap ble eprouve et hon nete pauvre peut etre mais un des leurs  la seance fut levee ensuite dans la plus franche cordialite
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="8" type="feu" xml:lang="it">
+    <p>
+     altobello si avvento al collo di sebastiano piangendo   parole non disse che ben sapeva piu facile smovere monte rotondo che quelferoce petto  e bastiano con lagrime punto meno dirotte bacio e abbraccio lui  pareva non si potesse staccare  si sarebbe detto che non sarebbe partito  ma di repente si asciugo gli occhi  aggrondo le ciglia  schiuse le labbra e recatosi lo schioppo in ispalla si avvio fuori della porta  quando si trovo fuori come se vacillasse per ebbrezzd  si appoggio ad un muro e si pose la  mano sul cuore  il forte corso sentiva come sia affanno di ogni morte sopravvivere ai propri affetti    ma questo affanno  richiamandogli alla mente la causa che lo aveva partorito  sollevo nel cuore un altra tempesta e piu truce  taluno affermo che i corsi odiano molto perche molto amano  sembra sofisma  e pure cosi estimando non si va lungi dal vero sebastiano  poiche si fu diviso da altobello  corse difilato a incendiare la casa di mariano     dicono che non fosse sua intenzione arderne gliabitatori  ma verameete sembra non se ne possa dubitare  se pogniamo pensiero alla iscrizione che pianto sopra le rovine  e piu all avere prima di appiccarci il fuoco remosse le scala  le quali erano due   la prima pubblica dove passavano tutti  la altra secreta che metteva capo a certa apertura praticata sotto il letto di mariano  dondelo vedemmo sparire alla fine del colloquio che tenne con altobello   tali a quei tempi erano i corsi   quando i romano stavano in procinto di profferire le sentenze asseltavansi  e lo starsi seduto dicono confacesse molto alla eccellenza del giudicato come alla dignita del giudice   e puo darsi che ha bisogno di aprire la dura mano della necessita per pigliarvi i presagi del futuro  deve starsi in piedia modo di lottatore  i pensieri talora scoppiano in mezzo ai rumori del giorno simili a baleni di raggio ripercosso sopra lo scudo  tal altra nella pace della notte scendono spessi e luminosi al pari delle stelle cadenti  ma e null un caso e nell altro  dove la facolta intellettiva non venga mossa dal san  gue agitato  impadula come acqua morta  per questo il generale paoli  abbandonata per tempo la mensa era sceso nel giardino per meditare su le faccende della patria  quantunque il vento dai monti soffiasse gelato  aveva scoperta latestae di tratto in tratto ne scompigliava i capelli  affinche la aria fres ca vi si rinnovasse per entro  il suo sangue bolliva  e dalla bocca gli scoppiavano parole rotte appunto a modo di sonagli che saltino su da un liquore che bolle     perche tanto odio contro laliberta     egli diceva  fin qui i governi della terra si modellano su quello di  polifemo  mungere e mangiare il grege     pero ulisse comecche nano dirimpetto a lui gli cavo lo occhio  sta bene  ma gli ulissi vennero sempre rari nel mondo  massime ora  adesso la vilta del gregge supera la ferocia dei ciclopi  se restassero gli uomini un giorno privi di padrone  urlerebbero alla fine del mondo     dicono la forza tenere il popolo pei capelli  mentre gli introna gli orecchi col grido  io sono il diritto  non e vero  la forza non puo tanto se non la aiutasse la paura  1  carro del diavolo tirano queste due bestie  forza e paura     ah   uomo di poca fede  perche dubitasti   questo sconforto nasce dal desiderio ingeneroso di essere sortito  tra quelli che raccoglieranro e non tra quelli che arano  tra i trionfatori e non tra i combattenti    per mezzo alle tenebre  da schiavi igudi  trale feste che la prepotenza ubbriaca concedeva alla disperazione digiuna  una fiaccola sola trasmessa velocemente di mano in mano passava il reno  passava il danubio ad infiammare alla vendetta il sangue dei barbari  saliva per monti  scendeva per valli finche non arrivasse   cosi la liberta passa di generazionein generazione nella corsa desolata che esse menano traverso i secoli  finche non arrivi agli eletti che con questo fuoco acceso nell ira e mantenuto dall odio inceneriranno il rogo del la tirannide   ne i tempi paiono 1o8tani     e come  non so  ma l ari4 che respiro mi sembra pregna e  tempo nuovo   certo poca cosa 5o  no io     e non uso a pescare nelle acque dove si cova il destino del popoli  lontano dal mondo  in mez zo ad una isola   che importa ques to e quando lo uomo del settentrione vuole accertarsi se il diaccio ha messo crosta sul boristene da reggere il passo dei suoi carri e dilui  manda innanzi la volpe   il disprezzato animale origliando il minimo rumore di cretti invisibili da all uomo quella sicurezza che questi non puo procurarsi con le sue facolta  tra cento anni saranno spatiti dal mondo la casa borbone  la casa di austria e il pontificato di roma  i tre chiodi che tengono fitta in croce la umanita     intanto che il paoli molinava simili concetti  in  un luogo remoto del giardino lungo il muro si vedeva strisciare pian piano su la terra un mostro immane  pero la corsica non contiene serpi grandi ne piccoli  almeno cosi credono  e il nuovo mostro presentava la mole del massimo ira i boa per grossezza  ancora costui sembrava allungare e ritirare branche proporziotlate al corpo  e spesso sostava quasi che impaurisse dallo scroscio delle foglie secche che si sgretolavano sotto i suoi passi  sovente  levava il capo e lento lo volgeva di intorno come sospettoso di vedere oggetto di che avesse paura  scopo dei suoi passi sembrava veramente che fosse il generale  ma si comprendeva chiaro chi ei non ardisse cimentarsi troppo  pero era da credersi che il generale  vagando come lo menavano le gambe nelle frequenti giravolte  pigliasse il verso da cotesia parte  quindi il meglio era aspeitarlo a pie fermo   questo parve appunto deliberare la strana figura e rannicchiata dietro un trorco di albero attese   il cane nasone non si scompagnava mai dal suo signore  in ispecie quando usciva fuori di casa  ma quella sera lo trattenne matteo massesi che pronto si mise tra il cane e la porta  e mentre ne chiudeva lo uscio  con un pezzo di zucchero tiro a se nasone  nasone capiva trovarsi in buone mani  andava tranquillo che cio non fosse punto preordinato a fine di male  edanche lo zucchero lo tirava  egli  non aveva il lusso dei sette peccati  mortali come lo uomo  e taluno ne possiede anche otto   ma la gola era la sua pecca  tuttavia trangugiato chi ebbe lo zucchero si volto gagnalando alla porta e quivi ras   pava e col muso si ingegnava ad a  prirla  matteo poneva ogni studio a quietarlo   ma era niente  gli porse altro zucchero  e  torno invano  di un tratio il cane si ferma allungando le gambe davanti e le posteriori raggruppando  leva il capo come fa il bracco quando punta  e subito dopo tesele orecchie  a8grovigliata la coda  tuiti i peli ir ti  si avventa contro la porta con l un furibondo latrato  al tempo stesso fu udito dal giardino un colpo di pistola   e  parve che ne restasse ferito matteo  imperciocche vacillasse  e dati indietro due otre passi percotesse con le spalle nella opposta parete  masi riebbe presto  e asciugandosi il sudore con la manica del vestito aperse lo uscio donde precipito con nasone in traccia del generale  lo trovarono  fermo e sereno  senonche entram   bi cane ed uomo essendogli con  furia saltati al collo  poco manco  che non cadessero giu tutti in un  fascio   frattanto con lumi ed armi  iraeva gente da ogni luogo  per la  quale cosa il paoli si vide circon dato do una frotta dei suoi  richiesto  appago la ansieta joro dicendo come passando all albero li vicino un uomo posto in aggualo gli sparasse contro una pistola  a parere suo molto avere a costui dovuto tremare la mano perche il colpo era stato a bruciapelo e non si  e non si poteva sbagliare  ma la provvidenza anche per questa volta essersi degnata salvarlo  rientro in casa dopo queste parole accompagnato da molii  e piu prossimo di tutti gli procedeva eccrrio il massesi  ilquale sembrava non po tersi saziare di baciargli la mano e  domandargli se veramente nonl a vessero colpito e se si sentisse male  molti furono i ragionari intorno all accaduto che non importa riferire   il paoli giudico che il colpo  aiacciu   stamparia di a muvra  u direttorc gerente  petru rocca   partisse senza dubbio dai francesi  e su tale proposito disse queste parole dure      la vanita dei francesi e piu crudele della ferocia dei connitali  se traverso la via che mena al campidoglio incontrerarroil cadavere del padre  ogni francese si sentira il cuore di tullia per passargli sopra e correre a coronarsi di infamia e di alloro     maravigliando poi di non vedere il cane fidato e parecchi dei suoi che pure gli erano comparsi nel giardino  lo chiarirono come fossero corsi dietro le traccie dell assassino   allora il generale osservo     gli e tempo perso  il male lo abbiamo in casa      aveva appena finito di parlare che il cane entro tenendo un foglio in bocca  il quale si fece a depositare su le ginocchia del paoli     ed ora  che significa questo   interrogo   poi preso il foglio e gettatovi sopre gli occhi  curiosa   aggiunse  e una lettera indirizzata a te  matteo    f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     parla  o musa   corti  corri  la mio musa  z sparghjne le lo  ale  sunendu la carumusa  qu strumentu chi ti pare  corri   parlane di cirnu chi ne va sempre di male   veni e parlami di cirnu chi ne avemu iunl a core   o musa  di a to  giardinu  sfiora lu piu bellu fiore  sappia chi a patria nostra enuli punti di more   musa  chi ti stai a fa  gparbbi  sparghju to velenu   pifendi a cirnu  chi ava   ogni jornu  vene menu   si noi lu abbandunemu   si ha da crepa lu so  senu   tu chi di i populi vinti  si lu sinceru ideale  rinchiudi li foghi spinti  spargbjti quante lu mare  parla a  ssi povari corsi di patria e di morale    chi lu populu si levi  aju to  soffiu sacratu  digia  pe  i populi schiavi u mumenlu ne e passatu di stanne sotta la coppia cume li boi di aratu   i populi  viderai   a li to  si puri accenti  diceranu   oramai  1 corsi sonu cuntenti   mostran a li so  tiranni svegliu di populi vinti   serai sempre tu  o musa   chi ci insegnerai a strada  quandu a verita rinchiusa e da falzi cunquistata   a noi un po piu parla  perche ghie incatinata   dopu ne riparleremu  di li fiori e di li campi   ma avale  di velenu deven esse li to  canti  sulleva li cori corsi  cu li to  celesti incanti 
+  s
+    </p>
+    <docAuthor>
+     Diunisu Paoli
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     a pignaita  i guai di a pignatta un li cunosce che a cucchiara   la pignatia e a lu focu   la acqua dentru boddi  boddi   sara troppu o sara pocu   ci sara carri o civoddi    ci sara pomi o fasgioli   armuraccia a latiaredda   ci sara capu o sciugnoli  finocchiu o purcinedda    ci sara lu ogliu e ju sali   o sara lazza e scundita    ci sara pisgi o favi   o sara acqua buddita  acqua buddita e chiara   la sa sola la cucchiara    si  di san jorghiu
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="11" type="poe" xml:lang="co">
+    <p>
+     a  a muvra   anch ciu pe  a prima volla   a muvrina direzione mandu stu mio letterinu chi ia musa si dispone  sperendu  o sgio direttore  chi accellite sie canzone   ricevite  vi ne pregu  ne  questu cliente nuvellu  munderaghiu a  vostra muvra  canzone di mio mudellu   chi di la radica vostra ne aghi anch eiu un pezzutellu   rusiu e lu mio paese   di ja piu alta muntagna   a mio rima e sincera   a lu usu di la campagna   e zitella e naturale   senza nisuna macagua   postu chi mi so disposlu  bi vurria dumanda  si voi mi accettariste   nu la vostra sucieta   corsu so  di ceppu schiettu  e mi ne possu vanta   da voi  o sgio direttore  aspettu currispundanza   per sviluppa lu mio cantu chi unn e sciolt abbastanza  la faraghiu  se vulete   cu ja fede e la crianza   speru chi accunsenterete benche corciu in stu mistieru   la risposta mi ferete  per listessu currieru   eccu dunque lu bongiornu di un altra corsu sinceru   so beovardi francescu chi bi da la si affezione  tengu la muvra di core e micca solu in canzone   bi sia detta cun primura     tengu a la vostra cultura   francescu di rusiu
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="12" type="poe" xml:lang="co">
+    <p>
+     le ave maria  quandu a lu campanile  scoppia le ave maria   sentu una voce pia chi in me si pesa   la mio anima arresa  pare rinvigurita  da  ssu sonu chi imbita a la preghera   di lu sole una spera carezzente la sfiora   e sentu sfughie allora la slanchezza   a schiena chi si spezza di e pene di a jurnata  pare menu piegata  in quel mumenlu    ed intantu  in lu ventu more le ave maria   ma quella voce pia mi ha datu forza    omi di a terra corsa   state a cappellu in manu  quandu chiama  luntanu le ave maria   e sempre ardente sia la nostra anlica fede   in un core chi un crede un ci e speranza  
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="13" type="poe" xml:lang="co">
+    <p>
+     a la madonna di loretta  nunn avia che sedeci anni  muria la bella brunetta  quandu cunuscighiuvanni  a la madonna di loretta   li so  occhj si scuntronu  rapidi cume a saella  tramindui si innamuronu a la madonna di loretta   parlonu subitamente   e a u capu di un oretta  chiucco un basgiu brusgiente  a la madonna di loretta    gni dumenica a duie ore  fesla per elli benedetta  andavanu a parla di amore  a la madonna di loretta   ma l amor e una bugia  parecchj ci lu hanu detta   l imparo a tinta maria   a la madonna di loretta 1  una sera a passu lentu  ella riturno suletta   cun li occhj rossi di pientu  a la madonna di loretta   le amante furbu  traditore  senza pieta di a puveretta  ci un altra facia le amore   a la madonna di loretta   e pocu dopu lu abbandonu  una sera  inde a filetta  stilettu in core  la truvonu a la madonna di loretta  mi  alessandri di chidazzu
+  s
+    </p>
+    <docAuthor>
+     M. Alessandri di Chidazzu
+    </docAuthor>
+   </div>
+   <div n="14" type="poe" xml:lang="co">
+    <p>
+     un bonu guardianu  u corciu jan  tummusgiu di campuvecchiu avia in un so  oriu ua chiarasgiu primaticciu  ma  a  staggione di u matura  i zerbinotti un li ne jasciavanu tasta una e si strappavanu in cova       un annu  si decidi di vulellu preserva da  arubbeccin in essolutissimu contu    si io i ci chiappu   rifuginava in paese  vogliu chi piu bella lezione         cura chi ti cura  da pialtu a u pede di un muru  una bella sera  ecculili  eranu un siolu  parte  da nantu  parte da in pianu  u ben di chiarasgiu fermo mondulu di frutti e ancu di foglie  si po di   ziu jan  tumasgiu  depiattu chi ellu era  si pialio ancu megliu  e  dopu partuti i sbrillacconi  si ne rientro smaniccendu a u paisolu      1 ci avete puru infaftati  fece un so  parentellu chi la avia vistu vene da lu ortu e chi cunuscia le affare di u chiarasgiu primaticciu  inquante a me  a lezzione  che     oh  diamine  disse u bravo vecchiu   eranu quante li aeelli  inalpellatiin quelle puntizzine  allora  da piatto a u pede di ne muru  mi so dettu in me stessu   avale  si io mi affaccu  diu mi ne liberi  si capulanu tutti e si troucanu u collu    cume un vurria chi quessa accadissi per causa meia mancu per un boie  lu aghiu lasciati ticchiae partesine  oh  oh     eppoi tantu  a frutta un si e mai pus suta difende da i criampuli manghieraghiu la uva st agos tu  si elli a mi lescianu 
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="15" type="div" xml:lang="fr">
+    <p>
+     memoires peut etre ne serons nous pas  toujours plus malheureux qu eux i si nous ne reussissons pas nous  aurons l honneur de l avoir tente que peut il nous arriver de pis que  l esclavage dans lequel nous avons si long temps gemi la mort estelle plus horrible que la vie que nous avons menee encore si nous mourons ne mourrons nous pas seuls  avant que nos oppresseurs puissent triompher de notre destruction ils auront a pleurer le sort de bien des leurs que nous aurons entraines dans notre perte il faudroit avoir entendu ce discours pour en sentir toute la force envain aurois je entrepris d y re pondre persuade qu il n y avoit rien a gagner sur un esprit ainsi dispose  je me retirai prevoyant des lors que le feu de la revolte qu on se flattoit d avoir eteint ne tarderoit pas a se rallumer  a la moindre occasion produiroit un nouvel embrasement plus rapide  plus violent que tous les autres  de vivario nous allames a merosalia  de la enfin a calvi on ne parloit dans cette ville que de guerre  ce n etait pas sans fondement il y avoit a craindre que quelque puissance etrangere ne format le projet de descendre dans l isle pour en empecher les succes on demanda aux genois six pieces de canons dont on vouloit garnir le golfe de san fiorenzo tis tinrent plusieurs conseils a ce sujet dont le resultat fut de nous refuser   pour justifier ce refus ils deputerent a leur envoye en france un courier extraordinaire leurs raisons etoient le defautd artillerie de leur part  l inutilite du parti que nous voulions prendre ils scurent si bien les faire valoir  qu effectivement nous ne pensomes plus a defendre l entree de san fiorenzo   on disoit encore a calvi que l empereur envoyoit six mille hommes  que ces troupes seroient dans l isle au mois de juillet 1740 mais ce n etait qu un faux bruit qui n avoit pas l ombre de vraisemblance  le roi avoit donne ses ordres pour la levee d un regiment d in  fanterie corse il devoit n etre  compose que de jeunes gens du pays servir en france sur le pied de regiment etranger e porter le nom de royal corse tout cela etait tres facile a ordonner mais tres difficile a executer m de maillebois le sentoit  c est pour cela qu il avoit differe jusqu a ce que les plus grandes difficultes fussentlevees  ces difficultes venoieni de l esprit d independance qui regne parmi les corse  les rend incapables de subordination  de discipline de leur ambition qui les rend rivaux les uns des autres   qui empeche qu aucun d eux veuille se soumettre  obeir a un  autre qu il regarde d ailleurs comme son egal de leur paresse qui  est telle qu ils aiment souvent mieux manquer des choses les plus necessaires que de prendre la moindre peine pour se les procurer enfin de leur coutume de se marier des la plus tendre jeunesse de sorte que quand ils sont en age  de porter les armes outre les liens  qui attachent tous les hommes a  leurs pays les corses y sont encore  retenus par leur engagement avec  leurs epouses  leur tendresse pour leurs enfans on commenca d abord par former des compagnies ou des escouades de jeunes corses on en donna le commandement a ceux qui en parurent le plus digne  par leur naissance  par leur probite on n eut que de bonnes facons pour ceux qui voulurent s y enroler  on y admit les rebelles  ainsi que ceux qui etoient toujours  demeures fideles  on affecta beaucoup d egards  de consideration pour tous ceux qui se distinguerent par leur valeur  par leur conduite on vint par la a bout de faire naitre parmi les mutins le defit de profiter de cette issue pour sortir avec honneur du labyrinte sans fin ou leur revolte les avoient engages quand tout fut ainsi dispose m de maillebois reunit ces differentes compagnies en fit un seul corps sous le nom que la cour avoit elle meme choisi  le premier colonel de ce nouveau regiment ut m le marquis de vence d une des plus anciennes familles de provence m lafond de cujula officier de bearn y entra en qualite de capitaine ainsi que quelques autres francois qu on y fit passer en differens grades pour y perfec tionner l ordre e la discipline  les corses en general ont l esprit d une vivacite  d une penetration singuliere  il ne faut qu un mot sur une affaire pour laleur faire saisir  comprendre dans sa totalite s ils ont eux memes a s expliquer sur leurs interets rien de plus vif a de plus presse  en meme temps de plus exact  de plus clair que leur expose ceux memes qui paroissent les plus grossiers qui ont eu le moins d education sans art  sans etudes au premier coup d'ceil penetrent les sentimens de ceux ausquels ils ont affaire  s ils ne les sentent pas lans des dispositions favorables ans entrer dans un verbiage inuile ils se retirent en disant qu ils eviendront une autre lois qu on sera mieux dispose pour les entenire dc effectivement ils ne manquent pas de revenir jusqu a ce qu ils trouvent enfin le moment favorable dont ils profitent sur le champ pour obtenir ce qu ils demandent ils ne manquent pas de courage mais leur courage tient plus de la finesse des italiens que de l intrepidite des francois  rarement affronterent ils la mort a decouvert s ils attaquent c est a la faveur des montagnes e des bois parmi lesquels ils ont toujours beaucoup moins a craindre que leurs ennemis a l egard de la constance  de la fermeie aucune nation ne l emporte sur eux  point de disgraces qui les abattent point de supplice qu ils ne soutiennent sans donner le moindre signe d impatience ou de douleur une fois qu ils ont dit leur fameux mot patienza il n est aucune torture capable de leur arracher un cri ou un soupir on ne scauroit s imaginer jusqu ou ils poussent la sobriete  combien il leur faut peu pour vivre six chataigniers  autant de chevres suffisent pour l'entretien  la nourriture du menage le plus nombreux rien de plus sur que les droits d hospitalite chez les corses  ceux memes qui font metier de voleurs publics les respectent au point qu on n a plus rien a craindre d eux  des qu on a ete recu dans leurs maisons loin dat tenter aux biens  a la vie de leurs hotes ils se font un religieux de voir de jes defendre contre ceux qui pourroient les attaquer  si en sortant de chez eux il se trouve quelque passage dangereux ils les accompagnent jusqu'a ce qu ils se flattent de les avoir mis en surete rien ne manque chez eux aux apparences de la religion beaucoup d assiduites aux prieres  aux offices grande foi aux reliques aux images  aux chapelets  sur tout un respect extreme une confiance sans borne pour les moines  les religieux a l entretien  l aisance desquels ils sacrifient souvent leur propre necessaire a ces qualites dont aucunes ne sont parfaitement bonnes ils joignent les vices les plus grossiers  les moins pardonnables ils sont d une paresse  d une faineantise qui ne se concoivent pas aucuns des avantages que procure la culture des terres l application au commerce l etude des arts  des  sciences ne sont capables de les tirer de leur stupide indolence  errer dans les bois dormir dans leurs cabanes ou jouer aux cartes sont les seules occupations qu ils connoissent
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

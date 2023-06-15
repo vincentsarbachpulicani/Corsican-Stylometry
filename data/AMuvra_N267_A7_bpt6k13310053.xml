@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k13310053
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k13310053
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 267 | Année 7
+     </edition>
+     <date>
+      1926-10-12
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     ane VIT Numaru 267 CET see me TTÉSCÉ ogni déce ioni Te u - 12 Uttobre 1926    GIURNALE DI E PIEVE DI CORSICA  LU ABBINAMENTI: OS  In Corsica.” iS ee I. Li. + 0. + 142 franchi ?  IniFrianciaz.' VS. o... ..,. ...... 18 »  A PESteru. 4... 4, cià... 4.m;:BQ &gt; LE  U Numaru:4 soldi. "| 2: DI ;  Ditetfote "Petru ROCCA  AMMINISTRAZIONE:  88, . Corsu - Grandval 38. — AIACCIU  Conta currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="let" xml:lang="co">
+    <p>
+     parlemu di   trinnighellu  lettera abarta a u sgio funtenu    gia chki giurnali corsi in generale  un parlanu mai di trinnighel    u  mi sie cuncessu  o gio direttore     di dibbi in lingua corsa  cio chi tutti  bamu iin panta dialingua    l     di u vostru trinaiighellu uu mohdu ne ha pienu e stacche  trinnighellu piglia caru piu caru che altri treni detti dipartimentali   a iente paga vulinteri  ma duva so e migliurazione fatte  dipoi quarant azini          trianighellu e sempre listessu   salvu i quattru vagoni a curridori di lu espressu   listessa andatura  lis tessu materiale  listesse vitture mai ripinte  ne drentu ne fora  listessi  stracci a e purtiere  listessi duminelli a u petroliu    2  a  parlenmiu appena  di sti luminelli    si po gira  a francia  lumi cume  questi  vere vigliose pe i morii  un  sine vede  cu sti luminelli u via   ghiadore un po leghie u so giurnale  rentu i tunelli    eppoi   eppoi  eccu il bellu  sti lumi un iso micca accesi quandu u trenu trapana e muniagne   un so mancu sempre aecesi  a lupinu  prima di entre in lu ultimu tafone  perclie  ditemi perche  cundannate di u bughiu di lu infernu i vostri prigiuneri  i corsi un so latri  ma si ellu ci fussi qualchi  latrone  chi bell uccasione li date  di fa u  so colpi a mez oscurita  abbiate almenu pieta di e poere damicelle  chi si trovanu $ole sole cu certi omi e tre   danu di paura       a   aio aio lo gio direttore  mittiteci a vostra manu  e fate sape chi no vulemu la elettricita  a luce elettrica  micca ssi vecchi famigheghi  chi bi facenu  pocu onore  a  corsica ticca di tubelli merita meglio      parlemu appena   scusate  olettori di i cabinetti     perche  ditemi perche  uh ci e cabinetti  in ogni trenu  perche i treni di a costa  orientale ne so privi in sempiternu   questa e ina vergogna silente  u fattu sta chi un viaghiadore chiappu de a dieria  un po che soffre u martoru o fa i so bisogni a inez a iente   a  cosa si e bista e si videra  vergogna  mittite almenu una vittura cui cabinetti   cusi  i malati saperanu chi elu ci e  un ricoefu   eppoi  mittite e vitture a curridori  cume quelle di lu espressu  perche a linia di a costa e quella  chi paga bene e ghie quella chi  di estate  tomba i viaghiadori    parlemu di e panche      e vostre gate  o gio direttore   ra hanu micca panche ci omu possa  pusa aspittendu  i comudi di trinmehellu  perche cindannate iviashiadori a  firmasdi  artiti cume hi mannegiitis di i magazini        neg magazini   e   uh esempiu  a gara di casamozza pussede una sala z alieitte  cu banshi per pusa  ditemi un pocu cume di ponu entre i viaghjadori  si sta e ha e chiusa e piena di marcadzier    era  chi a iente si ne sta fora  pet una isbuffala  ma fora   duva si en aghiu vistu duie table poste rin dui cucalpprus  so quesse e pusate  quesse so pe i zi11 chi bolenu fa i zi$ uli manguli  latenti chi p a spa ac eine he  pige ci bo ci pongate rimediu   ghjadori chi ghiunghienu pe u  shiadori chi ghiunghienu peu  trenu di tre ore  aspettanu arritti cume i pali ind e vigne  durente tre  quarti di ora  u trenu chi fala da  ghisunaceiarf late a  e di i buffets  parlemune appena  bendenti  troppu caru  cio  chi elloffrenti a u passazieru   un  bicchieru di vintu adacquatu  costa dece sdlli   in ponteleccia  in corti  u buffet  apre a matina   quand ell e comudu   lu altru iornu   a sei ore  mienu  un  quartu  di mane si era chiusu  i viaghiadori  hanu  in banu  dumanda   tu u caffe  a  forza di picchia  una zitella ha  zispostu  2  focu me ancu accesu e cusi i viaghiadori si ne so andati diuni ci era anch eiu   e u diunu e duratu sinamente a bivariu    cusi o gio direttore  ci fate  viaghia malamente in gattive  vit ture brutte tutte piene di tacche  e di scritture  ci fate viaghia  a limi spenti e ancu a diunu  credu  chi bo vogliate veramente  facci  passa  u iornu pe a nottehs a i    francamente  triunighellu   face  disprezza  a  corsica da i turisti  a chiu piglia una volta  jura di un  turnacci ma piu  lu aghiu infesi  cu e mio orecchie          mi dicerete  tuttu va be  un ci e manc una riclamazione   ne di de putati  ne di cunsiglieri generali  quessi hanu li occhi per  agguarda in lu aitu mare di a pulitica  micca u  lozzu chi e a i so pedi   ci vurria a chiudene mez ora  qualchid unu ind i  cabinetti di ponte leccia  allora viderianu cum elli so pinti e scialbati  ecunforteulil     pi   aid  aio  o gio direttore  fate qualcosa per la isula di trinnigliellu   o sinno  a  vi dicu  in cunfidanza  aghiu gran paura  chi i feroci magna taliani di bastia  imbece di tompe  a petrate  vetri di i carri sulatu di italia  un badanu  uun ghiornu  a rompe in mille  pezzi  futti ii vetrate di trinnighellu cu iso tam  perini neri systeme shallis  1887   
+  s
+    </p>
+    <docAuthor>
+     Martinu Appinzapalu
+    </docAuthor>
+   </div>
+   <div n="2" type="trd" xml:lang="co">
+    <p>
+     a chiesa accapara     pei giurnalisti anticlericali  di e volte  si prisentent   prublemi  belli grossi a sciogliesi   suppuunimu chi unu di elli scrivi ne un giurnale e neutrale  assai sparsu  salvvaguarditite a capra e u cavulu  predecupatu sopratuttu di rinsigna u publicu  e  per cunseguenza  desiderosu di parla di tuttu queliu di u quale omu parla e  perelie omu ne parla         pudera vene un tempu in che sara convenevole di parla  per esempiu  di san francescu di assisi  postuche  a la purfine  peu gran publicu  a celebrazione di u so  settimu   centenariu e un evenimentu  cume un altru      sia puru  avanti  parlemune  ma  aie  chi suggettu   e cumu aventurassi inssu vispaghiu clericale senza cumprumette a so maneretta disinvolta di  liberu pensatore     quella discrive un articulu sopra un miscredente  e pane  benedettu  ma  sopra un santu  e il diavule  3  si  da chi latu piglia un tal suggettu per un ne impitta ne del ala diritta  ne ne a manca di i lettori di ssu giurnale  neutrale  pe u fattu  ci vulara alfine di  rasignassi ad  offende piu o menu una di e duie parte  e naturalmente sara aidiritta  il  cu a niu  si dicera forse male di san france   oh  no  impussibile  a faccia scuperta unsi ponu affrunta certi currenti di opimione  e lagnanze sarianu troppu numerose  una mansa di iente chi un banu micca a a messa  a truvarianu stumachevule  bisognara  dunque a loda u santu  e u scrittore e stizzosu a u fondu di esse obligatu di arrivacci  sula dimente  cume lu dice faltru  ci e a manera  e    e  in particulare  a manera che  ui certu mi  ginisty  aduprava u timanente ne u petit marseillais  ghiurnale di gran publica e di lettori bariulati       i nimici di a chiesa rimpravanu a i teologi i so   distinguo     u prudente scrittore ne face unusubitu a u princi piu di u so articulu  ellu un bole parla diu santu  ma di lu omu   quellu appassiunatu di misericordia  di u quale a vita un fu altru che amore    etc    ece u qualcosa di geritile  ma videmu u seguitu  i  fin da u secondu alineatu imparemu una cosa inquietante  a chiesi  dice   ellu  ha  accaparati  san france    gran disgrazia   perche atcaparendulu  ella  un  ha lasciatu micca tutta a so  fisionomia  ora  bi dumandemu un i pocu di cosa si imbroglie aiesgia cano  nizendu st omuchi un  ne ha nulla a fa cun ela    un ne e un  paradossu j  di di chi ellu un deve nunda e a lesgia   i micca un paradossu  oh   no  ma postu chi mi  ginisty  ci si e messu  ci saria per ellu una minera magnifica a siguita  in  altri termini unaserie di articulta dacci  in de unu puderia dumandassi perche a scienza ha  accaparatu  pasteur u quale   gnunua sa  nulla devi a a scienza  e perche e belle arte hannu   acca patatu  raffaele  u quale nulla duviu a e bellearte   o   le autore agghiugre che si a voce di san france fussi stata   menu passante  a lesgia la averia dichiaratu ereticu   questu e bonu  a sabessi  e dunque utile di cultiva a so voce  edi fassi insigna a dizione ed ancu u cantu  so cose  chi paranu efficacemente da i fulmini ecclesiastici     e perche  po francescu era cusi sfarente da  a chiesa  mi  ginisty si degna di spigaccila    stu misticu  dice ellu   rivoluzionariu a sso modu  un piazzava al di sopra di u domma u sacrifiziu e a carita   pensavamu ingemuamente  prima di a littura di st articulu  chi usacrifiziu e a carita fussinu cose abbastanza ben viste da a tesgia  di modu che francescu  pridichendule  fussi in communione cu tutti i santi  e tutti i scologi di a  catolicita  ma  cosa vulete    sogna struissi  per meravigliatu chi omu sia da sta struzione  inquantu a mette a carita   sopra u domma   puderia omu oppone chi san france un ne avia in de ssu particulare nisuna pratinsionea u titulu di inventore  san paulu  paragunendu una cu la altra e virtu scologali  avia diggia dicciaratu a carita esse a piu eccellente di tutte e tre  e cosa veramente curiosa chi unu si devi cunta fora di a lesgia per ave ripitutu sso chi ha dettu san paulu   altra meraviglia  francescu   nulla avia  di un asceta  le autore di tale af  firmazione da qui prova di un indipendenza rara versu tutte e biografie di u santu  e ben veru chi ellumette accantu a a parola  ascetu  lu addiettivu   inquietu   ma e bellu chiaru  che questu ne a so idea  e un epiteiu  di natura  per mi  ginisty  un ascetu e forzatamente  inquietu  ora francescu era alegru  dunque un ne era un ascetu  argumentu pocu cunvincente  alegria ed ascetismu facenu bona vita inseme  si e vista in san france  si e vista e si vede in tanti altri  a chiesa un ne e micca  essenzialmente cumposta di spiriti tetri e lagnuti  e niuna scumunica fu mei fulminata contra u surrisu  quandu questi uh ne e micca a   schiffoso risetta  di voltaire  stimmatizzata cu tanta eloquenza da musset   ereticu perche su  ridente  francescu fu ancu ereticu perche amo u populu   a chiesa la ha snaturatu  scurdendusi chi ellu fu prima di tuttu u cunsulatore di il populu   ed e forse sicuru la apologista laicu e neutralistu chi a chiesa si e scurdata di sa particularita inalzendu francescu di assisi sopra li altari  un emu micca certamente vistu i prucessi verbale di canonisazione e ne mancu la ha visti mi  ginisty  ma ci scumittariamu vulinteri cun ellu ben parecchi franchi   oru contru egual numaru di franchi   caita  chi a carita di u santo versu a iente di poca condizione  ci e per qualcosa ne li onori chi li so rese  di appressu a stu so pariegirsta di occasione  a chiesa deveria dunque scaccia da sopra u catalogu di i beati  tutti quel  li chi banu amatu i chiughi e i poveri  unatale conclusione risorte almenu da u so scrittu  mentre a noi sembra che sopra stu puntu  un e a chiesa chi  esmentica  ma ghie piuttostu u so accusatore  chi perde curtipletamente a memoria  si ricorda ellu qual fu gesu cristu   crede ellu forse chi a chiesa  sia stata fundata da voltaire  pe u quale u populu era bonu a manghia fenu  o puru da renan  chi fu cusi costante ne u disprezzu di i proletari    quasi tutti li articuli di mi  ginisiy cuntenenu   cume si ellu ne avissi signatu un pattu misteriosi    un sgrinfiata obligatoria o contru a iesgia  o contru a monarchia  6 contru lu anticu regime  o contru u mediu evu  o contru qualcuna  di e  numerose bestie negre contru e quale e a moda  di tira a spada  kl elegiu di francescu  naturaimente li da le occasione di una tirata contru la epoca di queliu   a quale epoca avia e so miserie cume a nostra  cu e so prediche  dice mi  ginisty di si  francescu   eliu strescinava i so auditori fora da u fangu rossu di sangue  ne u quale elli si impastavanu   fangu sanguinosu ci ne era forse in qua e in la per la italia  ne u tredecesimu seculu  ma saria imprudente di sustene che lu ci ne era piu che ne a russia rossa di vigesimu  ein francia  cosa si vide in 1793  e cosa si turna a vede si la ala manca di u cartel ghiugnisse ad ave a suprana     ben intesu u stupendu avucatu di u santu di assisi un bole chi u so ordine prufitti di li argumenti di a difesa  saria troppu cumpromettente  u puderebbenu tratta da cappuccinu  cosa tantu periculosa quantu di esse qualificatu di gesuita  i primi frati minori so soli a truva grazia a l occhi soi   sti franciscani ai quali cusi pocu si duvianu assumislia i so successuri  andavanu per quel dine a le campagne fiurite etc   benone  ma   a ssi franciscani di e duvia certamente accade di precePSa  di cunfissa e ancu di insegna u adomma   e ancu di parla di lu infernu  cume a i cappuccini di oghie iornu  ma quessa  mi  ginisty un bole vedela  oh  pidealizza   oh   i  campi fiuriti   bisogna a erede che l un ci e piu fiori oghie  quandu le accade a i nostri cappuccini di traversa e cam pine  ne     ma un semu ancu a a fine di e nostri surprese  eccu pocu piu o menu a fine di lu articulu   cc ne   oh  quantuluntanu era francescu di sunnia a regule monastiche  2   a restrizzioni di a liberta       ellu di cui la opara e cusi netta da a macchia di u domma e di a scolastica    ma che  funda un ordine senza regule  qual e a suciete chi un ne abbia   e quella di impone voti di ubbidienza  castita e puverta senza che lu ci sia  restrizione di a liberta   qualunque lu sia u geniu chi si altribuisce a san francescu  ellu un era capace di su colpu di forza  in quantu poi a a   macchia di a scolastica  un era propriu affare chi riguardessi a san france  chi un era ne filosofu ne teologu  ma tra quelli primi francescani che mi  ginisty intravede in poetica apoteosi  un spicca forse san bonaventura chi fu precisamente unu diimaestri di a scolastica   cume fece quessu a perdesi ne e   macchie   duve i so fratelli ruggeru bacon e duns scotu duvianu raghiunghie pocu tempu dopu e micca senza gloria  cusi che ne lu elogiu cume ne a critica mi  ginisty un ne ha successu  a vule difende san france confru   lu accaparamentu   di a iesgia  mi ti ha faria di vulellu accapara ellu stessu per u liberu penseru  postura chi pare un po difficile a tenesi fermamente ancu da un buffone di professione  quessa ci rimette in memoria  quelli rivoluzionari chi bulianu cunta cume particiante di e so ide e a fenelon  u vescu feodale e gran signoru  a fenelon  u quale si ellu havissi vissutu cent anni dopu  saria statu scapatu  o forse li haveria energicamente cutumiti  si ellu fussi statu ministru di louigi xvi   diego     pour traduction conforme 
+  s
+    </p>
+    <docAuthor>
+     P. T.
+    </docAuthor>
+   </div>
+   <div n="3" type="poe" xml:lang="co">
+    <p>
+     per egeria  ssu jornu chi eo mi ne so nnamuratn  che vo  turnaste a luce di a miu vita  macchie eppo macchie aviete giratu   eppo giratu a castagniccia avila e suminevele ind u mio passeghin sentori di frundulanza appassita   traviddi e lentu dissi   esnnnieghiu  o qualchi fata agresta e piu zitella  che la acqua si e smarrita  e qui la feghiu    allora surridiste graziuseila   fendumi un cennu amicu  ela capretta chi vi saltava a latu agile e snella    vi si incagno contru la iglia interdetta   voi allungaste quella bianca manu unghj rusata e veni viuletta  a carizzalla in gestu lindn e pianu  cun amasgiulamentu insuspettatu   arrittu  lu mio dante apertu in manu   da tramindue in core addilettatu eo fighiava u coppiu pitturale per tempu e locu puru abbellisgiatu   digia lu sole per u fiuminale facia corre le onde splendurenti e fasciava a muntagna a frange fale    i vaglini sburdavanu a cuncenti in cor di ottorre mane incantadora  ricca di verdi e di ori e di arigenii   fighjava  quasi cum ellu si adora e mi appariete in santa benigna chi volu angelicu alighiendu sfiora   e vi pregava o nivale e sanguigna da  ne fondu a lu mio core tinnicone apertu eume ghicciu chi si sgrigna   cusi pregava  e la vecchia orazione chi seculi di amore anu palesu varrivinghia in muta divuzione      co feminetta bella eccumi resu subitamente tuttu a la vostra esca  tutt u mio spirdu inversu voi e tesu   oh  dissitate a la funtana  fresca di u vostru amore u mio labbru chi piccia e feraghiu cusi chi ellu un v ineresca   solu cun voi possu truva liccia   simile a me nun truvarete mai   gudimu dunque la ora passaticcia      mi dissi ancu altru  ma nun precurai per voce e vi ne andeste vapurosa  cu la capretta tutta agilitai   di sottu a la frundulanza jelosa chi vi nascose di foltu cuprime mentre ululava la acqua milingosa   un si senti a ne traspedighime ne sfrundulume par sa cantilena di fin di estate e di primu vaghime   dolce cume una voce di sirena  schietta cume una cantica latina  grave tantu si gioia che di pena   un mi ne scordu o rapida fatina ma salvu in mene religiosamente yinteru incantu di quella matina   quella matina chi mi a postu in mente e postu in core ssa  malincunia chi pienghie e canta successivamente   sia vita nova o le mio fughitia voi ne fuste e ragione e cagione   or vi cunsacru la mio puesia   chi li mio versi intreccinu curone 
+  s
+    </p>
+    <docAuthor>
+     A. F. Filippini
+    </docAuthor>
+   </div>
+   <div n="4" type="poe" xml:lang="co">
+    <p>
+     u pizzicu  in amore u pinzutu   un ci capisci niente   un sa fa che a basgiera   chi ellu sii da un accidente   ma u corsu  o amicu   principia pa un pizzicu   un pizzicu dolce  dolce   a u schincu o a la ascella   ancu puri aturcinatu   piaci a ogni damicella   chi da i vampi di l amort   si inilara tutt a russori   un pizzichellu  o caru    datu a tempu e ad agiu   in un scornu a furtacchionu   piu sapore ha che un basgiu senza vezzi ne rumori   ellu sa accenda un ceri   ma che vale  dite  un basgiu   o labrucci culuriti   chi senza laca una fraccia   sempre  sempre  ci traditi          da lu pizzicu chi stampa nasce li amori e poi campa 
+  s
+    </p>
+    <docAuthor>
+     Simonu d'Aullè
+    </docAuthor>
+   </div>
+   <div n="5" type="art" xml:lang="co">
+    <p>
+     cronaca aiaccina  a u municipiu  u cunsigliu municipale si e adunitu luni passatu per discutedi u cambiu di tarreni fra a citta e u sgio dumenicu cuneo di ornano     parecchie altri affari so state spedite   u prezzu di a farina  u prezzu di a farina cuntinua a culla  u pane si paga in aiacciu 2 frcs  9o u kilu   inli paesi vicini   3 fres 25  3f 5o   in la muntagna e andatu sin a quatru franchi    incu u pane tuttu colla   liguimi  carne  vistitoghie  scarpi  capelli ecc    tutt i lavuratori si pienghienu   parecchi si so mossi  i mazzacani  i manuali  i muratori si fanu paga a jurnata da trenta cinqui a quaranta franchi  i camalli   trenta cinque  i scarpari  vinti dui franchi par sulatura    e cusi si corre a tronca collu inde lu abissu duv ellu si sprufundara un ghiornu o lu altru u mondu interu   fpiu a pienghie in aiacciu so i nostri picculi impiegatucci di cummerctu  ne cuniscemu ci un hanu piu di dui centu cinquanta franchi u mese       u giuvanottu di diciosett anni travaglia a nuttata sana per vince settanta franchi u mese     ma a fiancu a questi ci so quelli chi si ingrossanu i zancaroni e chi sbufitteghianu a e nostre spale  biata umanita         pane biancu e fighi maturi     o chi ella duri  o chi ella duri    a musica e finita    i cuncerti di i caffe di aiacciu e di u napulio so finiti e i nostri cuncertisti so partiti pa se francie  so puru piantati in aiacciu u primu viulinu  u sgio jacqueminet  e u sgio grignon pianistu di talentu   u sgio grignon si fara sente tutt e sere a u teatru municipale   aumercatu  malgradu tuttu cio chi ellu si po di paisani e rivendarole cuntinuanu ad affissa i prezzi a quella velta     scritti nantu a scartafacchili  macchiati e invisibili sfidemu qualsiasi di pudeci leghie  quant elle costanu e carotte  i pommi o i navoni   u prugressu  u famosu automobile chi annacquava a citta e messu in vendita   bisogn a crede chi u simplice tinellu nantu a un carru trascinatu da un mulu torna piu contu ca e vitture senza fere    si parla chi prestu si schiarisciara a citta cu li umi a oliu chi un si trova piu carbone  si parla dino di una cumpagnia di bastimenti a vela pa fa cuncurrenza a fraissinet     un si ne parla piu    e stu meravigliosu  hangar  pa e marcanzie quandu la avara da vede a nostra calata  chi ne dice a camara di cummerciu      pompa o carl andri       chi acqua un ne vene piu ne da u cele  ne da a gravona   i tarreni soffrenu a sete e e nostre case so a lu assecu    e funtane danu qualcusella ma quelli chi hanu la acqua in casa  o disgraziati      si passa jurnate sane senza vedene fala una gocia  a puntu chi prestu piuvara  si ellu piace a diu    e scole aprenu    una dopu lu altru e la armata  piu grossa ca mai  di studenti annega a nostra povara citta  e case e i tetti so pigliati di assaltu   un salamu di sumere pe una pizzatella ancu senza lettu  una copia di furmagli niulinchi per una stanza mubulata    caciateci st aiaccini chi un bolenu paga pighione chi nai a vi cumpremu cu i soldi di roquefort     ma chi piccatu chi ellu un ci sii ponti in aiacciu   so partuti     pistatinanti    mauneranu tantu grassi e tondi  i nostr alrndon st anu     fra osteriaghi  camalli e automobilisti i ci si hanu dissucchiulati   u magna e statu pocu  lu alloghiu pessimu  bona annata di puce cum un si ne era mai vistu    e fin a la acqua fresca chi era calda st annu maladettu     tutti ci hanu juratu chi in 1927 si ne volenu anda a passa la istatina    in ascu duv elli facenu a pece   ma noi cridemu chi elli turnaranu a vignale chi e un bellu paese     a u teatru     si da   tom le vengeur e sir francis le pervers  o    dn   a u nabulio   rivales e pour l enfant  prestu   nonce romanetti   si  francescu di assise  e feste di si  francescu so celebrate a domu ci una magnificenza straurdinaria  dui veschi  tutt u cleru  sei cantadori  dui viulini e li organi     messa  musica e predica fanu corre tutt aiacciu in chiesa 
+  s
+    </p>
+    <docAuthor>
+     U Jattu-Pinnutu
+    </docAuthor>
+   </div>
+   <div n="6" type="cha" xml:lang="co">
+    <p>
+     rimpianto  puesia nant a la aria di   cosi piange pierrot    1  canzona di bixio  riturnella  in lu immensu azurru   lu to visu puru   eg cercu a vede   cun li occhi cari  posti nant a me    li bruni capelli   mi par  di videlli fra le ombre di u cel    longhi e fluenti sperti in un vel  i  a sera e bella   mormoranu leggeri rumor    la bianca stella   ci lampa mille occhiate di amor   ma la aima sola    l un si cunsola   chi a persu cun te   tutti  so piace   duve stai  eletta di u mio cor    eo so luntanu   e ti imploru invanu   in mezzu a suspiri  ahime    senz un sguardu chi si cali cun pieta  per me    4  in francese   les larmes de pierrot    i  lu mio penseru si ne e va megliu  in la oscurita    vola teggeru  in esiliu ellu l un ci po sta    va  le ale stese   vers u paese   duve dolce fu la mio giuventu   e duvellu si  sente chiama     dai ricordj amati   per sempre gravati   in stu cor  piegnente  ahime    chi persu in un sognu  langue e si 7 more per te  
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="7" type="art" xml:lang="co">
+    <p>
+     a chiacchiera  paffona e raganella  raganella  o coma  ne avete callu  paffona  si crepa la mio cumare   cume fara a suppurtallu in pieghia lu mio cumpare 1 raganella   e a tribbia   qandu e falatu   paffona  falo sabatu passasu   paffona  asciuendusia fronte  ma chi callu chi ellu face      cascu ritta da la flema nun mi sentu piu capace di fa nulla  o dio  so scemar  e le puci  o chi turmentu    ne aghiu adossu un regimenti  raganella  e allora chi racuntate    chi dicenu sti giurnali   paffona  cume all usu  sciabulate discorsi da carnavali sempre facenu decreti   per caccia li nostri preti  raganella    chi guvernu  a mio cumare chi battaglia   chi intrapresa   trema lu prete all altare minaccia la nostra chiesa que disfida cristu e santi vuole a borsa  un vuole canti   paffona notu  a borsa  si la ha pigliata  cu la separazione    e gia fatta ia frittata    e lu prete e gia cappone  cottu e frittu in cassarola  lu aghiu lettu   un e piu fola    raganella      mi dispiace tantu e tantu avia lu mio niputellu bravu  saviu cume un santu bulia fanne un pretarellu e avale tuttu e cascatu o guvernu di pilatu      paffona fi  pazienza  a mio cumare   u tempu matura tuttu ci e discordie in terra e in mare ogni alberu porta frutta     ma lu ingannu a tutte le ore   ritorna all ingannatore     ragarella    e sta guerra diu giappone quandu mai sara finita   nun ci e ancu decisione  di cessa tamanta lita   chi disgrazia  o dio  chi orrore  quantu sangue chi ellu corre  paffona      chi bulete chi io vi dica simu sempre a caru amicu   per fa pace ognuno intriga   tuttu e indarnu  un vale intrigu   nun ci e arrangio  un vale accordi unu un sente  e le altre e sordu raganella   i  e la annata chi vi pare  abbastanza diviziosa   paffona  bella magra  a mio cumare tutt afattu diciattosa  granu pocu e uva micca a chi puo ficca la ficca  raganella e  e la cena e priparata   paffona  e a lu fuoco  e guasi cotta    ava mi ne era scurdata  la memoria aghiu in dirotia  per piace  passate un pocu  e affacatevi a lu focu  raganella   a pignatta e rotta in terra e la gatta e qui vicinu o cuma  drentu chi ci era paffona  maladettu  lu destinu       ci avia dentru la capaccia     o la indegna   o chi gattacci raganella    basteria la sciagurata   basteria la meschinella chi ella un ci fussi passata o cuma  la curatella chi avia frittu e messa a 1ooo bella cuperta a lu focu   raganella  gridendu    pas a si minata    mi la ha fatta  mi la ha ic     paffona  senza movesi di o la ladra di la gatta         taglio 
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     pietrosu  e trosu  ittimana passata  a u petrosu  a sa lu intarru di e cennare di u cel fratani  ingigneru  mortu in sgio tr   j  indo china  i u cantone ri  in pavant a  tuttu u cantone riunitu  ci e statu discorsi distinti     ee e quellu di maistrale   tanu so ghiuntu a piegue anch eju  de pria a fabi sente lu me lagnu   par fratani chi fube a lu liceiu durante set annate u me cumpagnu   pistintu era di core e di manera   tenutu dai maestr in alta stima  pintelligenza ella era la bandera di tutt e nostre piazze avia la prima   zitellu  lu aghiu vistu arrata le ale     soeglie  cume ghiuchendo  u so mistieru e  primu di lu imperu culuniale   vince la prime piazza di ingigneru   cusi spampigliulante la so stella   u destinu paria senza marosu   a so mente cume ja rundinella mirava lu so nidu  a la pietrosu    risorse ne spendia a mane piene   di ingegnu suminendu maraviglie   par su mondu  o quant ella ha fattu bene  quante cunsulazione a le famiglie   avii la furtuna elu putere cu bona vulinta sempre prapensa   ava dopu cumpitu u to duvere ne parti senza  mancu ricumpensa    a toia  a ricumpensa  si sapia chi quici i to segreti ognun li sa   di u petrosu vulii  in armonia   fa riluce lu nome e la fierta   finiti li prugetti e la raccolta a stella di u distin ava si spegne   cu la to famigliola ormai sciolta   ognunu ti stimava ed ognunu piegne     ala famiglia fratani  a u nostru amicu pieri  merru di u pietrosu  tutte e nostre duglianze 
+  s
+    </p>
+    <docAuthor>
+     Paoli di Taglio
+    </docAuthor>
+   </div>
+   <div n="9" type="art" xml:lang="fr">
+    <p>
+     un ordre du jour les habitants de sartene assembles salle du marche le dimanche 26 septembre 1926 au nombre de 1 000 en presence de mm caitucoli et pietri deputes giordan senateur delegues parla representation insulaire des conseillers generaux ainsi que de nombreux citoyens des cantons et des communes de l arrondissement  considerant que le decret du 6 septembre 4926 portant suppression des tribunaux d arrondissement ne saurait sans des difficultes materielles insurmontables etre applique au departement de ja corse  que le manque de moyens de communication et la longueur des distances placent ce departement au regard de l application du decret dans une situation qui ne le rend comparable a aucun autre 2 qu il en resulterait pour les jusficiables des frais exorbitants  que les iransporis des juges et temoins ainsi que firrecouvrabilite d une partie des frais de justice entraineraient une lourde surcharge pour le tresor  qu une exception ayant deja ete faite pour p algerie et l alsace lorraine rien ne s oppose dans l'economie du decret a ce que le departement de la corse a qui la loi a deja du aceorder un certain nombre d immunites speciales heneficie a son tour d un traitement exceptionnel  qu en ce qui concerne plus particulierement ferrondissement de sariene les raisons invoquees pour l ensemble de la corse sontrendues plus frappantes encore par l absence de tout chemin de fer et par l extreme insuffisance des services publics de transporis precaires a ce point que dix communes seulement sur quarinte sept sont reliees au chef lieu d arrondissement i a  que par exemple il ne faudrait pas moins de cinq jours d absence anx habitanis des extremites de parrondissement pour se rendre au nouveau centre de sa juridiclion a ajaccio  pour ces differents motifs protestent de toute leur energie contre la situation intolerable qui leur serai fuite si le decret etait maintenu dans ses termes actuels  demandent de ja facon la plus instante au gouvernement de modifier le dit decret en exceptant le deparlement de la corse de son applivation  donnent mandat e leurs representants au parlement de soutenir et de faire aboutir leur pouvoir  et decident en cus d echec d exiger la demission de leurs corps elus
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="10" type="div" xml:lang="fr">
+    <p>
+     un departement desherite la vie chere et la misere sevissent en corse le pain coute 3 fr 75 le kilo depuis longtempsona prisl habitude surle continent de se desinteresser des choses et du sort de la corse on sait par cui dire que ce pays est magnifique qu il a une histoire des plus heroiques que ses montagnes regorgent de bandits  pour l honneur on sait aussi mais sans en etre bien sur quela corse est un departement francais  aujourd'hui l ile de beaute appelle ason secours et implore un regard ce pays ou la vie etait jadis agreable et tres bon marche est maintenant la proie des speculateurs de tous ordres la guerre lui a porte un coup fatal et si l on n y veille pas l ile sera dans quelques annees plus peuplee de tombes que devivants  dedaignee par les gouvernements qui se sont succede au pouvoir la corse se meurt lentement dans son isolementsplendide faute de capitaux les entreprises y sont insignifiantes la main d oeuvre manque la corse a perdu au service dela france le plus  clair de ses fils la terre deja peu productive est delaissee les campagnes  voient l'exode des ruraux vers les vil les qui progressent alors que les villages s anemient  pourtant des commissions parlementaires y furent envoyees officiellement maints ministres ont promis de faire l impossible pour elle aujourd hui la corse est a toute extremite c est un fait  un exemple depuis plusieurs semaines le pain est en corse a trois francs soixantequinze le kilogramme  ce seul faitdemontrea quel tournant aigli de detresse et d abandon est arrivee l ile 3fr 75 alors que la majorite de la population corse possede tres peu d argent liquide alors que la culture du ble est insignifiante comment vivront les habitants qui ne produisent que pour eux memes et les petits pensionnes dont la retraite suffira a peine a payer le pain devenu desormais un aliment de luxe  et quei pain produit avec tontes les farines que les boulangers du littoral mediterraneen ont negligees  il est a proprement parlerimmangeable   baccala per corsica comme l on dit ja bas  l ere nouvelle du 24 septembre 1926
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="11" type="feu" xml:lang="it">
+    <p>
+     di talento immane fe prova quando nella presa del forte  della isola  possa  trovato un tenente corso di lire di certu congiura contro tin  ordino che gli mozzassero la   glia  poi legato ad un albero lo ardessero vivo  i genovesi  avendo preso uno del sno seguito  lo implecarono  ed egli senza porre tem fn teat mezzo  fece impiccare di sotto in 4o prigionieri genovesi bou e mura di bastia   certo qui ine scusare  perche intese amma  quei cosacci dei nostri com nelle buone ereanze  pure ec questa la frovai anch io un tanti   no abbrivata  peggio fu mandare a morte  brevi manu  due corsi venutia zuffa tra loro  e questo nacque da considerarsi  come re  sopra le leggi e i maestrati  cio poi  che piu di tutto gli nocque  fu la morte di angiolo luccioni capitano di valore  che avendo favellato con manco di reverenza di teodoro  egli se lo fece ammazzare sotto gli occhi in onta alle supplicazioni dei circostanti  della abbiettezza  rammentero una cosa sola  ed e la vendita della corsica ai suoi creditori  e questo stette meglio ai corsi che il vezzo alla sposa  dacche si dettero come schiavi  fu giusto che si trovassero venduti come bestie  chi fosse questo uomo chi lo mandasse  da cui ritraesse i quattrini  o non e noto  o poco manifesto  affermano avere vagato pel mondo a mo  di zingano sotto nomi diversi ora pigliando quello di napaer  ora di limber  ora di nisun  ora di seimbough  quanto a titoli potete credere chi ei non si lasciasse patire  in londra passo per tedesco  in livorno  peringlese  di commen datizie non conosceva penuria  perche  dicono  sele fabbricava da se  assicurano eziandio  chi ei dimorasse schiavo qualche tempo a tunisi  la fonte dei quattrini taluno la trova nel gran turco  altri nel bey di tunisi  cui promise arrolare un reggimento di cersi  altri per ultimo le attribuisce ad una sequela di truffe dentro le quali accalappio un burazzo di sartene  lo ebreo sebagh di livorno  e certe religiose di casa fonseca stanziate a roma nel convento dei santi sisto e domenico  voi per avventura he saprete qualche cosa di piu sicuro  perche credo che morisse a londra  e forse le avrete conosciuto     difatti io lo ho visto  ma non so di qual colore sia la sua voce  imperciocche ad ogni mia interrogazione rispose col silenzio  cio puo non parere gentile  ma egli aveva perfettamente diritto di fare cosi  io posso darvi contezza precisa della sua vita e della sua morte       oh  si fatelo  che siate benedetto     suo padre si chiamo antonio barone di newhoffen della contea della mark in vesfaglia  e condusse a moglie la figliuola di un mercante di visen nel paese di liegi  tribolato dai rinfacci della famiglia per le turpi nozze  va in francia con la prin  cipessa palatina moglie del duca di orleans  favorito da lei ottenne un impieguccio nel messin  dove mori giovane e povero  lascio teodoro  nato sul finire del seicento  e il cominciare del settecento  la duchessa di orleans se lo prese per paggio  piu tardi lo mando luogotenente nel reggimento della marck  indole irrequieta  concetti avventurosi  anziche magnanimi  pure non ingenerosi del tutto  uomini di ferro fusi nelle medesime forme dove gli uomini di plutarco uscirono di oro  preso in uggia quel lento arrampicarsi dei soldati poveri su pei gradi della milizia  pianta la francia  e ripara nella svezia  milita con carlo xii  entra a parte nella congiura del barone goertz per deprimere la inghilterra  a questo fine e spedito  in ispagna al ministro alberoni  nel frattempo carlo xii muore ammazzato a fredereishal  goertz paga la congiura  riuscita a male  col capo   allora li alberoni lo piglia a proteggere  e lo fa colonnello di un reggimento   giovane di anni  di aspetto  giocondo e di ingegno bizzarro  piacque a lady forsfield figliula di lord kilmanoch   la sposo e la lascio   se  per colpa sua o della moglie non so   forse di ambedue  recatosi a parigi  si amica law  ed entrambi porta via  il turbine amministrativo di cotesto  vesuvio delle sostanze publiche e  private  allora viaggio in inghilter ra  nell olanda e nell oriente  in  cerca di buona fortuna  in amster dam  strinse lega con parecchi ebrei  per certi traffici   che si fanno piu  volontieri di quello che si confessi no  f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

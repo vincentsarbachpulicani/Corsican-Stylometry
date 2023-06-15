@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330996q
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330996q
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 259 | Année 7
+     </edition>
+     <date>
+      1926-06-27
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Arinu VII — Numaru 259 I Esce a Dumenica - ° Dumenica, 27 Jugnu 1926  A MUVRA  GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI :  mnCorsica. . &gt; .". . . . . . . . . . 12 franchi  In Francia. , + . -.. ....... 15 »  A PEsteru,. . . . 4 . . ....... 25 »  U Numaru:4 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  38, Corsu Grandval 88; — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="fr">
+    <p>
+     corsica e sardegna s ellu c e una verita chi crepa yocchj e l abbandonu di a corsica  l abbandonu tutale cuinplettu vulutu e sistematizzatu da u guvernu francese mentre che l'italia ha resuscitatu a sardegna  e s ellu c e un altra verita non menu evidente  ma chi vi face ghiunghie u vomitu  e ch un certu numeru di corsi degenerati e d abitaticci scrivacciuloni o puliticanti neganu a prima di ste due verita a sutterranu cume un fussaju sutterra un mortu  andemu a e prove  tutti quelli chi leghienu i giurnali sanu che l italia ha cumplettamente transfurmatu a sardegna e ch ell ha ultimamente datu una milliarda di lireai sardignoli per cuntinua i travagli d assiccamentu di pa dule di strade ferrate d electrificazione di canali d irrigazione ecc  ecc tuttu que e talmente veru che u guvernu francese ha mandatu in mille e nove centu nove una cummissione di senatori e deputati per studia de visu l opera cumpita in sardegna per circa di farne altr e taritu in corsica   chiacchiare      u sgio pierangeli s e rinsignatu e ha publicatu sopr a i travagli operati da l'italia ne l isula surella un studiu documentatu  ne ripruducimu stu trattu   l italie il est bon de le rappeler avait prevu avant la guerre la realisation d un vaste programme qui comportait une depense de 1 445 millions pour 833 000 hectates a assainir et en 1022 248 millions avaient deja ete depenses et st l on veut se rendre un compie exact de l excellence des methodes ny a qu a voir ce que l italie a jait de la province de ferrare   bi 1875 la province de ferrare  dati lune des plus inhospitalieres ll toyaume sur une superficie de 2 616 kilometres carres de plaines ny en avait pas la moitie livree e la culture plus de 1400 habita hons avaient ete abandonnees la egion se depeuplait et dans son rapport le prefet scelsi ecrivait  dans une population rarefiee il  est personne qui de l ete a l auune ne ressente les spmptomes les fievres qui oni un caractere endemigue  la malaria  mu ga la transformation ire ete les 100 000 hectares de un e incultes les marecages li mi venus des champs fertiles on sr a disparu la populatali uste en de nombreuses lobo avintuple la ou pon ne ges om  que de miserables villarisani touve aujourd hui de flos communes et ce qui pa rait incrovable a deux metres au dessus du niveau de la mer au centre meme d une immense plaine hier encore abandonnee une nouvelle commune yolande de savoie fondee il y a vingi ans comprend deja plus de 6 000 habitants des millions de quintaux de produits agricoles du ble des pommes de terre du tabac des legumes des betteraves sont recoltes annuellemeni sur cette terre encore inhospitaliere 11 y a quelques annees en meme temps que des raffineries des fabriques de conserves des briquetteriestransformenttous les jours en une region industrielle une region hier encore deserte et l on concoit vraiment que les italiens se montrent fiers de leur oeuvre et l on comprend que le professeur mager de prague avec une importante commission tchecoslovaque ait declare que nulle part il n avait constate une ceuvre plus admirable ni des resultats plus merveilleux et plus concluants    henri pierangeli bastia journal 45 oct 1926  eccu a dichiarazione d un testimone di valore  u sgio pierangeli un e suspettu ne di simpatia per a muora ne mancu per l'italia sin a prova d u cuntrariu cio ch ellu ha scrittu deve esse cunsideratu cume veru da esempi cita numeri mostra fatti e a l'apoghiu d'a so testimonianza invoca l'autorita d'u prufessore mager e di tutta una cummissione cecoslovacca ma eccu l on landry chi si prisenta a barra e chi face una deposizione affattu opposta     je puis vous affirmer que pour tout ce qui concerne les travaux publics il faut que cela se sache en corse yeffort accompli par l italie en sardaigne en vue d ameliorer les conditions economiques de cette ile si l on tient compie qu elle est plus vaste que la corse et qu elle est irois fois plus peuplee que notre departement est exactement le meme que celui que la france a fait chez nous en ces dernieres annees   le petit marseillais 2 juin 1926  ora a francia un ha fattu nunda per noi dunque l italia un ha fattu nunda per a sardegna eccu a cunclusione chi scola limpida e chiara da u raggiunamentu di landry  a francia un ha fattu nunda per noi  citu per testimone l'on caitucoli chi ha lasciatu stampa sta verita nantu a u so giurnale   notre pays a ete systematiquementecarte des preoccupations de tous les gouvernemts la republique a genereusement insialle le rail dans les continents les plus eloignes les negres des colonies lointaines oni des trains pourous de tout le confort desirable wagons couloirs dotes de w c etc  sic  notre voie ferree a nous s arrete comme par hasard en pleine foret et les pauvres trains qui circulent entre les deux principales villes de corse soni un anachronisme a cote de ceux des autres departements francais  les tarifs combines des chemins de fer corses et des transports maritimes rendent impossible toute exportation de nos produits et font revenir a des prix sureleves les articles que nous sommes obliges d importer  trois cents millions oni ete depensesen vertu du mandat que la france exerce en syrie la mise en valeur du maroc a coute a la mere patrie tine somme globale d environ cinq milliards  un programme s appliquant a la france entiere d une depense de douze milliards a ete etabli par le ministre des travaux publics canaux tunnels forces hydrauliques oeuvre d un caractere local regional national toufy est prevu c est un travail qui fait honneur a son auteur la corse a cependant encore ete oubliee  quand donc posera t on nettement la question de confiance du departement isole et delaisse   la jeune corse 27 novembre 1925  avete capitu  e u giurnale d u deputatu caitucoli ch ha stampatu que  ma landry un nu deve ave lettu  in quantu a cio che l italia ha fattu per a sardegna un e che landry chi a nega senza da prove jje regrette de n avoir pas cette lettre    marseillais loc cit   u ministru de monzie l'ha ricunisciutu quand ellu ha rispostu a u discorsu di u mere di portu vecchiu  pour realiser ir programme comme celui du pays voisin 7j faut de la continuite   sta verita appena sbucciata da e so labbre u ministru s e abbistu di tutte e cunsequenze che si ne po tira e ha circatu di richiappassi cun una bella bugia aghiunghiendu subitu   cette continuite nulle autre nation ne peuten presenter des garanties plus sures que la france  le petit marseillais 13 mai 1926  eccu una bella vangata di terra adossu a verita  prova    di poi ch a corsica e francese a francia l'ha mandatu 53 cummissione e 62 prefetti e in fatti di cuntinuita un avemu avutu che bugie e prumesse  quesse si chi so cuntinue  perrealizza u programma d u risorgimentu corsu un c e che un solu mezzu e una sola cuntinuita pussibile  faufonomia
+    </p>
+    <docAuthor>
+     Sambucucciu di Casinca
+    </docAuthor>
+   </div>
+   <div n="2" type="poe" xml:lang="co">
+    <p>
+     terza merindella   14 lugliu 1926   attenti  attenti  o anfarti corsi    chi torna a ripicchia la campanella  culombi  cucchetti  merli e pettirossi  becchi tintinnador di cialambella   lioni e orsi   da tenda  vizzavona e bavella udite e state a sente ja nuvella    dumane  ra i bravi rustininchi si magnera cu soni  canli e trinchi in merindella    dumane a musa corsa parla e canta a la ombra di i castagni e talavelli vinite tutti tutti o mio fratelli   in merusaglia a citta santa   merusaglia  nome di gloria e di bataglia   segnu immurtale chi vela di oru a sacra vaglia di u gran pasquale   chi gioia di percorre quella valle  duve li nostri umoni  centu volte   archendu e pitturiccie e forte spalle  ghiuronu   liberta  vittoria o morle  arrembu u so fucone  quivi  in bista a rolondu  padru e cintu e u san pedrone  di a sterpa dorme ne re fiurone quel di lacintu    vinite  unu a unu  o paghiu a paghiu  cume li acelli tiratevi un bolu  ogni corsu deve anda in pelegrinaggiu duve lu bapu chiama e brama lu figliolu   a terra di rostinu a tutti li preti e truvatori fara li onori   ci sara tuvaglia messa pane e binu e e tocca cori    attenti  attenti  o anfarti corsi    chi torna a ripicchia la campanella  culombi  cuccheiti merli e pettirossi  becchi lintinnador di cialambella   lioni e orsi  da tenda  vizzavone e bavella udite e state a sente la nuvella    dumane  tra i bravi rustininchi si magnera cu soni canti e trinchi   in merindella  
+  s
+    </p>
+    <docAuthor>
+     Martinu Appinzapalu
+    </docAuthor>
+   </div>
+   <div n="3" type="his" xml:lang="it">
+    <p>
+     corduella   leggenda ritmica   l esistenza  nei secoli andati  di un paese importante  e forse citta chiamato cordovella  o corduella  su un poggio non lontano da montemaggiore di balagna  e fuori di dubbio  ne parlano i nostri piu antichi storici  e se ne vedono ancora i ruderi sotto le macchie e gli alberi  che hanno invaso il sito dove sorgeva   giu  nel piano  alle falde del poggio in una possessione  detta s martino  della antica  famiglia balanina  dei signori giudicelli di montemaggiore  sono state trovate  scavando  ossa di morti e laterizi antichi   segno che la sorgeva una chiesa intitolata a s  martino  tutti sanno che in antico  nei nostri paesi  i morti erano sepolti in arche dentro le chiese  o nei sagrati intorno ad esse  anche oggi in montemaggiore  in aregno e altrove il camposanto circonda le chiese  che una volta erano parrocchiali  ein certi paesi chiamano ancora sagrato la piazza della chiesa  sarebbe importante sapere se il s  martino al quale era intitolata quella chiesa fosse s  martino di tours  o san martino di cordova   anni sono trai ruderi di corduella fu scoperto quasi a fior di terra un alluce di bronzo  lo vidi in casa di mio fratello  ab  alfonso  allora parroco di montemaggiore  dalla grossezza e dalla perfezione di quel dito era facile arguire la grandezza e la bellezza della statua alla quale esso aveva appartenuto  un antica e bella statua di bronzo  quale che ne fosse stato il soggetto  mi sembra indizio della importanza   della civilta della prosperita di corduella  di simili capolavori in corsica  non ci e  che io sappia  soverchia abbondanza  e se in corduella si facessero buoni scavi  ci e caso di scoprire qualche cosa di meglio che un alluce di bronzo   il nome di corduella  diminutivo di cordova  o cordua  induce a pensare che corduella abbia avuto origine da una colonia spagnuola  emigrata in corsica da cordova nei primi tempi della dominazione moresca  per sottrarsi alle persecuzioni dei mori  fanaticamente e feroce mente ostili ai cristiani   in quanto alla rovina di corduella e piu che verisimile la leggenda secondo la quale essa avrebbe subitu  causa la sua vicinanza al mare  la sorte di tanti altri nostri paesi antichi  saccheggiati  spopolati e incendiati dai mori nelle loro frequenti scorrerie per le nostre marine indifese   convengo  peraltro  che la leggenda alla quale mi sono ispirato io non si accorda punto con quella riferita da giovanni della grossa  benche piu consentanea alla storia  secondo la leggenda di giovanni cordovella sarebbe stata occupata  posseduta  portata ad un alto grado di prosperita dai mori  che  aholita la religione cristiana  dopo di averla fintamente predicata  vi avrebbero stabilito la religione di maometto   la storia vera rigetta tra le favole una stabile dominazione moresca in corsica  e conseguentemente ia sostituzione della religione musulmana alla cristiana  i nomi di santi  rimasti a luoghi occupati da chiese e da cimiteri cristiani nei tempi di quella pretesa dominazione  confermano la storia  la presumibile presenza di statue in corduella e anch essa un argomento contro la do    minazione moresca le statue non essendo tollerate dalla legge del corano  il nome di fuaia  fugata   cheoggi designa una possessione dei signori emmanuelli di montemaggiore  potrebbe riferirisi alla cacciata dei saraceni da corduella in tempi anteriori alla sua ultima rovina  la memoria di un ricco spagnuolo divenuto signore di corduella dopo la partenza dei mori favorisce la leggenda che ho seguito io  in quanto poi alla testa di moro nello stemma della corsica  invece di ricordare un dominio moresco tra noi  potrebbe simboleggiare  come in tanti stemmi di nobili famiglie spagnuole  le vittorie riportate su i saracini   pare che nelle incursioni a danno della corsica i catalani emulassero mori  turchi e saraceni  i nostri vecchi li mettevano tutti in un fascio  una volta si raccontava quest aneddoto  che potrebbe essere anche una fiaba  inventata da qualche caposcarico  alcuni operai  avviatisi a bruzzico e sotto un fortissimo vento ai loro lavori  di su un poggetto scorsero confusamente  alla scarsa chiarezza della alba   nel piano sottostante un ondeggiamento di cose  che facevano lo effetto di gente in atto di avanzarsi carponi  che roba sara   uno di loro scende quatto quatto ad esplorare   e di laggiu grida agli altri   so cardi   quelli intendono   so sardi       sardi       o madonna  pegghiu ca turchi e ca catalani     e se la danno a gambe   si vede che i fortunati superstiti degli ultimi e piu feroci stermini  compiuti dai saraceni nei nostri paesi  avevano trasmesso col sangue ai loro discendenti un senso di paura  che si destava al minimo sospetto di nuove incursioni  a distanza di qualche secolo dalle ultime scorrerie barbaresche il mio nonno paterno raccontava con espressioni di orrore gli atti di crudelta dei saraceni  appresi dai suoi maggiori          e vivo il nome di curghicchie  e designa un luogo in altura al di sopra di moncale  e  un alterazione di corduicula o corduicchia  non oserei giurarlo   ma potrebbe anche darsi  di certo so questo  che moncale  o come dice il popolo   u mucale    luogo fertile di mochi   fu fondato e costituito da famiglie residenti  una volta  in paeselli soprastanti al paese odierno  chiamati e scupuline e curghicchie e cun tee  i castiglioni  ecc  restano ancora visibili i ruderi di un fur tinu   chi  in moncale  non ha sentito parlare della signora di e scupuline   essa aveva non so che dominio su tutti i paeselli vicini  e comandava a bacchetta  al parroco di san tume  la chiesa parrocchiale di san tume sorgeva dov e ora  il camposanto di moncale  non era permesso di cominciar la sua messa  i giorni festivi  prima che fosse giunta in chiesa a signora di e scupuline  anche oggi  in moncale  di una donna che si dia delle arie suol dirsi     pare a signora di e scupuline     la famiglia principale delle curghicchie era quella degli alfonsi  nella quale si e perpetuato il tipo spagnuolo con tendenza al carnato bruno    questi i soli elementi storici o tradizionali del mio lavoretto  il resto e pura leggenda  o pura invenzione della mia fantasia 
+  s
+    </p>
+    <docAuthor>
+     U Babbuziu
+    </docAuthor>
+   </div>
+   <div n="4" type="poe" xml:lang="co">
+    <p>
+     nantu a cima spianata di un pughiolu   a un tiru di fucile da u ridente montemaio  si ammansanu e ruine di corduella  chi piattanu e muraglie trafalate di case e ghiegie e torre  chi ricchezze di arte e di storia coprenu e lamaghie crisciute innantu    di corduella un resta maca u nome e una leggenda incerta   vapurosa mimoria   ava timidamente ansciata  da e so ruine   cio chi lu ansciu dice a i mucchi  all aria  l agghiv arricoltu  un ghiornu  inde e mi arec chie    e e rigiulaglie di una storia vella e strappu a u tempu     piccula cordua     quantu nustalgia in den to nome  apparsu nantu e labbre a i poari fugghiaschi da la antica  cordua di spagna    per chi strana fertuna da e luntane ripe di u guadalquivir ghjunse quindi a culonia spagnola  chi fra noi  pianto e so tende   si un ghiornu  e benghi prestu   seradicati 1 lamaghioni  e diccipati i mucchi  scavaranu e ruine  a scupraremu a vera storia    un arca  un iscrizione  i pezzi sparsi di un munumentu  una mudaglia  forse   di corduella e nascita e vicende palisaranu   cum un ditu di statua culussale  trovu cula  perfettu di fattura   a u mo pinseru addisigno le immagine di un capu di opera   ma  per ava  ne stemu a sa leggenda  e a leggenda animata da lu alenu di e macepie sipolte  e i sia lume a ntraccia u veru   a u tempu chi e piu belle e piu fiurente cita di a spagna stavanu sugghiette a i saracini  asprissimi nimici di a nostra fede   u califfu di corduva  gulosu di e susianze di alonsu  cristianu riccu  stimatu e piu  la avia juratu  a malamorte   prega  spavitu  alonsu     dio pietosu  salbatea mo famiglia    e un bede scampu ca a spifa senza triga da a so patria  schiava di i mori   si armanu vastimenti  cummirciante  alonsu u vatie spessu u mare  e animu dara suspettu  avale  a so partenza  pricipitosa   partenu in centu   alonsu cu a famiglia  parenti  amici  servi  jente scelta   sperta ad ugni arte  a gni mistieru  a capu un sacerdote   eccu a siviglia      afacca gibilterra      libaru u mare      avanti  avanti  avanti   soflia in de e vele un agnulu divinu   e diu vi guida   avanti  avanti 1    un ghiornu e un altru  jornu  passanu e un terzu  a nolte fala   u ventu dorme in de e vele     fermi    grida alonsu ancure in mare    toccanu fondu  l ancurs  e si azzinganu  murmura alonsu     terra      chi prufumi ci arreca u raghiu     sara questa  o cari   a patria nova    tutti indinocchie i    mentre tutti preganu si alza in de u celu  surridente  a luna   e  appullicatu nantu una cullezza   mostra un paese   f occi  alonsu vede qui u signale di un distinu filice  alegru e stancu   si stralla  ingutuppatu in de u mantellu   e si adrumenta   sunniegghia  incurunatu di aliveti   in mezzu a un ampia valla  da tre parte ricinta di muntagne e di cullezze   in faccia a u mare   si alza  isulatu  un pogghiu  pidistallu e difesa a un magnificu paese   carizzatu da u sole  che ne indora e case brune   fromba di sopra le ale luminose un agnulu di diu  mustrendu scrittu nant una nsegna a lettare di focu una parolla    corduella   ride tracuntentu  alonsu  e cu a voce di u core vinadice a diu chi la ha cundottu a stu sicuru portu di pace   ce  la alba u discela   edelluinde a mezz ombra scorge i monti  a pianura di u so sonniu   ma incoltu u pianu  tuttu pienu zerpu  di mucchi e scope   chiamai compagni  mentre $pricchia u jornu  arriconta u so sonniu mostra in londu u spittaculu novu chi li si offre dilizia all occhi   quattru ne manda in cerca di corduella   altri spidisce messageri in occi a chere francamente    semu in terre di cristiani    ein de ste loghe truvaranu asilu pacifichi siguaci di u vangelu   pirsiguitati a morie da u furore   di i saracini      tornan da occi  lesti  i messaggeri     semu tra amici   gridan luntanu   evviva i corsi  populu ospitale   ghiente fidele      tornanui quattru     u pogghiu sunniatu si alza in de u pianu   ma di case in ellu   ma di aliveti un ci ne e mancu stampa    f una cardiccia       corduella sara     grida ispiratu alonsu   e pusara  cume riggina   nantu u so tronu  bella  ineurunata di alivi e bigne   a u travagliu  a u travagliu  furnaciari  bancalari  maestri di muraglia   e sigantini e stazzunaghi e tutti    tutti a u travagliu    rodenu e seghe cantanu le ancudine  taglianu pasce  battenu i martelli  fossanu e zappe  sciaffittegghia a mescula    nasce corduella   unn era passu un annu  e un santu prete di cordua vinadiva e ghiegia e case   e in corduella un populu cantava     gloria a u signore    trattantu in de e pindiceein ghio pa u pianu maturan spighe  virdighegghianu orte  crescenu e vigne  annunzianu i pulloni  selbe di alivi   e in de u paese a vita si rumena  giovane  ardente  industriosa e pia    a provvidi cummerci i vastimenti solcann i mari     nascenu parintati  u sangne corsu si mescia cu u spagnuolu   nove vite fiuriscenu a furma famiglie nove  rapidamente   e quandu  carcu di anni  vinadettu da mille cori  alonsu chiode li occhi    corduella duminegghia in de i cuntorni  cume riggina   ata  quantu fiuri  pacifica  uparosa  pruspiramente a vita di corduella    seculi od anni      storicu misteru impinitrabile    fidele  omancu  sara statu lu ecu    chi arricuntava a i nostri vabbi antichi di corduella  perla di a valagna   a trista fine    gich ella   nata a scampu di cristiani dall odiu sanguinariu saracinu    per manu di firoci musulmani saria pirita   oh  ne agghiu intesu in de a mo zitillina storie di mori e turchi e catalani   ghiunti qui a spullizza case e stazzali   e a facci schiavi    sbarcavanu di nolle a e nostre spiagghie  carchi di arme   assaltavanu i paesi   tumbavanu  arrubavanu  incindiavanu   orchi spietati   cusi fini corduella  ma u signore salbo  prigatu  e jente da u stirminiu   e un si spigni di u corduese alonsu a vecchia sterpa   una fiaraia nantu a torra di occi ha signalatu u sbarcu di i nimici    in cima a torra di corduella a vardia da fiatu a u cornu   aspessu  in tempi andati  fieri e forti  axianu risistitu i corduellesi all assalti furiosi  e messu in fuga  i varbareschi      surpresi all impruvvisu  indibuliti da guerre e da malanni  ava  si corci i mi ti piglia tutti a tardavella  di u santavugliu   f un scappa scappa  eccu in di un amme e  iegie  piene di jente  tra suspiri e lagrime   da tutte e vocche schilla una prighera      pieta  signore    i preti  spalancatu u tabernaculu   si piattanu in buttini u sagramentu  gridendu   via  figlioli  u tempu strigne  salbate a vita       carche e fere di vecchi e di malati   e criature in collu  e poca roba appospalle  i fugghiaschi si spargoglianu per le alte sare   e da un same di quelli nasce presin innantu a sara opposta curdniechia  e curghiechie    e di alonsu vi si fermanu 1 purfiglioli   qui  dai vabbo passendu a i figliulini   u so nome e ristatu a u so stirpngliu    e  tardu arede di su nome anch eju   u vinadicu 
+  s
+    </p>
+    <docAuthor>
+     U Babbuziu
+    </docAuthor>
+   </div>
+   <div n="5" type="poe" xml:lang="co">
+    <p>
+     in muntagna  more lu sole dietru la muntagna  si adombra e si addurmenta la furesta   rondini in celu  allegre fanu festa   rientre lu pastore di a campagna   troncu e labidu  atintu l un si lagna   si asciuva  da la voce  poi si arresta   feghia viaghia  pressu a lu beccu  in testa a lingna fora la fidata cagna     in la polver a banda stanca affanna  pensa ellu a la moglia  a la capanna   alu tinellu di redula pagna     beli e tintenne  lenti  si ne vanu   si perdenu in un nulu  e piu lontann  more lu sole dietru la muntagna 
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="6" type="art" xml:lang="co">
+    <p>
+     la autonomia  cos e la autonomia   u dirittu pe i corsi di cuntinua le antiche tradizioni   cosa ci dara la autonomia  la autonomia ci dara a liberta  u benesta  a dignita   qual e a nostra lingua   a lingua corsa  quella chi noi parlemu e chi avemu imparatu succhiendu u latte di a nostra mamma   e dunque u francese  una lingua straniera   si  u francese e per noi una lingua straniera perche simu obbligati a anda in iscola per imparalla  e  qual e u piu bellu dialettu di italia     u corsu e u piu bellu dialettu di italia  e lu avvisu di tommaseo e di guerrazzi   quale fu u primu a scrive in dialettu   fu prete guglielmu guglielmi di e piazzole di orezza chi scrisse ne u 7oo e prime puesie in dialettu corsu    quale fu u primu giurnale pubblicatu in dialettu   u primu giurnale pubblicatu in dialettu fu a tramuntana ne u 1896  aviva cume direttore santu casanova     cos e santu casanova   unu di i piu grandi scrittori dialettali di a corsica  e lu omu chi ha cuntribuitu a ruvina u francisismu cu e so satire    assai populare i paisani u chiamanu ziu santu  e li anfarti   u babbu di a letteratura corsa     cos era a cispra   una antologia corsa diretta da u celebre saveriu paoli    fu ellu u primu a di chi a corsica un e mica un dipartimentu francese ma una nazione vinta chi ha da rinasce     1o   cos era a corsica    u muzzicone di jurnale di i iurnale di i corsi  publicatu  durante a guerra  da maistrale   cos e maistrale    le anfarte maestru di corsica le autore celebre di risa e canti   quale so i nostri guai    i nostri guai so  a perdita di la indipendenza  a miseria e u francisismu  i  cosa ci daranu i porti franchi   1 porti franchi so i pulmoni di a corsica  e denduci mercanzie di ogni nazione  ci permetteranu di campa liberi e ricchi in casa nostra     11   fara mai nulla a francia pe a cor$iea    no  a francia un fara mai nulla pe a corsica perche un simu i so veri figlioli  e lascenduci ne a miseria  saremu sempre schiavi   chi differenza ci e tra corsica e sardegna   p  bella grande sta differenza  i sardi hanu u rispettu e le amore di tutta italia  i corsi so disprezzati da i francesi  i sardi hanu porti e battelli  strade  e ferrovie  i corsi hanu miseria  stroncacolli e malaria    i sardi so in casa soia    e noi paghemu lu affittu a  matrigna   sara sempre cusi    taniu chi v altri ci faranu a legge  mai nulla ci sara di cambiatu  e nostre cundizione anderanu sempre di male in peghiu   cume a corsica sara felice  ottenendu la autonomia   credite che stu jornu venera    si stu jornu venera perche  avemu fede in diu e ne a justizia di a nostra santa causa   quale so i capisaldi di la autonomia   i seguenti   1  un altu cummissariu chi rappresentera a nazione prutettrice  2  un parlamentu induve ci saranu i diputati di ogni pieve di corsica  3  lu insegnamentu obbli gatoriu di a lingua corsa  4  una mik zia incaricata di le ordine pubblicu  si i porti franchi e u liberu scambiy cun tutt e nazione   quale saranu i prima decreti     e di u guvernu di corsica     1  u pagamentu di tutt e pensioni civili e militari  2  u rispettu    pruprieta  3  la annistia pe i reati  e u rispettu di a nostra religione ecc   vii  i dece cumandamenti  quale so i dece cumandamenti  di u veru corsu      i una so i   amera  a sola mamma  a corsica     il   una sola lingua parlerai  y corsu dappertutiu   iii  un ti vergugnerai di i to antenati chi funu i primi di u mon  du   iv   onorerai u gran pasquale ellu si chi era un santu   v   penserai sempre a i martin di pontenovu   vi   derai u to sudore a  corsi  cae u to sangue si ella abbisogna   vii   alleverai i to figlioli nu rispettu di diu el amore di a patria corsa    viti   cu quelli chi un ti amanu un ci ferai caravagna     ix   serai sempre curaggiosu e fieru   x   setu si corsu ferai da corsu   e  k a  ti   perche una sola mamma   a nostra vera mamma e quella chi  porta u dolu di pontenovu   ti   perche una sola lingua   se noi parlemu una lingua straniera in casa nostra  risichemu di di chi cristu era un gallu  e  iii   perche i primi di u mondu   i nostri antenati funu signori in  ogni logu   iv   perche pasquale paoli era un santu    pasquale paoli suffri per noi u martiriu e lu esiliu 
+  s
+    </p>
+    <docAuthor>
+     Saveriu Malaspina
+    </docAuthor>
+   </div>
+   <div n="7" type="poe" xml:lang="co">
+    <p>
+     ie   a la mio musa  o musa crudel e infama   un mi diciarei di none   si la mio voce ti chiama dalli sudisfazione   parchi corsu  aghiu la rama di la nostra nazione   o francia  o francia   di noi ti se scurdata     simu a la lancia   1 primi indu la armata e po junti in terra nostra piu ne latte ne cunostra   sempre cume li numichi indu st isula rimessi   nulla mai nun si dighi   per noi mai prugressi   sempre guai  sempre male si ellu un ci nascenu le ale   corsica intiera   puvarella  intravata   a la bandiera sempre fiera e fidata   ogni to figliolu pensa a datti la ricumpensa 
+  s
+    </p>
+    <docAuthor>
+     Nonu di u Fangu
+    </docAuthor>
+   </div>
+   <div n="8" type="the" xml:lang="co">
+    <p>
+     pe u teatru di a muvra  ditti e fatti   cummidiola   parsunaggi  ors antonu  sottu brigadiere di pulizia a marseglia  maria dumenica  a moglia   impjgata duve   picon    a scena riprisenta u lughiamentu  di ors antonu a marseglia   una cuci a stretta cume un curridore  cume 7 obilia  una taula quadra cuperta di uba tela ncirata dui carreghi un furnellu cuna pignata sopra  in fondu di a cucina un balconu davant a u guale si frova u lavellu carcu di panni bruttira dritta un  armadiu  a manca una porta di stanza   ors antonu junghie e trova a moglia javendusi due panni     ors antonu    o maria dume  un hai ancu messu a taula  per diu santu   e mezziornu  e sai be chi e  pigliu u serviziu a du  ori   maria dumenica    prima di briupa ume caru  duvariste veda che un so micca pusendu  aghiu trascinatu e lavatu buttiglie tutta a matinata e ghiunghiendu mi tocca a lava i to stracci  e tu se statu a spassu  ma un ha  saputu di junghia ad accenda u focu  allera aspetta un momentu e in tantu chi e la scaldi sa pignata mettila ancu tu a taula     ors antone    sempri a stessa canzona  ma quale ti forza a travaglia  pe lu ottu franchi che tu guadagni     maria dum    lu ottu franchi     credi tu che a to mesata sii di restu  forze  a duvariste veda purtantu  so tre anni che no semu qui a stringhie u currighiolu senza pude nietta un soldu da cantu  eringrazia chi babbu invia vinu da sotta che si no      ors antonu    basta  basta  si ellu un si po piu vive essendu sottu brigadiere di pulizia    4  maria dum    mi face una bella gamba che tu sii sottu brigadiere  pe a mesata che tu tocchi    ma guardaia piutostu sa pignata e cacciaci un pocu di fagiolu chi ci faremu la insalata   ors anfonu    cume  dino suppa di fagidlu stamane  un basta piu di magnalla tutt i seri  ancu a mezziornu avale     maria dum    e allora  u restu di eri sera la avia da jitta forze   o credi che ti aghi u tempu da fatt un pranzu   e po saiu me caru  a carne costa diciottu franchi u chilo e cumprendula pe a dumenica ci ne e di restu   ors antonu     mbe  ringrazia che tu un hai figliole  che si tu ne avii sei cume mammata     maria dum    mamma  mamma ha un maritu chi un e micca statu a trattassei gambi pa i stretti di marseglia e un li manca nulla  ma tu fa chi se natu ci un manicu di spazzula in du spinu e un pudii fa altru che spassia    ors antonu    ie  ma se stata  bella cuntente di pigliammi par ven a marseglia e ci stai bellu vulinteri   maria dum    sicura chi un vogliu riturna a fa ride u paesu  ma tra noi  dimmula franca  chi prufittu ne avemu di marseglia   lughiati cume paciaghi  una stanza e una cucina chi ci si aftoca di istate e ci si jaccia lu inguernu   magna diu sa cume e sai be chi ellu un si po fa di piu  quante a i teatri e a i cinema e par noi cume si ellu un ci ne era  in tre anni  aghiu vistu una volta    alcazar  e credu due volte u cinema  allora chi ne godu eu di 4 to marseglia   mancu passighiate ci e  par me qui   ors anfonu    parche tu voli travaglia ma vai che stu lugliu ci ne anderemu ne corsica e scruzzulare quant ella ti pa e     maria dum    ha  ci pensi ad an ne corsica   ma se un mittissi i me ottu ranchi da cantu cume fariste    a ors antonu    e be  avaria aspettatu  esse brigadiere    fre dum    re  dino duo tre anni li anni re   quandu li altri ci vanu tutti dan ma usaria e petru filice so venuti mai toccu  annu passatu   e sai be che  viamu dettu di anda ancu no   ma    der antonu    e po  un avie scrittu  che feci so mie pc u no andavamu a vichy lu hanu creduea credenu sempre   bina   dum   a rinummata e belle du pa ntantu so guasi cripata dicalnulla a a tuvone  ma st estate un ci e a  un le  bisogna che vaghi in corsi un parli di su par altru  e sai  che tu sopra u de 4 piglia passaghiu di ponte ehi ci so atellu 1 vogliu  una seconda ci biglienu pre 1 paisani  e da prupia chi ancy sil  pauto  babbu ha scrittu 8  un so via di biribi e ghiunta in a u oro ricca peghiu che ella  no          tnlonu    si i ne avarem  1o74    sicura  ma soldi ne a  mb abbastanza    maria dum    par anda ci saranu  pa u ritornu  babbu ci falara in cabriule fin a prupia e dopu vidaremu   ors antone    e dighia  cappellu in paesu ne hai da mette    maria dum    mi u bellu  vulariste che andassi qualla sensa cappellu   saria a sola  mi aghju da cumpra un cappellu e una roba apparigliata   orsant antone    hum  hum  in tantu ci faci magna suppa di fagidlu a mezziornu   maria dum    magni par cioche tu  guadagni  un vulariste micca attaccata  i me ottu franchi  no  un mi ringrazie  mancu che travagliu par pagati u via ghiu  sare bellu cuntente di passati ancu tu un mese a u frescu e di fatti una magnata di frutti chi so tre anni chi no un ne tastemu   ors antonu    infine  un dicu micca  ma    si elli sanu in paesu chetu travagli avemu da esse a risa  una moglia di funziunariu     maria dum    vai  mi  duve picon di i nostri loghi un ci ne e  e qui a u vicinu aghiu sempri dettu che era survegliante in di una scola  ci so chi credenu ancu stitutrice   ors antonu    pa u fattu  struita se  a pudariamu ancu di in paesu   qua le po ghiungna a sapella    maria dum    sicura  ma e par quessa che un vogliu micca junghie qualla cume una stracciaghia  o  ors antone    e be travaglia e conipra cioch ellu ti pare  ed e u bisogna che mi sbrogli cu i piazzaghidli di a grand rue  fin ad oghie mi so cunten tatu di due banane e due portugalle ma lascia fa a me  sta sera ti portu un carbugiu e due nsalate  e quella chi un vofe da nulla  per diu santu  vogliu chi ella dormi a u violon cu so sumere    altri a facenu  un saraghiu chi ed e u u scemmu    maria dum    megliu faristi a sbrugliatti   ors antonu    lascia corre  viderai a parte da oghj  dammi un pezzu di furmagliu chi mi ne vogliu anda   maria dum    un ci ne e furmagliu  ci e finitu eri sera     or antonu    mancu furmagliu  quessu po in corsica un mancaia mai  ma vai  un face nulla  mi ni falaraghiu par sf lazare e forza truvaraghiu qualchi piazzaghidla chi un avera pagatu un so bancu e cusi mi facciu da un mezzu furmagliu niulincu   ors arnfone sorte    maria dum   sola  e vera purtantu  chi vita facciu e u qui  pudia travaglia babbu e nviammi a i scoli di sarte fin a quindecianni   par ghiugna a lava i buttegli duve picon  serva  so una serva e micca di piu  povaru babbu  si ellu a sapissi  ellu chi era cusi fieru di me  tuttu que pe a pazzia di ven in francia    se era a ricumincia  u vulia fa corre e u ad ors antone cu u so mpiegu  ma ntantu ci so e bisogna a fa figura   sente suna du ori  mi chi so du ori  ohime   quella scimpiona di confremaitresse mi si ha da magna  e peghiu e chi mi hanu da ritena un francu pa u ritardu  lasciami corre   si ne va   fala u tindonu   parlatu di sarte marcu troncarrocchia
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     amore bruno  alta signorina l  a   da bastia   bella fanciulla ad occhio sfavillante   alla lunga chioma bruna   non saresti tu ja luna del nottambulo viandante    e questo son io che pieno a paura tuttodi vo sconsolata da te  volte  alluminato per la montante via oscura     e non saresti poi  bella fanciulla     l ago rosso avelenato ghe ha punto quel malato che ora affanna in sua culla    e questo son io pieno ad amore che invano mi dibatto tale un cavallo matto che ferito saria al core     e poi non saresti la sospirosa la pura e cosi bella    melanconica donzella che di amor non si riposa    questo soh io che ti amo di amor forte amore casto  o lucia   che per averti tutta mia lottero di fino a morte   
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     lettara  di a guiderdoni  pueta di moca croce chi la avia lampatu una sfida  caru amicu guiderdoni chi ne state a moca croce   u pueta di aitoni u chiamasti ad alta voce   vimustraste da luntanu tantu intrepitu e feroce   dopu ave chiamatu tantu festi cume la curnacchia   face sente lu so cantu quandu ghie sottu la macchia  tantu e nera di prisenza   tantu e goffa quandu racchia     e passatu piu di un mese che vi aspettu in cumpagnia   da voi fu fatta palese una sfida in puesia   nellu piu bellu camminu vi fermaste a mezza via     ne partiste assai decisu   furiosu a briglia sciolta   vi aspettava a lu impruvisu   di scuntrarvi a la me porta v avaria fattu la intrata cun maniera assai disposta   voi parlaste di scummette in presenza di li abitanti   cose nun si ne prumette ingannandu a tutti quanti   perche dopu i cari amici si ne ridenu davanti   a scummessa vale a tene   e se un basta ci ne e ancu   se la lotta a voi cunvene di truvarci inseme a fiancu ava che lu tempu e bellu scalda u sole rossu e biancu   pruvucaste una timpesta da fa trima terra e inare   cume tigara in furesta voi circaste a   u chiamaste da luntanu in di un modu originale   siete dottu e cunisciutu   vale ancor di esse prudente  diventaste chetu e mutu in presenza a tanta iente   si piatto la vostra voce senza piu parla niente   un mi fate sta impacente abbassate la baretta   rispundite amicalmente senza puntu di vendetta   si tene la so prumessa quandu la parola e detta   e u ringraziu a caracutu cu le persone sincere   possanu stane felice ecanta tutte le sere   un mi mettu micca in dalu si ell e persu lu sumere   
+  s
+    </p>
+    <docAuthor>
+     Minicale
+    </docAuthor>
+   </div>
+   <div n="11" type="poe" xml:lang="co">
+    <p>
+     risposta a buvone di occhiatana  a to lettara  o buvo   mi e piaciuta  e ti la dicu   ma ssu nome  e camarchio   un ti ha leiu lu villicu   anzi credu  o mascaro   che tu un sia lu mi amicu   sese biaggi  ca si no di davide si nimicu   ma quessa   un la possu erede   chi nimichi un ne ha manc unu di buvone u bravu crede   di piattati ti pigliede u capricciu si cumunu   ma prete tittu ci vede 
+  s
+    </p>
+    <docAuthor>
+     P. T.
+    </docAuthor>
+   </div>
+   <div n="12" type="poe" xml:lang="co">
+    <p>
+     a mimia  parchi lu amicu g  giannoni si ne possa ghiuva  e ad ellu chi eo dedicu sta serenata   mimi  mimi  la sera vene   giru e voltu sbandunatu   tu chi mi ti hai jesciatu quantu tu mi cresci pene   e solu solu volu  finu a te    un pensa mai  mai che a tene lu mio core ammalatu    di ellu ti ne si scurdatu ellu di te si suvene    e stende volu solu  finu a te    st assente la santa preghera   ninfa di mele e culatu    pensa quantu ti aghju amatu da la mattina a la sera   e sola sola vola finu a me    mimi  mimi  vene la sera   giru e voltu sbandunatu    che tu mi ti abbia lesciatu a me un mi pare vera   allora vola sola finu a me  
+  s
+    </p>
+    <docAuthor>
+     Filerunu
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

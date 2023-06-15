@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1923_16
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     la corse est riche elle fut menee a rebours la croisade en faveur de l ile meconnu a rebours et avec un manque absolu de psychologie sociale la corse est pauvre la corse se meurt il n y a rien a faire en corse pays exploite inexplicable etc et les ai je assez souvent entendues ces balivernes de pieds plats en quete d un ratelier tout garni dans l attente d une pluie de cailles orties en ai je assez vu de ces mendiants parlementaire et autres remplis des meilleures intentions mais bouches comme des flacons de coty s egosillant a quemander des aumone pour la souillon de haillons couverte par la misere et la faim anemie i depuis quand stimule t on les appetits des brasseur d affaires ou meme la sollicitude des pouvoirs publics en faveur d un pays en le presentant comme aride productif misereux inhabitable depuis quand les seigneurs de finances se derangent ils pour s occuper de gueux aux gardes mouillees en avez vous souvent vu des millionnaires explorer les mansarde amants ahuri d une terre trop belle vous avez fait de la sale besogne de la besogne de cretins la plus belle celle qui devrait enroler et captiver attirer et retenir celle dont on ne devrait s approcher que pour ne plus s en detacher vous l avez presentee galeuse et puante ulcereuse et pourrie lepreuse deliquescente et ses plus devoues admirateurs ne la connaissant que par oui dire s en sont detournes decourage degoute par le hideux tableau de toutes les tares evoques par vos boniments de mendiants sans vergogne il est temps de changer de methode finies les lamentations des batards coreens en quete d un os a ronger fini le temps des mensonges idiots et criminels qu on dise la verite seule qu on la clame il est faux d affirmer que la corse est pauvre elle est riche tres riche vous dis je elle est la plus riche des iles ensoleillee et sa terre sa terre benie qui demande a peine le son antediluvien de l traire pour donner 50 pour 1 est a meme de gaver pour peu qu on la gratte les plus difficiles a satisfaire a meme de nourrir une population quadruple de celle qu elle nourrit actuellement or vous l avez peuple par vos mensonges inconscients ce pays o pourtant il fait si doux vivre force d affirmer sa misere a tout venant vous avez suggere a l habitant de la plaine tout comme au montagnard le degout de la terre natale pour en faire quoi des parias qui s violent vingt cinq et trente ans durant sur des rond depuis sous un uniforme avilissant au fond des prisons et des gagnes sous des cieux ternes ou bruyants avec l unique espoir de retourner creves mais pourvus de la retraite rendre a la terre du pays leur pauvre ame virile jadis avachi par trop d humiliations et de regrets 2000 francs 3000 francs de retraite apres vingt ans d exil d amertume de beau resultat quel fier ideal pour les descendants de sampiero et de paoli ouvrons les veux o mes freres egares notre terre est unique en richesse en beaute tout vient chez nous et ce tout peut donner un revenu satisfaisant capable de compenser largement l illusoire re trait dont s raffolent nos femmes inconscientes renoncons au kepi au galon a l uniforme au rond de cuir restons chez nous travaillons savourons ensemensons plantons plantons souvent que le maquis cede devant nos efforts et soyons certains que le sol qui substance un arbousier un kyste une bruyere est capable de nourrir un pommier un chataignes olivier un figuier un cerisier un arbre enfin lequel vous assurera quel qu il soit sans grande peine apres dix ou quinze ans d attente en liberte mieux et plus qu une retraite de douganier ou de garde chiure et notre travail restera il ne disparaitra pas avec nous comme notre titre de pension il restera pour nos enfants pour nos petits enfants pour nos neveux et nos petits neveux notre corse verifiee par notre sueur assainir par notre presence embellir par nos efforts toujours plus riche cessera de tendre la main d etre la gueuse en haillons dont on se detourne
+    </p>
+    <docAuthor>
+     Cervoni
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="fr">
+    <p>
+     traditions dans une polemique entre courses rien n est plus surprenant que de voir l epithete traditionnelle preceder immediatement une signature double ment continentale tradition vite etablie que ces immigres jouissent de l affection et de l estime dues tant a leurs merites qu a leur ascendance maternelle nous y souscrivons de grand coeur mais qu ils se melent de donner le ton dans des querelles sentimentales ou les seuls descendants des courses du 19 siecle ont logiquement droit de parler cela nous parait inadmissible voix consultation certes deliberation non m suite vauquelin estime que votre fierte traditionnelle ce notre est savoureux n est ce pas ne s aurait s accommoder de jouer les jeremiades et les mendiants il dit cela au sujet de ro re monument de pontenovo ou voit jeremiades ou mendicite dans cette manifestation purement corse les organisateurs prophetisent ils 4 des malheurs ou mendiant ils ronds de cuir ou epaulettes point moins que jamais s il est une tradition qu ils ont le droit de revendiquer c est celle du corse homme libre s il en est une qu ils rejettent car elle est non point autochtone mais importee comme m suite vauquelin c est la tradition qui chante les joies du fonctionnarisme et la sollicitude de la metropole nous ne voulons rien de personne et ne sollicitons point sous les arches du pont sanglant d autres serveurs que les notres i se serve dune date glorieuse de votre toujours histoire locale pour essayer d eloigner de la france l isole inflige comment cette journee peut elle etre glorieuse pour la corse et pour la france a la fois puisque la bataille etait livree par des francais acheteurs envahisseurs aux courses vendus et revoltes fonte vu ne sera pas un mon ment de haine mais de souvenir la difference est grande elle pourrait etre mince c est affaire entre la corse et la metropole mais genante pour ceux qui ne savent s ils sont d abord courses ou d abord francais la tout est la on peut aimer la france et l admirer et risquer la mort pour elle sans abdiquer le sentiment national corse m suite vauquelin comme tant d autres joue sur les mots il confond regionalisme et separatiste tout simplement parceque le sentiment regionaliste lui est interdit de naissance
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="2" type="his" xml:lang="co">
+    <p>
+     torna a vignale  u sgio pepetru parla e dice  la altra sera  a la attracchja tutti lu paese era inn affaccu   si sintia 1 sfru fru di un ottomobillu chi sullivava un pulbericciu raru e spazzava da u stradone ghjallise e purcelli  pianto a verde mascina   listessa a una jumenta di diavule   e ne sbarco u sgio pepetru sfarracavallu  cu  so pardessus ferinosu spicchjettoni gialli in cera vergine  e buttine luccichente cume spec hj  una duzzina di mane si precipitonu aa stringhje e manu vantate di u sgio pepetru  nativu di u paese  ma spaisatu dipoi chi ella ha fattu furtuna inn america  ava  a si prumena da nizza a bastia e spassieghja cu i capizzoni  sigaru in bocca  e bacchetta a la manu     je viens  a u nom du comit du retour a la terze  vous faire une conference  disse u sgio pepetru  cu bona  razia     un ci ne e bisognu qui  rispose ridoni  ziu  barbirossu  ma parla  puru  ti steremu a sente  sai a piu bella cunferenza  seria quella  corta corta chi feria tira subitu a nostra funtana  e un annu chi ella ha da tira  e fatt e lesta e vn tira mai   tutti li omi intronu in butteia di zia maria  le oratore cummando i bucchjeri e parlo  culture  agriculture  terre  machines agricoles  retour  grenier de rome  terre      ha reggio u sgio pepe  disse in cunsiglieru  anzianu ciandarme   omu travagliava a terra  pal     e chi femu ca travaglia terra si livo ziu billigone  aghiu cinquant anni di travagliu e mi pare di unn essemi micca arricchitu cu u zapone   etu  e tant altri  cu poca fatica di spinu e di cerbellu  oghje state be  noi un tucchemu mandati ne solli  da u   guvernu    si travaglia a cripera da un capu di annu all altru e un si vede mai che miseria   i soli chi agghjanu arrizzatu una casa  so i pinsiunati o quelli chi so stati inn america  cume cumpar pepetru  e quelli chi lu avianu arrite  cu mulini e chjosi tesi a u sole  oghje so disgraziati cume i vai  eccu a verita  dicu chi in corsica u bastardu si magna u mesticu  a natura suprana u travagliadore e un si po rivince     un dicu mica cu se mascine  ma  e mascine qual e chi e po cumpra   e poi  un ci e piu nimu  ne per mascine ne per boi       torna a vignale che un bellu paese      ma  state bassu   avete da fa rientre quelli chi so fora per da di manu a i zapponi rugghjnosi e a li armacci fracighi  per fa stu mereculu  ci vole  une forcemmajeure  cumell u dicia quellu prete  quelli chi ci simu  ci lagnemu  e quelli chi stanu be e megliu fora rientreranu   alo  alo   finimula      fate nanzu un cumitatu di u travagliu e ingaggiate i capitalisti corsi a da travagliu  travagliu cu guadagnu fissu e sicuru  di inguernu e di istate  ma i capitalisti si tenenu i solli in banca  e un creanu un industria ne una lusina mancu per more   i nostri zitelli  e nostre donne  un guadagnanu nunda perch e un ci e ne lusine  ne industrie  ne cummerci  per i nostri loghi  quand ellu si apre un travagliu e subitu intermessu  chi ellu sia ligname o minera  ci avemu qui in bizzani  una minera ricca  e facile a spluta  ma si posa  e quelli chi hanu denaru un ne e jettanu in corsica   a me mi pare chi noi siamu propiu scugnurati da u  patre eternu   sara sempre cum ellu dice lu uffiziu  ferra miseriz ct tenebrarum   u sgio pepetru  parlo torna di  mascine e di eletricita e di engrais  ma  capi  da per ellu  chi ellu zappava ind aqua e so parole e si ne purtava u fiume  tutti i vivi e li occhj accesi di li omi imbicchjati  da i stanti e da u pinseru paria chi elli dicissinu a le oratore  or torna a vignale chi e  un bellu paese  
+  s
+    </p>
+    <docAuthor>
+     Martinu Appinzapalu
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

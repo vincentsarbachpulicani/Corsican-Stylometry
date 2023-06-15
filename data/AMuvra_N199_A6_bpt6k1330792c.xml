@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330792c
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330792c
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 199 | Année 6
+     </edition>
+     <date>
+      1925-04-12
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Sest' annata — Numaru 199 Esce a Dumenica D  Esce a Dumenica Dumenica, 12 Aprile 1925  - GIURNALE DI E PIEVE DI CORSICA  ca RRMEINR , . . . 12 franchi fn" Gorsicà Jeu  In Corsica  In Francie  A PEsteru ..,..........P5  U Numaru:4 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 38. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     a sacra scrittura  lu erburu si cunosce    allo   alio i u sgio de paoli  direttore di a   patria e liberta   corsu di u sole  in paradisu  si el  lu vi piece     eccuti     uta parulluccia  di grazia  cullerebbe vulenteri a rendevi visita  ina   da corsica    ci e troppu strapazzu     a fatti  quale site  e chi ci e di novu      so rustincu  persu ind a muntagna di sant anghjuli  e lettore di   patria e liberta       ah  tutte e mio felicitazioni     bulerebbe scrive un articulu pe u vostru giurnale  storia di da e nutizie di u paese a voi e a tutti i fratelloni     ne serebbe cuntentu       a capiscu  ma ci e tant a di chi un so da duve principia  averebbe un titulu    si ellu pudess anda      videmi sempre       per cunosce lu erburu ci vole a vede i so frutti    un esprime be e vostri opinioni   a situazione di un paese ghjudicatu da li effetti di aso direzzione      e bulerestete un idea per sviluppa le affare      un avia curaggiu di dillavi     ma i suggetti un mancanu  parlateci  per esempiu  di e scole di corsica  speru chi elle   saranu florisi        florisi   a la oritrosa si  a i vos tri tempi quelli chi vulianu da le istruzione e le educazione religiosa a i so figlioli a pudianu da   oghie  piu  i preti un ponu piu fa scola  simu obligati di lascia falzifica la intelligenza di i nostri zitelli in le scole laiche  i stitutori hanu le ordine  in fatti  di un di ne male mi be di dio  piuttostu male  cume si u creatore fusse un stranieru pe a sucieta  pe e famiglie  per li individui  milioni e milioni  so  stati spesi per fa belli palazzi  chiamati groupes scolaires  case tamantoni induve tutti i sculari deven anda a fassi ingunfia a chiocca  le istruzzione e dunque laica  e  gbligatoria ed e per quessa chi nimu sa piu ne legghie  ne scrive  ne parla u corsu  nimu cunosce piu qual eranu i nostri antichi     ancu quessa      afcu quessa  si  un si sente vanta che a gaule i gaulois  vercingetorix e tant altri salvatichi  i quali serebbene stati i babbi di i corsi    les gaulois nos ancetres cum elli dicenu       allora una parulla sopra e cunsulte          e cunsulte   un si sa mancu piu cio chi ellu eranu e vulete chi io dica cio chi elle so  voi chi cu  mandarete  e pudete fa   ma ava da lu ultimu spazzinu a u primu capu patrone  tutti cumandanu o volenu cumanda  ci e pretensioni in ogni scornu e di ogni sorte  ancu cela di fa culla la acqua a yinsu    unsigli tutti ne danu  ma nimu re vole riceve   de tuvate sopra a a religione      simu in republica  vi dicu       bella raggio   ancu qui  in paradisu  simu in republica  ma ci si sta benone  ci e ordine e prusperita  un credu chi ellu ci sia disaccordu tra a republica e a religione  puderestite scrive u vostru articulu sopra stu puntu  e cuntaccii belli resultati materiali e murali di a credenza cattolica inuna nazione chi a mette in pratica          disgrazia  o sgio de paoli  disgrazia  signore  un ci ne e piu per sti loghi   hanu sguassatu u so nome da pertuttu  u prugressu ha spintu e stelle e cristu un si ne vede piu ne ind e scole  ne ind i tribunali  ne ind e famiglie  lu hanu lampadu ind u focu     chi mi dite     avi dicu chi ghie  ava ci insegnanu una religione nova   quella di manghia be e beie megliu  senza fa piu attenzione a u duvere murale chi un esiste    a chi ha po  ha po    dice u pruverbiu  e vi pregu di crede chi ell e praticatu  ma cumu si deve  in cunsequenza di sta teoria un si franca piu nulla  ci e un piglia piglia  un accabiglia generale     mi interessate assai  ma infine restanu sempre  speru  e nostre muntagne  i nostri boschi prufondi  e nostre belle  pianure cuperte di spighe di oru  i nostri paisucci tantu cari  quessi  almenu  averanu prusperatu in be  scrivite qualcosa sopra di elli     ancu custi  ci e roba negra  tutt ha frebba  e malatu  i sigoni cantanu da mattina a sera ind e muntagne  boschi e castagneti  e pianure so diventate foci o padule colme di zinzale  i nostri paesi so spupulati e spugliati di ogni cosa  si ellu un  ghiunghie u battellu  di u   frassinettu  in ottu iorni ci murimu tutti di fame  perche qui un si trova mancu piu un pane di orzu     e un ci e nimu per fa cessa stu disordine        tutti imbasterditi  o sgio de paoli  in pulitica e in  religione     cosa e divintata a mio razza     a vi dicu  in pulitica  e vera  ci avemu unu di e vostri figlioli chi ha curaggiu di di e quattru verita quand ellu ci vole a dille  si ha compru una   muvra   chi da curnate secche in qua e in la  ma  e solu contr a tutte e granocchie di u pozzu schiffosu  un pudemu ave speranza che quand u a parentia muvrigna sera arradigata  cioch un po terda     e in religione      in le ordine religiosu poi  a situazione e ancu piu pessima       un aspettava a sente sti lamenti        so piu che   lamenti  voceri tristissimi       in modu che  in vece di belli frutti u vostru erburu        e cusi  so spinte ancu e candele  fin a qui i cattolici hanu avutu peura di a cligna framassonica  diventati bigliacchi in publicce in particulare si so lasciati pone a somma di a schiavitu senza erpia     storia di un ave storie    cum elli dicenu tutt i cittatini     e a liberta     liberta  un ci ne e piu che pe i traditori  i desertori  i ladri  i scrucconi  i falzi e cumpagnia  vi diceraghiu ancu chi ind i tempi li inculpati di assassinamentu si chiamavanu assassini   oghie ne e facenu preffetti e i ci mandanu in corsica  eccu cum ellu si capisce quindi le onore e a liberta         liberta   un ci e piu ne onore ne liberta  ma avete un erburu basterdu  e qual e u scalza cane chi vi cummanda     e una donna  si chiama marianna  una madrigna senza core chi ci spolpa e distrugghie poc a pocu  tuttu cio chi ci era di piu bellu in moi   onore di a religione  di a patria e di a vera liberta     allora  un mi dumandate tanti cunsigli  e un ordine chi io vi do   mandatela a spassu  
+  s
+    </p>
+    <docAuthor>
+     Rustincu di Loretu
+    </docAuthor>
+   </div>
+   <div n="2" type="poe" xml:lang="co">
+    <p>
+     so  corsu  binadette le usanze antiche e sante  careai nostri babbo  e di ogni famiglia  cume a legge di diu  legge custante   grazia ad elle a sumiglia di i vecchi trapassava in de izitelli   eranu spirtu  lume   reguia di u custume   cuscienza di i majo e di i chiugulelli   impronta di natura   chi dava a u corsu a so vera figura   ava falanu anch elle rent a e fosse cui vecchi chi e tinianu tantu care   quasi quasi cume osse di e so osse   cusi da u monte a u mare la anima corsa perde  a trattu a trattu   a so fisonomia   andatu in frinisia     furasteru ase stessu  e suddisfatta mentre in miseria langue    mugghia u corsu    so gallu puru sangue    ma no chi ne anse ghiallu  se  piugone  si tu  vigliaccamente  ti arrussusci   di i f antinati  contra ugni ragionee questa  un la capisci     e a piu maj di tutte e to disgrazie      di cio chi tu se  intantu   mi ne arbeggu da u cantu   sintendu di mersi  invece di grazie   lnveee di ije  ui   chi diavule ti ha fattu sturduli    soca tu  scemu  hai trafalcatu lu arcu  chi muta e donne in omi e    viceversa   e un bonu ciarbellu u fa di sennu scaren  a dignita li hai persa   a dignita  chi un ue pane ne oru   ma cuscienza alta e forte   chi scansa e strade storte   li hai persa rinunziendu an to dicoru   tradendu  a chiocca zerpa  di grilli  u sangue e a lingua di a to sterpa   buio duve di tene cara a francia  postu chi tu ti sente ancu francese   ma un la fa trafala tantu a bilancia da a so parte chi uffese  sianu e sacre ragione di a mischina nostra mamma e nutrice   ella  benche infilice   e sempre mamma ed e sempre riggina  sai  prima ce a legale fu stabiliata a legge naturale   lu amu anch e a francia ammiru a so pussanza  e so glorie  i so eroi   anch e  ci tengu  sinceramente  e a mo citadinanza  francese  ma un cunvengu  di duve solu a a francia tutt interu  u mo core   a ella sola   e da u veculu e a tola     diminticheudu u mo paese veru   no  un ci veggu a sta luna       no  di mamme  per me un ci ne e  ca una 
+  s
+    </p>
+    <docAuthor>
+     U Babbuziu
+    </docAuthor>
+   </div>
+   <div n="3" type="let" xml:lang="co">
+    <p>
+     lettara da roma  roma  24 marzu 1925  o scio direttore di a muora   pirmittile a un corsu autenticu  chi da longhi anni bive luntanu da u so amatu paese  di ralligrassi cun boi di a campagna chi minate pe a propaganda di a lingua corsa  povara  lingua corsa cusi diminlicata e maltrattata da i so stessi figliuoli  da che i corsi hannu incuminciatu a friquinta a francia  pare chi si virgognanu di fa sente a so parlata  e se qualche bolta si esprimunu ne a propria lingua  diu miu   quanti sprupositi  a forza di parla e scrive francese  hannu vulutu infrancisa ancu u corsu   di modu che u corsu veru sonu pochi quelli che ava u sannu parla  pegghiu poi scrive e ancu legghie  e di altronde cumu si fa a scrive ve u corsu  quandu un si studia piu a so lingua madre  chi e lu italianu   hannu avutu un gran tortu i nostri antinati di lascia supprime ne e scole di u nostru paese a lingua italiana  avarianu duvutu fa elli cu a francia cum hannu fattu i maltesi  cull inghilterra  impara ciue a lingua di a nazione duminanie senza rinunzia a propria  bidete quanta piu savia e la italia  che secundu a legge   gentile  sopra le istruzione pubblica ha prisciittu  che ne u pubblicu insignameniu si abbia un particulare riguardu a i dialetti lucali    i dialetti lucali  boi mi insignate quante finezze cuntegunu  chi nissuna lingua madrc ha mai pussidutu  e parcio che ugnunu parla piu bulinieri a lingua di u logu  duv ellu e natu  truvandula piu cunfacente cu u propriu geniu e cu i proprii gusti  quante volte un mi e accadutu nei mo viaggi attraversu la italia di sente ghiente di rispellu  istruita e magari aristucratica  lascia da parte lu italianu e parla di priferenza u dialettu piemuntese  lumbardu  rumagnolu  napulitanu  sicilianu ecc  ecc   sicondu a so regione di origine  tant e putente le amore a a lingua di u dolce logu  natiu  siate dunque mille volte binadettu voi  a scio direttore  che bi sete prupostu la opera santa di impara i corsi a parla  a scrive  e a leghie cumu si cunviene a so propria lingua  o  leghia nantu a muvra u vostro appellu a cummemora u 5 aprile prossimu u nostru gran   ginarale pasquale paoli   mi aniscu anch eju ben di core a sta cummimurazione  e par le uccasione bi mandu una piccula nota sopra le urigine  di a famiglia paoli chi agghiu trascrittu circa ire anni fa passandu ca gubbio  a cittadina graziosa dell umbria chi ricorda u lupu di i fiuretti di si  francescu  eccula    paoli  fu questa una casa di ricchi mercanti di lana  antichissima  e della quale si ignora le origine  quantunque i paoli non abbiano mai esercitato cariche importanti nel governo della citta  ad eccezione di qualche consolato nei secoli xvii e xvim  pure merita di essere ricordaia la loro famiglia  perche da un ramo della medesima trasferitosi in corsica  ad esercitarvi le arte della lana sorti jl famoso generale pascale  paoli  che fece pagar caro alla francia l acquisto della sua isola nel secolo scorso  questo grand uomo si compiaceva di essere oriundo di gubbio  ed il renosati  che gli fu coctaneo  assicura come piu volte scrisse  a i suoi parenti eugubini lorenzo e francesco paoli  perche gli mandassero un loro figlio da adottare  ma non pote ottenerlo   ultimo di questa famiglia in gubbio fu carlo paoli morto nel 18o3  la cui abitazione era quella che oggi appartiene al sig  egisio cecchetti  il municipio nell intitolare via paoli quella che da piazza vittorio emmanuele conduce a via baldassini  volle sicuramente rendere omaggio al nome dell illusire generale     dalle memorie e guida storica di gubbio dell avvocato oderici lucarelli  pag  311  sommario alfabetico delle famiglie storiche di gubbio  stampate a citta di castello  si  lapi tipografo editore 1888    e cun questa nota finiscu prutistandumi vostru affiziunatissimu cumpatriota 
+  s
+    </p>
+    <docAuthor>
+     U Balaninu
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="co">
+    <p>
+     sangue corsu  quandu gece marchetti  u mio zierone  capitanu in ritirata  si era un zarafattulu di dodeci o tretec anni  un zampurlinu tamant e dui solli di casgiu  altu duie spalmate e lergu tre dite  collo in corti  cun mama  a so surella  a bendisi una somachiola di vinu   si messe in piezza di paoli e qui  cu a ferachiola insorinulita aspettava i compratori  ad altita  un omatale  amadratu  altu quant e un piobbu  una spezia di chi ne so co  una rozza di genderme cu i panialoni turchini e i curighioli lerghi cusi  si avvicino manganendusi e po calo a manu nant a le odre      chi si vende  o ciu      binu     ci si passatu a li ociroi     di sicuru  chi io ci so passatu    mostromi a to ricevuta     a ricevuta beccula qui  disse quellu chi avia da esse u mio zizi vint anni dopu  i  epo si messe a sbuliga in stacca  cerca  sbatti  cionfa  tira  caccia u mandile  a curtella  a pipa  u zenettu ma a ricevuta un si sculinava   lu ercefalu cuminciava digia a sgrignula sperendn di ave faltu pesca  dop ave sbatteriatu in tulti i catagnoni a ricevuta ingronchiulitu esci     hai a ringrazia chi tu li hai trova    osinno      e si io un li avissi trova po chi mi avereste fattu       chi ti averebbi fattu   ti averebbi sesitu le odre cun cio chi e nentru   ne piu ne menu     ed eo    bi averebbi lampatu a trippa nant a i scherpi       hi      chi puzza di morti    e zitello  
+  s
+    </p>
+    <docAuthor>
+     A. F. Tristani
+    </docAuthor>
+   </div>
+   <div n="5" type="art" xml:lang="fr">
+    <p>
+     le second centenaire de la naissance de pascal paoli depuis la guerre  la mode des centenaires et meme des cinquantenaires a repris avec une intensite et une ferveur qu elle n avait jamais atteintes il ne faut pas trop nous en plaindre chacun de ces anniversaires de naissance ou de mort est souvent l occasion d etudes interessantes sur le grand homme dont l on commemore le souvenir parfois meme de bien infimes personnages pour ne pas dire d illustres inconnus beneficient de ces periodiques celebrations   dans le nombre respeciable des centenaires actuellement fetes la presse francaise semble en avoir oublie va qui pourtant ne merite pas une telle negligence car il est d importance pascal paoli le pere de la patrie est ne le 5 avril 1725 a la stretta de morosaglia dans la pieve de rostino cette date est celle que porte l inscription d une plaque en plomb soudee sur la partie superieure du cercueil de paoli et que l on put lire lors de lexhumation effectuee le 31 aout 1889 dans le caveau mortuaire de l eglise saint pancrace a londres  je n ai pas l intention de narrer ici meme rapidement la noble carriere du heros corse je voudrais seulement inciter le lecteur a s incliner respectueusement devant cette noble mierhoire et a mediter quelques instants sur cette vie tout en tiere au service de la patrie il n y a pas dans toute l'histoire corse riche cependant en gloires magnifiques de plus pure et de plus emouvante figure pascal paoli qui aurait pu s il leut voulu devenir le premier ministre d'une grande puissance ou meme je premier capitaine de son temps a tout sacrifie a la sainte ambition de liberer son pays du joug etranger il a donne la liberte a la corse et en des temps troubles a la fois par la guerre civile et par la guerre etrangere il a reussi a doter son pays d institutions democratiques qui ont fait l admiration du monde et qui ont du reste exerce une influence indeniable sur les constitutions americaines et francaises posterieures il dut lutter contre les competitions de rivaux corses tels que les matra  il dut combattre la resistance organisee par la republique de genes qui se considerait comme souveraine de l ile  il dut enfin lorsqu il croyait sa tache a peu pres terminee  s opposer aux entreprises de louis xv et de choiseul qui voulaient detruire le resultatd efforis patients et couteux par une invasion et une occupation que rien ne legitimait  malheureusement choiseul refusa de prendre en consideration les propositions du general pontenovo mit un terme a cette mesentente et a la courte mais glorieuse guerre qui suivit    lorsqu en 1790 paoli constatant que la france devenue libre par l effet de la grande revolution s engageait a etendre cette liberte a la corse il repondit a fappel qu on lui adressait de versailles et il quitta l exil de londres pour rentrer dans son ile natale il acceptait silanouvelle constitution toute impregnee de liberte serait observee des deux cotes il est deplorable que les tristes evenements de 1793 et en particulier l etablissement du regime de la terreur aient amene paoli a se considerer comme degage de ses promesses la terreur  etait une atteinte flagrante a cefte liberte que la corse exigeait qu elle avait conquise les armes a la main a une epoque ou presque toute l europe subissait le joug du despotisme et voila que la convention envoie dans l ile des commissaires munis de pleins pouvoirs voila qu elle cite paoli a comparaitre a sa barre qu elle le decrete d accusation et le met hors la loi le pere de la pa trie hors la loi ce ne fut dans toute la corse qu un cri de protestation et de reprobation la tres grande majorite des insulaires se rangea du cote de paoli et ce fut alors la rupture inevitable  dans le chaos qu avait produit la revolution notre pays se tourne vers l angleterre  mais l hostilite contre la convention n impliquait aucun sentiment de haine contre la france aussi lorsque trois ans apres les anglais evacuerent l ile bonaparte dont la renommee allait grandissant et dont les corses etaient fiers d'etre les compatriotes put facilement et sans rencontrer de resistance serieuse faire reconquerir la corse par les troupes qu il avait detachees de l armee d italie  paoli prefera demeurer dans son exil digne et toujours entoure du respect et de l admiration de ses concitoyens cette attitude etait la seule qui lui convint du reste napoleon ne le rappela jamais pas plus d ailleurs que pozzo di borgo pour nous deux cents ans apres la naissance du grand et indomptable patriote nous ne devons pas oublier qu il a permis a son pays de gouter pendant une quinzaine d annees les avantages de la liberte qu il lui a donne une constitution une universite une armee et une marine uns imprimerie et une monnaie nationales qu il a assure chez nous la paix civile et par une entente avec le pape la reforme religieuse  ce sont la des services et des bienfaits qui ont un prix inestimable dans le coeur de tout corse il doit y avoir pour pascal paoli une placea part une place sacree nous devons un veritable culte au heros qui a donne a la corse la eonscience de sa personnalite nationale et de nos jours tout en gardant le plus sincere loyalisme francais nous avons le devoir tres doux d'honorer la plus belle incarnation du patriotisme corse pascal paoli
+    </p>
+    <docAuthor>
+     Paul Graziani
+    </docAuthor>
+   </div>
+   <div n="6" type="let" xml:lang="co">
+    <p>
+     u teatru di a muvra  aiacciu  u 24 marzu 1925 caru direttore   lu altru iornu so cullatu in santu petru e aghiu vistu u mio cumpare jannettu  u sampetracciu    lu aghiu dumandatu a so  chi ellu be era di u so teatru  mi ha rispostu chi ellu ha faltu a cummanda di una piccula parte di u materiale e chi fra poghi jorni riciverataule e travi e subitu pigliera sega e martellu e principiera a fa a so scena   in tantu pripara i so artisti a ripete una pezza chi ellu ha dighia fattu i sa pezza chi sera raprisintata da artisti corsi  un cumprende ca parole e fatti viramente corsi   ha fattu dino qualchi canzone belle   caru direttore  bi pregu di crede chi cumpare ci mette tuttu u so sape perchi a riescita sia sicura   ci vole chi tutti i cursisti faccianu u pussibule e le impussibile e mandinu danaru a e nostru amicu perch ellu possa cumpra tuttu so chi civole per munta u teatru di a muvrachi e u teatru di tutti i veri corsi e di quelli chi volenu chi a lingua corsa sia sparta   eiu so un poaru disgraziatu ma feraghiu le impussibile per manda cioche possu  so in corsica ma un ci so ca di pedi  prestu speru di esseci di pedi e di mane    bi salutu
+  s
+    </p>
+    <docAuthor>
+     U Corbu
+    </docAuthor>
+   </div>
+   <div n="7" type="art" xml:lang="fr">
+    <p>
+     chi belle manifestazione pe a difesa cunfessionale  quandu vidaremu tale manifestazione pe a difesa di l interessi vitali di u nostru paese a corsica  aux corses morts pour la corse c est en mai prochain qu aura lieu sur la terre benie de pontenovo linauguration de la croix elevee a la gloire des heroiques corses morts en defendant le sol sacre de notre patrie cherie i remercions du plus profond de nos coeurs notre vaillant ami rocca directeur de a muvra ses valeureux collaborateurs et u partiti corsu d azione d avoir pense a reparer un oubli qui etaitune honte pour les corses  au e PS jusqu ici on s etait contente de vEURnerer la memoire des corses moris au service dela france on faisait bien mais il nous parait que penser aux corses qui ont sacrifie leur vie pour la corse est bien aussi ceux ci comme ceux la ont droit a toute notre gratitude n  nous devons conserver un souvenir imperissable de nos chers heros de pontenovo et souvent meme avant d accomplir certains actes nous devrions commencer par nous demander si eux agiraient comme nous  c etaient des hommes epris de liberte ennemis de la tutelle ils ont offert en holocauste leur sang a leur mere la corse ah ils lai maient d un amber autrement dz sinteresse que celui d'une bande de parasites et d avachis vivant aux crochets de quelques ignobles politiciens en mal d arrivisme  les glorieux corses fombes du champ d honneur de pontenovo nous sont sacres parce qu ils ont lutte pour file qu ils voulaientindependante  depuis 156 ans lesang des corses a coule partout ou le drapeau tricolore etait engage qu avoris nous obtenu en retour  pas grand chose  nous constatons avec peine le coeur serre quela france n a pas rempli son devoir envers la corse elle la frate en parent pauvre  c est pour cela que l hommage que nous allons rendre a nos heros doit etre unanime l ile de beaute entiere devra y prendre part  pour une journee oublions la politique ne pensons qu a eux oh ce rest pas long une journee le lendemain dechirons nous s ille faut mais le 9 mai prochain communions tous dans une meme pensee pour nos chers morts faisons treve de tout ce qui nous divise   nous esperons que fous les groupements corses de paris sans exception personne ne detenant le monopole du patriotisme corse se feront un devoir d etre representes a pontenovo nous en connaissons un qui vient de designer deux de ses membres a cet effet les deleques des voltigeurs de la bataille corse seront presents  en ferminant je reviens sur lidee que j avais suggeree au mois d aout dernier qu approuva notre confrere la nouvelle corse de jean maki et qui consistait simplemeut a demander a tous les corses habitant l ile ou ailleurs une minute de recueillement au moment de l inauguration nous la renouvelons en priant les organisateurs de la prendre en consideration ef nos confreres de la soutenir
+    </p>
+    <docAuthor>
+     Antoine Simoni
+    </docAuthor>
+   </div>
+   <div n="8" type="art" xml:lang="co">
+    <p>
+     a spigazione  viaggiava  pochi mesi avanti a so morte u duca di orleansin corsica un si immagginendu allora a prossima fine chi una manu invisibile gli seri via adighia a sgumentu di lumane speranze  e sintendu chi paoli era ramintatu cu piu riverenza e gratitu  dine da  corsi che le imperatore napulione ne mistro maraviglia    limperani  dipuiatu di la isula chi paccumpagnava aspitto locu oppurfunu per dalli a raggione di di u fattu  e quand elli junsenu a pontenovu  quandu da e custere e da  u rustinu videnu affacca di ogni parte e multitudinerumorose in panni scurie altu purfamentu duve accantu a e facce more di li omi risaltava piu infensu u castu e argufu pallore di e donne e chi elli scuppiavanu  fra le arcusgiate  la evviva di maschie voce chi impjanu la aria e la anima di un fremitu simile a u scrucchittume di i larici di valdunielzu  allora limperani si vulto versi u duca e li disse     eccu a nazione chi paoli guverno quindic anni 
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="9" type="art" xml:lang="fr">
+    <p>
+     abel gance en corse bien que notre ideal soit personnifie par pascal paoli pere dela patrie corse dont nous celebrons pieusement en nos coeurs le deuxieme centenaire nous jugeons opportun de joindre nos souhaits de bienvenue au promoteur et aux collaborateurs dela plus grande entreprise cinematographique mon diale abel gance l archange du paroxysme pierre bonardi notre confrere et notre ami dieudonne appele a representer une figure guinous demeure chere malgre tout pour le rayonnement de notre race sur le monde le general bonaparte andreani maitre dela scene volkoff le grand metteur en scene russe   e ils viennent en corse commencer les prises de vues qui les entraineroni partout ou s est deroulee i emouvante epopee qui ne fut peut etre qu un malenfendu avec pascal paoli d abord puisunevendetta entre ie fils de charles bonaparte et l enfant de pozzo di borgo corse au dessus de tout la gloire de napoleon qu on nous reproche en certains milieux avec tant de vehemence est notre ses erreurs aussi qui sont une synthese de nos defauts   abel gance qui entreprend la re surrection du plus grand des personnages historiques doit rester en marge de nos discussions familiales son oeuvre nous sera au premier chef bienfaisante  qu il accepte donc nos re merciements avec nos souhaits de bienvenue   mu cr a muvra
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="10" type="his" xml:lang="co">
+    <p>
+     racontu per pasqua  pasqua felice  eramu in tempu di guerra  in tempu di doli  di affanni  di ultime partanze  di amori tronchi     1 paesi di corsica malgradu a luntananza di i cannoni eranu anch elli muti  tristi  morti  cume giai dini di invernu  spogliati  sfiuriti    si vidia appuntu qualchi vecchiu legghiendu u giurnale a u sole  o qualchi visu inchietu di mamma o di surella  affaccarsi ogni tantu a a una porta     un si aspettava che una cosa   u giru di u pidone   quelli jornu  cume sempre  a poca jente di u paese era unita in piazza di a posta  quasi tutti e donne  eranu in neru  acciacate  silenziose    ma  luisa  chi circava  ella   un si sapiva chi elli avissi a nimmu  quassu      ... era sebiata per quessa   purtantu u pidone esci  li dedde una lettera  senza franchizia  per sicuru era un sullatu chi li scrivia   luisa  rossa di emuzione  piglio a lettera  a messe in furia in hi so senu  e scappo prestu    giunse in casa affannata   si chiuse in camera   u so core inquietu  sbattulava forte   straccio quella povera carta  e lesse   a  mio sola cara     ti scrivu annant a e mio ginoc  chie  in fretta  mentre chi u can  none si sta un pocu zittu  malgra  du stu piriculu chi ci segue not  te e ghiornu  u mio core batte sem  pre e per te sola    aghiu avutu   ottu giorni di permessu  si io non  so venuto in corsica  e chi un   ne aghiu veramente  pussutu   u   mio babbu  ha vugliutu chi andas  si a angers  duvell e impiegatu    so statu cula         ahime   chi duri ottu jorni   chi crepacore  elli so stati per me  babbu  mi ha fattu cunnosce una giovinetta pinzuta  chi ellu vole  in tutt i conti darmi per sposa  invanu lu aghiu svelatu u nostru amore  invanu aghiu pientu e sup  plicatu   nunda la ha intenneritu  e ava  so qui scunsulatu  a mezzu a stu fangu  a stu sangue  e a le mio lagrime   a mio vita e un tormentu    prega per me  o tanta cara   addio   baciami  baciami  ci vole a corre a u fucile      per sempre  antone   sta corta lettera  luisa  la lesse di un trattu   poi a strinse  annant a u so pettu  si appughio a u lettu  e piense           quanti jorni atroci passo poi senza nutizie   andava in piazza a a posta tutte le sere  e sempre a stessa parulla   nunda per voi   chi a lasciava di piu in piu  addu  lurata  e luisa si tumbava di pien  ti     chi si po fa  in tal dulore che pienghie          pasqua si avicinava  cu u so sole tepidu  i so canti di ucelli in li fiori sbucciati  cun tutta   la allelluia  di a natura  purtantu i cori eranu tristi  a  natura  ella   un  sapia chi cula  i fiori cari a tante mamme  cascavanu in pienu vera  nu      e lu core di luisa  cume un sepolcru  stava chiusu annant a le immagine di lu amatu  annant a la ostia sacra e cara di lu so amore     purtaritu  a mane  di u  jornu di pasqua si alzo piu cuntenta  ella stessa era smaravigliata     no  di  cia  no   antone un ne e mortu   dio e troppu bonu   sentu a speranza chi risusciteghia in me  cume a verdura in li campi  cunie gesu in iu sepolcru   u mio core canta la allelluia  u signore mi averte  averaghiu una pasqua felice    e a povera zitella cuntenta  salto fora  e corse a a posta     ci era una lettera chi la aspettava  era di antone  cume di amarezza un si more di gioia  luisa  le aperse  for di se    e lesse     luisa  a mio pasqua     ti scrivu da u mio lettu di ospedale  biancu biancu  e un mi manca che a to presenza  amata  per esse  felice    so feritu  oh  mica assai     un pezzacciu di piombu mi ha purtatu u bracciu mancu    un ti addispe    ra  so guaritu  ancu ottu jorni e poi vengu versu te  dimmi  dimmi subitu se tu voli esse a mea  a sposa chi ellu mi vulia da  babbu  un mi ama piu dipoi chi un ne aghiu che un bracciu    dimmi   a te un ti basta u mio core  scrivimi  ti amu  ti amu  e ti basgiu     antone   duie lagrime calle sgottonu an nant a quella cara carta  luisa si inginocchio a u pede di u lettu  un sentimentu cunfusu di gioia  di amarezza  di tennerezza  a stringhia     si alzo  si fighio a u specchiu   avia una lagrima all occhi  un surrisu a e labbre   si  era cuntenta    lu amatu avia suffertu  ma era vivu  era soiu   corse  piglio un fogliu di carta  e in furia si messe a scrive sia lettera chi noi un riproducemmu mica tutta i  u mi antone   chi pasqua felice  per noi  un bracciu un ti basta per stringhiemi annant a u to pettu  e per cafezzar i nostri figlioli  ti amu  saraghiu a te  per sempre    
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="11" type="art" xml:lang="fr">
+    <p>
+     la revue kyrnos la revue corse de haute culture kyrnos est actuellement a l impression le leger retard subi par sa publication sera compense par rinteret profond que presentera le premier numero de ce beau periodique nous pouvons d ores et deja annoncer a nos lecteurs qu il contiendra un article de 20 pages sur la formation et le developpement dela nationalite corse par m graziani une etude de m l villat sur l instruction publique en corse entre 1768 et 1789 un recit dramatique de m j b marcaggi sur la tuerie de chidazzo un travail suggestif de m l abbe carlotti sur les analogies entre les dialectes corse et toscan une belle lettre inedite et en facsimile de maurice barres sur napoleon  une conversation inedite de napoleon bonaparte avec les freres bonelli a l armee d italie de belles pages de lucciardi etc ajoutons a cela des lettres inedites de paoli des bulletins critiques particulierement documentes   nous ne pouvons qu applaudir a cette magnifique entreprise et encourager m paul graziani qui a su grouper autour de lui de precieuses collaborations un souci tout scienifique presidera a la redaction de vette revue  nous croyons savoir que le savant et illustre professeur clemente merlo de l universite le pise a bien voulu faire beneficier le sa haute competence quant a la partie linguistique le nouvel orgale de l intelligence corse  ce premier fascicule avril juiu 925 paraitra fin avril
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="12" type="poe" xml:lang="co">
+    <p>
+     canzona fatta da u pueta peppu  pe i niulinchi i   di parigi  a salutu cu rispettu  a jente chi qui si trova e di canta mi permettu una canzonetta nova    a musa e lu mio intellettu mette li vogliu a la prova   simu qui parenti e amici uniti di affezione   corsi spapersi in pariggi emu fattu le unione   e per fabbi ride un pocu   che bi cantu ste  canzone   da corsica so partutu elacatu aghia nidlu   a pariggi  so binutu  cume un ala stesu a volu e qui aghiu cunisciutu chi un corsu un e mai solu   guardate le maritate unite a le damicelle  pinvernu cume le estate mi parenu tante stelle   hanu lu visu di fate  ele mani ancu piu belle   la corsica ha pocu mondu ma ci e giente di alta stima che si sanu tene in fondu e si sanu tene in cima  guardandu lu suvenire  di napoleone prima   a tuttu lu mondu piace qu ella isola parfumata in duve si gode in pace una vita pocu ingrata al ombra di la furesta dai muvroni abitata   viva le nostre campagne  viva le nostre marine  viva le nostre muntagne tutte abbinte di aria fine  li monti cun le foreste ecu le acque cristalline     spulate a listessi venti deputati e senatori  che la corsica diventi cum un giardinu di fiori ha soffertu assai tormenti senza mai esse a li onori   zenza falli e zenza ingannu la mi vogliu fa finita   a tutti dicu bonu annu  e bi pregu longa vita  lu annu prossimu  sta festa sara  speru  piu fiurita   u di niolu
+  s
+    </p>
+    <docAuthor>
+     Cacciadore
+    </docAuthor>
+   </div>
+   <div n="13" type="div" xml:lang="fr">
+    <p>
+     un omu di stomacu  m elsasser  c est toujours pour moi messieurs un sujel d etonnement que d enfendre s elever sur ces banes un murmure d horreur chaque fois que les insinuations d un arateur semblent porter un soupcon de doute sur la profondeur de laconscience francaise de l alsace  je vous le demande messieurs  est ce faire insulte e un pays que de lui preter une autre personnalite   m le president du conseil  supposer que l alsace ne soit pas francaise de coeur et d ame c est la erotre capable de se renier elle meme c est lui faire insulte  m elssaser   l reste a savoir si pour se dire autre chose que francais d abord l alsace se renierait elle meme tumulte  m le president du conseil  ce que vous venez de dire est ure honte pour la france et pour l alsace  m de la tulipays  nous n avons pas chasse tous les boches de france  m elsasser  je fais remarquer a celle assemblee que si son desir d etre informee des choses de l est est sincere elle se doit de laisser parler un citoyen mandate par leo habitants d un departement francais pour l en instruire  m de la tulipays  vous avez parle comme un allemand   m elsasser  je m eleve avec force contre le procede de m de la tulipays ce m est pas en lrailant d allemand un alsacien authentique monsieur que vous le ferez taire vous n y reussires qu en reconnaissant ses liberles essentielles au peuple qu il represente ici  m le president du conseil  je ne reconnais sur le territoire de la republique qu un seul peuple c est le peuple francais  m elsasser  je felicite m le president du conseil de ne point avoir prononce celte parole le 11 novembre 1918  m le president du conseil  veuillez completer votre pensee je vous prie  m elsasser   volontiersi si vous les aviez prononcees l alsace y eut senti une hostilite et une provocalion et son altitude echt ele differente de ce qu elle a ete protestations sur la majorite des bancs  m elsasser  j ai l impression penible que celle assemblee 5e' fait de l alsace une image deformee par de legende et qui gagnerait a elre relouchee au contaci des realiles impiloyables  croire que l alsace n a de patriotisme qu a l adresse de la france voila qui est lui faire insulle messieurs  tumulte cris prolonges   m le president  je ne saurais tolerer que l orateur conlinudi sur ce ton si le peuple d alsace l enlendait  il rougirait  m elsasser  le peuple d alsace permet les moi di le president d avoir sur ses reac tions sentimentales des opinions plus anciennes el plus documenlees que les votres mais je voudrais qu avant de minsulter on me luisse m expliquer piu m abrabam kahbn nous ne pouvons pas laisser insulter la' republique  applaudissements   m elsasser  je deplore d elre oblige de dire que les deputes protestutaires de mon pays furent au reichslug viclimes d une obstruclion qui ne cede en rien a felle qui west faite ici par son aveuglement et  su violence je demande a ce que mavoi ne soit' pas elouffee par la representation nationule de la france  m le president  parlei vous avez la parole lo m elsasser  je vous remercie m le president messieurs je ne suis qu un paysan je ne sais parler que de ce que je connais et je m appuie non sur des dogmes mais sur des faits  l alsace messieurs ma jamais ete  francuise de langue ni de moeurs ni de traditions de civilisation  rires eelais de voix     quaranie cing ans d occupation allemande et combien aetive ont exerce sur elle des influences au sfigins egales a celles qu y avaient fait penelier deux siecles de regne francais prise entre deux efforts qui se eontrebalancent dans leur resullat p alsace messieurs est resiee elle meme elle n'est mio votre puys ni celui des baches elle est palsage  o u nu cu nu e su m le presitent du conseil  vous etes le seul homme dans nos departements recouvres a parler de la sorte  m elsasser   dites plulo que je suis le premier  m de la tulipays    le premier a les trahir  m elsasser   dire que la conscience de l alsace est exclusivement francaise c est done aller a l encontre de ce qui esl c es ensuite preler une dme de comedien a un peuple loyal et honorable  m abraham kahn   la france r est elle donc pas votre patrie  m elsasser  le pays de mes peres est l alsace ils s appellaient zimmermann scheweer heiz wimpffliopfer y en a t il beaucoup en france  une voix  c est une gageure  m elsasser  je voudrais que celle assemblee cesse de se cramponner aveuglement a des dogmes et a des mysticismes que les realites defoncent et pulverisent comme un belier fait d une porte il faut craindre que les realites un jour ne prennent leur revanche ce que jen dis est dans linteret dela france que je respecte el j aime  m dobson levy  on ne le dirail pas  m elsasser  je l ai prouve en apprenant sa longue je voudrais messieurs que lon permette au moins a l alsace d esprimer sa pensee sans elre obligee pour parer la menace d excommunication nationale de la deguiser hypocritement  m le president du conseil   z alsace esi francaise elle est au dessus de vos calomnies  tonnerre d applaudissements vi vales prolonges  m elsasser   ce penible debal messieurs aura eu qu moins quelque chose d utile je sui  maintenant renseigne sur un poini ce gouvernement  cette chambre ce pays ne veulent pas savoir la verite sur l alsace c est donc qu ils en ont peur c est done qu ils ont peur de celle verile qu ils revent de recouurer d aspecis lrompeurs chez nous comme ils font ailleurs  i m tremintin  si c est une allusion a la bretagne je proteste  de tout mon coeur de francais  m balanant  vive la republique  tres bien sur tous les banes  m elsasser  j ai fini messieurs laissez moi poser une seule question la voici  le culte de la patrie et de l etat irancais est pent efre une religion sur le territoire de la republique vous en etes les pretres soit mais puisane vous n admettez pas qu une eglise impose sa foi a vos concitoyens pourquoi vous memes et au nom de quel dieu voulez vous nous imposer la voire   la chambre s'ecroule
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="14" type="art" xml:lang="it">
+    <p>
+     p  c  a  filippo buonarotti e pasquale paoli  la vita di filippo buonarotti  discendente del grande michelangelo  puo dirsi un romanzo   ci limiteremo peraltro a rievocare solo quella parte che si riferisce alla corsica ed alla opposizione chi egli fece a pasquale paoli   nato a pisa nel 1761  e fregiato di uno dei piu bei nomi patrizi chela storia ricordi  abbraccio giovanissimo le teorie filosofiche di locke  di elvezio et di rousseau  con grave scandalo del padre di lui  il marchese leonardo  gentiluomo della corte granducale   laureatosi in legge  venne dal genitore fatto ascrivere fra i cavalieri di santo stefano  e poi accasato con donna elisabetta de  conti  questa dignita  ambita da molti  ed il matrimonio  non cambiarono la sua indole ribelle ed avventurosa  dispregiatore delle tradizioni aristocratiche  indifferente in fatto di religione  e nemico del principio monarchico  non tardo ad essere uno dei capi piu in vista delle logge massoniche  che domandavano riforme democratiche   le perquisizioni domiciliari fioccarono  1786   cio non di meno  continuo nella propaganda piu accesa  diffondendo con opuscoli e fogli volanti  le idee della rivoluzione francese  costretto  per questa sua attivita sovversiva a lasciare la toscana  si rifugio in corsica con la  moglie     l isola  divisa in mille partiti  era in quel tempo in pieno subbuglio  un campo aperto al verbo che veniva da parigi  era dunque le ambiente chi egli desiderava  si diede senz altro ed alacremente a fondare societa patriottiche  ed anche un giornale intitolato  l amico della liberta italzana  del quale molte copie mandava in italia clandestinamente   repubblicano acceso  con tinta comunista  si era creato una invi  diabile posizione politica  che il ritorno di pasquale paoli  nell isola dopo un esilio di ox anni   doveva fargli perdere  richiamato dalla assemblea  nazionale  su proposta di mirabeau  ed onorato quale martire della liberta  lo antico dittatore della isola   sbarcava a macinaggio nelluglio 179o  accolto con deliranti ovazioni 
+  s
+    </p>
+    <docAuthor>
+     O. F. Tencajoli
+    </docAuthor>
+   </div>
+   <div n="15" type="feu" xml:lang="co">
+    <p>
+     qui vi ramentu chi zi ficatellu era funziunariu e  come a piu gran parte di i funziunarii    calava varicchi e si mittia a coda in ci    quand idu annasava un chef un superiori     st omu di talentu e di duveri  missi li so spicchieti in punta di nasu  starnuteti uni pochi di volti  linteti un colpu di occhiu in ghiru  u a stessa aria di circustanza chi idu piddava par ieghia un parle ment a qualchi tintu  chi si ne andava a lu mondu di culandi   ugnunu era a bucca aparta e in  spittativa   un si sintia un anciu   tor  ci mincieti puri  chef  dissi al ta zi simionu   pe stu signale  zi ficatellu caleti occhi e lessi  PS marrakech  le 2o fevrier     ma cherre merre    suis   je    suls     un nivulu neru neru li cuparchjeti subitu a vista  i badidoli cumincietinu a trima e i spicchietti pocu fermi annant a un nasu a caciapparu  si ni sculiscietinu in tarra sciappendusi un ucchiale     voyons    vovons    du calme  dissi zi ficatellu cummossu  rimittendu i so spicchietti  voyons    je disais done    hum       hum       caleti li occhii una siconda volta e sta siconda volta lessi     je suis    je suis    mori et enterre     allora  a canneda scussata da i sugnuzzi  dananzi a zia cudazzana inpallidita  tradussi in sti termini chi divianu essa causa di tamantu raspu     di   ci chi   chi    sa   sa    ria mo   o   ortu e su    sutarratu e     chi     zia cudazzana un aspitteti tanti schiarimenti par mettasi li ugni a la  faccia e lintassi li tricci   i so brioni  intrimurianu dighia lu poghiu   naua      o fido  tisoru  di  mamma    o fido         simionu  minganh e tutti paltri eranu sbuttati a piegna e misciavanu lacrimi grossi come cantoni     e chi la arba    saria nata subr a so tomba  cuntinuava zi ficatellu   un ni pudia piu da la pena  a lettara li scappeti da i mani  caccieti allera da u fundu di una bunitaccia un falsulittoni frigidugulatu  muscatentu la arba tabacca  si asciuveti i so occhii russi e ciumacosi e si missi a briuna di tutt u so fiatu    o nipo  oh   tendre jeunesse  jauchee comme li epi dans sa splendeur oh  oh  li  stu filiciolu  dicendula tra no  un era tantu bonu sughiettu   quantu volti avia piattati a carridla  o a vanga di zi ficatellu quandu quistu si piddava un penciuli acant u stradonu  o chi inciuffatu cu a so musa capriciosa  ghiustrava a u pedi di un macchionu par strappalli qualchi sunettu   zi ficatellu si ni ramintava ma li pardunava vulinteri a su  sganzurronu avale chi id era mortu e sutterratu   a casa fu prestu piena   tutti li lazaroni chi si gudianu a spiriata di u sole a la quatrera  di i buccini  tutti li ciamarruli in cerca di sfunala so lingua eranu tratti a lu primu stridu   quattru donni a pulsu fermu si e  ranu lampati a tena la adulurata zia cudazzana a chi pa li pedi  a chi pa li bracci  pinseti a pena di una veduva chi perdi lu so fidolu solu  speranza e sustegnu di a so vicchiaia  vadanta da u narbosu  sta tinta mamma si diminava cu furia  fendu lu stradda e la agrunchia  si sbattia in tutti li sensi e facia inzucchita di capaccia sti dunnaccioli chi a sicristavanu  mentre chi minganu piu astutu si ni stava luntanu e gridava     lintetila  o donni  un vi feti sbula i cilagni    lintetila si vo mi vuleti senta  lachetila sfuca      salva chi zampitteri   certi stridi vi livavanu sdrisci di carri     zia sacra chi  pianu pianu  si ni vinia da la funtana fu misciata u  sangu li faleti a i pedi in u stessu tempu che a so gerra e  trani a tutti cursi briunendu       la me cucina sfurtunata  era  quista la cullazione chi ti aspittava oghie     o fido  caru di mamma      sara vera  a filicio      o fido  tamanta spina   zia tricciata junse a capiddi ma  laditti e spacchendu la turba     u pudare mica inghiutta st ovu senza sale  o nu         lu me fidolu        un la mi faci creda a me  o fi  licio       o fido  ti se fermu a marra  kesciu    sin ala sera ci fu gran cuncursu di ajenti ugunu manifistava a so prisenza  piu che u so dulore   lampendu ma di st isprissione scelti chi so come vetru pistu o granedi di sali grossu  in a firita aparta di vadulati  tantu a perdita era dannosa tantu fu bellu u raspu a tutt i punti di vista   
+  s
+    </p>
+    <docAuthor>
+     L'Omu di Cagna
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

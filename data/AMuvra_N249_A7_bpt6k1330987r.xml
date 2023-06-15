@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330987r
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330987r
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 249 | Année 7
+     </edition>
+     <date>
+      1926-04-18
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Ànnu VII — Numaru 249 ; : ‘Esce a Dumenica Dumenica, 18 Aprile 1926  à En en ECC dea A: = 4 Fe D COLE EN NS EXC sai pa dicu, ai ùn VDM) Mea? se Car È LI Cà « © Pe un u “a À ngu DS RE - PORE = + d bian Co pets FE 2 eat È 5, AE arr, LIE ie. N reco stre ri. ?  GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI :  in Corsiea. . 2, , % « . . ++ 12 franchi  In Francia. . 4 . . . 4... . . 15 »  A PEsteru. . -.........,.. 25 x  U Rumaru:4 soidi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     a mio fede  po  pido      i rombi sciacchitteghianu nanta u tettu  e rundiane facenti un pilacu a u pede di  e case e  per se ricciate  a pieno corre torbida trascinendu i fori di valburi persi in di a nebbia pagna   piove     una mosca nant a u vetru  scimignita gira appressu a e goccie di acqua chi vaffoscanu  in acellu inciucciulitu sottu a una palanca cerca un granellu in parba guazzosa     ed ciu pensu a labbre strini de    a che   a un amore   forse   a una donna amata     sta sposa cara e qui sottu a i mio occhj  involta in la pioggia e si chiama liberta  cume una ninfa sorge da vatque timpestose  e  languide  si annanna a u rimore di e sciluccate  i  un brecciu e stesu e ci  appoghia sopra u so capu a e nere treccie  valtru  amurosa mente strintu a u pettu tene un ramu di legnu innoratu   fe   lu amu e sentu u mio core chi batte a rompicollu   certeombreli stanu intornu e parlanu cun ella sta nostra indimentichevule lingua   ci e laccentu murusaglincu  sartinese  tavagnincu  ci e paoli  ci e sampieru  ci e giafferi     ed eiu lu amu sempre   a iso pedi sta un animale gentile e graziosu  a u pelu lisciu  a u sguerdu fieru  due magnifiche corne in aria di sfidu so pronte pe a difesa   si sente in li ariai rumori di signozzi ritenuti  e  di tant in tantu un lagnu di miseria   duelagrime  due perle  cor   enu nant a faccia di a povara donna  i  piove  e da u fracassu di  p   acqua stu piantu e ammurtilitu       fierezza antica   a liberla  a corsica maestosa qual e chi v ha rapitu  induve sete o sampieru  a sambucucciu  a giafferri o de paoli   e le ombre  inchinendu u cadu  rispondenu     a liberta di a nostra razta e in le acque di pontenovu    ma ora rissusciteghia   a g  di la grolta  allora un belu arditu  stridente erumiorosu cume un tonu sirappa u linzolu di a nebbia  e corne in battaglia  e zampe ferme  amuvradiu ritondu aspetta       per si monti mughia culombu e u sole di la indipindenqa luce cume prima  piove     sunieghiu   pregu ma  sempre ficru tengu strintu in u mio core stu tesoru  liberta   e pamu piu che mai  a nostra corsica addulurata 
+  s
+    </p>
+    <docAuthor>
+     Iseppu Filippi
+    </docAuthor>
+   </div>
+   <div n="2" type="div" xml:lang="co">
+    <p>
+     un spirtu publicu  si forma in corsica  in un wezel di corti  a cullazione  a cunversazione  animalissima  tralla di ti problema isulanu       li avvisi so diversi  a maio parle di li assistenti so ignoccari  gonfi di istruzione publica ed obligatoria e un cunoscenu  un acca di a storia di cirnu  un  unu lampa     quandi a corsica si dede a francia       a corsica un si e micca dala  risponde cu vivacila un ghiudice di pace  ghie a francia chi a si ha furata         e  a bordu di u batellu di fraissinet arrivatu in marseglia a quattr ore di maltina i passageri obligati di aspitta a dugana chi un apre ca a sci dre so malcunienti   e    e a nostra colpa  grida un giuvanottu  un ci femu micca rispelta      ci  un terrazzanu scava u corsu napulio  passa una donna cu un capillinu in cuccula di capu     giraie piu in la  li dice u terraz  zanu    i    ma la altra cuntinua  inciampa e si allonga a mezze pilricaglie      on pourrait tout de meme avertir balbuleghia a  donne arrizzendusi  i  tandu u terrazzanu      si vo capiale a lingua di u vostru paese le avariate intesu  lu avertimentu  
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="3" type="let" xml:lang="fr">
+    <p>
+     una manata di lettare tazza 20 mars 1926 monsieur le directeur ct cher compatriote  le sergent m m a remis plusieurs exemplaires de a muvra grande a ete ma joie d y voir exprimes des sentiments qui sont les miens depuis l enfance   oui la corse ne peut etre sauvee qu en redevenant elle merne tout le reste n est que camouflage et mensonge    en lisant d'autres journaux corses j eprouve la sensation d ecceuremcni ressentie de 14 a 18 par les malheureux fantassins des armees du nord et de l est a la lecture des communiques officiels  comme vous le disiez si bien dans un numero de votre journal au maroc la casse ne porte gue sur les bicots et sur les corses les quelques continentaux qui font partie des formations d attaques sont noyes dans la masse des troupes prises en dehors de la race  mais je constate que des plumitifs insulaires estropiats physiques ou moraux poussent a la continuation d une guerre injuste  les malheureux se rendent ainsi complices de la mort de centaines de compatriotes  dites aux meres corses de se souvenir de tels incitateurs  assurez moi desormais le service de votre vaillant journai respectueusement e
+    </p>
+    <docAuthor>
+     Lieutenant X.
+    </docAuthor>
+   </div>
+   <div n="4" type="let" xml:lang="co">
+    <p>
+     rabat  25 marzu 1926  caru direttore        un pudete imaginavvi u dulore chi no risintemu vindendu u benista di sti paesi cumparatua a miseria di a nostra corsica     stu dulore e ancu accrisciutu videndu tanti brutti  tanti vigliacchi  tanti vindudi chi vi cumbattenu   curaggiu   qui semu tutti cu voi   intantu ricutitevii cinquanta vintinelli chi so qui drentu  e prubabile chi si mariannona un  dava ca una cusi misera brinnata a i porci chi facenu e campagne anti corse un truvaria tanti vittuli  pronti a pu  gnalavvi ed a calunniau vostru cusi grande e cusi nobile muvimentu   arditi  v abbracciu di core 
+  s
+    </p>
+    <docAuthor>
+     V. L.
+    </docAuthor>
+   </div>
+   <div n="5" type="let" xml:lang="fr">
+    <p>
+     paris 4 avril 1926 cher ami  bravo  les malfaisants les crocheteurs de poubelles officielles les vidangeurs de prefecture etalent les chiffons de leurhotte et proclament la levee des balais crottes   c est la preuve eclatante que le desespere mugissement de a muora a trouve des milliers d echos dans la montagne et que les reven dications des corses non abatardis par les prebendes et non abrutis par un enseignement d estrapade sont frappees au coin du bon sens de la logique et de la verite  les methodes de basse police que l on oppose a d aussi saines theories sont d avance vouees a la honte et a l echec  par une precedente je vous ai donne des precisions sur l ignoble complot quia ete trame par la pegre politicienne pourextorquer aux fonds secrets de quoi constituer des provisions pour des cheques tires par anticipation  a ces precisions j ajoute celles ci que vous publierez en jeur temps et qui m ont ete fournies par un riuvristu de la place bauveau les pellicules sont a l appui  5 en pd les hommes qui comme vous et avec vous ont pu se depetrer du magma de pestilence auquel a ete reduite une saine race pour clamer la desesperance d'un peuple sont des hommes de foi et de courage  le devouement de vrais corses vous est d ores et deja acquis  a bientot de suggestifs details sur l infernale escroquerie dont je vous ai parle   corsistement
+    </p>
+    <docAuthor>
+     Antoine Vellutini
+    </docAuthor>
+   </div>
+   <div n="6" type="let" xml:lang="co">
+    <p>
+     cervione  4 aprile 1926 caru sgio rocca        i traditori di patria so marcati da u boia cu u farru rossu da babbu a figlioli   a mio cunsulazione e di vede chi u cursismu chi rinnuvara a corsica un e cumbattutu ca da umatelli persi da a puliticaccia chi so custretti di rimpatta cum elli ponu i quattrini chi elli perdenu cu e carte   cu a calma e     a ragione un pudemu ave che a vittoria  a nostra vindetta a faremu cacciendu a trovula da u nasu di sti mannarini     cu devozione 
+  s
+    </p>
+    <docAuthor>
+     A. D.
+    </docAuthor>
+   </div>
+   <div n="7" type="let" xml:lang="fr">
+    <p>
+     paris 5 avril 1926 mon cher rocca  je me rejouis doublement d'etre venu a vous  je dis doublement car il y a en moi et le disciple de daudet de maurras et de pujo et le corse irreducble qui ramene tout a l ile natale   la brochure si concise de mattei torre exprime avec une grande nettete la doctrine federaliste  voila selon moi le sesame ouore foi de l officine abjecte ou les abracadabrantes machinations destinees a contre battre par une campagne de calomnies un mouvement juge dangereux par les professionnels de la plus infecte des demagogies   comment dans un departement administre par un individu formellement accuse d assassinat et confondu par l opinion publique si non par les tribunaux auxquels il n a point ose faire appel pourrait on user d autres methodes que celles que monsieur marlier a si infernalement perfectionnes lorsi de soi passage a la surete generale  l honnetete la bonne foi la raison le courage la droiture sont les armes dont vous disposez  a combattre la saine doctrine autonomiste les malpropres les retors les menteurs et les laches se briseront dents et ongles  en avant toujours  je salue en vous tous les corsistes
+    </p>
+    <docAuthor>
+     Louis Ceccaldi
+    </docAuthor>
+   </div>
+   <div n="8" type="art" xml:lang="it">
+    <p>
+     un barone tedesco  re di corsica  una cronaca sincrona della corsica  racconta che il 12 marzo 1736   si vide approdare nel porto di aleria un vascello con bandiera inglese  che sbarco un incognito personaggio vestito alla francese  con un abito lungo di scarlatto con doppia fodera con una parrucca alla cavaliera  con un alto e largo cappello e alfianco una spada alla spagnuola  con canna in mano a becco corvino     il vascello proveniva da tunisi e lo incognito personaggio era ii barone teodoro di neubcf    nato a colonia i  25 agostu 1694  da antica famiglia nobile  ma poverissima  e rimasto orfano giovanissimo  era passato sotto la tutela del barone di drost  suo zio  fece un po di studi in un collegio di gesuiti  indi a quindici anni lo troviamo a versailles fra i paggi della duchessa di orleans  era un bellissimo giovanetto  di spirto pronto e audace  la corte lo formo  dopo essere stato luogotenente in una compagnia di alsazia  passo in baviera  ove comando una compagnia  ma datosi al giuoco  dovette abbandonare la carriera militare   nel 1732 eccolo a genova   ja repubbica sosteneva da due anni una fiera lotta coi corsi in ribellione  al randagio barone baleno la idea di occuparsi degli affari della corsica  e tosto si abboccd con alcuni capi dei malcontenti  a cui promise aiuti  si scambiarono reciproci giuramenti e accordi  poscia  teodoro scappo da genova  dovela sua presenza era divenuta sospetta  per recarsi in cerca dei promessi soccorsi  fece vela pel levante  ma preso dai corsari e tradotto ad algeri riusci tutta via a fuggire a tunisi  quivi  trovo ricovero in casa del console inglese  al quale espose i suoi progetti sulla corsica  dandone partecipazione al bey  che non solo li approvo ma lo forni di mezziopportuni per metterli ad esecu   zione   non appena sbercato sul suolo della isola   fu ricevuto e complimentato dai capi  che lo condussero con grandi onori  al palazzo episcopale di cervione dandogli duecento guardie di onore   dal vascello furono tratti cannoni  fucili  scarpe  sacchi di biada e altre provvigioniin quantita forzieri ricolmi di zecchini  il tutto per un ammontare di due milioni di ducati   tanta grazia di dio  mando in visibilio i capi corsi    radunate prontamente tutte le pievi libere della isola   egli fu conosciuto e proclamato re di corsica   dopo lunghe e mature consulte   la domenica del 15 aprile 1736  nel convento di alesani  dopo  giuramento di fedelta pronunziato dai capi delle pievi  venne incoronato di alloro  ed acclamato dai soldati e da popolo     la repubblica di genova  che dapprima credeva uno scherzo io sbarco di teodoro in aleria non tuttavia stava inerte  preoccupata dalla piega che prendevano gli avvenimenti di ell isola  dove le sue truppe  sbaragliate dagli insorti  cedevano a poco a  poco le fortezze  pubblicava un editto contro il preteso barone teodoro  qualificato  di negromante  ladro  baro  vagabondo di mediocre fortuna  uomo di massime depravate  sedutore di popoli  perturbatore della pubblica tranquillita  reo di tradimento e di lesa maesta  e come tale degno di tutti i supplizi    ad esso replico vivacemente il re  chiamandolo  schiamazzo vano    e dichiarardo di non essere venuto in corsica che per redimerla dalla schiavitu ligure  e  emano poscia un proclama battaglie ro e forte di diecimila zomini si mise incampagna  prese porto vecchio  nebbio  canale  nonza  calenzana rea tento inutalminte di impossessarsi di bastia  i  le guerra cuntinuo tuttavia aspra e feroce da ambe le parti  con varia fortuna per i due belligeranti  nel frattempe egli aveva sollecitato lo aiuto finanziario della inghilterra   tardando perd questo a giungere  i capi gli fecero intedere che se il soccorso non fosse pervenuto perla fine di ottobre lo avrebbero deposto  poco dopo essendo arri vate al re grosse somme di denaro  gli animi si calmaronc  rifernatoin auge  teodoro fondo le ordine nobiliare della liberazione  e batte moneta col rame e coll argento confiscati ai partigiani di genova   per la liberazione completa della isola   occorrevano denari ed il tesoro reale era vuoto  sul principio di novembre  convocati gii stati in sartena  dichiaro che si sarebbe recato sul continente in cerca di appoggi materiali e morali pressole corti amiche  nomino tre reggenti con lo inearico di governare il paese durarte la sua assenza  indi parti per vitalia  e ne  sbarcato a livorno  egli seppe fare perdere le sue traccie  onde sviare la polizia granducale  vi e chi dice siasi recato ad albano ad offrire ia sua corona a giacomo stuart  ed avendo sofferto nu rifiuto  abbia proseguito per  napoli ove carlo iii  non seppe chefarsene di un trono che barcollava da ogni parte    u  qu    all annunzio della sua partenza la repubblica si senti liberata  ma non disarmo  mise una taglia di duemila scudi di oro sulla di lui testa  e pose alle dilui calcagna abili sicari per assassinarlo   teodoro  cambiando continnamenie abiti ed usando mille stratagemmi per non cadere nelle mani degli avversari era andato a torino  ove quella corte  segretamente contenta degli imbarazzi nei quali si trovava la serenissima  favoriva i disegni del re fuggiasco  da torino passo a parigi  ove fu sfrattato  indi in inghilterra e di la in olanda  stabilitosi ad amburgo pochi mesi dopo  veniva arrestato  dietro richiesta di creditori inglesi e francesi  li governo spagnuolo ed alcuni amici interessati alla sua causa  ammaliati forse dal suo sonoro titolo di re di corsica  gli pagarono i debiti  liberandolo dal carcere  altri personaggi ragguardevoii lo aiutarono  mossi da simpatia per i corsi  per cui egli pote inviare ai reggenti  indumenti e munizioni da guerra  accolti da grida di viva il re teodoro     i capi delle pievi  avendo giurato in corte  di   viveree morire per lui   nel febbraio dell anno seguente giungevano ad aleria altri viveri e munizioni  mentre ad ajaccio sbarcavano in loro soccorso ufficiali tedeschi e soldati  la lotta divampo furibonda  genova veden  dosi rideita ai mal partito  invoco lo aiuto celia francia  luigi xv spedi senz altro un esercito al comando del gen  boisseux per sottomettere la isola  la reggenza fece allora appello al patriottismo della nazione e la sollevazione fu generale  1738    giunse pure nell isola ii barone drost  nipote del re  dando lo annunzio del prossimo di lui arrivo  il 13 settembre  accompagnato dal figlio federico  sbarcato infatti a porto vecchio  teodoro  accolto con dimostrazioni di esultanza dall esercito e dalla popolazione   distribui a tutti armi e denaro  ma avendeil gen boisseux mandato alcuni reggimenti contro di lui per farlo prigioniero  dovette ripartire  non avendo forze sufficienti per risistere   vagd allora per la europa ovunque sorvegliato dalla polizia ed in sospetto ai governi ai quali andava chiedendo aiuto  impossibilitatoa comunicare con la isola  i corsi credutisi da lui abbandomati lo avevano ripudiato  per quanto nelle loro file militasse il di jui figlio federico   l avventuroso regno di teodoro era finito    tuttavia non volle darsi per vinto  e corse in inghilterra  invocando la protezione di quel sovrano  dopo lunghe trattative  finalmente nel 1743  sui kevenger  nave di s  m  britannica  seguita da altre dieci unita tento la riconquista del suo trono  cercando di sorprendere bastia  il colpo falli  ed egli dovette ritirarsi  anche per li avvicinarsi della fiotta francese   il romanzo della sua vita non era per altro terminato  non potendo piu nulla sperare della inghilterra   si rivolse alla casa di savoia  la quale da tempo agognava al possesso della isola   ma carlo emanuele til  che nen voleva urtarsi con la francia  declino qualsiasi proposta     stanco  ma non sfiduciato  dalla toscana  riparo a roma  pigliando stanza in en convento sul quirinale  dandosi ad annodare intrighi contro genova  non concluse nulla  la corte e la prelatura diffidavano di lui  che aveva offerto la sua ipotetica corona a tutti   nel 1749  lo troviamo a londra  rice vuto nella migliore societa  merce pap poggio delle ambasciatore  di olanda sfoggiando il suo titolo di re  diffamando genova e la francia e facendo debiti   la cosa non poteva durare e infatti venne imprigionato  la sua fama aumento e divenne lo uomo alla moda i grandi signori  presi dal lato romanzesco e sentimentale della sua vita  andavano a trovarlo nel carcere  lasciandogli un obolo  per far denaro  creo nuovi cavalieri delle ordine  della liberazione  ma non riusci a radunare la somma necessaria per tacitare i creditori   lord walpole  scrisse sul world un articolo sul re prigioniero  mettendolo in canzonatura  ed aprendo una sottoscrizione in suo favore  che pero frutto ben poce  il parlamento finalmente lo amnistio ed egli pote uscire dal carcere nel 1755  firmando una dichiarazione con la quale cedeva ai creditori i suoi diritti sul regno di corsica   nell isola  la lotta contro i francesi invasori  continuava senza quartiere  lardimento con cui combattevano i corsi   verso i quali andavano lesimpatie degli italiani   aveva suggerito questi versi ad un anonimo poera    ialia  italia  il tuo valoro primiero   che del mando fi fe  donna e signora  tutto estinto non e   corsica ancora  nuire il vecchio roman spirito guerriero    il misero re  abbandonato da tutti  ridotto nella piu squallida indigenza  aveva dovuto chiedere la ospitalita ad un sarto  che acconsenti a dividere con lui il suo magro cibo  la sua corona era divenuta uno scherno crudele  quando mori l 11 dicembre 1756  il sarto non avendo i mezzi per fargli un cunveniente funerale  fu un negoziante di olio che ne pago le spese  felice delle onore  di seppellire un re  la cassa venne gettata in una fossa comune e lord walpale ne detto lo epitaffio  nel quale teodoro e il suo regno erano atrocemente messi in burla 
+  s
+    </p>
+    <docAuthor>
+     O. F. Tencajoli
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     u telegrafistu  piglia caschetta e brisacca e bacia li lo zitelli   l ordin e ghiuniu crisera di corre montie castelli   chi di a posta di lu statu semu noi li puntelli   di potenux carca su carru   ci u filu e li isulatori   di li buloni di lesla fanne un mazzulu di fiori   di le lo riparazione ne godenu li signori   senti senti par se siraile  chi canta lu rusignolu   u to filu la accumpagna da pumonte a lu niolu   prestu taslaii in la stacca   li hai  phai a saldaghiolu   mi  chi lu tempu si guasta marchia prestu  un femu fole   da di manu a sa truvella chi ava si piatta lu sole   un ti se mica scurdatu di le vite e le cunsole  i  di acqua fresca par se strade beine pur una pinta   metti le griffe a li scarpi e salli cu la to cinta   dopu juntu in la alta cima di esse in celu tu fa finta   le entretdise incu le mu fie u zappone  a baramina   a dama da lu pinnatu ognuna stia vicina   si ellu finisce lu pane ista sera e mattaccina   a sera quandu si jugne stanchi persi a la ustaria   si dorme nantu li sacchi   chi poca e la pagaria   ma si canta la paghiella di a sera a l ave maria 
+  s
+    </p>
+    <docAuthor>
+     Maistrale
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     discorsu di barberinu  barberinu e i preti  u famosu barberinu   quellu chi trova chi tuttu in corsica e dincanti   un po nega a miseria di i pretie per laglialla insegna un bonu rimediu  incensa sempre u guvernu chi ne cugione   a  bi dicu chi eiu in chiesa ci entru aspessu   tult e domeniche mi cunfessu    1 preti  cari mei  i tengu cari  e si io vi tengu stu semplice discorsu  unn e per odiu ne altri affari  ma per pruvabbi chi io adoru u prete corsu     alo sintimu  disse petr antone   ma un ci purta di fole in canzone  si struitu  a taccurdemu  e barberinu u sale ti esce di a botte cume u vinu   ma un ci piglia per iscemi manc a noi benche no curimu porci capre e boi   ghiudiziu un ci ne manca e naturale   tu  discorri sempre quante u fiume  e credi di liacci tutti e u a to fune  e cu li articuli chi tu lampi in lu giurnale  ma quande tu tocchi preli e religione   ci voli fa piglia viscighe per lampione     bi dicu e bi ne spiegu e mio ragione u prete corsu lu aghiu in franca stima di a murale e lu puntellu e la alta sima  e so a la megliu cui preti di u cantone   ma  per fa corta a filastrocca  vogliu chi certi si tenganu aqua in bocca    parlanu troppu  alzanu a voce   si lagnanu  banu a scutumia di reclamo sin a la anatomia   u cristu un si lagnava e ghiera in croce     chi discorsi  e tu un ti lagni mai   si vede chi ti hai cagiu pane e tuagliolu   ma i preti  i corei so a li guai  e stringhienu a stringni strigni u currichiolu    dici chi elli volenu ava la anatomia  e tu si ti hai addossu a malatia  un cerchi centu respici e duttori   un ti schiaffi mattoni caldi pe i dulori e ti bioti ancu sana e lesta a spezierial    un die u  un dicu   ma per lu infernu    elli gridanu rabbia a lu guvernu  u guvernu mi e sacru cume bapu     ava capimu chi tu perdi u capu     anch eiu  piengu a so situazione hanu fattu male di livalli e pensione   funu propiu legge indegne scellerale   ma da bapu accettu calci e bastunaiej  chi ne prete corsa si cuntenti di a so sorte   deve benedi a manu chi le offese perche  perche   a corsica e francese   chi diaule a fa tantu rimusciu    chi elli picchinu pianu a u pe di lu usciu chi prestu piuvera solli e fritelle      e tant anni chi ellu agguardanu le stelle o barberi  ma da pariggi  per elli casca squarcie e frigil  i to amici puliticanti  chi fu incensi piu che i santi si infiaschianis pocu si a miseria tomba u prete e cirnu vituperia   di e to legge indegne e scellerate un tocchi e bedi a trista consequenza   tu dici  prigate in pazienza    a pazienza scappede anc a lu frafe   a tutti scappa cu e bastunalte   intantu a religione cala e more   di a fede si spegne la lumera   e parocchie un ne hanu pastore centu cinquanta eranu arrisera   per rimpiazzalli un ne trovi sumente    la aqua si suttarra a la surgente   a chiesa perde pede in stu currenie  riducendu u prete corsu a la miseria hanu propiu tagliatu a vena arleria   si dumane cirnu e senza religione a quale la colpa e le abominazione   e tu boli chi elli bilancinu u turribulu davanti a chi piantede lu palibulu  falla tu si ella ti sende   buschere onori e pruvende     voli ua bellu impiegu in pariggi   incensa di cristu i gran nemici   leccali e botte senza rimorsu   mazittu  rispetta ne prete corsu vistutu di abandonu e di ideale e lascialu parla quantu li pare   clemente di rostinu
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="11" type="art" xml:lang="co">
+    <p>
+     brandone e serpentinu eranu macellari  chi abitavanu dui paisoli diversi  ma vicini unu da lu altru   si eranu intesi per tumba una settimana per unu  quandu tumbava brandone venia a vende a cherne ancu in lu paese di serpentinu e riciprocamente     un sabatu sera serpentinu casco malatu  e u lindumane  bench ellu li tucchessi a fa macellu  un pobbe riempie u so duveru e si scurdo di avisa a brandone  questu  un videndu  a dumenica  ne a serpentinu ne a paffa di a capra abituale  un si tenne piu  si aggronchia a u tavulinu  e scrive sti filaria u so amicu infidu    bisogn a si entendre pour dimanche qui vieni  ou fue moi  ou tue toi  dis le par scritte     fra statu a a schola mariannesca fin a i 14 anni   parlemu e scrivimu corsu  o zitelli   
+  s
+    </p>
+    <docAuthor>
+     Rustincu di Loretu
+    </docAuthor>
+   </div>
+   <div n="12" type="art" xml:lang="fr">
+    <p>
+     que veut la corse   suite et fin  point de vue individuel la du sation telle qu on la praticent test pas moins nocive car que  tend de plus en plus a prencea le ton de la capitale qui ge ine et a l influence de qui il te an ja force d echapper cela i plus deplorable effet sur la cs onnalite de y individu pi ep 1 a 2 cr telles conditions ja vie des iovinces tend absorbee par cette nation a n etre qu un pale voia o ae a lisa da si in ridicule reflet du modele dont ri  on sinsplr i se d autre part l attrait qu offre la itale est une des raisons de l ea aes ruraux vers la ville  o regionalisme doit donc etre favorise de ce point de vue utilitaie  mais d un autre cote un regiocai e bien compris contribuera e ama en ressuscitant dans gran o province toutes les particuer qui semblaient sans valeur us la poussee du mimetisme i gurision a sauvegarder l originalite e rintegrite d un peuple que cette eontamination menagait   fn veut on des exemples  ta france nous en offre au cours deson histoire qui valent la peine detre medites   ce pays a ete a un moment donne un congiomerat de petits etats presque autonomes  la plupart  car ils detenaient de nombreuses litertes et ils avaient une vie disfincte assuree par le fonctionnement de leurs petits parlements ce quine les empechait pas de parficiper et de contribuer a la vie nai tionale les parlements de bretagne de provence et d ailleursetaient une source de vie pour les provinces qui leur donnaient cette allure de petites nations organisees conscientes de leurs besoins et appliquees a les satisfaire au mieux de leurs interets cette vie des provinces s est depuis atrophiee  on se rend compie des services que rendrait en corse pareille institution son initiative pourrait tred un grand secours a nos maux  si elle s inspirait de cette regle conlinuite de vue et continuite dans l action connaissant l etendue de nos besoins et notre capacite finantiere ce parlement saurait tirer de nous tout ce qui serait utile au de veloppement de la vie economique  de file i on insufflerait meme une vie nouvelle a ces organismes d arrondissment qui sont dtrophies et you constate ici une fois de plus la nocivite de la centralisation outranre elle rend inutiles les petiis tutages ainsi les conseils d ar ordissement qui devraient jouer dans l arrondissement le meme roe que le conseil general pour le departement sont frappes de sterilite par le pouvoir central qui absorbe tout et ne subvient a rien  ces organismes qui se meurent doivent donc etre revivifies et que l on ne me dise pas le contraire j en parle a mon aise moi que le hasard x conduit dans un de ces conscils d arrondissements il m a donc ete donne de constater personnellement l idee que se faisaient de leur fonction ies conseillers eux memes ils ne sont pas dupes de leur inutilite puisque l un des membres deposa lors de la premiere session un veu qui demandait la suppression des conseils d arrondissemeni  autre constatation si ja premiere reunion de ce conseil a pu avoir lieu c est grace a l election du president qui semble la seule raison d etre de cet organisme qui cependant pourrait rendre des services appreciables la seconde reunion n a pu avoir lieu la moitie des membres n etaient pas venus  si donc l on veut que la prosperite regne en corse il est de toute necessite de rendre a ces organismes agonisants la vie qui les abandonne l autonomie seule peut opeter ce miracle  conclusion  la france a ete tout au long du xix siecle et passe encore pour etre le champion des nationalites se peut il alors sans incoherence et contradiction de sa part qu elle continue de faire la sourde oreille a nos legitimes reclamations  ayant reussi pendant plus d un siecle a force d atermoiments et de demi mesures a voiler nos miseres a nos propres yeux il est temps qu elle nous prouve la sollicitude autrement que par des simulacres d interet  1  il serait vain d epiloguer sur des faits aussi cruels si nous ne voulions les faire concourir en vue d un quelconque profit avec les lecons du passe construisons l avedir  f  EUR l autonomie voila le zeit motio qui revient toujours sous notre plume il est vrai qu elle seule peut donner a un organisme etiole exsangue un peu de la vie qui l aabandonne car elle reveille les activites latentes excite les interets pousse a l action et aux initiatives heureuses ranime en un mot les energies eteintes elle seule soyons en persuades peut nous donner les poris francs source de richesse pour nos villes maritimes une universite 2 pour notre jeunesse un parlement conscient de ses devoirs pour l administration de notre ile  1 ce ne sont pas ces steriles commissions parlementaires periodiques rifuelles symboliques aussi la derniere en date n a pas dai gne se derariger qui nous gueriront le peuvent elle meme  e  2 cette universite pourrait etre institage grace a des emprunts gages sur nos forets dont  chacun connait la valeur immense  inutile de dire que pour toutes institutions la voie a suivre est toute tracee c est la fradition paolienne la meilleure la seule qui convienne  chaque etat aux heures cruelles se tourne vers l autonomie pour lui demander ce qu il est vain et chimerique d attendre de reformes plus ou moins anodines  d ailleurs il est joisible a chacun de remarquer que dans chaque pays les provinces qui par le passe firent figure de petites nations tendent a le redevenir et chacune d elles alors se tourne vers cette source de lumiere qu est le regionalisme pour lui querir la vie  si meme quelques uns de ces petits etats ont depuis peu donne des signes de vitalite ilne faut pas oublier qu ils doivent cette vie nouvelle uniquement a ces saines doctrines et puisque ces doctrines ont fait le bonheur de ces differents peuples pourquoi donc ne feraient elles pas le notre  essayons nous nous rendrons compte alors que notre destinee est a leur merci  et si l on me permet une comparaison aussi impropre la corse est embourbee enlisee tel un charriot dans la fondriere administrative et centralisatrice ses efforis sont impuissants a la tirer de la cependant l autonomie cheval de renfort vigoureux est a portee qui viendraita bout facilement de ces difficultes et de ces vains efforts ou elle s epuise inutilement x  f    il n y a pas d autre moyen a notre connaissance susceptible de nous tirer de cette impasse toute reforme autre que l autonomie ne pourtait etre qu un succedane une forme edulcoree de l autonomie ou du federalisme si mieux j on aime cette expression   il est etabli que nos maux viennent de ia centralisation excessive profitons donc nous autres corses des revendications actuelles des alsaciens lorrains dirigees contre cette centralisation pour faire aboutir nos propres reclamations qui sont tout autant legitimes    ily a quelque temps m lucien romier resumait comme suit les raisons du malaise alsacien qui resulte dit il de  la meconnaissance criante du femperameni federaliste des populations rhenanes  et alors  le premier et immediat devoir  de l etat consisferait a creer un mi nistere ou un sous secretariat stable de l alsace lorraine a y mettre un homme autorise actif decide et de vues larges qui consentirait a s y vouer tout entier ef tres longtemps   1  faisons notre profit de ces remarques i mais continuons le diagnostic de m romier qui ajoute  1 c est aussi ce qu il aurait fallu faire pour la corse depuis longtemps   le francais ne se rend pas compte que depuis trente ou quarante ans il est le peuple le plus  centralise le plus  uniformise  le plus  nivele de la terre qu il l est a un degre anormal st abusif que cela s explique parce qu il est devenu un peuple a developpement stagnant et a reflexes passifs que sa concention bureaucratique de la republique ci de la democratie esi en opposition avec les conceptions de toutes les autres republiques et democraties federalistes ou corporatives   il nous semble inutile d insister davantage sur ce point que nous avons traite au chapitre precedent nous offrons ces citations a nos lecteurs sans commentaire aucun  a   par les signes de vitalite qu elle a donne ces temps derniers nous avons pu croire que l heure ne tarderait pas a venir ou la corse rejetterait la centralisation meurtriere qui est le plus accablant fardeau dont elle soit chargee  ces signes' grandissent de jour en jour nous nous en apercevons au succes que nos idees rencontrent un peu partout parce qu elles repondent a des necessites concretes aussi est il urgent que se continue leur diffusion  l heure alors ne pourra tarder ou ces idees ayant muri le moment sera venu de realiser des reformes d obtenir enfin cette autonomie hors laquelle il n estpas de salut  1
+    </p>
+    <docAuthor>
+     Matteu Cirnensi
+    </docAuthor>
+   </div>
+   <div n="13" type="div" xml:lang="fr">
+    <p>
+     giurnali le veritable fondement de la patrie est a notre sens la volonte acluelle des habitants d un territoire de composer a eux tous une unite independante  c est l expression du droit des peuples a disposer d eux memes  notion toute simple ou la morale et ja politique se rejoignent notion evidente supposez un instant que les suisses cessent toul a coup de vouloir garder entre eux une unite morale qu ils decident de s unir aux pays voisins selon leurs affinites linguisliques testerait il une patrie suisse non voila bien cette fois ci trouve l element essentiel sous lequella notion de patrie disparait  mais quel sentiment guidera les peuples dans leur choix sera ce un pur caprice un desir d une heure  evidemment non   on peut tenir pour etabli jusqu a manifestation formelle de leur volonte contraire que les peuples chercheront a se grouper en unites politiques selon lents affinites morales  communaute de tendances d esprit souvent de langue quel singulier hasard provoquerait tant de concordances si elles ne s expliquaient par une cause commune une origine ethnique unique une fraternite de races l ethniciie nous apparait done comme une presomption de la volonte de constituer une patrie comme la base pratique jusqu a preuve contraire de la notion de patrie  en substituant ainsi une notion a l autre avons nous fait autre chose que de deguiser sous un aulre nom la meme realite certes  imaginez un monde pour qui cette notion soit devenue fondamentale qu elle ne soit plus seulement une speculation theorique mais une verite dont les cerveaux soient penetres nous aurions alors une constitution politique du monde d ou les plus grands risques de guerre seraient exclus la plus d annexions plus d imperialismes  que gagnerait par exemple une bretagne independante a annexer a son territoire le maine et la normandie pour des esprits remplis de cette verite que la patrie est une question d ome il n y aurait a un tel agrandissement de territoire qu illusion fiction simpliste  qu elles que fussent les limites territoriales de son influence politique ils resteraieni persuades de cette certitude que la patrie bretonne finit la aux frontieres de sa race de sa langue de son esprit  a quoi bon des lors et pour quelle deception partir a la conquete  a finverse des patries officielles deguisements des etats modernes oeuvres politiques heritieres d une tradition de violence susceptibles par nature d extension indefinie selon les hasards de la force les vrais patries fondees sur l'ethnicite portent en elles memes leurs limites  celles de la race des lors qu elles les ont alieintes elles perdent toute raison d expansion fout interet aux conquetes voila la verite a laquelle pense l humanite apres une suite de iongues ct sanglantes epreuves  il a fallu bien des douleurs bien des denils pour metire a jour cette evidence premiere  osons esperer beaucoup d un monde fntur ou les hommes liberes de la contrainte de la force seront groupes selon leur coeur et ou ils atteindront leur plein essor intellcciuel et moral dans un cadre fait pour eux daris le plan de leur civilisation propre ainsi se verifiera cette formule que la patrie loin de nuire e l humanite collabore avec elle dans son oeuvre d elevation humaine  ainsi dans un monde remanie et plus serein s insiaurera par l'harmonie des genies differents superieure a la societe des nations d aujourd hni genereuse tentative d aveugles la societe des patries gardienne et realisatrice du reve efernel de la vraie paix  breiz atao
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="14" type="feu" xml:lang="it">
+    <p>
+     diciamolo in onore del frate   e di pe egli sciorinasse dottrii ra da disgradane mactento o  in pratica fino a quel movin aveva creduto spesso  e speste nato  non si era ancora corranco   pero non gli passava ne sopot per ombra nel cervello il den o  che li astolfi  corrotto per rano avesse reso la capraia ai u di 2 senza ne anco un simulaconi salto  che valesse a coloria e compra  et la piu brute dita  pero il sospetto  che  ultimo si offerse alla mente del frate sfidente speculativo  fu il primo che venne nel pensiero del fiducioso pratico  di cui la faccia divento bianca  come panno lavato  senonche dopo un brivido leggiero per tutta la persona  ed un aggrinzamento appena visibile dei labbri  disse      padre  andate sotto coperta     vo  restare io  vo vedere il fatto mio  scendiamo armati  e tentiamo recuperare la isola per forza     fra bernardino  qui comando solo  rammentate che la obbedienza e uno dei vostri voti  ed obbedite  svegliate il pilota  e ditegli che venga tosto da me   il frate abbasso il capo  ed esegui il comandamento   indi a brevecomparve il pilota il quale  desto di soprassalto  si fregava gli occhi come mezzo assonnato  3    meme  gli sussurro negli  orecrecchi il capitano augiolo  abbiamo daito nella bocca al lupo  la capraia e venuta in potesta dei francesi  ed allungato il braccio ad ditava al pilota la bandiera sopra la torre     oh  proruppe meme sbarran do gli occhi       va  metti tutta la gente al remo  tira su la ancora  dammene ii segno   poi attenti al fischio  e giu in un attimo i remi dagli scarmi    il timone reggo io     e da quei frati non si potrebbe cavare partito      il bisogno e grande  parlane a padre bernardino  digli da parte mia   che i primi discepoli di gesu cristo furono pescatori  ed  ora importa chi egli se ne rammenti     si udi un fischio da prua  a cui ris  pose un altro da poppa  e in meno che non si dice amen  la ciurma sfrenellando mise i remi in voga  ed arranco a golfo lanciato   il capitano angiolo  pratico del luogo  lascio prima correre la galera diritta per un cento palate  poi spingendo di uno stretione la manovella a destra la fece girare a poggia  la nave cedevole piego come vela di molino a vento rasentando gli scogli  e  sempre scivolando a pelo della costa irta di punte  con destrezza mirabile trapasso di sotto al forte  senza che i cannoni la potessero offendere     anche queste e passata  esclamo frate bernardino  quando la galera  spuntato capo fico  mise la prua verso ponente  e fermo sul remo raccoglieva con la mano il sudore che gli sgocciolava dal viso  gittandolo lontano da se sul ponte     non dir quattro finche la noce non e nel sacco     per la immacolata  o che ti pare che non basti la perdita della capraia   per soddisfare in presagio malurioso non ti par egli che ce ne sia di avanzo      padre  padre   avete visto     che cosa  rispose il frate voltandosi di sbalzo     due legni   due legni francesi a mezzo tiro di cannone     io non ho visto    io non vedo niente     ed avevano tutti e due ragione  pero che il vento fosse abbassato  ma il mare si mantenesse grosso  e  rotolando immani volumi di acqua  ora  come dentro capacissima valle  celavano le navi  ed ora le sospingevano quasi sopra la cresta di un monte   donde le apparire e io scomparire di due grossi sciabecchi francesi  legni molto usitati in francia a quei tempi  dopoche ella ebbe smesso fino dal 174o le galere e le mezze galere     santa fede   oh   li vedo  li vedo ancora io  prese a urlare di un tratto frate bernardino  cui si fecero a sua volta palesi i due legni nemici  ecco la cotesti scomunicati gigli di oro  ma cio che mi fa piu saetta sono quegli angioli che li sostengono   che cosa ci entrino qui gli angioli io non mi so capacitare  a meno che non fossero di quei briganti che dio agguanto per il petto  e arrandelio giu dal paradiso  su da bravo  capitano angiolo  spiegate la bandiera corsa e andiamo contro questi cani  salvo il battesimo  presto che lo indugio piglia vizio  uno dopo lo altro come le ciliegie   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1923_21
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     notre action anti francaise trente et un lustres d une francisation outranciere ont reduit notre race a l etat de troupeau devoye dont les individus intoxiques chasses du foyer par la force artificielle du besoin se sont egailles au hasard d un rond de cuir ou d une giberne entre dunkerque et otahiti l agonie morale d un peuple condamne a un exode calcule la brutalite d une froide pensee qui ordonne pour la sauvegarde d un empire l epuisante transfusion d un sang neuf dans une artere induree ne pouvaient laisser indifferents la poignee de retifs qui persistons vaille que vaille a demeurer des rescapes   decides que nous sommes a crever l etouffoir en lequel rale la pensee corse on trouvera humain que notre voix se soit elevee pour denoncer le processus inquisitorial l enseignement  d estrapade qui des cuistres a intellect embryonnaire ont inflige a notre jeunesse nous tart apparu comme une fletrissure apposee sur des cerveaux vierges par d inconscients tortionnaires force nous fut donc de broyer sous le pilon de la verite leur arsenal de cangues de roues et de forceps  aussi notre premier devoir fut il de faire aux supplicies dont la brimade latente etait devenue seconde nature ces revelations  profitables mensonge o galopin en culottes fendues lorsqu une voix mercenaire te debite cette anerie inconcevable   il y a deux mille ans notre pays s appelait la gaule   mensonge car il y a deux mille ans ton pays s appelait le corse et que seuls les insulaires qui avec les legions de cesar vinrent camper sous alesia ont foule le sol lointain de la patrie des druides imposture  o nerveux ephebe lorsqu un sous pion de bas etage t affirme avec une suffisance acquise a la lecture de manuels tombes  des compte gouttes ministeriels que nul heros nul poete nul savant n a pu etre concu hors dela terre de france creatrice de toute lumiere et de  toute vaillance crime lorsque la ferule t impose l admiration d une litterature  frelatee et t interdit les joies saines d un atavique ideal qui ne peut s ependre en toi que par l idiome sacre de tes peres  monte et tromperie 6 homme fort lorsque le racoleur te fait miroiter le clinquant des uniformes et le farniente des sinecures bureaucratiques  echappatoires a une misere que la complicite de l etat basee sur une legislation decrepite autorisant toutes les indifferences a voulue automatique puisque ton mieux etre compromettrait infailliblement ton infeodation postes et places qui menent tout droit a l usure integrale et a la retraite a six sous le franc  mais avoir revele a nos freres que nul lien d ordre ethnique historique materiel ou moral ne les unissait aux bourguignons ou aux picards que ni dante ni shakespeare ni cervantes ni goete n avaient vagi sous un chaume de saintonge ou de touraine que les obtuses echappees que leur permettait l usage d un parler exotique n etaient qu etroites clairieres eu egard aux vastes horizons qu evoque naturelement l articulation maternelle eait ce consommer le crime de lesevatrie singuliere exteriorisation de cet esprit gaulois dont l apologetique lieu commun de mansuetude serait pris en defaut des les premieres passes et alors dans quel noir sacrilege a du nous plonger l enonciation de ces cinglants axiomes    il y a quelques siecles a peine la corse ignorait la gaule   la difference qui separe les populations de notre ile de celles du continent francais est une difference d espece  la france est un grand pays qui a donne le jour a des genies d autres genies ont vu le jour en d'autres grands pays  la langue de voltaire est une bien belle langue mais elle n est pour nous que du petit negre  louis xv a conquis la corse par les armes   les conquerants ne se sont jamais soucies de faire partager leur bien etre aux vaincus de 1769 qui cent soixante ans durant on verse sans compter leur sang pour la france et demain les insulaires instruits de leur atavisme proposerons aux vainqueurs une indefectible alliance sous un statut federaliste qui leur laissera une place une toute petite place au soleil de la vie  alors nous posons la question etait ce bien faire oeuvre antifrancaise que de dessiller les yeux a un demi million d intoxiques pour les amener a enoncer une proposition loyaliste d action commune  si oui nous envisageons avec une intraduisible serenite les consequences possibles de notre erreur
+    </p>
+    <docAuthor>
+     Pierre Rocca
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

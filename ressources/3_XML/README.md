@@ -1,0 +1,3 @@
+# XML
+
+This contains all the elements needed to transform raw text data into cleaned and structured text data. There is a module dedicated to cleaning texts according to language (**clean_text.py**) and a file containing two lists of author and dialect metadata (**liste_muvra.py**). There is also a file for retrieving metadata from *Gallica* for the issues concerned (**metadata_collectors.ipynb**). The first phase is carried out with the script **text_to_xml.ipynb**, which transforms a manually annotated TXT file into perosnalized XML. Finally, another script is used to convert an XML/TEI file (**tei_convertor.ipynb**).

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330865t
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330865t
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 313 | Année 9
+     </edition>
+     <date>
+      1928-03-01
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     — Numaru | | gnu IX 313 Esce ogni dece iorni 1 Marzu 1928 ER cm 3 Run cc È è EL i we i. ee di — i fa IEZZO umani rami Cr Tr mn re ! ’’. GRR GIURNALE DI E PIEVE DI CORSICA ABBUNAMENTI : In Corsiea. « «~~ &lt;&lt; &gt; &lt;&gt; pr è ~ 12 franchi in Francia... -..&gt;&gt;....... 15 » A PrEsteru. ..... ...... 30 » U Numaru:5 soidi Direttore : Petru ROCCA AMMINISTRAZIONE: 38, Corsu Grandval 88. — AIACCIU Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     divertimentu o scherzu  aviamu datu cunuscimentu ri nostri lettori in un numa u precedente chi  dopu a peruisizione un agente di a for  7a publica si era prisentatu in fonuta e rivolveru a fiancu per lu ordine a u nostru direttore ji caccia da u balcone a banlera bianca a testa di moru  emblema sediziosu  petru rocca avendu rispostu chi a bandera corsa duvia per quellu jornu  era dumenica  sveniula malgradu qualsiasi ordine  le agente si era ritiratu cu sti termini    a me  mi dispiace  creditemi puru  ma so statu mandatu  voi  un fendu obbidienza a vordine chi elli im hanu incaricatu di dabbi  mi obligate a fabbi un prucessu verbale  a u cummissariu di pulizza cullo u luni cu  ben intesu  altri agenti e giandarmi per sequestra a bandera   chi unn era digia piu a u balcone    affirmo dopu  in citta  a u nostru direttore  chi ellu saria citatu in tribunale e chi le ordine ne era partuiu da a prefettura  aspittavamu cunimpacienza u seguitu di sfaffare  aspittavamu di esse chiamati davanti a qualchi ghiudice per av  una spiegazione e per sape si realmente una legge speziale cundanna a lagnu a bandera di mostri antichi  a sti tempi duv ell unn esisie piu  in francia  emblemi sediziosi  e duve  ancu u pannu tossu di mosca po  ai so mumenti  sparghieiso pieghi a u ventu  in la capitale stessa  tuttu e cascatu in lu silenxiu  e i sgio marlier  dopu u so primu ordine  ne caccia un altru per chi tuttu passi sottu bancu      siu  nostru  prefettu na bisognu di divertimenti di stu genere per guari u so ciarbellu trafariatu da e so gran prove sume puliziotiu in parigi  e si marianna la ha mandatu qui  in sura per ssu mutiou  un pu demu che scusallu perche ne corsica e la usanza di un pieliassila da male per li atti di i rammalati  no si ellu pratende ave agitu in pienu   unuscimentu di u so  no di tutte duvere e     puses pa eso faculta mentali  un di 3 nom leo ge   so facuila e un duie o e legge   unn e legge  ne vulemu a sp fegazione  si ella e legge  duviamu esse chiamati e cundannati  o almenu intimuriti di unn avo piu da riprincipia  si ell unn e legge  allora  un ci e sbagliu pussibile ci e abusu di gutere e si in corsica a gran parte di una populazione aghiacchita si e abituata a sti frequenti abusi di putere  quessa un vole micca di chi noi siamu butti obligati di passa per listessu tafone  a ripetimu  ne vulemu a spiegazione    avemu dettu e tenimu a ripetela dino chi a muvra e spuppata dipoi longu tempue chi ella un porta buccognulu   si intende libera di pasce la arba chi li piace in lu rughione accurdatuli da a liberta  si ellu ci e dui pesi e duie misure fra muvre e becchi ciuffuti  semu  in dirittu di dumandalla e di   vulella sape   un credimu di fa sbagliu  lazione fattaci in seguitu di un altra azione tulta speranza per uni pochi di buccunciaghj unn era che un scherzu vindiiteru at un 1mpusissaru di marianna  applauditu da i  lecca piatti chi u circondanu e li servenu di lumere  st azione unwessendu legale  e pocu  appuntellata da u successu chell ha avutu a perquisizio ne  ssu  nostru  primu funziunariu si e resu contu chi u lindumane pudia falli vede duie centu teste di moru in mezzu a duie centu panni bianchi  cosa chi l e stata delta cun manera energica da persunalita ajaccine chi tenenu piu a a bandera di li antichi chea u cappellu la duie corne impiumacsitu di i  prefetti di a republica    di tuttu que risortenu i mer zi pocu puliti chi ellu impieganu in corsica lalti pinzuti per fa una guerra accanita a j ide e nusirane  e a manera bracchingna di tirassi in coda quandua cacciamossa e magra cume resultatu  chi ella servi per esempiu a j nostri cumpatriotti  piu di una volta stuzzicati e minacciati di una persecuzione occulta  di modu a chi elli mostrinu e zanne tuttu cuntinuendu a so strada diritta  quella chi no  segnileremu sempre cu speranza di jugnene a una bona fine  a muvra 
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     a manera di lagnassi la idea di vule impedi a certi nosri cumpatriotti  patriotti di a manusca sfatigata datali in ricumpensa di u so degnu rinuegamentu  di ave in rottu di ricunuscenza  un ci e mai passata pe u ciarbellu  ma  chi  ssi favuriti di a sacchetfa ci voglianu ficca in bocca i so merci  e facci piglia e nostre corne per fiori  sara sempre tempu persu  ne i so cunsigli ne a forza chi elli ponu riesce a mette in ballu  ci pudaranu mai fa canta a  ssu sonu    inquant a i panni chi elli ci volenu mette per rendeci odiosi e per impastughia un azione appunteilata a  natura stessa  chi elli si rimirinu be   lu hanu addosu  i piu celebri sartori di u so parigi  ponu frustacci e so forbice chi un riesceranu maia cuireggene i difettacci  noi ci cuntentemu di a nostra tonaca di nessu chi ci mette a le indice di i galli  i quali  un circate di pruvacci u cuntrariu  ci trattanu di accaparradori di u so bene  e un volenu mancu ricunosce chi ell e statu un corsu chi la ha cacciati da a ballotta duv elli branculavanu  ne affare stranu   e permessa  ogni tantu  a   ssi divoti sacchittaghj di lenta qualchi tepidu lagnu a nome di la isula  bella e miseriosa    per chi a nota un sia troppu discurdante  un ci vole  pero  chi u guvernu sia inculpatu perche  ellu corciu   un po   hatant  altre piaghe a sucilla      in piu  u tepidu lagnu dev esse pruferitu in francese  un pocu piu suvente  e permessa a di altri papagalli di mezza razione  di aghiusta qualcusella di piu a e lagnanze  e azarda ancu qualchi parulluccia come delaissemeni  ingratitude  ecc    ma  a cundizione  sempre  chi u tuttu sia scrittu o dettu in la lingua chi elli un ponu che mastaccia difficilmente  u francese  ogni scrittu deve purta dino  in nota bene  chi  malgradu ssu delaissement e   ssa ingratitude    ecc  i corsi seranu sempre pronti a lascia imbianca e so osse quande un palmu di u sacru terrenu di a grrande paatrie sara minacciatu da u nimicu      troppu sangue ci ha solidamente ligati      ne e lagnassiin corsu e cundannata   dunque  u corsu e solu permessu di impiegassi per qualchi barzellei ta   u corsu dev esse cunfinatu in la cosa divertente  di modu ad un pude serve che di passatempu a sti nostri cucini  ci un y  quand elli rientrenu  gni tantu per rimpiumassi a e nostre acque limpide e a nostra aria fine   o aria  o acqua  o clima   e perche un site toscu per elli   signore perdunateci   
+  s
+    </p>
+    <docAuthor>
+     Altore
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     u solu mezzu esiliatu in stu luntanu parigi  aghiu avutu nutizia di lu accampu di a muvra  per bia di i gran giurnali francesi  i qualifacenu di u nostru curaggiosu fogliu un  organe anti francais    anti francese  veramente   chi noi un siamu tenneri per i vostri guverni tutti tagliati in listessu legnu  ne cunvengu  ma un pudaremu esse anti francesi ca u jornu chi boi vi dicchiararete anti corsi   e  ssu jornu  si i detti guverni cuntinuanu di stu passu  vegu chi ellu un stara piu centu cinquanta nove anni per bene  quessa bisogna a ricunoscela  u vostru pruverbiu dice be  on ne recolie que ce que l on seme  e cume unn avete suminatu ca spine  altru ca spine un pudarete ricoglie  ci date fame e miserie  un pudarete ave amore o ricunuscenza in cambiu  unn e che u cane chi basgia a manu di quellu chi u batte  e i corsi so omi e micca cani  vurriamu la autonomia   unu di i vos  tri prisidenti ci ha dettu ad alta voce chi custi solu era u salvamentu   allora era ancu quessu un anti francese   si boi vulete cumbatte la autonomia  un autonomista vi ne dara a chiave  bisogna  dicenu  cumbatte u male per a so origine  quale sd dunque i principali rimprovari chi noi altri corsi vi femu  ecculi  malaria  stradaccie  mancanza di strade  ferrate  di battelli  di cummerciu  di luce  di incuraggimentu a la agricultura  poi  incuraggimentu a pulitica e a lu espatriamentu per frustabbi e vostre panculelle e trascina i vostri fucili  lotta contru a nostra lingua    ecc    ecc    mettite rimediu  o sgio francesi  a tutti sti mancamenti  cosa chi v era imposta naturalmente dopu a cunquista e viderete chia quistione autonomista si ne andara in fume ma per pieta un ci fiaccate piu cu e vostre prumesse  e lasciateci almenu lagnacci di i nostri guai  tuttu circhendu da par noi un mezzu di tiracci di u pantanu   sia detta senza chiacchiere    o catali   marcellu alessandri di chidazzu 
+  s
+    </p>
+    <docAuthor>
+     Marcellu Alessandri di Chidazzu
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="co">
+    <p>
+     impicci e  mbrogli in ajuta a e zinzale a difesa di a corsica  terrenu  assicurata da i senegalesi  ha per cunsequenza fintroduzione di una nova infezione  la bilharziose  duvuta a un certu microbu chi i detti senegalesi avarianu adossu  sta scuperta e stata fatta da i prufessori brumpt e werblumsky  e prisentata ultimamente a la academia di medicina  un incredulu e beneficu giurnale di la isula un trova niente di megliu ad aghiusta ca a so scuntentezza  dopu una simile sciocca nutizia chi face alluntana i turisti e niente altru  a quandu una nova surgente di infezione abbastanza evidente e nucifica da chi certi corsi ci mettinu in guardia  eeunumie si no  un femu sbagliu  u guvernu ha suppressu e secretarie generali di prefettura per fa ecunumie  qui ci ne caccianu unu  diu salvi i cristiani di a vicinanza di un simile appitittu    e cine mettenu un altru  privendu a corti di sottu prefettura   a corti li basta a scola prufessiunale   a quale la ecunumia   e a quale a pagaria  giovani corsi  u cataru e apartu  ci era sempre qualchi picculu impedimentu per chi i giovani corsi pudis  sinu spatriassi a stoli  e andassine a fa i suldati per  sse culunie  un ci era che una purtuccia aparta da u primu a u 9 maghiu  e da u primu a u g nuvembre per chi elli pudissinu sfila  troppu  troppu pocu spaziu  sicuramente   i giurnali annuncianu chi  oramai  i periodi di ingaggiamentu sarianu prulungati  partite  o jente  u cataru sta spalancatu 2o jorni di piu  bene a di  da u 2o aprile a u 9 maghiu  e da u 2o ottobre a u 9 nuvembre  mai piu chi voi ne prufittite   fresche e vere    u giurnale  la france du sud est  pagatu cu i soldi chi ellu busca  u famosu dubarry  serve di cisterna a u verissimu  petit bastiais  per alimentaliu in materia da empiene e so culonne e in listessu tempu a sparghie a vera luce sopra a le azione fascista in corsica  e  nimu ignora piu in corsica  so ii dui giurnali mentuati chi parlanu  chi e una propaganda pro italiana si eserci  i teghia in la isula dapoi parecchj anni    e  ultima e stupenda prova  i   il y a une autre forme de penetration fasciste en corse  il existe dans le ile de nombreuses paroisses sans cures    et les pretres francais qui  comme les pretres de tous les pays ne si imposent que jusqu a un certain point des sacrifices pour l amour de die u  ne vont pas volontiers en corse parce que les paroisses y soni pauvres  et la vie assez miserable    le gouvernement fasciste intervient alors pour sauver le catholicisme en danger   di accord avec le vatican    mussolini envoie en corse des pretres italiens et fascistes  sous pretexie di assislance religieuse aux emigres italiens  ces pretres vont prendre la place de leurs collegues francais qui abandonnent file  et naturellement  en bons missionnaires fascistes  les pretres mussoliniens travaillent a convertir les   infideles   a la sainte religion de le irredentisme anti francais  en un mot  ils constiluent les avant gardes legions qui devront venir un jour planter dans file les glorieux insignes du tres glorieux empire    sta prova  un si po dunque niga  e tutta a populazione di i nostri paesi po testimunia sopra a u contu di i preti italiani in corsica  noi soli chi simu in la ignuranza sopra a  ssu puntu  sariamu grati a  sse duie anatre ben risignate  di numinacci unu di  ssi preti  u primu venutu  da chi no possamu salutallu a la rumana     
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="5" type="let" xml:lang="co">
+    <p>
+     una manatella di lettare caru sgio direttore  eccuei qui un mandatellu di 36 franchi per lottu almanacchi chi io aghiu spacchiatu in quattru e quattru  si e mio pecure un mi davanu lroppu occupazioni  truvaria a spacchian  ne ancu centu  per ste loghe duv elli cumencianu  a rimette in vigore a nostra belia  lingua  mandutemine torna dece  infantu  chi e staiu sl accampu   chi elli piglinu i paesi   soga simu in lu regnu di a schiavitu  per chi noi un possamu mancu piu finghie carta cu e nosire rivendicazione  capimu   faccine quante tacchina eppo impediscect a lagnanza   un ci e male  si ellu ci e bisognu  seriviteci chi saremu pronti a fala in ajacciu per mustralli e zanne inturchiale  e fa capisce ancu a u marleru chi ellu un duvara micca fa cum ellu vele per yabbene  un dimenlicale u cuncorsu di u cantu e fate chi ellu sine parli  quist annu  a lu oltu settembre  vi tocu a manu  diceudumi u sempre vostru fidu e a  algeri  ne 43 2 28 caru amicu e fratellu di fede  e capitata ancu in ste terre luntane a nutizia di lu accampu chi bo avete avutu  racuniavanu ancu chi bo erate statu arrestate e cundottu in sicurezza per nn pude piu noce cu e vostre campagne anli francesi      mi so abbistu chi noi vivemu in ln guvernu di e lampiunate  e a muvra ha finitu per schiarimmi tutt a fattu sopra a le affare cum ellu si e passatu  vegu chi bo un bi pigliate di paura e bi ne filiciteghiu  tutta dicendumi sempre cu boi di spiritu  cu speranza di vede finisce prestu sl esiliu furzalu e pude vene a cumballe a u vostru fiancu  aecettate in lantu una toccainanata frafer  na  si luigi paolantonacci  caru sgio rocca  un pocu tardi  ne e      ma quandu mi  mi ha parlata di le affare  mi truvava esse malaticciosu    eppoi  aghiu vulsutu aspitta altri falli e resullati  allora   pare chi elli abbianu fattu una bona pesca      ancu qualchi lisca di meia  ci e passata   da chi un li si e intraversata a tutti  chiuchi e majo   ma voi  sempre fieru  e noi  sempre cu boi  tante salute  e curaggiu  prete a  monsieur le direcieur  ayant appris par la jecture di un journal que a muvra avait pris le initiative di une campagne aulonomiste  je vous serais tres reconnaissant de me faire parvenir tons renseignements a ce sujet ainsi que le tarif des abonnements a voire journal et autres publications en jangue corse  prenant depuis longtemps un vif interel a ja question j avais une opinion deja faite bien avant di avoir connaissance da mouvement  ti r  PSludiani en droit  toulon 
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="6" type="his" xml:lang="fr">
+    <p>
+     film du maquis le francais actuel est bien phomme le plus chauvin qui soit et son chauvinisme degenere en un phobisme quasi general qu on ne nous taxe pas de suspeci d enoncer une veriie comme celle la parce que nous apparteuons a la redaction de ce journal ou parce que noire film emane d un endroit ou ne voni precisement pas se refugier les amis de l autorite l antipathie dont jouit l etranger ence momenti en france esi notoire le francais actuel donc hait l allemand deteste l anglais abhorre l italien meprise le russe dedaigne l espagnol fi nous en passons i certains nous feront remarquer    mais pouriant les anericains  ce a quoi nous repondrons   vous n etiez donc pas a paris quand le dollar colait 40 francs qu on chavirait les autocars ei quand on a execute sacco et vanzetti  nous devons cependant a ia verited ajouter que la france eprouve la plus vive sympathie pour un etat tampon  la pologne specialiste des incidents de frontiere et des differends et pour un etat balkanique la yougo slavie source inimissable de confili s mondiaux mais et cela retabli peu nous chaudrait que notre  grande patrie  veuille s aliener l univers ct notis n en parlons ici que parceque nous corses soiimes pris depuis longtemps dans le remous de cette vague d hostilite en effet le francais versiable de pure souclie de race que nous supposons etre originaire de l ile de france non content de s isoler ainsi tient a reirecir ericore et toujours davantage le champ de ses amities et en arrive a manifester la plus vive anfmosite pour ses voisins immediais ses voisins de palier c est ainsi quil part en guerre contre le breton qui a la tete trop dureet puis d ailleurs  les pomines de terre pour les cochons les epluchures pour les bretons  contre le PSofse c est des sauvages el ils sont tous flics  contre le flamand contre l alsacien lorrain il part en guerre en un moi contre tous ceux qui ne decreteni pas d un bout de l annee a l autre quetoni est pour le mieux dans le meilleur des mondes toiis ceux qui ont besoin de se nourrir de realites plus substancielles et a qui il ne suffit pas d entendre marthe chenal clamer la marseillaise ou de gofier saus reservelesdiscours de m poincare et la prose de m edouard helsey tous ceux qui peuvent vivre sans le moindre espoia d une prochaine derniere gue guerre u en somme le type parfait de ciloyen agree par le gouvernement doii assisler sans excepiion e toutes les matinees nationales de l opera ci se gargariser au 1n01n8 deux fois par four matin et soir avec la mixiure suivante cocardite extraii de bloc essence de zouave nous voyons donc approcher ie moment ou par ce jeu d isolemeni progressif ef de selection graduelle il n y aura plus en france qu un seul francais ce sera un nomme dumollard qui habitera rue lepic an cintieme a gauche au fond du colidor
+    </p>
+    <docAuthor>
+     Romanetti
+    </docAuthor>
+   </div>
+   <div n="7" type="div" xml:lang="it">
+    <p>
+     un pocu di storia  prucessu verbale di a sessione di u 14 jugnu 1794  vede a muvra di u 2o ghjnnaghin  l assemblea generale del popolo corso convocata per il giorno otto  cd apertasi il dieci de  corrente  sotto la presidenza di un decano  essendosi occupata a verificare la legitimita de poteri conieriti a ciascun membro che dovea comporla  e questi essendo stati scrupolosamente esaminati  si e riconosciuto  che i rappresertanti legalmente eletti  nelle rispettive comunita  secondo i processi verbali non contestati  o le decisioni pronunziate dall  assemblea  scono quelli designati nella lista  della quale e stata fatta lettura e che rimane annessa al presente processo verbale  e i detti rappresentanti avendo proceduto alla nomina di un presidente  le universale acclamazione  ed unanime consenso si e manifestato in favore di sua eccellenza il signor generale de paoli  il quale  invitato da una deputazione della assemblea   si e presentato fra le universali dimostrazioni di gioja  ed applauso  ed ha preso seggio  in seguito il presidente ha proposto di nominare uno  o piu segretari  e la assemblea ha determinato di rapportarsene alla scelta  che sarebbesi fatta da lui  ed egli ha detto  che il sig  carlo andrea pozzodiborgo procurator generale sindaco del governo  avendo costantemente cooperato con lui alia direzione  e regolamento dei pubblici affari  ed essendone pienamente informaio  giudicava di destinarlo a riempiere le funzioni di segretario durante la tenuta della presente assemblea  che il sig  gio  andrea muselli  quale ha fatte le funzioni di segretario provvisorio  essendo anche quello del governo  era cosa convenevole  che le continuasse  e la assemblea ha unanimemente approvata la detta nomina  e i segretarj hanno preso pure seggio allo scagno  1 membri del governo nazionale provvisorio essendosi  prescniati all  assemblea  il sig  galeazzi presidente ha detto  che si felicitava colla patria di veder arrivato il giorno  in cui la corsica  liberata dai nemici  e legalmente fappresentata  potesse dopo tante rivoluzioni formarsi una costituzione libera  che il governo si pregiava di aver cooperato con  zelo  e constanza a secondare i comuni sforzi  cic paterne cure di s  e  il sig  generale de paoli  per condurre ie cose della patria  in mezzo a tante contrarieta  e fra le dubbie circosianze che si sono passate  a quel punto di ordine  e disicurezza  a cui le vediamo ridotte  che il gorerno sollecito di deporre nelle mani dei popolo la autorita conferitagli  e che non ha esercitato se non per il pubblico bene  e secondo la mente dei proprj nazionali  egli bramava di sottoporre al piu delicato  e geloso esame la di lui condotta amministrativa  confidando  che questa sarebbe stala un nuovo titolo per meritare la pubblica approvazione   h sig  presidente ha risposto  che la assemblea vedeva con soddisfazione i membri del governo riuniti ad essa  e che si felicitava di poter loro manifestare con verita i pubblici centrassegni di stima  e di universale approvazione  chesi erano meritati   che avendo essi cooperato tanto diretta  mente a sostenere gli interessi della patria  la assemblea li autorizzava a prender parte con essa alle delibera zioni  e ad impiegare i loro talenti  e zelo  per concorrere alla grande cpera della felicita nazionale   alla quale dovea occuparsi  i membri suddetti del governo hanno preso seggio fra gli assemblati  in seguito  ed avantid intraprendere alcuna operazione e stato proceduto alla verificazione dei poteri  dei quali il popolo ha rivestito la presente assemblea  e fatto le esame  di tutti i processi verbali  e stato riconosciuto  che universalmente  e senza eccezione  o contrarieta alcuna  il popolo di corsica ha autorizzato tutti i deputati eletti a rappresentarlo  e a delle berare  sulle relazioni  che passeranno in avvenire fra ja corsica  e sua macsta il re della gran bretagna  ela nazione inglese come pure sopra aitri oggetti di publica utilita contennii nelle lettere di convocazione  dopo di che il sig  generale de paoli presidente ha detto  signori  lo desiderava ardentemente il momento di poter convocarei rappresentanti della nazione  informarli ampiamente dello stato delle cose pubbliche  e tramandare al giudizio loro le aite determinazioni  che devono prendersi sugl interessi della patria  subito che gli affari della guerra mi hanno permesso di sperare una breve sospensione dalle fatiche indispensabili che lo accempagnaro   appena liberato s  fiorenzo  ii capocorso  e bastia  ed avanti  di scacciare i nemici rilegati nell angolo di calvi  ic ho convocata ia nazione  perche essa decidesse del suo futuro destino  vi ho dato nella mia lettera circolare un saggio della condotta  che aveva tenuta in nome vostro verso la convenzione francese  e di quello che gli evidenti vostri vantaggi e lo imperio delle circostanze mi aveano prescritto presso sua maesta il re della gran bretagna  e fa nazione inglese  lo vi rinnovo di presenza oggidi le piu alte sicurezze  e chiamo dio  e gli uomini in testimonio della verita  che ho impiegati tuttii mezzi  che la moderazione  el amore della pace mi suggerivano  per distogliere i francesi dalla crudele risoluzione di accendere in corsica una guerra esterminatrice  ed internecina  sotto pretesti dettati dalla calunnia ed avvalorati dalla esagerazione  ma le fazioni non asceltano ne dimostranze  ne ragioni  tutto fu rigettato con ostinazione  ed il furore  e la perfidia minacciavano a quest isola una catastrofe  le di cui conseguenze non si possono coniemplare  e presagire senza orrore  mi persuasiallora  chei nostri nemici  avendo sciclto essi il vincelo poli tico  che ci univa insieme  e la nazione corsa riciamando da ogni parte di prendere tutti gli espedienti per liberarci dal loro conteggio  la confidenza onde ero rivestito  e la salute della patria mi imposero le indispensabile dovere di ricorrere a sua maesta il re della gran bretagna  ed alla generosita del suo popolo  vi comunico colia massima soddisfazione  che nel punto istesso  in cui i bisogni pubblici  je ansieta  ele circostanze erano sommamente critiche per noi  anche implorando la protezione di quel monarca  ic non chiamai in vostro ajuto la di ivi potente intervenzione  che per proteggere  ed assicurare la vostra liberta  questi soli sentimenti poteano deter minare il re di un popolo libero  ed una nazione leale e magnanima  ad impiegare il potere  che la provvidenza gli ha compartito sulla terra  in favore deila nostra nazione  che conta in questo secolo tante  e si varie beneficenze per parte della inghilterra   io vi dichiaro  che punto non ho anticipato le vostre misure  e che non vino compromesso col minimo atto positivo  che potesse ledere lo alto  ed incontestabile diritto  che vi compete  di giudicare di quelio che conviene in questa circostanza agl interessi della corsica  e dicio che potete prevedere dovergli essere utile nell avverire  voi esaminerete  se convenga di pronenziare solennemente  quello che i fatti hanno gia reso costanie la separazione assoluta e decisiva dalla francia   ed in questo caso  se conviene al bene della corsica  di passa re sotto la immediata  protezione  e governo del re della gran bretagna  con una costituzione  che assicuri la vostra liberta  e vi renda invulnerabili agli attacchi dei vostri crudeli nemici  riflettete ai vantaggi reali  che potete ricavarne  ed allo spettacolo del future destino  che si prepara alla nostra nazione in questo caso  ed io mi lusingo  che quel sentimento universale sparso in tutti i cuori dei nostri compatriotti sara manifesiato da voi con la unanimita  che regola tutti  vostri committenti  nl popolo  che vi ha inviati  aspetta dalle vostre risoluzioni di vedersi pes sicurato contro il potente nemico  che nen vuole piu la vostra soggezione ma il vostro esterminio  aspetta di veder concentrate in un governo legittimo  e solido iutte le piccole fazioni  che tosto  o tardi  vi condurrebbero dalla anarchia   alla schiavitu   aspetta di vedere nell uniorie coll in  ghilterra assicurata la vostra politica esistenza  e rella  costituzione che e 9  e   disaggi soffer da un popolo  che merita  do  o ta i disastri  di godere anch  ol  lan  i i pace  e della liberta  chi ha difesa con tanto coraggio  ed one a con tanto coraggi rata ostinazione  solo  cdnox
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="8" type="art" xml:lang="co">
+    <p>
+     cronaca aiaccina visite   in lu nostru po lampatu ancura u reina maria e cha na  bellissimu yacht di a ne cristi  transattantica spagnola  ven pagnia frejus  endu da  fra i turisti venuti a u so bord  cialmente per visita a dostr pe trova u marchese di valdeigles  a  sf rettore di u gran quotidianu g poe di  a u quale asguremu a benbeny o8 prossimamente  un altru bellis  yacht norvegianu  u prince  ola  sim mandatu da u capitanu fielstag gh in le nostre acque dopu e so altre sara te a barcelona  palma  casab  visitangeri  gibraltar  tunisi  malta  pe gitiu  custantinopuli  palermo rte li   o ape  ssu gran vapore di lussu chi mi 1oo metri di i  e ha ruta   ri di longu unn e altru che pa zianu yacht alexandra  custruttu a 19o8 a glasgow pe u re di inghilterra  vendutu dopu a una cumpagnia ne   vegiana  or gfficiali di ris ta  y  sa di riserva   li offici li di riserva  sezione di ajacciu  trita in assembiea generale a u munici a soit  a presidenza di u cumandantel u ca banu elettu a la unanimita i sgio   ti ci jones   cumandante leca  prisedente  te nente grisoni  vici prisedente  tenes  te di  spinosi  secretariu generale ti nente a  giacomoni  tesuricre  ta i sgio   capitanu silvani  tenente testaniere  so stati eletti membri di a cummissione di cuntrollu  e i sgio  tenenti francescu pietri  petru rocea  tassistru  membri di a cummissione di i voti  u carnavaie   e finitu u regnu di u carnavale  pocu splendidu quis  vannu in ajacciu   ne cumitatu di fes  te ne battaglie di fieri  di cunfetti dino essendu forse troppu cari  a piazza di u diamantesi ne e pocu carcata  ghiustu qualchi poche di maschere  rubba di giuventu  si hanu tiratu uni pochi di salti scimieschi par  ssi carrughj  u solu successu carnavalescu e sta  tu ottenutu da i dui balli mascherati organizzati  unu da a sucieta di e cor  se  e lu altru  u marti sera  da a sucieta di u golfe  in sti dui balli  in piu di a gran cuncorsu  si e pussutu rimarca u bonu gustu di a decorazione  u programma musicale  e varii ricchi custu  mi fatti per le occasione  
+  s
+    </p>
+    <docAuthor>
+     Pipistrellu
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     a cecceca in dumenica da mane    dicianove ferraghiu  l in unn e quellu chi manca dece mulla da fa unn aghiu   da  seriveli ani righe   ettu la musa in viaghiu  i sera lu to silenziu i sera turmentu o caffaru   soga un trovi piu tranebizie per risponde a lu to caru   inquant e me  li vergogni di un omu di lu mi paru  la ultima chi io ti aghju scrittu  forse un li hai ricevuta  si ellu un vera junla in manu mi sarebbe rivenuta  mi spiegarei la ragione chiti rende cusi muta  la jornu chi io su partitu aviamu fattu li patti    le lo prumesse  o cecce  soltu di pedi le piatti  in risposta 2 u mio bone core  e cosi chi tu mi tratti  un mi so micca spiega li to passi  a la andatura  e quandu ti so presente mi faci bella figura  ma le amore  in core a le  piu di una mezz ora un dura  di ridesi di la jente  micc a tuili li sta be  allora jugni a le ioie  e lu fo majo piace    chitano ne suspiri un ghiornu culumbuecia  piu ca mel   pe intarra lu mio dulore  tracciu la fossa stamane  e per meltem in la idea pun pudemmine scurdane  pienghierci a lu to lurnu quand un altru riderane  un ti ne ramenti piu  ti ne si diggia scurdata di la annata vinti tre  una sera a f annutiata   eiu maladiscu quella ora cu la anima stilitiata  oghie cercu lu silenziu duve nulla pun rumena   in la mio camera solu  carcu di turmentu e pena  l io solu suvenire waddurmenta e mi avvelena  mi vegu fra quattru muri cu la porta e lu purlellu   nsi dogu un colpu di occhiu a u mare limpidu e bellu  eppoi  vittima mi sentu di un amor troppu zitellu  cusi non vogliu piu crede in to amore passaggeru  quande tu mi avia dettu clvell era puru e sinceru  e stala per cresce in me li mio jorni di addisperu  aspellu di jornu in ghiornu per vedemi richiamatu  eppo andammine luntanu da u locu duve so natu  sperendu chi a lu ritornu mi ne seraghiu scurdatu  e tu  core traditore  cagione di i mio malanni  chi  cu le grazie di amore mi incateni e mi cundanni  chi l un soffri a ju to turnu  po dassi chi tu ti inganni  eiu  male un ti ne vogliu  la infortuna nn ti salutu  ma mi dispiace di i nassi e di u mio tempu perdutu chi io jettai appress a un core traditore e incunusciulu  si tu voli rifinia ciu chi io dicu cun primura  la farei riturna in tulo sia mio scriltara  o  sinno la siraccerai subitu dopu lettura  mi seusare si io ti facciu sia leilera cusi corta  ma lu pedone  da le  aucu menu mi ne porla  e ghiusia che nun mi pigli manch eiu tamanta storta  
+  s
+    </p>
+    <docAuthor>
+     L'Artigliore di u 38
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     pe i successi di natale zuccone  carisimu sampetracciu  accetta stu jellcrinu  ti vulia manda un dispacciu   ma oghie costa un cinquinu  per dilti a suddisfazione chi ebbi leghiendu a zuccone  inde lu sgio casanova  di i successi di zuccone u successu si rinova  a gioia face splusione  giuvanotii e giuvanotte ridianu cume sporte  saveriu si tenta lu iliu   marcu  agnula e paulella  nannetta  paulu e milia e maria  la piu zitella  facianu scaccanate  quant e zuccone  spaccate  un ti mandu cumplimenli  ma li vogliu ringrazia di tauti dolci mumenti chi lo ci faci possu  e eredu chi cirnu intieru di jannettu seru fieru  salutami  a lu trent ottu  quellu chi corsica onora  u distinu patriottu petru cu la so signora  manda un basgiaman a u mare  strada di le sanguinare 
+  s
+    </p>
+    <docAuthor>
+     Culomba di Casinca
+    </docAuthor>
+   </div>
+   <div n="11" type="poe" xml:lang="co">
+    <p>
+     per lu accampu lu altru jornu  truvendami a lu ascosu  un giurnali par leghia mi fu resu da un tipaccia superbo e udiosu  tutti li so parolli mi hanu offesu  ci er un arlicnlacciu scandalosu chi ha fattu cum pariscia u marsegliosu  pariuva ia justizia quisti jorni   mann preso la muvra par i corni  ti jora  muvra  sacra inviuleta  chi mi ha fatto unustomaen temonti  di sente a to voci puhlicata a me chi so lu loin mi e stunanti  vulintieri una bella cazzuttata fatt avoria cun quissu  gnurculi dopu  u ti avaria prisintatu e parchi fussi a lo mode cundannatu  stu  sente i me cunsigli  muvrarella  davanli a telli mostrati fiera  chi se lo  in la nostra cursichella  chi ci devi diregge a  to manera maigradu chi ancora si zitella  soln in te cunfidemu a bandera  e sei la padrona eternamenti  quantu esisti in corsica vivenli  o muvra teni bonu la to rampa chi le onore riveni si di a voli  quantu crea in terta corsa campa  se  tu chi chiamare i so figlioli milfondu sempri sotin  la ta zampa grossi manzie pulenti toracchiuli  e i corni di caccia ben sonati  chiamendu i figlioli rinnegali  quil ebi ti vonu vede i gambi tronchi  parchi di essa la mamma hai dicisu  ma  a parolli tonti  arecchj cionchi  faremi di i sumeri i so ronchi  manc anu ci ne colla  in paradisu  li femu vede chi a so poca stima ci ha resu piu corsi che in prima 
+  s
+    </p>
+    <docAuthor>
+     Luigi Cossu
+    </docAuthor>
+   </div>
+   <div n="12" type="art" xml:lang="fr">
+    <p>
+     l alsace baillonee nos amis ont appris comme nous avec un serrement de coeur les graves evenements qui se sont deroules en alsace le mois dernier apres ja suppression des journaux autonomistes l incarceration deschefs autonomistes l alsace est de nouveau baillonnee quelle est la veritable situation en alsace il est difficile de s en faire une idee exacte a travers les rapports trop souvent sujets a caution de la presse officielle y a t il collusion des autonomistes et des communistes  a ce sujet faisons remarquer ceci ce n est pas le souci du bien commun ou de l interet national francais qui guide le gonvernement mais le souci des prochaines elections qui doivent assurer sa stabilite c est ce souci qui lui a fait prendre des mesures contre les communistes mais en alsace le gouvernement rencontre deux autres categories d adversaires  les catholiques de l u p r et les autcnomistes il s efforcera alors toutsimplementde confondre autonomistes et communistes afin de les frapper d'un meme coup ils'efforcera tout simplement de faire passer les catholiques de vu p r pour desautonomistes afin de jeter le trouble et la division au sein du grand parti catholique alsacien  ca c est la politique du gouvernement  d autre part c est un fait les communistes prennent toujours et bruyamment parti pour les  peuples opprimes  on l a vu dans les affaires d aigerie du maroc des druses etc  ce beau devouement croyons ncus a tout bonnement pour mobiles je besoin de chambardement et le desir de se faire de la publicite le jour ou le mouvement breton en sera cu est le mouvement alsacien les communistes seront les ardenis defenseurs de la liberte bretonne et le jour ou la bretagne sera libre la societe bretonne n aura pas d adversairesplusacharnes que ces memes communistes y a t il collusion entre les autonomistes et les allemands rien n est moins prouve nous e croirons difficilement les alsaciens n aiment pas les allemands les prussiens suriout ce serait une faute de la part des autonomistes d aller chercher une alliance de l'autre cote du rhin mais c est une excellente tactique pour le gouvernement de faire croire que le mouvement autonomiste est mene par les allemands eux memes et ainsi de jeter lediscredit sur jui et le complot alsacien  citons a muvra  journal autonomiste corse  en fait de complot il n y eme qu un de reel c est la conspiration de poincare bar hou et cie contre la liberle individuelle des citoyens  un certain nombre de journalistes et de patriotes alsaciens coupables de trop aimer leurs pays natal et de professer sur porganisation sociale et politique qui imi convient le mieux des opinions differentes de celles de poincare ont ele apres des perquisitions operecs chez eux arretes et emprisonnes dans les gedles de ja republique francaise  et pour corser le tout on a pretendu avoir decouvert l existence detroupes constitaess par eux pour soulever la province el y etablir un gouvernement forme d aulonomistes dont on publie les noms empruntes a des listes prealablement fabriquees par la police francaise  caril s agit bel et bien d un complot trame par la police elle meme le gouvernement redoutant le succes des anlonomistes aux prochaines eleelions n'a rien trouve de micux que de faire incarcerer leurs principaux leaders pour leur enlever out moyen d aclion  si  communistes et si  boches qu ils soient les autonomistes sont des citoyens pour les incarcerer il faut tout de meme une raison alors or en fabrique une ils ont comploie contre la surete de l etat  mais des preuves pas besoin lorsque les elections seront passees on rendra une ordonnance de non lieu et voila tout c est une tactique presque habituelle a ce propos  la croix  dans un article reclamant la justice pour les autonomistes alsaciens disait ceci  i fut un temps qui n est pas loin ou nos gouvernements quand ils avaient besoin d'un coup de force les debarrassant d adversaires genants inventaient de faux complots pour motiver quelque arrestation preventive utile pour lemoment   j guiraud  n e  raud  ne nous etonnons donc pas du complot alsacien quelle que soit donc l attitude des autonomistes alsaciens vis a vis du communisme del allemagne et du gouvernement francais la cause de palsace reste intacte et cette cause est juste voila pourquoi nous devons conserver notre sympathie aux alsaciens qui luttent et souffrent pour la liberte de leur pays les seules causesqui meurent sont celles pour lesquelles on ne meurt pas pour lesquelles on ne souffre pas l alsace est donc assuree de vivre puisque l on souffre pour elle
+    </p>
+    <docAuthor>
+     F. B.
+    </docAuthor>
+   </div>
+   <div n="13" type="art" xml:lang="fr">
+    <p>
+     relevement   d ailleurs les apotres du e relevement qui combattent en se tenant soigneusement a distance de l ile deploient leurs efforts et manifestent leur activite an cours de reunions ou entre un black boltom et un yale blue av cours de soirees dansantes avec election de reine de beaute organisees par l  amicale des corses de paris et de la grande banliene  ne nous paraissent guere designes pour nous parler des miseres el des souffrances de notre petile patrie les seules voix autorisees a notre avis sont les voix de ceux de nos compatrioles qui vivent a demeure dans l ile hormis la classe de ceux qui vivent aux crochets d hommes politiques s y maintiennent au prix d efforts inouis y vivent dans son inconfori son insecurite ses tenebres y bouffent de sa vache enragee et y crevent de sa malaria ceux la peuvent parler  quand ils n en meurent pas
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="14" type="feu" xml:lang="it">
+    <p>
+     a i ae e 5 a altobello  se vi riescira averli per onte nta  e ve nare questa povera donna  yo na x di iau saro obbligato   poi verremo   e ar   cr ln igraziarvi voi e lui quando sa ete allownt    cri lino loggiati alla osteria del vio altobello  seguitato dalla madre chine al piano terreno col cuore tio past  ed era troppo piu base a 8 irritato  senza dire parola dada suo cappotto per la terra  e bale sotto una valigia per casi mise  plegate dipoi le ginocchia a pregare per la madre  per se e pel suo sciagurato fratello   affinche dio lo ravvedesse  la madre stette a confemplarlo estatica  poi di impeto lo bacioe lo benedisse  esclamando    fu soi il figliuolo della mia consolazione    ma voi  ora che ci penso  dove dormirete  mamma     dormiro seduta   e presa una scggiola l accosto alla tavola accomodandosi meglio che pote  ne stette guari che parvero addormentati ambedue   pero la madre vegliava ella leva cauta la testa  e poiche dal sospiro profondo si accerta essere il sonno disceso sopra le palpebre del figliuolo  si alza piano piano e si mette a giacere traverso la porta deila scala che conduce alle stanze di mariano    intanto chi ella si chinava premendosi con la destra il peito bisbigliava     perche questo   capo mio  capo mio  oh  non dirlo a questo mio cuore  noi non meriteremo di essere messi in mazzo tra preclari e tra grandissimi scrittori  come gual tiero  il marchese  eccefera  che tanto nobilmente dettarano storie dal 1847 in poi  ne manco pel fatto della verita  se affermassimo che il signore giacomo boswell si destasse con lo entusiasmo col quale si era coricato  anzi di quanto nella notte questo gli scemava  di al trettanto gli cresceva lo appetito  onde fu consiglio buono quello dell alando di provvedere in tempo  cibo il signore giaconio di iutto largamente  e con gusto  torno al   la usanza antica del prendere tabacco  dondolare la scatola e ripetere  bene  sia che ci incastrasse  sia che ci stesse come barabba nel passio  avvezzo a vivere fra gente di ogni maniera  e per natura discreto  non essendogli fatto motto dei parenti  capi che non ne doveva cercare e non ne cerco   solo gli parve disdicevole affrettarsi a consegnare al generale le lettere a lui confidate dal signor giacomini  non che le proprie  a questo scopo usci di casa accompagnato da altobello  per via seppero  che lo sciaurato bran do era stata rimesso in braccio ai confortatori  e al tramontare del sole sarebbe stato giustiziato  i congiunti suoi avere sporta supplica al generale perche la corda mutasse in fucilazione  ma non essere stata accolta  finalmente sboccati dinanzi al palazzo dei governo videro parecchi capannelli dintorno alle porte  e in mezzo loro una ventina di uomini a cavallo  questi vestiti di assisa soldatesca non si potevano dire  tuttavolta portavono abito uniforme di pano scuro  schioppo e banderuola  sciabola  pistola e stilletto   in capo un berrettone nero appuntato con nappa in cima parimente nere  montavano tutti cavalli corsi scarsi di altezza e di carne  di pelo la piu parte sauro  pero inquieti e di guardatura salvatica  altri sei cavalli piu appariscenfi e avvantaggiati stavano in mezzo bardamentati di tutto punto  ma vuoti   tra questi mirabile uno di razza araba  storno con morso e staffe alla turca di argento  la gual    drappa di velluto chermesino rica    mato in oro aila grande  naturalmente vene fatto ai nostri personaggi di domandare la causa di codesta adunata  e cui appartenessero cotesti cavalli   da principio non trovarono chi volesse loro rispondere  ma quando dichiararono uno di essi forestiero e lo altro giunto dopo lunga assenza il giorno precedente  seppero la cavalcata doveva morversi a ricevere le ambasciatore  che il re di francia mandava al governo di corsica  cotesti cavalli spettare ai comandanti valentini  ser pentini  saliceti ed alri  lo arabo a sua eccellenza il generale  aver glielo mandato a regalare il bey di tunisi  perche il generale impedi saccheggiassero una sua nave data in secco su la spiaggia di aleria  e manomettessero la ciurma  in cotesta occasione essere uscito in bando bellissimo  il quale in sostanza diceva  che lo uomo  colpito dalla fortuna non deve piu considerarsi turco ebreo anzi nemico bensi sventurato  e come tale correre pobblige a tutti di confortarlo  f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

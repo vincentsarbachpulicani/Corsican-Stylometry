@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1921_6
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     une republique corse  est elle possible   incorporee a la nation francaise de puis l'annee 1769 la corse a echappe de ce fait au risorgimento des republiques italiennes risorgimento qui a eu pour resultat vers le milieu du xix siecle l unification politique et administrative de la peninsule italique l'hisoire nous dira si cette non participation de la corse a un mouvement nationaliste qu'elle aurait pu suivre a influe desavantageusement sa destinee ou est au contraire l'annexion francaise en soustrayant definitivement la corse l ambiance italienne aura eu pour effet d ouvrir a notre ile des voies nouvelle le liberte et d emancipation nationale en tout etat de cause il serait desormnais vain d'assimiler la corse a une republique italienne  l eventualite d un risorgimento italien de notre ile est problematique d autant plus que le nationalisme corse d aujourd hui est tout different de celui qui agita il y  plus d un demi siecle la peninsule de mazzini et de silvio pellico  ce n est donc pas du point de vue italien qu il faut nous placer pour envisager la possibilite d une republique corse   une fois refutee la these unioniste  qui nous liait pieds et mains  pour l'eternite  non seulement a la france   mais aussi au gouvernement et a l'administration centrale de la france les   nationalistes insulaires ont soutenu cette autre these    la corse ayant eu un passe historique national ayant defendu les armes a la main ce glorieux patrimoine ne peut logiquement entrer dans le cadre artificiel ef compressif d un departement francais il lui faut une organisation politique et administrative propre basee sur l ancienne division de l ile en prieres et en pays d en deca et d au dela des monts     les principes wilsoniens du' droit de tous les peuples a disposer d eux memes justifient chez les corses ce souci de leur avenir national ainsi que leurs aspirations a la plus large des autonomies c esi face a la france les yeux dans les veux qu ils veulent traiter en cela d autant plus aisement qu un siecle et demi de francisation les rendent peu suspects de duplicite et de connivence avec leur voisine l italie  quant a la question de savoir si  corse peut former une republique elle est evidemment complexe subordonnee a des considerations economiques et intellectuelles sociales sa solution sera d autant plus difficile que le nombre de acteurs intervenants sera plus grand reconnaissons toutefois que le maras ne politique dans lequel nous vivons  la misere de notre ile l'insalubrite de certaines de nos regions l'emigration de nos populations sont autant d'elements qui expliquent notre mecontentement vis a vis du pouvoir central et militent en faveur de notre acharnement a poursuivre l'idee nationaliste corse geographiquement et historiquement une republique corse c est a dire une collectivite ethnique bien definie se gouvernant et s administrant d'elle meme  est concevable      les difficultes economiques et sociales qui s opposent a sa realisation sont celles memes qui s opposent au relevement de la corse comme departement   avec cette difference que dans le premier    cas elles seraient aplanies par des conceptions nouvelles tandis que dans le    second la gabegie politique et l'incurie  administrative ne font que de les  croitre et de les aggraver       disons  pour  terminer que l'idee d'une republique  corse n'implique nullement une arriere pensee separatiste si complete et definitive que nous voulons qu elle soit la reorganisation politique et administrative de notre ile doit etre une reorganisation purement interieure ayant seulement pour but a preserver dans le cadre elargi de la nationalite francaise notre precieux patrimoine de dignite et d independance insulaires
+    </p>
+    <docAuthor>
+     Mathieu Rocca
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="fr">
+    <p>
+     ouvrons l oeil  dans un recent article le depute de la mer noire apres quelques phrases de parfaite reclame destinees a masquer son opposition aux efforts de moro et de gavini pour le maintient de la flotte d etat et son utilisation sur les lignes corses nous y expose ainsi les projets de m rio sous secretaire d etat de messieurs les armateurs   nos lignes seraient exploitees  en regie interesee  par une societe  nous sommes a marseille et avons pu nous renseigner a bonne source  nous faisons donc savoir des maintenant a tous les corses que nos services maritimes seront assurees par une societe en regie dont feront partie plusieurs compagnies et ou entrera la compagnie fraissinet pour la part la  plus importante cni ue sa it  en un mot  les armateurs agissant dans le cadre fixe par rio landry giraud et doumer etaborent la repartition des lignes de navigation mediterraneennes de facon a laisser a fraissinet represente officiellement  d abord  et ensuite par des hommes de paille la direction et les beriefices de l'exploitation des services maritimes de la cor ' se   domi lt  ca ne s appellera plus fraissinet mais ca sera fraissinet tout de meme  et voila  pendant que moro gavini i et bouisson imenaient inlassablement le bon combat landry et doumer dans la coulisse faisaient le jeu des armateurs le jeu de fraissinet  na mais maitre moro qui a prononce a cette occasion le meilleur discours de la legislature a le droit de dire maintenant aux corses quelques verites qui souleveront une belle indignation contre les mauvais bergers de l ile miserable  ru sf su il est donc prouve une fois on nous dit que m coty constitue   une societe au capital de quinze millions pour les services maritimes et l'industrie hoteliere corses le bruit est serieux et les patriotes corses doivent le connaitre pour agir en consequence   si m coty tend ses efforts vers ce but tous les corses quels qu ils soient doivent l appuyer
+    </p>
+    <docAuthor>
+     Orsini d'Ampugnani
+    </docAuthor>
+   </div>
+   <div n="2" type="poe" xml:lang="co">
+    <p>
+     voceru di maria felice di calacuccia in morte di u fratellu  eiu fila va la mio rocca     quandu intes  un gran rumore    era un colpu di fucile        che mi intruno in lu core   era un colpu di tuclie che mi intruno in lu core  di   he    mm nn    parse chi unu mi dicissi     corri  to fratellu more     corsu in camera suprana  e spalancaju la porta      ho livatu indu lu core     lsse  cu eju castaju tite   si allora nun morsu anch  e una cosa mi cunforta   boglio veste li  calzoni       bogliu cumpra la terzetta  per mustra la to camiscia     tantu nimmu ne un aspetta  a tagliassi la so barba  dopu fatta la bindetta     a fane la to bindetta   quale voli chi ci sia      quale voli chi ci sia      mammata vicinu a more o to surella maria   i ne to se e a  oh   si lariu un ne era mertu   senza strage  nun finia    di una razza cusi grande ti ont calu tina surella   ip una razza cusi gialli   lasci solu una surella senza cucini carnali 
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="fr">
+    <p>
+     cultivons notre langue notre ami m p graziani archiviste departemental a engage avec m s arrighi a la suite d un article publie par ce jeune universitaire dans la  revue de la corse  une polemique des plus interessantes sur l origine du dialecte corse ainsi que sur l influence de la culture italienne dans la civilisation de notre ile a l encontre de m arrighi m graziani soutient que notre dialecte est un dialecte toscan et a l appui de sa these il donne l origine toscanes d une liste de mots dont le jeune agrege affirmait l'irreductible corsisme encore une fois cette controverse nous parait des plus passionnantes pour les grammairiens et les philologues mais nous doutons fort qu elle puisse  edifier la masse des lecteurs et l engager a jeter sur notre langue autre chose qu un simple regard de curiosite litteraire or nous avons le devoir nous corses  d nous interesser a la langue de nos pere l avantage qu a celle des bas bretons les basques ou des tartares et a defaut de connaitre ses origines d'une facon precise nous devons du moins l etudier  la cultiver telle qu elle se presente elle que nous 1 entendons parler par nos montagnards  cultivons notre langue corse c est le cri qui devrait retentir dans nos colleges et ecoles et qui devrait rallier a  la cause regionaliste toute l elite pensante de l'ile nous savons bien qu'on objectera que notre langue est encore  a l'etat chaotique que non seulement  on se perd en conjectures sur ses origines mais qu on ignore egalement sa grammaire     ces deux impediments ne sont pourtant point insurmontables puisque des patoisants comme santu casanova et maistrale ont redige pendant des annees leurs journaux respectifs a tranuntana et a corsica   notre langues corse existe  ses denigreurs i eux memes avouent sa vigueur ainsi que le grand role social qu'elle joue encore il suffit simplement de nous pencher sur elle pour discerner les mysteres d'un organisme que de nombreux siecles de funeste lethargie n'ont point encore reussi a detruire   avant meme qu une academie corse nous ai donne une grammaire et un dictionnaire cultivons notre langue efforcons nous de lui faire embrasser tous les domaines de la pensee c'est une erreur de croire a l instar de certains patoisants qu elle ne peut servir qu a fixer les scenes ou des situations risibles l origine de ce prejuge est evidente  l abus excessif de la langue francaise dans toutes les circonstances de la vie insulaire revetant un caractere tant soit peu officiel  son emploi dans nos ecoles et colleges a frappe d impuissance notre infortune dialecte et le reduira  a moins d une reaction salutaire  a  notre infortune dialecte et le reduit a moins d une reaction salutaire   ne plus exprimer que de triviales necessites et impressions de la vie quotidien evidemment la question du renoueau de notre langue est intimement iee a celle de la culture intellectuelle  la difficulte d ecrire et de s exprimer correctement en dialecte corse s accroit du fait que nous n avons pas a proprement parler de culture insulaire seul le mouvement regionaliste en prenant de l extension au triple point de vue politique historique et litteraire peut faciliter la tache aux ecrivains corses et a ceux qui pretendent le devenir      le dialecte corse tant au point de vue phonetique qu'au vue de la variete des vocables et des idiotismes est un des plus riches qui soient  il pourrait aisement soutenir la comparaison avec le catalan et le provencal si une elite s etait appliquee depuis longtemps a le cultiver a le former aux exigences des idees abstraites et dela speculation philosophique et historique       a nous donc de reparer le temps perdu en recueillant sur le papier pour le transmettre aux generations  insulaires futures ce precieux tresor dont le renegat et l etranger meditent la dispersion
+    </p>
+    <docAuthor>
+     P. di B.
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

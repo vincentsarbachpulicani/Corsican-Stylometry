@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1922_9
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="co">
+    <p>
+     la idea naziunale corza esiste  a muvra la ha turnat a fa nasce  a muvra la ha fatta cresce e fiurisce   u jornu ha da spunta  induv ella si mustrara cu tutt e so billezze quandi tutti li omi di i nostri cunfini capisciaranu chi ell e di u so duvere e di u so intiressu di cuntribuisce a u so sucessu   di u studiu di st idea nazionale e nata a duttrina naziunalista  peniu u piu priziosu di a vittoria chi ha da vene   cuncepita in fora di tuttu spiritu di cumprumissione  sta duttrina face cunosce e macagne chi si rodenu a nostra corzica  e purghe e li unguenti chi a ponu guarisce   a pudemi spjga cusi   in primu  rende a i corzi u sintimentu di cioch elli so  ce a di  a cunuscenza di a storia di a nazione corza  a prova di a so esistenza e di a so schiavitu  a nuzione di lu intiressu chi ella ha a bule esse ella stessa        dopu  cumbatte li ignoccari  i stupidi e i vittoli da pude scambia lu intellettu di a razza circataghia e muribonda     par que ci vole a fa un paratoghiu contr a le azione anti corza di a francia e lu impidimentu di   a civilisazione tarulata di a nazione di poincare e di clemencea u chi disdrughie le ideale corzu  ci vole a fa ripiglia a st ideale a so marchia naturale chi dara a u populu strangulatu u rinascimentu intellettuale   infine  caccia a corzica da e manu di un guvernu  di una amministrazione incapace chi a tenenu infunata  chi si storzanu a spizzalla  chi a ruinanu e chi a meschianu a la esistenza di un populu di sangue frustere  ci bole a ottene un autonomia di a corzica e a turnalli a da a so custizione naziunale   eccu i segni di le azione corza  lu andatu e tracciatu  a i beri figlioli di sampieru e di de paoli  di fane un stradone da pudeci passa di fronte     i povari di ghiudiziu  li incurnuchiati di core  li aghiumpati di spinu i stretti di pituriccia  alzaranu e spalle parch un pudaranu capisce e ragio di st azione  o allora si ne impavurisciaranu parchi un avaranu u stomacu di scambia e so abitudine di pinzere torbidu e di vita fiacca    ma i razzacuti  quelli chi anu indipindenza di intellettu  forza di carattare e sangue rossu in li polsi  quelli chi si abbedenu chi ellu ce qualcosa di majo a fa  in corzica  quelli cula  binaranu e cuminciaranu  a sfrunda e a spianta cu noscu
+  s
+    </p>
+    <docAuthor>
+     Petru Rocca
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

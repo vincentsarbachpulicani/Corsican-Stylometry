@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330923t
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330923t
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 372 | Année 10
+     </edition>
+     <date>
+      1929-10-20
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Annu X — Numaru 372 Esce a Dumenica Dumenica 20 Ottobre 1929   GIURNALE DI E PIEVE DI CORSICA  TT ABBUNAMENTI :  inCorsiea. à - ee r rr ri x à 15 franchi  InFrancia. + + «&gt;&gt; ...... 18 »  Unione postale è È ù La ma ~ sm à BO  U Numaru:5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     puliticaccia  u triumviratu pinzutu  prisentamente  lederlin cede u passu a doumer  perche i lupi un si manghianu fra elli  ma passa u so  sacchettu a landry  e questu  si eliu e elettu senatore  li passera a so  piazza di deputalu  dunque  un ci e che una piccula mudificazione in li folli  ma u triumviratu resta tale e quale    i    doumer      ci est un oisea u qui revient de france     un acellu riccu impiumatu e di altu volu  chi pe  a terza volta arieghia sopra la isula martire per circacci cio chi voi sapete     salutate tutti  o jente   ssa potenza pulitica di un statu potente    ss omu digia celebre chi appartene a  storia di u so  paese e a e pagine illustrate di u   larousse     salutate dino in ellu una potenza di u mondu di a finanza e di li affari  ma votateli contru    gridate a lu acellu   sciu     gridate a u potentatu di a pulitica  dietru  satanassu      e gridiate a u gran speculatore   maladizione    siate sprezzenti per ellu quant ellu fu sprezente per voi  siate u populu altieru  reputatu di fervidu amore per chi u tene caru  e di odiu tenace per chi u disprezza e u tradisce  or  doumer la ha disprezzatu e traditu durente diciott anni  diciott anni      millaie di soli e di lune passate sopra a  corsica miseriosa e in dolu  chi doumer averebbi pudutu e duvutu fa felice  ancu per le onore e a riabilitazione di a francia chi la ha ruvinata    e di altronde  chi significa sta cummedia di un presidente di cunsigliu generale in un dipartimentu francese chi ellu serve di core e chi dumanda u titulu di senatore di a corsica chi ellu disprezza   si noi un la pudemu spiega  almenu finimula  e chi ellu un si parli piu ne di a cummedia ne di u cummediente     e ora chi noi facciamu i nostri affari  e doumer andera a fassi eleghie o    leghie in altro   giordan    que po  allora  ghje un gattumammone  terrore di i pullinaghj     un nottulu sinistru a timpani di oru chi he a so  tana in parigi e affacca in corsica ad ogni burrasca elettorale  ellu un vole micca merchia a quattru zampe  e di nasu cume i cani e ubbidisce a  voce di u cacciadore landry   dettuli   ferma    un trema mancu piu di un pelu   dettuli     a te    si lampa a vita persa  fendu sunagliula i so  timpani di oru  u pezzu  invece di levassi  si agguatta  e landry unn ha piu che a coglielu senza tira un colpu       dunque  preziosu pe u so  patone  ma dannificu pe  i corsi  chi di  sse caccighiate un ne vederu che le osse e finiscenu per abbanduna e so  terre battute  ci vole a fe fughie  ss animalottu a forza di cornizate  di fischj e di gridi  cutm ellu si face pe  u porcu salvaticu chi ruvina vigne  biade e castagne      ci vole  infine  a sbarrazzassi di u $mistru giordan    lu oru chi ellu lampa in li nostri poveri paesi e tantu focu  spessu si tinghie di sangue e serve a cumpranne panni di dolu     giordan e ancu incapace di fa un parlamentariu  e per cio  scunsidereghia a corsica e la ha sempre pagaia di a piu nera ingratitudine  u so  bagagliu  chi a stampa landrysta ci dice voluminosu  e di lussu  ma biotu  alcuna opera umanitaria  alcuna opera di azione economica  alcuna intervenzione publica a u parlamentu    giordan unn e che un strumentu di i nostri malanni  e u delegatu corsu chi votera per ellu tradiscera a corsica  a so  mamma   ci vole a scancella u nome di giordan ci un steccu incadramatu    lederlin       stu nome ha un sonu argentinu  ma chi sera quellu chi u porta     pe  u momentu  un pudemu che rimproveralli di affacca in corsica di una manera pretenziunuta  di entre in casa nostra senza picchia e di vule piglianne pusessu senza dumandacci scusane u nostru pare   lu omu ha la eria benissimu  ma un si sa si ellu sara santu o diavule  solu  u so  umile seguaciu addestratu da landry  spiege a cirnu stupita    eccu un signurene amicuintimu di u sgio adolfu   ricevilu cun rispettu e ricuniscenza per le onore chi ellu ti face venendu a te  ellu ha solli quante renain mare  si chiama lederlin  vene da francia  ma e guasi paisanu di lu anticu re tiadoru de neuhoff  ponu ancu esse mezzi parenti     stu signurone e un geniu di la attivita umana  un altissima potenza di u mondu industriale  ama u travagliu e la umanita  e per cio  attiratu da e to  bellezze e cummossu di e to  miserie  vene a te per fatti ricca e felice  di a to  casa sgangherata ne fara un palazzu fastuosu  di e to  macchie ne fera giardini  viderai sfumaccica fabbriche e treni veloci  averai una reta di strade lisce duve stoli di automobili trascineranu in ogni sensu folle di jente  venute da tutte e nazioni per ammiratti o trattacci affari  o dumandatti a salute di u corpu  a tranquillita di u spiritu e a purificazione di j anima  e to  padule riempiute diventeranu tanti campi di granu piu belli che quelli di u tempu chi tu servia a roma  la acqua cristallina junghiera in le to  piaghie a bollori  e to  coste seranu cuntinualmente accinte di battelli venuti da tutti i mari  infine  serai cio chi tu devi esse   regina di bellezze  colma di ricchezze  ammirata e invidiata da u mondu interu  inturniata di tutti i to  figlioli uniti in la pace e in lu travagliu sani e grassi  e chi averanu sempre  la poule a u pot  cum ellu si dice in francia      cirnu sta a sente tutte  sse meravigliose prumesse  ma inc un suspiru di dubitu si dumanda si landry avera piace      tutta a quistione e custi   u sgio lederlin po ave prisentamente bone intenzioni per noi  ma tempu chi ellu sera deputatu  u sgia adolfu li dicera   a cartapecura di u titulu ti costa abbastanza cara  ava chiodi uto  saccu  un ci lascia che un scurnucciu apartu da chi io ci possi ficca a mio manu pe i nostri futuri bisogni pulitichi  eppo  a corsica lasciala fa cu me       e u sgio lederlin u stera a sente    almenu chi giordan scunsulatu un li di a a riflette  dicenduli    fanne altrimente  sinno  ti accadera cume a me     quessu serebbi lu unicu serviziu chi l ex deputatu ed ex senatore averebbinu resu a  corsica  senza vulella   v  g  di altimonti
+  s
+    </p>
+    <docAuthor>
+     V. G. d'Altimonti
+    </docAuthor>
+   </div>
+   <div n="2" type="let" xml:lang="co">
+    <p>
+     lettera ajaccina  caru cumpare   ottobre cuntinua a dacci e so  belle jurnate di sole altepidilu  sebbialu quellu chi po godesilu quici in passighiale pe  i circondi duve un cantanu digia piu e grillacchie slatinaghiole  dicu be  inde i circondi  perche si omu conta di tumba a jurnata stendusine in ajacciu slessu  ci e da junghiesine a dorme a sera cu u capu biotu e a bila santavugliata   qui  cula  in carrughiu  caffe  mercalu  e sin a inde zia maria a rivenderola di anchiuve  bastiacce  un si parla che di sari e giordan  di doumer  roccaserra  ece   ece   di ciocch elli hanu fattu ci ciocch elli si fianu a fa  a jente ne je cume briaga  e ogn unu sfoga in parolle un mutivu di attaccamentu a a sn  benefattrice branca     eiu ti dicu chi mansiu doumer e solu capace di facci ottene qualcosa per u trenu di sarle       ed ein ti ripetu chi un ci e ne doumeri ne a sdoumera   u  sgio landry e oghie u padrone di a situazione   e si fu conii di fa qualcusella senza u so  pisto   uuffi      quante di  o signore  paratemi  ssa vacca      ma pielri e stalu e sera ministru       mai prima che landry    ndeh i soldi di giordan i cuntale pocu   e ancu  a ringrazia chi ci e statu una intrappulalura pe  u sgio lederlin  sinno  mancu bucchiule ci cacciavated     si lu boli vede poi  chi u sgio chiappe unn avessi avutu tamanta cacagliula         chiappe   unh  unh  mancu tulli i so  parenti di sarte  ha piu amici in parigi ca in corsica     ie  ma li elezzioni si facenu cula e micca qui  a prova  hebrard  rane  combes  chaleil  giordan  doumer  e  guasi lederlin   e zuffi e dalli  e impiccia e imbroglia  e zucca e fendi  ma chi ella scappi inai a minima attenzione sopra a malabbiata sorte di la isula marturiala   ma chi unu pensi seriamente     so tutti pari pari cume i granaghioli  e si puderebbe cunta piu sopra a pecurone ca sopra ad elli      o si  pensendula   ss unu abbia a vulunta di fallu fala seccu per pecurone  dendu cusi una lezzione a i corsi incancheriti da  ssa puliticaccia chi ci tomba  auh   si jugnera a bede e a tucca  tulti  u disgustu sera generale  ma si pulitichera quantunque a la epuca venuta  la individualita    ssa bella pianta pampanuta cultivata in corsica da i puliticanli sottu lu occhiu accunsentente di marianna  fera sempre frutta a pulitica  cun ella regnera a galtiva justizia  e  cun questa  cum ella a dicia a muora jorni scorsi  regnera la anarchia in tuttu e per tuttu   ed eiu  a v aghiu delta  caru cumpare  mi sentu vene lu abbampu  niente che a passa una di sle belle jurnate oltobrine in stu furmiculume  duve st arnachia si palesa in mille modi  sia puru festa  preferiscu andammine in punta di un scogliu a  zirica u pesciu  chi quesiu un tocchi puru  dumenica  jornu sulenne di u votu  ne feraghiu altrettanlu  e boi da custi luntanu saperete forse u risultatu prima che me  chi caldu o chi freddu mi po fa   cancheru o rabbia  altru un po esse per u nostru paese   sartinesi unn hanu ancu compiu di aspilta u primu fischiu di un trinnighellu  e e zinzale aleriacce un so ancu pronte a prepara i so  fangotti       mi avete parlatu in la vostr  ultima di fa una riclamazione pe  a mubigliaria inghiusta chi elli v haru impostu  pagale e lasciale corre  u novu prefettu e face lampa a u jetiu  e risposte  rejei  so preparale e lesle  e u cuntrollu si rende contu  da luntanu    chi tuitu e impostu cun imparziale justizia     mi avete parlatu dino di vule manda a vostra figliola a a scola da sie parte  qui dino bi rispondu   lasciale corre  lasciatela cu a so  mamma  amparera o mancu a fassi un puntu di cusgera e a cundisce una suppa  si custi un ponu ampara che a scola di e capre  quici amparanu quella di e    fatti bella e serei piaciuta  micca chi ellu un ci sia boni prufessori   ci e sopratuitu gattivi programmi  in scola e   dopu scola  cuniendu quelli di u casino duv ell e di usu  per certe mamme di famiglia  di cunduce e su  figliole  scularelle a bede e donne nude chi beienu i cokfails  per sgumbralli u cerbellu infuschitu da li equazioni e a matafisica   ava po  sapete   quesli un so ca cunsigli   liberu fermate  si bo  v intendile di vedeci piu chiaru e si boi unn avete tanle peuricchie   qui bi lasciu  cu tante salute pe  a casa e ci una toccamanala   vostru cumpare 
+  s
+    </p>
+    <docAuthor>
+     Altore
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     e si tribbia   e si tribbia   ma questa la tribbiera unn e di orzu  di vena ne di  ranu   si tribbia   cu bisognu e mammapiera  spula u populu corse u ventu insanu   equessu e u ventu puliticu  u veniu chi trescina toscu e belenu  u ventu chi mette a fame in casa  chi trescina e nimicizie e assolve lu assassiniu  chi addispera a medita di la isula e caccia quill altra  u ventu chi arrega a ruina  alimentatu sistematicamente da marianna  per finisce di fa di a corsica un scogliu lavatu  tippale strattegicu  nodu di e strade gallia africa  gallia oriente   per tutti i nostri guai e miserie ricocca a voce in  gni paese  a pulitica  a pasturaglia  a    a    ma pulitica  eo  ne cunuscerebbi una  quella di u lene publicu  a resurrezione di un populu da ellu stessu  u ristabilimentu di u rispettu di u prossimu  di a pruprieta  di a justizia per tuttu e per tutti  cun  ssa pulitica riesceremu  perche u populu cumencia a bede   bede chi i capi macchia attuali un so che mannerini di trovula  rossi e bianchi  senza vergogne ne russore  u so  scopi  li onori ad elli  e a schiavitu di tutti   i viderete junghie  $ticcati  impuntati  guanti e canna a la manu  certi  monoculu a lu occhiu  istallendu a so  alterizia semtaristocratica  un si arricordanu piu chi elli so stati allevati cun poca pisticcina e chi e so piu grandi attribuzioni funu di fa a cani di quartiere     si vurrianu impone  solu cun qualchi discursettu compru un si sa duve e imparatu  ne a nuttata   ma ohime   duve je un meritu di ssa gente  duve je u be chi elli hanu fatti   bigliacchi e corci  hanu disertatu u fuculare  unn avendu curaggiu di lavura   hanu rinnegatu a so  patria  un si so mai cumandati  si ingonfianu di ave assai solli  ne ha ancu u bojal soga ne fecenu participa u publicu o almenu i so  amici  i si magnanu daper elli   picchiate  e so  porte so chiose     ede appressu a  ssa jente chi no  avemu da corre   so quessi chi ci si hanu da impone in pulitica  alo  alo  in terra i mascherati    la idea bona cresce di jornu in ghiornu  e prestu sfiacculera a vera pulitica  quella di u veru ideale  di u risurgimentu di u populu corsu  ne a so  terra   ma tandu lu libecciu spulera tutt a mercanzia falzificata   e a  luce di ognunu mettera da chi la nostra terra fu straziata 
+  s
+    </p>
+    <docAuthor>
+     O. F. Piazzoli
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="co">
+    <p>
+     evviva   e sempre evviva   rammentatevi  figlioli  chi un certu tempu fa  i giurnali hanu annunziatu  cun una grandissima suddisfazione  chi un  quai  di parigi si sarebbe chiamatu all avvenire   quai de la corse    i nostri fratelli i francesi  svegliendusi di un longu sonnu avianu infine pensatu a noi   fin qui in tutte e citta di francia duve ci eranu tante strade di algeri  di u maroccu  di cina  di inghilterra  ecc     un si truvava micca un solu carrughiu di corsica  i i  bisogna a di che i cunsiglieri municipali di a capitale  fer ripara questa grande inghiustigia  avianu sceliu u locu piu scantatu di parigi  duve un ci era nissuna casa  nissun magazzinu   ma in questu mondu ci vole a sapessi cuntenta    ebbe  i giurnali francesi hanu fruvatu chi questa miseria era ancu iroppu per noi   l echo de paris   unu di i piu gran giurnali parigini  ha scrittu chi la idea di chiama un cantucciu di a   ville lumiere    quai de la corse  un pudia esse nata che ne un capu di un barbaru   1   ha vulsutu fa un pocu di spiritu mi si rispondera un ci e gran male     castigat ridendo   dicianu i nostri antichi  i latini micca  i gaulois      ridendu si castiga quelli che si ha  ne u nasu  tuttu ciarlendu si dice gattivezze   cosa dicu   ci trattanu peghiu che i negri   si e fattu a gran spese piu di mille chilomitri di strada ferrata a u sudanu  si ne face ava al menu altrettantu a u gabone  e noi  di i sessanta chilometri da ghisonaccia a bonifaziu  vutati e pogati circa vinti anni fa  unn   avemu mancu i quindeci chilomitri chi separanu ghisonaccia da solenzara    si cuntinui a saluta piu che mai i nostri fratelli i francesi e a grida a voce alta e piena    evviva a nostra mamma  a francia  chi ci tene cusi cari  
+  s
+    </p>
+    <docAuthor>
+     Vindice
+    </docAuthor>
+   </div>
+   <div n="5" type="let" xml:lang="fr">
+    <p>
+     u cungressu di rennes demu sta volta u  loast prununziatu da pelru rocca a u gran ban cheltu e u discorsu di u diputalu di e fiandre ward llermans prununziatu al adunata generale  cumpagni di fede  compagnons de foi chers amis laissez moi vous donner ce titre c est celui avec lequel se saluent nos freres de corse qui comme vous luttent pied a pied contre les etouffeurs des justes aspirations de leur race  a rosporden et a morlaix en 1927 a chateaulin l annee derniere et ici meme dans votre belle capitale c est avec la meme joie et le meme orgueil que je suis venu des bords de l isula persa l e le perdue me retremper dans cette ambiance de saine energie qu' est celle de vos reunions annuelles  les amis pasquale manfredi et yvia croce ont bien voulu se joindre a moi cette annee pour vous apporter les veux les plus ardenis du comiie et des adherents du partitu corsu autonomista et vous donner la ferme assurance que tous ceux qui dans l ile ont echappe a l intoxication assimilatrice sont de coeur avec vous  les honorables deputes dahlet et ward hermans messieurs olier mordrel maurice duhamel et pasquale manfredi nous oni fait toucher du doigt la hideuse pieuure centralisatrice et vous savez a present que de pur la volonte malsaine de son corps flasque sans repit ses ventouses aspirent en alsace en flandre en bretagne en corse l ame meme la seve genereuse de nos peuples  il est bon que je vous dise que c est sur l isula persa que la bete immonde a deroule sa tentacule la plus puissante et qu elle y a presque acheve son aeuvre d epuisement et de mori il est bon gue je vous le dise non poini pour recevoir de vous tous le reconforiant temoignage d une fraternelle pitie mais pour que vous enirevoyiez la vigueur de noire reaction qui n est point une convulsion d agonie mais un soubresaut d indeniable vitalite  un montagnard de vico fidele lecteur de notre muvra me disait laconiquement au cours d une recente rencontre  l alsazia e a brettagna so in purgatoriu ma a corsica e a l infernu  l alsace et la bretagne sont au purgatoire mais la corse est a l enfer  l allegorie dantesque de cette phrase tombee des levres d un paysan peu loguace je vous la rapporie comme un gage de notre sincerite de notre sympathie pour des compagnons de chaine qui voguent dans la meme tempete et qui veuleni atteindre le meme port  ce ne sont point la croyez le de ces paroles qu engendre la chaleur d un banquet et que la brise du dehors refroidit ei emporte mais l exteriorisation d un sentiment miri aux feux de l adversite  non l amitie dure comme dure la haine au pays qu exalta en ces vers pun de ses plus nobles fils  t amo o terra degli odi tenaci  t amo o terru dei fervidi amor  je t aime o terre des haines fenaces  je t aime o terre des ferventes amours  cumpagni di fede c est sur ce poetique rappel que je veux lever mon verre a la resurrection et au bonheur de votre bretagne de voire alsace de votre flandre et de notre corse et que je liore aux echos amis de cette salle notre cri d esperance et de foi  ritti  debout
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="6" type="let" xml:lang="fr">
+    <p>
+     mesdames messieurs  mes chers amis  qu est ce que le mouvement flamand  essentiellement rien d autre que l irresistible et naturelle impulsio de l ame populaire flamande avide de developper a ciel ouvert ses forces et ses qualites ethniques pour realiser le vaste champ de possibilites que recele son ideal national  un poete a dit que c est la nostalgie d un peuple pour une patrie qui soit a ui un historien dirait que le mouvement flamand est ne dans les annees qui ont suivi la creation de l etat belge la politique de cet etat vis a vis du peuple flamand estcaracterisee par la phrase bien connue d un francais naturalise belge charles rogier qui n hesita pas a declarer en sa qualitede  premier ministre belge en 1831   tous les efforts de notre gouvernement doivent tendre a la destruction de 1 langue flamande pour preparer latu ion de la belgique avec notre gran le patrie la france  les premiers principes d une bonne administration sont bases sur l emploi exclusif d une langue et il est evident que la seule langue des belges doit etre le francais pour arriver a ce resultat il est necessaire que toutes les fonctions civiles et militaires soient confiees a des wallons ou a des luxembourgeois de cette maniere les flamands prives temporairement des avantages attaches a ces emplois seront contraints d apprendre le francais et l on detruira peu a peu l element germanique en belgique  depuis le premier ministere belge preside par rogier jusqu a celui que regissent aujourd hui mm de broqueville et vanderyeide cette politique de denationalisation et d abotardissement a ete continuee pendant bientot un siecle avec une tenacite digne d une meilleure cause  une reaction etait inevitable d abord cenfinee au terrain litteraire et romantique penchee sur la grandeur evanouie d un passe lointain cette resurrection de l ame populaire flamande eut pour premier effet une manceuvre des partis politiques qui se donnerent plus ou moins les gants de defendre les droits et les revendications du peuple flamand mais la politique flamandophile de ces partis n eut pour ainsi dire aucun succes car l unitarisme belge la centralisation belge arientaient l action des partis et par consequent leur tactique quant a la question flamande   l impuissance des partis traditionnels belges a resoudre le probleme flamand fit surgir le nationalisme flamand  celui ci n'agit plus seulement aujourd hui dans les limites de l etat belge mais aussi a l etranger pour y reveilier la conscience universelle temoin futur et meme au besoin arbitre de cette lutte d'un peuple pour son existence nationale ne fut ce que pour la grandeur de son histoire passee pour sa gloire artistique dont tous les musees d europe sont les magnifiques temoins ne fut ce que pour la lutte desesperement sontenue par ce peuple contre ses oppresseurs pendant des siecles  qui pourrait ini refuser le droit de determiner lui meme son avenir   a l occasion du cinquieme centenaire de l universite de louvain les etndiants flamands de l alma mater ont remis a tous les savants venus du monde entier pour celebrer le glorieux jubile un memoire en quatre langues ou se manifeste ce reveil d un peuple groce a ses jeunes generations   en belgique l on voudrait etouffer la voix d un peuple qui reclame ses droits et son autonomie sous pretexte d evenements historiques fruits da hasard mais que l on pretend definitifs et qui ont empeche le peuple flamand d atteindre son plein developpement politique et social mais ici egalement le nombre grandit de ceux qui refusent de s incliner devant un fait qu ils considerent comme temporaire et contingent et nullement comme permanent et necessaire   ce langage energique et digne n'a plus que de lointains rapports avecles divagations lyriques du mouvement flamand a ses romantiques debuts c est un accent nouveau c est l indeniable symptome d une epoque nouvelle dans l'histoire d'un peuple en pleine renaissance  aujourd hui plus que jamais on peut appliquer au reveil de l ame populaire flamande ce qu ecrivait j b langlois en 1858 dans son mouvement flamand au point de vue politique o  le mouvement flamand pour quiconque le considere est imposant mais il est surtout entrainant et irresistible pour ceux la qui ont le sentiment de la dignite nationale qui he se sentirait emu en voyant ces hommes transportes d un saint enthousiasme travailler au reveil du peuple et rever pour celui ci de grandes des tinees pareilles sinon superieures a celles qu il a eues dans les siecles precedents avant que l etranger n eut ruine nos provinces ils sont beaux  ces homines qui avec de faibles moyens reduits a leurs seules ressources entreprennent l oeuvre colossale de la regeneration de la patrie  plus qu en 1858 ces lignes sont vraies en 1927 en depit des calomnies interessees de la presse bruxelloise ce n est pas sans raison que m maurice vaussard ecrivait a la page 204 de son PSrnquete sur le nationalisme pour se justifier d y avoir publie une reponse provenant d un nationaliste flamand   il nous a paru particulierement interessant pour des francais d entendre l un des leaders du muuvement flamingant extra parlementaire dont les formules radicales surprendront sans doute beaucoup de nos compatriotes mais leur apprendront du moins ce qu ils chercheront en vain dans nos journaux dits d information et la mesure exacte des dangers auxquels dans sa reponse fait allusion rene johannet  c est exact le public francais est systematiquement induit en erreur par sa presse qui n a en belgique que des correspondants bruxellois redacteurs a desjournaux bruxellois anssi venaux que certains organes francais c est ici le secret de polichinelle qu une grande partie de la presse belge de langue francaise emarge aux fonds secrets du quai d orsay lorsque les journeaux flamands protestent a juste titre contre cette propagande subventionnee par l argent francais les journaux accuses repliquent que leurs adversaires sont des ennemis dela france mensonge avere souvent denonce encore plus souvent repris faute d arguments plux serieux pour indisposer l opinion francaise contre le mouvement flamand c est a bon droit qu un francais chef du cabinet adjoint d un ministre du gouvernement poincare avant le 11 mai ecrivant sous le pseudonyme de cineas insistait dans sa lettre d un francais a quelques patriotes flamands sur la creation d un parti national flamand sur la partialite avec laquelle wallons et bruxellois informent les journaux francais toujours au detriment du mouvement flamand  les flamands doivent a ce manque d audace d en etre encore pour leur developpement national au point ou se trouvaient les tcheques il s a soixante ans  is ne sont representes ils n existent devant l opinion francaise qu en tant que sujets belges leur rage leur civilisation leurs droits leurs aptitudes leurs aspirations ne sont entrevus chez nous qu a travers iles partis pris et les calomnies dela jalousie walonne  juges que selon les points de vue et les passions d agents de publicistes et de fonctionnaires antiflamands   les detenteurs du pouvoir en belgique s imaginent a grand renfort de phrases solennelles et menagantes pouvoir nous faire renoncer a notre desir d autonomie ces aveugles ne voient ils pas que ce desir est aujourd hui formule par toute la generation militante de flandre ne le comprennent ils pas en voyant les nationalistes flamands reconnaitre comme le vivant symbole de leur lutte pour l autonomie le rebelle flamand qu est le docteur auguste borms embastille depuis huit annees dans la prison cellulaire de louvain  a notre avis le docteur borms en faisant prevaloir contre les pretentions nefastes d un etat tyrranique les droits intangibles de son peuple a devant dieu et sa conscience agi conformement a une regle morale d une haute elevation  c est pourquoi la jeunesse actuelle demeure fidele a grande s est propose elle l a procinme iu de sacrifices considerables se min lanties heures tragiques qu elle a pp cues lorsqu'en avril 1924 un etudia  wallon de l a ma mater commit sut un de ses camarades flamands  po tentative de meurtre apres cet fea dent l autorite academique denia po etudiants flamands le droit de mai fester librement pour leur idea nati n naliste flamand une vive iutte s en a gea alors entre l'autorite academi da et les etudiants flamands dont   meilleurs furent expulses de l univ na site l ideal que borms s etait propose et qu'il a tente de realiser pouvait seul preter un sens au sacrifice sanglant des milliers de jeunes flamands a s imaginaient combattre pour la flan dre et ses droits e d avoir du constater apres cou que ce sacrifice n a ete qu une citer tragique de l energie et de l esprit da sacrifice des notres ne peut que bat fermir notre conviction que la flandre n a rien a attendre de l etat belge se tralisateur et devra son salut unique menta sa propre activite militante et constructive  par la prison et les condamnation a mort le gouvernement belge a vou ju atteindre dans la personne des activistes ceux qui inconsciemment peut etre avaient decouvert cette ve rite ety avaient conforme leurs actes  la flandre militante ini a depuis longtemps repondu par la revendica tion de l amnistie totale et sans condi tions  le gouvernement vient par la bou che du ministre de la justice de reite rer son refus d appliquer aux activistes meme de simples mesures de clemence  a nos yeux c est la l exercice d une vindiete impitoyable contre des ad ver saires politiques  devant le monde entier nous denoncons le traitement inflige par la belgique aux idealistes flamands com me incompatible avec la conscience juridique moderne et avec la morale chretienne  depuis longtemps la jeune flandre a tire la conclusion qui decoule d un siecle d oppression et des persecutions recentes contre le nationalisme flamand  seule l autonomie peut sauver notre peuple flamand   et elle le sauvera
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="7" type="poe" xml:lang="co">
+    <p>
+     risposte  a 1 induvinelia di u 6 ottobre  tuttu cio chi facia a lo  bellezza  o corsica  e sparitu pianu pianu  di aio razza e sparita a saviezza cum ellu e sparitu u pan  di  ranu  e sparitu u to mele profumatu p i fiori di macchioni muntagnoli  ediu stacciu di seta  u serinatu un ne annanera piu li to  figlioli  u culatu cu lu pane graninu  ci davanu culor  di latte e binu 
+  s
+    </p>
+    <docAuthor>
+     Un Abbunatu
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     so ben pocu cumpetente  ma la vurria pruva   quest e una curiusita pe  sfuga un pocu a mente   di  ss oggettu abbandunatu mi so messu ala so  cerca  tutt ognunu si ne lecca  di  ssu piattu prelebatu   unn e piu le accordeone ne mancu lu zerpugnolu   questu e lu granaghiolu   chi empie lu corpu a lampione   utile a la umanita   ghie una roba di magnusca   si la ferina si busca  ghranaghioli si po fa 
+  s
+    </p>
+    <docAuthor>
+     Cesari Sebbiu
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     ne rispondu lestu lestu   benche spieghendumi male  credu chi ellu sia u testu quellu oggettu musicale   e u un so trasgioglidore   ma credu di induvina cia chi praduce le odore   utile a la umanita    unn e che lu castagninu   e credu di esse induvinu   ghiuvanni
+  s
+    </p>
+    <docAuthor>
+     Sinibaldi
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     face pro fra i bell odori   u profume di u fromentu    chi le essenze di li fiori   di ruina so strumentu   face a musica piu bella   utile a la umanita   lu stacciu  nde a madiella  quandu batte u tarata 
+  s
+    </p>
+    <docAuthor>
+     Anonimu di Pioggiola
+    </docAuthor>
+   </div>
+   <div n="11" type="div" xml:lang="co">
+    <p>
+     impicci e  mbrogli  fressineghiu  a  seduta di u cunsigliu generale di u 26 settembre  u sgio trani  cu grande indignazione ed energia  ha fattu tucca le esagerazione di i prezzi di eline e di a gorsica   di un inchiesta persunale chi ellu ha fattu a marseglia  risorte chi   pe e line e marseglia algeri  percorsu 85o chilometri e tariffe applicate so e seguente   marcanzie  3o franchi a tonna  imbarcu e sbarcu  3o franchi a tonna   pe a linea marseglia proprianu  percorsu 35o chilometri  a cumpagnia fraissinet piglia 4o franchi a tonna  piu altri 4o franchi per imbarcu e sbarcu   sta situazione  ha dettu le oratore e una vera calamita e un non sensu  e di natura a scuraggisce le iniziative  le espurtazione di i nostri pruduttie resa impussibule  e u sgio trani ha cunchiusu cusi     un semu micca andacciani  vule o nun vule  sta situazione deve cessa  per le onore e le avenire di u paese    bellu be  aspittemu u mese di jannaghju     intantu  fressineghiu rmalgradu centu pruteste  inaugura u serviziu di invernu cu lu arrivu in ajacciu a e tre di mane    a quoi bone se gener    in danimarca  cume in francia  le istruzione e obligatoria in danimarca  a sola differenza e chi in quellu paisolu  i parenti paganu cu la amenda o a priggio quandu izitelli si tiranu di gamba   ma cula a scola unn e micca quotidiana  li alievi vanu a  scola due volte a settimana  lu invernu  e quattru volte a settimana  le estate   nisun duvere a fa in casa e nisuna lizio ad ampara       1 jorni induv ellu un vanu micca a  scola  i zitelli ajutanu i parenti o travaglianu inde li altri cultivatori o artisgiani ogn unu ci trova u so  tornacontu  masci e femine  interessati da a vita di i campi  unn hana ingrandendu  nisuna voglia vi lascia un travagliu chi elli cunoscenu be   ma in francia ci vole chi i chiuculelli siianu    educati senza perde un ora sola e senza mai pensa for  che a i programmi   e chi programmi      cusi si impastanu i mullami e si fabrica avucati  duttori  prufessori  stitutori  ecc  ecc  e capi vani senza iniziativa o ide e proprie  veri motini di spirtu   in una corsica autonoma  duve li interessi agricoli e industriali sarianu largamente rappresentati  un si intisicaria micca u chiucchinu di i zitelli cu liste di sottu prefeiture e nomi di battaglie   si pudaria omu inspira di lu esempiu danese 
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="12" type="div" xml:lang="fr">
+    <p>
+     giurnali i sgio cunsiglieri   partout la session du conseil general sc deroule dans l indifference d une population qui en dehors des periodes electorales entend n attacher aux reunions officielles et aux convocations plus ou moins solennelles de ses elus qu un minumum d atlention  ici au contraire a chaque session de l assemblee departementale la facade du palaislantivy devient le mur derriere lequel il se passe quelque chose  venus de leurs lointaines communes des maires au veston de velours promenent aux terrasses des cafes des visages mysterieux ou rebarbatifs  est ce a dire que nos conseillers generaux constituent par eux memes un spectacle particulierement attrayant mon dieu non   maigres ou gras petiis ou grands glabres ou barbus bavards ou silencieux rejouis ou melancoliques ils n'ont physiquement rien de phenomenal ni de sensationnel et l on se demanderait vraiment a quelle cause profonde se rattache cet indeniable succes de curiosite si la connaissance de l ame et de l histoire corses ne permettait de se determiner assez exactement  dans l esprit de notre constitution republicaine le conseil general a 616 institue pour permettre nux delegues de s occuper du menage departemental tout comme les ediles s occupent du menage municipal cette formule qui est a peu pres exacie dans la grande majorite des departements francais est tout a fait inexacte en corse  d abord ici les rapports yoeux discours et autres fadaises que peut engendrer une session du conseil sont consideres par le corps electoral comme des manifestations d un mince interet ce qui compte c est la presidence on sait par experience que le parti qui enleve le siege presidentiel enleve du meme coup l assiette au beurre et ja racle de telle sorte que les petits camarades du parti adverse n ont meme pas la ressource de lecher le plat aussi l election a la presidence at elle l importance aux yeux du public d une grosse partie de baccara dont l enjeu represente la fortune pour les gagnants et la ruine pour les perdants  et une fois l affaire enlevee par la vertu d une majorite qui s'est acerochee a la presidence comme un naufrage s accroche a une cage a poules il se trouve du coup que contrairement a ce que pretend la sagesse des nations  les conseilleurs sont les payeurs  en d autres termes les conseilleurs ou conseillers de la majorite ayant accapare les finances departementales deviennent des sortes de demi dieux qui peuvent en entr ouvrant les doigts laisser tomber sur leurs parlisans une manne celeste sous la forme de lavoirs de bornes fontaine ou de groupes scolaires   on concoit que dans de telles conditions tous les exercices oratoires on redactionnels qui peuvent s ensuivre ne presentent qu un interet anecdotique  aussi n est ce point pour les appronyer ou les desapprouver que ces politiciens de villagesont descendus de leurs hauteurs  mais comme une nuee de mouches voltige antour du garde maiiger ils evolnent autour du palais lantivy attendant le monent propice de saisir u sgio cunsiglieru par un bouton de sa veste  etrange mentalite certes mais qui s explique assez facilement somme toute quand on evoque le passe de ce pauvre peuple que le destin a toajours force de lutter contre la tyrannie ou piniquite et qu on maintient volontairement dans cet esprit de lutte et d intrigue  l eveil de ta corse  i f uresteri la corse qui a inscrit dans son histoire tant de noms illustres ne renfermerait elle maintenant aucune personnalite capable de la representer dignement et utilement pour defendre enfin ses interets jusqu ici trop meconnus devant le senat  et l ile delaissee devra t elle par la faute des combinaisons des politiciens subir une fois de plus une candidature exotique en la personne de m lederlin chasse des vosges  nous esperons qu avant de mettre leurs bulletins de vote dans lesurnes nos delegues senutoriaux auront fuil un retour sur le passe ce passe nous devons le rappeler pour que personne ne soil tenie de l oublier  m iiebrard directeur du temps  battu par le college senatorial de la seine se reiugie en corse d ou on l envoie sieger a nouveau dans ia haute assemblee  quels avantages m hebrard a t il apporte a la corse en retour   aucun  m rane battu a paris est a son tour recueilli par la corse  quels benefices la corse a t elle tire de son election  aucun  m combes perd son siege en charente  la corse le lui rend  quels bons resultats en a t elle   aucun  les electeurs senatoriaux de l aisne repudient m paul doumer  on le fait repecher par la corse  que fait pour la corse m doumer president du senat c est a dire le deuxieme ma gistrat de la republique   absolumentrien  lt m giordan
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="13" type="let" xml:lang="co">
+    <p>
+     lettera da prupria  caru direttori   oghj  emu avutu a visita di i nostri candidati  ma a ricezzioni unn e slala tantu sulenne  a pocu pressu come quilla di a volpi chi ando in caprara par magna i capretti e fu ricivuta da i cani   di mali un ci e statu  nulla  ma ancu pocu di be  u peghiu e stata par uni pochi di diligati e di miracchioli chi so stati ubligali di fa u dighiunu coine i cumunicanti  sin a un ora dopu mezziornu  campa chi  missusi a tavula  un so stati tanlu a impatta u tempu persu   mentri stavanu magnendu  si sintia di tanlu in tantu da u stradonu quilli pochi  di sciaccamanali  un bisugnaria ad arreghiasi a quissa  parchi u vinu di zi  jaseppu faci fa quissa e piu quand ellu ci si metti  pensu cusi  parchi so surlili tulti rossi come capponi   se un mi sbagliu  mi pari di avecci vistu anc a pasquinu  anzianu pastori di miluccia  ma quistu  amatori a rendasi contu di tutti  ci dev essa statu piuttostu par curiosita   dopu u pranzu  si so resi tulli in casa di u cunsiglieri ginarali  e cula  lu hanu rincalcata  v assicuru chi u sciampagna curria come la acqua  ancu simonu cicciu si ne ha sciaccatu qualchi buttigliaccia  ed e surtitu cun una flaechina chi tutt i sartori un rescenu a fa cusi cumpjla   a u sciampagna ci eranu lulli  ava  resta a veda si u vinii prossimu intravanu tulti in lu compulu   chi lederlin ni vinissi   si cuntavanu li jorna    cun quill altri candidati nun ci so che di prufofma   vi pregu di ave prudenza lighenduli pa  li corna   e circheti di amanzabbi a li muntoni lanuti chi li aveli vista beni    ci ne e sbarbati e barbuti   ma nun so si ella vi resci a falli cunturra tutti   si ellu nun vi manca boj mancara qualchi vitellu   uni pochi chi ci ne e vulianu lu bursellu   e mancu credu chi tutti rispundaranu a lu appellu   tanti saluti a i cumpagni muvristi  ci una strinta di mani par voi 
+  s
+    </p>
+    <docAuthor>
+     G. P. Codaccioni
+    </docAuthor>
+   </div>
+   <div n="14" type="feu" xml:lang="it">
+    <p>
+     indi a breve scomparve  ne si intese piu oltre favellare di lui  dicono si riducesse a menar vita romita in olmetta di capo cerso la verita e che in codesta pieve su di un poggio vediamo anco ai di nostri una torre a mezzo rovinata  che 1 terrazzani chiamano la torre della rremita    alando e serena tennero un pez79 dietro ai signori clemente e matteo  ma considerando come   mpegnati nel discorso  a loro non ponessero mente  piegarono ad una svolta per guadagnare le proprie  case  tacevano  e nondimanco sentivano che un medesimo pensiero occupava lo spirito diambedue  un poeta avrebbe detto  che le colombe di venere sentono a quel modo il giogo stesso che le allaccia al carro della dea  e non lo odiano  sempre insilenzio arrivarono a casa della serena  eli si dissero   buona notte  un cotal poco alla trista  e si volsero le spalle turbati  ma serena troppo piu di altobelio  e con maggiore ragione   infatti ella pensava  a lui spettava parlare  anche quando mi sentissi scoppiare il cuorela verocondia insegna cosi  e sta bene lasciarci vincere  ma nessuno ci ha da pestare peggio che schiave  altobello dal canto suo ragionava nella medesima guisa   pure ella avrebbe dovuio dargli un cenno  alla lontana se vuoi  pure tale che lo animasse  perche  signore dio  se avesse sbagliato ei ne sarebbe morto di vergogna e di dolore  all incontro serena presaga di cotesti pensieri opponeva   oh   non ci sono questi pericoli  ed egli  dovrebbe saperlo   non glieli ho dati io questi segni per quanto e permesso a fanciulla dabbene  e vie piu la che il mio stato angoscioso non consentiva  quante volte in in chiesa piegai il capo  ed una vol  ta fingendo sedermi lo voltai del tutto per ricercarlo con gli occhi  e trovatolo con gli occhj gli sorrisi  certo due e tre volte mi aspetto davantila porta sperando che lo guardassi edio non lo guardai  ma ilrossoreche mi avvampo la faccia doveva pure chiarirlo chi io lo sentii    quel giorno chi egli 1e porse la acqua benedetta deve essersi accorto che la sua mano tremava come foglia di castagno al vento di dicembre  e lo altro quando ella entro in casa filippi  e allo improvviso le apparve dinanzi altobello  non proruppe in un grido  che si ingegno giustificare dando ad intendereche aveva battuto il piede sopra la soglia  ancora  non si rammentava egli  che andando ella per la via  egli la saluto levandosi il cappello  ed ella che incotesto punto teneva  la anima tutta compresain lui sopra pensiero rispose    buongiorno altobello   comecche ripigliandosi tosto aggiunse  scio alando  e tutio questo non basta  o da quando in qua le fanciulle hanno da palesare i dubbiosi desiri con lettere da appigionarsi   signore   per mantenersi cosi gabbiano valeva proprio il pregio che altobello lasciata casa se ne fosse ito fin oltre a venezia   qui taluna leggitrice  me lo sento piovere dietro le spalle  obiettera  ma voi dimenticate  signor francesco  che lasciaste il giovane in istrada  e la giovane sul pianerottolo  mentre per fare tutti questi discorsi anche col pensiero ci vorrebbe tanto tempo quanto ne occorre per iscorrere almanco quattro miglia di strada    no  signora  il pensiero degl innamorati  vostra signoria ba da sapere  va piu veloce di maometto quando viaggio pei settecieli   egli non conosce tempo ne spazio  in meno che palpebra non percota palpebra   trasvola non le diecine  ma le migliaia di idee  alza venti torri piu alte di quella di babele  scava altrettanti pozzi piu profondi di quella di san patrizio   fa  disfa erifa da capo  si incupisce  si eclissa  sfavilla piu abbagliante di prima  piange  ride  mesce in un bicchiere veleno  poi lo butta al diavolo  lo risciacqua  lo riempie di vino di chianti e se lo beve cantando   o introduce il capo nel capestro   o accosta il rasoie alla gola  indi a poco attacca la corda a due rami di albero e ci fa lo angiroccolo   col rasoio si rade la barba per apparire piu bello  insomma la e una strana  ma strana potenza quella delle amore   signora mia  e quando la avra provato  sono sicuro che ella mi dara ragione  capisco  ella mi ha contradetto perche si mantiene sempre ingenua  non me ne sono mica arrecato  solo la prego a ricordarsi del proverbio   chinon prova non crede    provi e poi ci riparleremo    f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1331008b
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1331008b
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 270 | Année 7
+     </edition>
+     <date>
+      1926-11-10
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     270 GIURNALE DI E PIEVE DI: CORSICA  ABBUNAMENTI :  in Corsica. «.. . « . ... / .'... . + 12 franchi  In Francia. 0. i «. - 4 ~ . . . ..'. 15 8  à PrEsteru. ........... : 30  U Numaru; soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  38, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     spiegazione    fra li arrabbiati chi abbaghianu contru  a muvra  ci ne e di duie spezie  li uni  cercanu  di fura cue rosule di a carita u so piettu puliticu  dicendu chi  a muvra  ingrossa ogni fattu  trowa mosche in ogni locu stryendusi di tuttu genere di argumenti  per grda  sontru  j abandonu scandalosu  in lu  juale a francia lascia u nostru paese   per quessi  malgiadu i  malanni di a  corsica  ci  vole te adutii e amore  pinzutes piz da fi ci sudina ta chi    et ug vel sa du    ...l aitri mettenu pedi e mani ina suppera    senz altru   ci setvehu lu argumentu sempre facile di insultu gratuitu  pe i novi lettori  di   a muvia  turnemu  a stampa  una epiegazione dipiu data centu  pollen  iu   e i  a  si a prieris u raggiunamen ti di sti scandalizati un tenerittu  lscrivani e callabutatori di  a  muvra   in fatti  hanu suc chiatu v latte pinzutescu  una  parteifra essi so stati nutriti di  4 5o spiritu  universitariu  li umi e li altri ponu  di chi hanu duvutu lutta  fa un veru  sfor zu intellettuale per rivulta u  solcu di a scimita  di a vigli inerzia e di le ertore  quandu  si agisce di apprezia a cundotta di a francia versu a corsica  u so  pare e dunque indipendente perche sgaggiatu di ogni opi  ione fatta a lu avanzu  cume i naziunalisti francesi chi curnbattenu  elli  a marianna a u minatu di vista di a forma  guvernamentale  tti    cio chi un ha che relativa impurtanza pe i  muvristi  attesu chi un dumandanu a la fine di i conti  che la anda be di ihostri affari  cime i naziunalistt francesi  dimiu  sti crivani eeullaburatori di  a muora     un haniu  nisuna passione  rabbiosa  nisun tigliu ne partitu presu ne contru   pinzutia  ne tiancu contro  marianna  e so opinioni   ci ripetimu  un so micca nate sopra lu arburu fiuritu di a cunvenzione   quelli chia credenu hanu tortu       pero in casa nostra  si  gtierdanu e cose in lu specchiu di a  iggio e di a iustizia senza cuntentassi di  chiacchiare ne difole cume tanti e tati chi si ingollenu  a chios occhi   e sciabulate di certi impinzutiti interessati a stu genere di educazione di u spiritu  tuttu cio chi cerea di offusci stu specchiu si streccieera pelle e carne au fl di ferru barbulutu  corsu   ghie per dibbi  chi e stafilate sopra  e groppe di pinzutia  quand elle fiscanu  so date a prupositu e seguitanu di altronde u sigliare di una situazione storica evidentissima    e utile di ripete  in fatti  che  pe i scrivani muvrini a  storia e un missale un vangeju chisi deve rispetta e vene  ra a lu usu  corsu e chi p occhiuti soli ponu leghie  ristu missa   le e scritta a passione di un populu crucifissatu a pontenovu  a passione di una razza chi 15o anni di  chiavitu hanu circatu di avelina in tutti i sensi  ci una legislazione falza  e dannosa  di una razza trattata       centu volti peghiu che la araba  e chi oghie jornu ancora sta sottu e botte sanguinose di un puliziottu diventatu pre   fettu tirannu        in certe schiere corse a moda di grida contru e tirannie di dittatori stranieri  un ne vii dema la utilita  ma  ricunuseimu chi a buffoneria ghiunghie a u super superi  quantu sti sumeri chi roncanu a chi piu po sopra a li affari di li altri  calanu arecchie  chiodenu  occhi   e mastucatoghie quandu si agisce di i nostri propri affari corsi  quandu si tratta di apprezia u valore di u disprezzu di cui epagatu da a francia u populi corsu  di lu abandonu e u  je mi en f   sme   chi regnanu in tutte li amiministrazioni corse   di a tirannia per cunsequenza  chi ci e imposta dipoi un seculu e mezu    e e   li muvristi un hanu nisuna esitazione a fassi accusatori publici  e  quand ellu  ci vole   mettenu e metteranu i punti sopra li i cun tutt a vivacita di spiritu necessaria  stu spiritu sera sempre prontu  ed acutu cume una spada si e so premizie fussinu dubitose e storte e so conclusioni un ricuserianu  di ricunnosce le errore   dumanda pero chi ellu li sia pru  vatu     o i  ave fidutcia in pinzutia     tene caru stu populu difensore  di tutte e liberta      si si  di accordu  ma fiducia e amore dumaridanu areciprocita  di altra parte un ci facenu micca perde di vista chisimu corsi e vivimd cu a corsi in corsica  bisogna dunque   sentesi e capissi  pero  oghie iornu  cur tanti cerbelli  a la ritrosa  un e tante facile  ci o      noi  ritiutemu   tutte  le idee chi sentenu u rinchiusu e  a morte lu idsciemu casca stistracciin lu cimiteriu di u vecchiu vulemu esse le avenire e le avenire corsu         eccu pe i primi aversari      im quant a i secondi  ne dieeremu poche cose  e scialbature di sta banda di purcastri e capimu  benissimu  a ricaniscenza  di u ventre li face un duvere  di difende a trovula piena  aghiustemu  per elli  che li insulti sempre facili a truvassi in punta di una penna di pacuttiglia  ci lascianu freddi cume pal di ferru          cui schiaffi di su genere un si persuade mai a nimu  tuttomu  scrittore  o no  rispettosu di i diritti di l intelligen za i chiama i frutti avvelenati  di una puverta di cerbellu chi deve fa piu pieta che altru 
+  s
+    </p>
+    <docAuthor>
+     Rustincu di Loretu
+    </docAuthor>
+   </div>
+   <div n="2" type="let" xml:lang="co">
+    <p>
+     lettarinu  eccumi scalatu in aiacciu  lu aiacciu bellu di maistrale  lu aiacciu di bona clima pe i malaticciosi e i giandarmi in ritirata  lu aiacciu riccu di gattive lingue  di pesci di scogliu e di innammirainenti  v aiacciu infine  duvell un e ancu smarrita a razza di i boni corsi a sanna  e di lomi raggiunevuli  spultimu puntu mi ha fattu assaipiace                cume voi videte  annunziu u mio arrivu ci un introitu chi si  po assumiglia facilmente a un tianu a mischiu  di quelli tiani paisani pe e famiglie mumerose  pomi  carotte  arlicchiocchi  piselli  civulette e carne muntunina  ma    tantu megliu    ognunu pudara sceglie cio chi li piace un piu    postu chi agghiu mintuatu a maistrale  vi parlaragghiu di ellu  tempu sbarcatu da trinnicone utiscontru sottu un diavule di cappellu biancu fatt a paraqua  sempre grassu e tondu  biancu e rossu e risa in bocca cume la aria eraventosa  favia schiaffatu a so vunnella di villutu lisciu     mi   mi    a maistrale   chi tu sia fucilatu   allora sempre be mi si pare     oh oh  deh que ghie ghiannettu   chi tu fia a malamorte  deh  chi cerchi quindi   allora  per pocu o per qualchi tempu   ia    u piu chi si po  caru maistrale  per tuttu pinvernu alnmenu         eviva noi   per lu muri dacciuladru  basgiami qui a pizzichi  eh   un saragghiu piu solu  infine  fast    chi e stu discorsu  o maistra   mi pate chi bo siate addisperatu  chi ci e di novii    deh     un la sapete chi u nostru caru amicu petru rocca e sempre in manu a i duttori          dino quessa  per la madosculaccia  aio parlate ih furia  ba    ba quantunque assai megliu indu si arrizza ancu  e    sapete si ellu cimentegghia e si ellu mastaccia  vedendusi cusi reclusu dipoi piu di cinquanta jorni  eppo allora videndu quessa  pensate un pocu sie lingue di uni pochi di chi mine so giu  si so mosse arrabiate      caru  jannettu  ava ci piglianu per frascacciule castagnine in sant andria   sant andria  sant andria tutte le frasche ie manda via   per spiegatti megliu  ava passemu per pecuraccie musi  nose speperse  senza pastore     senza pastore       e cusi  strada facendu  ghiunsemu quassu a la ultima casa vicinu a grotta  duve lu agghiu visu su nostru pastore  sempre bellu faticatu ben si  mafor di u minimu periculu  a so cappana un minacciava non piu di falassine perche i travi di u tettu so di legnu cas  tagninu tagliatu a luna   pian pianinu e bel bellu  o amichi di e chiarasgie  stu nostru pastore sera prestu in pede per pudestinza la oricchionia uni pochi di scrivacciulo  ni  chi un pussedenu per tuttu sale che boccapanzuli di accattani e vigliaccaghine  i  chi elli dianu qualchi ghiornu di tempu  da chi ho possa mu arruta e nostre jorbici arrughinile e fo si vidara   o maistra un semu soli   semu parecchie  e  credu chi  queltu chi no1 inziccaremu a la orecchia dritta ppurtarau segnu a a fossa      si ellu un bastanu e forbici  ci saranu que   rispundi una voce meza tonu e meza scaccuhu da daretu a una tramezzana  apru a porta per vede qual ella era e ti vegu un pezzu di alifernu di omu cu certe mani chi parianu quelle di un ercule di muse u      ye  ce saranu que  cuntinuo valifernu di omu  e  un ci a nulla di megliu che dui sce u  quotti nant a i nari per amutulisce i maldicenti   qualchi bastiacciu ne pudaria certifica  si ella era qui prisente   tuttu parlendu  ci mustrava quellu diavule di pugnu sarvatu  che  a vi juru  un vurria riceve mancu par un bottulu di sergente ringaggiatu 
+  s
+    </p>
+    <docAuthor>
+     Altore
+    </docAuthor>
+   </div>
+   <div n="3" type="poe" xml:lang="co">
+    <p>
+     quadretti  matinata  la alba basgia lu celi e ja marina  una ad una si velane le stelle    si azziftanu pucelli di rapina   e beian in la mandria e pecurelle     di guazza lacrimosn u fior si inchina  3 pe    si aprenu timighoni le puriclie   9 puricile  vegu le faccie di duie zitelie     una si stinza    la aitra si pettina     si affretta tue  pgnunu a iu travagliu   u zappaghiolu si interr in iu tagliu   1 u tagiiu  u carru carcu strida da le scosse    a furesta si sveglia e si culora    a croce di u campanile si innora   u sole face piove freccie rosse   
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="co">
+    <p>
+     u dialettu corsu  un istudiu maestru  le onore di a nostra muvra cumbaltuta  cun accanimentu  da una banda di corsofobi e lra di altri  di ave spiegatu in altu ventu a bandiera di a zingua o megliu di u dialettu corsu   prima chii campioni di a rinascita si schierassinu in battaglia  si dicia chi u nostru dialettu  miscugliu di vinti lingue  un balia  un caulu  oghie  si sente un altru sonu di campana  a nostra cruciata cumencia a purta fruttu  u populu trova dillettu e fierezza a leghie cum ellu parla e pensa   a stampa a piu nimica anch ella incastra qualchi petra corsa nu eso culonne vistute di sete francese  i folkloristi e i sapienti si lampanu sopra stu tesoru lasciata a i topi     tra   st ultimi  un postu moltu distintu tocca a gino botiglioni chi ba messu di pocu  manu a la pasta e ci offre u risultatu di e so scuparte ind un libru fattu da maestru    u studiu cunsacratu a i dialetti corsi da le autore di e leggende e tradizioni di sardegna    chi e binutu a coglieli vivi e sumenti in bocca populare    e fundamentale  e si presenta vistutu  in perfezzione da le editore simoncini di pisa  in centu trenta pagine e quindeci carte e quistione di impurtanza maggiore  mai allindite fin ad ava so esaminate  da  occhiu espertu  e risolte     gino botiglioni  cun precisione scientifica e eleganza di forma chi stimpera la aridita di a materia  face a  ricostruzione fonetica dei dialetti corsi   1 e segna u termine di a doppia parlata pumuntinca e cismuntinca  a limite e le estensione di ifenomeni linguistici e indicata pe a prima volta cu certezza   la tavola xxi    dice chiaramente che le due varieta nel delinearsi non seguirano la  linea divisoria formata dalla barriera montana che da nordgvest a sud est divide la corsica in due zone distinte  i fatti linguistici tengono altra via  anche in corsi ca  l ostacolo dei monti non basto ad arrestare il cammino dei vari fenomeni penetrativi dalla toscana e dalla sardegna  essi precedettero attraverso le vallate che intersecano la catena o alle vie principali che fin dai tempi piu antichi  dovettero unire il pomn al poms  il   confine dialettale si spinge per alcuni esiti  il v  da sud a nord fino alla linea calcatoggio ghisonaccia   per altri  e  riduzione delle sorde e sonore  un poco piu sotto fina alla linea cal boc   prunelli o solenzara  mentre per gli esiti di 7 4 6 o e i plurali del tipo pelo arriva al limite meno avanzato la linea sartena levie   sta lucia  il pomn occupa come si vede la maggior parie del  la corsica    2   un seguiteremu le autore  per tut ti i punti duv elluspiega e vicende di a fonetica corsa  vucale e  cunsunente  scuprendu e liende chi ci so cumune cu i dialetti circumbicini  a ogni passu  nia furesta vergine  filtra un raiu di luce chi dissegna li andati e acchiarinisce le origine di u nostru patrimoniu  ne    forse li ipotesi di lu influssu gallurese sopra u corsu di u sud unn e che ipotesi freule  forse qualchi filu di paglia si move a mezu a mansa di u ranu spulatu  alla fretta  per esempiu accennita indicaia cume pruvenendu da accennare  quandu accendita sembra cume cendera per cennera esce da u ceppu  accendere  i glottologhi di prufessione saperanu esamina u detagliu  e ris  ponde  per noi  semplici vulgarizatori  accittemu u strattu di nascita chi ci e cusi presentatu     la unita linguistica originaria delle isole italiane e della parte meridionale della penisola mi sembra disque un fatto che ormai e inutile di mettere in discussione     11 consonantismo corso e insomma strettamente connesso con quello sardo siculo e italiano centromeridionale sicche e facile capire  dove si finirebbe  qualora si volesse  costruire una lingua letteraria corsa sulla base di questi elementi da identificarsi  senza dubbio  con quelli che li arrighi chiama  les accidents de prononciation   che se dal campo della fonetica  passassimo a quello della morfologia  ci troveremmo davanti le belle concordanze illustrate dal merlo  insieme con1 uso corso del pronome su kuessu  kuepsu che gia addito li ascoli considerandolo anche nel resto dell italia insulare e peninsulare  quando un corso   dice  da stu pane a su zitellu   si ha proprio villusione di udire l articolo caratteristico del sardo e si pensa a buon diritto che nella scelta tra ille ed ipse ridotti a la funzione di articolo  la sardegna da una parte  le altre isole tirreniche e la italia peninsulare dall altra  si avviassero sulla  medesima strada primo che un influsso esteriore intervenisse a dirigerle  in altro modo    3    dopu a cascata di lu imperu rumanu  corsi e sardi usavanu di a listessa parlata  da lu uttesimu a f ondicesimu seculu  a corsica liata a a tuscia ne subisce la influenza e piu particularmente dopu cu i pisani   tutte ste viste eranu e nostre  simu dunque cuntenti chi li omi di scenza li dianu lu appoghiu di a so autorita     in qualchi puntu chi un leva forza a le argumentazione per l inseme  ci permittimu di unn esse di lu abbisu di le eminente prufessore       e inutile che i corsi si preoccupino di farsi una lingua letteraria che e gia belle pronta    l italiano      il popolo  quasi senza accorgesene  quando tenta di elevare in qualche modo il suo linguaggio finisce con li esprimersi in puro italiano    ste citazione ci danu a capi chi u nostru dialettu e privu di sviluppu e di avenire fatalmente cundannatu ad annegassi ind u mare di a lingua  noi pensemu chi lu arburellu po e deve campa  accantu a lu arburu maio   e i corsi di oghie preferiscenuu saore di i so frutti a quelli chi lucenu in lu altu frundulume talianu  piu u nostru dialettu sara cunisciutu  in i so tesori verbali sutterrati  piu pigliera forma litteraria e producera opere proprie senza servile imitazione frustere  ben intesu  u dialettu un po cambia natura   e e si fermera di tippu italianu  ma intendimu chi u corsu resti corsu e si aiuti cu 1 so mezi proprii  micca italianizassi e perde e so dote particulare  e bera chi un paisanu corsu po esprimesi in puru italianu  ma  e ancu vera chi lu italianu litterariu e difficilmente capitu da u populu  cume u corsu a malamente capitu da chi un lu studia  nantu la altra sponda tirrena     u bellu libru di gino botiglioni ci riservava una surpresa    quella di vedeci sparte in pumuntinchi di u nordu e pumuntinchi di u sud   sottu u mantu di pumonte le autore mette tutti i corsi  corti   aleria  bastia  calvi parlanu u pumuntincu di u nordu  denominazione bizarra  ci era altri termini piu adattati  parlata centrale  corsu quancianu appostu a corsu zandanu  il di qua e il di ja dei monti   ci era u termine cismunianu o cismuntincu abbastanza precisu e diggia vulgarizatu da falcucci  sapiamu benissimu  chi u segnu di a lingua trapassendu a catena di e muntagne e i limiti di la antica terra del comune si chiappava vicu e aitone  ma li abitanti di sia regione un si chiamanu ne bolent esse chiamati pumuntinchi mancu pe a so parlata spiccata da la altra    a  cunsigliemu a lettura di st opera  vultendu di alsazia lorrena  ultimamente  l on  poincare ha cunvenutu chi ella era necessaria di ampara lu allemanu in le scole di e provincie riacquistate       eccuti cio chi elli sanu ottene i populi decisi di un lascia tucca a un solu pelu di u so patrimoniu       enoi altri corsi  cume si pudera fa per ottene lu insignamentu di u corsu    soda a i nemici di u dialettu corsu chi forse si accurgeranu chi lu ossu e duru  a ingotte e u fiume difficile a siccassttu ind un surpu  in quantu a li amanti di u corsu  tutti si rahigreranu e u noi e buleranu leghie e rileghie u magnificu travagliu di un maestru 
+  s
+    </p>
+    <docAuthor>
+     Dumenicu Carlotti
+    </docAuthor>
+   </div>
+   <div n="5" type="poe" xml:lang="co">
+    <p>
+     lettera muntagnola  a serafinu rocca  caru amicone   un pudia esse veramente che stu tempurale  chi ci pudissi discita  in fatti dipoi qualqui mese un si era datu segnu di vita  ma circherete di scusacci  in sampetru quist annu a gattiv annata ciha amimutuliti a tufti  ne pomi  ne fasgioli    a nostra sola risorza    si mariannina un ci pensa si spera chi u musinu fera di e soie    si era speratu di fassi qualqui spulendata st inguernu  ma chi bulete   u signore face anch ellu cum ellu vole di tantu intantu  si ha pigliatu sti jorni scorsi i pochi ricciuli chi ci eranu  cusi ci ne anderemu a discorre cu i mucchi   malgradu cio si cerca di dassi di motu per un  moresine dall annoiu    bi diceraghiu chi riventusani  per un perdene le abitudine hanu jucatu dumenica sera   a cumuna di parapiglia   a mancanza di u nostru gran maestru ci e andata a u core  ma chi ellu ci scusi le affare e statu decisu a la lesta  bi do un piculu cortu resu  stotia di allunga sta letterina  e  a u pisa di u tendone saveriu alberti presenta a truppa e canta una canzunella di occasione  arricoglie cume boi pensate li applausi piu furibondi  un novu artistu   francescu  pasqualetti   ei face sente una canzunetta  fatta da ellu  intitulata  automobile   un bi dicu nulla di esciaccamanate in sofavore  u zitellu e quellu chi po esse  la assistenza feminile in particulare resto incantata     saveriu alberti canta in seguitu un serinatu a dorotea  francescu pasqualetti accumpagna di mandulina  cu aso voce linda e piacevule saveriu finisce per decide st artista di talentu a apre porte e purtelli e lampassi nu e so breccie  verainente a passione per le arte cambia e donne   qui principia a pezza tantu aspettata  ben chi ella dumandi numerosi artisti alberti ha distribuitu i   rolli   da maestru    ne  ghindice  secretariu  stituiore  si  alberti umerru                   f pasqualetti  u stimadore  u duttore      g  casanova birbantellu  pitrinu udeputatu  p  sinibaldi gambetta  zia sacra         g simbaldi falettu  calavrone          7 mi  fabiani linguetta  a serva dorotea  dorotea cesari  un credu chi ci sia bisognu di parla di st artisti ana gran parte so cunnisciuti  in quantu a i novi si po di chi elli hanu maravigliata u publicu  si elli cuntinue  ghianu feranu sicuramente parla di elli  una parulluccia per dorotea  si vede chi ella un ha persu nulla durente u tempu chi ella an ha ghiucatu  a  e canzone chi fecenu parte di a pezza so state cantate da saveriu alberti petru sinibaldi e ghiuvanni sinibaldi     li anfarti corsi   e stata cantata in coru  ghiuvanni sinibaldi ha ringraziatu passitenza inc uria piccula impruvisazione  infine cursich ella ha chiusu sta bella  riprisentazione      mi scurdava di dibbi chi ellu ci e bulutu a incatravicehia un materiale  di   furtuna  cum emi dicenu i pinzuti   di que a truppa un ne acquista che meritu e chia sala e stata messa a dispusizione di li artisti graziosamente da u nostru amicu francescu cristofari      yante cose a tutti   bi salutu   
+  s
+    </p>
+    <docAuthor>
+     Ghiuvanni Olivieri
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     eventi li elezzioni  e due cumari  a bianca eanera  a i merri corsi  nera  o cuma  site malata    bi begu cusi transita  cu la treccia schermigliata li occhj rossi   imbufalita avete qualcosa a lu cuore chi bi da taniu dulore    bianca  passu  una vita canina sempre a fa lucorri corre  da la sera a la matina ghiornu e notte a tutte le ore nun riposu piu un minutu    o cuma datemi ajutu   nera  si io bi possu serve  dite tuttele vostre raggioni   o cuma mi cunniscite  in diverse occasioni bench e un abbia lu cullare dite pur la mio cumare   bianca  aghiu lu mio maritacciu impanzatu di esse mere   ha ricevutu un dispacciu da unu chi e a lu putere e vuole a qualunque costu   chi per mere sia prupostu   ed eo so sempre in giru cume un anima dannata   piu nun dormu ne rispiru tutta la santa nuttata in cerca di li elettori    or que si chi so dulori    nera  allora cosa vulete    da me torse prutezzione   giacche simu a le secrete fate la cunfessione   ghiusta  e nun vi vergugnate tuttu cun me palisate   bianca  eo vurrebbi chi cumpare butassi pe u mio maritu   saria propriu un bell affare le onore di lu partitu     perche tutti cun piacere lu hanu gia sceltu per mere   o fatemi stu piace    renditemi stu favore   bi la dicu cum ell e i  aghiu un chiodu a lu mio cuore che mi strughie e sempre penu o cuma mi vengu menu     nera  piuttostu  vi cureria a cent anni tes a lu sole i che di cede la meria   sciarpa e lu inciacca fagiole  e po a quale      a un oniarellu senza capu ne cerbellu   bianca  per cerbellu nun e senza e abbastanza intelligente   face le cose in cuscenza   sa palfabettu alla mente pienta di colpu alu puntu    or femulu merru o aggiuntu   nera  per mio contu nun lu facciu mancu fussi becca mortu    bulete manda in ajacciu un omu chi face tortu   a un dipartimentu intieru mi burlate   o dite in beru    bianca  bi cridia piu sincera purtata pe la famiglia ma mi basta  site nera un e micca maraviglia   nera di pelu e di cuore senza stimulu ne onore   nera  di lu  vostru cumplimentu o cuma bi ne ringraziu site piena di talentu  ma fate vene lu laziu   e quella vugliaccia strana di cherminabbi la lana   alvurna ci truvaremu dumenica primu maghiu bi bogliu attaca lu tremu   fabbi vede lu curaggiu di una donna di rispettu tengu parolla e v aspettu   e lu vostru candidatu tutt afiattu imbanbulitu partera mutu  arrabbiatu  cume un beru foruscitu tutti li zitelli appressu per fa onore a lu successu   purtatelu incravatatu  cu li mustacci asticcati un pucucciu insignuratu all usu di i candidat   nun mancate  e siate fiera per guadagna la bandiera  bianca  alpurna ci truvaremu a cosa e bella e capita   a nisunu piu nun temu ci jocu danaru e bita  e so perdu so di quelle a sbulammi le ciarbelle   u pueta  un ne e micca a u mio paese  chi si passa certi affari  a donna e seria e cortese lascia i fusi a li fusari  in pulitica  un si impacchia  e lascia racchia a chi gracchia
+  s
+    </p>
+    <docAuthor>
+     Paoli di Taglio
+    </docAuthor>
+   </div>
+   <div n="7" type="art" xml:lang="co">
+    <p>
+     focu    focu o bravi acelli di notte    tirate puru rivulvarate chi e palle so a bonu marcatu  tirate e tavunate  arruvinate e scimpiate alberi  lumi  purtoni case e tetti    i    cioch ellu un ha fattu a timpesta  fattelu voi cu e vostre belle pistole nove a sette colpi  du     in tantu in tantu pagatevi u lussu di tumba ancu qualchi brav omu  chi un face male a nissunu     tirate di notte e tirate di jornu  tirate a tirera e a frumbulera chi mancu e cannunate ponu discita quelli chi so incaricati di assicura a tranquillita di a brava jente      lu hanu fattu beie lu allopiu    un avete dunque niente a teme  for di qualchi scemu a u quale i colpi in neciu piaquinu      le  a libra cala     a  libra inglese  intendimuci  in quantu a libra aiaccina ella colla  sempre  un marcantuzzu a u quale fu dumandata a ragione di sta faccenda ha risposta   quandu a libra inglese cala un e par chi a nostra colli 2     e cusi si viaghia    noi un avemu ad occupacci di u francu chi un e robba nostra    ma ancu u pane     da l 8 nuvembre a farina custara 359 2o i centu vinti kilo  pigliata  a calata e 372 4o in li grussisti   isports  le unione spurtiva curtinese chi avia da scuntrassi cu    l athfetic clubajaccien   dumenica sera un e micca junta   e stata dicchiarata   forfait     u prezu di a darne    boiu   u kilo   2o  15  1o  8 franchi seguente qualita     vitella   2o e 13 franchi   mintone   16  12e 6 franchi   sti prezzi a parte da u 6 nuvembre 4926   vetri rotti   si conta chi pa sti tre o quattr anni i vitraghj ponu rimpiazza vetri chi un avaranu mai abbastanza  p     un vapore di tre eentu tunnellate e di i bastimenti a vela so aspittati in aiacciu in la settimana   u vapore e carcu a masticu   i dui velaghj so carchi a vetri   si dice ancu chi i mazzacani  muratorie manuali hanu da fa di una messa cantata parch ellu si pruduca prestu un tarramotu   elli ava so ghilosi di i vitraghi     mullizzi e mullizzoni   quantu e piu ca mai  si po di  e corte  interne di e  case aiaccine so percie e puzzulente   un vale ne  poubelle  ne ricumandazione  in aiacciu ci vole a managhia   bisogna chi  quand ellu si intoppa un cuncitadinu  per ave ghittatu spucarie in curtile o in la strada a pulizzia li impiccighi un bonu prucessu     ma bisogna sopratuttu chi lu aghjuntu o u cunsigliere municipale fii arecchie di marcante quandu u percicone li dumanda di cacciallali   e po civa pe a pulitica   chi ella scom pi   e u carbone   i magazini so chiosi a morte  a chi bole carbone chi ellu u dumandi a la italia o a spagna chi si ne va tuttu cula   e di chi un trovanu mezu in stu povaru paisacciu di fa rispetta a legge   a liberta di u cummerciu e a scusa chi permette di fura e di mette a fame in una citta     soli un si ne piegnenu quelli chi magnanu e sbuffitteghianu a e spalle di i disgraziati   i sgio imbrogli o i sgio cutali seganu legnu  disguastanu fureste  e vendenu par fa bastimenti o par carbone     elli si empienu e stacche e a panza  e noi un truvemu ne carbone ne carbuniglia       ma fin chi ella dura  fate focu    inquantii a u legnu     u municipiu u trova senza spende un soldu manuellu fendu lampa ia tarra tutti li alberi di a piazza di u diamante  chi sisiccavanu   cusi so stati sradicati  platani chi avianu trent anni e piu   biati i nostri purfigliali chi pudaranu gode u frescu in piazza di u diamante   infine chi tuttu va pe a bella megliu 
+  s
+    </p>
+    <docAuthor>
+     U Jattu Pinnutu
+    </docAuthor>
+   </div>
+   <div n="8" type="art" xml:lang="co">
+    <p>
+     tempurale  a dumenica sera  vigilia di i santi  a citta e i cuntorni so stati assaltati da una grandinata tantu terribile  ci un si sera mai vista a simile  a piu parte di i granelli avianu a grussura di una bella noce  di vetri  lucerne  coppi e teguli  sti prujetili di nova marca  ne hanu fat  tu una vera stragge   sottu li arburi di u boulevard lantivy e di u corsu grandval  si pudianu coglie e passule e altri accellucci a mandigliulate  i tinti urtulani e arburicultori hanu vistu andassine in lu cor  tn spaziu di 1o minuti  una raccolta preparata cun tantespese e tantu sudorei carbusgi  insalate  cavulifiori  citroni  olive  fiori  tuttu e statu tazzatu e pistatu  un veru scumpimentu    ancu que sera bell e bona per ajuta a vita cara   7
+  s
+    </p>
+    <docAuthor>
+     Altore
+    </docAuthor>
+   </div>
+   <div n="9" type="div" xml:lang="fr">
+    <p>
+     giurnali corsi lettre ouverte a m bouisson depute  membre de la commission d en quite en corse monsieur le president en mai dernier vous avez bien voulu avec un assez grand nombre de vos collegues de ia chambre et du senat et deux ministres vous randre en corse pour enquefer sur place sur les besoins de ce departement er vue sans doute des mesures a prendre en sa faveur  les populations corses vons ont recu comme il convenait l attitude un peu froide mais dignedes villes l enthousiasme naif et touchant des campagnes ou l'on vous a tresse des ares de triomphe  vous ont dit qu on etait decourage mais  qu on esperait encore on esperait en vous votre passage a fait renaitre des illusions qu il serait dangereux de laisser s evanouir encore a et cependant six mois se sont ecoules depuis votre voyage et les resullats suivants aecabient l imagination des population corses   4 le ministre des finances refuse d adherer an projet de rajeunissement ef d augmentation de la flotte qui assure noscommunicationsavec le continent    g 2 l proposition de loi tendant a valoriserla subvenfion cinquantenaire apres avoir ete votee par la chambre est enterree an senat  3 lestravanx de nos ports et l installation de l ecole nationale professiunnelle de corse sont renvoyes aux calendes grecques  PS l achevement de la ligne de chemin de fer chisonaccia bonifacio est abandonne  et nous ne citons ie que des projets qui etaient deja prets a etre execu1es b la visite de la commission en corse parait donc avoir eu pour effet de relablir et meme de fsire abandonner tous les projets elabores en faveur de la corse autrement dit nne visite de declaration d hostilites  nousne voulons pas croire a cesaresuliats  nous sommes certains que la commission que vous avez presidee avec tant de competence et d'antorite a obtenu et obtiendra du gonvernement de la mere patrie pour la corse mieux que des brimades  ou alors il etait inutile ma foi de deranger une si nombrense ef si brillante commission de parlementaires et de faire des frais pour son deplacement  aussi ne pensez vous pas m le president que cette commission a le devoir d exposer aujourd hui au public corse par la voix de son rapportenr les constafations faites en corse les conclusions deposees les resultats obtenus les resultats envisages et  les difficnlies ren contrees a les difficultes rencontrees je sais l importance de ee chapitre et je n ignore pas pattitude jesuitique de ceux qui nous debitent de trop brillantes promesses avec des sourires et qui n en pensent pas un mot  nous sommes convainens de votre bonne volonte et de votre devouement mais si mal gre vos propositions le gouvernement de la france continue a se mequer de la corse vous pour le premier ai le president vous ne trouveres pas mauvais que la corse s adresse ailleurs 5 en attendant je vous prie de croire m le president ames sentiments tres distingues et tres resolus e vintura  la corse du 1 novembre 1926
+    </p>
+    <docAuthor>
+     Vintura
+    </docAuthor>
+   </div>
+   <div n="10" type="art" xml:lang="fr">
+    <p>
+     ultim ora l observateur hebdomadaire tres special relie par fil particulier avec m chiappe de la rue des saussaies ne nous parvient plus depuis quelque temps la direction ayant trouve tres pratique de nous couper leservice dans l espoir que les insanites qui y sont publiees ne nous tomberaient pas sous les yeux nous nous sommes procure tout bonnement le dernier numero au kiosque    nous etions sous presse lorsque nous avons pris connaissance de deux articles qui nous visaient nous repondrons dans notre prochain n a m antoine trojani et nous le sommerons d eructer ce qu il a sur l estomac  quant au signor pietro sbolli nous jugeons son papier par trop abject nous ne pouvons donc lui faire il honneur d une reponse nous nous contenterons de ini demander d en rendre compte aux juges du tribunal correctionnel  a muvra
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="11" type="poe" xml:lang="co">
+    <p>
+     le albore  ne ad a  f  filippini   la alba e nantu marina   infiarat e le oriente   u mare  stesa turchina di smeraldo e luccichente   canticchieghi a cardellina lu omu sparghie eso sumente    la arba bazzosa spiscina   e tolle accese so spenle   lenta u fiume in fond a u vallu u solagnu di ogni iornu    ancu lu alzu caccia tallu   quand in paese ritornu   sentu staccana lu jaliu e vegu fuma u fornu 
+  s
+    </p>
+    <docAuthor>
+     Anton'Ghiaseppu Terrazzoni
+    </docAuthor>
+   </div>
+   <div n="12" type="poe" xml:lang="co">
+    <p>
+     u currighinu  collanu dollaru elibra   ma lu francu sempre fala so guai si stu mischinu si trapenda da la scala   sottu a gattivi pinseri ugnunu lu capu cala   un faddisperacuginu   stringhi sempre u currighinu    un vale a scalda lu fornu ne ad aprunta la pala    troppu cara e la livanda e ogni jornu piu  mala   un e che scartu e rubaccia   cio chi pe li corsi scala   un ti addispera  cuginu   stringhi sempre u currighiinu    salitu si chi e lu pane    un chilo piu di tre franchi  mastuchendu che saliva   di masselli un semu stanchi   a latra di fame nera   digghia ci mordi li fianchi   un ti adispera  cuginu   stringhi sempre u currighinu    e scutita malannata   tardi veni la castagna   pisendu l occhi a tu celi  u paisanu si lagna  pulenda ne tagliarini  per quist ann un sine magna un ti addispera cuginu stringhi sempre u currighinu    ogni raccolta fu magra pocu e granatu iu spicu   si so siccate le noci   si e tastu appena lu ficu  si appagghia la nostra panza da luspinu a lu billicu   un ti addispera  cuginu   stringhi sempre u curriginu    ma venilu parcittore   a crescia tassi decisu   si piu nera e la iniseria e piu chiaru lu so visu   dice st omu cumpiacente senza cambia di avisu     un taddispera  cuginu   stringhi sempre u currighinu 
+  s
+    </p>
+    <docAuthor>
+     Simonu d'Aullè
+    </docAuthor>
+   </div>
+   <div n="13" type="feu" xml:lang="it">
+    <p>
+     ne credo si conosca adesso  quanto sia piu giudiziosu riparare la ingiustizia con la generosita  che ribadirla col sopruso  pero il cardinale manda di provenza rinforzi  un reggimento sopra parecchi brigantini  e 4 compagrie su due tartane   la tempesta parte annega  parte disperde   le 4 compagnie caddero prigioniere in mano dei nostri   il cardinale poteva apprendere cotesto caso come avvertimento del cielo  maanche qui gli nocque essere prete  imperciocche essi credono che il cielo mandi gli ammonimenti di giustizia per gli altri non mica per toro   e co  rinforzi invia maillebois  voi sapete  signore inglese  come non vi abbia gentiidonna in francia  la quale ricusi  diventare marchesa a patto di passare per la via delle sgualdrine  1   come del pari gentiluomo che senta ribrezzo di venire in cima a quelli che in lingua di corte si chiamano onori  facendo di tuttoun po   ed anco direi di che  ma lo abito mi persuade a tagliare   4  rammentiamo che il frate parla dei tempi di luigi xv  di i  corto  pero essendo stato promesso il bastone di maresciallo al nuovo generale se arrivava a mettere in cervello i corsi  pensate voi se le sue gambe si arrestassero dinanzi a fosso divino o umano  io non vi ci metto su nulla di mio  quanto vi narro lo cavo da persona molto pri vata di lui  la quale ne scrisse la storia  non gli bastando quindici mila uomini tra fanti  cavalieri e bombardieri a vincere la facile impresa  trovandosi i corsi si puo dire senz armi  dette opera di seminarela discordia frai eapi  sereditando gli uni presso gli altri come traditori   alcune corruppe con premi presenti  e speranza di maggiori vantaggi avvenire  ad altri fece toccare con mano la condizione disperata delle cose  e poiche non venne a capo di ottenere  che staccatisi dai compagni si mettessero alla scoperta dalla parte sua  si contento della promessa che nelle difese andassero fiacchi   dopo questa nobile arte adopero la altra di devastare le pianure  perche i possessori colligiani o per salvarle dalla ruina si sot tomettessera  ovvero calando per difenderle al piano  gli dessero abilita dilacerarli con le artiglierie  e questo  parve per un tempo il miglior partito  ma non gli riuscendo sollecito giusta il suo desiderio  ne saggio un altro  e fu nou solo negare quartiere a quanti gli capitavano nelle mani  ma eziandio farli con tormenti crudelissimi morire  a giussoni quaranta patriotti insieme al parroco furono arsi vivi  sbracciandosi in questo alto gesto il colonnello arboville  e perche la immanita francese moderna nulla avesse ad invidiare le antiche torture  segarono in mezzo alla maniera di tamerlano un corso   in ispecial modo magliaboia la aveva co  preti e coi frati talche a corte fece impiccare un parroco in mezzo a due contadini  a olmeta due frati vestiti del loro abi  to religioso   anche le ipocrisie giuridiche erano trascurate  il prete gianni  preso fu impiccato su lo atio  la persecuzione francese sofferta dalla chiesa di corsica per amore della liberta non disgrada veruna delle romane per amor di cristo  e se vi  piace saperne il delitto  ve lo diro con le parole dei loro stessi storici   insomma bisogna dire  che altro non  si opporeva  tranne una smania ec cessiva  per la indipendenza ed uguaglianza di tutti gli stati  cosa senza dubbio colpevole  e in altra  parte favellando costoro del vene rabile curato zicavo  lo chiamano  bandito perdutissimo per avere fatto  giurare il suo popolo davanti il sa cramento di difendere la patria fino  all ultimo  sospiro  io  desidero che  sappiate come gli ecclesiastici corsi  amassero la liberta  e patissero per  lei  perche cio vi chiarira della ca gione perla quale il popolo qui con tinua a proseguirci di riverenza e  di affetto  mentre olirove  diventati  ormai cagnotti della tirannide  ci  hanno in conio poco meno di scor pioni  f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

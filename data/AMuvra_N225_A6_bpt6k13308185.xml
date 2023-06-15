@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k13308185
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k13308185
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 225 | Année 6
+     </edition>
+     <date>
+      1925-10-25
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Sest'annata — Numaru 225 Esce a Dumenica Dumenica, 25 Ottobre 1925  A MUVRA  GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI :  In Corsica. : Y. + TATA + + . 12 franchi  In Francia... . . voi... .... 15 »  À PEsteru 0.0; ....... .. 25 : »  U Numaru:4 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88 — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     banditi corsi  in altritempi a corsica era piena di tuttu  ancu di banditi  ma dipoi chi no semu in la scargenza so divintati rari dino st acelli chi andavani a  bande cume i sturnelli             li ultimi battaglioni fiumurbacci  organizati militarmante sottu a bandiera di ginarale renucci  armavanu i balli nantu e piazze publiche e facianu balla ancu i giandarmi cu e mugliere  si elpun si eranu strutti tra elli pa a justizia sarianu morti in li so leiti cume i bellacoscia    quand e era zitellu andava tutte e sere a beghia in de ziu simone par sente cunta e prove di i nostri banditi  ma invicchiendu mi v era surtita a vogliacume di tutte e passione  di zitillina     lu altru jornu aghiu ricivutu u  libru di marcaggi  fleuve de sang   e u mi so magnaiu di una sola  buecunata  cume  papacciolu inquccaratu  PS     e  stu libru  pienu di virita e di poesia  raconta a nimicizia tra i massoni e i durili di marignana cuminciata  par una partita di scopa e  durata 1o anni sempre in la polbara e in lu sangue     so numarosi i scrittori chi hanu parlatu cun esagerazione  e ancu cun ammirazione di i banditi corsi  ma u libru di marcaggi e tantu semplice e veru chi unn ha ca un diffettu  e sempre troppu cortu par quelli chi u leghienu  e u lu aghiu lettu duie volte in ottu jorniewun ne so ancu saziu     da u 1841 a u 1851 i vociari di e donne scapigliate chi  gridavanu a vindetta eranu accumpagnati da e campane chi avianu i battaglioli frusti a forza di suna a murtoriu  un dn   e duie famiglie si eranu cinte e carchere e u tarrore rignava in la cumuna cume in tuttu u cantone di evisa  li  petru  juvanni massoni  grande di  statura e  terribile di aspeitu  era le arganie di e duie bande cun ellu e cu u fratellu saveriu si era unitu mattiolu arrighi di letia  un ciammannellu chi tutti i  so cumpagni si ne ridianu ma quand  ellu piglio a campagna diviiito un bone          di tantu in tantu si affaccavanu stefanini dettu sarpente e u duttore padovani  dui banditi cinarchesi chi ne avianu parecchj a u currighiolu  ne  a durili  detti pizzini eranu solima bizzicavanu dino elli a la muta  3 e  e feste curpurale a la  campagna in onore di massoni eranu sempre rilivate da u  prestiggiu di una scorta scelta e numarosa  quelli chi u pigliavanu par cumpare eranu  piu fieri ca di ave a bonaparte   i     quelli chi un ne avianu figlioli da battizza u vulianu cumpare di san ghiuvanni e  tutti eranu fieri ai di titulu  le  2 ti aitelli chi assistianu a le feste  e brisenza di tanfonori e di da ammirazione brusciavanu di a la eta baringaggiassi in la cumbegnia   di avant a un esempiu cusi parniciosu a banditiglia criscia e multiplicava  pe  quandu  in marignana la aria cuminciava a puzza i massoni cun arrighi pigliavanu a balagna  rifuggiu di sarafinone e di sarafinellu  dui altri banditi mastini di ota  e i  balanini sottu a sferza di i banditi purtavanu a coppia cume i boi senza fa mottu  quandu massoni travirsava quelli lochi cu a so squadra invece di a jente trimavanu ancu e macchie    pranzi ricchi e succhiosi eranu offert a sti filanci chi avianu u biccu piu finu ca i torduli   i pizzini  guardinchi cume a  volpe un si fidavanu di tanta jente e stavanu sempre in li so ru   ghioni      u solu chi e ristatu in corsica  e chi e aghiu cunnisciutu quarant   anni fa  era chiugu di parsona ma tantu vivace chi picciava cu   me la esca banditina   u chiamavanu zi antunarellu e avia assisti   tu a e battaglie piu tragiche con   tru i nimici      e  firitu sempre  senza mai succombe  avia quattordici pezzi di piombu in dossu  quand ellu si cuglia a la so mula cirbetta  e chi ella cuminciava a truttula e so coste sunavanu cume un saccu pienu di noce secche   a  a tante billezze di a natura  e a e scene piu sanguinare  dippinte da marciggi cu uso pinnellu di pittore divinu  un li manca ca u legnu da inquadralle  e vu  dopu tante vicende  una bace ginarale tra e duie famiglie fu cunclusa e suggillata a u cunventu di vicu di avant a monsignor casanelli    dui di i fratelli durili si rifuggionu a oresiano in sardegna sottu u nome di oraziu e francescu leca    i massoni cu mattiolu arrighi  ritirati in le rozze campagne niulinche funu accampati e distrutti in le scale di santa riggina dopu una lutta iraggica contru a truppa e contru a giandarmaria     cusi finisce a storia lagrimosa di duie famiglie in la cumuna di marignana    i scritti di marcaggi  cume quelli di tant autori corsi so piu cunnisciuti fora ca in casa   par un amatore di cose belle e vere fleuve de sang un duvaria mai sta luntanu da u so capizzale    stu libru e illustratu da e piu belle figure di u distintu pittore corbellini chi ha dippintu cu a so manu maestra  a vita rustica di quelli tempi  me
+  s
+    </p>
+    <docAuthor>
+     Santu Casanova
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     pellerinaghi corsi  a madonna di lavasina  l 8 settembre fu e sara sempre un gran ghiornu pe a corsica    ci rammenta  chi i  nostri arcibabboni  ne u 1735  piazzedenu la isula sottu a  prutezione di maria vergine        a  madonna di lavisana e cunusciuta dappertuttu  dicenu chi ella face miraculi  e se noi credimu i nostri paisani   vox populi  vox dei   tanti e tanti li devenu a salute e a felicita   ma u piu bellu  miraculu e quellu di afede   un populu chi crede e spera e degnu di i piu gloriosi destini         mi truvava dunque  18 settembre a lavasina  a pochi chilometri di bastia    un bidi mai cusi grande  affluenza    ci eranu pellegrini di ogni pieve di corsica   feci megliu   passai a nuttata di u 7 a l 8 settembre ne i dintorni di u famosu santuariu    u tempu era un po frescu ma u celu serenu e suminatu di stelle    una vera bellezza  e e a di  e nantu a strada  chi animazione  chi rumore   omi e donne feridu u votu a pedl  e scarzi    automobili e   tramvai        allegria o   tristizia  squilli di tromba e litanie  una cunfusione assai piacevule    ne u santuariu  sopra e scale  ne li alberghi o a lu apertu  i fideli aspettanu la alba    e  cosa straordinaria   ind a chiesa illuminata ave maria e canti sacri    e fora  inde la oscurita  stalbatoghj e canti populari     avvicinendumi di un gruppu   eranu giuvanotti di campoloru  intesi lu addiu di u cuscrittu    sunata e la partanza   prestu a imbarca ci vole  ma si scura lu sole  di avetti da lascia     e piu luntanu   tre o quattru vetturini  cu a  cinta rossa e a frusta appicollu  cantanu u lamentu di u irennu   si  oghie in corsica lu trenu  e fattu  pe li signori    per noi altri osteriaghj  so dulori e crepa cori   pienghjenu li caritteri   suspiranu li pastori     u mondu e fattu cusi  a chi pienghie  a chi ride   i signori so quasi tutti servi di marianna  ma u populu di e nostre piagghie e di i nostri monti  spera sempre inde virtu di a razza    ellu canta pe nasconde u so dulore e aspetta u jornu di a resurrezione      bisogna vede lavasina  a mane  a la alzata di u sole   chi bellu spettaculu a levante  un incendiu    u sole esce majestosu   e nel montar ci scalda la lena e il cuor         davanti a noi  u mare di tuscana   mare nostrum   e a le orizzonte  le isule surelle   elba  capraja e montecristo   a  misura chi a luce si spande  u rumore cresce    u strado e un beru furmicaiu    i pellegrini so numerosi    mille  duie mila  tre mila  chi lo sa   si dicerebbe che tutt a corsica si e data  rendez vous  a lavasina    a chiesola e piena di mondu  e quelli chi un ponu entra   ognunu u so tornu   preganu di fora    ma surtimu e femu un giru ind a folla   nant u strado  in piazza  sopr a sponda di u mare o in campagna  vicinu a u fiumicellu un bederete che paisani  belli tipi di muntagnoli e donne vestite di neru  a l usu anticu   i zitelli  assai gentili e  ben allevati   e zitelle  garbate e graziose  e li omi pi giovani  fieri e arditi   i vecchi a lu aspettu patriarcale   so ghiunti da e piu luntane regioni  di a corsica    o quantu ci ne e chi dumandanu a grazia di  rivede i figlioli  suldati a u maroccu   una povera mamma di famiglia e benuta a pedi da u fiumorbu    e perche adempia u votu  dopu tamantu viagghiu      ha persu un figliolu inde la ultima  guerra  e u piu giovane  u solu chi li resta  si trova in lu vespaiu  marucchinu    bi sia  cuncessa  brave jente  di vedeli riturna sani e salvi        e  ci so qui tutti mercantelli di a creazione   li ebrei  untuosi e fini  chi bendenu sigarette e gingilli  i campagnoli chi esponenu frutta di ogni sorte  i zingari chi bendenu ricami  e poii venditori di canistrelli e fiadunetti  bambule e profumi   ma u piu gran successu e ottenutu da u nostru caru saveriu chi bende  almanacchi e canzoni  giurnali e libri corsi  e tutta sta roba  fresca e sana  esce di a stamparia di a muvra  ognunu duman  da e canzone di maistrale  e poesie di martinu appinzapalu  quelle di lucciardi  e di marco angeli  a baretta misgia  vultimu numaru di a muvra e sopratuttu cursichella di pettu rocca   tramezzu a le to catene ti ne stai mischinella   cunfidi a le onde tirene i to lagni di urfanella da purtalli a le altre sponde   ma nulla ne un ti risponde ca lu ventu strascinendu  singhiozzi di liberta    a nostra giuventu  quella che noi furmemu ogni jornu  e fiera di canta i lamenti di muvrella  o bel lu aiacciu      canta dino a croce di pontenovu  ind a quale u famosu maistrale ha messu u so talentu di pueta e a so anima di cursista    nantu la corsa bandera   si leghj  cu voce forte   a nostra vecchia prighera   a liberta o la morte   eccu una bella prupaganda    dui gendarmi si passeghianu per u strado  e in mezzu a stu pellerinaghiu corsu  elli rappresentanu a francia      e  bi la dicu  chi animazione   li alberghi eranu gremiti di populanu  e numerose funu e persone chi si ne andedenu a manghia in bastia  un si truvava piu nulla a lavasina  ne pane ne vinu  beati funu quelli chi avivanu  pensatu a pruvvedesi di vittuaglie  a mezziornu  eranu tutti accampati vicinu a u fiumicellu  sottu a li arburi  e dopu pranzu  si sente di novu  canzoni di allegria e di speranze   ma parlatemi di u ritornu   chi bellezza   una vera prucessione da lavasina a bastia    un mondu scemu ti vetturini gridanu     aid  figlioli   ci e sempre una piazza    dui franchi        e i   tramvai   strascinati  da cavalli meschini si ne vanu pianu pianu  eccu u   cabriole   di i nostri paisani  i veicoli piu rustici  a mula  u sumerellu    eccua longa teoria di i pellegrini    ogni tantu  passa veloce e cu gran rumore un automobile    u   chauffeur   si ne ride di i povari vetturini  e questi li mandanu un accidente     chi ella ti venga a morba cum a i cavalli di succi       ma u   chauffeur   e digia luntanu     a notte scende  e annega a campagne inde la oscurita    femu prestu  o figlioli   ogni cosa si spegne ne u silenziu  e bastia illuminata ci aspetta pe u riposu  i un burrei fini sta cronaca di la vasina  senza parla di un cantore populare bastiese  ghjseppu marchi  dettu ghjseppu u cegu    e un  povaru oinu ma sa cusi be suna di organettu   e poi bi canta cusi belle canzoni   mica e nostre  perche  ghjseppu un cunosce ne muvra ne muvrella  ma dapoi anni  si e specializzatu ind a canzona populare italiana   e  sempre ben accoltu in bastia  induve li abitanti si dilettanu a canta e rumanze  nella lingua del si  ecculu dunque a lavasina    fu per ellu una bella jurnata       sedutu davanti a chiesa  e inturniatu da numerosa jente  ghjseppu  cu lu organettu in manu   principiede u so   repertoriu    addio  mia bella  addio  la armata se ne va  e se non andassi anch io sarebbe una vilta     e una canzone di guerra chi fu assai in voga in italia  ne u 1915    eccune un altra    o biondina  capriciosa  garibaldina  tu siei la stella  bis   o biondina  capricciosa  garibaldina  tu siei la stella   di noi solda     ste due canzunette raccoglienu molti applausi  ma  cambiendu di tonu e di argumentu  ghjseppu ci da stu cunsigliu       so  o cari amici che mi ascoltate  dalle donne  lontano  state     una vera litania contru  e donne di ogni classe e di ogni  condizione  li omi ridenu  e una vecchia in colera  li dice    o jise  un dimentica  che noi simu a lavasina      e allora  ghjseppu scaccaneghia e poi si imballa   di  a mezzogiorno in punto passo un aeroplano  e sotto ci era scritto trieste italiano  i  zim bom bom al fombo del canon     e avale chi avemu cumpitu u viagghiu di lavasina  una sola gfazia dumandemu a  madonna      o nostra beatissima regina  tu chi cunsoli u dulore di i puvarelli  abbi pieta di noi e volgi u to santu sguardu sopra a corsica mischinella  dalli a u piu prestu cio chi ella  spera  u pane  a salute e a liberta  
+  s
+    </p>
+    <docAuthor>
+     Eugeniu Grimaldi
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="fr">
+    <p>
+     a un barbare un barbare  je l appelle ainsi puisqu il signe d'un barbarisme  publie dans un journal de bastia un article qui veut etre un requisitoire contre les federalistes corses en un francais incorrect et parfois incoherent il vitupere les nombreux ecrivains patriotes qui tentent de montrer sans ambages les maux dont souffre la corse et de rechercher les moyens de les guerir  son article contient une accusation calomnieuse et stupide et denote une meconnaissance totale des questions corses et des problemes regionalistes    d apres lui il y a dans l ile un cenacle  dont le but est d y creer un mouvement de desaffection  quel style  a l egard de la france    pourquoi le folliculaire se tient il dans le vague pour quelle raison precisant ce grief ne nomme t il pas les personnes qui participent a ces menees redoute t il un proces au grand jour ou craint il de se voir donner la lecon qu il merite  ce monsieur se rend il compte qu essayer de faire germer sur le sol corse en y jetant d infames lieux communs la haine contre la nation sceur qui en 1915 est venue au secours de la france envahie suppose a l auguste semeur un cerveau de cretin se doublant de l ame d un valet   et n est ce pas aussi ce meme bastia journal  aujourd'hui noirci par le barbare  qui au moment de l entree en guerre a nos cotes de yitalie se repandait comme d'ailleurs tant d'autres feuilles en louanges sur les freres sauveurs dont il rappelait avec a propos les affinites de race   o toujours d apres lui  barbarin  il est honteux de se faire prefacer paa un professeur italien il est pourtant tont naturel ce nous semble que des ouvrages ecrits dans un des plus purs dialectes italiens soient prefaces par les meilleurs philologues de la peninsule   d apres lui encore recevoir des bourses d une association etrangere est inconcevable  a ce compte les etudiants bulgares et canadiens qui a l universite de paris travaillent grace aux subsides du gouvernement francais sont des traitres a leur pays pat e barbarin ignore donc l existence des bourses internationales et des instituts intefuniversitaires   pour demeurer logique avec luimeme il devrait egalement blamer les francais qui ont recu le prix nobel donne par des suedois frapper d anatheme ceux dont la boutonniere s orne d une decoration etrangere  gacheur va  allons plus loin  ce bon bougre ignore entr autres chose la carriere d un salvadore viale par exemple s il voulait se donner la peine de parcourir les journaux corses de l epoque relatant la mort de ce grand poete il y verrait comment m ph caraffa le glorifiait d avoir ete en corse l apotre de viialianisme sans que cela put exclure le sincere devotiment des insulaires envers la france da a  ignare et absurde barbarin est forcement incoherent  selon lui la legislation fraricaise qui fait mourir de faim les pretres corses et laisse nos paroisses dans l abandon est scelerate et cependant il faut aimer choyer et loger cette legislation et cet etat legislateur sous pretexte qu ils sevissent aussi contre les autres departements vous saisissez la finesse du raisonnement  cet homme a assassine mon frere c est vrai mais il a aussi assassine le tien  donc je dois le remercier et continuera vivre en excellents termes avec lui  cet indecrottable qui ne sait presque rien est cependant dans les secrets du quai d orsay  comme je vous le dis  et nous ne pouvons que feliciter le ministere des affaires etrangeres d ouvrir ainsi ses arcanes a de telles intelligences  nous n aurions qu a bien nous tenir si malbeureusement pour noire augure le coup du quai d orsay n etait un chantage perime une menace tombee en desuetude a l aide desquels on s imagine impressionner les regionalistes   renouvelez le stock si vous le pouvez barbarin   tous les regionalistes ne sont pas federalistes  c est certain mais de bonnes reformes decentralisatrices seraierit un premier pas vers le iegime autonome que reclament les federalistes  a la suite des proudhof des xavier de ricard des jean carrere des charles brun etc  le federalisme sachezle o barbare n est nullement le separatisme  si i mais ne m abuse je pas en voulant avec vous entamer de pareilles discussions ne serait il pas preferable que je vous abandonne a votre role lequel doit probablement consister a lecher consciencieusement toutes les bottines tous les ripatons et tors les godillots des puissants du jour qui se succedent sans pour cela se ressembler e e e a c est la je crois la seule fonction ou vous devez veritablement vous trouver a l aise et je le prouve    votre article qui debute par une calomnie contre un groupe d ecrivains et de patriotes corses se termine par une autre calomnie contre le peuple insulaire que vous representez comme un peuple naturellement anarchique et impuissant    d apres vous les corses sont incapables de s administrer eux memes et ne peuvent decemment vivre qu en presentant leur posterieur aux coups de bottes des generaux leur nez aux crachats des prefets et leurs oreilles aux sarcasines des pathelins giafferi    o si vous n etiez si inculte nous pourrions vous rappeler qu un certain pascal paoli crea un etat libre que voltaire rousseau et l elite europeenne admirerent en son temps mais vous ne comprendriez pas car vous etes le digne frere de lait d un pretentieux libelliste d ajaccio aussi ignare que vous en histoire et aussi denue de scrupules dans le choix des arguments    mais les bons corses ne permettrontpasaux renegats de faire devier la question aussi bien l etranger n est il pas eu jeu  la dignite insulaire seule nous importe x malgre le fatras de votre prose ce fait deplorable demeure  le clerge corse meurt de faim par la volonte de la france et l appel du pretre de a muore aura dessille les yeux de ceux qui he voyaient pas quoiqu en puissent penser les deux douzaines d ecclesiastiques simoniaques qui votent et qui font voter froidement pour le franc macon vincent giafferi et son grotesque compere le valet de loges sari  0 ce qu il y a de stupefiant c'est de voir ces perfidies melees d insanites et dont l unique but est de donner le change aux lecteurs sur la veritable portee de l appel emouvant de notre ami c est dis je de voir ces calomnies accueillies par le bastia journal qui s institue ainsi le defenseur des adversaires politiques de ses amis car les malheureux dont notre collaborateur a denonce les intrigues sont malgre leur soutane qu ils deshonorent les agents politiques des ennemis de la religion    il e t vrai que barbarin a eu soin de se placer sur le terrain de la tribune libre rubrique innocente qui semble conceder aux oisillons qui essaient leurs plumes beaucoup de libertes y compris celle d y faire leur caca  disons pour terminer que nous ne tarderons pas a executer ces mauvais serviteurs du christ dignes emules de l abbe trochu et qui ne sont il faut le reconnaitre qu une triste minorite de mauvais pasteurs dans le noble clerge corse
+    </p>
+    <docAuthor>
+     Pasquale Manfredi
+    </docAuthor>
+   </div>
+   <div n="4" type="poe" xml:lang="co">
+    <p>
+     lu apitittu di calabraga    gummedia in 5 pranzi e 13 cul lazione    5  pranzu iv  par riceve li rigali   calabraga ha duie porte vidarete li cignali    quand un entre lu altru un sorte  ne fala di ogni cantone   una vera prucissione    la altra sera  a mezza notte  mi so impustatu in le scale  marcanzie crud e cotte  si ne e ghiuntu in modu tale chi trent anni pudaria     in borgu  tene ustaria   a  suna la campanella   ci un bellu saccu di noce  prima fece a sintinella  un pastor di piedicroce  apressu  cu la bisaccia  ci era quel di  ghisonaccia   ci vidu un gattu spilfatu  e  di un porc u muccichile  ci era uva di speluncatu      ci un castratu di campile  e  purtendu un bellu pegnu  u cantuneru di aregnu   ci era sette cazzarole ben guarnite in fantasia  oliu di muracciole    e vinu di munacia   un pullastru catt e sanu ne vinia da sermanu   ci era un puscastru di taglia  tre piatti di macaroni  un era di murusaglia  et li altri fatt in ghisoni   cu sottu a vesta qualcosa  un omu di riventosa    un amicu di fiumorbu parlava ci unu di rennu   u primu purtava un corbu e lu altru un zanu di brennu  la arba tabacca era di ortue le alimie di portu  i  di balagne ci era alive   u casgiu di calacuccia  ci era ancu ranocchie vive e muscatu di carbuccia  tre bidoni di culatu    rigalu di vescuvatu   ci una lofia e tre purcelli  ci era unu di cristinacce  cu figaretu e lumbelli   un pastore di albertacce  ci era castagn e ballotte e un saccu di pucie cotte   cu cascie  sporte o spurtone  ghiente tutta nfilarata  ci ne era una prucissione  sinament a la calata   calabraga  calabraga   chi mulinu in la to braga  
+  s
+    </p>
+    <docAuthor>
+     Maistrale
+    </docAuthor>
+   </div>
+   <div n="5" type="poe" xml:lang="co">
+    <p>
+     risposta a babbuziu  u tintu duganeru incunisciutn chi bo vantaste tantu  o babbuziu   a una simile chiama un po sta mutu e per quessa si arricumanda a diu cumu si sbrugliera  a lu mischinu ti per risponde a u pueta balaninu    pogh anni so  carrissimu fratellu  chi ellu si tinghie carta in puesia    un bale a dumanda a questu a quellu  si face ricirca sta marcanzia    e si pueta un nasce a criatura di truvanne per paga un ci e paura    anch eiu fui di quelli chi la sorte hapocu favurituin sa materia   mi fonu sempre chiuse quelle porte   aghiu sempre nutatu in la miseria   per me stu fiore un iu  mai sbuccitu ben che fussi fra tanti preferitu   avale  mi pizzica un calavrone   e mi rende ogni jornu adisperatu e cusi mi so messu a fa canzone per rendemi lu tempu piu beatu   un cridite chi ella sia per le onore  di scimita si pecca a tutte le ore   e prima di finisce  ne  duganernu    a babbuziu li manda on basgia mann  o muvra  tu chi si lu messagieru  dicci si di salute esempresanu   per noi principianu e cucagne   bindemie cu cugliere di castagne   san petru di venacu  8 ottore 1924  un duganeru
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="6" type="his" xml:lang="co">
+    <p>
+     raconti di a muvra  a parnici di vincenti rugni    dettu tarlarin        tutt i mani quandu la alba chiaria va di culor di i rosi a bocca di verdi  vincenti rugni  dittu tartari  sopra  nomu missu da u merri di u paesi   vidarenii parchi   additava i so bracchi  medor e astuce  e partiva a cade cia  armatu in  croci  fucili a triple verrou   carchera francesa  inc una filarata di cartucci  di quale u fondu di lattonu hiccicava piu che li ori  e vistutu justu cume le eroe chi daudet cimostra in cu li pantaloni alla coscia  i stivali neri  a vesta a $tacchi a cinta turchina a gisgia rossa        dunqua  tutt i mani quandi la alba filava u nostru vincenti  partiva   rava piu che centu colpi  stancava i so bracchi  stancava eddu stessu  ma caccia    chime      quante ne aghiu in manu  di manera chi vincenti tarta rinun era piu presu a u seriu cume cacciadori e quand eddu riintrava a sera  era a chi ni ni pudia u piu fa senta e a es    quantu ne a presu  a virice     u lagare almenu u nidieali    ancu i ziteddi si accudivani par gruppu  u  suitavani alla so casa e ciancendu li dumandavanu          chice ne a carnazzera  o zi vince   ben che vultendu sempri a nari bioti da a caecia  rugni cuntinua va a persiguita torduli e pernici chi si ne imbrizzavani  dut    un ghiornu vincenti  avi a furtune di casca annantu a un cappiaghit   nun eappiu truvo una parnici   chi a pena presa  era sempri viva e alita va da u disperu      o   ridendu occhi e bocca  vincenti   presi u cappiu incu a parnici in se stessu dissi       a si    ni junghiaraghiu puri una   ma par fa veda chi eddu la avia tot  ba di fucili  appiccheti a parnid   un macchionu di arbitru  si alluntane   parlata di sarte
+  s
+    </p>
+    <docAuthor>
+     Simonu di li Lecci
+    </docAuthor>
+   </div>
+   <div n="7" type="art" xml:lang="fr">
+    <p>
+     autour de pontenovu la question de pontenovo est di sement commentee et discutee o s croyons interesser nos lecteurs to publiant un article que publiait sans signature d auteur l eveil de la corse il 7 4 quelques jours pel vous vous interessez au sort dela corse que vous aimez  le caractere de ses habitants l appelait a la liber8  centralite  de sa position  ie hombre de ses ports et la fertili so du sol vappelaient a un grand com perde pourquoi donc le peuple corse n a t il jamais ete ni libre ni commergant  vous l avez vu prendre les armes secouer l atroce gouvernement genois recouvrer son andependance vivre un instant hetreux  mais poursuivi par une fatalite irresistible il tomba dans le plus insupportable avilis sement  i paoli consacra le premier ces prindipes qui font le fondement de ia prosperite des peuples on admirera se ressources  a fermete son eloagende au milieu des guerres civiles ei etrangeres il fait face a tout d un bras ferme al pose les bases de la constitution et fait trembler jusque dans genes nostyrans bientot trenfe mille francais vomis sur nos co  tes  renversent le trone de la liberte  le noyant daris les ffots de sang nous font assister au spectacle d'un' peuple qui dans son decouragement re  qoif des fers     er   en 464 six bataillons francais pri rent la garde des villes maritimes ces garnisons  francaises resterent neutres et ne prirent aucune part a la guerre qui continua entre les corses et les genois  de  en 768 les troupes francaises devaient retourner en france ce moment etait attendo avec impatience il ne fut reste aucun vestige de l autorife de genes dans l ile  lorsgue le duc de choiseul concutla pensee de reunir la corse a la france  apres de longues hesitations le senat  de genes consentit et spinola son ambassadeur a paris signa un traite par lequel les deux puissances cpuvinrent que le roi de france soumettrait ef desarmeraiPS les corses et les gouvernerait jusqu au monieut du la republique serait en mesure de lui rembourser les avances que lui aurait coute cette conquete or il fallait plus de trente mille hommes pour soumettre pile et da desarmer et pendant plusieurs annees il fallait y maintenir de nombreuses garnisons  ce qui devait necessairement monter a des sommes que la republique de genes ne pourrait ni ne voudrait rembourser    2 8   le ministre francais fit ouvrir une negociation avec paoli  il lui deman dait qu il portat son pays a serecon naitre sujet du nroi iet qul se re connut librement province du royaume pour prix de cette condescendance on offrait a paoli fortune honnetrs il rejeta toutes les offres avec dedain  il convoqua la consul te et lui exposa l etat critique des affaires  il ne dissimula pas qu il etait mpossible de resister aux forces de la france  il n y eut qu un cri   la liberte ou la mort  il insista pour qu on ne s engageat pas legerement mais tous paraissaient surtout indignes de ce que la france qui avait ete souvent mediatrice dans leurs querelles avec genes et avait tonjours proteste de son desinteressement se presentait aujourd hui comme partie et feignait de croire quele gouvernement de genes pouvait vendre les corses comme un troupeaude boeufs et contre la teneur des pacta conventa  le traite par lequel genes cedait la corse au' roi excita en france un sentiment de reprobation generale lorsque l on connut par les resolutions de la consulte qu il faudrait faire la guerre et mettre en mouvement une partie de la puissance francaise contre ce petit peuple l injustice et l ingenerosite de  cette guerre emurent tous les esprits le sang qui allait couler retommbait tout ehtier sur choiseul i le lieutenant colonel chauvelin debarqua a bastia  il eut sous ses ordres 12 006 hommes il publia des proclamations intima des ordres aux communes et commenca les hostilites mais ses troupes battues au combat de borgo repoussees dans toutes leurs attaques furent obligees a la fin de la campagne de 1768 de se renfermer dans les places fortes la   iin yeut plus a deliberer le marechal de vaux partit pour la corse  il eut sous ses ordres 30 000 hommes iles ports de cette ile furent inondes de troupes les habitants se defendirent pendant une partie de la campagne de 1769 mais sans espoir de succes  les corses se battirent avec obstination au passage du golo  pontenovo n ayant pas eu le temps de couper le pont qui etait en pierre il se servirent des cadavres de leurs morts pour en former un retranchement   une partie des patriotes etaient morts en defendant leurindependance l autre avait fui une terre proscrite de sormais hideuse mais un grand nombre n avaient da mourir ni fuir ils furent l objet des persecutions  les uns perirent victimes des crimes qu on leur supposa  les autres trahis par l hospitalite par la confiance expierent sur pechafaud les soupits les larmes surprises a leur dissimulation entasses en grand nombre par m narbonne frizlar dans la tour de toulon empoisonnes par les aliments tortures par les chaines accables par les' plus indignes traitements il ne vecurent quelque temps dans leurs soupirs que pour voir la mort s avancer a pas lents    tristes moments pour le moraliste pareils a celui qui fit dire a brutus  vertu ne serais tu qu une chimere   v arriverai enfin a la domination francaise accable sous le triple joug du militaire du robin du maltotier  etranger dans sa patrie en proie a des aventures que le francais d outremer refuserait de reconnaitre  le corse voit ses jours fletris par l'avidite par la fantaisie par le soupcon et1 ignorance de ceux qui disposent des forces publiques helas comment cette nation eclairee ne serait elle pas touchee de notre etat comment penvie de reparer les maux qui nous sont faits en son nom ne lui viendrait elle pas
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="8" type="feu" xml:lang="it">
+    <p>
+     e allora i nostri passeggeri si accorsero come il vento  mutandosi ad un tratto  di tramontana si era volto a liibeccio  grosse nuvole nete  pari a gravi battaglioni di eserto  una dopo valtra venivano ad attelarsi pei campi del cielo  mentre altre piu leggiere precorrevano 1h sembianza di bersaglieri       7 avremo burrasca  neh  capitabo angiolo     domando fra berbardino affrettandosi ad obbedire 4 comando del capitano franceschi i e questi       be    ma per istanotte in cor sica non si arriva mica  e sara bazza  se  in tutto domani       cio mi sconcia  ma in questo come in ogni altro la volonta di dio sia fatta       e si avvio sotto coperta seguitato dagli altri       capitolo vi  perche i corsi non amino i forestieri  altobello senz altro dire si giacque a canto allo amico suo giocante grimaldo   il  quale  comecche animoso molto e della patria sviscerato  pure non sapeva fare altro che menare le mani e dormire  fino da quando egli ebbe  uso di favella non si ricordava  avete   parlato ire minuti senza  sbadigliare quattro volte  soleva dire che la rettorica del soldato sta sul taglio della spada   e se per questa ei non capisce  o con questa non si fa capire  gli e segno chi ei nacque per servire la messa  non gia per esercitare la milizia  giocante per tanto dormiva  ma siccome riesce piu age vole perdorare nel sonno che incominiciarlo  come ogni uomo puoavere spirimentato  cosi accadde che sebbene altobello  il boswell e padre bernardino  ci si mettessero  di proposito  non ne vennero a capo   e davvero  posti ancora da parte i pensieri che ad ognuno  di  loro  mulinavano   pel capo  non persuadevano il sonno  lo zufolio del vento pel sartiame   il flotto dei marosi che rompen dosi contro la prua scivolavano cigolando iungo le bande della galera  e quel tracollo da poppa a prua che squassa la carena alle navi e le viscere  ai passaggeri  in fatti altobello  dopo essersi  voltato  delle fiate piu di venti ora sul manco ora sul diritto fianco  si mise a sede re tirando in su le gambe e su quelle appoggiati i gomiti  introdusse la faccia nelle mani aperte come dentro una moisa  fra bernardino  notato lo atto  e parendogli buono  non pose tempo fra mezza ad imi tarlo  e il signor giacomo  quasi a  far prova del quanto sia contagio   so lo esempio tenne dietro a que due   parevano gli amici di giob quando  invece di consolarlo  andarono a fargli scappare la pazienza  finche preso il morso fra i denti  il buon patriarca dette di fuori  per la quale cosa io non sono mai  arrivato a comprendere come sia passata  in proverbio la pazienza di giob  scorsa lunga ora in silenzio  fra bernardino chiamo     altobello     che desiderate da me    rispose il giovine corso     mi e venuto lo serupolo di avere proceduto con manco di cortesia con questo gentiluomo su dianzi in coperta  i    la coscienza non v inganna  consideratelo  voi  questo gentiluomo per visitarci muove da casa sua    galla inghilterra            ah  inglese  la e dunque inglese vostrasignoria  angli  olim angeli  nunc diaboli  1  come ho sentito dire a roma  i   4  lo raconta proprio il boswell che un frate gli disse cosi           e non solo le parole vostre mi parvero inurbane  ma se penso che voi foste lettore di filosofia  senza discorso di ragione    riprese a dire piu acerbamente altobello   e il boswell allora con voce blanda soggiunse      buttiamo la filosofia in un canto contrario alla carita predicata da cristo  di cui voi giuraste pratica  re e bandire la dottrina   contrario al divino precetto che vi ordina di riverire e amare ogni uomo come fratello    o     per dio  santo   voi volete fare la predica al predicatore   circa a mancare alla creanza  puo darsi   voi le avete inteso  io me ne era quasi vvisato da me  rispetto poi ai carita  signor inglese  voi avete il torto  se voi sapeste quante desolazioni  quante rovine ci abbiano diluviato  addosso i forestieri  voi parlereste diversamente  io dubito riuscirvi sazievole  signor inglese   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

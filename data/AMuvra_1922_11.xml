@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1922_11
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     civilisation comme nous sommes parvenus a un stade remarquable de civilisation autant dire en corse de pourriture on doit agir consequemment  qu est ce donc qu un civilise  chez nous c est celui qui ne parle que francais qui a abdique tous sentiments de corsisme puis a renie toute attache avec le passe c est a dire avec sa langue maternelle sa chaumiere son village ses reveries d enfant puisque l ecole regionaliste et particulierement l intrepide phalange de a muvra ont entrepris depuis trois ans deja de mener a bien sans nulle defaillance la defense et illustration de la langue corse il serait a mon humble avis  utile et peut etre meme necessaire de faire comme le dit un mainteneur occitan le bilan de notre langue d equilibrer son actif et son passif de mesurer ses pertes et d escompter ses chances de gain  en commencant toutefois par la langue qu il faut au plus tot imposer dans toutes nos ecoles  en ce qui concerne les pertes elles ne sont pas negligeables car nous avons a combattre en premiere ligne un ennemi des plus redoutables le francais qui fait surtout ravage dans les basses classes et la lie bourgeoise qui se piquent a qui mieux mieux de le trop bien savoir  le francais en notre ile a la ville aussi bien qu a la campagne chez les petits ambitieux devores d arrivisme apparait comme l element primordial de  civilisation d'affranchissement meme  celui qui parle francais est  on quelqu on en corse inutile de rappeler la ridicule pantalonnade de l'hurluberlu qui revenant du continent ou il s est decorsise croit en imposer a ses congeneres avec tout un bagage d argot puise dans les basfonds de marseille ou de toulon voire de paris  et si par malheur le patre du niolu ou du cuscionu a l inadvertance de s exprimer en idiome national a l ecole l instituteur ferule en mains se charge consciencieusement de le tancer d importance  de meme pour conquerir la plus mediocre peau d ane il faut savoir manier le francais qui confere de la sorte tous les avantages  les fervents eux memes pour citer de nouveau notre confrere d occitanie sont la plupart du temps si peu accoutumees si peu familiarises a lire notre parler qu ils en sont incapables de plus le francais qui s'acharne a nous franciser par tous les moyens ne supplante pas seulement notre infortunee langue mais il la denature souvent  et les principaux artisans de l inoculation du virus nocif ne sont pas le moindres  l instituteur le cure qui ne preche plus en corse le bourgeois entiche de culture et tant d autres  ce sont les plus notoires c est pourtant la eux qu il devrait appartenir de reagir contre une invasion si anti corse  qu on mette actuellement entre les mains du premier ecolier venu un exemplaire des canti corsi ou des  pisticcine calde calde  et sera incapable  o honte   d en dechiffrer une traitresse ligne tant la typographie par exemple le rebutera ses yeux trop habitues a lire dans des bouquins francais ne sauraient s accommoder des caracteres cyrneens  et cependant il la connait cette langue qu il ne sait lire et qui l enchante malgre tout comme une sirene parce qu elle lui parle amoureusement de sa vallee ombreuse de ses troupeaux nonchalants de ses collines parfumees des effluves troublant du maquis de ses ravins aux clameurs farouches de ses greves sans cesse ensoleillees de ses ciels jamais troubles ou du clocher vetuste de son humble village   il la parle le petit ecolier de chez nous mais le vulgaire que representent la sordide masse des parvenus des mauvais freres et memes des snobs  car le snobisme ainsi que l affirme notre confrere cite plus haut exerce une influence pernicieuse sournoise aussi multiforme que celle du francais le vulgaire ne l entend pas et dedaigne de condescendre jusqu a elle  civilisation piteuse en verite et qui chez nous etale plus de  sottise que de beaute    ne voit on pas  signe caracteristique d une epoque de decheance la jeune pastourelle qui pour avoir ete quelques fois a la ville en bottines miroitantes se figure que son amoureux sera d autant plus seduisant qu il lui debitera ses rossignolades en francais et que l etudiante qui desapprend le corse sur les bancs du college ou de l ecole normale s imaginera tirer d autant plus de gloire du soupirant qu il lui adressera ses poulets en langage d outre mer  il est encore temps de reagir contre toutes ces lamentables aberrations qui ne servent qu a nous faire ridiculiser aux veux de l etranger  que l on apprenne le francais  puisqu on nous l impose  que l on aime sa litterature que l on admire ses grands hommes nous le concevons aisement  mais que pour cet amour de second ordre l on en vienne a renier jusqu a ses origines cela est d une ame mercenaire et indigne d un vrai corse  avant de jamais repousser avec dedain notre idiome aussi puissant que la voix de nos chenes aussi eternel que la chanson de nos sources aussi pur que l onde de nos lacs avant de le jeter selon l adequate expression d un felibre alpin  au rebut comme une chose sans valeur  il faut penser que ce fut le langage de nos peres qui n en avaient pas d autre et qui c est avec lui que nous avons appris a articuler  notre langue mais c est le village le clocher la montagne le torrent le troupeau les premieres pensees les premieres affections c est la legende du pays la sagesse des vieillards les contes du grand pere et les bonnes farces qui font rire  notre pauvre langue  mais c est le fleuve du bon sens populaire qui charrie des paillettes d or c est sur de semblables bords que le vieil homere et nos mistral contemporains ont trouve leur lyre et la source limpide et toujours la meme de la vraie poesie parce qu ils ont chante pour les foules c est a dire avec une sublime simplicite que de jeunes bardes que des trouveres nouveaux fassent refleurir avec plus d ardeur que jamais la langue de nos aieux ou sont encloses nos traditions   que le peuple corse si fier et si enthousiaste secoue enfin sa lethargique indifference et que ecoutant l imperieuse voix de l'atavisme il s eprenne plus fortement chaque jour de son idiome maternel   que l on s interesse aux travaux de nos academies que l on lise et repande dans le but d intensifier le mouvement corsiste du ponant au levant les oeuvres delicieuses de nos beaux poetes qui chantent sur le mode touchant des pleureuses de chez nous le doux le suave genie de notre langue et de notre race  de la sorte aime et soutenu le corse un instant en faillite reprendra vigoureusement racine au fond de nos ames comme au coeur de nos contrees et refoulera definitivement l envahisseur qui devra se cantonner dans ses strictes limites
+    </p>
+    <docAuthor>
+     Marco Angeli
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k13308897
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k13308897
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 337 | Année 9
+     </edition>
+     <date>
+      1928-12-01
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     annu IX — Numaru 337 I Esce ogni dece iorni 1 Decembre 1928    GIURNALE DI E PIEVE Di CORSICA  ABBUNAMENTI :  In Corsica. « + + + + + &lt;&gt; rr. .aà 12 franehi  In Francia. - - + +. + 4... 0 . 15 »  A lEstePu. + + . .: + -...... 80  U Mumaru:5 scidi  Direttore : Petru ROCCA  AFAMINISTRAZIONE:  88, Corsu Grandval 88. — ATACCIU  . Contu currente ce a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     duve so i traditori   in pulitica  un devenu pude parla altamente e fa a morale a li altri  che quelli chi hanu e mantenenu un ideale ispirato da le amore di u prugressu pe u ben  di umanita  specialmente da le amore diu so  paese pativu  am chi si li    quelli chi si limiteghianu a un  azione personale per ambizione  bisogni materiali  o puru simpatie induviduali  devenu sta in lu accintu chi elli hanu sceltu e chi si chiama un partitu  duve tutti obbediscenu aun padrone e duve tuttu si face per innalza stu predilettu  ancu al disopra di a patria e di  principii uma pitarii    na   in corsica ci e attualmente dui di  ssi campi chi un so ne republicani  ne monarchisti ne socialisti  ne cursisti  ne francisisti  ma landrysti ogavino pietristi  e basta  su  x dunque  chii particiani di sti campi aversarii  senza bandiera e senza ideale  si cumbattinu fra elli  ma chi elli lescinu travaglia quelli chi volenu esclusivamente u decoru e a felicita di u so  paese in la armupia di u populu  e chi si chiamanu cursisti  cume altri si dicenu nazionalisti  socialisti fascisti o bolcivisti   a quelli chi  supraniti da e passioni pulitiche  a pro soiu e diu so partitu  gridanu contru i cursisti a u tradimentu  li dumandemu eli dimu  duve soi traditori     fate u vostru esame di cuscenza e viderete chi elli so da  vostra banda  si noi partimu da u justu principiu chi a corsica deve tene a prima piazza in la nostru core e inli nostri pense ri   di traditu qui un ci e che a corsical    e da quale p    i  prima  da  franci  ghje privata  e ripruvata  ricunusciuta aucu da yanticursisti e da certi francesi elli stessi  e vera chi tutti quessi si cuntentanu di chiama negligenza  malacura niscentrone   s$a gattiva azione publica  ma unn e micca una tagione per chi di altri  piu precisi  un la chiaminu rinnegamentu di pattu sacratu scrittu di sangue  ingratitudine  per cunsequenza spergiuriu e  dunque  tradimenti  a  in secondu logu a corsica e tradi ta da i so  omi pulitichi  in altu e bassu  da 159 anni fa ad oghie questiunn  banu mai travagliatu che per elli e a clicca di i so  sicarii  fendusi un pedestallu cu e petri sangui nose e affimaticate di u castellu corsu cascatu in ruine  corteggiendu tutti i ministeri chi si succedenu   lasciendu disgrazia e diffama a so  mamma  senza ave thai avutu   curaggiu di fa un gestu di rivolta ne un solu muvimentu di iniziative private per un azione di rillevu economicu  a u cuntrariu  u so  sistema je di mantene a corsica in ia miseria  in lu desordine e in la ignutenza per ave un corpu elettorale piu manighjevule  dunque  qui ci e ancu piu che tradimentu  ci e parti  cidin   in terzu logu  a corsica e tradita dai scrivacciuloni chi servenu  s5 omi pulitichi  i coprenu sempre di fiori e  per un noceli in parigi 1odanu a francia  truvendu chi a po vera cirnu e abbastanza furtunata quandu u guvernu li lampa un ossu arode e li caccia un chilo di polpa     infine  a corsica e tradita da certi altri scrivacciuioni chi accettanu da a cascia nera e tre baiocche di juda e chi a  ssu prezzu cunsentenu a lascia a so  mamma ia la sfurtuna  chiamendu traditori qu elli chi a volenu succorre   traditori di quale   di a francia   cumu     per difende a corsica tradita p   ma allora  questu si chiama amore filiale  leghjtima difesa  patriuttismu puru e schiettu      i traditori so quelli chi lascianu a francia tradi  a so  discapitu stessu  u so mandatu in versu a corsica     e  traditori so sopraiutiu quelli di e tre baiocche  chi  per copre a so  vergogna accusanu i cursisti di esse venduti a la italia    detti iniqui    in tatti  casi questi restanu attaccati a u so paese di origine chi li altri rinneganu cu i so  fatti anticursisti e u so lascia fa davanti a una mamma martirizzata  cio chi e lu ultimu di i tradimenti   per questi  a mobilizzazione fin a i barbi grisgi di a classe 87  la ingiuria a li eroi corsi imbulighjati a i salvatichi senegalesi in l american park iscandali di brundseaux  froment rossignole altri  chimandavanu ancu i stroppj a u macellu  e carciule di a minctteria di corti duve i babbi di famiglia chiappava  a mattana  i scandali di li allocazioni militari spese da pulitichi venditori e pagate cume limosine da percettori sprezzenti   a populazione in prede a  grippa spagnola  senza medichi  ne medicine  ne viveri di primanecessita  i priggiuneri di guerra inviati a millaie in tutte e terre francesi per facci travagli publichi  allorquandu a corsica ne ricevia qualchi rocchiatella chi li funu di altronde cacciati sottu pretestu chi elli ci chiappavanu a frebba  1      i milioni chi a francia dava a i serbi  a li armeniani  a i siriani e a i polacchi  quandu a corsica  sanguinosa ein dolu  restava priva di ogni ricunfortu a u so  fuculaghju spentu  i milioni chi a francia spende in li altri dipartimenti e in le so  culunie  quandu i corsi schiacciati da li impositi strazieghianu in muntagna e morenu in piaghia   le inghiustizie amministrative  li istituzioni piu che difettose  la assistenza medicale incunusciuta  la infanzia a  malavia  lu arbitrariu sfrontatu  u disordine in le campagne   ecc ecc    tut tu quessu un conta nunda pei traditori di a corsica chi chiamanu i cursisti traditori di a francia  causa di tutti i malanni chi ruvinanu a corsica tradita     ma qui un si agisce piu di scrivacciula cun macagne  ne per appititti ne per odii personali ne psr rimproveri inutili  oramai  di u passatu  si agisce unicamente di ubbliga a francia a fa in fine tuttu u so duvere inversu a corsica cusi duverosa    e per quessa un ci e bisognu di tradi a dim ie
+  s
+    </p>
+    <docAuthor>
+     V. G. d'Altimonti
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     u  quai  di a corsica in parigi  rallegratevi  corsi  a nostra mamma a francia ci vole da una prova chi ella ci tene propriu cari   una strada di parigi     mi sbagliu  unn e micca una strada  e un quai  si chiamara  quai di a corsica     hanu pensatu i nostri fratelli francesi  chi ellera troppu scusgita chi in tutt e citta di francia duve i corsi si contanu per migliaje  un ci fussi ne una strada  ne un carrughiu  ne una piazza  mancu un quai avendu u nome di a nostra povera isula  hanu truvatu chi stu scandalu avia troppu duratu e hanu vulutu fallu cessa   dunque  un quai di a capitale purfara u nostru nome   ma guardate un po  cumu se francesi so pieni di sale in zucca  curn elli sanu fa    a nostra isula e assai accanfata  per truvalla  bisogn a bene a circalla  e spopulata   e deserta    allora  per fa be  in parigi hanu sceltu un quai in un logu abbandunatu duve un si va mai  duve nissunu abita e duve un ci e nissun negoziu  per rappresenta un isula deserta  hanu presu un quai desertu  ma chi teste   ssi francesi   chi sa se un ci e micca un prugettu di linea di tram o di metropolitain per arriva a stu quai persu nell  immensu parigi  sicuramente  si stu prugettu esiste  i lavori hanu da esse interrotti  cume quelli di a nostra strada ferrata di solenzara   pero  evviva  e sempre evviva 
+  s
+    </p>
+    <docAuthor>
+     U Rumitu
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="it">
+    <p>
+     la gemma di cleopatra  racconto corso dei tempi di vincentello di istria di matteo rocca  u valente scrittore   autore di  liucchetti  storia di una famiglia corsa del secolo xix e di el secreto di petr antone lucchetti  vene di publica un magnificu raccontu corsu di i tempi di vincentello di istria   3   cul estrattu di u primu capitulu chi noi prisintemu a i lettori di a muvra  guesii averanu un idea di l altu interesse storicu di u libru  di a ricchezza folta di le imaginazione di le autoree di a chiarezza  di u so sfile     potevano essere le sei pomeridiane  in una sala bassa dal soffitio a costoloni rischiarata da una finestrina a sesto acuto  fra quallro mura dipinte affrescate  un uomo di statura media slava seduto su un seggiolone  co  gomiti appoggiali ad una tavola di quercia massiccia  su cui  qua e la  sparpagliale  vedeansi alcune pergamene  un altro uomo  aveva preso posto accanto alla lavola  ma esso appariva cosi smilzo  cosi meschino solilo il vestito monacale  che la sua personcina avrebbe difficilmente vichiamalo le attenzione di chicchessia  di color bianco  dal cappuccio nero  era il vesti to di quel religioso   un domenicano senza dubbio  conventi di quest ordine  ve ne erano molti nell aragona  all epoca in cui seguirono i falti che raccontiamo  cioe sul principio del secolo decimo quinto  la luce vesperlina affievolila ancora attraverso le vetrate multicolori della finestra  proiettavasi indecisa sul viso del monaco  austero come quasi tulti gli altri visi monacali  occhi incavali soito le ciglia rade  fronte pallida e fuggente  naso corvino  mento protuberante  l incurvatura del naso era lanto pronunziata  che la punta sembrava volere urtarsi con le due i labbra tenue e giallognole  avvezze alia preghiera ed alla meditazione   la mano destra dei personaggio  ossuta e martoriaia  errava in quel momento su aicune carlaccie  e quello erramento era seguito con singolare attenzione dall allro personaggio  immobile e quasi immerso nella cupa oscurita della sala     allora  la trovale o non la trovate la citta di cui parla sirabo  paganus nella sua geografia   vapis  vapes  come avete detto      vapones  maesta  vapones    si affretto a rispondere il piccolo monaco  mentre la sua piccola persona sembrava scossa da interno fremile  ed il dito indagatore proseguiva sulla carla le febbrili ricerche   se noi abbiamo bene inteso  nella risposta che il religioso rivolse al suo interloculore  ia quale  in quel fosco ambiente  ebbe nua lugubre eco  venne usato il termine altamente onorifico di maesta  e difatti  il personaggio che slava seduto nell ombra  e la cui osservazione  o per meglio dire il sepolcrale broniglio   aveva spinto il monaco ad aprire la bocca  non era altro che su majestad don alonso guinio  rey de aragon  de cataluna  de sardena y de muchas otras provincias y cibdades   ogni giorno  padre gutierrez de cimenca   cosi chiamavasi il monaco   si presentava al ponie levatoio della reggia di saragozza  ed ivi immancabilmente esibiva al guardiano una tessera che gli dava ingresso al castello  quindi egli attraversava parecchi cortili per arrivare a pie  di un torrione onde di nuovo porgeva la tessera ad un altro vigile  brontolando nello stesso tempo delle orazioni  cosicche  salendo i gradini di una scala a chiocciola  poteva ogni giorno essere inirodotto negli appartamenti del re   si capira facilmente che tali rinnovate udienze accordate dal poderosisimo rey don alonso a un umile monaco  quand anche costui appartenesse ad uno degli ordini piu rispeltali della spagna  non potevano non richiamare li attenzioni di quanti  nel recinio del casiello  occupavano un ufficio o coprivano una carica  ognuno si chiedeva quali polessero essere le ragioni disimili interviste  gli alferezes di servizio  all inerociarsi con padre gutierrez sollo gli umidi vollori  avevano uno sguardo di rispeltosa diffidenza  i  oh dio  la cosa  in fondo  non era tanto misteriosa quanto certuni credevano  per giustificare lo ambito onore al quale veniva failo segno il piccolo monaco  non era necessario di ricorrere agli inestricabili imbrogli di stregoneria  alchimia o magia mediante i quali le immaginazione in quei tempi dipingeva qualsiasi abboccamento che oltvepassasse i limidi consueti  nel presente caso  traitavasi soltanto   sono in grado di dirtelo  egregio lettore   di ottenere dal monaco qualche schiarimento di caraltere geografico  per parlare in modo piu preciso  il re don alfonso di aragona slava preparando una discesa interra lontana  ed il suo spirito lungimirante non rileneva inutili i provvedimenti del genere sopraccennato   l insigne onore di fornire al monarca i lumi che gli abbisognavano era speltato a padre gutierrez de cimenca  ma diciamolo subito  tale onere era troppo grave per le sue spalle mingherlive  non chesi avesse da rimproverare al domenicano una mancanza di erudizione   padre gutierrez era graduado en artes li berales   ma perche i quesiti del re don alfonso verievano su un soggello trascurato da  geografi lutti quanti  a principiare da quelli delj antichita  ah  se fosse stato desiderio del re di avere qualche informazione sopra  aoa diva o vultima tule  il freticello sarebbe certamente stato meglio in grado di rispondere  ma pensate un poco in quale impiccio dovette trovarsi il padre gutierrez de cimenca  quando  recatosi per ja prima volta al palazzo e presentalosi lutto tremante in conspectu monarchi  apprese che si voleva ottenere da lui qualche informazione sull isola    di corsica  indarno  ogni volia che il padre gutierrez ritornava in convenio  metteva sossopra gli archivi delle ordine   provandosi di ricavarne qualche documento  di scoprirvi qualche brano di cartapecora che gli sarebbe stato di giovamento  non era tullara riuscito a rinvenire niente se nou  fra le pagine giallognole di un enchiridione  una carta di tolomeo figuvante la italia settentrionale con la isola di corsica in un cantuccio  che questo sia stato documenio insufficiente  lo vediamo benc ora  giacche il povero religioso  di fronte all interrogazione di don alonso  non sa come cavarsela     neppure gli altri nomi di citta dati da sirabone nella sua geografia sapreste identificare    continuo  il monarca  e pensare che voi foste raccomandato alla nostra benevolenza come un perilo nelle cose geografiche          orsibilmente pallido  assumendo lo atieggiamento dello scolaretto colto in flagrante delitto di ignovanza da un inflessibile maestro  padre gutierrez continuava pro forma a irascinare un dito tremolante sulla carta  ben sapeva che non riuscirebbe mai ad identificare i cinque oppida che strabone  nella sua geografia  indica come i principali della corsica  alfine  fece come per iniziareun balbettamento di scuse  ma con gesto rapido della mano  don alonsolo fermo  lasciandolo sbigottito     vedrete   disse ironicamenie il re   che per finirla con un testo latino mi bisognera ricorrere a qual che codice arabo estratto da una medersa di andalusia  laddove la scienza geografica di padre gutierrez de cimenca non sara giovata mi  potranno forse esser di qualche afuto gli scritti di abul feda o di ibn haucal  2   che cosa ne dite  solertissimo padre     il fraticello rimase a capo chino  avrebbe voluto trovarsi mille leghe lontano da quella sedia da tortura nella quale si era sprofondato  con la anima in preda ad indicibile sgomento   sua maesta  frattanto  si era meglio accomodata sul seggiolone dai bracciali terminati con forme di chimere  col pugno appoggiato al mento  pensava  non senza rammarico  che difficilmente si potrebbe metter su la spedizione di corsica  uno dei piu cari suoi disegni  da parecchi anni vagheggiato  grande pero sarebbe stato il suo desiderio di vedere le aragonese vessillo sventolave su quella regione montagnosa  di fronte al lido di quella italia  il cui solo nome richiamava nella sua mente tanti dolci e bellicosi ricordi    4    PS vol di ix 196 p   raffaello giusti  editore  livorno  1928   vi  prezzu  l  46    2  gelebri geografi arabi 
+  s
+    </p>
+    <docAuthor>
+     Matteo Rocca
+    </docAuthor>
+   </div>
+   <div n="4" type="his" xml:lang="fr">
+    <p>
+     film du maquis nous venons d assister ces dermiers temps a une serie de grandes manifestations etrangeres notamment celte randonnee du dirigeable allemand en amerique pour ne citer que celle la manifestations qui affirment la puissance d initiative d une nation  il y a longtemps que nous n avons rien vu meme d approchani du cote francais ou toute l activiie semble se concentrer dans les salons de couture de la rue de la paix et dans les loges de la comedie frangaise  la propagande francaise a l etranger ne se fait plus guere en effet qu au moyen de vieilles actrices ou de mannequins charges d exhiber les plus recenies creations de grands couturiers et de maisons de lingerte fine  c est ainsi qu une actrice se voit deleguer periodiquemeni en amerique pour representer l art frangais  or que peut signifier pour le prestige d une nation l envoi comme ambassadrice a l etranger d une artiste egee qui n a plus pour elle que de beaux restes  nous sommes bien certains que le visage ride comme une vieille pomme de telle celebre comedienne n a pas suscite la muillionnieme partie de l enthousiasme qu a dechaine aux etais unis l arrivee du graf zeppelin   un grand pays doit tout de meme se faire connaitre au dehors autrement que par des cabotins sur le declin et du linge de bonne marque  il serait bon que lorgue on evoque la france dans le monde on n evoque pas seulement des petites femmes tres chic ou des societaires du theatre frangais d ege caduc  d autant plus que vetranger n a plus rien a envier en fait de haute couture ei d artistes en res nom a la plus grande des rebubliques demagogiques   celle ci donne vraiment que ce soit a l etranger ou chez nous en corse la mesure de ce qu elle peut trois fois rien
+    </p>
+    <docAuthor>
+     Romanetti
+    </docAuthor>
+   </div>
+   <div n="5" type="art" xml:lang="co">
+    <p>
+     cunsigliu di u ziu prete  cresima   nu i primi tempi di a jesgia  li apostuli e i discepuliavianu a pienitudine di u sacerdoziu  battizavanu e cresimavanu subitu i cristiani   un li bastava di fa nasce figlioli a diu e a  santa jesgia  ci vulia guerrieri per affrunta i persecutori di u nome cristianu  ed e percio chi a cresima si dava subitu dopu u battezimu  un  dodeci milioni di martiri attestanu la efficacia di stu sacramentu di cresima  u sangue di sti martiri era sumente di novi cristiani  cusi che u so  numeru si multiplicheghia in tuttu lu imperu rumanu  e i veschi un pudendu piu  cu custantinu  esse dapertuttu per amministra sti dui sacr amenti necessarii  dedenu manu ad organizza a gerarchia ecclesiastica  dendu u sacramentu di le ordine per amministra u sacramentu di u battezimu e si riservonu u putere di amministra soli u sacramentu di a cresima  cusi  pocu a pocu  i cristiani tensenuu battezimu cume sufficiente per anda in paradisu  ma unn e abbastanza   per resiste a e tentazioni  ci vole la armatura di a santa cresima  quanti ne more prima chi u vescu venga a da u sacramentu ne nostre povere parrochie  ne cunoscu tanti becchj canuti  chi unn hanu ricevutu cresima e unn hanu mai vistu veschi  e bulemu chi sti cristiani abbianu a sapienza  u cunsigliu  a forza  a pieta e u timor di diu     si  monsignore  u corsu vi rispetta e bi onora e brama di riceve da e vostre sacrate mani u segnu indelibile di u spiritu santu  da voi dipende in un certu modu a civilizzazione e i boni custumi  ne la isula  affaccatevi  cume voi fate aspessu  andate in bisita pasturale  spendite u spiritu santu cu tutti i so  doni e i custumi cambieranu  e vindette stancheranu e a macchia sera pe e bestie     a corsica vi dumanda la elemosina di a santa cresima chi li manca  cuntinuate a davvi rumenu  cume voi fate da bone pastore   circate e vostre pecurelle  e attenti   a u lupu e a volpe  a furtuna di a corsica e ne vostre mani  ne site cunvintu   ma state a sente que   a parrochia di san ghiuvanni cuntava dece case  cumpresu un stazzu e acaserma di giandarmeria  e case  poche ma piene di jente  tre o quattru famiglie ognuna  di sei o piu zitelli   ha una jesgiola cu u so  campusantu intornu   e campane so nantua eforche  u presbiteriu ba e so  quattru facciate cu u sp  ortu chiosu e la acqua dentru  u prete ha quaranta cingn anni  bell omu  di statura rispettevule  e tutta a parrocchia y stima el ama   un si impacchia di pulitica e sila gode in pace  eranu dece anni chi un si era vistu vescu in  ssa bella parrochia  un bellu jornu riceve lu avvisu chi monsignore arriva fra tre ghiorni  subitu  subitu  si appende a e campane  e tutti i zitelli correnu in ghiesgia  ne sceglie una vintina di i piu majo  maschje femmine  e si da a prepara  poi  compra polvara e scrive un bellu discor eccu u vese u  la aria trema da i colpi  u sgio merre cu iso  eunsigli as cumpagnanu u sgio curatu  i giandarmi in grandetenura li facenu ponori protocolari di generale di brigata  secondu u cuncurdatu sottu u secondu imperu  tuttu u paese e in ghiesgia i giandarmisi fermanu a porta  u vescu si mette in tron dopu una preghera e u curatu da a lista di i cunPSrmanti  siachi a jesgia un fussi luminosa abastanza  o sia chi u pasturale e a mitria lu impedissipu di leghie i nomi  guarda e face cennu a u piu majo di tutti i zitellichi avia quatordeci anni di alzassi e di abbicinassi a u tronu  si chiamava  questu  battista  figliolu di matteolu u capraghiu     battista matteoli  fa il segno della santa croce  e di u paternoster     unn  u so       di le aye maria    hunn a so       cume  un sai ne pater noster ne ave maria  unn hai ne babbu ne mamma  bergogna      si  chi lu aghiu u mio babbu e a mio mamma     allora cum e chi tu un sai mancu le ave maria  e duve so  u to  babbu e a to mamma in stu momentu      un omu guadratu e altu di statura sileva e bene a pe  di u tronu   mette un pede sopra u gradinu e  guasi nasu anasu cu u vescu  cu a so  veste di pannu corsu  paria un orsu rittu stuzzicatu e prontu a  battaglia    u babbu so eiu  disse  e chi mi voli  a midarte e di capraghju e la a ghiu imparata a u mio figliulone  sa fischia e capre  e face gira per mettele  nu reghione  e sa munghie una per una  ecunosce tutte per nome    or chi mi voli 1e  so u so  babbu  unn e bastardu  per impara i dominus vobiscu ci so quelli di le arte  unn e u mio affare  e sell un sa cio chi tu lidiman  di  un circa lita a u babbu ne a mamma  gredi forse di imponene a  jente perche hai  ssu cappellu pinzutu   so api eiu  per rispondeti  chi mi voer  ste parolle e la aria minacciosa di matteolu facianu trima a jente  e monsignore  interdettu da tale audacia  chiama i giandarmi e da ordine di ar  restallu  i poveri dui giandarmi funu pronti a risponde a  chiama  ma quand elli funu vicinu a matteolu  quellu si volta e li dice      site qui per ubbidi  ma tuccatemi  si bo  avete stomacu    quelli capinu a  prima  e un li missenu manu addossu  prudenza fu quella  un si sa cio chi saria stalbatu  u pretee u merre  cun parolle dolci e amene  fecenu sorte di iesgia a mat  teolu  e monsignore  dopu un pocu  dede a cresima a tutt i zitelli e zitelle spaventati  chi bi ne pare     battista fu cresimatu cun li altri  u sgio curatu l imparo a verita pocu a pocu  secondu a so  arte  e ne fece un bonu parruchianu  un mancava maia messa a dumenica ne i jorni di festa  seppe serve a messa  e fece ancu un bonu sacristanu pe e feste sulenne  si marito  ebbe cinque figlioli  e  tutti battizzati cristianamente  fecenu le edificazione di san ghiuvanni   chi bi ne pare di stu stalbatoghiu cari cursisti  enni  matteolu unn a via mai ricevutu cre  sima  e mai avia vistu un bescu  battista  malgradu a so  poca struzione cu a cresima e cu lu ajutu di u spiritu santu divento un bonu cittadinu e un bonu cristianu   i    eccu cio chi manca anostra giuventu corsa  a majo parte di i nostri preti so boni preti  ma menu boni parrachi u seminariu li da u rispettu di u statu ecclesiasticu  maunli da a struzione curiale  questa e a prima piaga in corsica  pensemu a fa cristiani cu u battezimu   i corsi so tutti cristianie ancu catolici  mali manca di esse boni cristiani   pochi so quelli chi pensanu ariceve a santa cresima 
+  s
+    </p>
+    <docAuthor>
+     Simon Brandu
+    </docAuthor>
+   </div>
+   <div n="6" type="let" xml:lang="co">
+    <p>
+     ci scrivenu  la accademia corsa  chidazzu  nuvembre 1928   sgio direttore   e longu tempu chi e cercu di entre in la accademia piantata da u sgio maistrale  sunator di mandulinu e maestru di canzone  ma un mi riesce di truva la entrata  cume queliu chi avia cambiatu camisgia cu grossu minutu   insignatemi  voi chi abitate a citta accademica  duve sti carbusgi chiocchi  arghi si ascondenu  hanu forse paura chi e capre i magninu  per tenesi piatti    quantu so i membri  senza cunta lu altru resiu  cume si chiamanu sti ja linacci di lu olimpiu    i framassoni tenenu e so assisi di notte e in le caverne nere  ma si finisce pertruva u so alloghiu  la accademia corsa deye dorme u jornu e vighia a notte cume i mazzeri   e stu presidente capacciutu cume u monte tritore  sta in prifittura o a i scioppi     mittitemi nantu a strada chi e  possa picchia a la porta di li immurtali par ghiugne anch eju a ripusa a me chiocca faticata a la ambra di sti salgi piangenti   aspettu a vostra risposta par fa a me dumanda 
+  s
+    </p>
+    <docAuthor>
+     Minicolu
+    </docAuthor>
+   </div>
+   <div n="7" type="poe" xml:lang="co">
+    <p>
+     casa paterna  unn era  cume ava  cu i guadri in sesta  per scialbu  in qua e  nda tutta pezzata di ciuffuli di murza rasinata    e dai nivoni avia jmbatu a cresta  e so grundaghie  di a piu rozza teghia   cu e pioggie sgucciulavanu a rivocchi o si arricchianu di pendalocchi cu a matinata aspra e spurguleghia   in bassu  tutta zombe e caravoni duv  io facia  mpiatte amullizzate di pere  sorbe in cova e bonbucconi   paria di pestasale incatastate   rivegu u terrazzolu mezzu in ciccia cui so  dece scalini ad alza e cala   u sopraporta duve babbu inticcia   u sulaghiolu  eppo  piu nda a sala   cu duie camerelle bianche e lisce   eccuci u  tuttu  e custi funu sei  chi a ben  di mamma ebbe a sgrunchiulisce  fra  sse corcie muraglie    gi    ma chi ebbrei  dicia sempre quella puveretta   riguardu a i nostri ruzzi turbulenti   poi ci era a sciappatella  e dopu i pienti si riturnava in pace  cu a micchetta   o tempi  o tempi  fuste i mio piu belli  arridussati a quelle petre care   una per una in mente  da zitelli   oghie  listessu nidu nun mi pare   e tutta infinestrata  ci e mubiglia   scaloni  stanze  tutt e mudernatu    ci e spaziu troppu spaziu    di a famiglia  cio chi ci ferma si e alluntanatu   o nidu  o casa  piu nun ti cunoscu quantunque chi io ci tenga fuculare   di unn esseci ma  natu mi si pare   dapoi chi tastai  di a vita  u toscu    ma ti aghju qui  sculpita in la mio mente  cume un riccu castellu di le fate   rivegu e vecchie murze rasinate    rivegu a mamma cu tutt a mio jente 
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     risposta di a leca di u furcatu  postu chi mi ete chiamata  un mancu di fa rispota  appinzu ste quattru rime eppoi le mett a la posta  indirizzendule a  muvra   a publicalle disposta   lasciatemi dunque dibbi  postu chi bo  accettate  accunciemuci tra noi  senza fa tribunalate   bi lasciu la preferenza   cosa vi piace   pigliate   fate un picculu pacchettu  ma sia raccumandatu perch ell unn accatti male fendu iamantu viaghiu   tempu capitatu qui   subitu vi scriveraghiu   per rimandabbi lu guadru  aghiu pronta la cascetta   a mandu malbalenteri a mio santa benenetta chi e padrona di li corsi   custi  forse maladetta   si  ndu la vostra famiglia rischiate di accatta male   eo veneria in persona fendu contu di ave le ale  perche so chi a jelusia e qualcosa di infernale   si bo  mandate la pipa   eo ne so bella cuntenta  antone ha la arba tabacca chi un belchiosa ne assumenia   tirara le sfumigate   un tenendula mai spenta   qu finiscu  chi  cu a muvra   esse longhi unn e a manera  poi  mi sentu appinnnla chi so dece ore di sera   bi salutu da luntanu      spengu la mio lumera 
+  s
+    </p>
+    <docAuthor>
+     Divota Paoli
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     spazzola       a  a muvra   dopu tantu chi e  ti leghin  gustendu li to  pueti  sicondu li so  mireti   fra li megliu e fra li peghiu  ne avia presu unu in onca da tantu chi elln ni ronea   era mossu a lu imprincipiu fenduli cusi cusi   ma  tanti ni cumpuni chi ci lascio lu judiziu  cu lu orgogliu par natura  par me fu trista figura   e cusi  fiaccai prestu  di leghjia lu dialettu  lasciendu li canti e u restu chi erani ju me  dillettu   di i scritti di rimaglioni ne avia la  ndigistioni   ava vegu  se un mi sbagliu  chi a rombu di zele ze    o muvra  di ln canagliu ne se  stufa come me   li hai missu in quarantena perchi tutti ci avvelena   applaudiscu a  to  spazzola chi ci la ha messu da cantu    ssn straziador  di parola gonfiu trettu da lu vantu    eiu so      so ciu   ciu          o lumbrigo  se  un ghiudeiu   gi ti affacchi da sti parli incu ju to  mandulinn   par racchiaeci cu poc arti 1 to  scritti da catinu   vai puri  i sciaccamani i ti hanu da fa li cani 
+  s
+    </p>
+    <docAuthor>
+     Un Mizzanacciu
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     serinatu  svegliati  nice vezzosa  aifacciati a la finestra  perche statti cusi ascosa   la me  voce nun ti desta  cume  ne ju tempu passatu  qui ci cantu e facciu festa   bona sera  e  ti salutu sottu a notte tenebrosa   a truvatti so binutu quand ognun si ne riposa  alpusanza di una volta  mostrati piu generosa   le amore qui mi ha cunduttu duve sta lu amatu oggettu  cercu a te  preziosu fruttu  cun carezza e cun affettu  ti ne stai senza maritu dentr un sulitariu letiu   tu riposi  nu le piume e di me nunn hai piu cura  e u so fora senza lume   mi si aggrava  gni sciagura  e nun mi senti languisce sottu a u celu  all aria scura   possi tu vede le notte  ghiorni sventurati e tristi  oh  felicita  nterroite  di tanti amurosi acquisti   mi lasciaste in un istante e da me ti ne iughjste   dopu di esse fidanzata partisti cun leggiadria  duve ti ne fusti andata   e  per qual  segreta via  senza mancu dimmi addiu  senz alcuna cumpagnia   mi mandasti da parigi una lettera affiuraia    cun angoscia  i mi aifigi di quella gattiva andata  ava ti trovi fra duie   ne sposa ne maritata   tutta la to  gentilezza li hai cambiata in vilenu  ind un mar  pien  di amarezza  qui ti cercu e vengu menu   splende lu stellatu velu  tempu lucidu e serenu   nun mi senti  o maddalena  chi ti chiamu a voce forte  le amore chi ti incatena  e curapagnu di la morte   di la to  degna mazione aprimi le amate porte    da la piaghia ala muntagna luce a rosa cu lu fiore   si rispira ala campagna u profume di le amore  svegliati da li to  nidu   chi lu sonnu e traditore   so gia passati dui anni chi da me fristi smarrita     cun quelli amurosi ingaani turmentasti la io  vita   veni a dimmi in questa notte da quale fusti rapita   quandu mi cridia felice cu li amici e li parenti  mi hai spentu ogni radice di li bramati contenti   tali so i jorni passati come li jorni presenti   tanti passi fatt in vanu cuttighiendu lu to  amore  vicinu come luntanu  cun affanni e cun sudore   nun ti assolvera giammai sacerdote cunfessore   vegu in celu la alba  ncesa  ne ritorna la aurora   la me  voce unn e piu intesa in tondu a la to  dimora   lu ascoltanu da luntanu  tantu in casa come fora   si prisenta un novu jornu  qui ti lasciu  o bella sposa  faraghiu prestu ritornu   di notte  in caccia amurosa  le oriente apre le porte a la stella luminosa 
+  s
+    </p>
+    <docAuthor>
+     Minicale
+    </docAuthor>
+   </div>
+   <div n="11" type="poe" xml:lang="co">
+    <p>
+     cuscrittu  ah  quente dura fu gnesta viaghiu   la me  gole era strinte da u dulore  e per tutta la sirada pientu aghiu  aghiu pientu di lescia in me amore   per tutt e vita mi ricorderaghin  ogni giru di rota mi crepe la core snffria   e mancu nun avis cureghiu di basgia u to rifrattu  caru fiore   addiu  oix me  cara catalina  addio  o la me stella matuttina 1 addiu  o lu me  divine paone    ma vai  nun persiere  sol di u me cor   presferiveceraghia in permissione   e dolci basgi ne avarei ancor  
+  s
+    </p>
+    <docAuthor>
+     M. Alessandri di Chidazzu
+    </docAuthor>
+   </div>
+   <div n="12" type="div" xml:lang="fr">
+    <p>
+     a cunquista francese di a corsica  da un giurnale di l epuca  iniziemu oghie a publicazione di e relazione sopr a campagna di e truppe di u re cristianissimu luici xv ne 1769 date da le courrier  giurnale direttu da le s fr morenas historiographe de la ville d avignone stampatu da antoine mossy fils avec permission et privilege de s a s in visibilmenteispiratu da u q g di u marescialle de vaux da u conte di marbeuf et da u ministru  le courrier  publicazione di unpaese neutru era destivatu a corrobora l infurmazione date da i giurnali francesi   pere per raggione chi i nostri lettori cumprenderanu l infurmazione di u fogliu di u s morenas prisentanu un particulare interesse  mardi 44 fevrier 1769  recapitulation des evenements de l annee 1 768  la rebellion des corses etait depuis longtemps le sujet des sollicitude de la republique de genes des lettres de la bastia parlent enfin d une convention passee entre ces insulaires  les genois par la negociation du colonel buttafuoco au service de la france la joye est deja generale a genes et d autant plus vive que la nouvelle paroit certaine par la retraite des troupes francoises qu on assure dans la disposition de s'embarquer mais semblable a ces meteores qu un seul instant voit paroitre e se dissiper cette nouvelle est aussi tot detruite bien loin que les francois pensent a quitter la corse on les y certifie encore pour quatre ans et l on ajoute que les rebelles continuent de recevoir des munitions de guerre  de l artillerie on sait meme a ne pouvoir en douter que leur general paoli visite les onvrages qu'il a fait elever le long des cotes  qu il en a ordonne de nouveaux  qu il doit faire assembler incessament toute la nation pour qu elle se prepare a la guerre  dans ces entrefaites genes traite avecla france  lui cede une isle ou la division regne depuis 38 ans n etait elle pas en droit d en disposer  les thyrreniens en furent les premiers possesseurs les carthaginois s en rendirent maitres dans la suite  les romains la leur enleverent les sartafins s en etant empares ja saccagerent e l amiral adimur les en ayant chasses la soumit a la republique voila ce que l histoire nous apprend les genois en ont toujours ete depuis en possession  sur quoi fonder l independance que pretend le general paoli  de quel droit veut il afranchir les habitans du joug de leurs legitimes maitres  prend il les armes contre eux mais si la souverainete des genois n est point asses solidement etablie par la conquete de leur amiral qui l'enleva aux sarrasins qu on s en raporte a d autres historiens selon lesquels pepin prit cette isle conquise ensuite par les genois apresavoir defait les pisans qui y formoient des pretentions ont ils cesse depuis d en etre maitres si se n est en 1730  la revolte peut elle infirmer des droits acquis par la voye des armes contre lesquels aucune puissance n a reciame  en donne t elle un a des rebelles contre des possesseurs legitimesp rien n a donc pu empecher les genois d'en disposer a leur volonte  l ayant cedee a la france les deputes du senat s y rendent pour la remettre au marquisde chauvelin nomme general des nouvelles troupes que le roi y fait passer  de celles qui s y trouvoient aux ordres du comte de marbceuf si les corses paroissent surpris d aprende pai la lettre circulaire de paoli qu il doivent passer sous la domination des francois ils le sont peut etre encore plus des ordres qu il donne a tous les habitans depuis t age de 15 ans jusqu a 60 de prendre les armes  de setenir pres a defendre leur liberte mais a cemot tout lui obeit ce phantome frappe  bientot animes par leur general  les corses prennent la resolution de verser jusqu a la derniere goute de leur sang tel est du moins le resultat de l assemblee que paoli fait tenir a corte mais il est bientot question d executer cette resolution  un corps de rebeiles vient se poster sous furiani en face de la bastia pour y observer les mouvemens des francois  illui est ordonne de les attaquer s ils sortent de leurs lignes le bruit se repand bientot que les hostilites sont commencees c est sans fondement cependant les drapeax francois sont arboressur les murailles de ja bastia  on chante le te deum au bruit de l artillerie deux bataillons forment la garnison de cette place  on yen attend deux autres avec la legion royale six vont occuper ajaccio deux san fiorenzo  deux autres ont encore ordre de se rendre avec la legion de soubise dans cette derniere ville  paoli avise de ces dispositions cherche de mettre a l abri d insulte le voisinage de ces places  surtout de couvrir l isle rouge  celle de capraia qu il sait devoir revenir aux genois par leur traite avec la france  qu il a eu soin de pourvoir de tout ce qui peut contribuer a une longue  rigoureuse defense malgre ces dispositions la bonne harmonie subsiste encore entre les francois  lui ils vont meme chercher de l eau dans son camp elle cesse enfin cette bonne harmonie les frangois campes aupres de sanfiorenzo veulent occuper une petite colline d ou la place tire sa provision d eau ils y font marcher un detachement les corses s y opposent  on en vient aux mains i yalendemain une autre action a strette mais malgre ce que les corses font publier l avantage est du cote de francois il l est tellement qu ils se rendent ensuite maitres d une tranchee dont les defenseurs sont tous passes au fil de l epee  qu'il s emparent encore de patrimonio village a trois lieues de san fiorenzo  ils poussent leur pointe il faut occuper le pais de furiani a la hauteur de montebello onen vient a une nouvelle action  barbaggio est emporie malgre la vigoureuse defense des corses faut il ensuite diriger les operations dans la province de capo corse eu egard a leur petit nombre contre celui des ennemis que le desespoir anime  si les francois y perdent du monde la perte est infiniment plus considerable du cote des corses que du leur c est envain que ces rebelles pretendent s attribuer l avantage  que les partisans qu ils ont hors de leur isle l exaltent  le grossissent a un point revoltant abandonner le terrein n est pas un signe de la victoire ceux qui ont echape dans cette derniere action se refugient a nonza  le comte de marbceuf a la faveur de la nuit marche a eux sur trois colonnes force le poste d olmetta la resistance n y sert de rien on s en empare l ennemi poursuivi gagne des rochers escarpes il les croit un obstacle capable d arreter les frangois mais leur valeur en triomphe il est chasse de cette retraite  force d abandonner nonza avec precipitation i la fuite lui est encore inutile le m de marboeuftrouve moyen d arreter les fuyards en vain veulenti ls resister ils sont obliges de se rendre prisonniers avec trente de leurs chefs  il est vrai qu il en coute aux francois mais que leur perte est peu de chose  ls la comptent me me pour rien ils se sont procures une libre communication entre la bastia  san fiorenzo des lors les escarmouches sont journalieres   la parfaite connoissance du pays est un grand avantage pour les corses mais les ambuscades ou ils se tiennent ne leur sont pas toujours si favorables qu il l esperent  dans ces circonstances paoli croit que les francois n ont dessein de prendre capo corse que pour se frayer une route plus aisee vers 1 isle de capraia il fait marcher toutes ses troupes nationales  volontaires  se met lui meme a la tete de 5000 hommes les barques  les gondoles sont amarrees pour defendre les approchers de l isle  il ne veut pas qu on en laisse approcher un seul marinier pendant ces mouvements partie de ses troupes tente de ravoir barbaggio  patrimonio que les francois lui ont enleve il sent combien il lui importe d avoir par le moyen de ces postes une communication assuree avec les autres provinces de l isle mais tandis qu il cherche d en deloger les francois ilse voit enlever erba longa  dun autre cote les fracois s avancent sur le couvent d oletta s emparent d une hauteur  s y retranchent mais moins heureux qu ailleurs ils en sont debusques  y perdent du monde qu on n en soit pas surpris les armes sont journalieres  ils l'eprouvent meme encore dans une sortie qu ils font de la bastia mais bien faibles avantages pour les ennemis  leur perte est pour le moins egale a celle des francois  les corses la font telle qu a les entendre les francois ne sont plus redoutables ils ont neanmoins vivement senti dans toute occasion ie poids de leurs armes  ils n osent avouer d avoir perdu avec nonza e oletta canari baretali luri moxa pino sisco biguglia  nombre d autres postes  qu ils ne se vantent donc point ou plutot que leur herault ne releve pas les avantages qu il pretendent avoir remporte dans d'autres actions importantes on voyait a la verite d un cote la valeur la plus intrepide  de l'autre tout ce que la revolution la plus desesperee est capable d entreprendre  mais qu ils ne se ventent pas dis je d avoir chasse les francois  qu ils n attribuent plus les avantages qu ils ont enfin avoue avoir ete remporte sur eux a l intelligence du colonel buttafuoco dans la province de casinca la situation d un pays impraticable  les ravages qu avoient fait dans leur camp des pluyes continuelles ont ete la seule cause de leur retraite  mais qui ne se revoltera pas de voir ie detail qu ils ont fait publier de l attaque de l'iste rouge en apprenant que cette expedition n a jamais su lieu qu en idee on avoit il est vrai prujette de l attaquer on avoit meme fait quelque disposi tion maison en est reste la neanmoins au dire de leur panegyriste la perte des francois y a ete immense  ils ne sont presque plus en etat de rien entreprendre c est d apres ce qu ils font imprimer hors de l'isle que diverses lettres ont annonce la defaite des francois a l isle rouge avec toutes les circonstance qui pouvoient en accrediter la nouvelle tandis qu il n y a pas eu dans cet endroit une seule amorce brulee  mais dira t on les francois ont eu le dessous a borgo  les troupes qui y etoient sont demeurees prisonnieres le detail que nous en donnerons l ordinaire prochain detrompera le public de tout ce qui a ete debite la dessus de la part des corses  on jugera s il etait possible de se defendre plus long tems dans ce poste enfin sans entrer dans un plus long detail des operations finissons par assurer que les nouveaux renforts qu on attend ne sont point pour reparer les pertes essuyees en attaquant les corses mais bien celle qu ont occasionne les maladies dans un climat auquel les francois ne sont point encore accoutumes   pour en attaquant tous les postes a la fois mettre fin a une expedition qui poussee avec leur vigueur ordinaire ne coutera pas plus que celle contre les rebelles de la catalogne au commencement de ce siecle une fois soumis les corses eprouveront que rien n est plus doux que de vivre sous la domination de l auguste maison de bourbon e en particulier sous celle de louis le bien aime
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

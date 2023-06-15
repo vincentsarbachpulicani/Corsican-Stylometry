@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330844n
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330844n
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 291 | Année 8
+     </edition>
+     <date>
+      1927-06-20
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Apnu VIII — Numaru 291 se . Esce ogni dece iorni 20 Jugnu 1927   GIURNALE DI È PIEVE Di CORSICA  ABBUNAMENTI:  In Corsica. - « - ~«....... . 12 franchi  InFrancia.. . - -5. .....'... 15 »  à PEsteru.. . . . .. ...... 30  U Numaru:5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 38. — AIACCIU  Contu currente cu a -posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     fume e fame  i tabacchi  a tintennula guvernativa cuntinua ad agita a quistione di i tabacchi attraversu articuletti indigesti in ghiurnali g cumandu di mariannella     ma hanu bellu chi fa  sti jurnalotti  prisintendu a so manera u novu prugettu di legge sopra a cultura di u tabaccu in corsica  e  fanu bellu che di chi stu prugettu e necessariu per impedisce i ricchi e i turisti di fuma u tabaccu di lussu  in corsica  a miglior contu che in cuntinente         hani bonu che circa di moveci in cumpassione pa sta povara regia chi si ne va a malavia parch ellu un po vende a  so arba inde noi a listessu prezqu che in parigi o a marseglia        chiacchiare  fole e canzohe    ln realita si agisce in prima locu  cume no lu avemu digia detta di strappacei unu di li ullimi miseri privilegi chi elli ti avianu datu pa fa cumpensazione a nostra sciagura  ta  manta        e  in sicondu   e irisistimu sopra  stu puntu  si vole fa passa una categoria di cumcittadini liberi sottu e forche di u statu  e indispensevule di funziunarizza i cultivatori   in sta manera quelli chi saranu amici di vomi influenti vindaranu a so arba  li altri  micicicca   si ne fermeranu 8    collu in manu   r    a lvoichj di i menu perspifact u pianu statale di assoluta sottumissione di la isula apbare qui in lu so chiarore   alcun sviluppu libaru in corsica  ne spirituale  ne mate riale   niente che mancie guvernalivel    a quistione di u tabaccu assumiglia a tutte le altre chi risuardanu u nostru paese   chi ellu si tratti di padule  di strade farrate  di cumpaenie di navigazione e ancu    di justizia   e sempre listessa cosa    o sottumeliesi calzendusi i scarpi di a lumaca o franca u mare x a   e vare e anda a chiappa e freb    siale per se culunie   eccu a scelta chi ella ci las cia quella chi porta in capu u barittinu di a rivuluzione pe u drittu  pe a liberta  pe la ugualita e pe a fraternita   e tiremucci lu usciu     
+  s
+    </p>
+    <docAuthor>
+     Ghiuvanni Malatesta
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     a volpe buriata   in la so seduta di sabatu passatu  a camera di idepulati ha tenulu un gran dibatimentu sopra e mene cumunisie in francia    a u favore di sia discussione chi appassiunava iuit i capi macchia ripublicani u ministru barthou  di accordu in sotto soltu cu li altri iimuneri di a barca guvernativa  volse fa vula nove legge   u pritestu era bonu i cummunisti fanu unia guerra accanita a le ordine suciale bisugnava a mette a lu ascosu di u pericuiu u  pusatoghiu di mariannu  ma per que e leghie attuale so insufficiente ha deitu u sgio bartnou   bisogna a fabricanne di alire     a verila e tutt altra  e quelli chi un so di a banda di i brinnoni lu hanu subitu capita e banu paratu u colpu   u guvernu  cu a scusa di perseguifa i cumunisti  vulia fa vuta nove legge per pude cumbatte  in realita  tutte le idee chi un so  a u so puntu di vista  abbastanza oriodosse  e  vulia fassi cuncede arme nove per amazza tranquillamente tultu spiritu chi unn e a so pare  per iurziuna  piu che maie senza incommudu  e cuscenze  in rivolta conlru a demagogia scandalosa    le ordine  di u jornu vutatu u 19 scorsu da 37o deputati mette in evidenza a scunfitia di u guvernu     la chambre approuvant les declarations du gouvernement e i confianie en lui pour assurer dans le respect des lois republicaines et la securite de la patrie  l oeuvre de progres democraiique e social  et repoussani touie addition passe a le ordre du jour    dans le respect des lois  avele intesu   e sapete ciochi parla vole di     ma que unn ha impeditu a mandria giurnalisticetufficiale di prisentacci  sicondu  lu usu   sta scunfita cume una vittoria di u guvernu   povara jente      si a camara avia seguitatu u mi nistru barthou  un era di persecuzione contru e minorita etniche e cunfessiunale saria stata aperta  da mariannona a culacchiuta  una e inseuppulevule   ci so  si sa  malgrado que assassinii di cuscenza e  strangulumi di ide e anch oghie    ma almenu e viltime un morenu senza eslrem unzione  
+  s
+    </p>
+    <docAuthor>
+     De Franchi
+    </docAuthor>
+   </div>
+   <div n="3" type="let" xml:lang="co">
+    <p>
+     lettera aiaccina  caru cumpagnu   ti facciu sape chi picchia unsole da coce le ove e chi  per ajutallu a incendeci u nentru e u fora  si e mossu lu alitu assuffucinie di u ventu di u desertu     ancu ad oriu mare si rispira a bocca spalancata e si ingolle focu   tempu di nutu e di birra jacciata per quelli chi un so impediti da u medicu e chi hanu e stacche farraie  tempu di amori pe i copdi asgiati e inlanguiditi de vampura  tempu di poker pe i nostri funziunari a lu oziu  infine  tempu di marmerette pe i ferventi di a canna a macinellu cume petru rocca   ti diceraghiu chi  quantunque muntagnolu  so di quelli chi supportu abbastanza u calore  essendu piuttostu scarsu di polpa cume tu sai  un risicu di trascalda  e  un mi vogliu troppu lagna tantu chi  grazia a diu  dappitittu si mantene  a  bundanza di  pesciome  caru cumpagnu  da essene stufu  lu amicu fetru in menu di un amen ti sbatiuleghia un aziminu nantu a rena  pare chi ellu discorri cu i pesci da tantu chi ellu ne chiappa  ci ne serla da jetta si ell unn era peccatu mandateli qui mi dicer e i  ma comu fa cu sta cumpagnia cu  si pocu veloce  si guasterianu  veni dunque qui si tu ne voli prufitta    pe u beie  sicuramente chi la acqua di a funtana supranaccia mi vene suvente in bocca e mi lascia ingolle a    mio saliva  tuttu un si po ave  eppo simai  a gravona e bundante e nunda che di fidialla corre  a sete passa  tastendula si po di chi omu magna e beie da tantu chi ell e barbuta      unn aghiu ancu intesu zinzale  si ne seranu forse tutte morte di paura sentendu tutte se minaccie di risanamentu  si omu li caccia e so padule  elle corcie  cume hanu da  fa  infatti   qualchi rivulverata a la aria  a notte per si carrughj  ma micca morie di jente ne latriciniii    a justizia veghia   parlendu di justizia  appuntu  chi ne pensaste di la ultima cundanna di i puliziotti bastiacci     qui  a primu accaitu  a jente ne e ferma stupita  ma dopu  cume di si judizj si ne vede e si ne sente tutti jorni  ognunu si e dettu   eh  si sapia  ci simu abituati     eppoi  a dicila fra noi  un tribunale un po ma piu di a vita  fa raggio a un giurnale chi palesa troppu affarerelli chi un li riguardanu e chi osa finu ad attaccasi a u primu funziunariu di la isula   a muvra caccia certi articuli e certe figure     inno  inno  un tribunale un pudia fa di menu  alo  e a muvra ha avutu tortu di ave raggio   il  inquant a uni pochi di noi altri illuminati  da qui in da femune di menu perche si noi caschemu in le sgrinfie di si judici un la ci perdonanu  tu  si tu mi stav a sente  un dava piu a beie pastissu in lu to caffe ne ci lasciava juca a u poker fin a duie ore di mane  dio ne siamu liberi  stu tribunale di ava face una guerra terribule a si picculi vizi  qualcosa di incrididuie  $  ava si avisatu   tenine contu   salutami a tutti 
+  s
+    </p>
+    <docAuthor>
+     Altore
+    </docAuthor>
+   </div>
+   <div n="4" type="poe" xml:lang="co">
+    <p>
+     pulitica  ditemi u veru  voi  caru cumpare   chi in la pulitica ci site natu   chi  perdente ne sentist e cagnare   e vincidor  site stat  acciamatu    quarde voi site solu  tante volti   un v e mai accaduiu  riflettendu a cio chi ella ha di bonu e di nucenda   didi   chi u diavule a si porti    e st eiettori chi bi fanu chiarckiu beiendu a vostra minima parola   seria per peura di u batarchin o vera divuzione  sola sola   ci ne sera  a eredu  ancu divoti    ma se vulete vede la faccenda   pruvate a toglie un pocu di pruvenda e viderete duve vanu i voti     ne avete a prova  pe  i vostri antenati   lpiu chi hanu gridatu evviva  evviva   eppoi a si scialonu a la altra riva     ditemi un pocu a me  quale so stati    e quelli chi  dumane  a voi stessu   in mezzu spinu a v abucchiuleranii   dopu avebbi allisciatu e riprumessu   ditemi un pocu a me  quale seranu    si voi mi dite     a so     possu cumprenda chi bast ave un par di orecchie sode   ma un circate  o cumpa  di fanne lode   chi pulitica unn e che una pulenda  
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="5" type="his" xml:lang="it">
+    <p>
+     raconti di a movra  la garconne  parecchi motivi sospinsero il vincitore delle piramidi a tentare quest ultimo sforzo presso le amante  fra essi il desiderio  ogni ora piu preciso  di riprendere il passato  di ritrovarsi interoin quello ajaccio  ancora echeggiante di entusiastici rumori  fs  ognuno riposava in pace nella palazzina di via barba  avvolto in un lungo mantello nero  bonaparte  il cui viso portava tuttora i segni della grande fatica del viaggio  scese pian pianoi gradini  alla luce di una piccola lanterna  passando nel vestibolo  egli percepi  distinti  i beati ronfi di ignazio  il vecchio domestico  un leggero sorriso di soddisfazione sfioro le sue labbra scarne  la via era libera   dopo qualche minuto di difficile cammino attraverso una fitfa rete di viuzze  sitrove in carrughiu drittu   alzo lo sguardo  la cameretta di maddalena  era illuminata  dette un sospiro di soddisfazione  tutto gli andava bene  quella notte  purche continuasse    i  in un attimo  si ingolfo nel corridoio e raggiunse il pianerottolo che lo vide  amante ventenne  premere febbrilmente una mario esitante     prima di bussare  si raccolse    sotto le pieghe del mantello  un everituale spettatore avrebbe notato una certa indecisione  se  a favore dei sobbalzi delja luce  il fronte non avesse rivelato una possente  infrangibile volonta     alfine  fece il gesto stabilito  asser  vando il ritmo dei tempi passati  un picchio forte  seguito da due altri accelerati  si udi un passo breve leggero  nella cameretta  un sordo giro di chiave nella serratura  e     nabulie          maddalena       nel silenzio notturno  le due esclamazioni  affievolite da una inutua sorpresa  si confusero stranamente   lui  al constatare il rapido gesto della ragazza  rimaneva come sbalordito  ed ella  certo  non si aspettava una tale visita  a si tarda ora    vi fu un momento di profonda  di languida esitazione  poi la porta si apri per accordare passaggio al visitatore  questi  al penetrare nel tempic di amore  borbotio qualche vago complimento  era pallide  nervoso  ma quella mancanza di eloquenza qrell inattitudine fisica  piu che vera debolezza  dinotavano una larga preoccapazione  bonaparte prevedeva una scenata da parte delle amante  abbandonata e voleva  con un addatta spiegazione  stornarne gli effetti     stavi leggendo  cara  fini a dire  avvicinandosi ad un tavolino di falso stile antico  po  non ebbe nessuna risposta da maddalena  la quale  immobile in ui canto  somigliava un poco ad una furia antica  meno pero i capelli  come si vedra piu avanti    2  bonaparte ad un tratto  si sprofondo nella poltrona  ebbe il gesto largo di chi si prepara ad una lunga perorazione  la sua voce  un po fiacca e metal lica  risono tristemente        maddalena  sono andato in terre lontane  ho vinto numerose armate  ma nor ti ho mai dimenticato  hosempre     non pote finire  incapace di celare oltre la intima angoscia della sua anima  maddalena era gia scoppiata in pianto  periungo tempo i suoi pietosi singhiozzi di ragazza innamorata e tradita  ri empironc la camera  e poi  ad un trat to  superando dopo visibili sforzi  la propria crisi di lagrime  il seno ancora scosso da dolorose convulsioni  si mise a parlare     disse lo inimenso stupore che la colpi apprendendo la notizia di quel matrimonio   accenno al tragico croilo delle sue speranze  dopo lunghi anni di relazioni  ognuno  dal momento in cui si era sparsa la notizia del matrimonio delle amante  con giuseppina  la prendevain giro in questa piccola citta di a jaccio  contenendo a stanto spasmodici singhiozzi  si dichiard la piu sfortunata delle donne     mentre parlava  bonaparte sempre seduto nella poltrona  non ebbe nessun movimento di impazienza  egli  era troppo buon stratega  troppo grande era la sua volonta di vincere anche quella piccola battaglia  per non accordare alla crisi il suo libero sfogo  distrattamiente  egli sfogliettava l almanach des dames pour le annee 1779  lasciato un momento fa da maddalena     o1 maddale  fini egli a dire  chiudendo il libretto con gesto brusco  in vece di rimproverarmi dov  vece di rimproverari i averi pieta di me  e cio  dicendo  pianto il en uno mei grandi occhi  pieta di me  e cio     i 2 suo sguardo di acciato nei grandi occh neri della ragazza   questa dimostro una certa sorpresa nel ricevere  da tale uomo  un invito alla compassione  ed era appunto lo effetto che aveva ricercato bonaparte  egli esamino meglio quel dolce viso in cline alla rassegnazione  contemplo nella penombra  quel divino corpo che aveva posseduto ancora immaturo e che adesso annunziava definitivamente la donna       maddalena  come per abbreviare un esame prolungato  come per isfuggire     ndnvinava un  esame prolungato  come i ad uno sguardo in cui si indovinava un    qa a i barlume di cupidita  riprese vamara serie dei suoi lamenti     capisci  o  nabulio  fece osservare giocando col nastro roseo che adorabilmente le cingeva le mammelle le nostre relazioni sono note ad ognuno in questo paese  fino ad un certo punto  non mi lagno di questa reputazione giacche tu non sei un amante ordinario   e cosi dicendo arrossi non di vergogna ma di fierezza   ma per al tra parte  avrei desiderato che tu tt comportassi meglio     l altro ascoltava appena    dastavegli di seguire da lontano jo svolgimento della manovra  nell attesa dei momento in eui sarebbe stato necessario concentrare tutta le attenzione in unsolo punto  bonaparte pensava a difficolta di ordine politico   aveva lasciato lo egitto in piena anarchia  sola  lungo  pinterminabile valle del nilo una tenua striscia di terrenno era stata definitivamente sottomessa  ma  nelle tribu dell interno  la ribellione covava  pronta  a divampare alla prima esaltazione di qualche fanatico scheik  il cairo stesso  la grande metropoli orientale fra le cui mura era gia scoppiata una terribile e sanguinosa rivoluzione  era tuttora brulicante di elemente sovversivi  di frontea nuovi ostacoli  che cosa farebbe lo esercito francese isolato in mezzo ad una popodazione ostile  decimato della pesta   privo dalla funesta giornata di abuchir che vide ildisastro  daila flotta nazionale  di ogni comunicazione colla madre patria  purtroppo  ohime  le fosche previsioni del bonaparte crano fondate  qualche  mese soltanto dopo la spa partenza  il generale kleber  fiero tipo di soldato cui egli avevaaffidato il governo del paese  cadeva sotto il pugnale di ahmed el holabbi   il pugnale di  bruscamente  come per scacciare si funesti pensieri  bonaparte scatto in piedi  avvicinandosi a maddalena  le prese gentilmente la mano     ricordati  o7 maddale di quella dolce serata estiva che segno il nostro  pritao incontro  a me  semplicetenentello di artigliera  apparisti tanto affascinante nella vaga bellezza dei tuci sedici anni  presso la capella del carmine   ti ricordi come mormoravano le onde   scambiarnmo il primo solenne giuramento di amore  e poi  in questa siessa camera  appassionata mente realizzammo il nostro sogno supremo  mi addormeniai nelle tue nere chiome sature di ebrianti profumi della macchia     egli  a misura che parlava  stringeva piu forte la  mano di maddalena  la quale ascoltava  commossa       piu tardi  quando scoppio la rivoiuzione ritornai nell isola col grado di colonnello della milizia nazionale  seppi allora  fra mezzo ad imboscatee scaramuzze di ogni sorta  prevarti il mia amore     ii seno palpitante delle amante  dimostrava in quali buoni condizioni si svolgeva la battaglia  ad un tratto  bonaparte  con mite voce pose a maddalena una questione che avrebbe dovuto fare prima  relativa precisamente  alla disparizione deile   nere chiome     e una moda che fa furore a parigi  spiego maddalena  le palpebre tuttora umide    cosi dicendo  si avanzo alquanto verso il cerchio luminoso di una lampadina allolio  scoprendo un capo quasi raso tanto inesorabili erano state le sforbici     tutte le signore eleganti del palais royal       del palais   egalite  rettifico boriaparte  che tuttora manifestava sentimenti integralmente repubblicani       si tutte le signore del palais egalite vanno cosi pettinate     pettinate e un puro eufemismo  osservo ironicamente il generale  considerando quel capo simile ad una sfeppia arsa  in cui a ricordare pantica vegetazione  sortiva solo un ciuffo sul fronte     in ajaccio  spiego maddalena  s1a mo sole tre a seguire la moda dei capelli tagliati alla curtius peppina bozzi  augustina lanzalavi ed io     p  cuccula      ah ab  anche augustina lanzalavi va coni capelli cosi tagliati    alla curtius  sottolineo bonaparte  e per celare un intensa preoccupazione di spirito  si mise a fischiettare     u   glia dhe  spirito  insomma  quella curiosa moda che consisteva a privare il sesso gentile di uno dei suoi principali elementi di seduzione gli era abbastanza gradita   favorivale sue veduteimperialistiche sulla donna  un essere che  nel fondo  egli doveva sempre disprezzare  quel capo disastrosamiente raso  quella cervice nuda  oltre ricordagli la meschina personalita morale della femmina evocava nella sua mente la idea di un uovo  di una palla  di qualcosa di rotondo alfine tanto facile a tenere in mano come il globo terrestre     sai cara la idea che mi viene al vederti cosi    pettinata  chiese egli con ironico sorriso    e quella di una comunicazione all aceademia francese sulle bizzarrie di una moda che spinge gli incroyables ad arricchire je loro parruche  mentre costringe  signore e signorine a sacrificare le loro chiome  proporrei anche un neologismo per designare questo nuovo tipo di coguette ma bisognerebbe trovarlo  aggiunse acapo chino   ah  ah ho trovato esclamo fikalmente alzando lo sguardo verso maddalena  proporro  la garconne  non disse proprio garconne  perche il suo forte accento italianonon glie lo permetteva  ma piuttosto gassonn non riuscendo a pronunciare quelle erre     e bella  o non e bella  la mia trovata  aggiunse egli  ridendo felice     gasson  gassonn  gassonn  ripete approvando maddalena  e venendo dopo la crisi di pianto queste soavi esclamazioni sembravano deboli raggi di sole dopo il diluvio     tuttu cio pero non fu che un intermezzo nella mestizia di quella serata  bonaparte si era seduto un altra vo ta  cacciando un sospiro accenno al pimbroglio che igli toccherebbe snoda re appena arrivato a parigi    ccredilo  pure  o maddale  disse con tono angoscioso  per giustificare davanti al direttorio lo scacco della spedizione di egitto  mi bisognerebbe la scienza trascendentale di un marabutto       di un farabutto  domando maddalena avendo mai inteso     marabutto   non farabutto  rettifico lo altro bruscamente     e poi ebbe un gesto di fatale rassegnazione  trattato di marabutio dagli uni  di farabutto dagli altri  non doveva esser questo il dramma dei suo destine  e lo equivoco delle amante   benche involontario non veniva appunto a ricordagli la irrevoca bilita di tal destino     dicevo bene  riprese egli  mi bisognerebbe tutta la scienza di un marabutto   lo sbaglio di maddalena laveva troppo mortificato  e peraltro era troppo deciso a trarne partito per non agire subito  si alzo dunque  mentre  nel contegno di maddalena  notavasi piu di un indice di vera confusione     voi vedere che cosa sonoi marabutti  cara  disse con strana voce il bonaparte  giungendo lo atto alla parola tiro fuori da una sciabola un fur  go ago col quale  imperturbabilmente e senza apparente dolore si traforo la guancia sinistra   a tale spettacolo  maddalena temendo di svenire si appoggio al bianco iettino dei defunti amori  apri la bocca come per cacciare un grido di spavento  ma  rapide come il fulmine  le eroe delle piramidi chiuse con un bacio quellelabbra divine  preludendo cosi a gioie ancora piu intense 
+  s
+    </p>
+    <docAuthor>
+     Matteo Rocca
+    </docAuthor>
+   </div>
+   <div n="6" type="art" xml:lang="fr">
+    <p>
+     la justice en corse l assassinat de saint elme c est un fait d observation banale que le paysan corse n a aucune confiapce en l impartialite de la justice le paysan du reste c est trop peu dire ajoutons y la quasi unanimite de la population insulaire depuis fannexion depuis 1769 les magistrats et les tribunaux installes chez nous ont donne trop de preuves de leur esprit de parti de leur docilire envers les puissants du jour de leur complet mepris a ve gard des faibles des humbles pour que nos compatriotes ne soient pas absolument blasessur l equite qui preside aux enquetes et aux jugements en corse certes il y 2 eu de rares exceptions et nous somires les premiers a le reconnaitre mais elles ne font que confirmer une regle generale devenue si courante que c est a peine side loin en loin quelques timides protestations 5EUR font entendre  ind larici l inique i est il besoin de rappeler ici l inique condamnation et vexecution des pa triotes d oletta veritables prisonniers de guerre mis a mort sans pitie fautil evoquer le proces d abbatucci contre lequel s acharna le hainenx marbeuf et le nobie general agostin giafferi fusille en 1798 sur la place saint nicolas a bastia parles soldats de ia republique francaise parcequ il aimait tropla corse pn contentons nous aujourd hi e dresser ui hommage emu a la memoire du vaiilant saint elme directeur du sampiero qui fut assassine a 1 ajaccio je 13 janvier 1884 par an sicaire a slla politique ie 13 janvier 4 e l instigation d une camarilla politique  emile dosquet plus connu sous le pseudonyme de saint elme etait un jeune continental ancien eleve de l ecole de saint csr officier demissionnaire il s etait senti une vocation de journaliste apres avoir collabore a divers journaux parisiens il s etait laisse emouvoir par la lamentable siteation sociale et politique de la corse et muni des seules armes de son talent et de son ardeur il etait venu en juillet 1883 a ajaccio dans le but d y fonder un journal qui combattrait en faveur de la veritable justice sociale contre l opportunisme qui regnait dans pile   des son arrivee ici il fut en butte a june opposition d abord sourde puis  nettement declaree il ne put meme parvenir a faire imprimer dans notre les  rata ie ville son organe hebdomadaire le sampiero et dut s adresser a uh imprimeur de marseille les articies qu il envoyait a ce dernier n arrivaient pas toujours a destination  le brillant polemiste prenait souventa partie vadministration prefectorale dirigee par un singulier prefet demeure celebre  andre de tremontels et aussi l administration municipale a la tete de laquelle sevissait nicolas peraldi le type du tyranneau jocal aussi ne faut il pas s etonner si saint elme qui s epargnait personne avait accumule contre lui les rancunes et les haines un matin du mois d aout il avait en plein cafe solferino interpelle le prefet qui prenait son pernod et fui avait demanderaison des vexations dont ce fonctionnaire ne cessait d accabler ietenace journaliste aussitot saint elmese vit entoure d energumenes qui le rouerent de coups et le laisserent sanglant a terre il fut releve etemprisonne tenu au secret pendant 37 jours sans pouvoir meme communiquer avec som avo cat   on concoit aisement que lorsqu il put recouvrer sa liberte il commerca contre les opportunistes une campa gne impitoyable denoncant leurs abus gne impitoy etleurs turpitudes il posa des questi ons indiscretes a certains d entre eux et revela au public quelques unes des scenes  suggestives dont la prefecture etait le theatre le resultat ne se fit pas attendre le tribunal d ajaccio lui infligea pourinjuresajun fonctionnaire cinq mois de prison il fit du reste appel de cet arret scandaleux d autre part le13janvier 1884 commeil sor  tait du theatre saint gabriel vers minuit il fut attaque a coups de matraqueetjete a terre par le consierge de la prefecture franchini assiste de trois autres individus cette sauvage agression devait couter la vie a l infortune saint elme le 2avri en effet son appel etait juge par la cour de bastia defendu par m de montera et le depui i bar te laguerre un des maitres du dal reau il fut violemment et ignoblemert pris a partie par l avocat general bis saud qui pretendait que saint elme rheritait tout ce qui lui etait arrive qu il n avait recu que des blessures sans gravite et qu il jouait la comedie malgre ce requisitoire la cour reduisit a quarante jours les cinq mois de prison du tribunald ajaccio mais et c est ici que le drame devient tragedie le 8 avril suivant saint elme succombait aux suites des agressions qu il avait subies a ajaccio et mourait apres une longue agonie les assassins traduits devant le tribunal correctionnel d ajaccio furent condamnes a dix jours de prison  ainsi finit ce courageux citoyen qui prevoyant son triste trepas ecrivait le 12 decembre 4883  un mois s ecria a la chambre des deputes camille pelletan un mois avant son assassinaf    maintenant je n ai qu un mot a dire oui en presence des infamies qui se vautrent chaque jour sous le soleil de l ile il est necessaire que l on assassine quelqu un que ce soit moi la vie est si pen qu il m en coutera autant d en etre debarrasse en mourant du moins j aurais rendu un service a la corse peut etre alors en face d un tel crime quelque depute s inquieteratil de ce qui se passe ici et fera til luirela lumiere sur les odieux dictateurs qui nous pressurent et qui nous avilissent   ll y avait la comme un emeuvant pressentiment ce drame eut un echo a la  chambre cu durant trois jours des de  putes et non des moindres laguerre i andrieux encore vivant et toujours jeune aujourd hui de chuiseul raoul duval bizarelli etc interpellerent le gouvernement ferry  waldeck rousseau 1  3 5 7 juin 1884  le gouvernement netomba pas et la corse ne fut point sauvee mais l opinion peblique commencait a etre edifiee sur sa famentable situation  qant a nous corses nous avons un devair envers la memoire de saintelme  nous devons une reparation solennelle a cette victime des agissement d une odieuse camarilla implantee chez nous le partitu corse y pourvoira  e
+    </p>
+    <docAuthor>
+     G. B. Franceschi
+    </docAuthor>
+   </div>
+   <div n="7" type="div" xml:lang="co">
+    <p>
+     denaziunalizzazione  a corsica ha vistu scala  dipoi qualchi anni  operai di centu raz ze e di variu pilame  ci si firmava a introducene uw alira specie  i slovacchi     u guvernu si ne accapa  u nostru  prefettu siudia le affare e certi nos tri cumpatriotti supplicheghianu  a camera departimentale di agri cultura di accellera i so sforzi per avenne a u piu prestu un forte i sbarcu   in su frattempu  i stessi puteri    amministrazioni o uffici impiccia mu e imbroglianu cu i sempiterni i modi pulitichi di appoghiu e di fa vore per fa imbarca isulani u piu i pussibule   stranurivesciu di e cose  intel ligente manera di ama u so paese   i u jornu chi ellu un ci sera piu i in corsica che giandarmi e  du   ganeri cuntinentali  laliri funi ziuuari alti pi    nt   14 nari alti piazzati  ne ponu ne devenu esse corsi  cumercianti jui dete operni stranieri un ci fermepra piu che una cosa a fa per ghiuni ghiene a una vera sterpazione di a i rezza   unn acceita in corsica che e apre chi ir   pre chi he so corsi  e falli cun  danna da le aliare u matrimoniu i fra indigeni 
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="8" type="art" xml:lang="co">
+    <p>
+     ghiustizia ripublicana  in lu nuvembre 1923  in pari    truvavanu mortu ind una ca rozza o povaru nucente di 14 o 15 anni e u figliolu di u monarchisia la ta daudet    on  sta morte ci apparse subitu q un affare tenebrosissimu  l  pe ne  tantu quella di duttori che dg di judici e di u populu si truva di e sa in dui campi  i primi truvavanu chi u povaru filippu era statu e bu da i puliziolii  li altri affirmaya    chi ellu si era sempliciamente stia tu  certi andonu sin ad accusa y a marlier  le attuale prefettu di a corsi  ca  i  un so mai statu incaricatu di tirs le affare a u chiaru  ma  a pare nto  si u sgio marlier unn e micea dede tamente a causa di a morte di fili i daudet  ha certamente jucatu pe cllu un certu rolu inde si affare     a miglior prova e chi  pocu tem dopu ellu scappava da parigi ed un numinatu prefettu di u dipiciman  u piu luntanu di a capitale      nta  u sgio leon daudet  ellu  volse avenne uu core nettu  fece fa inchies  ta sopra inchiesta per ghiunghie a sape quale pudia esse statu u vigliac  e u chis atiaccava cusi a i linti nucenti  marianna cu e so fedeli mane ne  gre un lu iniendinu micca cusi   u sgio daudet  cunlrariu a e so idee  unn a  via alcun drittu a justizia  a forza sforza e a chi i he si ne serve  lu assassiniu diggia abbasianzamenie am  macchiatu fu sbulfulatu in la fulighjne   daudet e non solamente ributtatu in li so sforzi ma cundannatu a spese enorme e infine a cinque mesi di can  cere     stranu rivesciu di e  cose  menire chi u corciu babbu martirizzati un  ne avera per tulta vindetta che a so propria prigiunia  lu accusatu a si scialera in lu palazzu lantivy da dure pudera megliu incuragisce i falzi ju diz   ordinati da a so prediletta mariapna  in corsica   a lista di sti sublimi judizj si allonca e si stinza  ne la isula crescenu e  o  suparanu cumea rombigia sumirina pultimu esempiu e u prucessu di i pu liziolii bastiacci  le  si diu vole  ne vederemu ancu pii grisgie  almenu chi    to
+  s
+    </p>
+    <docAuthor>
+     M. Alessandri di Chidazzu
+    </docAuthor>
+   </div>
+   <div n="9" type="the" xml:lang="co">
+    <p>
+     a figliola di u banditu  cummedia in 5 atti e 3 quadri   seguitu   itanu    ridendu a contra gen scurdatevi di un affare di  tr  gia     vi dicu bona sera e vi a u ataziu  scusatemi   ranciscola  di nulla di nulla  o x i 5 na sera  e mpacapitanu  bones ne   e si antone  surtendu da satta u  one  o chi pacienza chi aghiu apen  o quant aghiu carizzatu st armeri   indeca a cispra   un so cio 6 mi ha tenutu di straquallu in sa    ranciscola    zittu  o ba  un di  imita  dormitine tranquillu jr a sera chi avale un ci affaccanu piu  dl murditu a lu amu  vai puru  ah  appuntu  a to tazza di caffe    qrs antone   e ne so in brama  sai   terzu quadru    a scena e sempre separata in duie parti  da ana parte ci e ors antone cu franciscola    franciscola    o ba  prima chi tu vaga ad arrima batti  lasciami sempre da un colpu di occhiu   si affacca  paga che a sapissi  o ba o ba  site accampatu dino stasera   ta    ors antone   a vegu  e bella che capita    pa versu u balcone cu a cispra   e a contra core ma tantu ci vole a ghiunghieci   franciscola    zittu  chi faci   ors antone    vogliu more  ma ne vogliu scandula prima uni pochi   franciscola    un fa   ti vogliu salva senza lasciatti sparghie sanghe  entritirie instanza e un scuscica     ors antone    guarda be cio chi tumi faci fa a mio figliola  ponu esse sopra malizia   franciscola    vai ti dicu  e un teme nulla   ors antone     surtendu si ellu si po evita u male sarebbe ancu  megliu infatti  ma      franciscola     ingutuppendu siracci in una vestitura di u babbu riesce a fanne un sembiante di persona chi ella mette a pusa sopra una panchetia cu a cispra fra e jambe  su peuracciu rapprisenta a ors antone chi penciuleghia  a cispra incrucchiata ha u chiodu ligatu a una curdetta questu fattu  franciscola scappa dino ella in la stanza cuu babbu   u capitanu     in la altra parte di ascena cu ivultiogiatori  nette  locchiu a u chiavatoghiu  devenu dorme  u lume e accesu  vedendu u peuracciu  attenti  lu avemu  tempu apartu lu usciu  fateli focu    entrenu  tiranu tutt e tre attempu  gridendu  arresta   u capitanu    un si ne e mancu abbistu  e mortu durmendu  dopu tiratuli un altrucolpu a lacorta  qual e chi sa  po ancu fa u mortu    esempre megiiu che li assicuri       si abbicinanu  ci una risa di cunlentezza    u capitanu    cacciateli sempre a so cispra di manu per evita e disgrazie      unu piglia a cispra pe a canna  e vulendula tira  a curdetta faceparte u colpu u capitanu scappainuncantu  interrurritu tastendusi si ell e feritu u vultiggiatore casca in pianu dicendu ohime   ors antone ne prufitta pe scappa   franciscola   entrendu chi ci e  chi e tuttu stu frombu a st ora  in casa meia     u capitanu    unu di i mio omi e mortu a le onore ma ghiustizia e stata fatta   franciscola     imitendu u lagnu  ohime la me sorte mi hanu tombu u mio pilone   sbuccia a i scaccani ah  ie  onore e curaggiu di vultiggiatori  ah ah ah      u capitanu   dopu ripigliatusi  chi e st affare  pie  franciscola     pettughiendu u peuracciu chi casca in pianu  un cuncorsu di tiru all acocrta   u capitanu     avendu finitu per capi fatene di menu scherzenduvi di a justizia in le so funzioni    franciscola     scaccanendu  a justizia unn e micca pagata per tafuna i panni di a jente    ah ah ah   u capitanu     ridendu anch ellu ma per forza ricunoscu chi voi site una vera cummediante   franciscola    un simu in tempu di carnavalate     hi gapitanu   dopu riflettutu a ivultiggiatori   andatevine in caserma e    mottu   partenu  eh  eh  un cunsigliu  dumane a la alba  si voi mi state a sente un site piu vultiggiatori   me i  un vultiggiatore  vultendusi  e chi avemu da fa allora   u capitanu    andatevine a cura loche in la vostra nurmandia    a franciscola  per mio contu  eccu   si sirappai galloni     franciscola   li focca a manu  in su statu vi stimu e vi teneraghiu forse   piu caru       u capitanu    dopu cio che aghiu fattu   franciscola   a e donne corse un li manca ne curaggiu pe u periculu ne core pe u perdonu di altronde  si babbu era in periculu  voi a curriate brutta  aghiu dunque un doppiu sullevu  7  u capitanu     stringhienduli a manu  v ammiru e vi ringraziu 
+  s
+    </p>
+    <docAuthor>
+     Tendone
+    </docAuthor>
+   </div>
+   <div n="10" type="art" xml:lang="co">
+    <p>
+     cronaca aiaccina  generosita   u nostru eminente compatriotta francescu coty ha fattu parvene  cume tuiti panni  a le uccasione di a prima cumminione  cinquanta vistitoghie chi so state distri  boite  a zitelli necessitosi  da a sucieta   saintvincent de paul    li aiaccini saranu grati a u sgio coty di tante marche di sollicitadine chi ellu li da   a domu   ci e da firma stupiti di vede in chi manera in de noi si capisce le arte  tant anni fa ci era  da e parte di cannettu  una funtana di stile imperu di un bel effettu   a funtana e smarrita   un pariaremu dil alberi centenariich ellu si e sradicatu ullimamente un si sa troppu perche   oghie si pu vede i muratori chi scialbanu e imbiancanu a facciata di domu  a  cridiamu fin ora chi a destruzione di le opare di arte e u vandalismu un fussinu che u risultatu di la ignuranza o di a zitillesca   ci abbidera u chi a jente colta un si trova manc ella a lu ascosu di i rimprovari che no femu sempre a i nostri paisani       e que e una disgrazia   e i vandali    cuntinuaou e so prove benchi a pulizia abbi fattu qualch esempi   zitelli malallivati e senza alcuna nuzione di rispettu publicu  giuvanastri  e qui le affare e vargugnosu  luziosi e pigri   e tutti quanti  si ne danu una tecchina e si fischianu di rimprovari  di pulizia  di prucessu e di vargogna   dipoi chi i chialzi di u spidale militare cumencianu a matura  e petre piovenu a fromba fromba nantu sti povari alberi chi un ne ponu piu   e que si passa sottu a li occhj di tutti  a dece metri di a piazza di u diamante  in pienu jorpu  e 7  1 banchini in legnu chi a municipalita ba piazzatu annu passatu sd futti tassillati a colpi di cultellu       1 banchi in farru so zopri  torti traversi   e quelli in petra  cum elli so troppu duri    a mastuca  su stati cuparti di cadrame     a sarrenda di u jardinettu di a calata  in faccie a u postu di pulizia     sarrenda di upa forza doppia di le altre in usu  dice jacumu  jacumu   tantu ella ne ha abbastanza  e  e un pudemu  parla di l elire vicende chi ci vurria un ghiurnale sanu    u     infine chi noi qui  per un mintua a corsica  semu vaccinati contru u cummunismu  unn avemu niente a teme da i sovieti e un ci ponu che fa ride prisintenduci stu pauracciu   fattu notte po    so canti  urli  abbaghj di cani  canti di galli   e  ben intesu  colpi di rivolvaru     notte passatona  a mezza notte e vinti  cinque colpi di rivolvaru eranu scarieati in la via fiorella  a pulizia junia subitu un pobbe o un volse chiappa a nissunu   una mezz ora dopu  altre e quattru colpi eranu sparati vicinu a u spidale civile   i cani principianu ad abbaghia a ondec ore di sera per fini a e quattru di mattina   cume accumpagnamentu hanu i canti vumifivi di e pullastroni impinzutiti  u ebiassu di i clakson di li antomobili chi a si spasseghianu in citta tutt a nuttata  a sessanta a vora i miauli di i gatti  marzuliti tatta la annata  e sgarganellate di galli chi vedenu la alba a vinti quattr ore e  sempre  colpi di rivolvaru   in la nostra cara citta eierna si pu alliva cani e cagnoli  galli  pullezze e galline  si po beie pastissu    e tira colpi di rivolvaru in aria    o in tarra   a libertai e belle   gravunella   gravanella carea a lozzu  a bestie morte  a cappillacci e a cambruni  faticata di trascina sta somma in aiacciu  si e piantata a mezzu cammina  esi ne e andata a innacqua i fasgioli di i paisani vicinu   cusi  qui  cui calore  si tira un palmu di lingua   mancu acqua da javacci    umbe  appuntu chi ci avemu u mare vicinu     cummunianti   cume tutti panni sta bella cirimonia si e passata grandiosa e in alligria   ogn unu ba rivalizzatu cu a viciha pa fa bede e stravede  me  torte  paste  bombo  candeli a centu franchi e caliscine  licori fini  canzone parigine  fonograin e charleston    niente ha mancatu a  u piu bellu jornu di a vita  di i nostri zitelli     u panatteru aspiffara dinu un pocu   chi e abbastanza riecu      e  
+  s
+    </p>
+    <docAuthor>
+     U Jattu-Pinnutu
+    </docAuthor>
+   </div>
+   <div n="11" type="div" xml:lang="fr">
+    <p>
+     giurnali amministratori   sije reviens sur cette question c est surtont parce que j aime a demontrer que lorsque je reproche a m marlier de se livrer a de veritables tripoteges politiques je n invente rien cette histoire d olmi capella deja signalee par nous est particulierement suggestive le procede est un peu grossier qui consiste a jeter de la poudre aux yeux avec de vastes projets d interet general et a l abri de ce grandiose camouilage de mener une mesquine politique d interet electoral en faveur de m x ou de m y  7  l eveil de la corse 2 6 27  servizj marittimi nous comptions sur des navires nombreux luxuenx et rapides pour les lignes de la corse nous pensions que  c etait la faute a fraissinet si on ne les avait pas encore  et brytalement m landry nous declare que fraissinet n'est plus rien que c est l etat qui commande la flotte mais alors sur qui deverserons nous notre bile si fraissinet nous echappe que l etat c est ie ministre des finances que fexploitation des lignes est en deficit de 8 millions que les charges de l etat sont deja trop lourdes et que des bateaux l etat en fera construire tres peu et a peu de frais en somme qu ilne faut pas s attendre a des sacrifices importants  c est triste tout cela mais ce n est pas nouveau il y a longtemps qu on est fixe sur la sollicitude des pouvoirs publics a l egard de la corse    jean casanova  la corse 1 6 27  listessu sugettu   la compagnie fraissinet se serait appauvrie en expioitant nos lignes du moins son nouveau chef a t il l'air de l insinuer c est possible nous n avons en effet jamais verifie les pieces comptables de la maison nous savons cependant par experience que ses bateanx transportent 600 passagers la ou il n y a dela place que pour 300 nous savons par m pierre piobb dla corse d anjonrd hui qu en 1943 la tonne de ble paie 41 fr 50 y compris les frais d embarquement pour etre transportee de corse a marseille tandis que la meme tonne ne paie que 7 francs en tout et pour tout de new york an havre   dieu nous garde de penser que quelqu un nous vole l etat ou la compagnie fraissinet mais ou done est la sentimentalite dont on dit s etre montre si prodigue a notre egard   et puis peu importe l armateur les lignes de la corse sont la continuation du rail qui part de paris l etat comble genereusement le deficit du rail c est son devoir mais ca en serait egalement un pour lui de combler le deficit des lignes de navigation qui prolongent ce rail les corses qui par les impots qu ils paient y compris celui du sang contribuent a combler le deficit du rail ont le devoir de ne pas admettre le contraire  m seb silvani
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="12" type="poe" xml:lang="co">
+    <p>
+     certitudine  a li eroi di pontenovu  si tomba  efa sapin chi ellu un si vol tumba   sapla chi a vita e una dea sugusta   la anima dev esse bona piu che ghiusta so di quelli chi an si ponu sbitua   a lu omanu dolor  a la immensa angunia chi strappa le orie e le foci trima benche u male a gloria unitu sia   su i morti di sempre mi mottu a suspira 1  avale  viu so chi niente e uguale a lu abandonu eroica supreme e cun cor   e chi le onore e o cima di l amor   e a giovana morte e triunfale   sa chi hanu suminatu astri iu lu abissu   chi hanu marcatu u cirnu in la eternita   hanu sacratu un crimina in forma fissu   1 so animi puri i ponu cunta   si tomba  eiu sapia chi ellu si vol  tumba   sapia chi a morti e una dea anguste    la anima deve case bona piu che ghiusta   ma so di quelli chi unsi ponu abitau 
+  s
+    </p>
+    <docAuthor>
+     A. de Peretti
+    </docAuthor>
+   </div>
+   <div n="13" type="feu" xml:lang="it">
+    <p>
+     bene  allora in altro modo  e mentre la signora vostra madre e mest altra gente danno sesto alle fobe  noiandarcene un po a scopri e marina  e poi sentite    fattoseeli accosto gli bisbiglio dentro gli a ochi   importe che nessuno esca    casa prima del nostro ritorno    altobello spinse il prigioniero dentro il celliere  di cui chiuse dilisentemente le imposte  rallento un die la legatura delle mani di lui  pe se dei pari la porta della stanza    di fuori  raccomando sottovoce  alla madre non lasciasse uscire le donne  ne il ragazzo  per ultimo prese il braccio del bowell in atto di condurlo fuori     adagio  questi disse  e voltosi a francesca domenica  dopo avere frugato nel consueto arsenale delle sue tasche  continuo  signora mia  non ci ha persona al mondo  almeno spero  sempre pero salvo vostro onore  e quello del vostro signor figlio  che mi superi nella osservanza nel quinto precetto del decalogo  ma si danno casi nei quali senza peccato possiamo tenergli per non iscritti  quali essi possano essere a me non importa chiarire adesso  pero mi pare bene lasciarvi qui un arnese che possa farvi approfittare della eccezione   e trasse fuori una pistola   la sorella tengo per me     non ve ne private  ho il fatto mio  e la donna ando nella sua camera tornando subito dopo con lo schioppo  la carchera e il pugnale  che col rosario facevano a cotesti tempi compagnia ad ogni corso  e sovente alle donne loro fuori di ca sa  sempre ai cristi corsi in casa     bene  scusate  e si avvio dietro altobello   nel passare davanti la finestra del celliere questi favello piacevolmente al signor giacomo    voi avevate avvertito alle difese interne  a me spetta provvedere all esterne  leone  qui   il cane gli era dietro ai calcagni   leone  cucciati qua   prima del mio ritorno non ti movere   il cane come gli fu comandato fece   forse di dieci minuti potevano essere partiti  e francesca domenica si stillava il cervello ad apparecchiare cena senza aver bisogno di mandare persona fuori di casa  e con le donne e il ragazzo faceva un gran tramestare di su e di giu  quando dal celliere usci una voce che chiamava     francedome  francedome      che vuoi      ohime   mi sento trangusciato portatemi da bere   stette la donna alquando sospesa   il cuore le  i  rimescolo perche le parve riconoscere codesta voce pure animosa com era aperse la porta  e col iume in una mano e una ciotolla di aqua nell altra entrando disse     te   bevi     francedome  dopo bevuio riprese il prigioniero la corda mi segai polsi  allentatemela tanto che non mi faccia soffrire     offrilo al signor in isconto dei tuoi peccati     sono innocente come cristo     meglio per te  ha patito tanto egli  puoi patire un tantino anche eu         ma voi  francedome  volete mandarmi alla morte       perche   oh  non siete innocente     cugina   non mi riconoscete      zitte la  non riconosco nessuno     sono giova brando  figliuolo della cugina carnale del fratello di vostro cognato  capite  carne vostra  cugino vero in terza  all u sanza  vi bastera il cuore di mettermi in mano al boia  ne   e la vergogna del parentado         zitto la  ti dico     ei rimproveri del cognato e dei cugini   e la vendetta     si  per dio  la vendetta    di casa alando non rimarra pietra sopra pietra   arsi gli uliveti  ammazzate la bestie          che chiasso e questo in casa mia       questa voce singolarissima  come quella che avendo incominciato intuono basso terminava in falsetto  mosse da un personaggio sop  praggiunto  di cui vale il pregio disegnare la figura  grasso il viso ma frollo  del colore di lardo invietito  la barba  come cavolo  verde  capelli e peli spelazzati  rari e quasi venuti a lite fra loro  gli occhi tondi in fuori e nelle pupille nerissimi  se non che stando immobili gli partecipavano la aria stupida dei tacchidi  in capo portava una berretta di cuoio logora e bisunta   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

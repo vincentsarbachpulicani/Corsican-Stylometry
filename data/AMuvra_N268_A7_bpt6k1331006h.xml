@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1331006h
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1331006h
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 268 | Année 7
+     </edition>
+     <date>
+      1926-10-20
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     aan VII S Numart 368 + un  er e PTT TS ETS SU ue da dù IE + ARNO ET CÒ Esce ôgni dece iorni : sii 20 Uttobre 1926  — Tr T “= ate ru  ù sl i —_—_ i È ' re DI Di ca È na n À 7 Di n È: # i i ea = = «ie - : | MM E  GIURNALE .DI .E PIEVE DI CORSICA  ABBUNAMENTI:  In Corsica... 0.0.0... .'.'. . 12 franchi  In Francia. .:. 0.040... . 15 »  A PEsteru  U Mumaru:5 soldi  ‘Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     e feste di santa reparata    di balagna    ste feste so state dre deliziose e corte cum ellu un si ne puo vede di megliu       santa reparata face in tre paisoli   u poghiu  palmentu e occiglioni   paese anticu cu duie torre sempre dritte e quattru altre torre fatte a case i una chiesa fundata in 8o3  da u principe boniface di tuscana  mandatu da u papa  un cunventu in ruina fundatu  in  16o6 da i frati  capuccini  co pira e mi   quassu quassu ci e umonte sant agnulu e u corvinu  a 1 pedi  la isula rossa e u mare   da cima a in fondu  alive carche a sfurchera  carehe di lnigi di oru     a chiesa  ben tenuta da prete mariani  e piena di tesori antichi   una pittura di guido reni  le anime di u purgatoriu e di un prezzu inistimabile  e po eccu un quadru di u cardinale fesch  san ghiuvan battista inlu desertu   e po sant agata  antica padrona di a chiesa          i a paltare  eccu a testa di santa reparata  vinuta da pisa e cunfidaila asta parocchia in 1771       e    vicinuala chiesa  chi pare un altra cappella  eccu a cunfraternita   unaltru tesoru di cose antiche  belle pitture  sculture fine chi datanu di u 16o5   cusi bell altare   cs     u sgio  niculo  leoni e u  cunservatore di tutti sti rinsignamenti  di sti belli ricordi chi so  un orgogliu di a paese         irla casa di st omu da bene ci ha durmitu napulione    e tantu hasta    ava parlemu di e feste  a cinqu ore ticizione di e  pueta corsu sottun arcu di trionfu duva ci era scrittu   eviv a  cu umerru salvini intesta  e tutta a populazione   bellu  cumplimentu di u   sgio leoni  musica e acclaniazione  ne so fieru   e mandu ad ogni scrivanu corsu  ad ogni fratellu pueta   una parte di orgogliu raccoltu in stu bellu paese      tuttu qui pare fattu a u pinnellu   tin merru chi e u babbu di tutti  degnu  riccu e generosu  cume famiblia  un mudellu 11             un cinsigliu municipale di boni padri  di paese   ci un prete  u curatu mariani  sceltu apposta par tanti tesori     po    ma istitutore  danton  chi e una maraviglia    preziosi  par  l insignamento  miisicante  pueta  bor cumpagnu  ha tuttu per ellu   avete una furtuna  o paisani   sappiatela ricuiosce   quandi  certi stitutori facenu batte  li abitanti  danton  organizzeshia unione  pace   armonia  teatru e fires       e   un cumitatu di feste  di omi   scelti   piupensi cu giannoni cume presidente  e e a cantu al  zitelle elegante e tutte belle sim pussibule di sceglie a  piu  bella   mamme  e mammone chi ridenu   pn a bande chi saltanu  e  canta la a di  u sgio    bi  salvini chi  mi ha fatu tant onore  cu a so famiglia chi ur tesora di corsica         questu e  orticoni  u pidone  ma chi nimu palesi u so vinu muscaettu  a cucihara  a so emabilita   eccu osta amicu fondacci  de  paoli  discindente di u babbu di a patria  u sgio orticoni j l  di monticellu   madama vescovali  mamma di ondici figlioli chi facenu piace a vede   p  casta di 1793 di altura  u piu grande di balagna     ava ne vene albertini  u merru di a cumuna di parapiglia   cu pitti padovani e  tutt a  truppa  di la isula rossa  quelli chi facenu ride ancu i spurtelli   mille  persone a u teatru   cai    a fiera  vicin a la chiesa  ha cume intrata un arcu di trionfu   a  parte manca  una  fila di caffe ben tenuti cu viole e organetti  da marcanti graziosi e gentili   manuelli  francisci  mattei  castellani  giannoni  suzzoni  poli    i  eccu e pipe di orezza cu colombani lisandru di a valle e leoni di rapaghiu  dm   38   r  in fiera  ci e mille e mille persone in gioia  a chi balla  a chi canta  a chi ride  ie dt    paese di u signore la sanita reparata miraculosa e adurata   eju imi so subitu vutatu par un altru anuu 
+  s
+    </p>
+    <docAuthor>
+     Maistrale
+    </docAuthor>
+   </div>
+   <div n="2" type="poe" xml:lang="co">
+    <p>
+     incertezza  a don mattei torre  un  nnnda face bolle ne mio cerbellu   la affacata di ne sole ogni matina    le albore cu a so stella matutina e ben suvente u cantu di un acellu   ma cosa possu fa  so puvarellu   unn aghiu istruzzione ne duttrina   per altre strade a furtuna camina   e aghiu modu chi fa  so sempre quellu   quantu velti mi sto tristu e pensosu  spirendu in le avenire sera e mane ma vi aspettendu  un trovu mai riposu     e cose di stu mondu so prufane      u destinu per me sempre ritrosu   e certi iorni un so piu eosa fane    
+  s
+    </p>
+    <docAuthor>
+     U Puvarellu
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="fr">
+    <p>
+     bibliografia lamenti voceri e canzone populare corse di g b marcaggi de tous les recueils consacres a ia poesie populaire de la corse il n en est aucun qui soit de la valeur de celui ci et cela pour de multiples raisons la bremiere c est que le present recueil est une reedition et que du premier l auteur a eu occasion de voir les lacunes  la seconde c est que depuis quelques annees le mouvement litteraire regionaliste par les nombreuses etudes qu il a suscitees  sur des points touchant a la linguistique et a la poesie populaire  a jete de nouvelles clartes sur ce domaine peu explore  encore qu au regard dgs autres ce soit celui qui ait attire le plus l attention des lettres la froisieme c est que b marcaggi est le plus informe en la matiere c est donc une veritable somme de la poesie populaire corse  comprise en ce qu elle a d anonynie  que nous offre j b marcaggi a  i l introduction qui figure en tete du recueil est une merveille de simplicite et de clarte elle se lit d une seule traite l impressionnant appareil d erudition qui y est deploye  que certains jugeront inutile mais qui est precieux  n arrive pas a detourner le lecteur trop souvent eu effet des etudes de ce genre sont arides et difficilement accessibles au profane ici au contraire lerudition n empeche pas que le style atteigne a cette simplicite a cette souveraine elegance qui obligent a conclure que l auteur de ce chef d oeuvre d elocution est un maitre ecrivain sa grande experience sa profonde connaissance des choses corses ont admirablement servi j bi marcaggi ii ne fallait pas moins de toutes ces qualites reunies pour permettre l elaboration de cet ouvrage personne ne pourra plus desormais parler serieusement de la corse traiter impartialement de choses eorses sans connaitre cette oeuvre n est il pas vrai que l on penetre mieux un caractere et a plus forte raison l ame si fuyante d'un peuple si l ori en eonnait les aspirations profondes les mouvements inconscients dans l'explosion soudaine et donc sincere de ces sentiments tour a tour violents apres emportes ou indiciblement melancoliques  que l on percoit dans les chefs d osuvre anonymes et tourmentes que sont ces lamenti et ces voceri 6 l me corse se denude mieux qu une longue dissertation ces cris spontanement arraches a la douleur ou a la colere qui frappent brutalement nos oreilles nous montrent dans toute sa tragique et sauvage beaute l ame de nos ancetres douloureuse desesperee de ckainee mais toujours vibrante et corse bumainement qui ne vibre a ces cris ou a ces sanglots n'a plus rien de corse  on ne peut rester insensible devant tant de beaute nous seuls avons conserve ce privilege de primitif et pouvons malgre cet anachronisme sentir la beaute plus delicate d une civilisation extremement raffinee   ce  la poesie pure dont on a beaucoup parle cet hiver en terrnes alambiques la cherchant en des textes laborieux de poetes erudits la voici toute simple et toute naturelle ardente et fraiche a la fois comme l eau desfontaines qui coulent sous les chataigniers corses dans la grande lumiere de l ete  a ecrit le critique regionaliste emile ripert avec la double competence que lni donnent une ceuvre consacree en grande partie au felibrige et sa qualite de poete  cela est bien vrai quelle poesie peut etre plus pure que celle ci spontanement jaillie des levres de femmes ou bergers illettres  on trouvera meme dans ce recueil des filastrocche qui degagent une poesie pure de toute raison et riche d une musique ingenue et cela sans nul artifice litteraire elles ne sentent pas l huile soyez en certains ces filastrocche qu a incorisciemmierit elabore l ame corse   si comme le pretend m  henri bremond il est vrai queles versles plus harmonieux et les plus remplis de poesie sont ceux qui n eveillent en notre espritaucun sens ceux qui doivent leur caractere poetique uniquement a la presence au rayonnement a l action transformante et unifiante d une realite mysterieuse que nous appelons poesie pure  ces filastrocche sont de la poesie pure car elles sont  depouillees du moindre contenu intellectuel elles sont vides tout s en est refire images idees couleurs elles tremblent d une flamme invisible l effet en est insaisissable et penetrant  n est ce point cela notons en outre cette autre remarque de m l abbe bremond ia poesie populaire de tous les pays ef meme du notre aime le non sens il lui en faut toujours quelques grains  on croirait a une definition des filastrocche    en tout ce qui touche a la poesie la corse est une mine inepuisable autant qu inexploree pareille richesse de folelore doit etre signalee aux lettres puisque aussi bien ce folklore est un des plus varies et des plus merveilleux qui soient et ce n est pas la notre seul avis mais bien celui des ecrivains et des savants les plus divers tel cet lan bojer qui eu fit la remarque au cours d une interview rapportee par frederic lefevre dans les nouvelles litteraires    e je n aurai garde d oublier de dire que j b marcaggi ne s'est pas contente de recueillir sans examen prealable toutes les pieces qui composent son recueil trop souvent les compilateurs avaient altere en voulant l embellir le texte de ces compositions j v grimaldi salvator viale en avaient italianise la forme  j b marcaggi au contraire avec une methode critique irreprochable et sure a passe au crible tous les poemes qu il nous presente fi a supprime les adjonctions inutiles ij leur a restitue la forme originale l'orthographe veritable et exacte qui conserve ainsi a ces poemes leur saveur premiere  ce livre est precieux a tous egards il retiendra l attention des lettres ih sera aussi utile aux mausicographes qui y trouveront treize morceaux avec musique de jacques tessarech harold de bozi thomas sari
+    </p>
+    <docAuthor>
+     Matteo Cirnensi
+    </docAuthor>
+   </div>
+   <div n="4" type="poe" xml:lang="co">
+    <p>
+     natu so     natu soin munacia   in u mese di li fiori   quandu roncanu sumeri  invaghiti da li amori   una mattina di maghiu  lento lu me primu abaghiu     a stu retu adispiratu   e tratta lestra minanna  di forza mi tiro fora  mi ingutuppo di una panna  trista parlo a babbonu   mi  fighiola chi urtonu   babbonu stesi lu bracciu   mi palpo la infurcatura   di cunnoscia lu me sessu   avia moltu primura   e quandu tasto lu acellu    quistu e dissi un masciarellu   cumincio la manfarina   e trasalto di alegrezza scarco la so pistulaccia   per da segnu di evvivezza feci traghia lu vicinu  misciendu ligor e vinu   zia strica cu i tisuri mi taglio lu macaronn   un rocchiu zaffo  scupinu   4  beliatu di cutonu   pevaru missi cu sale per alluntana lu male   lu altru pezzu di billicu  u smurdicaccio la jatta   chi aspittava urulendu   sottu lu viculu piatta   quandu fu tecchia e sazia   mi miaulo cu grazia   babbarellu da campagna  ghiunsi che tarde la sera  cappio lestru la bugiacca   e accesi la lumera   sentu  dissi  un belatu   chi criampulacciu e natu   appena chi ellu mi visti   li scappo guasi u pientu vultendusi versi mamma  grido    oh lu nosciu sientu  quistu e colpu di jastima   un sara mancu da rima  
+  s
+    </p>
+    <docAuthor>
+     Simonu d'Aullè
+    </docAuthor>
+   </div>
+   <div n="5" type="art" xml:lang="co">
+    <p>
+     cronaca aiaccina  u sport  ci ralligremu tutti di sape chi i corbi di bastia partaranu sta sittimana in marseglia duv elli scuntraranu i cal ciatori di i 7ram si per u campiunatu di a   coupe de france     tutti i nostri miglior auguri lu accumpagnanu   devemu ricunosce  in aiacciu  chi i bastiacci so assai piu spurtivi di laiaccini  i quali si imbuffanu cume otri davanti a una folla numerosa chi le applaudisce e si sbuffanu cume busciche quand ellu    piove o quandu mancanu e so belle cuncitadine per falli   bravi   tandu si menanu calci fra di elli  e puru ci avemu calciatori fini in aiacciu     si elli vulissinu    ma un volenu  si spasseghia megliu nant a u corsu ca a u stadiu       spetaculi    u canari  a apartu e porte di a so gabbia innurata  cu una musica di prim ordine   jazz  urganettu  piano  ecc    una folla elegante corre tutt e sere a fassi una ballata e a beiesi un caffe a u sonu di arie cunusciutissime   a sala di   u canari e e magnifica a tutt i punti di vista e u serviziu e fattu di una manera chi da suddisfazione a i piu difficile   cani e cagnoli  ghiuntu mezzanotte  in sti carrughj di u bell aiacciu  cumencia u sabatu   da prima sd i giuvanotti di e sirinate  chittare  manduline  canti    e colpi di pistola  a culi chiappa i senfe       depu so i jatti chi fanu u so   miamia u   mezz ore e mezzore   chiamanu a ghiulia a maria e a catalina      po  so i cani   questi allora principianu ad abbaghia a due ore di mane sin a la alza di u sole    a stu mumentu u carrughiu appartene a li automobili chi v incrocianu sina notte  etira e tocca     ti malati e tutti quelli chi hanu bisognu di riposu ponu anda  a circallu a u cannicciu  in aiacciu     ladri e latricini  lu invernu si aviccina   ancu i ladri  sta settimana  ci ne e statu dui  ma ci e statu ancu due arrestazione        sispera chi a justizia avara pieta  di a brava jente senza  travagliu e chi li dara panu ecasgiu pa parecchj tempi     sino riprincipiaria a seria nera di certu imbernate passatone    7  acqua un ci ne e     ma la acqua si jetta a ghittera da tutt e canalisazione rotte e di a piu parte di e funtanacce vecchie e scuncassate chi fanu lavi in parecchj strittoni   almenu chi eh un si lasci  perde cio chi ellu entre in citta    iscalzacani  un si passa quindicina senza chi un scemu  un disgraziatu un puvarellu un sia milestatu da bande di scalzzacani  di fannulloni chi impestanu a nostra citta   sera passata unu di sti tintacci era u jucattulu di una certa giuventu e minava calci e pugni a quale li si vinia   saria ora  noi  cridimu  chi a pulizia fia cessa cose cusi scandalose ficchendu drentu a sciumia chi  un avendu niente a fa  si spassa di a miseria e di a disgrazia di u prossimu   i magazini  dipoi qualchi tempi i nostri cummercianti adornanu e schiariscenu cu gustu u davanti di e so butteghe   cusi si deve felicitazione a  nicolai capriata  l aiglon  genttemen confection  nenuphar  soieries lyonnaises  ecc       in sta manera  almenu sina a dec ore di sera  u corsu nabulio un e piu un tronca collu   a studiantina  st eccellente banda musicale face ripitizione ogni sera chi diu ci manda e face sente ariette e ariosi in tutti li modi    ma li aiaccini sarianu cuntenti di vedela sorte un pocu piua laspessu   u sgio zonza  le infatigabile direttore di sta sucieta artistica un po arriva  malgradu tutti so sforzi ad ave una banda cumpletta   subitu chi ella ha riesciutu a fa qualcosa di bellu a banda si scioglie  dui so chiamati a u serviziu militaru  unu si marita  tre si ne vanu a e culunie  un altu hai pulmoni troppu debuli pa suffia ulu trumbone  e cusi aiacciu un po mai vede ne sente una musica comu si deve     ma u sgio petru zonza un si addispera  e dipoi 19o9  data di a fundazione di la estudiantina st amicu di u prima di parti travaglia senza sgumentassi   se almenu li aiaccini li ne fussinu ricuniscente     mah  che     e cusi ne sta di a musica municipale  trenta  quand elli cumencianu    cinque  sei mesi depu   u jattu pinutu
+  s
+    </p>
+    <docAuthor>
+     Pinutu
+    </docAuthor>
+   </div>
+   <div n="6" type="cha" xml:lang="co">
+    <p>
+     cantu vesperale  sta puesia si po adatta a a musica di  o sole mio   canzona nspulitana di e  di capua  riturnella  ma nunda ormai mi po incanta   persu a la spinta felicita   o cara  si luntana   e lu mio cor  solu si sta   i  dolce e lu lume  serenu lu celu   a notte spiega lu so crespu foitu   di u sole stancu si innora lu voltu  dolce e lu lume  serenu lu celu    tf  u ventulellu  manda una carezza  hanu li ucelli un languidu volu  digia in lu boscu canta un rusignolu  u ventulellu manda una carezza     strinti  li amanti duia dui vanu  sottu u fogliame di li castagnoni   in lu silenziu di zeppi macchioni  strinti li amanti dui a dui vanu       iv  in le ombre grisge  volanu li amori  mormoricchiendu cun dolce favelle  visanu in pettu le belle zitelle   in le ombre grisge  volanu li amori   cv  tuttu ci dice   tenerezza e pace   una preghera ia aria si sente  colla la fede di la anima ardente  tuttu ci dice   tenerezza e pace  
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="7" type="poe" xml:lang="it">
+    <p>
+     un invitu a san pancrazio di casinca  e oggi il duodici di maggio il mese e san pancrazio  castellarese  e un santo nobile  martirizato   che il ciel ci ha dato per protettor   incaminatevi vecchie e zitelle  devotamente  o verginelle   h giorno e splendido  la passeggiata sara beata   o pellegrin   e oggi il duodici di maggio il mese ect  ect     o pastorella devota e pia  il gregge lasciati  prendi ja via    camina rapido camina in fretta   cola ti aspetta cola  cola   e oggi il duodici e ect  eci   i fiori spuntano sopra all erbette   e un grand miracolo per chi riflette   e la casinca bella e fiorita a tutti invita  a festeggiar   e oggi il duodici di maggio il mese ect  ect   melodiosi  son li auguletti     d andarci tutti noi siam costretti  piccini e grandi  grandi e piccini   noi siam vicini dobbiamo andar   e oggi il duodici di maggio il mese ect  ect   monache e sore non tralasciate   a san pancrazio tutte volate    che oggi semina grazie e tesori a corri corri   dovete andar   e oggi u duodici di maggio il mese eci  ect     o preti e frati cosa pensate    a stuolo  a stuolo che non andate   che pardonati son li peccati   o preti e frati che state a far   e oggi il duodici di maggio il mese ect  ect   infermo  languido e scolorito    in fretta renditi   sarai guarito  omaggio rendere devotamente    all indulgente santo del ciel   e oggi il duodici di maggio il mese ect  ect   o cirno amabile e vezzosetto  tutio incaminati pien di rispetto   il campo e splendido e spazioso   godi il riposo di questo di   e oggi il duodici di questo mese ect  ect   e un frigiano  d asia minore che benedetto fu dal signore   e di cledonio questo e figliolo   a stuolo  a stuolo dobbiamo andar   e oggi il duodici di maggio il mese ect  ect   fu convertito da marcellino   papa santissimo grande e divino   malgrado il perfido persecutore  fu vincitore   dobbiamo andar   e oggi il duodici     di maggio ii mese   ect  ect   da ottavilla  grata e cortese  di maggio al duodici di questo mese  fu seppellito    in roma  e poi   amici noi   dobbiamo andar   e oggi il duodici di maggio il mese   ect  ect   a venerare  quel nomie santo di san pancrazio partiamo intanto devotamente  a  stuolo  a stuolo   e un bon figliolo ci salvera   e oggi il duodici di maggio il mese e san pancrazio castellarese  e un santo nobile martirizato  che il ciel ci ha dato per protettor  u
+  s
+    </p>
+    <docAuthor>
+     Paoli di Taglio
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     u nostru cunsigliu ginerale  u nostru lu cunsigliu ginerale   ghie lu fiore di tutta pisulella   un omu veramente originale    chisa rimpiazza pane per bastella a sentelu discorre eue zitelle  ghie quante chi bo manghjte fritelle   appena so sunati li trent anni 3 un deve mancu ave u fele amar   un bonu puliticancciu   e per linga  un sa si ellu si trova lu so part si parla chi landry la ha designa   per fa di curtinesi un deputati   in fatti quale po megliu elie di ell  difende li interessi di u  cantone  prestu sera dutatu di un batells   ancu lu nostru fiume di tagnon(r)  bijurgu   li paesi di vezzani si quistannu so cascati in bone mal   si ellu seguitera le traccie antigh(r) di lu babbu chi estatu un duri   rospigliani avera lu so stradone e ci risparmiera molte fatighe nucitesi la sera puderanu   le estate spassighia a locu piano  quattru maghj piu longhi che sur in cu li so stendardi a tre culo   quassu lu emu cullati a ln paes  e lu avemu cupartu ancu di fior e un mancava che lu arcu trusphsl a st acellu stimatu quantu vale  vezzani 25 otobre 1923  u
+  s
+    </p>
+    <docAuthor>
+     Un meracchiolu
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     o campane    a petra rocca   o campane  vi tengu caru   piu che lu oru care vi tengu  quandu sunate  a tempu chiaru sonniu e cantu  ridu o piengu   a voce  a vostra  e puesia chiu pinsere piuma e spanna   pe u cele tremma e cala via cumu calava a dolce manna   a la alba  ind a nebbia rosa signate a fin di e notte nere e ne abbalamate ogni cosa   in li abrugori di le sere   mi piace lu vostru murmuru dulente cume un buceratu chi stiletta u ricciulu duru di iu core mai abbagatu   ma piu che in dolu  in aligria mi piacite  o timpani lindi   quandu sbucatte melodia in altu in bassu  quinci e quindi   tandu u core chi vole sente gonfia e gira  batte in tondu   e cume la acqua  a la surgente  si alza  inun bolleru mondu   tandu  lu omu  cun gestu piu  u terricciu sulleva di ale   si ritrova figliol di diu chi si cridia esse animale   o campane  vi tengu caru   piu che lu oru care vi tengu quandu susate  a tempu chiaru  sonniu e cantu  ridu e piengu 
+  s
+    </p>
+    <docAuthor>
+     Martinu Appinzapalu
+    </docAuthor>
+   </div>
+   <div n="10" type="art" xml:lang="co">
+    <p>
+     intornu a u banchettu di francescu maria   in orezza di sti tempi rientre molti du ganeri  gendermi e cantuneri  e altra ghiente a gode di a friscura di i casta  gni frundacciuti e pude respira a crepa fiatu la aria muntagnola    di u mio paese ci serebbe un squadrone di impiegatelli chi puderebenu rientre a bedeci ma disgraziatamente parecchi hanu dimenticatu chi elli so corsi  epo di altronde un tenenu minca a cuntraria e moglie chi trovanu piu piace a batte u taccu nantu i   froffoirs  di a cannabiera che a bene a fassi un inpascurata di brocciu e pisticcine   i piu passiunati per u paese nativu facenu qualunque sforzu per ghinghie un altra bolta a basgia i becchj genitori e i paisani  si sa chi i teatri mancanu a u mio paese e sta ghiente  dopu avessi arristitu una sgherba di prisuttu becchiu  e betusi un bicchieru di vinu biancu tuttu so chi ella po fa e di andassi   ne aleghie u piculu marsigliese a vintornu a u banchettu di francescu maria  questu qui a face da scarparu  butegharu e biuvittera          custi discutanu  pulitica generale  parlanu di u colla et fala di a libra e di u kilo e po tuttu ne un trattu si infiamanu e si assufanu per poincare  sbaaciuleghianu  parlendu di herriot  e so talmente inbagiurniti chi un si abedenu minca chi francescu maria tirendu u spa u la ha da mina qualchi lesinata ne un e manselle  z  dopu ave fattu a cumedia per chi soli  e betusi un aperitivu si ne rientre  nu chiachiarendu a fa cullazione   
+  s
+    </p>
+    <docAuthor>
+     Giacintu d'Orezza
+    </docAuthor>
+   </div>
+   <div n="11" type="poe" xml:lang="co">
+    <p>
+     a merlinu appinzapalu  luntanu da u mio paese sotu lu celu avricanu   in cu li arabi esiliatu  ju pugnulanu   a mertinu appinzapalu ringrazia e porghie la manu   a i benedetu lu ortu ava ripigliu curagiu   ogni pianta trasmurtita  mi par chella ghieti un ragiu  vegu luce la speranza  di una prossima bundanza  si per quistannu chi bene secondu e to intinzioni   noi travagliemu inseme ecu e mio cundizioni   a me i pomi e li fagioli a te li agli e i piveroni   ben che sia longu tempu chio mancu di a si paesi   a me mi piacenu sempre i pulastri venaghesi   bale piu un pomu arustitu che si pastizi francesi   meteraghiu ogni sumente tu manderei li pali   falli  di arbitru e di scoba appinzati tuti pari   un ne manca a u petraghiolu  in du a machia di indriolu   dumandali lu permesu ava si trova in parigi   noi eramu vicinati  ancu piu intimi amici  bulenteri ati feria  ancu a moglia ana maria   in quantu a li milioni lu onestomu un ne guadagna  oghie so ii gran scruconi chi godenu la cucagna      a chi piu ghieta sudore mischinellu sine more   un ce piu timor di diu ne bergogna ne russore   un ce piu rispetu alcunu ne pe a chiesa ne u signore   e tuti inseme si paga per lu unicu pecatore   di tamantu bituberiu quale ne sera cagione      aio  chi tuti a sapemu   ghie un guvernu fanfarone fendu tace la mio voce o merti mi faciu croce 
+  s
+    </p>
+    <docAuthor>
+     Ghilormu
+    </docAuthor>
+   </div>
+   <div n="12" type="feu" xml:lang="it">
+    <p>
+     che venisse a firenze rappresenfatte di carlo vi non trovo  ne credo che fosse  credo all opposto che dimorando egli a livorno  almii corsi  massime quel vostro anonico  orticoni  gli proponesere farsi re della isola   e questo a pe di bene  in prima per cavare me qualche succorso trovando fine   ogni porta  poi per mettere   e alle gare dei capi corsi  le  ali impedivano si potesse venire     3 capo di qualche  cosa di buo  certo pochi saranno stati a par te del segreto  ma chi ei spuntasse fuori come un fungo  cato signor frate  non e da  credersi   t1 baro   ne tasto le imperatore  i fe di francia e  di spagna   non men  che quello di sardegna  ma si ebbe cartacce  nell oriente in quel iorno si intorbidavano le acque  e teodoito  ci si reco a pescare  la guerra stava sul rompersi tra i russi e i turchi  e sembrava sicuro che le imperatore avrebbe fatto causa comune con la russia  teodoro  accontatosi col principe rakocus e il conte di bofineval diventato osman pascia  nemici mortali della ausiria   mulina la scesa in italia con un esercito di mori di algeri  tunisi e tripoli  quinci per la parte del friuli assal  tare la ausiria  intantoche un altro esercito turco  metterebbe a soqgquadro la ungheria  teodoro terrebbe la corsica in feudo dalla porta  ne si fermerebbero qui le lat ghezze di lei  ecco pertanto donde trasse i primi sussidii e i danari col marchio turco  piu tardi  avendo la porta mutato concetto  egli ebbe   a ricavare danari   dagli ebrei di arhsterdam  sue conoscenze vecchie  che poi messi su dalle oratore   genovese a londra lo perseguitarono infelice  e lo fecero mettere in carcere  dove langui sette anni  orazio walpoole un bel giorno si rammento dilui e un po  per bizzarria  un po  per buon cuore prese a perorare la sua  causa davanti al popolo  inglese  il garrick recito una sera a profitto di lui  e questi lo fece tutto  per cuore  breve  tanto da cavarlo di prigione  fu messo insieme  quanto bastasse a spesarlo con agio negli ultimi anni della vita no  visse poveramente  e morto si puo dire giovane ancora  perche annoverava 56 anni  gli fu data sepoltura nel cimitero di sant anna a westminster  sopra la sua tomba si legge un molto strano  epitaffio  il quale giudico fattura del medesimo lord walpoole  in italiano sonerebbe cosi   qui vicino sta sepolto teodoro re di corsica  morto in questa parrochia l 11 decembre 1756  subita uscito dalla  prigione del  banco reale  godendo il benefizio dei falliti  in sequela del quale as  segno il regno di corsica ai suoi creditori     gran maestra e la fossa  al segno stesso paltonieri riduce e semidei     e condannati al remo  e re sul trono   ma teodoro vivea menitr ebbe in sorte l acerbo insegnamento  che forluna donogli un regno  e gli coniesse un pane    se la sta come dite  riprese fra bernardino  noi dobbiamo portare ilvoto alla madonna  perche i disegni di costui non abbiano sortito effetto  ad ogni modo rimarra sempre vero che  sua merce  i corsi rinfrancarono lo animo  ed ebbero armi per durare  torno due altre vol te  la prima fu respinto dalla tempesta a napoli  ei capitani olandesi congiuravano a darlo vivo o morto in mano ai genovesi e forse ci riuscivano  ma egli che stava su le intese  riparo in casa di un principe napolitano  il quale lo fece scortare a gaeta  e quivi custodire in prigione  donde ando a terracina  e quinci di nuovo in corsica  l uitima vol ta venne sopra una nave svedese  mentre stava softo su le ancore tra vagliato in cuore per non avere visto accorrere i corsi a fargli festa  si addormenta  e sogna essere arso vivo  destosi vain compagnia di tre suoi famigli nella stanza del capitano wichmanhausen  e lo trova inteso ad apparechiare una mina  che sottoposta alla sua camera doveva buttarlo all aria  teodoro  chi era uomo di modi spicci  ordino 1o impicassero all antenna della nave  poi si allontanava senza che piu si facesse vedere  sia che la fredda accoglienza dei corsi gli levasse il coraggio  sia che conoscesse ngn poterla durare contro i nuovi ausiliari della repubblica  o si chiarisse a prova come stesse a cuore ad ogni maniera di gente guadagnare la taglia delle 2ooo genovine che la repubblica aveva messo sopra il sno capo  egli e vero che egli aveva fatto il medesimo su quello del doge  ma nessuno gli dava retta  perche sapevano che le genovine della repubblica ci erano  e belle e cantate  le sue nessuna zecca le aveva battute fin li   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

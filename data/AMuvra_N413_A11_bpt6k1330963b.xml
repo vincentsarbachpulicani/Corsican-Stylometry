@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330963b
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330963b
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 413 | Année 11
+     </edition>
+     <date>
+      1930-10-05
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     Annu XI — Numaru 413 9g Esce a Dumenica . Dumenica 5 Ottobre 1930   GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI :  in Corsiea, . « «. . . ... . ++ +. . 15 franchi  In Francia. . . . ...-...... 18 »  Unione postale . , . . , . . . . . . 30 »  U Numaru:5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — ATACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     falzu e veru cursismu  lu avversariu di e nostre ide e  di nostru prugramma  truvendusi inde la impussibilita di cuntrasta seriamente e nostre raghione  lampa certe volte lu argumentu ridiculu e finale  di abord  monsieur  je suis corse autant que vous    naturalmente  st osservazione chi ellu vularia decisiva  e formulata inlingua pinzuta  malgradu un forte accentu cruzzinese  balaninu  o bonifazincu  ma  per quantu grande sia a cunvinzione cu a quale stu sgio tale e i so  pari dicenu ste parolle  elli ci lasciaranu dubita di a veracita di le affermazione   sete corsi  si  ma quandu  invece di fischiabbi a la arecchia a solita canzunetta pafriotarde e esotica  omu vi parla  cu a fiara inde li occhi  un linguaggiu pienu di vivaci ricordi  di amare custatazione e di salde speranze  prutestate cume se voi fussite minacciati diuna porga     cume pudete dibbi corsi autentichi  postu chi voi accuglite cu disprezzu a tradiziunale e deleziosa suppa di fasgioli fortemente cundita  preferiscenduli i piatti velenosi offertivi da a litterature bon ton di i scrivacciuloni e da la eloquenza pinzuta di i cum  medianti    a la ironica quistione  forse voi saparete truva una felice risposta  ma e sta risposta  a quale precisamente vi cundana  mittendu in rilevu u carattere essenzialmente apocrifu di u vostru pretesu cursismu   partite infatti da stu principiu  chi u nostru paese  niente ha perdutu uniscendusi a  grande nation francaise  prima cunsiderazione tendenziose a  quale pare chi ellu un vi basti  postu chi ellu vi pare opportunu di aghiunghievi lu argumentu di le iricurpurazione vuluntaria   ci est de son propre gre  que la corse est entree a jamais dans le giron de la france  cume si darret a una unione prufittevule a  frarcia  dannosa per a corsica un ci fussi statu a mataccina di e sponde di u golu      sopra a tale base  so dunque stabilite tutte e famose teorie  PS quale vi rendenu cusi affirmativi inde le esplosione sfacciata e permanente di un sedicente cursismu   un ghiova qui di passa in  rassegna un infinita di raghione brinnaghie  note a tutt i corsi di bona fede  penatantu piu inutile  chi omu po facilmente riduce st osservazione aune poche di insane pataracchie  felice unione di populi corsu e francese  compatibita assoluta di ideali e di aspirazione  terrenu altamente prupiziu a u sviluppu di e qualita di a razza truvatu in pinzutia da i figlioli e purfiglioli di icaduti di ponte novu ecc   ecc     in stu modu  la antica virtu cirnea po prucede senza russore inde u camminu tracciatu da i suldati di magliaboia e di de vaux non solu in stu novu orientamentu  unn incuntrara nissun  ostaculu  ma li sara ancu offertu ogni mezzu di cuntinuita e perfeziunamentu   ed e cusi chi ell e nata a duttrina  longamente sfruttata da tutti i scrivacciuloni e rimaglioni brinnaghj di a race fiere et noble  di a plus belle race que le monde ait jamais connue a quale  naturalmente   a trouve dans une heureuse incorporation a la race francaise  l accomplissement radieux di un parfait ideal   cursismu falzu  assumendu di piu in piu  di mezzu a u scatinamentu anti autonomista  una funzione polizio ruffianesca  e a quale deve esse cumbattuta inde la isula  da tutti quelli chi stimanu invece a fierta corsa assolutamente incumpatibile cu una larga distribuzione di impieghi di fattore  duganere  o guardiaprighio     a stu cursismu ridiculu e puzzulente  noi  autonomisti  duvemu oppone un cursismu limpidu cume le acque di i nos tri iumi solidu e sinceru cume u granitu di e nostre muntagne   a nostra duttrina  benche custrutta sopra a lu anticu ricordu di fierta e di valore illustrata da una storia gloriosa fra tutte  un deve piatta nulla a i discendenti decaduti e maltrattati di quelli chi si meritonu a famosa iscrizione di a cappella sistina  cirneorum fortia bello pectora   a razza corsa surprese  in tempu di una volta  u mondu pereso eroiche virtu si e vera  ma oghie  per colpa di un guvernu pocu scrupulosu inde a scelta di i mezzi  ella si ne more   in simile circustanza  piu che lusinghevule rapsodie  ci tocca a fa sente a nostra virile e cummossa prutestazione 
+  s
+    </p>
+    <docAuthor>
+     Petroniano
+    </docAuthor>
+   </div>
+   <div n="2" type="poe" xml:lang="co">
+    <p>
+     risvegliu  a chiucchivla  cumencianu li acelli   ed a ride  li fiori in la erbulina    diggia spinta e la stella matuttina    u pittor  sole appronta li pinnelli   a nebbiulina  in lu bassu  si scaghia   quaghio  sculpitu  appare lu mulinu   qui  pe  lu chiosu  bocchineru abbaghia un sumerellu chi inghiumpa lu spinu   a notte  allibbra u mantu di bughinra   si scorgenu le macchie e le culline    u venticellu sfosca le marine   e rinasce da la ombra la natura   atteppa lu pastore pe  sse cime   mezz a la banda  solu  fischinlendu   e male in oziu partenu ruzendu    chiocca u staffile in ln stintennulime   e babbu  in piazza  insella a so    nasina    ghie vecchia  ele so  zampe hanu lu tremu  ma per un automobile un la demu    per parte in piaghia e pronta ogni matina   ava si aprenu porte e finestrine   e si affaccanu faccie insunnulite    da in casa  certe donne ancu incirlite  frumbanu lu granone a le jalline   poi  unu ad unu  furaanu li tetti   e di caffe si sparghie u bon  odore   tutte le cose piglianu un culore   escenu pe  li chiassi i zitelletti   sbuecianu le risate o le canzone   a vita ha una nota canterina   e pumposu  qualla  nantu marina   u sole in fiara face lu paone 
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     pesciu anguilla   di sebastianu dalzeto    fin qui  quantunque chi u rinascimentu di u bellu dialetiu nostru abbia arrutatu tante e tante penne  a majo parte di queste si so daiea a rima   cosa naturale  postu chi in corsica  a nascita e a morte  a cuntentezza e u dulore  e lode e i disprezzi  si so sempre cantati   eccettuatu qualchi scarsa produzione di prosa  teatru  raconti  articuli di stampa   ci aviamu avutu e ci avemu in cirnu rumanzieri in lingua francese e italiana  e manched unu avia osatu lampa un mazzulellu a u mon  te di i fiori cirnesi  sebastianu dalzetu si senti  u primu  punzicatu da  ssa ludevule voglia  dopu e so  varie opere  trattendu di la isulella bensi  ma in lingua francese  e  incuraggitu cum ellu dice ellu stessu inde a so  prefazione da u   pruvatelila     di i so  boni amici  ecculu a la opera  trafurendu a bastia di tant anni fa per cacciacci u so   pesciu anguilla    or bravu   caru sgio dalzeto    chi   pesciu anguilla   e una pietanza nostra senz altru cundime esteru  quale a po niga   nimu  u tituiu stessu  intraduttibile  ci palesa i detti e fatti di le eroe cume quelli di u so  circondu  leghiendulu  ci sentimu subitu a un fucone oa u pede di un pullone per  sse sarre     le autore un duvia  ferme di offende i sentimenti dilicati di u suffisticu leitore  cu i so  termini di a parlata populana   senza questa   pesciu anguilla  un seria statu   pesciu anguilla    anzi  cusi risortenu megliu e sentenu megliu le introduzione spaisata le espressione accaparrate dipoi pocu da u populu bastiacciu innamuratu diu zovu chi ellu capisce male e incuscente di u soiu veru   lu italianu   chi solu li senderebbe  a mischiu cu u corsu chi ellu vurrebbe tralascia    risentimu benissimu a i jorni di oghie  st accennu di dalzetu a u miscugliu di a parlata corsa in tutta la isula  noi  chi ci semu dati per opera di pettinalla a la megliu per circa di un lasciacci persiste che le odore diu mucchiu  di la arba muvrella e di u rosu marinu     inde dalzeto  culurite descrizioni di a natura  linguaggiu di a puveraglia neguziante  operaia o stercaghia   manere di a jente benistante  ghiastemme e leteghe  un ricchissimu folklore  infine   forma schietta  dunque  e u fondu  altrettantu  sinno piu   una famiglia di e piu corcie   un piscadore duppiatu di un briacone  ci una lavandara per moglia  e un figliolu lustra scarpi  u  cirer  pe  upopulu e un  mendianta per u babbu  arricumandizie necessarie dunque per fa qualcosa di  ssu figliolu  mendiant bensi  ma veru pesciu anguilla pe  u sennu  duie belle cose in bastia  tandu  da abbagliula li occhj a una mamma ignurante  li ambizioni di u babbu essendu annebbiate da u viziu  a magistratura    putente  gudente e prutettrice u cleru riccu e riveritu  salvi tramindui di ogni critica sfacciata    duie belle cose dino  per fa batte  u curiceliu di un sgaibissu mal educatu e straziatu ma intelligentissimu  u riposu e u sta be  ci una forte passione per tuttu cio chi e musica  sia per la opera italiana  cume pe  a fanfara militare francese cume per lu organu di san ghiuvanni   esse prete  acconcia u tuttu  furtuna  cunsiderazione e piaceri    di ogni modu  per un di altru  e pesciu anguilla sera prete  partutu da in bassu per arriva cu li appoghj di i ricchi e i putenti  ma sin a duve  li arricumandazioni e li appoghj  averanu trascinatu ad ellu e i soi  deh duve a pulitica e e ricumandazioni trascinanu a corsica oghie  diamine  a una certa vigliaccaghjne    cuntraria a u spiritu di u razzinu  cio a a verita   chi fede sera  a soia    deh a fede di i differenti e numerosi pesci anguilla di oghie da a giraglia a bonifaziu chi a so  miseria duvuta a un regime male adattu punta versu certe alture     cusi pocu fatte per elli    un beru rumanzu corsu  v aghiu dettu  megliu  una storia corsa sempre vera   bravu   sgio dalzeto 
+  s
+    </p>
+    <docAuthor>
+     Altore
+    </docAuthor>
+   </div>
+   <div n="4" type="poe" xml:lang="co">
+    <p>
+     don juan  miguel manara vincentelo de leca  ne ele fattu  o miche  quant e cucehjnu   e mbeb     ma  da u mumentu chi u signore bi incco u core   turnaste  da diaule  sarafinu   e  mbece  ca lu infernu bi ete guadantu in cele nn regnu elernu   ma u vell e que  chi boi nun site voi   omancu un site voi  ssu troncacollu chi avia appiccollu  tutte e pecche imbintate  poer a noi    da certi rumanzeri bugiardelli per arte  o per mistieri   un sete don ghiuanni  ma michele   don michele magnara vincentellu de leca    bellu   ssu nome corsu     boi  soit aliru cele  ca u cele corsu natu   o don michele  indne le ete pisca tu    eccu   a i tempi di i tempi  un leca corsu  u dicenu di a sterpa di i colonna per bia di donna   trapasso in spagna in cerca di succorsu   e  firmatu in siviglia   bi pianto casa  e bi lascio famiglia   bona razza  ssa vostra  razza fiera   ma come  in giuvintu  le ete unurata  ssa gran casata    falendu in mezz a u lozzu a tumbulera   o binadetta sorte    diu bonu vi scampo da a malamorte   ed eccuvi pintutu e pinitente   bistutu di umilfa  carcu di a croce    guasi feroce  cu a carne allisingata da gaudente    ajutu a i puarelli   serbu a i malati  babbu a li urfanelli   eppo  ne signore  da  ssu gran pazzurgu chi bi erate una volta  in giovinta   tornu a gesu  bi ha fattu  per so  gloria  taumaturgu   di i prudigi ribomba   sulenne  a voce attorn a a vostra tomba   avale si  chi a corsica  sta mamma di a vostra sterpa  si fara un bel vantu di voi gran santu   chi a carita di gesu cristu infiamma   e don ghinanni     in bara      la ha tombu seccu don miguel magnara 
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="5" type="art" xml:lang="it">
+    <p>
+     a far manifesta le origine corsa del falso don juan e vero michele ma gnara vincentello de leca basterebbe questo casalo evidente mente corso  se la famiglia di don michele abbia avuto origine in calvi o in moniemaggiore lasciamo discutere ad altri  piu compe corsica  xx  seculu tenti in malcria di gencalogie storiche   leggendarie  a me preme sopratutto di far rilevare la santita indiscutibile di quesi uomo  famoso solt altro nome  ma degno di migliore e piu larga fama sotto il suo nome vero  quella santita  dio la ha premiata col dono dei miracoli  a tal punto che poco dopo la morte di don michele furono iniziate pratiche presso ja santa sede per la sua canonizzazione  lavoro importante  erudito e  molto convincente  riguardo alla santita del  nostro eroe e un lungo articolo  occupa la bellezza di ollre sessanta pagine  ci potrebbe formare un volumetto  scritto da jean pierre altermann  e pubblicaio nella rivista francese  les lettres   fascicolo del 4  aprile 4921  anche altri banno scritto nel medesimo senso  ma  forse  con meno discernimen1o  non parliamo di quelli che in don michele hanno visto soltanto il giovane scapestrato sotto il pseudonimo di don juan  molleplicandone a capriccio je malefatte giovanili  e tacendo o ridicoleggiando la vita santa e pe  nitente  splendida di carita cristiana  con la quale egli ha scontato e riparato le sue colpe vere  confessale da lui stesso  nu vin    non si sa la ragione  per la quale un vincentello de leca  forse casato della madre e non del padre di don michele  si sia trasferito in spagna  tanto per valermi dei diritti riconosciuti a i poeli  ho detto che vi era andato  in cerca di soccorso    potrebbe anche darsi che sia cosi  ma  veramente  non ne so  nulla  lu 
+  s
+    </p>
+    <docAuthor>
+     U Babbuziu
+    </docAuthor>
+   </div>
+   <div n="6" type="art" xml:lang="co">
+    <p>
+     u  dio ti salvi  regina   e vergugnosa di vede certe cose  di vede certi corsi chi un sanu un  unghia di storia corsa  nunda diu gluriosu passatu di a so  patria     quistiunemu qualunque zitellu  sia puru ellu un pocu struitolu  e dumandemuli qualess ella era lu innu patrioticu corsu  bi fissera cu li occhj spalancati  si ellu un sbotta a ride  pero  sapera chi a marseillaise  e lu ianu naziunale francese  chi  le internationale  e lu innu cummunisiu e a  carmagnole  un altru innu rivoluziunariu   eppuru lu innu corsu si e sempre cantatu  ma duve  in chiesa  e  in chiesa  scarsi so quelli chi ci pratecanu oghie in for  di i curiosi   u  dio ti salvi  regina   benche incunusciutu da parecchj corsi  campa quantunque e un pudera more  perche porta cun ellu qualcosa di forte e di inattacchevule chi e a religione     mi spiegu  u  dio ti salvi  regina   tuttu essendu un cantu patriotticu  e avanti tuttu un cantu religiosu dedicatu a  vergine  dumandenduli prutezione e ajutu  si  e un cantu schiettamente religiosu  questa ci prova chi i nostri antichi avianu a fede ed era a so  sola forza  speravanu solu in ella  oghie ci tocca di fa altrettantu   e tuttu corsu chi ha un core chi batte in pettu un deve micca sta senza stusgiassi davanti a stu cantu chi elli dicianu i nostri antichi  a boce porgula  andeneu a  morte   tutte e volte chi io usentu ribumba sottu e voite di a chiesa  mi sentu stringhie u core  pensu a quelli vestiti di pilone  cu a baretta misgia in capu  u schioppu in una manu e i paternostri a la altra  andendu a  battaglia a difende patria e religione  e facciu sta preghera   fate  o vergine maria   chi u  dio ti salvi regina   ribombi per ste campagne   da la sarra a la marina   da la alba sin a la notte   da la notte a la matina 
+  s
+    </p>
+    <docAuthor>
+     Ciccatone di Corti
+    </docAuthor>
+   </div>
+   <div n="7" type="div" xml:lang="fr">
+    <p>
+     impicci e mbrogli basgi e calci i giurnali francesi banu publicatu a seguente infurmazione   chambery 16 septempre  on sait que lu langue francoise continue d etre la langue usuelle des habitants du val d'aosie situe sur le versant ifalien du petit saint bernard nussi les relations des vuldotains ci des habitants de la hauto tarenlsise sur le versant francais soul elles empreintes d une reelle cordialite du reste beaucoup de noms de familles valdotaises sont ils de consonnance francaise et il existe de nombreuses affinites entre ces deux hautes vallees malgre les difficultes de relations plus grandes crees depuis quelques annees  c est ainsi que vient d avoir lieu dans un hotel du pelil saini bernard un banquel qui reunissait les representants de nombreuses societes valdotaises et des personnalites de bourg st maurice des discourds ont ete prononces en faveur de l amitie franeo ilalienne notamment par mm cesar chabloz ancien depute du val d aoste petugat directeur du journal francais de la vallee d aoste  antoine borrel depute president du conseil general de la savoie qui a conseille a ceux qui osent prononcer le mot impie de guerre franco italienne d aller contempler les tombes italiennes de bligny aux quelles repondent les tombes francaises de monte tomba  a travers les obenrites ci les malentendus dit m borrel ii faut que les coeurs des deux peuples se cherchent se reconnaissent el sc rencontrent savoyards et valdotains doivent se vouer a cetle oeuvre en etablissant un lien solide entre l italie et la france   bellu bellissimu programma ie main le colonne cuntigue a stu tendenziosu strafilettu un si parla che di a corsica fossu tra francia e italia e i dui populi so azzippati l unu contru l altru per eventuale ricerche e  riscontre   per tambussassi a boline piu  baccala per corsica e  bistecca per italia   l ile de beaute un vulemu micca parla di l isula persa ma di u novu battellu di u sgio sanguetta  quest e una magnifica unita custruttu a u contu di e riparazione cu tutt e perfezione di a technica moderna da i cantieri tedeschi di brema eccune d altronde a presentazione fatta da u cuncessiunariu armatore u cuntribuibile   une croisiere a bord du paquebot de luxe lle de beaute est une croisiere ideale car elle permet aux touristes independamment des charmes et des bienfaits inherents a tout voyage en mer de connaitre a peu de frais les joies du yachting sur les cotes de provences etde corse  ce navire mis en service en 4930 est specialement construit en vue des iraversees surtout diurnes auxquelles il esi destine il comporte des amenagements pour passagers de 17 et de 2 classe seulement et un entrepont specialement amenage pour transport des passagers il est mu par deux machines turbines de 3 000 chevaux chacune avec chaudieres chauffant au mazout susceptibles d assurer une vitesse voisine de 20 noeuds  les amenagemenis de 1 classe comprennent independamment d un vaste pont promenade d une salle a mauger d un bar fumoir et d un salon des cabines de luxe situees sur le pont promenade et le pont superieur ainsi que des cabines monoplaces ype wagons lits  les cabines de 2 classe sont bi places la compagnie fraissinet s est egalement inspiree pour leur amenagement du modele des wagons lits bien adapte aux courtes fraversees dont aucune n excede 7 heures et aux nuits passees au mouillage a bord d lie de beaute  un canot automobile pouvant porler huit passagers se trouve en permanence a bord a la disposition des passagers auxquels il peut etre lone a un prix modere pendant les escales ce qui permet de se livrer aux delices de la peche du planking  et du bain dans les alanques pitioresques el sauvages des cotes e corse   avete lettu o corci cumpatriottichi ite custretti a barca u pozzu per anda  chiude l occhj a babbu o a mamma innant a zocculi genere  ville d ajaciu a' velocita di 12 nodi  avete lettu be   yachting  20 noli a l ora   planking    ma state a sente il bellu   ile de beaute sera affecte a des roisieres organisees de telle sorle que les royageurs desireux de connaitre la cote d'aur et la corse pourront en moins d une senaine effecluer ie trajet paris marseille ou vice calvi ajaccio bonifacio baslia ile rous e nice marscille paris et celu dans les conlilions les plus confortables saus passer ine seule nuit en mer  enfin les circuits d auto cars p l m sombines avec les ilineraires d  ile de beaute ct des autres paquebots de ja ci fraissinet en service entre le continent el la corse permettent de visiter conforlablemeni el a peu de frais tous les sites piltoresques de l ile  les traversees colieres marscille nice et retour calvi lle rousse en faisant le tour de la corse effectuees a petite distance de ja cute permettent d en admirer les splendeurs  tout le long de la cote d azur un panorama feerique se deroule au regard des passagers emerveilles successivement la cote rocheuse et abruple qui separe marscille de toulon la rade de toulon avec tamaris et san salvadour hyeres et ses iles d or porquerolles port cros etc   le lavandou et le canadel elc   la baie de sainte maxime et de saint tropez saint rapael le massif de l esterel puis cannes juan les pins antibes ct enfin nice ou le paquebot sejourne assez longtemps pour permettre aux passagers de visiter cette belle ville de luxe et de plaisir    avete capitu  stu bellu troppu bellu battellu catellatu pitturatu e lisciu da l ultima cunvenzione di i servizj marittimi di a corsica ha l aria di juva avanti tuttu a fa vede a i turisti i spendori di  a costa azzurra  e a piu bella prova e chi da marseglia a nizza 211 chilometri u prezzu di u passaggiu e di 149 franchi in prima classe e di 101 fr in siconda invece chi da nizza a calvi 176 chilometri i prezzi so respettivamente di 154 e 105 franchi    e senatori deputati cusiglieri generali cammere di cummerciu e chiminesoeiu di corsica hanu accettatu un simile  programma  prugressu stu pocu tutt i trinnighelli di a c f d ghiunghienu in ajacciu e bastia cu a u minimu tre quarti d ora di ritardu quand elli un ne hanu duie ore   que senz un pelu di buggia   avendu chiestu per curiusita a un capu stazione da cio chi pudia dipende stu vergugnosu affare c e statu rispostu tranquillamente  e chi e nove macchine hanu menu forza che e vecchie di vint anni fa e so peghiu ad ogni puntu di vista    si noi parlemu di i vagoni   allora poi e il bellu coghj incughiati da sorte piu unti ca l oliaghj balanini attuscati da e puzze ceghi da a carbunella pesti da u zinguli zanguli  prugressu per cursichella  baccala
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="8" type="art" xml:lang="co">
+    <p>
+     imbarcu  imbarcu   folla  para piglia e teni  bisbigliu in ajacciu  ancu piu runinicume che un ghiornu di elesioni cummaunali   chi ci e  chi un ci e  soga a corsica vole rinasce  ripopulassi cusi  duetti di un colpu  cume si una mazzetta maga li avissi ordinata   inuo calmemu i nostri palpatoghj  unn e che lu ultimu sirepifu di e vacanze  a cumpienda di e biale permissioni  lu arrolamentu di cio chi si fermava a funziunarizza per purtassilu via  la ultima scalavrala di marianna inde a so  sistematica pesca di i cursacchioli    e lu imbarcu   lu imbarcu   chi settimana santa  tunisi  algeria e maroccu  cu i so raszica jente speciali  ci avianu digia fattu assiste a qualcosa di indescriltibile     pussibile chi tanta e tanta jenle sia obligata di corre le afriche per buscassi un bittulu scarsu quindi     ci simu detti a  vista di quelli ponti tracarchi e chi li addii in pientu e i sventulimi di fazzuletti facianu pende versu a sponda   ma nizza e marseglia  cu i so  abituali colla prezzi e cala comudi ci hanu messu sia volta u mantu a la anima  u curriere un bastava piu  un battellu di rinforzu era diventatu nicessariu  e  iramindui attempu si staccavanu da i muzzelli di a calata  neri da u furmiculime  carchi a carne umana  a prisutti e a singhiozzi  e capulavanu a u fanalellu di a jittata per inciuffassi in lu bughiu tenebru cume i nostri cori  u portu fermo spacchiu e mutu  e u nostru riiornu ci fece lu effettu di un ritornu di intarru   bastia  calvi e isula rossa averanu purtroppu assistitu a u listessu dramma  e avale chi le ottobre e benutu  scarse seranu e case piene per  ssi paisoli di u nentru  qualchi vecchiu  pochi criaturi  agiuventu un po  un bole piu jerma   u bene di a corsica   ecculu  cari rapprisentanti   ne avete irovu a chiave  arricumandate  piazzaie  cacciate jente da quindi  basta che sia  francia po ride ci una tale purcaghia di boni serciiori chi boi li avete offertu in segnu di divotu patriuttismu    e si ella dura qualchi pochi anni dino  un bi senlereie mancu piu rompe le orecchie da i lagni per lu abbandonu in tuttu di 1 nostri affari anoi   e strade  a chi pro  postu chi un ci traficheranu piu che i cignali   i battelli   chi fanne chi un ci sera piu ghiente ne robba a caccia da quici  e poca brama averanu di mandaccine   a bona cura  a bona igiene  a bona justizia  per e zinzale ci ne sera sempre abbastanza   ma seranu ancu campane a doppiu per a puliticaccia  fratel  cari  e tandu     e inutile sera di riturna a i paesi  ci avera cantalu a mala
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     esiliatu  veni  mio musa   chi so qui solu  solu   versu cirnea i prestu sparghj lu volu   vai a truva la mio mamma chi si e fermata in niolu  dicenduli in un orecchia  z qui mi manda to  figliolu      so qui luntanu in stu locu desertu   lu core in dolu da le ferite apertu    mai un lu possu spiega  tuttu cio chi aghiu suffertu parchi  da una vita nova   u passatu e ricupertu   aghiu lu core da i dispiaceri frustu   ghiovi da mane u quatordeci agostu   lasciai lu mio paese   e parlendu francu e ghiusiu  in  ssu jornu scelleratu   di cuntintezz era armaiu   saltu in battellu cu lu mare in timpesta   tandu cumenciu a unn esse piu in festa   e durante la nuttata la allegria in me si arresta   lu cerbellu cuminciava a ballammi indu la testa   tutte le notte sopra ci sunnieghiu  e tutti i jorni ne va di male in peghiu  pensend a lu mio passatu  capi bassu spassieghiu   si io pensu a li mio parenti  sonu anc altri suffrimenti    caru paese   u to  gentil  ritrattu u tengu sempre in lu mio senu  piattu    u rimiru ben suvente  dicendumi   chi aghiu fattu   aghiu agitu veramente  da unu chi un sa niente   oghie chi semu a u jornu di a fiera mi pare di esse ap ne una vera galera   duve site  o belli jorni   da la man fin a la sera    ava  si  chi mi ne abbegu cume stava duve era   cio chi aghiu in core  apartamente dicu    passu li jorni penciulu cume un ficu    un sentu piu parla corsu   e unn aghiu alcun amicu   e digia pensu a lu jornu chi sunera lu ritornu  
+  s
+    </p>
+    <docAuthor>
+     U Patriotta
+    </docAuthor>
+   </div>
+   <div n="10" type="feu" xml:lang="it">
+    <p>
+     e questo facevano toccando ai trafitti le mani  le quali si trovavano tuttavia calde  tirato fuori pei capelli il moribondo  con tagli e punte dolorosissime ne inacerbivano la agonia   a rendere piu lugubre la scena  scesa la notte  i poggi di intorno si illuminarono con la sinistra luce di pini accatastati quasi pira funerea della patria defunta   e si sparse di intorno un suono di pianto  un singhiozzare dirotto  sicche pareva che ogni macchia  ogni cespuglio piangesse   intantoche il fragore delle  acque del golo rolte fra i sassi  empiva di affanno come se la corsica intera si lamentasse sopra i suoifigli caduti  ancora  le braccia delle donne infelici tese verso il cielo e lumeggiate dai medesimi fuochi offrivano sembianza della isola  infelice  che nuovo briareo levasse le sue cento braccia per implorare da dio la maledizione sopra la stirpe scellerala  che non contenta della infamia del servaggio a casa sua veniva amministrare con violenza il tossico della tirannide   anche il fango quando vi batte in mezzo il raggio della luna par di argento   cosi lo uomo  il quale per nascita o per allro caso tiene la suprema potesta di un popolo  e levato a cielo  anzi piu in alto del cielo  finche nella destra di lui sta chiusa la speranza  e nelia sua sinistra la paura dei mortali  ja turpe e famelica genia  che si avventa alle mammelle dello stato come le mignaite si attaccano alla vacca scesa a pascere nel padule  si lima giornu e notte il cervello per trovare sganghera te adulazioni  gli stessi uomini grandi non valgono a liberarsene  qual  cheduno dopo esserne rimasto per tempo piu o meno lungo offuscato  se ne distriga simile alla bella faccia degli astri  che svilluppa dai vapori notturni  mentre i piu ne restano contaminati  imperciocche fino dall antichita osservassero come anche le statue degli dei per troppo fumo di incenso diventassero nere   pero il grande  e questo dura   il potente solo provoca le immane che rovina sotto il peso della folle sterminaiezza  nessun tiranno al mondo ebbe immagini piu sperticate di nerone   zenodoro gli gilto una siatua di bronzo alta 11o piedi   lui morto le mutarono il capo e dedicaronla al sole  altri gli dipinse il ritratto della altezza  di 12o piedi e fu arso nei giardini di mario  la modesta immagine di bruto fu conservata alla coscienza dei popoli dai magnanimi pochi i quali non giudicano le opere dal successo  e tiberio  che la bandiva dalle mostre pubbliche  non oso stenderci sopra la mano   e poiche con ali mentite non si vola o poco  e a voli esiziali   quando la potenza abbandona gli icari recidivi  questi imperatori di terra colta  questi re di carta pesta  ja pieta si maraviglia come deve compassionarli mai tanto  che i loro stessi delitti ella conosce essere siati partoriti dalla insania  e gli sperimenla a prove cosi misere  cosi inette creature  che spogliate del mestiere di lormentalore non sanno procacciarsi in vita  anzi incapaci perfino a guadagnarsi la acqua da lavarsi le mani e il viso  lo scherno umano che si accosta per beffarli   dopo averli sotto e sopra squadrati  diventa serio  e si parte pensando se piu meritino riso costoro  o la stirpe degli uomini che gli ha adulati  maladetti e soiferti  per tempo si lungo   pero se lo uomo  spogliato dalla potenza  possiede ianto di suo  che molti tuttavia lo riveriscano  qual  cheduno lo ami e la calunnia non si allenti ferirlo eccettoche larvata  nel cuore della notte  allo svoltare dei canto  di pure     costui meri to migliori destini    e non isbaglierai di certo  e tale fu il paoli   i suoi nemici non ardirono morderlo  solo per biasimarlo si velarono la faccia con la menzogna del bene della patria  ma non fecero frulto  che il velo era rado e sotto ci traspariva l in teresse o la agonia di giustificare il tradimento   sicche come da impre sa disperata si posero giu  per que sta  come per allre volte manco piuttosto la italia al suo washingion che il washington all italia  se mai la fortuna ti menasse nella illustre isola di corsica  tu osserva come il ritratto dell oltimo cittadino di 1249 si incontri nelle cilla  ma per lo oppo  sto lo troverai sempre nei casolo   e negli alberghi  nello  intorno dell  isola a canto a quello del sampitro  il popolo ha riconosciuto i suoi p  dri e se gli stringe al seno  yo lo ne   tai  imperciocche una voce soave mi bisbigliasse dentro     la coscierza del popolo per passione propria   per inganno altrui spesso forvia  m  il tempo la riconduce su la stada  molte cose fanno scienza  pero il senno umano si compone di solo queste due  persistere ed aspettare    questi consigli mi educavano alla pazienza  che negli anni giovanili da me derisa  oggi mi insegna com essa non solo sia virlu  ma che senza la sua compagnia veruna virlu si fermi denire al petto degli uomini  pero intendi bene pazienza con le mani tese  e non gia rassegnazione con le mani giunte  pazienza che si fruga in tasca per pigliare il coltello  non gia pazienza che cerca in tasca per trovarci il rosario   sopra lo uomo egregio non pertanto si posa un biasimo che affermato dalla malavoglienza e dalla sbadataggine  e non contradeito a bastanza  piglia col tempo fondamente e questo si versa circa al non essere comparso nel giorno della rotta sul campo di battaglia   onde in francia misero in dubbio il suo coraggio come uomo e le attitudine come soldato  da quanto esposi fin qui fu chiarito come credibile avvisi di assassinio medilalo lo dissuadessero da condursi sul campo di battaglia    e le insidie piu volte tesegli dai francesi  e dagli stessi slorici loro confessale  basterebbero a giustificare la assenza del generale  ma egli non era uomo da restarsi per questo  e la passala come la successiva sua vita lo palesarono incapace non pure di terrore  bensi di esitanza  egli non si mosse da prima  perche aspettava gli annunzi del comparire dei francesi  deciso allora di spingersi al ponte per sostenere le difese  dacche per veruna cosa al mondo avrebbe consentito  che i corsi passassero dalla altra  sponda e ingaggiassero battaglia col nemico all aperto senza riparo  troppo ci correva tra i corsi e i francesi per ordini militari perche polessero cimentarsi insieme con isperanza di buon successo peii primi  e il paoli animoso era molto  non pero temerario   quando un messo speditogli dal commandanie prussiano posto a guardia al ponte ando a ragguagliarlo che i corsi erano passati tulti su la sinistra sponda del golo senti trafiggersi da dolore e da sdegno  inestimabili   non senza tremito considero come quando la ora delle maledizione colpisce popolo cd uomo torna tutto funesto  e le dimore e gli ardori  mentre quando dio vuole  fabio e marcello stavano entrambi  comecche  considerasse che da questa mossa fosse per uscirne danno gravissimo  egli era ben lonlano da presagire la rovina che ne venne   pero si affreltava a riparare  quando per via gli sopraggiunse la notizia del tradimento di lento e canavaggia   poco piu oltre quella del comandante della milizia del ponte alla leccia  il quale come a suo luogo racconiai  soita pretesto di manco di veltovaglia non aveva mosso un passo  cotesto suo avvicinarsi al ponienuovo si rassomigliava alla via del calvario  ad ogni pio sospinto inciampava dentro un nuovo affanno  messi su messi gli portarono caccia avere aceollo per opera di un traditore i francesi e cosi essere rimaste rotte le comunicazioni con la balagna   la casinca anch essa per tradimento allagata dal ne mico  il quale accennava ferire di fianco   forse anco lagliare la ritirata oltre monti  che piu   le pievi di vallerustie  di giovellina e di orezza oggimai disperate  avere spedito uomini a posta al generale di vaux per soflomettersi ed essere ricevule in grazia del re  mentre i dolori della passione contristavano cotesl anima afflita  una mano di superstiti alla strage di pontenuovo laceri e mezzi  perche dopo avere salvato la vita dal fuoco avevano dovuto contraslarla all acqua  gli si fecero incontro schiamazzando      dove andate  dove andale  perche volete farvi ammazzare comeun cane   e orsone da tevera  chi era tra questi  ma non poleva cosi di leggeri riconoscersi a cagione di una fascia che gli bendava il capo mezzo sfracellato gli soggiunse      ah  generale  ve lo aveva pur delto  che i vostri incipriati avrebbero venduto la corsica e noi come cristi     orsone  sieie voi  e padre ber nardino         in paradiso  rispose orsone le vando le braccia al cielo     e       soggiunse esilando paoli qual chi a un punto trema si sivogge di sapere una cosa     e chi     il mio fratello clemente   alfin egli disse     lo lo ho veduto combattere di per tulto e sempre   quanto al fuoc non lo puo offendere  perche gli ciurmato   se non rimase ne  gol ve lo vedrete comparire dinanzi     allora il paoli raccolse quelle maggiore gente che pote  ci fu poce donde ebbe campo di argomentar la gravita della rotia  e si condu sero a corte   di uno sguardo conobbe  chi non si poteva fare capitale su i pc chi che lo avevano seguitato pi troppo sbigottiti e male in arnese posti alquanti soldati in castellc passo in vivario nel concetto dir tentare la fortuna della guerra ci terzi di oltremonti     f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+   <div n="11" type="poe" xml:lang="co">
+    <p>
+     a un imbastarditu  dipoi chi in francia tu so  sbarcalu   o amico  ciu nun so perche   di la corsica ti no se  scurdatu e parli lu francese a piu pude   quandu dumandanu di u to  paese    nun li vergogni lu di fa cusi     cu lu piu schiett accentu marsigliese  rispondi    moi   mais je suis du midi   ne  ti parenu piu esse naturali di chiamu un italianu   maccaro    eppuru i toi i cugini carnali  ne sonu a lucca e micca in  ssu tulo    perche  quellu chi ti cunosce bene so chi un to  babbitone era luscanu   chi u sangue chi corre in le lo  vene e di lu piu schiettu sangue  lalianu   tu ti dici francese patriotta   ma mancu corsu  o bastardo  nun se   e lu ultimu sbarcatu   nexriotta    e francese di razza quanl e te   aid  aio   lasciami  ssa menzogna  quellu chi lu so  sangue vol  niga   quellu chi di u so  babbu si vergogna e ana bestia indegna di campa    eppo  perche fa di manu e di pede   i francesi cusi scemi nun so   malgradu tuttu  ognunu qui si avvede chi a torlu dici a li altri   o lucchiso    in francese fatti la to  cantaia   per italianu ognun ti piglia qui   quandu vedenu chi la to  casata cume spaghetti finisce per  i  
+  s
+    </p>
+    <docAuthor>
+     M. Alessandri di Chidazzu
+    </docAuthor>
+   </div>
+   <div n="12" type="poe" xml:lang="co">
+    <p>
+     u sumere  andendumine pe  a strada pensosu   ad ogni cosa indifferente e fieru  pensendu a quesiu mondu orgugliosu  ascultendu lu acellu messageru   truvai in mio caminu un omu estrosu chi battia senza nisun penseru   un sogu per chi fatiu dilettosu   u so  mischinu e povaru sumeru   li dissi    perche bafle st animale senza pietai   chi ha fattu di male      chi eilu sumere un si fussi fattu      poslu chi ell e peccatu  eiu pensai  quant e nasce sumer  che nasce schiavi  altru un vurrebbi di in stu sunettu   di  paoli
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="13" type="poe" xml:lang="co">
+    <p>
+     nun dubita       corsica bedda  di me un dubita    a la to  terra so sempri fideli   luntan  da te nun pudia piu sta   so rivinutu sottu a lu to  celi   so rivinutu  e  cio chi mi resta   a li to  pedi mettu cun amori   comu si metti  a nn ghiornu di festa a la madonna mazzuli di fiori   so rivinutu  e  a bracci sparti mi hai ricivutu  cursichella amata  dendumi basgi da li dui parti  cu la to  bocca fantu profumata   so rivinutu  per le pien  di affettu   e mora vogliu sopra lu to  pettu   si  di san jorghiu
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="14" type="art" xml:lang="it">
+    <p>
+     s  gregorio e lo assestamento  espicopale  dell  isola  s  gregorio ordina a pietro vescovo di aleria la fonda  zione di una nuova chiesa    come abbiamo gia narrato  1   aveva s  gregorio ordinato le erezione di un primo monastero nell isola di corsica  ora si occupa della costruzione diuna basilica  e del relativo battistero  in una regione detta wigeuro  o anche negeugno  da un monte di questo nome  il quale dominava il paese  una parte di quella regione era posseduta dalla chiesa romana  naturalmente per religiosolegato di qualcheillustre famiglia cristiana della isola   e si denominava cella cupia   in loco nigeuno  in possessione qua cellas cupias appellatur iuris s  romana ecclesia  2   vuole che la basilica sia dedicata a s  pietro  e il battistero a s  lorenzo martire  a fine di attirare le anime a dio  pro lucrandis animabus fundari precipimus  3    la lettera e rivolta ad petrum episcopum  al quale da ordine di recarsi subito in quelle parti e di consacrare solennemente je dette chiese  ma di chechiesa era vescovo codesto pietro  un solo codice  vatic  b   a detta degli editori benedettini  riferisce  episcopo aleriensi de corsica tuttiglialtri  ben numerosi  dicono solamente  episcopo de corsica  4    noi sappiamo gia  che il vescovo di aleria  nominato nel 591  si chiamaya martino  l ipotesi  che questo pietro sia ora vescovo di quella chiesa  supporrebbe che il suo predecessore fosse morto   cosa pur probabile dopo lo spazio di cinque anni  d altra parte la chiesa di mariana  allora certamente costituita  si trovava in condizioni topografiche piu acconce a cio che il suo vescovo compisse le ordinazioni del s  padre a cagione della sua maggior vicinanza con i luoghi dove fu inalzata quella basilica  quindi tra per cio stesso  e per non trovarsi che in un codice solo la appartenenza di questo pietro alla chiesa di aleria  giudicherei piu vonforme al vero  chi egli fosse vescovo di mariana  trovandosi pero esplicitamenie menzionata in un codice tanto autorevole com e il codice vaticano  la chiesa di aleria  criticamente si deve stare alla sua indicazione  nel quale caso pietro sarebbe succeduto a martino nella sede episcopale di aleria   intorno alla situazione e alla topografia del monte nigeuno  di valle cupia  e della detta basilica  ci sembra di poterle riscontrare senza dubbio nell attnale monte di s  pietro che si inalza tra le valii di orezza e di rustino e nel paese denaminato s  lorenzo  il quale si trova alla destra del golo tra morosaglia la porta  orezza  omessa   donazioni a monasteri per documenti di incerta origine   la sicurezza di questa sicura identificazione proviene da documenti curiosissimi  conservati e riferiti dal muratori nelle anfichita italiche  dove si leggonomolti e molti atti notarili di donazioni fatte da piu personaggi della corsica al monastero di montecristo e alla badia di 5  pietro e di s  stefano di venaco    ove abitava le abbate con li monaci camaldolesi    5    rinvenire e spiegare il bandolo di tutta la matassa di quei documenti  e cosa impossibile  6   ma la loro anti chita e manifesta  devono essere stati composti in ternpo antichissimo originalmerte e scritti in un latino assai scorretto  e tradotti poi in volgare  pisano verso il 13oo 14oo  nella quale versione  attesa ja scarsa cultura del tempo  sono entrati errori palpabili di date e di persone  7  ma i dati topografici  i nomi dei paesi  e delle persone contraenti  che visi contengono  sono di un autenticita evidente  poiche si ragguagliano per la massima parte alla geografia e all onomastica tuttora vivente dei nostri giorni       vaiga come saggio il tenore della seguente   donazione di ms angelo conte di corsica  e di giulia contessa sua madre  quali donano all abb  giovanni  abb  di 8  stefano di venaco piu tenute di terre  falta nella casa del conle nella valle di ruslia per mano di ser alberto nolaro imperiale  lo anno del signore 6oo  indil  2  come in carta pecora originale appare et in piu libri nell archivio di s  michele in borgo di pisa  segue la quotazione archiv     donano alla badia di s  pietro e di s  stefano di venaco piu fenufe e ferre  nell fsofa di corsica  in luogo di venaco  luogo detto di boscio  lo piano dello salice  e lo piano detto zingaio con li suoi confini   chiese e beni distinti in piu luoghi di venaco  di talcini  di giovellina  di ruslino  e di valle rustica e merosaglia   chiesa e badia di s  pietro e s  stefano di venaco ove vi abitava le abbate con li monaci camuldolesi  chiesa di    maria di corti  membro di s  stefano di venaco  e tirava le decime di ogni cosa      chiesa di s  angelo di cuppa nella valle di rustia che avea di entrala terra e vigne    valle rustia  ove abitano li monaci camaldolesi       beni di valchone sottoposti a s  angelo di cuppa        beni del fiuminale chitincho con il suoi confini sottoposti a s  angelo di cuppa      beni di merosaglia confinati alla pinella   e colla  9  per strada et esce    e fala  9  per poggiale e mette il gargalo all alequa che fala per il prato di merosaglia  1o    in altra donazione  si parla di un  contratto rogato da ser filippo notario  fatto in mariana  lo anno del signore 4o1  regnando il re berlinghiero  nel qual tempo fu fondata la suddetta abbadia  di s  pietro e s  stefano di venaco     in altra  successa  nell anno del signore 5 o   si menziona   berlinghiero re signore di  sardegna e di corsica    forse piu corretta e la seguente   donazione del sig  simone conte signore di corsica  panno del signore 836  indizione 5  fatto per mano di ser marco    notario imperiale  copiata dalle esemplare  antico da ser boccaccio del fu pancrazio della pieve di aijesani  lo anno del signore 1433    con lassare di essere sepellito nella chiesa di s  benedetto e di s  zenobio del cavo di aleria delle ordine  di monte cristo   tutti i nomi dei paesi  accennati in questi documenti  sono tuttavia riconoscibili nella geografia attuale della isola   come puo scorgere chiunque confronti una carta geografica alquantoragguagliata della corsica  i nomi delle persone indicate  salvo quel re berlinghiero  sono tutti storici  non si puo dire lo stesso delle date  sono errate od assurde quasi iutte  i camaldolesi non esistevano prima del sec  xi  e nell isola di corsica  prima del591  non ci era nessun monastero di monaci  conforme abbiamo udito dallo stesso s  gregorio  insieme con gli anni sono pure sbagliate tutte le indizioni   11     cosi dunque quel monte nigeuzo  alle cui falde s  gregorio fece erigere una nuova basilica  e le attuale monte s  pietro  denominato evidentemente dalla basilica consacrata al principe degli apostoli   come il battisteroindica le attuale borgata di  s  lorenzo   situata a circa 8 kilometri dalla antica  chiesa  deve pure il suo nome al battistero fatto allora fabbricare  la basilica divenne piu tardi la chiesa episcopale di accia  come vedremo piu innanzi  a  tempi della dominazione pisana nell isola  12   la quale fu poi incorporata nel sec  xvi alla sede di mariana   13  se ne conservano tuttavia le fattezze ben delincate nelle rovine con lo episcopio o presbiterio annesso  memorata nella lettera di s  gregorio  14  
+  s
+    </p>
+    <docAuthor>
+     Ilario Rinieri
+    </docAuthor>
+   </div>
+   <div n="15" type="div" xml:lang="fr">
+    <p>
+     giurnali baccala per corsica la EUR f d nous informe lres discretenent que la section ferroviaire ghisonacciasolenzara sera ouverle au public je 45 sepembre c est bien limidement que la chose est faile et in nouvelle nous en arrive comme un aveu confus   c est loul de meme quelque chose dans notre pays ferroviairement desherite qu un nouveau lronvon de ligne si reduil soit i  imagine t on ja ligne bastia ou ajaccio sarene inauguree aux cuvirons de 1895 par exemple  c est a dire a pepoque ou elle eut du l etre se represente l on ia ceremonie egitimement organisee pour un lel evenement  et ce meme pauvre lrongon de 20 kilometres inaugure quarante ans plus lol cut merite quelque officielle ceremonie mais au jourd hui il nous est livre sous le manteau silencicusement  e et cela plus que loui revele l extreme bumilile qui est la marque de tout ce qui nous touche dans le domaine du progres mais passons  ainsi done il aura fallu quarante neut ans pour oblenir 26 kilometres de voice fer ree sur un projet qui en 1874 comprenait  4 la ligne de ponte leccia a calvi qui existe 2 ja ligne de casamozza a bonifacio laquelle s'arrelait a ghisonaccia ou le nouveau roncon prend son amorce jusqu a solenzara 3 la ligne ajaccio propriano dont nous reverons encore longtemps sans doule  a ce rylhme la on devine le millesime probable de l annee qui verra mises cn aclivite les lignes precitees el dont le projet remonte a 1879 au total 500 kilomeires en chiffre rond  ne faisons point de calculs proporlionnels cela nous donncrait quelque chose comme deux annees pour un kilometre soil environ dix siecles  qu est il resulte de tous les rapports de toutes les enquetes de toutes jes manifeslations qui s echelonnent sur des annees et des annees tout au long de celte fameuse question corse qui en 1930 demeure encore entiere absolument entiere   la nouvelle corse  prugressu   nous n avons point progresse parce que pour etre deparlemeni francais il est besoin d etre riche et nous avons le ori d'etre de bien pauvres gens  nous n avons point progresse parce qu en temps que departement francais nous lenons  comme les autres font  a fuire de la politique la politique n a jamais tue un pays  elle lui est necessaire nous avons le fort d en faire une qui tue le notre  nous n avons point progresse parce que nous nous sommes reposes sur les hommes de celte politique de l etablissement et de la realisation des susdits projets de relevemeni   la jeune corse
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330950q
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330950q
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 400 | Année 11
+     </edition>
+     <date>
+      1930-05-18
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     gu Xi — Numaru 400  Esce a Dumenica  Dumenica 18 Maghiu 1930  GIURNALE DI E PIEVE DI CORSICA  — ABBUNAMENTI : 15  in Corsiea. + tt . - 18 »  In Francia. . ste tt 1 .. 30  Unione postale « « + + + «~~~  U Numaru:5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  38, Corsu Grandval 88, — AIACCIU  Contu currente cu a posta — Marseglia 45,52
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     un male e un bene  aviamu speratu inde i delegati di corsica una cuscenza corsa   cuntrariamente a ste nostre speranze  una cunsequente maggiurita di questi  parte guidati da un disgrazievule spiritu di  partitu    parte mossi da i menu ludevuli appititti  ha elettu cume rapprisentente di a corsica a u senatu francese u furestere e incunusciutu lederlin   certe persone  intusicate ugualmente da ssu spiritu puliticanciu  si lamentanu di  a so  disfatta   unn intendimu  noi di 4 muvra  fa parte di  ssa catteguria di addisperati chi cercanu una cunsulazione in le imprecazioni o in la pros pettiva di aprossima rivincita  unn avemu vindette  unn avemu rivincite a piglia  perche  tuttu cio chi e puliticaccia ci ripugne  era semplicemente u nostru spiritu cursistu chi ci purtava a spera in un resultatu cuntrariu a quellu di u scrutinu di li ondeci maghiu   di tuttu u cuntinente francese  seranu sicuramente i  vosgiani i piu stupiti all an  nunciu di a miglior furtuna di u cumpatriotta chi ellu hanu rispintu malgradu a so  situazione pulitica  industriale e finanziaria  doppiamente stu  piti seranu  si  leghiendu qualchi fogliu lederlinofilu  ci vederanu chi ell e statu   acclamatu  da una  folla in deliriu   carcatu a fiori e purtatu in trionfu  a so  bona opinione sopra i corsi un pu dara manca  e duvemu perdunallali  postu chi elli so sicuramente cunuscenti di i mezzi chi  ssu novu cresu po ave impiegatu per ottene in corsica   duv ell era  tutalmente incunusciutu  cio chi l e statu impussibile qualla   ma i vosgiani  e cun elli tutti quelli di a grande ii glia piu o menu  pinzuta  un devenu micca ignura chi a voce di 426 delegati unn e micca a voce di un populu sanu  li femu sape in piu chi sti detti delegati so stati eletti elli stessi in lu piu discurdente parapiglia e teni municipale di iso  paesi rispettivi a scelta di a piu parte unn e stata altru che u resultatu di una serie di cumbriccule intricciate  dapoi qualchi tempu da una  manata di impresarioli di a pulitica  e questi sapianu benissimu  per so  torna contu  e dipoi bonu tempu dino   l in dustria di a pulitica essendu a sola chi fiurisce in corsica   cio chi ellu duvia esse u can  didatu  cio chi ellu duvia esse elettore incaricatu di eleghielu  e cio chi ella duvia esse le elezione   cu certe leve  per cusi manighievuli pesi  u scandalosu resultatu un pudia  manca  parla di amore patriu  di onore di a razza o di vergagna cu certi jente chi si arripiccanu a robbe piu terrane e  e stata quant a di   signore  parateci  sse vacche  tantu piu chi e vacche eranu manzi appitittati sta volta e vulelli para quand ellu eranu di nasu sopra una savurita pruvenda   ohimella   inquant a li acclamazioni di a folla  i fiori e lu intusiasmu   parlemune   di altronde  zi ne averebbe pensatu u sottueroe di u jornu  peru quale a veghia di u scrutinu era stata tutt altru che sinceri augurj o segni di disinteressatu attaccamentu  e ancu  fra i piu favurizzati di a spurtina  scarsi funu quelli chi ebbenu lu appiombu di abbracciassi in cartughiu da u jubiliu   unn essendu abbastanza cummedianti u coricellu impedia di culla in faccia a mascara di a franca cuntentezza   si ellu ci fu una folia  una voce di cio chi omu po cia 1 populu corsu  questu  per  contru  un piatto a so  ludevule opinione  vergogna  u furestere  un ci e piu corsi  que ci basta per affirma chi u spiritu cursistu un po more anzi  chi ellu tirera sempre avanti  dunque  cu u nostru dispiacere di ave assistitu a un svergugnatu gestu di certi nostri cumpatriotti  simu lieti di ave pussutu registra un acquistu morale chi  ellu  face parte di le iricurruttibile 
+  s
+    </p>
+    <docAuthor>
+     Altore
+    </docAuthor>
+   </div>
+   <div n="2" type="poe" xml:lang="co">
+    <p>
+     a e legne  maghiu bellu  di lume chiaru scialba u boschettu di scopi e di filette   una banda di attive giovinetie so quindi a busca legne  temp  a la alba   hanu mille mianere grazioselle   cun la vincula in manu e la vitalba    e volanu le allegre canzunette   fra l odor  di e viole e di la malba   senza sforzu  si ponenu  ridendu   poi partenu in fila chiacchierendn  spaurate  per viottilelle appese   si pa di chi ell e sabatu dumane   sbonorate  hanu da coce lu pane   a i pochi forni chi ferma in paese 
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     decadenza  quand e  dicia chi a francia era in piena decadenza intelleitnale  un dava micca tutti li argumenti sopra stu suggettu  perche questi so troppu numerosi  oghie  bogliu ripiglia unu di si argumenti  pusendumi a un puntu di visla piu restrillivu  quellu di a decadenza intellettuale ind e cose pulitiche   un paese e decadente se  avendu qualch idealismu puliticu  espostu chiaramente  ellu unn ha micca a forza di vule fa un applicazione esalta di le ide e chi ella ha pruclamatu   spieghemuci    cumu ammette chi un populu intelligente supporti dirogazione custante a cio chi ellu ha dicchiaratu esse i so  dritti i piu sacri  chi ellu e supporti senza pare accorgesi chi  elle esistenu   cumu spiega questu  in fora di una diplurevule debulezza di u spiritu    andemu piu lunlanu  chi pensa di un populu chi mantene principj  istituzione  di i quali le applieazione e verificata impussibile  ponu  introducesi circustanze ecceziunale chi impediscenu un  istituzione  eccellente da per ella  di funziuna cum ella deve  ma so istituzione chi unn  arrivanu micca a funziuna  ancu in periodu nurmale  simile istituzione so dunque gallive  si elle so gattive  omu deve mudificalle   si elle un so micca mudificate  e perche u spiritu pubblicu e incapace di cuncepi qualcosa di megliu  sta incapacita e un segnu di vera debulezza mentale  sia debulezza mentale e un segnu di decadenza   forse si dicera   u spirilu pubblicu un po cuncepi nulla di megliu  perche ellu un cerca micca e si accumuda cu i danni attuali  rispunderaghiu   si ellu un cerca micca  e dunque chi ellu un bole micca dassi st incomudu   ci e pigrizia pura   altru segnu di devailenza   ava  qualchi esempj  per fa a prova chi tutte  st osservazione so applichevule a u populu francese   ellu ha tulleratu e piu cunsiderevule lacerature a a famosa declaration des droits de le homme et du citoyen   a dichiarazione pruclama che la imposta deve esse liberamente accunsentita da quelli chi a paganu   omu deve capisce sla parolla   imposta  ind un sensu largu   i diputati di a custituante capianu   tulta gravezza imposta da u slalu a i ciltadini  se a dicchiarazione ha dettu   imposta  e perche la imposta cra allora lu unicu incomudu chi u statu vulia impone a i francesi  di u cun trariu saria una argumenlazione zitellina e cuntraria a tulte le ide e ri   voluzionarie  adunque  e sicuru chi  tuttu incomudu  eve esse accellatu  vulenteri da quelli chi u supporlanu  eppuru  e guerre di a rivoluzione creonu  in pocu tempu an  altra necessita  quella di riclula un gran numarudi suldati  li avrulimenti voluntarj unn essendu piu sufficienti  a cuscrizione fu decretata  e guerre imperiale custrinsenu a mantenela  questa duro sin a chi a legge gouvion saint cyr venissi a regula a situazione e rendela permanente u serviziu militare era natu  ellu chi ha tantu cuntribuitu a spopula a nostra cara corsica    da quale u serviziu e suppuriatu   da i zitelloni di vint anni  da qual     vulatu   da i rapprisenlenti di le e ettori  vecchj di almenu vint unu an u e chi so stati dispeusati di u ser viziu  o chi gia lu hanu fattu  postu  chi i suldati un ponu vuta appar  di    rei  i scemi e    e donne  chi ponu  fa qualchi aggiurnati e qualchi szrsitaires  ra sta massa di omi chi un so micca interessati da ne serviziu   in piu  un si deve micca teme chi li elettori chi hanu faltu u serviziu voglianu dispensanne i giuvanolli chi un lu hanu ancu fattu  ci e una custatazione di psicologia universale  li omi amanu be vede li altri suppurta e noie chi elli stessi hanu digia suppurtatu pero un si po cunesta chi u serviziu e suppurtalu da quelli chi un ponu vuta  u graude principiu di u quale parlavamu prima e viulalu e i francesi un parenu accorgesine  i  altra cosa  ognunu sa chi una derisione e custituita da a triplica divisa  liberte  egalite  fraternite  e una derisione ind u duminiu di le ide e  si li omi so obligali a risla uguali  ad amassi l un  pallru nn so piu liberi  si elli so liberi un si ponu impedisce di elevassi l un  sopra lu altru e di ave l un per lu altru sentimenti  pocu fraterni  e una derisione ind u duminiu di i fatti   sli fatti so innumerevuli  e postu chi aghiu parlatu di i militari  so dino elli chi mi proecureranu un esempiu   i militari un ponu vuta  perche   perche si teme chi e dispute pulitiche mettinu u disordine inde la armala  ma se ci dispule pulitiche mettenu u disordine inde la armata  perche elle un lu metterianu inde li amministrazioni inde tulla impresa chi richiede a coesione e a disciplina da a parte di quelli chi ci so impiegali   adunque  o a pulilica crea u disordine e deve esse suppressa  o a pulitica un crea micca u disordine e si deve tullera inde la armala   la uguaglianza esige queslu   eppuru  quelli chi lenenu simili vagiunamenli  so detti estremisti  si o no  elli so logichi   quelli chi lu accusanu banu lislessi priucipj  ma riffutanu papplicazione integrale  chi ha ragione  fra quelli chi ammettenu tulle e cunseguenze diese  ide e  e quelli chi rispinghienu una parte di ste cunseguenze senza vede chi u principiu e diminuitu di altrettanlu    altra cosa ancora  a suvranita di u populu  e chiara chi  ind un paese slesu e pruvistu di parecchj milioni di abitanti  u populu un po micca pralica direttamente sla suvranita   ellu a delega a rappresententi  ma perch ellu fermi veramente suvranu  bisogneria chi ellu abbia sopra sti rappresenlenli una putenza di cuntrollu e di sanzione  ov u parlementariu clellu  in francia  po tradi a fiducia di i so  elettori  ci un tene nisuna di e prumesse faite ad elli  senza che li infelici rapprisentati possanu nunda inversu di ellu  sara micca rieleltu  forse  ma u dannu fallu ristara e insomnia u po pata e suvranu un ghiornu sopra quattr anni   in qualchi altri paesi  special  mente in svizzera e in germania  ellu po fa sente u so  pare sopra e quistioni chi lu interessanu u piu cu i plebisciti  in francia  un si e mai tentalu seriamente di insiaura sla regula  perche   quandu i deputati so eletti  u populu di francia e inchimerratu  e u bellu dogma di a suvranila populare e ancora una derisione  una derisione a a quale un si cerca micca rimediu   parlemu un suppulellu di u parlamentu  un ci arreghieremu micca ad cnumeranne tulti i scandali chi ellu cagiona  lutte laziuncelle chi ci so  cummesse  ogn unu ne e slumacatu e ogn unu e supporta  cuntentendusi di pruteste platoniche  senza vule cambia nunda inde sta deplurevule cundizione di e dose  senza esamina un rimaniamentu tolale di le istituzione   paura di cambiamenti  incapaci  ta di la imagina  incuscenza di li abusi e di la illegalita  scordu di e cunquiste essenziali di a rivoluzione   eccu i guai di u spiritu publicu in francia   noi  corsi  avemu piu vivacila ind u sangue  un piu grande amore pe  a vera liberta ind u ciarbellu  inlanlu  palimu cume li altri di sli guai   per quandu u soprassalin eroicu chi ci permettera di esse noi slessi  e di sviluppacci secondu u nostru geniu propriu  in fora di li ostaculi cagiunati da un spiritu publicu in intiera decadenza 
+  s
+    </p>
+    <docAuthor>
+     U Balaninu
+    </docAuthor>
+   </div>
+   <div n="4" type="div" xml:lang="co">
+    <p>
+     impicci e  mbrogli  pastizzu  le ispettore di e fraudi ha fattu publica da i giurnali di ajacciu un avvisu amministrativu in lu quale ellu ramenta a i marcanti di bebite chi a legge diu 17lugliu 1922 e u decretu diu 24 ottobre di u stess annu pruibiscenu a fabbricazione  a vendita e a circulazione di lu assenziu   di i licori similarj  chi e cutravenzione a a legge saranu punite  a  richiesta di lu amminisu azione di e cuntribuzione indirette  di e pene previste da e legge di u 1872 e 19o7 e  a  richesta di u publicu ministeru  di un amenda di 5oo franchi e ane u di a chiusura di i caffe  bar  ecc     16    ma  drentu e fora  in tutt i stabilimenti ajaccini  u pastizzu fala a fiumare in le jargaueile di i clienti e i funziunari incaricati di le applicazione di a iegge un so micca di li ultimi a imbutrassine sin a   qui   attuscatevi  o corsi  chi marianna un ci po truva che prufittu    cursismu  u nostru caru cumpagnu di fede franchi  in lu so  ultim articulu di a muvra  facia risorte justamente u carattare cursista di a campagna di opposizione a  candidatura esotica di u sgio lederlin   infatti  in piu di un scrittu  truvemu un accenu a u patriottismu corsu     la corse se doit  aujourd hui de saisir la providentielle occasion de donner une haute et grande lecon a ses detracteurs  cusi scrivia u principale giurnale di u partitu pietri     votre fierte ancestrale mettra les maguignons en deroute  vous sauverez l honneur de le ile de beaute    pour l honneur de la corse  votez pour un corse    aux urnes  pour la liberte et le independance    vive la corse   cusi scrivia  a vigilia di u scrutinu  u sgio caitucoli  candidata    vous vaincrez  e votre victoire  monsieur le president  sera beaucoup plus la vicioire de ia corse immortelle  que celle di un parti et di  un homme    vous vaincrez  parce que si l or di un milliardaire etranger a notre pays devait venir a bout de nos resisfances  de nos reactions nationales  la corse devrait porter le deuil eternel de son honneur perdu    cusi scrivianu  indirizzendusi a u sgio gavini  u cunsigliere generale et i delegati di ajacciu   un saranu  ste parolle  che ciarlattanate di periodu elettorale   un la velemu crede  un la pudemu crede   a paga  sempre in forma di prutesta   naziunale   un cumbattente di a grande guerra ha stampatu in un giurnale l6cale una pagine di e so  memorie    il y a quelques annees  j etais en lorraine  j y etais non pas en tourisfe  mais en humble defenseur di un patrimoine qui ne etait pas le mien   questu e u  capellu  di sta pagine di una litteratura chi appare abbastanza cundita di cursismu   ma eccu il bellu     a bout de force  je mi adossai a u fronc di un sapin   a quelques pas de moi  le tumulus di une tombe attira mon regard  la mort  les tombes  ci e taient la grande curiosite du combattant  je mi approchais et  sur la menue croix de bois  je pu lire     comiti  373  r  i     un nom corse  certes  en lorraine   des noms corses  il ne en manguait pas dans les cimetieres et jen avais tant vu  mais celui ci  a ceffe heure ou la volonte me trahissait  la  pres de moi  comme un encouragement  je relus   comiti    je revis  la serra aride de la montagne sartenaise  le roc caicine ou ce malheureux avait di voir le jour  la maison de granii sombre ou la mere en deuil  de ce deuil eternel des femmes de chez moi  pleurait et  sans doute  pleure encore et je me demandai      pourquoi   pourquoi fout ce sang corse verse ici   qui donc jamais nous le revaudya    pensee impie  aujourd hui les lorrains payent leur dette   ils nous donnenti lederlin    prutesta  di altre prove chi a battaglia gavini   lederlia era altra cosa che a lotta tra dui omi o dui partiti pulitichi  so state e pruteste chi noi altri di a muvra sempre a la infora di e cumbriccule di campanili  avemu ricivute   fra queste  una di e piu eloquente e stata quella  fattaci per dispacciu  da nizza  da un corsu di veru ceppu  a vigilia di u scrutinu      petru rocca muvra  ajaccio   lutfe engagee entre descendants des victimes de pontenovo et leurs adversaires le succes de ces derniers serdit le deshonnenr de le ile aimee   louis donati    un so micca uni pochi di sacchjttaghj chi ponu onora v disonora a corsica  e  in india  si e vistu chi in quattru spalate  a prutesta di gandhi  principiata cu a simbolica raccolta di u sale  ha prestu toccu u realismu di le arcusgiate   u capu di i naziunali  rinchiuse in la prigio di poona  avia scrittu una siconda lettera a u vicere di la india pocu prima di u so  arrestu   gandhi cummencia a so  lettera a lord irvin cu e parole  car amicu  e yannuncia a so  intenzione di impusessassi di u depositu di sale di dharasana  e pussibule per voi  dice gandhi  di impedi a nostra impresa di duie manere  prima  cu a suppressione di a tassa sopra a u sale  sicondu cu u me  arrestu e cu quellu di i me  vuluntarj    calme e fiere parole chi li indiani patriotti sanu capi   e bella lezione per quelli chi so capaci di accetta la eterna servitu di una razza 
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="5" type="let" xml:lang="co">
+    <p>
+     lettera da parigi  caru pipistrellu   aghiu riciontu a  1o  risposta chi mi ha faltu gran piacere  e  senza piu rilardu  ti vogliu risponde   mi dici che tu se in bona salute ne so tantu cuntente  e ti facciu sape chi noi  cume salute  ne avemu ancu da vende   ti lagni  caru amicone  di quelli gracchiamenti di i corbi impinqutiti chi facenu risposta ad ogni belu di a nostra muurarella cara  cosa voli  e u destinu jfatale di a jenle onesta di ave tutti ladri appressu  eppo  si i corbi ci rispondenu  e bonu segnu  cusi omancu si vede chi ellu hanu inte su anostra voce  e  si elli meltenu tantu ardore a cumbatteti  e se  gnu chi di noi ne hanu a pauraccia  ma chi ti faci taniu gattivu sangue pe sti gracchianmenti di corbi famiti   un vedi chi u populu un li piglia piu a u seriu  ognunu sa chi elli so una mansa di servi chi abbaghianu a piu pude per meritassi a pruvenda chi elli li furniscenui padroni  ah  cun chi ardore difendenu a  grande patchie   ma ciin chi velocita a lasciarianu casca dumane  si per elli nun ci eranu piu sti picculi  favori  st impieghi  sti galloni  i ste pensioni    noi avemi  una patria  uiia sola  una vera  a corsica  ma elli  tutti sti partigiani di a  grande patchiex  elli un ne hanu mieca  a patria per elli  e a brinnata chi ella li serve marianna   ifacchini  caru pipisirellu  so sempre stali e saranu sempre facchini  elli so nimici di i naziunalisti corsi di oghie  cume i so  antighi eranu nimici di i naziunalisti di tandu  elli servenu da schiavi a francia  cum ellu avarianu serviti genuva se noi eramu sempre genuvesi  e cum elli servarianu dunmane u giappone  si a stostra povera isula cambiava un altra volta di padroni   dunque  caru pipistrellu  lasciali gracchia sti corbi maladeiti  elli so troppu vicini di u chermugliu puzzulente per chi no  li diamu capu  un circa mancu di cunvinceli  ci servarianu  cum elli servenu li altri  cu a speranza di un altra pruvenda   abbastanza chiacchiaraty per oghie  ci e catalina chi der fammi arrabbia mi canta a   marsigliese  accumpagnendusi cu a me ghitarra  un dicu nulla  perche so chi ella a face apposta  quandu lu avaraghiu datw un basgiu  mi cantara   cursichella    e der un altru basgiu gridara ancu    abbassu lederlin e a sacchetta si  intantu  ella ti manda tanti saluti  ed eiu ti abbracciu fraiernamenie    u    u to  amieu e cunipagnu di fe de  i  
+  s
+    </p>
+    <docAuthor>
+     M. Alessandri di Chidazzu
+    </docAuthor>
+   </div>
+   <div n="6" type="art" xml:lang="co">
+    <p>
+     i servizi marittimi  u scandalu di i servizj mariltimi accapa di menu in ment le opinione publica  distratta da a lotta elettorale da una parle e allunianata da sta spinosa quistione da u silenziu di a slampa e di i rappresen gnii   una requisitoria fatta da noi saria stala  benche precisa  lassata di parzialita   ci cuntentenu dunque di mette sotta li occhj di tutti u rapportu presentalit a u nome di a cunimissione speciale di i servizj marittimi sopra a quistione di a maggiurazione di i prezzi e accettati da a camera di cummerciu di bastia in la so  seduta di u 22 matzu sconsu  a mi  stu rapporiu e un veru documentu chi face risorte a vulunta di u statu di riduce u populu corsu a a piu cumpletia miseria di manera a pudellu mette piu facilmente in lu chiassu di la impiegheria 
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="7" type="art" xml:lang="fr">
+    <p>
+     en examinant l ensemble dela question des services maritimes de la corse tels qu ils fonctionnent actuellement on aboulil a celle double constatation   1 l exploilation des lignes de la corse par la compagnie fraissinet est deficitaire    e en raison de ce deficit 45 millions 300 000 francs pour l annee 4929 l etat se voit obliga de majorer les tarifs     cette solution ayant donne lieu a votre di liberation du 10 fevrier dernier aux termes de laquelle vous avez protesie contre toute augmeritation des tarifs votre commission chargee de l examen de cette importante queslion doit devoir vous soumeilre les considerations suivantes qui ont pour ohjel   1 d etndier les moyens de reduire ce deficit  2 de faire ressortir que les majoralions de tarifs ne peuvent avoir d autres consequences que d augmenfer le deficil tout en aggravani la situation de la corse n  la compagnie fraissinet assure fexploitation des lignes de la corse aux conditions ii xees par la convention du 11 mai 1927 u en execution de cette convention la compagnie fraissinet s est vue dans l obligalion de remplacer les vieux navires en service sur ja corse par de nouvelles unites c'est dans ces conditions que la valeur totale des paquelots iberia corsica numidia servant de base au calcul des annuites d interet qui etait de 635 033 franes en 4926 s est trouvee portee avec les paquehots cyrnos cap corse ci ville d ajaccio a 45 millions valeur qui s elevera a plus de 60 millions avec pie de beaute la charge de ce capital elant de 42 jes depenses d'exploitalion se trouverit majorees annucllertent de 7 millions ce qui constitue la premiere partie du deficit  en ce qui concerne la mise en service des pouyeauxx paquebots il convient de declerer qu exceptioa faite pour l ile de beaute  qui ne presente aucunc utilite pour les usa gers de pile  les nouveaux paquebots qui desservent actuellement les tignes de la corse sont venus remplacer rois navires usages qui etaient arrives au terme de leur duree de navigabilite  cette mesure s imposait aussi bien ali point de vue de ia securite des voyageurs que des conditions d exploitation du service  le nombre et la capacite des nouveaux pa quebots ont ete fixes en proportion des lignes a desservir et en rapport avec les necessites du irafie  la convention qui lie la compagnie a l etat a determine les conditions d'amortissement de ces nouvelles noites i ne saurait etre question aujourd hui de reprendre la discussion sur ce point mais il ne parait pas iuylile de faire remarquer que l etat vient de mettre a la disposition de palgerie quatre nonveanx navires valant 223 millions a un  arif de jocation des plus avantageux  l autre partie du deficit tieni a l organisa tion generale des services d'une parl a l existence de lignes a faible rendement el d autre part au mode d exploitation  la chambre de commerce de bastia se basant sur le rendement voyageurs et marchandises  de chaque ligne a depuis longtemps signale la necessite de rednire dans la plus large mesure possible les lignes deficitaires et demande que dans l organisation des services maritimes il fut tenu compte du coellicieni d exploitation de chaque pori c est en effet en assurant des services mixtes passagers et marchandises que les paquebots alfectes aux lignes de la corse peuvent compenser la depense afferente a chaque traversee  dt or dans l organisation acluelle des servi ces on constate que ce sont les lignes pro ductives qui par suite de l'application du tariis kilometrique supportent les tarifs les plus eleves pour les passagers comme pour les marchandises  cette situation que l on eesaie de justifier par des considerations touristiques cree un veritable desequilibre dansle fonctionnement norfnal de no services maritimes et doit etre retenne comme l'ime des principales causes du deficit actuel    s il etait exact que l accroissement du nombre des voyageurs pouvait avoir pour resultat de diminuer ce deficit ce n est que per une etude plus approfondie de la question et apres une experience que la chambre a propose de fixer a deux ans que lon pourrait avoirles elements suffisants d'appreciation   neanmoins sans tenir pour definitifs des chiffres qui ont ete donnes en ce qui concerne le deficit annuel il m y a amenne difficnlte a admettre que fexploitation des lignesde a corse donne lieu a un deficit mais en ver tu du principe de ja solidarite nationale el du role que jouent les services maritimes de lu corse il faul admeltre en meme temps que ce deficit doit etre mis a la charge de v etal au meme titre que les dilicils d exploitution des reseaux ferres   la chambre de commerce de baslia s est depuis longtemps allachee a faire prevaloir ce principe que les lignes maritimes qui ralfachin4 nolre he an continent doivent etre considerees comme le prolongement du rail  en posant ce principe la chambre a tenu a revonnuilre aux lignes de lu corse un caractere d interet general et de liaison interdepartementale mais elle m a jamais enlendu etablir une assimilalion absolue entre le rail el je navire moyens de lransport qui se differencient non seulement par les frais de premier etablissement mais aussi par les modalites d exploitalion  quai qu il eu soil el sous les reserves que nous venons d exprimer il n est pas sans inleret d essayer de faire concorder les larifs maritimes avec les arifs ierroviuires mais a la condition expresse loutefois que jes usagers des lignes maritimes beneficient des memes avantages que les usagers des reseaux ferres   or ces avantages n apparaissen nullement dans l organisation aclnelle des services ainsi que nous allons le voir en examinani successivement les farifs passagers et marchandises  a passagers  pourles chemins de fer les larifs des grands reseaux ont ele majores dans ia proportion de quatre fois les tarifs d avant guerre  c est ainsi que sur le restao du p l m les prix des places sonlles suivants  marseille paris 860 kilometres une tarif actuel  les tarifs de passage actuels sur les paquebot de la compagnie fraissinet fonl ressortir es differences suivantes  lignebastia marseille 588 km tarif actuel  tarif d avant guerre  le coefficient de majoralion pour les 4  2et 3 classes ligne de marseille a bastia par rapport aux prix de passage d'avani guerre est ainsi egal a sept et non a quatre  c est done une erreur d affirmer que ces terifs sont elablis sur les memes bases que les tarifs ferroviaires  on concoit des lors que cette disproporlicn entre nos ligues maritimes ef les voies ferrees souleve de justes et legitimes protestations   la repercussion de ces nouveaux lorifs sera particulierement sensible sur les lignes oule mouvement des voyageurs est le plus actif specialement sur les lignes marseille bastia et marseille ajeccio propriano   b marchandises  les tarifs ferroviaires sont etablis de gare deparl a gare destinataire et les frais de manulention representent une faible fraction du prix tolal de transport     en maliere de transporis mari times au contraire au prix du fret d un port e j autre vierinent s ajouter les frais d embarque ment et de debarquement frais qui par leur caraclere obligatoire ont pour effel d augmenter considerablement le prix du transport  c est la un element de comple que l on  oublie trop souvent lorsqu on discute la question du fret el qui greve tres lourdement le trafic des marchuudises entre le continent et la corse   d une facon generale on peut affirmer qu a fheure actuelle ces frais d'embarquement et debarquement ont le plus souvent pout resultat de doubler le prix de transpotl d une marchandise d un port a l autre  les chiffres suivanis empruntes a des operations faites eu cours de ces dernieres semaines en fournissent la preuve  fe le transport de 100 sacs de mais de bastia a mafseille coute 400 francs de fret ei 405 francs de frais d embarquement et de debarquement e  0 a celui de 100 sacs de repasse 200 franes de fret et 202 fr so d embarghement et de debarquement  lt celui de 23 sacs de pommes de ferre soit 1 250 kilos 43 franes de fret ct 50 fr co de frais d'embargnement et de debarquement  mis c est surlout en ce qui concerne les farines que l on conslate une disproportion considerable  de marseille a baslia le transport de 400 balles de farine de 400 kilos revient a 400 francs alors que les frais d embarquement ei de debarquement sont de 400 francs soit exactement quatre fois le prix du fret  si l on evalue a 360 000 quintaux la quantite de farine imporlee annuellementen corse on constate que alors que le fret paye est de 360 000 francs les frais de manutention representent le chiffre exorbitant de 4 440 000 francs e cette situation est dne a la majoration vraiment excessive des frais d embarquement et et de debarquemient 1  4 i ces frais 6taient calcules avant guerre a raison de 3 francs la tonna ainsi qu il des connuissementa de l epoque ils tesue jourd hni de 37 frunes in lonne d apra sou qu venlion el de 40 francs d upres jes un ja con ments soit une majoration de pu pala  r a compagnie fons  net esl comparalivement pus eleve que citi des autres compagnies qui desservent re de bastia  pn voici par exemple les tarifs de ir o pare en ce qui concerne le transport des va en fuls ou en cuisses  vins de bastia a marseille 209 milles gno an de 103 pagin la on corpu  bastia a alger 410 milles  gy  sicard la corse el autres 70 rh de llastiu a oran 608 miles  pap au la  ville de bastia  105 francs ja tonne peur de celle a bastia 285 milles  com sicard 70 francs la tonne pagnie les consequences resullant de py lu de pareils larifs sont faciles a ga ion les produils d exportation le aux dani iret el des frais accessoires consiiiue un y du ritable entrave an developpement son e que du pays il devourage la profuelina 7 arrete l essor de certdines industries th pour les articles d imporlution pa conslituent l un des principaux men rencherissement du cout de l existenca n corse et comme resuliat d ensemble co rifs probibilifs en favorisant les compagnies concurrentes aggravent le deficit d exploi talion    une autre observation s impose l application des arifs ferroviaires droit entrainer l adoplion d une mesure non moins logique  l etablissement de tarifs differents entre les paquebots rapides ei les services dits commerciaux il semblerait equitable de faire payer plus cher le lransport effectue dans un res court delai par les paquebots a  marche rapide el de faire au contraire beneficier d une reduction de tarifs les voyageurs et les mar chandises iransportes par les paquebots a vi tesse commerciale ce systeme est depuis longlemps en vigueur sur les lignes de la sardaigne  enfiu ponrqnoi a l exemple de ce qui se basse pour les reseaux ferres certaines marchandises ne beneficient elles pas de iarifs speciaux pous les jours les compagnies de chemins de fer soumetteni a l homologation ministerielle pour tel ou tel produit d exporlation comme pour les matieres premieres necessaires au developpement de notre indus strie nationale des tarifs qui comportent des diminulious de tarifs ou des facultes de fransport tres appreciables  pour quelles raisons des lignes maritimes comme les notres auxquelles on teconnalt un caraciere de liaison interdeparlementale ne profiteraient elles pas du meme traitement  il est facile d envisager les vanlages considerables qu un pareil systeme de tarifs re  duits el mieux adaples a nos besoins presen terzil pour le developpement agricole et intustriel de notre lle ce seraient nos froite 108 primeurs nos vins nos bois et jenrs derives qui trouveraient plus facilement un debouche non seulement sur le continent mais  l etranger  a le faveur de tarifs reduits de nouvelles exploitations agricoles se creeraient pendant que de nouvelles induslries pourraient enfin tirer parli de nos produits naturels encore inexploiles  l ensemble de ces considerations conduit a affirmer le caractere d interet general ei meme national de nos lignes maritimes par suite on doit en conclure que comme pour les compagnies de chemins de fer le compte deficitaire d exploitation doit etre mis a la charge de la collectivite et non des usagers mais ce principe pose il est du devoir de l etat de rechercher les meilleures conditions d exploitation possibles meme s il le fallait parune revision de la convention de 1927 de facon e reduire le deficit et a faciliter le developpement du trufie ces deux mesures sont d ailleurs fonclion l une de l autre c est precisement par le developpement dn trafic que les benefices d exploilation doivent augmenter et permeltre l application de te rifs raisonnables tandis que la majorite des tarifs  mesure paresseuse et simpliste  en rarefiant les marchandises et peut etre meme les voyageurs ne peut qu aggraver progressivement et inevitablement le deficit   sous le benefice de ces observations votre commission vous propose d adopier les conclusions suivanies   ss 1 organisation rationnelle des services en procedant a la redution des lignes rezopmiies de font temps deficiiaires et en rumenant ces services aux besoins des populetions a desservir lt 2 en prenant pour base les tarifs d avant guerre des reseaux ferres appliquer le coeificient PS aux mojorations de tarifs des services maritimes   3 reduclion des frais d embarquement et de debarquement par la mise en adjudieation des services d aconage daris les ports desservis par la compagnie y 4 etablir une disesimination de tarifs entre les paquebois rapides et les paquebois commerciaux  5 faire beneficier les serviees maritimes de la corse de toutes les reductions consenties par les compagnies de chertins de fer pour les produits d exportation et transpories sur tout les reseaux d apres des tarifs reduits destines a faveriser in balance commerciale du pays  6 reduction de 20  an lieu de 40  pour les billets d aller et retour conformement au bareme adopte sur les reseaux ferres i  t creation d un compte special d exploila tion pour l'ile de beaute de facon a ne pas permettre que le deficit d xploitation de cEUR paquebot ne retombe sur l'omsemble de l ex ploiiation des lignes de la corse
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     ci voli a  carcassa    a cg  di a grotta carpe diem   bonghiornu  caru amicu  pari afflittu   chi faci   un li si vede guasi mai  travagli   di salula comu stai   chi li premi  se sempre a capu fillu     un possu  mi dici ellu  a voce bassa  unn aghin  carcassa      veni cu me  fughjmu ogni pinseru  falemu un mumentucciu in la cantina  ci sughiaremu piu di una sciuppina   a mezz a briaconi di mistieru      u possu  andemu a la surgenle di li amori   duva la anima turba si richiata    dui occhj  luci di una faccia cara  cularanu e spiranza in lu to  cori     un possu      e tandu  metti a  ssa manea lu anellu    so guai per chi faci lu eremilu    a donna ridi e la insegna di ditu    chi sta solu si macula u ciarbellu      un possu      cogli piaceri  godi stu surrisu   u tempu passa  e mancu si po schisgia la ora chi sona di fu la valisgia     eccu li chiavi   e quindi ne paradisu      un possu  mi dici ellu  a voce bassa  unn aghju  carcassa    
+  s
+    </p>
+    <docAuthor>
+     Simonu d'Aullè
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     lettera  a ghiuvanni sinibaldi   mi dici chi ju caldu maruccanu  e peghiu che quellu di cirneella   ritornatine a lccu paisanu  e statti acc ant a la to mammarella    u jornu ti ne fali in la pruvinca   o in li cuvoni a la to  vignulella   mi dici chi custi la aria unn e sana   e credu tuttu cio chi tu mi dici   chi ella seria megliu a paisana chi ci rende in salute piu felici   dunque  ritorna puru   ti acceltemu a bracce sparte  qui  tutti li amici   ti arricorderei forse  chi unn e tantu   di quellu frescu a sera di istatina   eppo  dino di quel  famosu cantu   di megliu un po canta la cardellina    e quelle tase di acqua a la funtana  sapendu chi era bona e cristallina   u peghiu sera pe  li to  pulloni  videndusi da te abbandunati    quelli chi so quassu in li debbimi   a vedeli mi parenu sdignati    a cansa sara la fo  partenza si elli si fermanu non dirrascati   quist annu li to  orli a in paese   quelli chi danu faccia a la marina   so incolti di prudotti venachesi   ghiustu ciocch ella pore calalina   tu  ci pianiaste un agliu e una cipolla  ella  fasgioli da un insalatina    un so si a la maroccu tu ci pigli intera e sanu la to    ritirata    ma si tu slava a sente i mio cunsigli   insiste finch a stacca unn e  mburrala   e dopu  rilurne  ndu li lo  loghi a innanella quella chi ti e fidata 
+  s
+    </p>
+    <docAuthor>
+     Cesari Sebbiu
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     u me  paesi  sottu a lu monti san petru   chi ha piu di mille di altura   e situatu petretu   paesi di la friscura   di 4 ss pe lu invernu si vesti in biancu   e li istati di virdura   ricevi da la muntagna profumi di arba barona   i lecci cu li castagni    li facini una curona  da du  partinu i surgenti di acqua pura  fresca e bona   petretu lu inverru un piegni a neve ne la cudrura    ha grossi e minuti legni   a pruvisioni e sicura   a donna e curaggiosa   e lu omu nunn ha paura   lu arbitru a frutti di oru incu la leccia inghjandata facini un beddu dicoru du  passanu la invirnata merula pizzighi giadda  e culomba cuddarata   quandu ni veni lu branu chi risveglia ogni cosa  incu li so  fiori in manu com una ridenti sposa   forma un lettu fiuritu duva petrefu riposa   so splendidi li circondi  spurghjni suavi odori   quandu so verdi li frondi PS chi li arburi so in fiori  risembranu a lu arcu in cel  cu li so  varj culori   quandu lu soli di istati vi pugni cume di un steccu   cu li so  raghj infiarati brusgia u verdi e lu seccu   petretu nun senti caldu   chi e circundatu di frescu   sottu a la ombra profumata di lu tigliu e lu castagnu   du  si perdi la cantata di lu aceddu mai in lagnu   sonu dolci li jurnati a u frescu verdi e pagnu   paisucciu tant amatu   capi logu di cantonu   possi santu nicula u chi a i sceltu per patronu  prisirvatti di ogni mali cu lu biatu sant  antonu 
+  s
+    </p>
+    <docAuthor>
+     Simonu di San Jorghiu
+    </docAuthor>
+   </div>
+   <div n="11" type="div" xml:lang="fr">
+    <p>
+     memoires du r p de singlande aumonier  spedizione di maillebois 1738 1741  telles sont les remarques que j ai faites sur les productions de la corse  les moeurs de ses habitans on seroit peut etre bien aise d avoir une description de bastia qui en est la capitale  de quelqu autres villes dont je n ai point parle mais je me suis fait une loi de ne dire des pays que ce j en ai vu moi meme ainsi l on me pardonnera de ne rien avancer sur le temoignage des autres par rapport a bastia  aux villes ou je n ai point ete  parmi les bandits qui restoient encore dans la corse il y en avoit surtout deux plus fameux  plus redoutables que les autres par leur audace  par leurs brigandages  on n entendoit parler que des vols  des assassinats qu ils commettoient tantot dans un endroit tantot dans un autre de sorte qu on ne se croyoit effectivement nulle part en surete on avoit inutilement misleur tete a prix ilsavoient habilement elude toutes les poursuites qu on avoit faites  jamais on n avoit pu ni les saisir par force ni les surprendre par adresse enfin on resolut d en delivrer l isie de fagon ou d autre on envoya apres eux un detachement de soldats avec promesse de les bien recompenser s ils pouvoient les presenter morts ou vifs apres des recherches d autant plus exactes qu elles etoient animees par l espoir de la recompense le detachement parvint enfin a l endroit ou ces assassins etoient alors retires c etait sous un rocher dans lequel ils avoient pratique plusieurs trous qui leur servoient de retraite ainsi qu aux autres qui faisoient le meme metier qu eux le detachement ayant exactement occupe touies les issues de ce funeste repuire se croyait sur de sa proye  les deux brigands tant cherches ne pouvoient leur echapper s ilsn avoient use sur le champ d un stratageme qui leur reussit probablement plus qu ils n osoient eux memes l esperer des qu ils se virent investis ils couvrirent d un chapeau un phantome de paille qu ils presenterent a une des issues par ou ils pouvoient sortir nos soldatsn appercurent pas plutot ce chapeau qu ils crurent que c etait un de ceux qu ils cherchoieni  pour ne le pas manquer firent tous ensemble feu dessus les deux brigands qui n attendoient que cela sortent aussi tot ayant chacun deux pistolets a la main  tirent sur nos gens qui se trouvant alors sans avoir de quoi leur repondre ne pensent qu a leur propre surete   laissent pour toujours echapper ceux qu ils avoient si long temps cherches e qu ils se flattoient enfin de tenir qu on juge par ce dernier trait de la qualite de l esprit des corses on ne trouva dans le rocher dont ils venoient de se sauver que quelques mechants haillons  l'habit de l officier de flandre quer j ai dit avoir disparu du jour ou il fut a la chasse cette occasion perdue il fallut renoncer a les rejoindre  nos soldats furent obliges de s en venir avec je regret de s etre donne bien de la peine  la honte de n avoir point reussi  nous partimes de calvile 8 septembre 1741  les malheurs que nous avions essuyes a notre passage en l isle nous faisoient craindre pour notre retour en france mais ce second trajet fut aussi heureux que le premier avoit ete funeste   des le lendemain 9 nous arrivames heureusement a antibes avec tout le convoi qui etait de 70 ou 80 batimens de transport
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="12" type="poe" xml:lang="co">
+    <p>
+     a ghjlormu casanova  in ricordu di e nostre stundale in chermacciani   si ghjseppu maria un ti ha capitu   e segnu chi ellu un bole capiscia    e si ellu nun risponde a lu to  imbilu   un bale veramente a tasana    ingolliti  o jilo  sta pillulella   ma pensa chi ell e in casa to  surella     un bale chi io ti dica chi lucia   scusami si di nome facciu sbagliu   mi par  di ramentammine una cria    un teme la fatiga e lu travagliu   zappa  bultula terra mesi sani   e sfida i zappaghioli pughinlani   che sia in fiuminale o pe  lu pinu   in tempu di maghiere o di siera   ella  pe la campagna e sempre fiera   da la alba sin a tardi cala u spinu    ben suvente  o jilo  cu la faccenda   si scorda di spuntinu o di merenda   so he chi stu travagliu un da prufittu    a sferza di u vaglione e sempre quella   ma  ti juru     invidiu a to  surella   un sia che per magna cun appitittu   u buccone   u nostru e magru iittu     si ferma qualchi volta ind a cennella   si per azardu vai a lu paese   salutami li parenti e li amici    ti pregu di passa ghiorni felici   ela mane  a u fala di ln muntese  penserai a lu amicu mezzu toccu chi mai un sente qui che lu sciloccu 
+  s
+    </p>
+    <docAuthor>
+     Ghiuvanni Olivieri
+    </docAuthor>
+   </div>
+   <div n="13" type="cha" xml:lang="co">
+    <p>
+     a me  bella    canzona   i  tutte le sere  a lu chiaru di luna  per te  la me  bruna   eiu veng a canta  ma se  crudele quante tu se  bella  la to  finestrella   sempre chiusa sta    riturnella bella  bella   di corsica se lu piu dolce fior  bella  bella   ma mi stracci lu cor   i  di un tintu amante carcu di dulore  lu to  duru core     micca unm ha pieta   eppur  o bella  o divinu paone   la mia passione   mai fine avra    21  quandu sara la ora tant aspitiata  o mia cara amata   chi averaghiu u fo  cor  quellu jornu so finiti i turmenti  finiti li pienti   di amaru dulor   riturnella bella  bella   di corsica se  lu piu dolce fior   bella  bella  pieta pe  lu me  cor  
+  s
+    </p>
+    <docAuthor>
+     M. Alessandri di Chidazzu
+    </docAuthor>
+   </div>
+   <div n="14" type="feu" xml:lang="it">
+    <p>
+     signore  e troppo duro che muoia cotesto sciagurato appena giunto al ventiquattresimo anno     e quanti anni contava di piu giovanni brando  tu non salvasti amici ne parenti  che mai diranno se salvi questo     diranno  ed abbasso la voce   che chiuso ad ogni affetto di sangue e di amici zia il tuo cuore sostenne offendere la giustizia per passione sconsi gliata     questo non diranno  amai cotesto giovane  forse lo amo ancora  non pero oltre la giustizia e  il debito  nell ora suprema  che per lui si avvicina  abbia dacche dargli alcun altro sollievo mi e tolto  le mie consolazioni   lasciatemi andare  io voglio vederlo per cinque minuti     generale  vogliatemi favorire il vostro orologio     che volete farvene      chi guardero sopra il irapasso dei cinque minuti e ve li rammentero   voi non ce li guardereste di certo   adesso coitesto arnese non puo giovare a voi che ponendolo nelle mie mani   il paoli tenendo un candelliere acceso in mano si accosto al letto di matteo  egli dormiva e dal sem  biante giocondo pareva in quel punto lo allietassero  sogni soavi  il capo egli inchinava appoggiato al destro braccio sporto penzoloni fuori delletto   i capelli copiosi inanellati gli inquadravano la bella faccia un madido rossore gli imporporava le guancie  le labbra aveva socchiuse e frementi come se desseroun bacio o favellassero parole  di amore il paoli non ne sostenne la vista  riporto il candelliere su la tavola e prese a passeggiare incerto se dovesse svegliarlo o se partire senza avere ricambiato motto  con lui  lo tolse di dubbio un sospiro  e dopo il sospiro un grido     ah  disse matteo levandosi  io ne era sicuro  eil sogno me lo accertava pur dianzi  il signor generale non ti lasciera morire  no  egli ti ama tanto   certo io lo ho offeso non lo nego  non mi state a dire che merito castigo  non mi rimproverate la mia ingratitudine   io la sento  non mi avvilite con obbrobrio   voi non potreste vituperami come mi vitupero io  cosi  signor pasquale  non ponete in me piu fede  ritiratemi il vostro affetto  fate quello che volete   ma non mi lasciate morire  non e questa la eta in cui si muore  io vi parero il sole col mio corpo  vi faro schermo contro le palle nemiche  servitevi di me come piumaccio per iscaldarvi i piedi  o di poggiuolo quando salite a cavallo   ma non mi lascia te morire     1 cinque minuti sono passati   si udi ammonire la voce del padre bernardino traverso la porta     ah    rimescolandosi tutto  grido matteo e poi con accento piu speditosoggiunse     che se non vi degnate tenermi piu accosio a voi  ebbene me ne andro lontano  mi bandiro dal paese  andro in terra straniera ad espiare la mia colpa col rimorso     sono passati sei minuti     o piuttosto  sentite  compensero con altrettanto utile i  danno che stava per recare al paese   vi paghero il tradimento tramato in tanta vendetta compita  mi condurro a bastia  dove dimostrero il colpo essere andato fallito per difetto del sicario  mi faro dare altri danari e ve gli mandaro  mi ingraziero presso di loro  ne spiero isegretiei disegni  e ve ne ragguagliero ora per ora  mi introdurro nella cucina del conte di marbeuf il giorno che mettera ta vola agli ufficiali dell esercito  e gli avvelenero tutti       sciaguraio   proruppe il paoli col pugno levato come se volesse schiacciargli il capo  e chi ii ha dato il diritto per giudicare cosi malignamente di me      otto minuti sono passati     o dio  o dio  non milasciate morire       il paoli si tenne a mezzo lo atto   intese a ricomporsi per alcuni momenti  alla fine con voce ferma aggiunse     matteo  voi dovete morire        grazia  per carita  e allora che cosa ci siete venuto a fare      PScco  rispose il paoli  cavandosi di tasca il coltello e buttandolo sopra la tavola   capisci   al tro non posso darti   addio     ah  e questo lo ultimo dono che pasquale paoli serbava per matteo massesi    f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

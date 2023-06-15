@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330940b
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330940b
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 390 | Année 11
+     </edition>
+     <date>
+      1930-03-09
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     D À Dumenica 9 Marzu 1930  : — Numaru 390 pu XI . 39 Esce a Dumenica Dumenica 9 MATZU *7  A MUVRA  GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI :  fn Corsiea. + + + + &gt;&gt; + + 18 franchi  in Corsica. + » in Francia. « » &gt;&gt; &gt;p + es te + 18 a 1 30  Unione postale nos ose + + ss « + « SÒ  U Numaru:5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu -Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     anticursismu  grand omu  si  ma     u francese auguste comte   e  yimbentatore  u stimulatore  e u  preconizzatore di a filosofia positivista  annu  ca statua di stu grande filosofu  u quale ha scrittu una mansa di libri per pruva la eccellenza di a so  duttrina  mu po vedela un pocu dapertuttu par  sse francie  ma principalmente in parigi annant a piazza di a sorbona  ne   un discutaremu micca qui i meriti di a scienzia positiva applicata a  filosofia  solu diceremu chi auguste comte  durente quellu xix  seculu  cusi indecisu  cusi inquietu  fu unu di i scarsi a mette in pede un sistema di ide e  di fatti destinati a serve di esperimentu per la umanita  a so  filosofia positivista  infatti  unn avia altru scopu che migliura a sorte di lu omu  mustrenduli u caminu percorsu da i predecessori  e quellu chi li tuccava di percorre ellu stessu per raghiunghie una felicita relativa   naturalmente  u campu storicu ha furnitu a augusie comte  i so  migliori argumenti  i so  migliori esempj  ricullendu sin a i populi piu antichi  cume li egiziani  i grechi  i romani  u filosofu ha vulsutu pruva chi ogni prugressu o regressione di la umanita ha sempre trovu a so  causa inde la umanita stessa  da stu puntu di vista  u studiu di i varj parsunaggi chi si so illustrati darente i seculi li e sembratu assai impurtante  parchi ognunudi questi cuncretizzava per modu di  a so  epuca  o  i  a quistione di sape si questu o quellu omu di geniu pudia esse cunsidaratu cume un benefattore di a sucieta umana  diventede cusi unu di i punti essenziali di a filosofia di  auguste comte   e cu u scopu di esamina stu problema chi ellu pubblichede  versuu 185o  u so  catechisme positiviste  in questa opara  auguste comte si prupunia non solu di indica i benefattori di l umanita  ma ancu di stabilisce per elli un cultu  una religione    cusi  ella ha immaginatu un ca lendariu  cupiatu sopra u repubblicanu  ma destinatu a glurifica li umoni e non piu e stagione   lu annu positivista e divisu in 13 mesi di 4 settimane ognunu  ogni mese porta u nome di un omu celebre ind u mondu di a religione  di le arte  di a musica  e scienze  ecc   cusi avemu u mese di mose  quellu di omeru  di cesare  di dante  di shakespeare  di fedeticu u grande  ecc       ind u stessu tempu chi elli ricordanu sti genj  i mesi so destinati a cummemora le epuche  i prugressi piu famosi di la umanita  simultaneamente a mose  per esempiu  si celebra a teocrazia iniziale   cu omeru  e a puesia antica chi e glurificata  cu carlu magnu  a civilizzazione feudale  cu gutemberg  la industria moderna  cu descartes  a filosofia  ecu federicu u grande  a pulitica muderna   appuntu inde st ultimu mese truvemu  ghiornu per ghiornu   li umoni chi ellu si tratta di venera  cosimu di i medici  carlu quintu  coligny  sully  mazzarinu  richelie u  turgot  franklin  washington  bolivar  ecc    ma invanu circariamu un nome chi ci sta tantu a core  a noi corsi  e chi meritaria  se no  un ci sbagliemu  di figura ghiustamente ind u mese chi u calendariu di u sgio auguste comte cunsacra a  pulitica muderna  vutemu parla di pasquale paoli   omissione chi noi un pudemu    piegacci parchi u babbu di a patria corsa riempjva tutt e cundizione richieste da u sistema positivista  fu  senza nessun dubbiu  un benefattore di la umanita  u quale  inve  ce di segue sentimenti egoistichi  circhede sempre di migliura e cundizione di li altri  u guvernu chi ellu istitui in corsica e un mudellu di quellu genere cusi vantatu da a scola di u sgio comte   tendia a fa a felicita di i cittadini  accurdenduli u piu liberta pussibile  e questu e tantu veru  chi  in quelli tempi  la eurora intera un risparmio a so  ammirazione per quellu grande geniu creatore di una custituzione democratica chi certi paesi un pussedenu micca ancora a i tempi di oghie   date sie raghione  parche 11llustre filosofu si e scurdatu u nome  di u nostru eroe  mentre cummemorava i franklin  i washington   i bolivar  e ancu i toussaint louverture   certu  u nord americanu washington ebbe u gran meritu di da a i stati uniti  liberati da le oppressione inglese  una famosa cus   tituzione  bolivar  el liberttador  e parimente degnissimu di esse celebratu per ave salvatu u venezuela  a bolivia e le equatore di a schiavitu spagnola  ma pasquale paoli chi libero i corsi da u duminiu genuvese  e circo eroicamente di cuntrasta le invasione francese  meriteva di figura accant a quelli dui genj immiurtali  a so  custituzione era tantu piu ammirevule  chi ella furniscia un meravigliosu  precedente  eppoi  un face dubbiu  chi le opare di sti tre eroi si cumplettanu mutualmente  di modu chi ella risulta ancu piu inghiustificata    la amnesia di monsieur a u   guste comte   u solu  lu unicu e plausibile mutivu di sta negligenza  lu avemu dighia induvinatu   pasquale paoli era un grand  omu  si  un benefattore di la umanita  ma    era corsu  allora  capite  li affari cambianu     e dunque pruvatu chi ancu inde uduminiu in apparenza serenu   di a filosofia  i pinzuti so deliberatamente corsofobi   e vera chi u calendariu positivista  menziona  inde u ix  mese  u nome di u scupritore di la america  cristofaru culombu  ben  intesu  questa e duvuta a u fatiu chi auguste comte  cume di restu  a maggiuranza di i sapienti non solu pinzuti ma mundiali  so cunvinti chi culombu era jenuvese o spagnolu  altrimente  u grande navigatore avaria subitu a stessa sorte chi le eroe di merusaglia  fra parentesi  u preziosu serviziu chi omu pudaria rende a  memoria di culombu  saria di pruva chi ell e natu in calvi  vidariamu  in stu casu  u so  nome scumparisce cume di incantu da i manuali sculastichi  e pubblicazione litterarie  e ancu  da u stessu catachisimu    sembra chi u sgio auguste comte abbia vulsutu ripara le omissione relativa a paoli menzuniendu u nome di un altru grande corsu   napulione bonaparte  ma bisogna esamina in chi modu      u so  calendariu cumprende per la annata bissestile  un ghiornu addiziunale  stu jornu  appuntu  dev esse cunsacratu a la reprobation solennelle des deux principaux retrogradateurs  sic   julien l apostat et bonaparte   u fattu  dunque  appare abbastanza chiaru  inde u catachisimu positivista di u sgio auguste comte cume in tanti altri scritti pinzuti  un si parla mai di le illustrazione di a corsica  videte paoli  quandu eccezionalmente si rompe u silenziu e per mette i nostri genja u paru di li apostati  i rinnegati  e i retrogradateurs   videte napulione     chi cosa pensaranu di afaccenda  li eterni ammiratori e difensoti di a petite patchie dans la grande 
+  s
+    </p>
+    <docAuthor>
+     Petroniano
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     scrittori corsi  ghiuvan carlu gregori  pochi corsi sanu cio chi elle funu a vita e la opara di giuvan  carlu gregorj  troppu presin  lu omu si e scurdatu in corsica chi a morle di stu gran cumpatriotta fu un veru dolu publicu pe  a nostra isula e chi  tra tutti quelli chi cunsacronu i so  talenli a a nostra sloria naziunale e u solu di u quale la opara  bench ella un sia cumpjta  fu veramente generosa e feconda   un  ambizione tremenda predumino a so  vita  un unicu scopu guido invariabilmente  e di cunlinuu i so  studj  i so  sforzi  a storia di a corsica e si ellu unn ha avutu a grazia di da lu ultimu colpu di manu a u monumentu immurlale chi a so  prudigiosa erudizione duvia finalmente inalza a a patria  ebbe u tempu quantunque di da luce a a majo parte di le opare di i nostri vecchj cronichisti  di livella u tarrenu e di appruntallu pe  a suminera   a so  storia generale della corsica si ferma senza esse finita  cume tant opare induve ellu duvia fa risorle a maravigliosa varieta di i so  lumi  i  ma per ghiudica ed apprezia a so  valore u travagliu preparaloriu a u  so  magnificu studiu  ci basta a leghie le elegante e dotta introduzione a la historia di corsica di  anton petru filippini  stampata in pisa  1827 1831  e numerose annutazione chi accumpagnenu a traduzione in lingua italiana di a cronica  de rebus corsicis di petru cirne u  stampata in 1834  in parigi  e a bel  lissima espusizione chi precede i statuti civili e criminali di corsica publicati in lione inde u 1848   di la opara di a  p  filippini    chi e  a guardalla be  un pocu mediocre    g  ci  gregorj  aumentendula di tante note preziose et tanti documenti inediti  ne fece un librone di gran  valore  inc una chiarezza e una penetrazione senza paragone  inc una elevalezza di ide e propriamente maravigliosa  fece da veru maestru  ind un indroduzione chi carlu bolta ghiudico perfetta  un riassunlu di a cuntinuita di evenimenti e di azione chi so la ossatura di li annali di corsica  tanlu e po  lantu fece  chi a povara e guasi indigesta cronica di lu arcidiaconu di mariana divento un  opara nova  elegante e finilissima   sta manera stupenda di impusessassi di a storia di a so  patria  u dottu magistratu a cunfirmo   dui anni dopu a famosa edizione di pisa di la opara di filippini    publichenduu de rebus corsicis di petru cirne u  a a traduzione ilaliana di sta cronica  messa a peltu a u testu latinu  agghiunse certe annolazione chi so  da per elle  veri documenti  e induv ellu si distingue digia u lentu travagliu di creazione chi si facia inde a so  mente   incu a publicazione di i statuti civili e criminali di corsica le unione di li elementi chi custituiscenu a storia generale di a corsica entre inde u so  periodu definitivu  in fatti  ecci piu magnifica espusizione di le organizzazione civile e criminale diu mediu evu ind e nazione tocche da la impronta rumana  piu  perfettu studiu di le instituzione feudale di i longobardi che  sta dolta e sustanziosa introduzione a i siatuti  u giurisperlu e u storicu di marca chi ell e ghiuvan carlu gregorj sa esse affaltu cumplellu ancu abbreviendu e addensa senza pianla mai di esse severamenle precisu   caccenduci i so  studii storichi chi a cruda morte un li lascio u tempu di finisce  fece stampa  lu annu stessu di a pubblicazione di a storia di corsica di filippini  una tragedia in cinque alli e in versi italiani inlilulala   sampiero corso  ma st opara  rimarchevule a u puntu di vista litterariu  bench ella sia  scenicamenle parlendu  un suppulellu insufficiente  unn e allru  a dilla chiara  che una manera ingegnosa di glurifica un corsu  intantu di pude accerta e rende incunlraslabili  inde a so  storia generale di corsica  la audacia straurdinaria di stu gran  capitanu  e in verita  lutti i scritti di stu dottu slorie u parlanu di a corsica   tutti hanu listessu seppu  rinviguri e tradizione australe  annuda ed aggruppa e ricurdanze  per inalza a a palria un monumentu immurtale   eccu cio chi ellu fu u distintissimu e valente scrittore chi a morle si piglio cusi prestu  senza dalli u tempu di finisce u so  maraviglicsu travagliu storicu  e chi tulti li omi di core devenu onora e pienghie  nanfu e duie sponde di u mar tir renu  infatti  a penna di g  ci  gregorj era severa ma jusla  e si ellu unn avaria dimenticatu di fa risorle a leggerezza di cerle accuse contru genuva  cum ellu a da a intende   in listessu modu e cun a solita imparzialita  avaria espostu in pienu lume le aspirazione seculare di a nazione corsa  affirmendu a perennita di la opara di i capi chi ella seppe scegliesi 
+  s
+    </p>
+    <docAuthor>
+     Ghiacintu Yvia-Croce
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     parolle di fede  ti salutu  o giuventu   ti salutu  o giuventu  fiore di u populu di corsica  speranza di a razza e onore di a patria   giuventu di e scole di i nostri paesi chi un ti lasci ammaestra e infraciga u ciarbellu da i softuservi di la una e iudivisibile e chi haiinde li occhj a piu bella duttrina  a luce ardente di le avenire  nantu e labbre u piu bellu insegnameniu anostra parlaia  inde u core a piu bella scienza  lu orgogliu di esse lu arcu e u puntellu di a nazione corsa     giuventu di e nostre piaghie e di e nostre muntagne  chi si bella cume un veranu  o maravigliosa giuventu chi sai sempre pensa e canta e ride cume i to  babboni  a u modu anticu  e chi unwhai mai  dubitatu di esse corsa  mai che  corsa     giuventu di i cullegi e di la universita induttrinata a la francese  ma chi ell unn hanu riuscitu a denaziunalizza  giuventu ricca di sapere  ma piu ricca di fede  di speranza e di vulunta  e chi hai ind e vene un sangue superbu  prontu a sfuria      si  e a ne n    giuventu corsa di ogni locu  ti saluiu   a benedetta voce di cursichella  inde u silenziu di e nuttate pinserose  ti ha chiamatu e ti ha parlatu  a  a   eeso  sante parolle hanu fattu sbuccia inde u lo  core vergine un  amore risolulu  indumabile  stupendu  veramente degnu di u so  tamantu amore      i e u a so  voce languente 1 ha fati capi chi a nosira nazione e necessaria a a billezza latina cuam ell e necessaria la isula persa a illezz 7 e tirrenu     a billezza diu mar ti rente     i so  spasimi angusciosi  iso lagni dulurosi  iso singhiozzi di sangue lu hanu stampatu ti core a so  passione  u so  martiriu     e  senza teme nulla  a core mn manu  li hai rispostu   so pronta  so pronta a marchia inde u solcu straziatu di i mio arcibabboni  versu a gran luce  e aspettu cun ausieta quellu beatu jornu  quella ora benedetta    o o o    lu hairispostu che tu hai capitu i so  ordini imprescrittibili  che rosservarei tulti i so cumandamenti   li hai rispostu che tu voli chi omu un si vargogni piu a vive inde i nostri paesi addulurati   li hai rispostu chi oghie i cursisti un devenu esse piu omi ma veri spiriti  pronti a strughiesi  a dissolvesi ind un spiritu grande quante umondu  u spiritu corsu    tisalutu  o giuventu  anima viva di u nostru populu incatinatu  rispiru gagliardu di a nostra razza martirizzata  custode vigilanie di a nosira patria cru   cifissa       si tu chi risuscilarei ind i nostri fuculariu spiritu di pantichi e chi spargugliarei e allunianarei da i nostri rughioni i nuvuli foschi chi affoanu la aria e oscuranu u celu   si tu chi  ghiornu per ghiornu  ora per ora malgradu i fiacchi e i vigliacchi  malgradu e discordie e li errori  malgradu e miserie e i tradimenti  malgradu tanti  malgradu tulti  farei rinasce in ogni pettu corsu le amore pairiu  ambasciatore di a risurrezzione   si tu chi rialzarei le altare sfundatu di a liberta e chi purtarei a e sette stelle a bandiera bianca a testa di moru   eviva  eviva tu  ginventu diletta  fiore di u populu corsu   pinsendu a te  noi  i to  majo  circaremu chi elle ci stianu in mente   ogni sera quandu u sonnu ci chiode li occhj stanchi  ogni mane quandu u spunta di u sole ci disceta e ci da forza di ripiglia u nostru travagliu quotidianu   e sacrosante parolle di u gran pasquale  core in ironte e strada diritta          tntantu chi ella spunti la alba di quellu jornu chi la isula sviata riturnara ad esse a corsica   ti salutu  o giuventu    ghacintu di muru
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="co">
+    <p>
+     u natale di a muvra  unu   u   1   o  f 1   lentemuci oramai  ssu suspiru cu tultu lu alenu tenutu strintu da a trimulella in lu nostru peltu dipoi a furibonda minaccia  chi a fine di di annu vinti nove avia da vede u poslru natale a lu usu maghialescu    ije  vulemu chi ellu sia u  natale di a muvra   avianu  pruclamalu certi macellaghj di cimice  caccendu da e slacche i so  cultelli di latta  e vimbito fu lanciatu sin a inde certi familelli chi avianu tesu  cu u so tprusci   tprusci   pocu francu  quellu pugnu di arba fanghicciosa a le animale curnntu e palatichi fine chi la accellava  ma cun suspellu  per un di no  7  e casserole puliziolte  ristagnate di frescu  unn aspiltavanu che u chermugliu   u cundime dino ci era  quantunque di fundericciu  lu appiittu un mancava  e  a manalella di li imbitati si abbicinavanu  ma in ti miconi  cu a scudella piatta sottu a jacchella   manen male  a pelle era stata prumessa a marianna  cume lappellu soffice per e so  pioghe infrizzulite da i lupini   e u colpu pulzatoghiu fu datu   a  alta si inturchio in lu pelu rasinu  e cumare muvra  in punia di a so  elpa  si dede una grallala in le imbule e u a punta di e so  corne   cudizzula a u veniu  si fece una spurnatella per saluta lu annu novu  e dopu  re o quattru salti in caterrocchiu  eccula pascendu in la so  pralalina salivosa   u capi macellaghiu si e alluntanatu da a vergogna dicendusi fra ellu     aghiu fattu    e mio buzare    u cucinaru in pede si ne va licchendusi una casserola pinghinosa  e ghje a capelli maladetti cun unu di i so  allevi  fra i musinosi imbitati  parte si ingollenu a so  saliva e parte  ripigliendu u so  falzu alleeculime  si abbiciuanu dino cu speranza chi u so  appitittu sia stalu piglialn per tenneru amore   marianna aspella sempre  cum ell  ha aspittatu e speralu di allre volte  ma  si diu vole  passera di allri natali senza sente u tragicu belu   si gran parte di a vergogna 1ocea a quelli di u pranzu mancalu  un ne deve manca dino a quelli chi ne fecenu e spese  inquante a  maffia  un ci e a maravigliassi   quislione di mistieru   si nasce alti a fa i puliziolli  cume i buvoni nascenu alli a bultula a so  pallottula e fanne e so  delizie     st ultimu cennu pe  i facci doppj   si mettinu be in chiocca chi a i so  fprusci   tprusci   chi un ci hanu mai sbaglialu  a muvra sapera sempre accunsente ci un slessu be   be   be     
+  s
+    </p>
+    <docAuthor>
+     Altore
+    </docAuthor>
+   </div>
+   <div n="5" type="art" xml:lang="co">
+    <p>
+     maistralata  in seguitu a le incidente  chi noi rappurtemu di altra parte  tra li oramai famosu maistrale e u nosiru cunfratellu valot  direttore di u giurnale la jeune corse  questu ha fattu sta publica cunfessione     nous allons maintenant donner une nouvelle preuve du courage de mi  versini   il y a quelques mois  il apportait a la je u  ne corse un article donl il etait l auteur   11 demanda l insertion de cet article qui lui fut accordee   nolre confrere rocca se jugea injurie par cet arlicle et en demanda raison a mi  valot  qui refusa de livrer le nom de son collaborateur  mi  versini ne en acceptant pas ja respousabilile   mi  valot  comme ci etait son devoir  la accepta done tout entiere et constitua scs iemoins   aujourd hui  nous ne sommes plus lenus a la meme reserve el nous livrons a mi  rocca le nom de celui qui tenla de je diffamer    sta relazione di un incidente vecchiu di un annu e piu  da un idea di a franchezza e di u curaggiu di u pueta maestru di marignana  u quale  pur di imbrutta ghiente  conde a so  penna ancu in le siallate vaccine   avia inviatu i me  tistimoni a u me cunfratellu valot chi e  stimu da galantomu e chi si dimustro tale in quella circustanza  ma un possi   ognunu a capiscera   avili dui amichi mandenduli a truva a maistrale     le anfarte majo  rinnegatore di ogni fede e di ogni amicizia  po tene a so  trippa in li so  calzoni di villutu framante senza teme chi e  voglia fa vindetta taglienduli a curata   a certi un li si po che sputa in faccia 
+  s
+    </p>
+    <docAuthor>
+     Petru Rocca
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     amicu  circa ja di metta be   cu quellu acellu neru parucchiali   chi canta  miserere poelae    dilli che nun li pregu mai mali   e chi ellu mi perdoni pe  piace  chi unn aghiu faltu piccatu murtali    li tasto a suttana   po  chi e     e cunfisso li affari in u jurnali   a vita senza risa  ohime   un si po essa sempre in funerali   e  tristi  canta u dies ire   o fa di pocchj fiumi lacrimali   ma tremu   libera me domine      chi misseri un mi tiri di missali    chi nimu si dubiti qual ell e   mi ni sto piattu e mi segnu  
+  s
+    </p>
+    <docAuthor>
+     Pasquali.
+    </docAuthor>
+   </div>
+   <div n="7" type="cha" xml:lang="co">
+    <p>
+     o catalina mia    canzona   i  cara catali   di e donne di qui   senza sbagliu  se  la piu bella   o rundinella   o bellu fior   per sempre averai lu me  cor  ognunu videnduti passa   cume meti vurria canta    riturnella  o catalina mia   per sempre eiu vurria   teneti strinta strinta in le me  bracci    e copreti di li piu dolci basgi   i to  longhi capelli   cu li to  occhj cari e belli   hanu fatt  entre dentru lu me care  lu piu fervidu amore    h  vogliu ringrazia dio di bunta  pe  la grazia chi ellu mi ha fattu  paone amatu   caru tesor   di esse lu elettu di u to  cor   veni qui chi ti possa basgia   veni qui che ti possa canta   in  sempre ti amero   e toiu saro   sempre ti staraghiu vicinu   in la giardinu di lu me  cor   mai un ci sara di altru fior   e quand a morte mi chiamara  murendu  mi sentare  canta    riturnella  o catalina mia   per sempre eiu vulia   teneti strinta strinta in li me  bracci    e copreti di li piu dolci basgi  ma ja morte fatata   mi alluntana di te  amata   ma ancu quandu quassu ne staraghiu  sempre a te pensaraghiu  
+  s
+    </p>
+    <docAuthor>
+     M. Alessandri di Chidazzu
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     neva     neva    tuttu muventi e tu celu  spariscinu li tetti e la virdura    la terra si copri di un biancu vel faci cambia lu aspettu di a natura  so cuparti li stradoni e ji sstreti  nun si vedi piu scaffa ne tafonn so inchjnati li branchi e ji vet4   pari chi elli dumandinu pardonu  neva    e tutt accolti e inciucciunit si sentinu li aceddi lamintagsi     lu so  lagnu dici   semu famiti    e nun trovanu mancu ad appuddaggi neva   difreddu tremanu li agneddi  neva   ma so cuntenti li ziteddi u
+  s
+    </p>
+    <docAuthor>
+     Simonu di San Jorghiu
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="it">
+    <p>
+     storiografia della corsica  allorquando dieci anni or sono sor  se in ajaccio  il battagliero giornale a muvra  nessuno prevedeva lo si luppo che questo foglio avrebbe preso sulle masse isolane sventolando la bandiera dell avtonumismo  occorie  va peraltro fare conoscere al popolo fuorviato da falsi testi storici  le vi cende reali della piccola patria dere  litta con pubblicazioni non ad usum delphini  venne allora ideata ed attu  ata la stampa di una speciale   collana storica   i cui volumi  messi in com  mercio a prezzi accessibili a tutte je borse  ebbero larga diffusione e fervi  di consensi in corsica e fuori  siamo oggi al quinto volume della serie tutti editi dalla tipografia di a muvra  vera fucina di patriottismo insulare  di ognuno di essi daremo brevi cenni raccomandandone vivamente a tutti la fettura   ll primo volume usci nel 1925  e contiene la celebre lettera del 23 gen  naio 1791  diretta dal giovane ufficiale di artiglieria napoleone buonaparte  al col  matteo buttafuoco che tradi pasquale paoli  dopo di averlo servi to  dal futuro imperatore egli viene attaccato violentemente e qualificato di tiranno che dei gloriosi vinti di pontenovo si era fatto un piedistallo politico  questa lettera ebbe  quando fu pubblicata  molta risenenza  essa ci mostra un napolcone bonaparte ancura corso  nient altro che corsa   a questo volume tenne dietro nel 1928 il processo verbale della assemblea  generale di corsica  tenuta in corte nel giugno 1754  allorche la corsica si era data alla corona brittanica  oltre al discorso di apertura pronunciato da pasquale paoli e da altri deputati  il punto piu interessante del libro e dato dal decreto di separazione totale della isola  dalla francia  a cui fa seguito il testo preciso della nuova costituzione del regno di corsica  documento di importanza capita le  sottoscritto da tutti i presenti  nel medesimo anno  usci il terzo volume contenente la sforia degli anni 1732 e 1733  narrazione precisa e documentata dell intervento armato austriaco a favore di genova contro i corsi insorti  interessante da rilevare is queste pagine il ricorse diretto da alcuni capiisolani fatti incarcerare dalla repubblica  al principe eugenio di savoia  il quale provvide senza indugio a farli liberare   nel 1929  venne pubblicato  a cunquista francese di a corsica  ricavata da corrispondenze del giornale le courrier  che si stampava a monaco  principato   dopo un breve riassunto degli avvenimenti del 1768  ques  giorno per giorno viene raccontatolo svolgersi della terribile lotta che nell isola si combatteva fra corsi e fran cesi  queste corrispondenze che vel no dal febbraio 1769 al dicembre dello stesso annu  ci fanno assistere alagonia della indipendenza  della corsi ca     il quinto ed ultimo volume della se rie  uscito di questi giorni  scritto da p  di c  e la storia populare di a corsica illustrata  per la quale pasquale manfredi ha dettato una breve prefazione  scopo  di questa publicazione scritta nel nativo dialetto e stato quello di fare giustizia di tutte le calunnie  di tutte je leggende e di tutte le falsificazioni  che da storici di oltre al pe sono siate propalate ai danni della corsica       scritta in forma piana e facile ques ta storia e destinata a diventare il b e  viario di ogni corso  nel cui cuore ne 8 sia spento il sentimento della prop  origine     o  t   u minadore  si mezziornu  e lu sole arrabbiatu ani vers u terrenu crcpulalu pio 1e fronde l arburu asscialu   als to fronde ata a ju jornu si e pisulu pipoi chi in tu roncu  ni iminad  egg  ja schiena tronca  u minadore   cun gonfie   ntintu di sudore  di accanitu cun petri ferringhie ne ogni tantu si pesa  eppoi abbinghie e seu gia prufondu chi ell ha futtu   belitiegirio ju terricciu eslratiu   fl ico suspirendu 1 e bellu pocu 1   e inva lestu la so  fronte in focu   poi si sputa in le mani  agguanta torna a mazzola chi pesa maraviglia   l alza eppo  mena  a volunta u piglia di vince  pare un cavallu chi sporna   ne giginte  lerribile  adiralu   da je petri lu focu e schizzillatu in mille stelle  cume di un focace    ja j erba asciutta  attornu si e  ntanatu e la ha falta piccia cume bambace    ma punda vede l omu   sianu tesi musculi e volunta versu lu scopu    ci voglin junghie  poseraghiu dopn  ob  quanti  a st oru  sarebbiau arresi   cappiati in pianu  gialli e senza liatu   cun le osse in pezzi e lu pettu crepatu    ma questu  no   perch un idea pazza l ha datu una pulenza sopr umana  piechia e ripicchia soltu la sulana   adopra piecu pal  di ferru e mazza   mena  fruzzica  ruspa ancu cu le unghje  senza fa casu a  petra chi lu punghie e ji mette le carni in sanguiniccia    un vole di   sa chi si ejlu si spiccia  affaccheru piu prestu lu metallu   quellu dio di li omi  rossu o giallu   chi fu chiamatu l oru   nunda sente lu minador  di u so  disiu schiavu   u corpu a terra e lu capu in lu scavu  feghia  belle siondate  altentamente   s appronia a bede sorge la furluna   jaterroga le tolle un ad una   e volta eppo  le gira  le malmena   e rompe o sinno le rascia appena   ci soffia nantu  e quand ellu le tocca  pare chi ellu li dia una carezza    e fissa cun prufonda tenerezza   cumu guarda le amante a cara bocca quand ellu chere  ansiosu  l accunseniu  ci vole a bede cum ell e cuntenlu  malgradu ja stanchezza chi lu piega   u celu accesu chi li pesa addossu  malgradu u polvericciu chi lu siringhie  quand ell appare qualchi frisgiu rossu    no  quella gioia nun si po dipinghie   lascia lu pistulettu o la mazzola   ferma immobile  cun l occhj sburlali  ritene un gridu chi li scoppia in gola  lestu si rizza  e  li bracci stinzati   sta cusi  cume in fervente preghera   ah  suda sangue ed acqua mane e sera  rientre in casa cu le vembre rotte  strazia cu le lumere ancu la notie     ma pude mette in fondu a lu bursellu di l amatu metallu un pezzatellu puru minotu cume on gran  di vena   dio e ricumpensala la miu pena   quante volte dino ju minadore ghiuntu allegru cu la speranza in core   si ne va stancu mortu a capu chjnu e senza lu valore di un zecchinu   l idea supranisce la stanchezza   u risposu li rende forze sane   ripiglia li transigli le indumane   e bia via versu la ricchezza o versu le speranze ruvinate   da chi le prime stelle so ciottate   a lu pisa di quelle di la sera   stara lu minadore a la minera 
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="10" type="art" xml:lang="fr">
+    <p>
+     l almanaccu di a muvra u a mi riu ci di a muvra qui vieni de pa  est a sa huitieme annee et celui ci n est pas inferieur a sex aines  il jes egale si meme il ne les surpusse ci par l elegance de sa presentalion ja richesse el l interet des sujels dont il truile la varigle et l originalite de son jllustralion c'est un verilable regul que son editeur offre a tous les corses et amis de la corse aux curieux d histoire corse ei de folk jore insulaire aux amaleurs de saine lilteralure populaire ale jire on comprend ce mot d un minislre de france qui est a lu fois un diplomate eminent ei un fin letto  mais c esl quelque chose de prodigieux que cet almanach de la auvra c est un chef d oeuvre du genre  je ne chercherai pas a analyser le contenu de ce maguilique ouvrage mais je voudrais inciler nos lecteurs a gouter et savourer cette substantifique moelle la vie intellectuelle de ja corse pendant l'annee 4929 y est exposee avec clarte et sobriete el aussi ce que l on peul appeler les manifestations du corsisme  mais ja politique proprement dile en est totalement exclue les recits du terroir contes hisloires drolatiques et  sla baloghj y abondeni signes des uoms de nos meilleurs auteurs dont certains sont d aussi bon poetes que des prosateurs distingues  le sampelraceiu ghiannettu notini  martinu appinzapalu sussinu codaccioni cic ci de delicieux poemes de babbuziu de tristani de filippini de simonu di li lecci de ghinvanni di a grolla de petru di niolu de minicale de l orsu d orezza de g olivicri et le spiriluel conte d'appinzapalu  u re di corsica  je n oublie pas non plus les mille proverbes el delli di paesi  dont le livre est emaille l 7 istoire populaire de lu corse de p di c doni le debul avait paru dans l almanach de 1924 continuee dans cejui ci et menee a bon terme succinte mais donnant l essenliel de notre histoire insnlaire elle est d une precision et d une independance qui meritent d etre soulignees elle constitue le breviaire indispensable de tout patriole corse  une des plus atlrayantes qualites de l almanach c est son illusiration a la fois documentaire artistique cl humoristique toujours instruclive el diverlissante elle est comme un reflet de l ame de la vie sociale et de l histoire corses des porlraits de corses illustres des paysages significatifs des dessins satiriques en forment la matiere essenlielle les artistes aimes au public kyrn maticu rocca canasi s arrighi corizzi et bien d'autres je ne veux pas non plus passer sous silence les fac simile extraits de la superbe anthologie des ecrivains corses de m yvia croce ni la photographie du bean bas relie representant santa divota patronne de la corse et qui est l'oeuvre du sculpteur corse damasu maestracci dont le taleni est des plus remarquables  comme on le voit cet almanach est d une vie d une richesse de fond et de forme d une diversite de ton exiraordinaire mais l inspiration qui l anime est la meme d un bout a l autre de ses deux cents pages et peut se resumer ainsi l amour profond ei intelligent de la corse son editeur petru rocca peut etre fier de son onvrage
+    </p>
+    <docAuthor>
+     Petru Rocca
+    </docAuthor>
+   </div>
+   <div n="11" type="let" xml:lang="co">
+    <p>
+     smentita  avemu ricevuiu u seguente bigliettu    ajacciu  2 marzu 195o   caru petru   cun grande surpresa  aghiu vistu figura u me  nome fra quelli di i cullaburatori di duie riviste esciute atfempu e dirette da un cumpagnu di fede di sei anni fa  chi affacca oghie da un si sa duve  dopu ave scambiatu di ideale e ancu di nome   a simile annunciu di cullaburazione do a piu cattegorica smentita e ti pregu da falla sape senza ritardu a tutti  un vulendu tene suspettu addossu     ti abbracciu 
+  s
+    </p>
+    <docAuthor>
+     Stefanu Luciani
+    </docAuthor>
+   </div>
+   <div n="12" type="div" xml:lang="fr">
+    <p>
+     memoires du r p de singlande aumonier  spedizione di maillebois 1738 1741  segnitu  pour lui il retourna le 25 septembre a son camp d ornano  le 28 a ajacio  le jour meme que nous nous emparames de zicavo un soldat de notre regiment fui trouve mort aupres d un tonneau plein de vendanges j en fus averti  je me transportai sur le lieu ou il etait craignant que cette hoisson ne fut empoisonnec par ceux qui l avoient abandonnee je ne voulus l enterrer qu apres que le chirurgien major eut fait l ouverture du corps  qu il m eut fait voir qu il n y avoit rien dans cette boisson  que le malheureux n etait mort que pour en avoir trop bu ce fut pour moi une raison d exhorter la troupe a se corriger d un defaut qui sous les yeux venoit d avoir des suiles si funestes  de fait cet exemple les a dans la suite rendus plus sages  plus moderes sur cet articie  nous ne restames que peu de jours a zicavo  nous eumes or  dre de nous rendre a la tavagna le regiment fut cantonne par differens detachemens trois compagnies furent a la vinsonasca deux a luciana trois a lento  le reste avec l etat major  les drapeaux furent loges au couvent des recolets de la tavagnia c est dans ce monastere que le fameux theodore avoit le plus ordinairement sejourne c etait son hotel des monnoyes  il y avoit fait battre toutes celles qui fureni frappees a son coin c etait le centre  le rendez vous de tous les rebelles du canton qui venoientaussi y harceller frequemment nos troupes de tous les rebelles les recolets chez qui nous logions  etaient sans contredit les plus dangereux on le connoissoit pour tels  on me chargea d y mettre ordre  je commengai par les assembler  leur representai combien il etait contraire a leur profession de fomenter la revolte des sujets contre leurs legitimes souverains la honte qui rejaillissoit sur tout leur ordre  le tort qu ils se faisoient a eux memes par une telle conduite  je leur ajoutai que le parti etoii pris d en venircontre eux tous aux dernieres extremites s il s en trouvoit seulement un qui parut avoir eu de mauvais desseins contre nous craignant encore que ni mes remontrances ni mes menaces ne  fussent point assez fortes pour les  contenir dans le devoir j eus soin de les faire desarmer  je ne fus pas peu surpris de trouver sur ces religieux  dans leur chambre quantite de pistolets e des stilets a l italienne non content de toutes ces precautions tous les soirs demi heure avant le soleil couche  je les faisois enfermer dans un dortoir a la porte duquel restoit une sentinelle  je ne ies en tirois que demie heure apres le soleil leve le jour ils ne pouvoient aller qu a l eglise  au refecioire sans sortir de leur couvent  sans parler a personne aucunes de ces mesures ne nous fut inutile nous etions perdus si la troisieme nuit apres notre arrivee lorsque les rebelles instruits de notre petit nombre vinrent nous attaquer avec des forces superieures les moines n avoient pas ete renfermes hors d etat de leur ouvrir la porte  de nous mettre entre deux feux  mais n ayant rien a craindre pour le dedans  tirant avec avantage par des creneaux que nous avions pratiques dans les murs du couvent sur ceux qui du dehors nous atta  quoient a decouvert nous nous de  fendimes aisement jusqu a la pointe du jour qu ils se retirereni apres avoir fait toute la nuit un feu continuel de mousqueterie noire perte ne fut que d un soldat tue  de quelques blesses la perte des rebelles fut beaucoup plus considerable  il n est cependant pas possible de l apprecier au juste parce que leur coutume eioit dans chaque action d emporter avec eux leurs morts  leurs blesses nous en jugeames par le sang que nous vimes sur le terrein qu ils avoient occupe  par les morts que nous trouvomes dans les bois par ou ils s etoient echappes ce qu il y a de sur c est qu il furent cetie fois si  bien recus qu ils ne furent plus ltentes d y revenir  que dans la suite nous fumes tranquilles sans danger  sans allarmes de leur part au bout de trois semaines ceux de nos soldats qui etoient cantonnes a la vensolasca me firent avertir qu il y avoit parmi eux nombre de malades qui dans l extremite ou ils se trouvoient avoient besoin  envie de se confesser persuade que comme il ne paraissait plus de rebelles iln'y en avoit effectivement plus  que tous ayant embrasse le parti de la soumission je pourrois sans risque me rendre ou l on m appelloit je partis accompagne d'un seul miserable corse qui devoit me servir de guide je n avois pas fait irois mille qu il survint une pluie si horrible que tousmes habits furent a l instant traverses  pour comble de disgroce le traitre qui me guidoit me fit tomber entreles mains de plusieurs rebelles qui etoient postes pres de ma route  qui me conduisirent au neveu de theodore sa retraire etait pour lors a six mille de l endroit ou j avoit ete arrete dans une epaisse foret ou plusieurs deserteurs dr 1108 troupes l accom pagnoient  on commenca par me faire en italien plusieurs questions ausquelles je feignis de ne rien entendre quoiqu effectivement la langue qu' on me parloit ne me fut point etrangere cette feinte me reussii en ce qu elle obligea les rebelles a chercher un interprete qui ne laissa pas de me servir ce fut un deserteur du regiment d auvergne ayant trouve moyen de lui glisser un ecu de six livres sans que personne s en appercut il m insiruisit de tout ce qui se tramoit a la cour de ce malheureux souverain il me dit qu un des corses les plus attaches a la personne de m frederic  c etait le nom du neveu de theodore se trouvoitalors aupres delui  me reconnoissoit pour etre l aumonier qui avoit cxhorte a la mort son oncle arrete par m de valence  pendu parles ordres de m de contades pour avoir voulu faire passer aux rebelles l etat du renfort qu on avoit mis dans ghissoni il m ajouta que cet homme pressoit instamment m frederic de venger sur moi la mort de son oncle dont il avoit cu la douleur de voir l execution sans pouvoir s y opposer n etant pas en etat de le faire avec le peu d amis qui se trouvoient avec lui sur la montagne ou il fut le triste speciateur de l injustice  de la cruaute des fran  cois dans le temps que cet inier prete m instruisoit ainsi du danger extreme qui me menagoit on vint m avertir qu il fallo1t paroitre devant m frederic quoiqu en effet rempli de frayeur je me presentai devant lui avec toutes les apparences de la plus grande iranquillite il eloit accompagne de 15 personnes de son parti il me demanda d abord combien j avois tue de monde  je lui repondis ingenuement que je ne faisois la guerre qu aux peches  sans faire aucun malaux pecheurs ii me demanda ensuite pour quelle raison je n avois point pris d escorte  si je n avois pas du moins des armes sur moi  je lui repondis qu etant pretre  ne faisant que l office de pretre j avois cru n avoir tesoin ni d armes ni d escorte parmi des chretiens instruits de leur religion il vint ensuite a une question qui probablement n etait pas la moins essentielle poui lui  me demanda combien j avois d argent ma reponse fut de lui remettre ma bourse dans laquelle il se trouvoit alors la valeur de deux louis en argent dix huit en espece d or  quelques monnoyes de genes
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="13" type="feu" xml:lang="it">
+    <p>
+     non impedilo da cosa che gli si parasse per la strada molesla  il massesi arrivo a bastia  dove chiese parlare col marchese di chauvelin  se non che questi di salule infermo   su le mosse di parlire per fransta  lo rimando al conte di marbeuf   sta disegno del conte accogliere acerbamente il messaggiere di pao   fargli un rabbuffo di male parole  e senza leggere lettere  ne udi e  ambasciate  respingere il tapino oratore  quando poi gli fn  davanti il bellissimo giovane  e in modesti atti  soffuso il volto di rossore  gli  manco lo animo dimostrarsi scorlese  tanta virtu esercita la bellezza anco nei piu duri   onde prese la lettera  la lesse e poi incomincio a interrogare malteo con parole oneste  da prima e da credersi che il facesse senza calliva intenzione  ma procedendo nel colloquio presenli poterne cavare qualche costrutto pei suoi fini  almeno gli parve  che valeva il pregio tentarlo   allora disse  trattarsi di negozio grave  non potergli vendere risposla senza averere consultalo prima il consiglio di guerra   fermassesi   qui volto ad un giovane cornetta della fisonomia maligna da vincere una scimmia  gli disse  signor tilly  io lo confido a voi  adoperatevi perche questo giovine gen  tiluomo non si annoi lroppo   e il cornetta senza  cerimonie intrecciando il proprio braccio col braccio di lui    vien meco  il mio caro orsacchiollo corso  gli diceva  tu stai per bubbolarmi la ganza  ma non importa   a ciascuno tocca la la sua volta   quando verro a corle ti rubero la tua    e via via con la  vivacila consueta ai francesi  massime se giovani e allegri  capaci a far tacere il piu assordante passeraio che mai si udisse sopra olmo  accanto alla foutana del villaggio    ei lo condusse a pranzo in compagnia di ufficiali piu o meno scapestrati di lui  ma scapestratissimi luili  quali fossero i costumi di francia  allora i libri francesi dissero  e ogni giorno ricordano lullavia  a noi sara bella tacerlo  solo tanto ne basti che il voltaire poleva scerre ad argomenio di poema lubrico la sacra magnanimila  e il martirio della vergine orleanese liberatrice della francia  ne solo il poleva  ma erane lodato  non pure ai lempi  di cui favelliamo sapevano i francesi decorare il vizio con veleganze delle grazie   bensi ora saccheggiavano le antiche e moderne scuole di filosofia per confermargli il regno  ed accrescergli dominio  matteo sobrio per desiderio  si trovo  di punto in bianco tra le commessazioni di un mirabean giovine di venti quattro anni  del dumouriez  figaro della  monarchia francese  e di altra genle di siffala risma   immaginate che torrenti di lava infocata dovevano sgorgare dalle labbra del mirabeau a ventiquallro anni   pensale alla girandola de  molli arguli che scoppiettava su la hocca del dumouriez   ci era da fare le uggire la virlu  rossa come una fravola  con le mani su gli orecchi  e  corsa a rimpialiarsi tra le pieghe della santissima vergine  non si trovare ne manto in mezzo a quelle sieura  si frequentavano e vero je chiese  ma non si credeva in dio  donde nacque la generazione dei preti  che deite quel lomenie brienne il quale proposto a luigi xvi per arcivescovo di parigi fece dire que  meschino     ahi  me  bisognerebbe almeno che lo arcivescovo di parigi credesse in dio    gli antichi  conducendo i numi su la lerra  cerlo avevano concesso alla materia troppa parte a scapilo dello spirito  ma i francesi mellendo la materia in cielo e in terra vennero a creare unico dio il piacere   e parvero allora anacoreti quelli che  emendarono la dollrina di arislippo cosi   sia dio il piacere a patto che non abbia per sacerdote il delillo  vennero bocce di vino di sciampagna  vennero donne  donne e bocce spedite di francia   e due di coteste corligiane si posero in mezzo matleo  e piacque ad ambedue   ma egli che potra vincere il  rimorso  non seppe vincere il pudore  e si svincolo dalle braccia delle male femmine  con dispello loro  ilarita di tulti  che vedendo il giovine menare calcie sergozzoni ne smascellavano dalle risa  urlando     due volte giuseppe  due volle    per ultimo i giovani sazii di bere e della invcreconda petulansa delle femmine  cacciarono fuori di finestra le hocce  e fuori della porta le femmine per dare luogo pero a vizio peggiore  il giuoco   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

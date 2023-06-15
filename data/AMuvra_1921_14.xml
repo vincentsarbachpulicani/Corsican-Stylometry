@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1921_14
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     debout la dedans  oh 1a la que ca sent mauvais   c est ca la politique l administration corse  ben nom de d     debout la dedans   l atmosphere de l ile autrefois si pure si embaumee est devenue irrespirable un lourd sommeil s est empare des fils de cyrnos jadis si prompts aux sublimes et decisives rebellions      tout dort tout ronfle tout cauchemarde tout suinte rien ne proteste dans l odieuse cambuse ou la france volontairement ou non nous a claquemures aux issues deux horribles sorcieres shakespeariennes aux seins pendants a la levre baveuse aux mains pleines d or et de chaines veillent assises sur des piles de cartons verts et des morceaux de bulletins de vote et leur haleine fetide qu entrecoupent parfois d affreux jurons emailles eux memes d eructations porcines ne contribue pas peu a rendre intenable pour tout humain conscient l innommable cambuse   oh la la que ca sent mauvais ladedans  on demeure stupefait quant on reflechit au nombre effroyable de coups de clairon qu il faudra essaimer dans l air frais du matin corse pour faire seulement penetrer en maintes cervelles l idee d un reveil et l'on tremble deja pour les cordes vocales de l orlando furioso auquel incombera la noble mais herculeenne tache de tirer le peuple corse de sa torpeur   ce n est pas  hatons nous de le dire  que notre apathie soit si grande si criminelle qu elle nous rendit desormais insensibles a toute exhortation a la vie et a l activite nombreux au contraire sont les esprits en corse qui reconnaissent l existence dans leur pays d une oppression aussi formidable que masquee nombreux plus nombreux qu on le pense sont les degoutes de la politique nombreux sont des fonctionnaires qui dans leur sollicitude de paternelle revent pour leurs enfant autre chose qu un rond de cuir ou un kepi galonne ... mais toutes ces energies toutes ces volontes tous ces bons coeurs subissent l influence du milieu le mouvement centrifuge donne d en haut s est abattu sur les masses une lugubre sonnerie a ordonne l extinction des feux  les camoufles se sont eteintes et avec elles les yeux se sont fermes les bonnes intentions envolees oh la la que ca sent mauvais la dedans   pendant qu un incomparable lethargie regne dans la cambuse corse nos elus s en donnent a coeur joie dans la capitale ou ailleurs  moro prefere mettre sa precieuse eloquence au service du rotisseur landru plutot qu a celui de la corse est il besoin de dire que chacun deplore l entetement de l eminent avocat a defendre toutes les mauvaises causes  crahit quemque sua voluptas  apres landru au conseil general landru aux assises de versailles apres l apologie du bourreau de marty et de badina l apologie de la barbe bleue de gambais fasse au moins le ciel que l eloquence du rheteur soit aussi vaine dans les deux cas et que bientot maitre moro devant l opinion corse vengee soit contraint de s ecrier au sujet de landru ii ou landry tout court ce sera ma seconde tete  pour l instant de moro giafferri sans meme se soucier de quitter sa robe au vestiaire file en chambre correctionnel ou celestin passe un mauvais quart d heure rapport a certain lard que ni l intendance ni les mayencais n ont encore pu digerer  en daignant s eriger en avocat des bons et meme des mauvais larrons me moro accredite la rumeur que l union landry  moro  caitucoli se referait incessamment pour le plus grand avantage la plus grande renommee et la plus grande gloire de la corse  il faudrait des millions et des millions de flacons d'origan pour que des  narines profanes puissent s accommoder l espace d une tierce de seconde de l atmosphere empuantie de la chambree politique corse ou les bleus les mecontents et les ecoeures sont a dure ecole   et comme il serait bien accueilli le caporal bien fendu de gueule qui bousculant harpies et cancres penetrerait dans la chambree corse et de toute son ame de tout son coeur de tout son degout et de tous ses espoirs vocifererait tonitruerait hurlerait debout la dedans   debout
+    </p>
+    <docAuthor>
+     Mathieu Rocca
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     a rama di oru  sapj chi cio chi li antichi e i populi stranieri chiamanu storia  sta parola nata for di e nostre macchie    unn e altru che a vita scritta o conta  per esempiu  si ella mi salta di cunnosce i letti e fatti di pedr antone o di ghiuvan santu e si dop a avelli messi in ordine i contu a tutt a palazzata  a tuttu u carrughiu o a tutt u paese  i me discorsi riuniti custituisciaranu a storia o a vita conta di pedr antone o di ghiuvan santu   possu fa megliu  si annant u corsu o in piazza a u marcatu mi stan a senta  e sin aghiu lu asgiu  cuntaraghiu quantu nascite  quantu matrimoni  quantu morte  quantu vindette ci e statu ind a famiglia di petr antone e inde quelle di a so razza  e posta chi pedr antone e di i falchittini  avaraghiuresu publica a storia di tutt una razza   si ognunu  in corsica  avia avutu primura di cunta o di scrive a vita  u bughiu un saria tamantu inde u fornu di i tempi antichi  sapariamu si ella era corsa o barbara a lingua parlata da i nostri antenati  avant a le invasione romana   sapariamu inchi annu o in chi seculu i preti so ghiunti di oriente perpianta a croce di christu ind e nostre macchie  sapariamu si i ghinuesi hannu be o male guvernatu la isula e di chimodu  dop a questi  i francese si impadrunonu di e nostre pieve  sapj chi a storia e un affare di minoria  quelli chi avanti di apre a bocsa o di piglia a pena un invocanu mica u diu di a mimoria  contanu o scivenu bugie  accupiata cu di altre  una bugia diventa una storia falsa  per esempiu  si dop a ave bettu un bicchier di vinu  contu chi tra cele e machie scopru un omu incurunnatu e bistitu di biancu  dicu a prima bugia  uni pochi di ghiorni dopu  ceccu u picuraghiu falendu da a sarra cuntara chi ella scupartu un albitru cu e baghe piu bianche cha neve  sara questa a siconda bugia  chi accupiata cu la altra divintara a storia falsa o fola  di lu omu chi culendu in cele face diventa mature e bianche e baghe rossi   di modu chi u populu  eridendu di avigne a vita eterna per mezzu di sti frutti  sciupara a u cuntrariu   di gattivissima pena in corpu 
+  s
+    </p>
+    <docAuthor>
+     Michele Coranu
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

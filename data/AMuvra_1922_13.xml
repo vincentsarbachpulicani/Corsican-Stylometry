@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1922_13
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     le 4 mai pavillons eployes l  edgard quinet  le  france  le  bretagne  le  paris  le jean bart  le  metz  le strasbourg  le mulhouse   l  amiral senes e cuirasses de haut bord ponctueront de leurs masses grises l indigo du golfe ajaccien  a quoi songerez vous lorsque par le travers d aspretto l escadre saluera de toutes ses EUR berthas  la terre cyrneenne et que les deux tromblons de la citadelle vous auront petarade leur bienvenue  au peuple heureux qui vit dans ces montagnes dont les gradins s etagent en gamme feerique or des plages flamboiement des granits vert tendre du lentisque toison fauve des maquis blancheur eblouissante des neves  au peuple heureux qui vibre au sein des cites claires que ne souille nulle cheminee d usine ou ne stride nulle sirene  nous  serait ce l odeur de cette poudre jetee aux mouettes du large   nous ne pourrons nous empecher de songer a cet autre 4 mai   celui de 1769  la veille le 3 de tenda a biguglia l armee francaise forte de 40 000 hommes ouvre sur nos milices le feu roulant de plusieurs centaines de gribeauvals    au fait a quoi songeriez vous  l air sera si diaphane la mer si calme de votre bord vous verrez flotter les banderoles aux cordages des tartanes et des goelettes au mouillage et aux laborieuses poubelles de la marie salope qui excave si consciencieusement les vases du port   nous  serait ce en nos poitrines la resonnance de vos tonnerres   nous ne pourrons nous empecher de songer a cet autre 4 mai   celui de 1769   ce meme jour les colonnes de grenadiers en tricorne affluent sur rapale en vain colle et relone capitaines montagnards font bonne garde   mais a quoi songerez vous dans la vedette amirale entoure des chamarres de neptune et de mars devant ce quai noir de foules impatientes   a quoi songeriez vous sinon au loyalisme de ces indigenes enthousiastes  nous serait ce la vue de ces ors de ces garances de ces bleus de prusse  nous ne pourrons nous empecher de songer a cet autre 4 mai  celui de 1709   le lendemain le 5 de biguglia a tenda 40 000 baionnettes brillent au soleil et se portent en avant pour l accomplissement d un des plus grands forfaits de l histoire  au prise avec une armee de soudards les milices corses doivent ceder la glebe de la casinca et des costere reculer pas a pas et venir le 9 agoniser a pontenovo   en ce jour le torrent complice emporte avec le sang des martyrs la liberte du plus libre des peuples   a quoi songerez vous tandis que la daumont protocolaire fendra le grouillement des feutres sombres  et des melons aussi helas  a quoi songerez vous lorsque au seuil du palais proconsulaire cet autre president celui de notre parlement hybride avec l assentiment des metis et creole  ses collegues nous debitera nous savons quelles sornettes sur la marne l yser ou verdun  a quoi songeriez vous sinon a l infinie reconnaissance de cette terre qui doit tant de ronds de cuir tant de livrees a cette france plus reveree plus veneree qu en nul lieu  nous ne pourrons nous empecher de nous rememorer les plaines lugubres d artois et de champagne nous ne courront empecher nos chairs de fremir au ressouvenir du lancinement des brimbelles de maillechort et des noirs eclats de la fonte  a quoi songerez vous lorsque des troubadours locaux clameront des suppliques aveulies sous les fraiches hetrees et les colonnades des larix  a quoi  sinon a la naivete de cette ame insulaire si proche parente de celle  des tribus du maghreb  nous nous songerons a nos 40 000 morts  ceux que nous vous avons donnes pour reprendre l alsace   nous songerons aux milliers d'autres que la corse depuis 150 ans envoya perir a austerlitz a moscou a l isly a malakoff a puebla a solferino a wissembourg  dans tous les bleds dans toutes les steppes dans tous les deserts dans toutes les pampas des deux hemispheres pour la plus grande gloire et plus grand renom guerrier de la france   nous songerons aux centaines de milliers d autres victimes d une criminelle incurie qui laisse depuis un siecle et demi l hematozoaire des marais putrides decomposer le sang trop genereux de la race  nous nous songerons qu il serait temps oui grand temps que la france maratre sans entrailles pour une fille trop aimante devienne enfin une mere sensible et reconnaissante
+    </p>
+    <docAuthor>
+     Pierre Rocca
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="fr">
+    <p>
+     resume politique  en 1921 le regionalisme corse a acquis l importance qui s attache aux idees basees sur la verite le nombre des militants et celui des abonnes a augmente considerablement et l experience acquise nous permettra de continuer efficacement notre propagande   en 1921 landry a ete battu a vico a soccia et a ajaccio la presidence du conseil general  est passee a gavini coty a organise son action basee sur l experience sa propagande cree de  nouveaux cadres et pousse ses batteries la banque de la mediterranee a ete fondee par lui pour encourager le tourisme et l industrie hoteliere que l on peut marquer d un caillou blanc cette preuve de realisation   en 1921 caitucoli a passe en correctionnelle par la faute de leon daudet et les regionalistes corses ont ete condamnes par les juges parisiens sur la denonciation de p o poli et des amis de leon daudet   en 1921 l etat libre d irlande a ete cree et fiume a ete reuni a l italie l egypte malte chypre la tunisie et le maroc ont tendu la main vers la liberte angora a battu athenes et moscou menace l occident de loucheur et de fraissinet l inde s est revoltee le canada se prepare l allemagne se cabre et washington l on a decide de museler la france que le monde entier dit n etre plus que le peuple de castelnau    en 1921 m millerand a declare etre regionaliste la reforme administrative a ete preparee le president ira en corse et en algerie relever le prestige de la metropole l on gardera le silence sur son passage afin de lui faire comprendre respectueusement que les algeriens et les corses ayant beaucoup aime la france entre 1914 et 1918 ont le droit d exiger la reciproque  en 1921 vittolo ambrosi historien anti regionaliste a prouve que la nation corse n'a jamais existe et que ponte novo fut tout au plus une bataille de fleurs  en 1921 vittolo ambrosi a prouve que charleroi la marne la somme l artois et verdun n ont jamais existe puisqu il n y a pas ete  en 1921 vittolo ambrosi a prouve que le bassin de la sarre imitant les corses de 1768 a appele les francais de marbeuf et de fraissinet   en 1921 p o poli n a pas publie le livre d or des massacres  en 1921 le monument de grossetti n a pu etre erige   en 1921 paul fontana n a pas erige le monument de ponte novo  en 1921 le livre d or n a pas ete publie nous proposons d en faire un livre de messe pour monseigneur afin de lui faire apprendre le corse
+    </p>
+    <docAuthor>
+     Orsini d'Ampugnani
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="fr">
+    <p>
+     on le trouve difficilement tres difficilement sur les cartes geographiques   on n a jamais su au juste a quel tyran monarque ou republique il appartenait ni de quel groupe d hommes ou de peuples il etait historiquement tributaire   des voyageurs ayant l'intime conviction de depasser gulliver par la taille et l esprit se penchent quelque toissur les indigenes qu ils traitent orgueilleusement de lilliputiens  ils les prennent sur les genoux dans les mains s en amusent les assoient sur des ronds de cuir les font parader en tous sens et sous toutes les livrees  pretant de temps a autre une oreille distraite au langage de ces petit hommes pas plus haut qu une botte et dont l oeil cependant est plein d eclairs ...  le monde est vaste mais nul jusqu ici n a eu pour ce fier petit peuple autre chose qu un regard de curiosite  les pseudo machiavels qui le gouvernent exploitent honteusement sa naive candeur ses elans genereux sa passion arabe pour tout ce qui reluit et flamboie   nation chetive peuple minuscule mais redoutable foyer d emancipation et de liberte  ont pourtant declare dans le cours des siecles des savants au teint cireux au levres minces  et ce declarant il ont leve l index au dessus de leur grimoire comme pour signifier a leurs contemporains  prenez garde sous ces peaux de bique sous ces poils de chevres il y a un coeur une passion une idee    car sachez le bien o enfants des vastissimes patries o myriades et myriades de tetards suspendus au sein de vos meres siberiennes    cette nation petite et rugueuse comme une coquille de noix a eu ses heures de fierte et de glorie   cette poignee d humains hirsutes que l etranger fait maintenant danser en rondaux accords d une musique negre donna autrefois du fil a retordre aux conseils d etat et aux saints offices  prends garde o gulliver ces badauds lilliputiens qui frolent aujourd hui les murs des cites ou qui s entassent tels de basromains dans les stalles de theatre eurent autrefois leur consultes supremes et leur juntes extraordinaires  la race qu ils prolongent aujourd hui dans la nuit de l'inconscience et de la mort a connu des jours de fievre des declarations de guerre sainte des ordres de levee en masse  garde toi o gulliver  comme la gorge se serre comme le regard s immobilise quand parvenu au fait des monts le dos contre un pin larix ou le coude appuye a un rocher mousseux on contemple la rage au coeur la sombre misere des vallees   et comme en depit de tout ce qu avancent les manuels d instruction civique le spectacle evident peremptoire tragique du non gouvernement di quellu paese se revele au yeux et a l esprit
+    </p>
+    <docAuthor>
+     Michel Corano
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

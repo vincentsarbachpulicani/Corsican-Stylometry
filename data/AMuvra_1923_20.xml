@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1923_20
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="co">
+    <p>
+     u rapidu di a ci  e  di  sciumiendu  bocchizendu e stanghittendu u fa ta ta  falava tra corti e ponte leccia  eramu quasi tutti insunuliti indu nostru vagone e zigunliavamu chi di una vanda chi dall altra cume tanti fighi penciuli  quan  du la intrata di un novu viagghjadore ci fece alza li occhj  u  viagghjadore era un prete  un bel giovanu  ridente e distintu  chi  mon  cher   trincava u francese  in prefezzione        chi peccatu chellu si sia fattu prete  mi disse  zia catalina  puntendumi di jovitu  marca propiu be         state bassa      a vostru con   tu  un si hanu da fa preti ca i voffi  e i trastagliuli     u prete  si messe subitu a  parla  a calca    parlava  cun tonu  risolutu    agguardendu a me  chi mi  lighja a muvra  e paria chi elli aspitassi una  risposta      sintite  o sgio curatu  elu  un capiscu tantu u francese     ma  capiscu e intendu u vostru  pinsamentu   truvate chi elli facenu  male di pianta qualchi pezzu di croce o di marmeru  in  pontenoyu      unn e vergugnosu  per tutt i corsi chi alzanu monumenti in tutt i  paisoli   chi ellu un faccianu  un ricordu qui   mi pare naturale     si vo sete corsu          4   francais  so dino eiu  simu tutti francesi  ma  infine   simu corsi   e tocca a noi  a onora i nostri antichi               capiscu  capiscu  avete peura l un ne esse abbastanza francese     mi parite un prete dottu e  intelligente  e ne sapete piu ca un parumeiu   ma  ditemi un pocu  chi avemu guadantu sinament ad oghje a canta sempre a listessa canzona a francia ci lascia canta  un ci da arretta   chi   li impiegati e tutti quelli chi cercanu avanzamenyi  cantinu e tracantinu   sinceri o no   sta canzona  lasciemu corre  ma  ci so a corsi chi ne hanu piene e stacche e volemu fatti e micca sempre serinati  a corsi ca si more  e so vene so biote e abbarte       de notre faute     mi stupiscu di sente ste parolle in bocca di un sacerdote corsu chi vede e bocca tanti vai     chi cresia  scusate  o messe u corsu e travagliadore     4 stercaghj e i lazzaroni so un eccezzione  u corsu  travaglia e si attacca a tuttu  ma e scuragitu  perchi un ci trova i so tornaconti   in pieghja ci e a frepa  un ci e strumenti cume in francia per spuretta a lu ingrossu   in muntagna  u cultivatore si tomba per nunda  ditemi  un pocu  voi altri  quale so ind i vostri paesi  quelli chi si so   un dicu micca arrichiti   ma addirizzati cu a cultura      nimu     u ranu  un si truvava a vende u fiore francese era a bonu pattu so cascate e paghjate e spiantati mulini      un ne e colpa nostra   e colpa di chi ci guverna chi un sappe ne prevede ne  ajuta     li affari un serianu cusi a malavia  si a corsica si guvernava da per ella         lasciatemi fini u discorsu  dicu  da par ella  perche ci vole cambia di imbastu  quand ellu muga troppu   un  si po   cu le amministrazione attuale   tira   u fossu ind una cumuna  senza u permessu di pariggi e centu mila scartaficci   e cumune so liate e mettenu trent anni e piu per fa una funtana  pruggetti e prumesse   a piene narpie  mafatti un si ne parli le autonomie sarebbe un rimediu e un ci  ne e di altru  li affari corsi trattati da vicinu  micca da luntanu  ci si vede chjaru  imbece chi in pariggi si ne ridenu  6 sgio curatu   ti nostri deputati  un ne hanu curagiu di apre a bocca  per un fassi juga a risa  poi  quale chi sa averanu quasi tutti liccatu di sacchetta annantu a bocca  allora    stanu bassi e runzeganu a pruvenda     choisissous  choisissans  un canapu  a vostra pulitica  quantu volte si cambia di equipe     francatu le onde pensanu a i sd affari e micca a u populu   i deputati  hanu bisognu di surveglianti e ancu di sfafile per viagghja diritti  ci vole per sorte di stu macinellu  le autonomie prumessa da millerand 
+  s
+    </p>
+    <docAuthor>
+     Martinu Appinzapalu
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1923_23
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     la derniere melee electorale nous a laisses froids indifferents aux agitations mesquines a la ruee des appetits au prurit des basses ambitions  nous avons suivi d un oeil meprisant les competitions des partis des clans des meneurs et des maquignons l ecoeurement seul est venu jusqu a nos levres  pourtant  pourtant apres la simiesque echauffouree autour de l urne a deceptions nous avons cherche a comprendre   depuis longtemps nous etions convaincus de la carence integrale d un regime ou les estomacs sont places plus haut que les tetes  en verite nous n attendions rien de l action de parlementaires bavards et parjures pour lesquels nous ne le savons que trop seuls les interets personnels les ambitions familiales servent de phares ce que la pauvrete du vocabulaire nous contraint d appeler leur conscience  mais voici le fait nouveau un homme deja pourvu deja gave deja satisfait pas bete du tout un energique ayant fait ses preuves vient d enlever a la barbe des professionnels de l intrigue et de la combinazione par son seul pouvoir de suggestion un mandat de senateur   et cet homme simplement pour remercier ceux qui lui ont fait confiance leur a dit ceci au travail les corses pour la corse  et vive la corse  vive la corse   nous en sommes et nous avouons que ce sera avec le plus grand interet que nous surveillerons les faits et gestes de celui qui parait vouloir  est il sincere    placer le pays natal au dessus de tout  de tout entendez vous bien
+    </p>
+    <docAuthor>
+     Cervoni
+    </docAuthor>
+   </div>
+   <div n="1" type="his" xml:lang="co">
+    <p>
+     a i dodecianni  inton francescu  un volse piu sente nome di scola  vai a scola  o anto franco vai  caru di a to mamma  st edima chi vene  si ellu junghje u sbarrazzinu  ti aghju da cumpra una bella berretta    un ti manca a scola  o antofrance  suplicava u bapu   voli purta a croce   un vedi cum io so domu e maccu da u vaglione    inton francescu sintia e capia  ma cio chi intrava pe un arecchja surtia per la altra  si cuntintava di nizzula    mi ha minatu tre sparmate  ci u bastone di a morte     ha fattu be  soga le avie meritata  a i zucconi ci vole chi elle di falinu in fanazza    mi ha minatu tre sparmate     a carbettu di ha troncu un ditu  a ghjacumucciu di ha fattu crepa un brusgiolu tupinu annant a u brecciu    eiu inna scola  un ci tornu piu    ti ne hai cusi da pente  o scimatigo   un sai quant ellu pesa u vaghione lucchisinu  abbada a cosu  u figliolu di chjarasgina  parch ella ha imparatu  qualcosuccia a scola  ava e statu nominatu capurale  dumane sara sargente cu i galloni di argentu annant a manica    u so pane e sicuru   batti e zambatti u bapu e a mamma unn abenu barba di rimanda  a scola a inton fraiicescu   nanzu ca tasta torna i colpi da u stitutore  un certu mannerinu chi battia a tutta passata e ghjurava cume un chertittere  u zitellu facia u banditu quandu si piattava daretu u mulinacciu  quandu si picchjava lestu cume un misgiu  annant a jesgia e si facia e so belle sunnate  ci avia fattu u so jacile di fenu  e di filetta e ci tinia ancu magazinu   cibolle  agli  pere e mele furaticcie  pane   biscottu    a sera  a tardi riintrava in casa senz ave abbartu libru     addispiratu  u bapu  piglio duie lovie e disse  vai  e curale per se cose    inton francescu averia fattu ancu u boia  u scularu divinto purcaghju e accitto u so destinu bassu e tranquillu  si sintia canta  da la mane a la sera  sottu e leccie di u vallerone e di u campu rossu  alegru e cuntentu   quandellu fu indi dicciot anni    ingaggiati  o  nto france  disse u bapu   e ora chi tu parti dino tu  vai e sai      o nto ghjungni cu u to pane   u junghjeraghju  o ba   u purcaghju fu subitu inregimentatu  era un bellu pezzu di zitellone  u ti mandonu a fa u zuavu inn algeri e fece iso cinqu anni    un passo ca primu sullatu  mancu capurale   mai strazii  a prigiunia   e  li insulti chi ellu subi  nimu a sappe ca da parellu cu e so povere coste    quand ellu sbarco inn ajacciu disse   bisogna  chi io tenga a mio parolla e a prumessa chi io feci a bapu u jornu di a mio pertenza    andede duve un boulanger  cumpro ottu o deci pani  i si messi ind un saccu novu framante  e cu u saccu accollu fece a so intrata in paese  ghjuntu in casa abbraccio u bapu ci a mamma chi dumandedenu    un ti hai sappiutu busca un pezzu di pane   u pane  po lu aghiu juntu  merallu qui  pienu su saccu   tutti sbuccionu da la risa   e poi  disse  inton francescu parlendu sediu  si ellu un basta que nu aghju e mio brecce  u stanteraghju   e ancu megliu a fa u purcaghju ca purta sempre lu imbastu cume i sumeri    oghje di  inton francescu u scemu  chi un velse runziga pane di guvernu  e riccu e pussede centu mila franchi e si imbuzarra di tutti sergentoli corsi e francesi   
+  s
+    </p>
+    <docAuthor>
+     Martinu Appinzapalu
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     quandu un scrivanu corsu  populare o incunisciutu  cuntinuvu o di occasione  di talentu o tenuvu di intellettu  ha scrittu un articulu infrancese sopre a situazione di u so paese di urigine   quand ellu ha dettu chi a corsica siriore och ellu ne ha criticatu i custumi suciali specialmente quelli pulitichi quand ellu ha fattu u contu di e so ricchezze edi iso bisogni  di e so bellezze e diiso difetti  tandu su scrivanu crede di ave svilatu una scuparta  maravigliosa in salvamentu di tutti i so paisani  e di ave messu almenu un pede in la pusterita   invece un ha fattu che ripete un povaru lamentu vecchiu quante u nostru titulu di francesi  e un suggettu  spessu ribattutu cume i scogli di a giraglia   quandu un parlatore corsu infrancisitu  cortu di memoria e di infurcatura  vene a cuntacci e maraviglie di u prugressu  e delizie  di a vita  civilizata  le ordine intratenutu da un amministrazione puntuale in lu paese duv ella ha trovu a rodesi un ossu  e quand ella ha cuncluse chi noi semu soli causa di i nostri malanni par difettu di iniziativa di vulunta e di spiritu di assuciazione  tandu su corsu partitu prunu bastardu e rivenutu chiarasgiu amarenu  crede di avecci datu una lezione prufitevule e di ave dirittu a primu premiu di omu dottu e raffinatu   invece  un ha riesciutu che a fassi da u titulu di scemmu da i so auditori  chi  megliu ched ellu  sanu duva timbastu  i muga  e cunnoscenu a forza di a trava chi impidisce di arpia par lampa a somma   un vogliu  pero  fa risorte qui  pinutilita assuluta di certi articulu e di certi detti  e mancu pruclamalli nucivi pe a causa chi elli credenu di difende in sa manera   ma  pretenducun e mica a forza di suspiri chi noi pudaremu intenneri a clica riffiarta chiamata   puteri pubblichi   o custringhie a fa u so duvere a clicaccia pulitica  in majo parte cumposta di juda e di caini chi ci vendenu a i marcanti di schiavi  trafichendu cu i ministeri e i putentati di finanza usuraria    pretendu ci un e mica dentuci unu a lu altu  rimproveri  affirmenduci davant a u mondu di li affari  corci micidiaghj  chi noi putaremu attira i capitalisti per   sploita  e nostre ricchezze territoriali   pretendu  infine  che a noi un ci vole frati par dicci prighere mortulaghie a u capizzale  ne umili pelegrini chi dumandini eternamenti a limosina sottu e finestre di a republica francese    per salva a corsica un ci vole piu che le unione di tutti i veri  corsi  aggruppati per un azione energica  e belle regulata in le cunsulte   populare cumm elli facianu i nostri antichi  in prisenza di una calamita  ci vole a furma uva cunfraternita esclusivamente cumposta di membri libari  sinceri decisi  in flvelta aparta contru a tutti i farabustieri di ogni pelu  e pronti a da anima e corpu pe u risorgimentu di u paese   sa cunfraternita deve esse diritta da omi di cori e di talentu   a corsica un e manca  grazia a dio   capaci di rivendica in cu fermezza tutti i nostri diritti a la vita nazionale  in cunfurmita di nestri meriti chi so belli grendi  deve esse stesa da un cantu a lu altru di a corsica afine di acquista abbastanza forza par pude difenda i so membri contru le inghiustizie  impone e so vulunta ragionevuli a i puteri  publichi  e pude purga a nostra reprisentazione eletturale di tutti i corsi chi l avilisceno di tutte e sanguette ingorde surttite da u pilacu puliticu  chi ci succhianu fin a la ultima stilla di sangue   un organisazione simile e digia nata e battizzata   si chiama   u partitu corsu di azione   e un li manca piu par sviluppassi  che rincallu e bona cura   i so prugetti so grendi  u so scopu nobile  e so teorie ghiuste  e so spirenze ben fundate   un vole mica fa rinica francia da u populu corsu  cume certi infrancisiti tecchj a pretendenu   ma vole chi a corsica eroica  famita mezu a tante ricchezze naturali  un sia piu rinicata da una francia ingrata a capricciosa chi veste nanzu una scimia di u dahomey che un orfanellu corsu  in casie cuntrariu  chi ellu si sparti cucchiari e tinelli   ed allora  parchi no     
+  s
+    </p>
+    <docAuthor>
+     V. G. d'Altimonti
+    </docAuthor>
+   </div>
+   <div n="3" type="art" xml:lang="co">
+    <p>
+     sopra all origine di a lingua corsa  sinad oghie  si e fattu pughissime ricerche  e ucampu si ferma liberu e immensu per tulti li amanti di nu  parlalu maternu  e ora chi elli   si discetinu e portinu una luce appassiunala ind abbugghjamentu pre me dievate chi a trascopre    dui fatti so certi   a corsica pussede la unita di lingua  da sarte a capu corsu    a lingua e una   ci capimu tutti tra di noi eccettuatu cu bunifazinchi   malgradu una certa prununzia lucale e qualchi termini particulari da paese a paese   missiavu  bapone  granasgioli  granaghjoli  un cavaddu  un cavaghju  un cavallu  insiste chi u corsu e un mischiu di termini straversi  cartaginesi  sarracini  aragunesi  greghi  iuscani ci francesi e un pezzu di eresia     a lingua e a  ln cunseguenza un ne ha bisognu di stazzunaru per appiccianne i pezzi e furma un ardignu novu  lu bloccu splendidu e lavant a noi  un pucucciu carcu di rughjne   tocca a noi a pulillu    da duv e scalatu stu bloccu      parte da i dialetti di a penisula  parte da u latinu  un si po nega a parintia cu u tuscanu  ma  tra u corsu e u talianu di oghje  ci e un bellu fossu  allargatu e sgarganatu dai seculi    i scrivani corsi   e de paoli   fecenu usu di u talianu  lingua adulta e ricchissima  cascata a moda di u talianu  eccu quella di u francese  ne la una ne la altra  unn hanu suffugatu u parlatu pupulare lingua possente   dice tommaseo  sta lingua possente  putente  bisogna a rispettalla e a tenela cara cume a luciula  di li occhj  dunque  vardemuci di vestela di visliti impristaticci  eccezzione fatta di ciochi abbisogna  u bisognu abatte a legge   inquant a manera di ortografialia  i lettori di a muvra  cumencianu  a cumoscela  tra u chi talianu di vecchio   u tii corsu   sonu palatulinguale  di a prununzia nustrale  ci e una differenza   e percio si scrivevecchji  cusi a serittu falcucci ind u so vocabulariu corsu talianu  cusi scrivenu li autori di zannu corsu  e cusi scrivimu ancu noi   per l o  chi in talianu e marcatu bisugnerebbe a addutta u  talianu  tocca aenostre academie corse  a metteci tulti di accordu   ci e altri punti   u v si pronunzia quandu v quandu bi  bisogna a scrive v in ginerale per causa di a radica latina  un segnu e necessariu per marca a pronunzia bi    vugata a u locu di bugata  verita a u lecu di berita    si sa di altronde chi a pieve di ghisoni moltu stesa  pronunzia sempre u v  a pieve di vicu  e molt altre tenenu a u a  cusi cu stu segnu  ci saria intesa  
+  s
+    </p>
+    <docAuthor>
+     Dominique Carlotti
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

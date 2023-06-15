@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k13308578
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k13308578
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 304 | Année 8
+     </edition>
+     <date>
+      1927-12-01
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     annu VIII — Numaru 304 i Esce ogni dece iorni 1 Decembre 1927   GIURNALE DI E PIEVE DI CORSICA  ASBUNAMENTI :  Gorsiea. - + + r~. TT... ..... 12 franchi in  mFrancia.- +. +. &gt;&gt;. ...... 15 »  A PEsteru. &gt; --.... 80  U Mumaru:5 séldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  38, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     a gran vergogna  larburu di pura sumente  gallica  postu ne stu paese  gallica  posti te fu sciaguratu 1769  innacqua u cua sanguiniccia scatinata da a rivoluzione  porta oghie  sun sfacciatu orgogliu  i so bite PS  frutti magagnati   un cuntattu di un seculu e mezqu tra u pulente cunquistafore cu miseru vintu ha datu u risultatu previstu da sta legge scientifica  u populu numericamente u piu forte rigala sempre a   populu aggregatu i so vitj e difetti  senza mai falli donu di e qualitai chi ellu pussede  i  un programma di publica istruzione a norme egoistamenle centralizzatrice face sorge da a vecchja razza pe a quale dlu fu stabilitu  sapienti  pensatori amministratori e pueti  mentre chi ellu pruduce scarti di periferia   in corsica  cume cunsequen1a di vimpussibile assimila gione di un ideale indigestu pe urazzinu  lu effettu di una cusi bruttale azione apparinatrice si manifesta ci una particulare  acutezza   ln tal modu chi  da mare in la  cirnu vede culla fin a e stelle a furesta di i pulloni l1scie dritti  tandu chi da e so seppe scupine un spuntanu ca muzziconi storti e prunicosi   spapersi per ste francie gialle e nere  i cursacchioli frmati schietti malgradu u fumentu sculasticu  so sempre a mischini li impiegatelli o i sargentucci   quelli nant a u quale lu inseluhacacciatu cu vigore  crepamu chierchiu di a mediocrita fentendu versu duv elli so stali indirrizzati   pisulanu chi face un passu ondu la infurcatura di u padrone aduprara sempre i mezzi chi a cultura di u regime la ha partitu cu munificenza  sa e puliticanciu senza fede  puliziottu senza scrupuli  rinnegot  sempre     duve so i scienziati  i lette eti  partisti di sanna di radi one nustranu  furmati da l in gnamentu di strapazzu im  stu a quattru generazione   min di lecca stifali a tira e e e di capi riurma ne se  ricchi e straricchi    u puliticanciu rinnegatu  ne  i e sa $ femina cu i pedi di a luma a     sdrontu a coglie ancu in lu  stercu  ci e u compj faccendaccia 2 u biola catini ouverna si  tivi   esempj recentissimi parla  nu e accusanu   li altri eri  una manatella di  eroi volsenu franca a fruntiera per salva le onore di una patria sepellita  ogn unu  davanti a simile sacrifiziu  firmo muiu di ammirazione    si cunosce a manu impia chi mando a santa cruciata in fume   oghie duie pruvinciezricunquistate  marcanu a so vulinta di esse   elle stesse    un guvernu senza russore scatena foppressione cu ciocch ellu trova per accitta i peghiu incarichi  un tagliolu di corsi funziunatj  puliziotti  magistrati    e ancu prisidenti di sucieta dette patriottiche   cusi  u disdegnu universale si cala sopra a la isula intiera  a razza stessa chi ci piglia per fa i boia ci vomita senza piglia guanti   ste righe di disprezzu  chi chateaubriand scrisse ne u 181 4 accennendu a napulione  mi abbagliagheghianu sempre  battendumi a furlana davant a li occhj     il fallut donc songer a etablir un chei supreme en qui la loi corrompue dans sa source protegent la corruption et fit alliance avec elle  des magistrats integres fermes e courageux  des capitaines renommes par leur probite avtant que par leurs talents si etaient formes a u milie u de nos desordres   mais on ne leur offrit pointun pouvoir que leurs principes leur auraient defendu di accepier  on desespera de trouver parmi les francais un front qui osat porter la couronne de louis xvi  un etranger se presenta  il fut choisi z  e ssu   strangeru  fece a francia grande  troppu grande   cumu judicaranu i francesi diu 195o  i  strangeri  chi cuniribuiscenu a falla chiuca chiuca 
+  s
+    </p>
+    <docAuthor>
+     A. F. Franchi
+    </docAuthor>
+   </div>
+   <div n="2" type="let" xml:lang="co">
+    <p>
+     lettera aiaccina  caru cumpagnu   stamane  tempu lampatumi de a mio guagliula  mi so messu a u lucerninu di a mio stanza di u primu pianu a cumincia pe u celu  e aghiu vistu e vostre sarre infarinate  qualla qualla  versu nordu  e cusi  aghiu pensatua te     aghiu pensatu a te  oramai liberatu di tutti  ssi rumori di i cittadini in frescheghiu  ein traccia di ricumincia ato vita di topu cume tutti li inverni   averai fattu  almenu  a to pruvista di ceppi  si a to carciula unn e ancu piena  prufitta di st ultimi jorni di novembre perche a sai fattu sant andria  addiu robba nostra  pe i belli tempi in sti nostri paisoli di muntagna   appuntelleghia a to sima in casu di forte nivaghione  abbicina a chiostra di u to mannarinu  di manera chi ell unn  appia a stringhie u currighiolu qualchi ghiornu di tempurale  castra i to cunigliuli masci da chi elli ingrassinu in stu periodu di nonriproduzione  rispara u pane  rimpattenduti sopra i pomi  incuraggisci a  to moglia u piu chi tu poi da chi ellu un li pigli a franasia di a citta  poni e cioccie primaticcie da chi i pullastroli sianu manghiatoghj stu maghiu e allocaci qualchi buttigliaccia di u to vinittone da quandu veneraghiu pe a mio    campagna eletturale   ridi or bella  bella  un mi possu prisinta  soga  e riesce ancu  alo bia     vegu chi ti un si praticu in la quistione pulitica       ascolta be u mio pianu   u sgio petru france un sentendu alcun rimusciu di can didatura seria in lu circundariu  dorme tranquillu in lu so lettu impiumiciatu  cuntendu sopra a so reelezzione apparu 2  pussibilita di tirassi un boccapanzulu quand ellu vole  scuciuratu  un si e ancu mossu in cerca diu tontu bajuccaghiu chi apre u bursellu in tutte li elezzioni di li altri  cu a speranza di appoghiu pe a prossima soia in dominu svubiscu l so capimacchia i cunosci ancu tu cume me  scunsulati di un vede a beata manu lampa nissun pruvenda in la magnatoghia  nasitteghianu in tutti catagnoni e un diciarianu inno a  prima sacchetta qualunque chi li capiteria sottu e nare  li elettori  elli corci  di vede chi elli hanu da vuta cusi  senza sente u minimu frombu senza mancu quella speranza di pude fa  pum  pum  evviva u sgio tale    a u scrutinu e senza quella suddisfazione di arricumandizia pe u succorsu  a causa persa  lu impiegarellu e tante mancierelle  passanu e so veghie mute mute  capizzendu e pensendu in elli stessi   tuttu sparisce in sta nostra povera corsica mancu piu lotta     chi ruvina di populu    mi vedi dunque affacca caru cumpagnu tutta un trattu cume un accendita ci un toccu di ticchetta tamanta cusi    cu a scrizzione in lettare di focu   candidatu un canapuchititiriucollistu  a prufessione di fede venera dopu  e  a le occasione cine pudemu ancu passa  un vedi micca  tu  u cambiamentu di fisunumia di i nos  tri elettori paisani sicuramente  molti etanti chi cunoscenu u mio ciarbellu e a mio situa zione  rideranu e circaranu di fammi una gattiva prupaganda   ma un dubita  cumpagnu  chi ci sara u stuppone per quessi  abbicinati chi io a ti softj in la arecchia    u sgio cutesciu chi ha u maneghju a u ministeru mi ha scrittu in sti termini   fatti avanti  averei u mio appoghiu  ci seranu e permissioni per tutti i funziunari di francia e di e culunie  e ci incaricheremu di appiuttula sopra a locu quelli chi no dubitemu unn esse nostri    e una   u sgio cogliad oru a u quale ne sgio cutesciu ha fattu intravede un postu di senatore pe  prossime  ci chiocca in manu un mezzu milione   u sgio cutesciu si cuntenta di 1oo ooo franchi  dui centu mila i mi tengu per tanti affarerelli persunali  e quill altri trecentu  avanti  figlioli  ci e di u bonu      nimu esitera  a parte a manatella di i scrucchioni chi mantenenu a pazza abitudine di vuta sempre  da babbu in figliolu  pe a famiglia di u sgio tale  e duie   e viderei o cumpagno chi un ci sera ne u sgio petru france ne u sgio francescu pe chi tenga  ci vole a sbuttalla    tu  pe u momentu  zittu e mottu   cuntentati di esamina in sottu in sottu e dispusizioni di certi elettori  di e moglie sopratuttu   ma un palisa le affare di u sgio coglia di oru  o sinno  simu fritti  un dubita per to contu chi a to parte un sara di nimu  sumena quantunque a nutizia toccu ferraghiu o aprile chi ci sara un tippu a finanza e ind a manica cansati da parte meia in tutte e cantine e i caffe piu fraquintati  lasciendu le ordine di da abeie gratisi durante tutt u mese avanti li elezzioni   salutami i nostri  e tenimi a capu di cio chi passa   una toccamanata  
+  s
+    </p>
+    <docAuthor>
+     Altore
+    </docAuthor>
+   </div>
+   <div n="3" type="his" xml:lang="co">
+    <p>
+     raconti di a muvra  si l un po  campa  mori   u vaghjmu era vinutu  i castagni avianu persu i so fogli di oru  1 vadini cudravanu a matina e u jelu impulvariitava di sali i stra  di  i monti si erani cuparti di i so manteddi banchiindiamantati da u soli di nuvembri  u nostru soli mai pallidu  cu sti notti jlati  a u fuconu di zi marcu  ciu franchi si facinu jfoghi da pude arrusia porchi salccfichiintierti   una sera a veghia  ci era indezi marcucciu u so amiconu zi francescu bacineddu  dui cumpari tarucconi e maliziosi chi passavani   so lempu a ghiuca torna a la jenii    si avvicina natali  o cumpari marcu  e uri si e arcu tastu un cuscivitu di bevaru  incu stu fempu frescu ni sartaiu brama    oh  cu si bonu  un cusciutteddn ben arrusiilu   bei tardatu   i fe   imbeh o  france a vita e cara  e sii pastori un si poni piu accus  ta  si edd un si caccia qualchi stusta ju saccu  lu agrostu si ni va in fumu         ma lascia corra     partaremu pa sti pacciala  e si vidara     ma quandu    dumani matina  subitu  ma qui semu troppu cunusciuti  si passa u fiummujeci ne andemu in ornantu   u lindumani  i dui cumpari si truvedini nu soldi gatta e partinu versi i carabona di u taravu    zymareuctiu  chi un pirdia u jilu si avia fattu prista scusa di anda a un battezinu  a so flacchina e u so dicalitru a u sgio lavativu u spizioli  e ti in marchiava piu sticchitu che ii sgio ghierra     ma chi e sta carnavalata  o cumpa  a  5  ue  i    e un vedi micca chi stamani so u duttori globisi  x    ah  bravu  bravu cuminciu a $enta li adori di parrostu   zi francescu e zo marcucciu passedini uu  taravu pa verga di campu lavu e si truvedini in tarritoriu  ziddaresu  cula erani incunusciuti e pudiani esarcita i so malizii         un beddiu soli di nuvembri  surtitu da darretu i punti di a vaccia  immndava dichiaru a vangunata di u taravu  e 1 nostri dui cumpari ammiravani i diamanti splindurenti chi eddu mittia in tutti li veira di i  balconi di ziddara appicatia mezza costa      jhtantu  junsini a u stazzu di un certu   santu marangonu chi  un pocu intimidatu da  flacchina e u cappedd altu dizim arcucciu isaiuto  e  curiosu  li dissi       bonghiornu  signori e du si muarchia       si    seu dultori globisi di petretue vo apeda un malatu a zidda   chi e diu chi vi manda  sempri sialaudatu u sonomu   me fra ted w andita ha tu so piu minori malmalatu  viniti a vedalu  o  sgio dutto  i     ma cd briscaiu  e  sta far    ma   so prissaiu  e   sta forsa luntanu u vostru frateddu     a  vinti minuti da qui  eppo  lpora si avanza e vi piddaristi un bucconu     st    zi bacineddu cumincieti a veda in sonniu un  cusciottu di bevaru incrustulitu davant a un beddu focu di legna liccini       alo andemu  dissi u fintu globisi    3 i di  e dopu vinti minuti di marchia imd un pratu pienu di arba chi cin   quanta pecuri fiddaii si tundiani  a capu bassu  u   dutiori   e u so cumpagiu junsini a u caseddu di gl andria    i  nant a un sacconu di casci di granonu  accant a u focu  ci era un zitiddacciu di una dicina di anni chi inciapatu da la frebba  rispirava difficilmenti  i  dopu di ave vultati e ghjratu u malatu  4 nostru duftori dissi     fun freddu  ma sara nienti  tumibetiu vostru piu grassu bevaru  scurtichetilu  mittiti a prddi calda innant a u pettudi u malatu  euo  o madama  priparetimi un brevi chi aghiu da metta un orazioni a u coddu di u vosiru ziteddu   i priscrizioni funi intesi subitu  e come  ra tempu era vinuta la ora di a cuddazioni  quidda carri cusi tennara di u bevaru fu missa ad arrusta a crusgiulera  e prestu a capanna fu piena di un adori da da lu appitittu a un mortu     zi marcucciu  e si francescu  beddi amaschittati  si ne andedini biniditti da i parenti di u malatu   quistu fu prestu guaritu  ma a moglia di zi andria  curiosa  volsi vedi li orazioni di u brevu   l apri e iruveti scritta sta fr asa  si fun po campa  mori   parlata di sarte
+  s
+    </p>
+    <docAuthor>
+     Simonu di li Lecci
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="fr">
+    <p>
+     la republique francaise contre la liberte de la presse  un mot d histoire voila presque cent ans le roi charles x voulut d un trait de plume supprimer sinon la liberte de pensee si rudement acquise par vingt annees de revolution au moins abattre toute opposition aux cenceptions de son gouvernement il supprima par  ordonnances  trois journaux et soumit les autres a une rude censure  c etait le 24 juillet 4830 six jours apres le trone des bourbon etaitrenverse par les fusils revolutionnaires la censure supprimee la presse libre  il semblait qu un droit aussi essentiel que celui pour le citoyen d exprimer son' opinion dit etre sauvegarde dans un pays qui n a pas recule devant trois jours de sanglantes revoltes pour le defendre il pouvait sembler qu un gouvernement se disant heritier direct et convaincu des doctrines de 1789 et 1830 serait le dernier a leur porter atteinte  un scandale sans precedent j avais ici meme voila un mois raconte comment le prefet du bas rhin m borromee avait averti paul schall que la zukunft serait supprimee si elle continuait a s occuper d autonomisme  j avais meme indique les raisons que fournirait le gouvernement de parisa son acte s il venaita mettre sa menace a execution  comme on connait ses saints on les honore  le programme a ete realise point par point   d abord protestations  spontanees de societes et groupements des cheres provinces recouvrees contre les  menees autonomistes  ces societes  d aucunes aussi libres d attaches gouvernementales que la ligue maritime et coloniale  sont censees representer l'opinion de l alsace justement indi gnee par les abominables campagnes autonomistes  4 deuxieme acte le gouvernement s'emeut sous la pression de l opinion  troisieme acte il agit il interdit la parution de die wahrheit die zukunft die volkstimme  pour cela il deniche au fond de l armoire un vieux decretlaisse pour com pie permettant au gouvernement de supprimer  tout journal paraissant en angue etrangere sur le territoire francais   et comme ca on est republicain quand meme et on reste la patrie dela iberte a  com're e colmar comedie nons disons ici que les raisons les pretextes les excuses du gouvernement de paris pour ur acte qui nous ramene au doux temps du bocher c est de la blague c est une grotesque farce que les lecteurs du journal ou du petit parisien gobent cela c est possible pas les notres pour sur nous n avons pas cette admirable discipline de notre belle presse francaise etfransquillonne  et nous avons notre franc parler   d abord qu on nous laisse un instant de douce gaite au spectacle de l  opihion alsacienne si noblement courroucee contre les defenseurs de leur pays quand on avoue comme l ont fait les journaux francais des tirages de 70 000 26 000 a des bi mensuels et hebdomadsires autonomistes des chiffres pareils pesent d un sacre poids dans la balance en face de la motion de telle ou telle societe de gymnastique plus ou moins squelettique l opinion alsacieane mais elle parle allemand mais vous avez designe vous meme ou elle etait  en nous frappant on nous de signe  dit bien avant nous l ecriture  ou la comedie tourne a l odieux c est dans l emploi fait de l article de loi concernant les journaux de langue etrangere contre les journaux autonomistes alsaciens cet article remonte a la fin du siecle dernier et fait partie de lois a exception vetees apres les attentats anarchistes de 1893 et 1894 il visait par son texte meme les journaux de langue etrangere paraissant en france et faisant de la propagande anarchiste  monsieur safraut ministre de l interieur les temps sont deja lointains ou vous usiez vos culottes sur les bancs d un quelconque lycee mais de votre temps on etudiait seriensement les racines grecques vous savez donc ce que c est qu un anarchiste ce que c est que l anarchie   etat d un peuple qui n a plus ni chef ni autorite a laquelle on obeisse ni lois auxquelles on soit soumis  dit la docte academie francaise elle meme  nous n avons pas ici la vision assez tricolore pour spercevoir que demander des chefs une autorite des lois qui ne soient pas celles dela france ca veut dire ne pas en demander du tout  ou vraiment croyez vous que votre peuple est le seul possedant une organisation des chefs des lois sur la terre  confondre autonomie et anarchie c est marier la carpe et le lapin decidement a paris on n a plus peur du ridicule  mais autre chose le gouvernement pour frapper les trois journaux strasbourgeois a da comme or vient de le voir s appuyer sur la pretention qu ils sont ecrits en langue efrangere  etrangere ou a paris bien sur mais a strasbourg mais dans les cheres provinces  laissons parler la zukunft elle meme  au vii siecle deja l eveque bernold de strasbourg a traduit la bible en allemand en mille ans le peuple n a jamais prie et chante qu en allemand a strasbourg a paru un des premiers journaux du monde en bon allemand dans tout le pays ne se trouve depuis la premiere liberation de 1681 jusqu a la dixieme annee de la seconde aucun autre livre religieux ou de cantiques qu en dor allemand   langue etrangere mais la cause est jugee depuis longtemps la langue etrangere en alsace comme en bretagne c est le francais et lui seul tous les efforts d assimilation que l on voudra tous les resultats que l on en obtiendra n enleveront jamais aux peuples conquis le droi strict de considerer leur langue meme agonisante comme la seule qui ait le droit de cite parmi eux les dragons de louis xiv les prefets de m doumergue n ont pas plus donne une place nationale au francaisen alsace que les soudards de charles viii ou je duc de chaulnes ne l ont naturalise en bretagne  nos langues nationales gens de bretagne du d alsace vous les connaissez ce sont celles qne l on combat que l on traque l autre celle que for nousimpose c est l etrangere la hors venue tant pis pour la sensibilite de quelques revenants  en alsace et de tous les gallo romains a la goffic de chez nous  la ridicule facade de legalite et de bon droit botie peniblemeut par le gouvernement de paris pour voiler les veritables mofifs et l aspect vrai de son acte s ecrouie donc dans la poussiere  comme sous la pastille de chocolat monsieur sarraut qu'on vous donnait etant petit vous deceliez vite le gout amer de la pilule purgative et perciez a jour le mensonge des pharmaciens  vers la dictature de l opinion en realite une fois dechire le voile des pretextes gouvernementaux le geste d hier en alsace nous apparait dans sa nudite ignoble   c est la liberte de la presse c est ja liberte d opinion ce sont les droits du citoyen les plus sacres qui sont nies aujourd hui par la republique francaise par un reniement inoui des doctrines sur lesquelles il appuie sa legitimite le gouvernement parisien pre tend imposer par un coup de force sa politique au peuple alsacien lorrain  jadis on brilait ainsi tous les ouvrages coutrairesaux dogmes affirmes par les religions d etat  quand on ne brulait pas leur auteur avec   aujourd  hui il y a en france une nouvelle religion d'etat idole mille fois plus sanglante et impitoya ble queles tabous les plus affreux de l afrique  c est l impe rialisme francais punitarisme delirant des peuples enerves qui dans leur fai blesse grandissante puisent la rage de voir penser autrement qu eux parler autrement qu eux  cela cette caricature du patriotisme les francais pappellent le culte du pays de l unite nationale et pour ce dieu nouveau ils n hesitent pasa commettre contre la liberte de l esprit les attentats les plus scandaleux   proces zorn suppression de trois journaux il ya un siecle le peuple parisien pour moins que cela etait sous les armes 7 nous parlons droits nous devons parlerdroits dans ce pays les francais ont grave le mot de  liberte au fronton des edifices ils disent avdir apporte au monde la liberte de conscience et d opinion  c est au nom de tout cela dont ils pretendent etre les papas que nous protestons ici de toute notre conscien ce d hommes libres d hommes modernes nous avons le droit de penser et d ecrire ce que nous pensons la france n est pas le bon dieu la france n est pas intangible nous sommes libres de l aimer ou de ne pas l aimer et dele dire  mais messieurs du gouvernement vous venez de nous montrer malgre vos raisons ridicules le cas que vous faisiez des droits de la conscience humaine republicains vous  droits de l homme et du citoyen allons donc  les raisons veritables et au fond quel aveu d impuissance dans le geste maladroitement brutal du ministere  les elections de 1928 s approchent pendant des annees par sa presse le gouvernement a stigmatise l impuissance des autonomistes une dizaine de fous en bretagne une poignee de prussiens en alsace lorraine  a t il donc tant a craindre dans les trois departements reconquis a t il si peur de la prochaine consultation electorale entre rhin et moselle pour baillonner ainsi a quelques mois d avance la presse autonomiste on peut le croire comme on peut croire les 200 000 lecieurs qu avouent les trois journanx supprimes l etat vient ainsi de faire a son corps defendant un eclatant aveu de la force autonomiste en alsace lorraine et de la peur legitime qu il a de ses conquetes de demain  l avenir est a la liberte je dis bien de demain car jamais dans i histoire des peuples l on n a vu un gouvernement oppresseur triompher du vaincu si le vaincu a la volonte d etre libre et cette voionte la les alsaciens lorrains l ont comme nous  le coup de force de strasbourg n est qu un episude il aura servi a devoiler sous le rouge manteau de la republique soi disant democratique qui nous gouverne la tyrannie la plus abominable celle des consciences  a cela se bornent ses resultats on n etouffe pas un peuple en muselant sa presse on se rend tout juste odieux et on exaspere les esprits deja nous savons ici l effervescence et le grand courant de sympathie pour l autonomisme qui agite depuis ces evenements l opinion alsacienne  tout cela au dela de tous les decrets et de toutes les interdictions trouvera d'ici peu le moyen de se manifester  mais nous avons vis a vis de nos amis d alsace et de lorraine frappes au deni de toute justice et de toute raison un devoir de sympathie et d amitie  d abord comme hommes de conscience libre indignes par les raisons invoquees et les procedes employes par le gouvernement nous protestons contre la mesure d interdiction prise contre les journaux autonomistes de strasbourg  nous protestons en tant qu autonomistes nous memes decides a maintenir a tout prix le droit de notre doctrine a s exprimer comme toute autre  ibrement  et d ici que retentisse a nouveau la voix du bon droitentre rhin et vosges nous ouvrons fraternellement aux autonomistes d alsace et de lorraine les colonnes de notre journal nos publications nos organisations  car en les frappant aussi indignement legouvernement francais atteint derriere eux tous ceux qui dans le vaste monde ont dans ie sang l amour et je respect de la liberte humaine
+    </p>
+    <docAuthor>
+     Morvan Marchal
+    </docAuthor>
+   </div>
+   <div n="5" type="poe" xml:lang="co">
+    <p>
+     a codaccioni  emi signor rocca  cp vengu a dumanda so yulete per piacere  stimici versi pubblica lo ouor di codaccioni   i quele di prupria   ricusarele ta grande gentilezza a u sardu  figli adullivu pi la isula di bellezza dave fiurisce la musa  la fierta e la franchezza   ge fussi dante o petrarca  ariostu o pur manzoni  vurria cantar li eloggi   pi lu vostru codaecioni  e faria chiu so nome  per ogni jocu risoni   a so rima assai gentile si cumpiace in la satira  specialmente pe i sumeri chi hanu la muvra in ira  sentendu li so canzoni  achi ridi a chi suspira   armunios  e la so cetra  cume un zeffiru di aprile  vi carezza lu so cantu   nimu imita lu so stile  quellu chi un la ricunosce e  certu ghielosu e vile   merita chi lu pumonie li incuroni cu lu alloru   come all antichi pueli  si facia cun gran decoru  eppoi in ricunuscenza  offreli an riccu tesoru   o voi corsi figli eletti di le muse di elicona   a jo vostru grand anfarte tessiteli una curona  cu i fior di li vostri monii  di arba muvrella e barona    sona statu sempri amanti di pomini intelligenti   avenduvi in cumpagnia   ne semu ficri e cuntenti   e li vostri belli elogi  sempre i vogliu tene a menti   vi ringrazia fioravanti   la mio donna e mio nipote  ci rendiste tropp onore  pe un niente fattu di notte  vaspittemutin san lorenzu  micca in tempu di ballotte   tn salutu riverenti  vi mandu a tutti di cori  all amici di ja muvra e u so gentil direttori   un scurdendumi di a misgia  e tutti ji so scrittori 
+  s
+    </p>
+    <docAuthor>
+     U Sardignolu
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     ti ricordi    a signurina a mi   ti ricordi  bella bruna   le dolce sere di estate chi sottu la bianca luna  insem avemu passate    ti ricordi o fiore bellu   bi ricordi quelle ore   visti solu da lu cielu   quandu parlavam araore    tutte le serc ne un cantu andayamu o cara mia   ti ricordi la me cantu  ohlynant ellu ti piacia   perme  sola bella eri cu to surridente visu   fu li to occhj neri vidia in paradisu    ed avale so iunlanu da tela sola che amu   ela sera sempre in vanu ln lu me core ti chiamu   ma vume la rundinella chi ritorn a lu so nidu   vai puru o brunarella   ti riturnaraghiu fidu    e fiuritu lu chjrasgiu   e digia  nant a i pulloni   u nostru cuccu chi hal asgiu face sente i so canzoni   ma per questi pochi mesi  cara mea sai bene chi ind u nostru bel paesi un possu micca rivena    aspett anc un pucarellu  veranu rivenera     viderai chi u to marcellu cun eltu riturnara    abbia un pocu di pacienza  o fiore di giuventu   la ora di la me partenza per me un sunara piu  
+  s
+    </p>
+    <docAuthor>
+     M. Alessandri di Chidazzu
+    </docAuthor>
+   </div>
+   <div n="7" type="poe" xml:lang="co">
+    <p>
+     mi scordu di tuttu  mai di te   mi so scordu di la prosa   mi so scordu di la rima   mi so scordu di ogni cosa  di la scola ela duttrina     ma nun mi ni scordu mai di la me bella paulina   mi so scordu di i cunsigli dati da i me genitori   di tutti li maravigli  fatti da nosiru signori     ma nun mi ni scordu mai di paulina lu me fiori    eiu mi scordu  la sera   ciu che feciu ja matina  cunfondu la primavera cu lu invernu e la statina    ma  mai eiu nun cunfondu li visu di a me paulina   lo mi scordu jursalmenti  tant e pocu u mio pensare  di tutt i regulamenii  di u mistiere militare     ma nun mi ni scordu mai  la me paulina di amare   quandu lu mesi di maghiu un sparghiara piu li fiori  chi lu piu ardente raggiu sara spintu dilu soli  tandu di a me paulina  si scurdara iu me cori   quandu li acqui di lu fiumi cume u focu brusgiaranu  chi li acelli  senza piumi  yade la aria vularanu  tandu pe a me paulina   me passioni cessaranu   quandu li lucenti stelli   di jornu parisciarann   chili falchi e i gallinelli   di amori si abbracciaranu    sara tandu chi i me fiammi par paulina spinghisranu   poi quandu lu focu ardenti piu nun brusgia a ln iuccare  e chi li pesci cuntenti canterauuin mezzu mare    sara tandu a me panlina  chi un saparaghju piu amare   u me amori e tantu forti  tanta grandi e la me stima chi ancu dopu la morti  ci una passioni sublima  piasaraghiu  fra i defunti   a te  graziosa paulina 
+  s
+    </p>
+    <docAuthor>
+     Simonu di San Jorghiu
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     u soffiu di le amore  nantu la verde cullina  si induvina  le prisenza di le amore a tutte le ore   e nu ja valle prufonda  quandu la onda  canta e zirla allegramente  ci ci sente   pass attraversu li piani piu luntani   si spasseghja cu la luna    chi furtuna    sopra a la pianta e la rosa  si riposa si  inc un aria clandestina  gni matina   tu  lu pigli e ti accarezza      chi beliezza    ti ne joghi dolcemente come un niente   poi  la to manu lu caccia cu minaccia   sorte allora di u io core e bi a more  nantu a cima di lo monte  a le orizzonte   vers un sole sepulerale sparghie pale 
+  s
+    </p>
+    <docAuthor>
+     U Canalincu
+    </docAuthor>
+   </div>
+   <div n="9" type="the" xml:lang="co">
+    <p>
+     riassuntu di cio chi e parutu  natale zuccone  impiegatellu in marseglia  rientre a u paese  duve  a mamma filumena vana quant ed ellu  intreccia un matrimoniu cu rusina di jannone  pruprietariu impazzitu pe u  pane sicuru     tuttu e cumbinatu fra i parenti  rusina sola un ne sa niente  natale  fe ru annuncia a nutizia a un certu pasquale  cumpagnu di saveriu  u veru amicu di rusina  in lu caffe di mariuccia  cu a quale si innumica a causa di e so manere impulite   pasquale  solu canticchiendu   o zucco  lu mio zuccone   chi tu pigli li paesi       un sarebbe pocu affare di affuilalli a rusina  comu a pienghiu    mariuccia   e puru surtitu da qui   ssu bufalu  hai mi vistu  o pasqua  la aria chi ellu si de  e e manere chi ellu si permette cu a jente    pasquale  ridendu    beh   tu  o mari  ci vai un pocu lesta  quantunque  dai i sciambcloni a jente  to e mo  quant e magnatti una fravula    mariuccia   quessi so fiori  po ancu ringrazia che un la aghia sciappatu a buttiglia in tupezzu   vai puru chi    a  prima  lu aspettu   li vogliu da i quoi e i mais mais  cu i so agnelli   pasquale   posa appena   mariuccia si posa a tavulinu  senti   u peghiu e chi  ssa tinta di rusina u si appughiera per maritu    mariuccia   alo  alo  via  si scemu o ti faci    pasquale   un so micca scemu    ziu jannone e di accunsentu cu i pa  renti di ellu  i  mariuccia   dino quessa   oh  povera cumpagna   ma  spiegami     scena imi  i listessi  entre saveriu  saveriu   bona sera  simu in cunsolta    mariuccia   ie  e ancu  caschi justu attempu  piu bellu terzu un pudii fa   saveriu   eccuti  avale un sanu cume scusassi per chi io lu aghiu disturbati  ti capiscu  arbetta   pasquale   un ride tantu  o save  cerca e beni qui a pusa chi un si di troppu pe a cunsolta    saveriu  pusendu    alo  sentimu  chi ci saria di novu  ma beimuci qualcosa  per la mazzetta    pasquale   dopu  dopu  senti  a sai chi ell e scalatu natale zuccone da marseglia   saveriu   prima nutizia  ma un vegu cum ella mi po da freddu o caldu    pasquale   quessa si videra  intantu chi    u so successu a prim accatu unn e statu a pocu    saveriu   si ha dunque buscatu un ciarbellu novu framante per sse francie    pasquale   piu scioccu che mai  ma  juntu quantunque attempu per fatti  bell e be  a barba senza savo ne  e a to rusina  saveriu  invespitu    rusina   pasquale   un sara piu pe i to denti   saveriu    ride  alo   un sapete cume muntammi a filastrocca    pasquale   un so filastrocche  o save  ci e quistione seria di matrimoniu  e  si tu voli vede  so diggia imbitatu   zuccone vene di sorte avale da qui   saveriu   ma vai chi per rusina un portu ssu penseru   chi ne dici  o mari   tu  si a u currente e ci hai intesu raggiuna parecchie volte inseme   mariuccia   ie    e bera quessa  ma pare chi sia u babbu chi a vole marita cu zuccone  vo  pasquale   e rusina    a disubbidi a u babbu       saveriu   ma cristu     lu aghiu vista stamane  a rusina  vulete chi ellu un mi ne avissi parlatu si u babbu la avia prupostu un simile affare   ammettimu chi ella mi vulissi ancu piatta  cridite che un mi fussi  abbistu a so fisiunumia chi ellu ci era qualcosa di cambiatu    pasquale   un ti ne pudia parla  ella corcia  chi un la sapia manch ella e un la sapera mancu avale  aghiu peura  a parolla dev ese fissata a stasera  a cio chi aghiu pussutu capi in li detti di natale   saveriu   or quessu u raggiunamentu unn e male  stimate dunque  a mio prumessa da un ballottu di stracci chi omu po catapughia da un canta a lu altru a so capricciu   pasquale   ti ripetimu chii parenti so di accordu  or  cume a filumena un li manca tattica ne stuzia  e chi ghiannone ci si pigliara cu u sentimentu  rusina figliola amante  un vulendu fa troppu pena a u babbu     saveriu  in furia    un ci e ne babbi ne figlioli ne canapi   a  parolla unn e che una   si alza  eppo te  ne vogliu ave a cuscenza netta  vogliu anda a vedela ava subitu  e     si a sorte vulissi    diu ne guardi   pasquale  rendulu pe ubracciu    si scemu via  cerca e posa e raggiunemu cu a calma  a precipitazione unn ha mai riesciutu a niente   mariuccia   mi vulete lascia parla anc a me     saveriu  capizzendu   sentimu  mariuccia   u megliu saria che ci vaga eiu  si mio cu mpagna e sempre in la ignuranza o si le affare unn e ancu troppu avanti  a cundotta  a li vogliu fa eiu a lu astutu zuccone  e  criditemi puru  rusina unn ha da piglia i mio cunsigli per parolle a u ventu  no  PS    pasquale ma si tu ti infatti cu a jente in casa  comu sbrugliatii    mariuccia   sera u mio affare  soga vi scurdate chi solu a donna sa duve u diavule tene a coda    si alza per sorle  voi aspittatemi qui   saveriu   ma senti  e ricumendazioni un so mai troppu  falli sape da parte meia     mariuccia   beitevi qualcosa in pace e quieti  e laciatemi fa a me  vi ripetu   parte    pasquale    ssa mariuccia e una maraviglia   ma chi dunnetta di sana  eppo brava      saveriu  maliziosu    ti capiscu  o cumpagno   farete u coppiu   attu terzu   in casa di rus ina   scena i  rusina sola in sin salottu  posa atavulinu fendu raccamu    ma chi diamine aspittera babbu  stasera    trenna u capu di impazienza  unn e aso abitudine purtantu  di fammi purta penseru  un saperebbe     si alza  va in cucina e  dopu un mumintellu  rivene   ellu chi pe a cena e cume i rilogi  stasera sera ubligatu di magna a so pasta appallunata    ma duve pudera esse    riflette senza cosge  a u caffe un ci va piu dipoi a morte di a povera mamma   for a paese unn e a so sicuramente    affari primurosi unn ha da lasciassi piglia u tardi     si affacc a u balcone  ed e diggia bughiu tenebru  signore  ma duve sara  ma chi aspittera   dopu riflessione  ava ci so  un po esse che ziziu michele chi la appia intrattenutu per lu affittu di u chiosu hi  madonna   quellu dino unn avia tuttu dumane per discuta st affarerelli    si sente un passu in le scale   ah  ecculu  li ne vogliu di quante    quante    quant ellu si ne po di a un   babbarellu caru    ride   scena ii  rusina e mariuccia  fusina  siupita  dopu apartu lu usciu  di vede affacca a cumpagua e micca u babbu  oh  ava chi io mi  era tranquillizzata      mariuccia   chi bella manera di riceve e cumpagne    rusina  abbraccrendula    scusami a mio tesora  so tantu inchieta di un vede rientra a babbu  ma tu  chi miraculu    a st ora    mariuccia   per sciaccattine un coppiu  a sai   cume   si facenu cusi i so matrimonii senza mettene a capu e so vere cumpagne  
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="10" type="feu" xml:lang="it">
+    <p>
+     piuttosto stesse a udire  che favellasse  per ultimo  a quanto sembro  ed anco lo elfetto diede a divedere  vennero in una sentenza  la quale fu significata dal paoli in questi termini     matteo brando  la gente corsa in premio dei vostri benefizi vi comparti da parecchi anni il nome di padre della patria  il popolo non puo dare altro ai suoi benefattori  ma che cos altro al mondo puo stare a pari di questo  adesso affinche tutti conoscano che cosi chiamandovi  egli non intese conferirvi un titolo vano  commette nelle vostre mani la salute del paese  la maesta delle leggi  le assoluzione e la pena  la fama sua onde vivra perpetuo alla reverenza  o al vituperio dei posteri  sedete qui  voi sietein questo momento supremo dittatore della nazione   il vecchio tra attonito a spaventato si schermiva da sedere sopra il seggio del paoli  ma il popolo con uno scoppio di gridi urlo   no  no  sedete  e giudicate   il vecchio sede  forte agguantandosi con le mani ai braccioli  il volto per le agitazione sofferta in quel punto aveva vermiglio  volse sottocchi uno sguardo al figliuolo  quasi dubitasse chi ei fosse desso  o lo aspetto di lui gli somministrasse qualche speranza  invano pero  che giovanni giaceva disfatto sotto il peso dei rimorso e della vergogna  allora il signor matteo si fece di un tratto bianco  strinse gli occhi  ed abbasso il capo sul petto da un punto all altro il suo viso sformandosi pigliava il colore livido di cadavere  ci fu anzi ul momento nel quale crederono chi ei fosse morto addirittura  e piu di un grido di terrore si intese  ma di questo fu niente  che allo improvviso sollevo il capo  aperse gli occhi  e con voce tremula  e pure forte abbastanza perche tutti sentissero  parlo     come padre doveva pregare ed ho pregato  come giudice condanno   e cadde svenuto  il paoli sostenendolo fra le braccia grido    segretario  scrivete  in virtu dei po teri delegatici dalla nazione ordiniamo che il nome di matteo brando di russio venga inciso nelletavole delleparrocchie fra coloro che dettero la vita per la patria  e tutte le domeniche venga letto dal sacerdote dopo lo evangelo all altare  affinche questo sia di onore a lui  esempio della virtu corsa ai presenti e a i futuri    poi commettendolo alle cure degli astanti soggiunse    che se taluno opponesse come egli non abbia dato  a tenore della legge la vita per la patria  quanti siete padri quaggiu ditegli  che dando la vita del figliuolo in ostia consacrata alla giustizia  egli fece piu   troppo piu che dare la sua   un grido unanime rispose  troppo piu   il paoli da capo    voi altri  cittadini pietosi  solevate questo magnanimo infelice  e trasportatelo soavemente nel palazzo del governo  se fossimo in romaantica vi avrei detto  portatelo al campidoglio e deponetelo nel tempio di giove   pero  mentre il vecchio svenuto  era strasferito altrove  il paoli compresso un gemito esclamava    che non per questo sarebbe meno al cuore di padre il monte calvario       giovanni brando di russio  raccomandatevi a dio  il ciele puo perdonarvi  ma sopra la terra non vi rimane che espiare la colpa   era piu che mezza inoltrata la notte  quando al lume sanguigno delle torce quasi consunte  fra il silenzio sepolcrale delle genti per cui si sarebbe potuto sentire il rumore del grano di sabbia nell ampolla della orologioa  polvere  fu letta la sentenza  la quale condannava giovannbrando ad essere impiccato alle fori che biscagline  era inoltre fatto per essa commandato  che veruno si attentasse rimoverne il cadavere senza ordine superiore  pena la vita   mentre altobello e il boswell se ne tornavano a casa  per cosi dire  intirizziti dalle molte efiere commozioni  il primo rompendo il silenzio domando    che ve ne pare del nostro generale   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

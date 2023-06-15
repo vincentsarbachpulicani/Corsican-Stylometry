@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330957m
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330957m
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 407 | Année 11
+     </edition>
+     <date>
+      1930-07-06
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     annu XI —"Numaru 407 or ni Dore 5 Esce a Dumenica VE EEE Lugliu 6-13 1930    GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI:  in Corsica. «. ... + 0.04. +++ 15 franchi  In Francia. . .. .......... 18 »  Unione postale . . . . . . .'. . . . 30 »  U Numaru: 5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     sprupositu  geologia    un po scorre un solu jornu senza chi qualchi giurnalista di la isula un dica e ripeti chi  da la epuca secundaria in qua  a corsica unn ha mai cessatu di fa parte integrante di u gallicu territoriu   sti valenti impennatori  sicondu u nostru pare  hanu principiatu una cusi ardita dimustrazione troppu a la attracchiata   avarianu sicuramente avutu ragid tracullendu a i tempi ignei  a quella alba di a terra tutta di un stessu scolu rossu  ancu piu  una e indivisibile  che a pangrassuta chi li colma e so  trovule di lavatura pigliendu a l inghio  malgradu a piu sfrenata sofistica  ilegami cui nostri antichissimi parenti pinzuti lascianu vede e strappature e 1 nodi fatti a lu ingrossu   preistoria  unu di i piu sodi argumenti di li archeologhi mariannuneschi e custituitu da 4 scuperta di monumenti megalitici in corsica  questi sarianu a prova chii celti funu i primi abitatori di cirnu    e  or bella    dipoi piu di un mezzu seculu  i specialisti di u mondu intieru hanu messu inluce chi stazzone e stantare  dolmeni e meniri  eranu avanzi di una  civilizzazione anteriore a lu arrivu di i celti in francia  per arrimbassi a un puntellu cusi fracigu ci vole ad ave suttu a so  erudizionein qualchi straziata hisfoire de france di un henri martin qualunque   ne  rinviemu  st attardati  a i muderni trattatidi preistoria  o megliu  per da menu fastidiu a i so  cerbelli di lucertule  a l ultim edizione di u diziunariu larousse   storia  spicchemu  per un perde tempu  un saltu di una sessantina di seculi    a u mediuevu  dicenu i storici di fantasia  i franchi hanu liberatu a corsica da i saracini   disgrazia  tamente  a verita vole chi  in la guerra navale di trent anni iniziata in lu 1oo5  funu i liguri e i pisani chi scaccionu da li isuletirrenei mori chi si ne eranu impadruniti a i principj di l PSoo  malgradu i sforzi di bonifaziu  marchese di tostana e conte di lucca  chiamatu pe  a circustanza le comiie boniface   i  sempre a la allestra  franchemuci dino  cinque cent anni per ghiugnene a sampieru  a st eroe tracollanu cu frenesia li isterichi di la influenza gallica coule que coute  or quinci dino  ci e un bellu inciampu  si ell e vera chi u celebre bastelicacciu participo a  campagna di u maresciallu de thermes in lu 1553  e vera dino  chi ellu un cherse mai che aiuti ad arrigullre di francia   e ancu per tramite di a fiurentina caterina de  medici    invece chi ellu offri a cosimul duca di toscana a suvranita di la isula  offerta rinuvata in lu 1569 da u tigliolu alfonsu   passendu a lu interventu francese  malgradu le asserzione di certi svergugnati  si po accerta chi elle ebbe logu per altri mutivi che una chiama  principiatu in ju sangue di i vesperi di u 1738 cu boissieux  ebbe per curunamentu a stragge di pontenovu  mn  un parlemu di a pacifica  penetrazione  di i cunquistadori aquale  ristendu sempre in tesi vittulesca   si fece naturalmente e sans a coups   i sfruntati chi danu u vulu a simile eresie mettenu sottu u bacinu a lotta sustenuta da circinellu di guagnu  zampaglinu di bocognanu e vinturone di ota  e tacenu dino   attempu a  cunsulta di corti  1794  duv ellu fu dicchiaratu scioltuogni vinculu cu a francia  e rivolte di nioiu  1774   di a crucetta  1798   di fiumorbu  1799 e 1815  e  di bastia  1814   e so muti in cio chi cuncerna le assuciazione di i pinzuti  a quale  in lu 1848  riclamava la unita italiana   corsica cumpresa   sentimentalismu  compie e solite  incursione in lu duminiu materiale di i fatti  i scempiatori di e patrie vicende si mutanu in predicatori di altissimu sentimentu   una bassa fizione  ammattunata a loghi cumuni e a  eliches ipunta a spusta odiu e amore     cumu mai  dicenu  dubita di u lealismu corsu e di a sullecitudine francese quand  omu pensa chi a nostra isula ha datu a ja mere patchie un geniu cume napulione cunsacratore di le unione oramai indissolubile tra i dui populi    ma certe inzecche troncanu un cusi nobile ragiunamentu  u bonaparte di a    lettera a  paoli  e di a  lettera a buttafuoco   quellu chi scrisse    e nacquis quand la patrie   je nacquis quand la patrie perissait  vingi millefrancais vomis sur nos cotes noyaient dans un flot de sang le trone dela liberte       u napulione chi  a sant  elena  a la ora negra di falcina  disse    je suis italien   senza parla di lu insultu e di u tradimentu chi un funu risparmiati a   le ogie de corse  da quelli chi ellu avia tiratu da a cianga per coglieli sopra a e so  ale di acula mediterranea   a lugubre serie di u bourrage de crane fattu da i brutti chi si so dati per iscopu di spegne a fiaccula chi trimuleghia sempre in la anima cirnese per accende u falsu cirone di a servitu  finisce cu a quotidiana profanazione impost a  memoria di e 4o ooo nostre vittime di a grande guerra nordica   a crede i scillarati rinnegati questi hanu rivendicatu una tale sorte per cuntrasta u passu aiso nemiciseculari  tutti hanu accettatu u sublime sacrifiziu  le onore supreme di da a so  vita perche francia e mariana sianu  una piu grande e la altra piu mantacuta   a sacrilega affirmazione ha  senza dissi  per mostruosu corollariu chi u sangue sguttatu da tanti petti ha cimentatu per la eternita u petranculu cirnese a u casarone pinzutu   ebbe  un altra volta u sbagliu e bellu majo   lu impicciu di e legge imposte ha solu purtatu i nostri cumpagni di matacina a e galliche fruntiere  e l ultim anciu di li immolati ha trascinatu un rimproveru  quand ell unn era un  imprecazione  i    eppoi  le ingratitudine e statatamanta chi u ponte e tur natu fossu
+  s
+    </p>
+    <docAuthor>
+     A. F. Franchi
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     pusillanimita      quella di unn esse scansati di un pelu inde a nostra strade  malgradu tutt i spinzoni e i troncacolli tesi apposta per fiaccacci o levacci u fiatu  ci si era parsa abbastanza cunsequente da pudecci crede in pusessu di una certa arditezza   quantunque ne possa dispiace a i corsi di u   telegrafo   giurnale livurnese   cusi omancu si chiamanu   chi ci trattanu di pusillanimi  vulemu cuntinva a credeci a lu oppostu  e un sera giamai a piccula propria vanita chi ci fera ghiudica  cusi meritevuli da noi stessi  ma piuttostu e bundanti affirmazioni di cumpatriotti chi sentenu e capiscenu quantunque un pudendu parla  di stranieri chi seguitanu cun interesse u nostru muvimentu  cumpresi i francesi stessi   esiste jente imparziale ancu inded elli   chi si sfaccianu sinu a ricunosce inde a muvra  un cou   rageux petit journal      ma ssu curaggiosu giurnalucciu  per di altri cacagliuli brutti chi u temianu cume a pesta  un pudia esse che pagatu da mussolini per accende a fiaccula fascista in corsica    mutivu abbastanza pisivu per taglialli e schinche   era stata forse st opinione chi avia fattu spera a i detrattori e a i puliziotti mariannaghj di scopre u filu chi duvia cunduceli a u famosu 4 pot aux roses   a nostra italofilia  o piuttostu u nostru irredentismu a  mascara di autonomia  dunque  chi e duie cose    muvra  e  telegrafoz un ne facianu che una sola   lu avemu lasciata ripete molte volte  mettendula a u paru di le altre argumentazioni vittulesche e puliziesche  ma  pensendu chi ci e spiriti debuli da appruva u   chi amutulisce accunsente   ci simu decisi a spacifica le affare  cio  a pruva chi muvra e telegrafo unn eranu micca carne e camisgiola   questa unn e stata fatta da noi cu spiritu sutterratu o debile postu chi ricunusciamu   e cuntinuemu a ricunoscela   u giurnale livur  nese cume virilmente direttu  e difenditore di un cuncettu in curtese e ardite pulemiche  un tuccava dunque a quelli chi no  apprezzemu da arditi  di pagacci in muneta  gattiva trattenduci di pusillanimi  a noi chi avemu u nostru cuncettu sputicu   la autonomia        e unn e stata questa alcuna paura  avemu sustenutu pulemiche  e simu pronti a sustenele cu penna e altru si ellu ci vole   avemu avutu perquisizioni e prucessi e ne averemu si diu vole  avemu in circondu nimici e puliziotti cumbriceulati   e simu a u scupartu  vulnerabili  ma fieri di cio chi no  avanzemu  disfidenti e rispunsevuli   certamente un nasce eroi ogni jornu  e simu luntanu da credeci sin a custi ma un femu pero i fiero da darretu a u scudu   rispunsabilita di un direttore  di cullaburatori cunusciuti e perseguitevuli   eccu cio chi a muvra e  in terrenu puliticamente francese chi ella pruclama vule stacca  unn  ha micca un bracciu di mare per spiccalla da una persecuzione senza retta   unn ha micca una culla  burazione nascosta e tranquilla da pude servesi a piacere di tutta terminologia  cun tuttu que  un tene quantunque peli in bocca  pastoghia in pede  e freddu in spinu  parla  fiocca  e aspetta   e dunque que pusillanimita    ma a muvra sa dino disfidassi  nasittendu per tutte le alture di aria fine  e diventata nari spurgulata da un cunfonde u muscu puliziottu cu a sentuta di lu amicu o fratellu di fede  fierta   arditezza un volenu micca di cugliuneria   e cusi  avemu pussutu sente inde u   telegrafo   quelja piccula sfumatura   forse pocu cunsequente  ma quantunque marcante   chi sentia a trappula  mariannesca  e cuntinuemu a insistela  un si po dura cent anni camisgia nera in livornu  tricolore in francia  e corsi di sanna in cirnu   quellu chi eserciteghia  ss arie di culori e forse qualcosa di piu che pusillanimu    pudemu di vigliaccu   avemu pussutu identificanne unu  di  ssi muta pelu  chi   cun chi soldi avara pussutu falla     ha riesciutu a fa sparghie scritti duve tuttu si riassumava a metteci un cascu a pinzu e cinghieci un bursellu tedescu  un li sendia dunque ad ellu  currespundente di u telegrafo  di appughia la altra tesi di a muvra irredentista    insistemu dunque a un vule esse cunfusi cu u telegrafo  non solu pe  i cuncetti ludevuli a una para bensi quantunque distinti ma dino pe a sorte chi ne face un organu disutule a noi  e chi serebbe statu imbentatu da a pulizza francese  si ell unn esistia  per fassi un arma dipiu contru noi 
+  s
+    </p>
+    <docAuthor>
+     Altore
+    </docAuthor>
+   </div>
+   <div n="3" type="let" xml:lang="co">
+    <p>
+     lettara da parigi  caru pipistrellu   cume sempre  ti rispondu senza tarda un solu minutu  semu felici di sente chi tu ti la sciali sempre pian pianinu per  ss ajacciu  e di pude ditti dino chi qui tuttu va bene in fatti di salute  i  u travagliu ci assuffoca piu che mai  eiu so occupatu futt a jurnata  e a sera  quande rientru  mi tocca dopu magnatu a scrive  lettere e imbrogli  catalina  ella  da capu a l affar  di casa  stira  cosge  pezza calzette e    ad ogni mumentu vole vede cio che serivu    un ti marita mai  o pipistre  perchi quandu scriverai qualvogliasia cosa  to  moglia avara sempre paura chi tu unn iscrivi a qualchi innamurata    mu  inno  maritati  perche a noi tocca quantunque di fa figlioli per difende    e terre francese intantu di pudee piglia pratesa piu tardi di a  patria calpistata  ll      in la to  ultima  caru amicacciu  mi parli di e sucieta corse di parigi  ah  per quessa  ci ne e assai ancu troppu  ci ne e di impurtanti per u numaru di i membri  ma poche so interessante  in ognuna dumineghia u spirtu infrancisitu  e freguentu  pero  cosa voli  mi piace di ritruvammi fra cumpa  triotti  quantunque che juri ad ogni esciuta di un riturnacci maipiu   porcu diavule  cosa duvaria esse una sucieta corsa  cosa duvaria esse una festa corsa  duvaria esse una cullaburazione di cumpatriotti per u be di la isula luntana  un locu duve si parla  si canta e si balla corsu   ebbe  no   qui si parla francese  e di tuttu  forche di i nostri bisogni  si cantanu e canzone di mistingueff e si sciarlestuneghia a piu pude  in corte parolle  ste sucieta unn hanu di corsu che u nome  ed e disgrazievule chi i dirigenti un voglianu capi un affare cusi semplice   ci vagu  ti ripetu  par incuntrammi cu paisani e amici  e sopratuttu cu a speranza di fa un pocu di bona e sana prupaganda   a nostra  ma ancu dendumi suvente ragione  chi fa  chi a mi danu sempre in francese  e tandu mi stumaca  semu digia in mare  e pochi so quelli chi cercanu ad agguanta u cavu chi no  li lampemu per salvassi   ma curaggiu e speranza   si molti ciambottanu  un so ancora tutfi annigati  a noi di unn addisperacci micca e di cuntinua la opera di salvezza cu a speranza chi diu ci ajufera  ellu un po esse che cun noi   i vurria cuntatti altre cose  ma cume faghiu dettu  catalina mi caccia ogni tantu u fogliu da sotfu u nasu  e cusi perde u filu di cio che avaria da ditti  se mi ne ramentu  sara pe a prossima volta     porfati sempre be  e accettati da noi fanti basgi fraterni  u fo  amicu e cumpagnu di fede 
+  s
+    </p>
+    <docAuthor>
+     M. Alessandri di Chidazzu
+    </docAuthor>
+   </div>
+   <div n="4" type="poe" xml:lang="co">
+    <p>
+     di estate  escu da casa e vo duv ella casca  ammirendu i culori di a natura   mi sto sottu una volta di verdura   poi  mi allongu in un lettu di frasca   cala da li castagni la frescura   e chiacchiereghia la acqua in una vasca  si sente pe  la macchiulella oscura u ritmo di un falcione chi dirasca   ogni cosa ha lu alenu callu e stancu  sunnacchieghia lu paisolu biancu   in in veculu immensu di la valle    ma lu esiliu mi aspetta  o logu amatu    ed in lu mio cerbellu annivulatu  diggia  ottobre spula foglie gialle   
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="5" type="art" xml:lang="fr">
+    <p>
+     l eglise saint erasme un comite s est forme il y a quelque temps qui s est impose la tache de pourvoir aux reparations qu exige le lamentable etat de delabrement ou se trouve actuellement l eglise sainterasme dite eglise des marins deja le clocher et la toiture ont ete repares mais cela ne suffit pas il faut refaire presque entierement la facade et effectuer a l interieur des travaux de badigeonnage de consolidation absolu  ment necessaires ce monument po  pulaire entre tous a ajaccio doit etre sauve de la ruine qui le menace non seulement il fut edifie en grande partie grace aux dons des fideles et de la ville elle meme mais il represente de nombreuxetantiques souvenirs chers au coeur de tout ajaccien tachons de rappeler ici en quelques mots ses origines et les principales vicissitudes qu il a subies au cours de trois siecles d histoire  c est en 1617 que les peres jesuites vinrents installer a ajaccio ilsavaient ete appeles chez nous parle venerable eveque giulio giustiniani mort a livourne en odeur de saintete en 1616 et dont il faudra bien demander un de ces jours la beatification c est sous son successeur homonyme et vraisemblablement parent monseigneur fabiano giustiniani que les fils de saint ignace arriverent dans notre ville pour s y consacrer a l education de la jeunesse ils batirent leur college et leur eglise a l extremite de la rue delle monache qui devint par la suite rue dei jesuiti puis des ecoles et enfin de nos jours forcioli conti cette construction s elevait ainsi non ioin de la citadelle dans un des quartiers les plus sains d ajaccio la maison qui comprenait je college et le couvent avait deux etages sur rez de chausses l eglise qui porta tout d abord le nom de saint ignace fut edifiee dans le style dit jesuite du xvii siecle facade surmontee d un frontontriangulaire et portail entre deux grandes niches  interieur voute en plein cintre decoration classique eclairage bien conditionne par cinq fenetre la longueur est d environ 24 metres la largeur de 15 l autel est surmonte de 4 piliers une tribune a orgues s eleve a l entree y a t il une crypte ou ont du etre ensevelis des religieux  c est fort probable  dans le long corridor du rez dechaussee du college avait ete placee uneinscription latine sur marbre que l on peut encore lire elle rappelle la date de la construction 1617 et les noms des premiers donateurs a la generosite desquels on doit l erection du college pietro francesco saluzzi donna la moitie de la somme l autre moitie est due a marc antonio giuseppe stefano et giuseppe luca doria la ville d ajaccio accorda une subvention de 4 000 livres genoises et le noble tommaso fieschi laissa sur sa succession une somme de 1 500 livres  mais ce n est pas tout l eglise etait decoree de six chapelles comme il n y en a plus aujourd hui que quatre il esta peu pres impossible de determiner l emplacement de chacune d elles ce que nous savons c est que la premiere a gauche en entrant etait consacree a notre dame de misericorde  fondee parle capitaine giovanpietro orto en 1645 c'est devant son autel que le 21 novembre 1656 les magnifiques anziani sous l episcopai du futur cardinal giovan stefano dongo consacrerent la ville a la vierge de savone et prononcerent le voeu fameux qui fut renouvele en 1660 mais cette fois a la cathedrale quant a la statue en marbre de la vierge que le capitaine orto avait fait venir de genes elle fut transportee avec l autel de la chapelle dans l eglise de l hopital civil en 1783  quant aux cinq autres chapelles qui embellissaient l eglise saint ignace ce sont les suivantes la chapelle saiint ignace quotidienne fondee en 1752 par le pretre j j de bianchi de bastelica  la chapelle st ignace non quotidienne  a chapelle st francoisxavier benielli magnifiquement dotee en 1690 par les trois fils d arioto benielli la chapelle st francois xavier colonna dotee en 1709 par atina colonna d ornano veuve de paolo francesco benielli  la chapelle sainte marie madeleine faut il en realite reduire ces cinq chapelles a trois en considerant que les deux chapelles saint ignace n en formaient qu une ainsi que les deux chapelles st fran cois xavier on ne les aurait alors designees que d'apres la periodicite des messes fondees pour chacune d elles et d'apres le nom de famille des donateurs cette explication ne me parait pas suffisante car chaque chapelle avait son chapelain special designe dans des conditions particulieres il y a la un petit probleme archeelogique a resoudre l eglise n e tant disposee que pour recevoir qua tre chapelles comment en constitua t on six 9 le college et l eglise saint ignace prospererent jusqua l epoque de l'expulsion des peres jesuites 1773  a cette date l etat confisqua les biens de ces religieux etles placa sous sequestre  les revenus devaient en etre consacres a l instruction publique le college saint ignace devint donc college royal en 1776 d excel ents eleves y firent leurs etudes  nous avons conserve les notes de quelgues uns d en eux citons parmi les meilleurs le fu tur cardinal fesch giovan paolo natali marc aurelio marchi d'ambiegna  domenico carlotti de tavera  alpidie ponte et francois xavier pugliesi  sous la revolution fe college devint le siege du directoire du district desassemblees populaires fort agitees s ytinrent quant a l eglise elle fut desaffectee et servit de magasin et d entrepot on y logea meme les forcats de saint domingue jusq en 1803 ce ne fut que le 18 juin 1815 que mgr sebastiani eveque d'ajaccio la rouvrit au culte i en fit l oratoire de a confrerie des marins ou de saint erasme etelle prit le nom de ce saint patron des marins cette confrerie tres populaire dans notre ville prit le plus grand soin de son eglise  elle y suspendit des ex voto en temoignage de gratitude des tableaux legues par le cardinal fesch  un saint jean baptiste prechant devant la foule un martyre de sainterasme copie du poussin  ornerent le vieux temple les notables ajacciens prirent l'habitude de venir le dimanche avec leurs familles y entendre la sainte messe saint erasme etait devenu comme a madeleine d ajaccio mais depuis la grande guerre les reparations devenaient de plus en plus necessaires  le clocher surtout menacait de s effondrer l enorme augmentation des prix fit reculer les fideles devant l entreprise detravauxurgenis et l on dut fermer l'eglise au culte pourtant un comite actif s est constitue qui a pris en main la tache de restauration de l antique oratoire les premieres sommes reunies ont permis dele consolider et iln y a plus a craindre d ecroulement le regrette m carrayol avait gracieusement consacre son temps et son talent a cette oeuvre de bien mais il reste encore a parachever le travail la facade delabree fait peine a voir et l interieur avec ses murailles trouees a besoin d un serieux badigeonnage une somme de a 48 000 francs suffirait pour completer les reparations la charite des fideles la generosite des plus riches sauront repondre a l appel du comite
+    </p>
+    <docAuthor>
+     Paul Graziani
+    </docAuthor>
+   </div>
+   <div n="6" type="his" xml:lang="co">
+    <p>
+     fole corse  una di  miseria   ci era una volta  in quelli tempi  una vicchiarella chiamata   miseria   si ne stava sola sola in una casaccia iutt affumaticata  sola lascita di i so  parenti  cu un peru  una vignulella e una panchetta   a a fine di maghiu  quandu i pcri cranu appena esciuti da u fiore  i zerbinotti un ci ne lasciavanu  a vigna un vidia mai ingrussa e ingialli una caspa nantu i calzi  e  vinutu lu invernu  tutt i criampuli di u paese si passavanu e so  sirate inde miseria e li sfundavanu a so  panchetta   una sera  mentri chi elia prigava indinucchiata a u pe  di u so  saccone  un gattu biancu li si prisinto  e tandu e bestie parlavanu   li dissi    so mandatu da u signori  par sape e tre grazie chi vo  li dumandate dipoi qualchi tempu in le vostre prighere  ditemi qualesse so        allora  dissi miseria  eccu  vurria  in primu  chi tutti quelli chi si picchianu nantu u mio peru  un si possanu piu varca senza i me  ordini  vurria  in secondu  chi quelli chi toccanu una caspa di a mio uva si ferminu cu e so  mane attaccate a u calzu sin a quandu daraghiu le ordine di pudelle stacca in terzu  chi quellu chi si pone nantu a mio panchetta ci si fermi appicciatu finche un li do u permessu di spiccassi     sse tre grazie ti so  accurdate   dissi u jattone biancu  e spari   quandu i peri funu maturi  i criampuli  cum ella era a so abiiudine  si impinzillonu tutti annant a lu alburu  ma dopu impanzatusi  prova a fala   impussibile di staccassi da e branche  di altri  cu a curiusita di vule vede  ci si firmonu anch elli  face chi u peru era carcu trimulu di zitelli  ci volsi chi i parenti si indinucchiassinu davanti a miseria par chi ella rumpissi lu incantesimu e lascialli parta  prumittendu di un falla maipiu   per la uva fu listessa storia   pe a panchetia dino  e cusi  a vecchia miseria avia finitu per ave a so  paci   un bel ghiornu  eccuti chi si prisenta  pidanellaz cu a so  furlana accollu     o mise  mi dispiace ma un possu fa altrimente  a to  ora e vinuta  e bisogna chi tu parta    miseria guardo versu u so  peru  duva i frutti casculavanu     vengu vulinteri  dissi  and raghiu a dammi una carminat a  ssi ciulli  mentre ci cugliarei na a chi peri in  ssa sporta da chi qual ci magninu in viaghiu  un  falcina  lesta e smaliziata fa  si ferma annantu  miseria a pi lascio per dui anni  fenduli ded cusi qualchi vecchiu e qualchi mi   latu chi vulianu more  e a lento ne cundizione di lascialla dino ci ne qu anni tranquilla  ne  a u capu di  ssu tempu  a morte face a so  siconda affaccata  eram di sittembri  e    un senti mancu caldu  tu  fe ci miseria  te  coglici un pocu di uva  intantu che mi pripari   scurdendusi di a lezione di u peru  falcina si cala a u pe di un calzu e si ferma in cagaro  ma i malati ne avianu troppu bisognu  e cusi  dopu una siconda prumessa di un vene che dopu dece anni  fu lintata   passatu i dece anni  in cor  di in  vernu  eccutila  miseria avia in  cippatu un bellu fuconi     posati intantu naniu  ssa pan  chetta e scaldati  vengu subitu   dopu una stonda  falcina chi si culinava  cumencia a briuna     un thai ancu  capita  dissi scaccanendu miseria  cu me un ci poi cumbatta  sta volta un ti lentu che si tu un ghiuri di lasciami a paceineternu       maipiu  maipiu  in eternu  grido falcina  chi si arrusiia   miseria feci fa i scrittida u merri  sucillati e firmati in cundizioni  davanti a testimoni  da i prisenti e da falcina stessa   dipoi tandu a vecchia miseria un fu maipiu circata   ed e per quessa chi ella campa sempri e sempri campera 
+  s
+    </p>
+    <docAuthor>
+     U Fiumurbacciu
+    </docAuthor>
+   </div>
+   <div n="7" type="poe" xml:lang="co">
+    <p>
+     serinatu mancatu  lucianu e stelle   u celu ne era pienu    nantu la terra splendia lu serenu   ghiunti eramu per canta e sfuga lu nostru senu   madamicella   era per fabbi onore    si era  per voi  chiamat u sunadore  ma eramu chios in gola e senza nisun ardore   a i primi canti   voi vi site svegliata   ncendiste u lume  e vi site arrizzata  per sente le nostre lode  in cantu di serinata   ma di canzone   unn eramu pruvisti   benche pueta unu e quill altru fussi  perdunate a la mio musa   1 so  accenti eranu frusti   quandu di novu ne rivoltu in canale   di quest alzincu un dicerete male pe  lu primu serinatu di una losa naturale   a paltra volfa noi feremu megliu   di serinati  vogl empiene un spurtelin  passiunati vogliu falli da mustrabbi a jn purtellu   a une damicella canalinca   stavamu muti noi  unu cu quill altru    di fa cuncetti manc unu ne era sgualtru   voi  mancanza di canzone  abbandunaste u balcone   ci e rincrisciutu di avebbi scuntentatu    contru la musa avemu timpestatu     soga ella era jelosa che fessinu serinatu   dunque  o bella   vi spiegu a mio ragione   l amor  vulia chi io fessi ste canzone  fabbi apre la persiana  affaccabbi a lu balcone   e u feci chiama a li mio dolci accenti  per pude rende i vostri occhj cuntenti da guardammi per le abbene cu penseri piu clementi   sete gentile   u vostru visu adornu  in stu canale ci fera fa ritornu   un giuvanottu di li alzi vi manda un dolce bongiornu   accetterete queste canzone  speru   di quest alzinen chi si scusa  sinceru   e chi di u so  serinatu si risente pocu fieru 
+  s
+    </p>
+    <docAuthor>
+     Diunisu Paoli
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     vuceratu a un cucinu   anz ori  un lelterinu scriltu da la lo  madama   purtalu da lu pedone  facla una trista chiama   chiomava o caru u to  babbu  perche ne avii la brama   di to  babbu e partilu  e ghju ritardaiu pocu    subitu la mane dopu si e purtalu sopra locu   maipiu credia spentu cusi prestu lu lo  focu   spbitu  quellu ci ha scrittu torna un allru lelterinu  ma nun pinsava st affari  u lo  babbu  lu mischinu   bin un cridia ste cose   o nounu  lu mio cucinu    a to  mamma e partula prumiltendu di cullati    mai un pensava  ella tinta  mortu quaghio di lruvatti  e partuta e u a speranza  cuginu  di migliuratti   o caru lu mio cucinu   liu per fatti rivene  daria tuttu lu sangue  chi corre  nde le mi vene  aio  fia che ti senti   eppo  calma le mio pene   avia vinti cinqu anni   u tintu cusi zilellu    oh   ehi sorte cusi nera per te  lu mio cucinellu   chi eri bellu in salute  e lestu cume un muvrellu   quandu tu per la algajola ti sei messu in viaghiu   che ti sei licenziatu     dicisti   riturneraghiu cu le nostre pecurelle a lu principin di maghiu   quandu festi sta partanza  cucinellu  eri cuntentu    un davi segni murtali  chi eri lestu cume u ventu  eppoi  tutt e cambiatu  in cusi cortu mumentu    comu fara lu to  babbu   chi ava si trova solu    ellu  in disgraziatu   este tutti li anni in dolu   annu fubbe un so  cugnatu  quist annu un caru figliolu    avia quatru figlioli  grandi  belli e ben purtanti    giovani cume li soi  un ne passighiava tanti   avendu la morie appressu   dimezzonu in poch istanti   giuvanotti  u mio nannu  ne avemu persu abbastanza  inde la nostra famiglia   di troppu nun ci ne avanza  uan aviamu bisognu ava di la to  partanza    quandu li 1o  fratillucci senteranu la to  morte   cumu puderanu soffre  un dulore cusi forte    o na  chi bella furtuna    o na  cusi bella sorte    un mi ne vogliu scurda  e lu aghiu scritta in la testa   di la annata vintinove  ne di natale la festa   ma per piegne a fiordinandu  a mio voce nur si presta   un ne more in casa soia inde ja nostra famiglia  quand elli so for  di casa a morte ci li si piglia    ella ci e sempr a cavallu cu li sproni e cu la briglia   guarda qui tulla sia jente or cum ella si lamenta  guarda un pocu da lo  cusa cusi trista elia diventa   e di chi si hr ti arvizzi   ogni persona e cuntenta e  a chi dice  mio cucinu    a chi dice  mio fratellu    a chi dice   mio nipote   e chi  in mio figliulellu    e lutti portanu a li occhj   o xu  u so  mandilellu   u dispaccio di slamane ci dicia  nannu e mortu   u to  male  u mio cucinu  ellu si chi e statu corlu    omancu chi u lo  navigliu ti appia juntu a bonu portu   funu quesse le prumesse fatte cu lu licenziatti   dicisti   in pace e salule   a maghiu possa truvalti   ma la morte nanzu maghiu e venula a visilatti   e venula a visilatti   a magbiu unn hai aspiliatu    a malina di natale ti ni sei riturnatu   o nannu lu mio cucinu  dentru la cascia sarratu   o nannu lu mio cucinu  duv e u to  ridente visu  perche ti ne sci andatu senza sente alcum avisu   pregu omancn lu signore che ti aecelli in paradisu   riposa in eterna gloria in mezzu di li agnulelli    cula ti ritruverai  cu tatti li mio fratelli   contali le nosire pene di esse staccati da elli    o na  lu mio cucinellu  mandaci qualchi prighera  mandala per noi tulti  chi ristemu inde sta terra  noi pregheremu per te notte ghiornu mane e sera   presa pe  a to  tinfu babbu chi si face vecchiarellu   e prega pe  la to  sposa scunsulata a cavaldellu   e chi on sa cumu si vive senza lu so  nannarellu    prega pe  la to  surella  chi chiuga li hai lagata  prega pe  a to  corcia mamma  chi ghie cusi affannata  di vede chi i so  figlioli   a v avele abbandunate    prega pe  li lo  fratelli chi si trovanu iuntanu   per quellu chi e in parigi e quill altru maruccanu   e chi riturnendu quici   piu nun ti ci truveranu   prega per tulli noi altri chi fi tiniamu caru   o nanna  sottu lu sole   nimu li passava apparu    e tu  pe  li to  parenti eri di un amore raru    ma nun po dura lu pieniu  e la feraghiu finita   sie un ghiornu  sia la altra  bisogn a la ascia sta vita   e un si prufitta dipiu si omu pienghie es omu strila   quandu parlenu li soi  tutta la jente si lagna    si parla contru la morie  ma nunda nun si guadagna  ella e sempre impustata e morde cume una cagna   simeoni ferdinandu di lozzi
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     serinatu di un amante  bona sera  a le vieinu vengu qui cu lant affeltu   e di noi fatal dislinu di fa marilaghiu lettu  svegliali e veni a sente   so di le lu amalu ogeltu   e fiurita ja campagna   ghiunb e la slagion di amore   ogn amanle si accumpagna   tuttu ciu chi nasce e more   torna rossu le oriente  e si innora u prim albore   u cuccu pa  la muntagna canta cun voce gradita sottu ja friscura pagna di la pianta piu fiurila   e tu dormi in dolce sonnu   e da me ti se  smarrila   cagione di lu to  amore  vagu errante di rapina  tunia fatiga e sudore  da lu invernu a la istatina   cume lu acellu chi corre da lu monte a la marina   vegu u sole  ogni matina si prisenla u raggiu adornu  spacchia la aria cristallina e schiarisce ogni cuntornu  e tu  cara  nun mi senti  dormi in placidu suggiornu   ti cercu in ja senra notte  quand ognun  si ne riposa  o felicita interrolle   duve andaste a la ritrosa   ava ti trovi prisente   ne maritala ne sposa   e l amor chi mi ha cunduttu duve stai  fida signora  cercu qui lu amatu frutiu tantu in casa cume fora   e tu dormi e nun mi senti di intondu a ja to  dimora   vegu lu stellatu velu  la aria piu falta sirena    ti chiamu cun tantu zelu  ma lu sonnu ti incalena   so venutu da luntanu in sta parte degna e piena   so qui  spostu a i freddi venti  sottu a notte tenebrosa  quelli bramati cuntenti so ridutti a poca cosa   e tu stai tra molle piume nellu piu silenziu ascosa   svegliati  mostrali appienu  chi ti cercu a tutte lore  le amore torna vilenu e mi infelta anima e core  tu nun senti la me  voce chi ti chiama in tal tenore   vegu la aria rilucente  infucala da le stelle   da levante a lu punente si mostran  jucide e belle  e lu stai denlr a lu picchiu cum e sacre virginelle   un ora mi pare un annu   di vede la to  prisenza  le amore cummette ingannu senz ave piu cunuscenza  vinarei quande lu sai  chi e  ti aspeltu cun pacienza 
+  s
+    </p>
+    <docAuthor>
+     Minicale
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     a muvra  a murra e lu jurnali di cirnu  sittimanali   chi ripruduci cun fedi cio chi eddu tocca e vedi   chiaru e lu so  prugettu difesa di u dialettu   e cambia  di li corsi   in canti li so  singhiozzi   apart a tutt i scrittori chi  cun anima e cori   la causa justa e santa  difendini cun onori   e lu jurnali chi canta u dolu sottu la manta   si  di san jorghiu
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="11" type="art" xml:lang="co">
+    <p>
+     in indocina  a rivolta di yen bay e digia roba vecchia  ma a repressione di u guvernu  ella  e chi ava stessu mette in dolu la inducina   a stampa di parigi e di altro ha trasmessu u cumunicatu officiale rappurtendusi a le insurrezione e a  battaglia chi si svolse inde u forte oramai celebre  ci fubbe grande chiame patriottiche e un furmidevule spiazzamentu di truppe  durante qualchi ghiorni a francia ebbe le impressione chi la indocina si rivultava   e chi rivolta  un dubitemu micca chi le insurrezione di le indie contru lu altru imperialismu  l anglo sassone  sia statu per qualcosa inde a culunia francese  sicuramente  stimulo le energie e misse miccia a  rivolta   stu muvimentu indocinese e statu dettu muvimentu cumunista  i patriotti francesi hanu truvatu u mezzu di schiarisce cusi molte cose      pero  un giurnale pariginu qualchi settimane fa  ebbe voglia di di chi u muvimentu era statu principiatu da letterati indocinesi  fubbe tandu un altra riturnella  lu arreghemu a civilizzazione  si ne servenu contru noi   a civilizzazione   e a bedesi   a civilizzazione un si porta cu i fucili  un la trascinanu i puliziotti  or e in  ssa manera chi a francia la ha purtata in indocina  e ghie un francese  u sgio challaye chi ci ne dara a prova   eccuci  fra mille  lu esempiu di levan huan   e a cummuvente storia di un annamitu   per ave scrittu articuli  duve  senza chiama a  viulenza  circava di risuscita u patriuttismu di a so  razza  levan huan passo nov anni cume galerianu a poulo condor   rivultendu in annam  ecculu amansatu  diceranu uni pochi  arresu da u dolore e i suffrimenti  diceranu li altri  ha intesu tantu piumba u pesu di a coppia di i dittatori nantu e so  spalle chi ellu crede di un pude maipiu lutta contru di elli  cu a forza  allora  vurria circa di cunvince i francesi cu a manera   chi ellu ci sarebbe astutezza di accurda a li annamiti certi diritti menu limitati e una situazione menu inumana  sogna espera una cooperazione di razze per un prugressu mutuale   a francia u crede sottumessu  dopu cacciatulu di galera  u carca di onori  u nomina ripresentante di u populu a  camera di annam   prupone prugetti di legge tendenti a  reorganizzazione amministrativa di u so  paese e a  custruzione di lavori di utilita publica  fonda un assuciazione chiamata  unione brugressista di u populu annamitu st assuciazione si dice contru tutta viulenza e intende travaglia in le ordine e a legalita  u guvernu  pero  ordineghia cun autorita di unn istende a so assuciazione a u tunkinu   e bastatata una suspizione stupida di u residente superiore fries a causa di un rapportu rimessu in ritardu  per chi le van huan fussi trattatu cume suspettu  7  perquisiziuneghianu inded ellu   u 13 settembre 1929  un trovanu niente da pude mutiva un attu puliziescu allora si arricordanu di u so  passatu revuluziunariu  circhendu di scurdassi di u so cambiamentu di attitudine  di u so  desideriu di pacificazicne  lu arrestanu   sei jorni dopu si sente chi ellu si e tombu    i  suicidiatu   schifosa buggia   e cume averebbe pussutu falla  cume le averebbe vulsuta  ellu chi un penseva che a bive per sculpassi   rumori venenu 2 le orecchie di u residente supe riore     le van huan e statu assassinatu      tandu poi  a versione cambia  san  runcia chi ell e mortu di malatia naturale  arrestanu u figliolu  la autorita riceve una dumanda di a veduva chi bole chi u so maritu sia intarratu secondu la usanza di qualla  questu li sera accurdata  ma ad una cundizione  firmera di so  manu un scrittu cume quale le van e mortu di malatia si no  u so  cadaveru sara lampatu aicani        le esitazione di li officiali fra a versione di u suicidiu e quella di a malatia  scrive u sgio challaye  permette di dubita di la una e di la altra      a verita e chi le van huan e statu assassinatu  e a prova di questu  e chi i parenti di u mortu cunteranu sopra u so  cadaveru e piaghe e cumaccature  a prova e chi li officiali  per piatta a traccia di u so  delittu  prucederanu  contru a legge annomita  a la autopsia di u disgraziatu le  vanhuan  i  forse li avianu dumantatu spuntane e cunfessioni  
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="12" type="poe" xml:lang="co">
+    <p>
+     annata scema  dopun invernu crudu e piuviscosu la istatina si avanza pianorellu  cu lu so  tempu calmu e calurosu   siechendu ogni fiore  ogni granellu   a raccolta di ogni sumenie vene   a jente si prepara bellu bellu   eccu lu orzu e lu  ranu sbiuliti   chi prestu e la maturazione   si vedenu le donne cu i marili in cerca di la falcia e lu falcione per raccoglie lu fruttu preziosu e la paglia per empie lu saccone   u mnment unn e piu tantu luntanu di cumincia pe  i campi la manfrina   per mette in salvu lu orzu cu lu ranu per fanne la nostra bianca farina chi ci dara lu savuritu pane   a spesa per lu invernu e la istatina   in pantafisca si vede u giardinu   ogni piantina prestu dara fruttu   colla u fasgiolu drittu cume un pinu incu caspe di fiori dapertultu   a surgente la adacqua  gni matina   perche nun vole soffre di lu asciuttu   ad ogn alha nuvella chi affacca   u giardinaru face la so  corsa   da cima a  ne fondu lu so ortu  nnacqua  e ja pianta  cusi   gni jorni ingrossa   stu virsettu cun voce linda canta   quistannu  si  chi e bona la risorsa    a furlana batte pe  li finaghi   x appena po scopre lu larrenu   un si e ma  vistu qui simili maghj   e lu omu ne risente gioia in senu  lu animalu  di invernu saltara   chi avera la pruvista di lu fenu   a capre e cullata a la muntagna   tond e grassa dipiu che un ballarinu   u pastore trionfa e nun si lagna quandu sottu li passa lu caghjnu  chi ellu sie di niolu o di balagna  quistannu unn ha pinseri di musinu   l annal e di ogni bella cosa piena   e sempre megliu marchiann le nove  parchi la jente vivia senza pena   micca cume in lu tristu vintinove   ci sara granu a la aghia quant e rena  cursichella quist annu face prove   si le annate ci marchian in favore   eiu vi dicu qui a lutti quanti   chi  ancu par unn esse lu signore   ci avemu da passa di li marcani   ah  li dispiacera  ne so sicuru   a  ssi rapaci di ji nostri stanti   una prighera facciu a san ghiuvanni chi e v santu di lu nostru paese   ci alluntanga da tuit i malanni  e succorreci sempre a braccie stese  parchi la jente campi largamente  e chi ognunu accimi le so  spese 
+  s
+    </p>
+    <docAuthor>
+     U Curzacciu
+    </docAuthor>
+   </div>
+   <div n="13" type="art" xml:lang="it">
+    <p>
+     san teofilo da corte  la corsica  ove una pia frudizione vuole che il vangelo sia slato predienlo da san paolo  se aveva finora due sante patrone in santu giulia e in santa devota  non aveva peraltro ancora il suo sanlo nazionale  ora lo ha in san leofilo da corte  al quale  nella chiesa della annunziata  della sua cilta natia  gia gli era slalo dedicato un altare  e recenlemente in corte mi hanno indicato la casa ove egli nacque  il 3o ottobre 1676   casa assai modesta invero  per una famiglia  la quale oltreche di agiata condizione era altresi nobile   il nuovo santo si chiamava biagio nome veneratissimo in tutta la isola ed era figlio unico di giov  antonio signori e di maria maddalena arrighi  fanciullelio ancora  senti nascere nel suo animo  irresislihile  la vocazione per lo siato religioso   di costumi illibati  di ingegno pronto e sveglialo e sopralulto dotato di una memeriu prodigiosa  imparo presto e bene lo italiano ed il latino     dopo seria preparazione malura e rifiessione decideva di entrare nell  ordine francescano  popolarissimo in tutta la corsica  ove possedeva numerosi conventi  nella stessa corte ne esistevano due  uno di cappuccini ed uno di minori osservanti  scelse quest ultimo  beneficato largamente dalla sua famiglia e nella cui chiesa aveva il proprio sepolcrelo  aveva 47 anni  ed entrando cambio il suo nome di biago in quello di teofilo  trascorso lo anno di noviziato  nel 1694  faceva la professione solenne  e non molto tempo dopo veniva mandato in italia a compiervi gli studi di filosofia e di teologia  a roma nel convento di ara coeli ed a napoli in quello di s  maria la nova  fu specchio di perfezione cristiane  modello agli alfri studenti  parecchi dei quali erano corsi  nell anno 47oo veniva ordinato sacerdote dal vescovo di pozzuoli  e tosto iniziava quella vita di fervido apostolalo che doveva durare quarant anni  durante ia quale pratico in grado eroico tuttele virtu cristiane  abbondante e viva era in lui la fiamma del divino amore  che gli faceva ricercare la perfezione   seguirlo in tutte le sue peregrinazioni a traverso la italia ed in corsica non e possibile  ci limiteremo ad accennarvi brevemente   avendo facilita di parola ed essendo coltissimo  divenne predicatore e lettore  macsiro dei chierici e penitenziere in varii conventi  a civitella  a palombrara  a roma ed in altri luoghi  ovunque conducendo vita di rigida penitenza  si dedico anche all opera dei   ritiri   e ne fondo uno anche in corsica nel 473o  benche la isola fosse in fermento  ebbe a corte  sua patria  che non rivedeva da 84 anni  accoglienze festose  dappertutto predico la calma  la tolleranza  le amore del prossimo ed il bene che fece fn immenso  dopo quattro anni ritorno in italia  venne a roma e di qui fu mandato a fondare a fucecchio toscann un ritiro  del quale venne nominato guardiano  quivi trascorse gli ultimi sei anni della sua vita  non dandosi mai tregua nell adempimento dei suoi doveri religiosi   tanti strapazzi  tante mortificazioni finirono per logorare ie suo fisico  assistito affettuosamente dai suoi confratelli egli chiudeva la sua esistenza il 19 maggio 174o  eblie esequie simplici  ma la sua tomba nella modesta chiesa del convento divenne oggetto di venerazione e alla di lui intercessione si attribuiscono moltissimi miracoli  la sua causa fu introdotta nel 1755  dichiaralo venerabile  leone xiii il 19 gennaio 1896  lo proclamava beato   in quella occasione  un illustre pittore romano  il conte carlo muccioli  dispinse un grande quadro ad olio  rappreseniante uno dei fanti episodi della vita del reato  che fu offerto al papa  che lo gradi assai   questo lavoro  che siamo lieti di riprodurre  e che dai competenti viene gindicato uno dei migliori di questo artista  si ammira oggi nella pinacoteca di s  giovauni lalerano   toccava a    8  pio xi la gloria di dichiararlo sanlo  con immenso givbilo  non soltanto di tutta la grande famiglia francescana  ma anche dei corsi attaccatissimi alla fede di roma  i quali in buon numero sono accorsi ad assistere alla grande e suggesliva cerimonia della canonizzazione in san pietro 
+  s
+    </p>
+    <docAuthor>
+     O. F. Tencajoli
+    </docAuthor>
+   </div>
+   <div n="14" type="feu" xml:lang="it">
+    <p>
+     innanzi tratto costumo secondo le regole della buona milizia dare discarico della mia condotta ai miei superiori  non gia ai sottoposti     e va bene  ma io a nome di parecchi compagni non pretendo  imploro  ci    che compagni   tre o quattro cervelli balzani come il vostro     domando perdono  signor comandante  saremo dugenio e piu      dugento   come puo essere questo  ad ogni modo vi voglia dire che le ordine del generale dichiarava   partissi all alba e dopo che fos sero arrivale le vettovaglie le quali egli spediva   ora non avendo vista la veltovaglia ho devuto argomentare che il generale non giudica piu necessaria la nostra mossa     vi domando  perdono  signor comandante  ma il voslro argomenlo ne meno conelude a star fermo  perche o ci moviamo o no  il vivere bisogna pure procurarcelo      colesta e la vostra opinione  io la penso diversamente     inolire osservale che le ordine del signor generale va distinio in due parti   una principale  la altra acr cessoria   la prima sta nel trovarci sul campo di battaglia  la seconda nel procurarci la munizione     jo non sono leologo ed obbedisco gli ordini come le leggo   obbedienza cieca e passiva e la prima virlu del soldala     ne qui si tralia di teologia  bensi di carita patria e di amore della liberta   partiamo  vi supplico  per via troveremo di che nutrirci  e poi per venliquaflro ore senza pane non mori mai nessuno     non posso   la obbedienza cieca e passiva ela prima virtu del soldato     facciamo una cosa  lasciamo qua un picchetto il quale arrivando la vettovaglia la scorti dielro noi     non voglio  obbedienza cieca e passiva        accomodiamoci in quest altra maniera   mezzi dei nostri rimangano qui con voi  e mezzi mandalene meco conlro il nemico     peggio che mai  obbedienza cieca e passiva     ma come fate a starvi cosi tranquillo a questa ora   come calmare il sangue che bolle           aspettate   orora scendo e giocheremo insieme una partila alle piastrelle     alle piastrelle   per durare co  si su le brace bisogna essere san lorenzo  e ne manco quel santo ci stava volontieri  7    forse presumeresii disobbedirmi      se potessi io vi fucilerei su due piedi  signor comandante   e usci impeluoso urlando chi erano traditi   quanto a partissi subito chi gli voleva bene o piuttosto chi amava la patria lo seguisse         circa dugento lo seguilarono   gli altri clienti della famiglia del comandante  o cognati di lui  si rimasero   piu tardi i francesi promessero al grado di generale colui che non aveva voluto combattere  5  i giovani snelli e animosi corsero via  e camminando tutto di un fiato arrivarono al ponte rotto  dove sentiirono lo strepilo delle moscheltate che si ricambiavano i combaltenti   sentivano rifiniti  ma bevuto alquanto di acqua che col cavo delle mani allinsero dal fiume si riposero in via cacciandosi per le macchie che vestono il colle a mezzo giorno di canavaggia  di botto cessa lo scoppio delle armi   che significa questo  abbiamo vinlo  abbiamo perso   prima che sbocchiamo allo aperto ci vuole un secolo  vien qua zembo  tu che ii arrimpichi come una scimmia salisei su cotesio albero  e mira un po  che cosa si veda  il zem bo che non per una  ma per molle qualita si assomigliava alle scimmie  inmeno che non si dice comparve su in vetta all albero  e bene che vedi    vedo   presto  ti pigli un accidente   vedo canavaggia    si  e lei    e canavaggia   e poi   ma non si scorge mica fulto alcune case piu soprane e i tefti di altre soltane    e chi ha vinto    aspettate    ecco vedo una bandiera      corsa     non mi pare   ha la testa di moro  non ha la tesia di moro   oh  che angoscia  o che bandiera ella e     bandiera bianca  per la immacolata  bandiera francese    va via  tradilore  morie al traditore       e al medesimo punto lo circondo un nuvolo di sassi  da taluno si schermi  altro lo colse  per buona ventura la palla di moschetto  che gli sparo contro il suo patrigno  gli porto via il berretto  il gobbo  lasciandosi scivolare giu  a guisa del raghatelo per un filo della sua rele  sirillava     all inferno quanti siete     su gli alberi non mi ci fate salire piu  che colpa ho io sela bandiera e francese   f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

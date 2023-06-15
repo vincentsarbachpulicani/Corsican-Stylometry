@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330869g
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330869g
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 317 | Année 9
+     </edition>
+     <date>
+      1928-04-10
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     rnu IX — Numaru 517 | fi Eace ogni dece iorni 1o Aprile  SP SPIRITS RI ln  GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI:  {n Gorsica. pr &lt;&gt; à... . + 12 franchi  mFrancia........ ......... 15 »  A PEsteru. .. . . . ...... 80 »  U Mumaru:5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIUNE:  88, Corsu Grandval 88. — AIACCIU © Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     rimpiantu  a famiglia cursista e in doi   madama rocca  nata pozzo iborgo  mamma di u nostru jrettore e di i quattru altri impioni di a nostra fede  ha so a so anima a diu   a talla chi spunto libera in terre di cirnu chi cullo lina linda caccendu solide imoste a la ascella di ogni foglia er diventa lu arburu robustu pumposu di u cursismu  ha oncu a so vetta suprana  a amma esemplare  la esempla  donna corsa chi vuluntariawente sarifico u megliu di u niu a le altare cirnese  lascia i o cinque amati figlioli in un ir di dulore e a grande familia cursista fortemente culpi i   a trista nutizia ci e ghiunta  uda e inaspettata  in la manata di u 3 aprile  attempu a ultima cara lettera scritta da  so manu qualchi ghiornu anzu la ora fatale  testimuianza di un anima di farru e inn core tuttu tennerezza chi ani vulsutu vive staccati da vanu circondu e i suffrimenti sichi  finu a la ultima scintilla  mu a lu ultimu palpitu     comu un chiama mamma semplare quella chi  restata eduva in lu fior  di la eta cu inque urfanelli  ha vissutu et ell  elli soli  tutte e tribuazioni materiali e murali di tu mondu  ha suffertu e priazioni  per ingrandalli e betu uvente a u calice di le amareze  e se  avale stessu  quantunque apenduli maturi e forti  aveebbe vulsutu sempre vedeli tolti a u so latu per pude iempie finu a lu ultimu u sacru maricu di agnulu custode  e  le necessita di a vita un la li permettinu  u so inchietu penttu vulo sempre senza retta la nizza a  corsica  da duve i o cari duvianu  per tranquiluzalla  dalli e nutizie ogni  gra u   esemplare donna corsa  vol  e da in eredita a u so sangue ideale chi ella avia ricevutu aso sangue   figliulina di gabriellu marhi  fundatore di u  giurnale ta corsica  in lu 1817   liola di u sgio petru pozzo   borgo  ardente patriotta su  cunusciutissimu in jacciu  cuntinuo di questi  spra lotta pe u risorgimen tu cursistu  a so instanchevule vulunta un pudia manca di purta i so frutti  petru rocca  lu apostulu di a nostra fede  matte u  lu acutu e sapiente serittore di i fatti e di e speranze di la isula  abbandunata  gabriellu  zarafinu e ghiuvanni  i tre altri tenaci puntelli di la idea  eccune a prova evidente  di cinque figlioli  manc unu si scarto da e traccie  manc unu imbastardi   cullaburatrice da u primu jornu a a muvra  a rimpianta madama rocca  ha scrittu sottu a differenti pseudonimi e in lu piu puru dialettu  dilicatissime e fundate pagine   a tacca atacca  muralista e murdace in la satira  culurita e sentimentale in le so descrizzioni  tennera in li so pensamenti  meticulosa in la ricerca e a scelta di e nostre vecchie cose  a so penna un si intinse mai in lu inchiosiru sbiancaticciu di e reminiscenze straniere   si ellu perde petru  si elli perdenu i fratelli  noi tutti  1 cumpagni di fede  vedimu qualcosa di noi stessi chi si ne va  a corsica di i nostri antichi  a corsica chi aspira a rinasce  perde una di e so piu intaite  creature   possa  lu esempiu di sta vita bella  dacci perseverenza peri nostri venturi lutti     possanu ste mio parolle  mette un pocu di balsamu in lu core adduluratu di i cinque fratelli rocca a i quali ci hanu fortemente ligatu la amicizia fraterna e u cumunu ideale    
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="2" type="cha" xml:lang="co">
+    <p>
+     canzona pulitica  a a me cumpagnu di fede molte u cirnensi  oramai  si so messi in ballu   viderete  pe i nostri cuntorni   sia a pedi  in cuio  a cavallu   bande di sgio chi giranu i forni  rimarchevule in mezz a  ssa scorta   cun un   paltussiu   e i la   gibessiera     u cuncurrente chi  di porta in porta   va  picchia  chiama cun tanta manera   aiturnella   chimiea o fisica  tultu ci intrisica    questa pulitica e un ver infernu   si ella rumena   tuttu abbelena     prumette a  cena pan  di guvernu   ogn elettore e statu invitatu nanz eri sera a lu municipiu    chi paga tuttu e lu candidalu     andemu a bede stu bonu principiu 1 dissi a la musa    le rime si amaschi per da iallozzu a lu grand oratore    si  a dirizzura  per casu mi caschi  daremu jaccin a lu to calore    sapete  o cari  favor  numerosi    pe li gagliardi  dugana e pulizza    per li assassini un ci e piu loghi ombrosi  tumbate puru  chi ne ha lo nizza       per cursichella   pe i rimanenti    sgio deputatu      uff  un mi ascolta  troppu cheranci  simu insulenti   scappanu i gridi pe a stacca roila     ci olenu e strade  ci  olenu e scole   ci  ol da curaggiu a la agricultura   a forza elettrica  quella ci vole   di i porti franchi ci vol  la apertura   ci vol  ghiustizia ed egualita   ci  ol  liberta  almenu una cria    in nostra fede vulemu resta    o tutti pari o la antonomia    gi fubbe gran sussurru   belle poche surprese         ma qui  ne so sicuru   e riccu stu paese      a chiesa si ne fala   campanile un ci p e    a funtana ci ammala chi cuparta nunn e   beie apparu lu purcellu    cu lu vecchiu e lu zitellu  strade  per sti paesi un ci ne e piu bistiga    tutt i soldi francesi chiapparu a culunia   per  ss  afriche occidentale vanu a sterpa le zinzale   e qui  la nostra scola si trova in un casgile   ci stringhienu la gola la jente mercanlile   e marianna  per prugressu  mette a mammapiera appressu   ci volse a parte prestu  qualch unu era  giu tecchiu    ne avianu di restu   intesi di mi orecchiu      stimu qualunque sia   ma un mi accettale piu di sli scemi in merria 
+  s
+    </p>
+    <docAuthor>
+     L'Orsu d'Orezza
+    </docAuthor>
+   </div>
+   <div n="3" type="let" xml:lang="co">
+    <p>
+     lettera algeriana  caru cumpare    penserele forse chi io mi sia scurdatu di voi e di a casa  muvrina  postu chi aghiu datu poche nutizie dipoi a mio partenza da  ssi razi sampelracci  un vecchiu pruverbiu dice    lunlanu da li occhj  luntanu da u corez  ma un  credu chi ellu abbia mai vulsutu parla di i corsi  di i muvristi in particulare   chi ne dite  o cumpa       si    duvete pensa chi si a vila  materiale mi ha custrettu a lascia u mio caru paisolu  un si passa un solu mumentu senza  chi io pensi a ssi loghi duve so nalu e ingrandatu  e duv elli so i mio piu cari     e pensu ancu a voi  o fralelli di fede  malgradu a luntananza  u mio core vi rivede lutti a lu intornu di a lavula di quella ultima merendella      ma ci vole a mellesi sta cosa in capu   o crepa di fame o scappa  in cerca di un lozzulu di pane cume li eremiti  dn  bi diceraghiu  caru cumpare  chi no  simu pochi corsi in siu paese  ci ne era unu chi bene di parte   u signore li dia un bonu viaghiu     ma unn era corsu perfellu   si vergogna di parla corsu     ma  un piducchiacciu rifallu  capricciosu e mezzu mattu     un vi slupiscereie micca si io vi dicu chi ellu mi ha trattatu  qualchi volia di salvaticu   cui  ci ne e un altru di u cantone di boziu  questu e  cursu cume un vecchiu pilone niulincu  ma $i inarita preslu  e fermeraghiu   prestu  solu  saraghiu ridultu a fa sente  a mio voce a i pesci chi stanu in la acqua torbida di   l oued berda    vogliu intende chi io mi fanderaghiu a paghiella a lu orlu di stu  fiumicellu  in cumpagnia di u nrio  figliolu paulu   un catellu di razza  cume boi sapele   e cusi  u mio povaru cerbellu si spannera un pocu     mi pare chi lu accampu di a vostra casa abbia pocu disturbato li abitanli  avele raggio  caru  cumpare  una cosa si face o un si face    chi ne je di quella bandera corsa chi marlier vulia manda in parigi   le avete forse mandata in evisa a minicale      e at tn un se i  un amu di vert core   sera la guardia di onore   ci avemu u rimusciu di a pulitica ancu quindi  ma si sente pocu frombu  mi dicenu chi ellu ci e dui candidati  thomson  deputatu a vha  e un cerlu giovacchini  chi  secoidu u nome  dev esse corsu  stulomu sarebbe sucialistu   cumunistu  per cio chi aghiu capilu  assai so     ci capite qualcosa  voi   per sti rughioni  u ealdu si face digia sente  u sciloccu ci ha fattu una visita inaspeltata  ma e stalu  ringraziendune a diu  di poca durata   ne    u granu in li campi prisenta di tulta bellezza   si spera chi quist annu si manghiera u pane neru a bori pattu  nen  saluti a tutti  e strinta di manu fraterna  7
+  s
+    </p>
+    <docAuthor>
+     Ghiuvanni Olivieri
+    </docAuthor>
+   </div>
+   <div n="4" type="his" xml:lang="co">
+    <p>
+     raconti di a muvra  u cistinu  a u mio nipote paulu demarchi  in tempi di i tempi  campava in lu paisolu di chiovini  1  distruttu oghie jornu  un santu rimitu   chi i so paisani  tensenu per beatu   di nome chiamatu juvanninu   prete juvanninu unn era micca unomu sommu  ghiera  piuttostu a la antigogna  ci e a di quasi niscentre di spiritu  ma bonu cume una micchetta  e dolce cume lu oliu di san biasgiu  a so anima avia u profume di sti fiuretti chi zirlanu da a i terra aspra  dissucchiata da li erburoni  ma chi toccanu u core di i passighienti dilicati  umbule cume u pane corsu studiatu  campava cu pocu  e pregava assai   st anima mezza celinca stava piu in le etere e cime che per baleghj asprie grussulani in duve  lozzu e fangu macchianu i nostri pedi  stu sant omu si cridia indegnu di campa e bramava di culla pe u sempre in lu celu  di u quale i so occhj eranu briaghi  tantu eh ellu u fissavanu cun gulusia  u    andemu chi uni pochi di mascalzoni pe i quali e realta terrane e so e prime e le ultime  e chi a si scaccapavanu a  panza gonfia  di u prete  totanu  aimanacconu cu gattivera albasgesca  una tracca maligna   prete juvanni andava ogni jornu in chiesa  ad implura lu altissimu  e ad accusassi di a soinutitita  bracce stese e  fronte  calata  si inghiuliava cun passione  e a soliti prucantula surtia da  e 56 iabbre smiunte    signore  io non son degno di entrare nella  vostra casa    signore  pieta  perdono      po  avendi cusi  inipluratu  iso occhj fissavanu u celu di a chiesa  quandu  soni e tanti fecenu sente un tribisondu abbastanza rozzu chi pari mele a lu indinucchiatu   paria   ssa   felicita premonitoria   una piuvasculata chi bagnassi la anima di li imani nucente cume balsamu pienu di dulciore infinitu    a  melndia sgalabata icuntinuava  sempre  mentre chi ua voce chi scantarizzava fece sentesta strufuletta     prete juvanni   ia ciel ti vol  gesu   prima fa culla i prisutti e po  dopu cullerai tu     allora la anima  jubilente di i abbate juvanninu trillo       capiscu  o signore     ci vole chi io mi spogli di tuttu cio  chi mi ingrufuleghia qui in bassu mezzu a derelitti viventi  e chi io mi presenti a boi  nudu di  roba terfena  e carcu solu di e mio macagne peccanti  me  7  un cistinu incanapatu falo allora  maestosamenie  accumpagnatu da a melodia pocu eteranda  fu cul matu di prisutti  salami  lonzi  sal ciccie  e purto in cielu  sse delizie cirninche  matrici di tanti peccati     chi bi ha da da avale  signore  lu indegnu chi so eiu  mi spogliu cun tanta gioia       allora a voce ricanta     prete juvanni   in ciel ti vol gesu   ava fa culla u bursellu   e po  dopu cullerai tu li misse poi u bursellu  e empii torna u cistinu chi cullo e smarri in la volta di a chiesa     signore  io non son degno di entrare nella vostra casa     allora une voce canto  guasi scaccanendu    prete juvanni   in ciel ti vol  gesu   prima fa culla i to panni   e po  dopu cullerai tu   tu   si spoglia e ficca tuttu ne u cistinu chi smarri ancora in mezzu a i scaccani     signore  io non son degno    ellu prucantuiava  a voce ripiglio di novu    prete juvanni   in ciel ti vol  gesu   ghia chi ell e cullatu tuttu  ava poi culla ancutu    u   e u cistinu falava  mentre chi ellu   e    io non son degno      ava tocca terra  e u santu prete ci si inchiostra  tuttu preghendu     signore  io non son degno      i canti e i soni accumpagnavanu  poi u cistinu trizzinendu da u pesu  colla pian pianinu  purtendu banganoni a ghiuvanni peccaiore chi diu vole fa culla in celu senza chi ellu faccia a morte di ogn unu        bum  badabum   a funa si e rotta  e prete juvanni ha fattu u capitombulu  sfragellatusi in terra mortu     ma tandu  o miraculu   a volta di a chiesa parse a  ssi bujessi chi ella si aprissi e chi un raggiu di sole falassi  a ghiuca nantu a faccia sbiancata di prete juvanninu  e allora la anima cristallina  la anima chi u lozzu di manc una macagna avia imbruttatu  la anima di lu omu semplice e beatu  colta nantu le ale azzure di un arcanghiulu immaculatu  smarri pe u sempre in lu splendore abbagliulente di u celu cirnese     parlata di a custera 
+  s
+    </p>
+    <docAuthor>
+     Matteo Cirnensi
+    </docAuthor>
+   </div>
+   <div n="5" type="art" xml:lang="co">
+    <p>
+     manifestazione simpatica   sara  di st affare  una trentina di anni    na cummuna di valle di alesani ci era un gruppu di elettori chi abitanuu paisolu di terriola  elettori e paisolu eranu e saranu sempre forse i piu dimenticati di a corsicaintiera   in tempu di pulitica  i candidati a deputazione facianu u so giru cume a lu usu  e  dopu una visita a i capi macchia  fughianu cume diavule a  croce   u jornu di li eiezioni  terriulinchi si cunsultonu e  tutti uniti  dissenu   or e propriu un bell affare chi no abbiamu da parte a vuta per ghiente chi noi unn avemu mai vistu ne cunusciutu  bella  bella  chi no  abbiamu da accerta chi ne sgio tale ci porta  chi noi facciamu vede chi no simu cuntenti di u nostru statu miseriosu e di omi pulitichi chi un sanu mancu si noi esistimu  e bergugnosa      fratelli cari  disse una voce  un duvemu vuta ca per chi ci ha fattu u bene     pensa e ripensa  u piu chi avia fattu be  a ssi paisolu era     u sumere di ziu don bineriu  tutti lu avianu a frustera       e be  si vutara per bocchineru    era u nome di u sumere   detta  fatta   vittoriu u bancalaru impresto una cascittina  duie bandere funu prestu buscate  si ingheno u tuttu nant a lu ambastu di u candidatu sceltu  e a scorta unita e cungregata di li elettori terriulinchi preceduta da una damisgiana di vinu  ando fin a castagnetu duv elle si facianu li elezioni  in piazza di a scola fecenu chiarchiu e dopu ave betu in onore di u sumere e lentatu un evviva scuncertosu  lamponu tutti u so bugliettu per bocchineru   tempi etempi   bellu esempiu da seguitassi   2oo  ma  o corsu  duve vai  ti accade ancu di vuta suvente per un sumere ma un voli crede chi ell e di a razza di bocchineru  e cusi  lu ambastu u porti tu       
+  s
+    </p>
+    <docAuthor>
+     O. F. Piazzoli
+    </docAuthor>
+   </div>
+   <div n="6" type="div" xml:lang="it">
+    <p>
+     un pocu di storia     prucessu verbale di la assemblea generale di corsica   seguitu   art  hi   avra inoltre ja facolta di fare  in nome del re  tutti gli atti del governo  che sono della compeienza del re  vi sara un consiglio  ed un segretario di stato nominato dal re  e negli ordini del vice re sara fatta menzione di aver preso il parere del detto consiglio  e saranno sottoscritti dal segretario     art  iv   il popolo ha il diritto di petizione tanto al vicere  quando alla camera  i corpi costituiti  e riconosciuti dalla legge possono petizionare in corpo  gli altri pero nella loro capacita individuale solamente  ed una petizione non sara giammai presentata da piu di ventipersone  qualunque sia il numero de  segnatarj   art  v   la camera del parlamento puo domandare al re il rinvio del vicere  essa si dirigera in tal caso al re nel suo consiglio privato  i vicere sara tenuto di trasmettere lo indirizzo  sulla requisizione della camera  al re  fra lo spazio di quindici giorni dopo la requisizione  ela camera potra essa stessa trasmetterla al re  anche per mezzo di una deputazione  ma in tutti i casi la camera e tenuta a presentare al vicere  quindici giorni avantila partenza dell  indirizzo  copia del medesimo  e delle scritture che lo accompagnano   art  vi   il re ha la disposizione esclusiva di tutti gli affari militari  e provvede alla sicurezzainterna  edesterna delpaese   art  vii   ii re dictiara la guerra  e conchiude la pace   nun potra pero mai in verun caso  ne per qualsivoglia ragione  cedere  alienare  o in qualunque modo pregiudicare la unita  e la indivisibilita della corsica  e sue dispendenze   art  viii   il re nomina a tutti gli impieghi del governo     art  ix   gl impieghj ordinari di giustizia  di amministrazione di danari pubblici  saranno conferiti ai corsi  o naturalizzati corsi in virtu della legge   titolo vi   della giustizia  e della divisione de   tribunali   articolo primo   la giustizia sara resa a nome del re  e gli ordini eseguiti dagli agenti nominati da lui  secondo la legge   art  il  vi saraun tribunale supremo  composto di cinque giudici  ed un avvocato del re  e risiedera in corte   art  ii   vi sara un presidente in ciascuna delle nove giurisdizioni  ed un avvocato del re  si   di  art  1v   le funzioni dei detti rispettivi tribunali  la gerarchia  e gli onorarj  saranno fissati dalla legge   art  v   vi sara in ogni pieve un podesta   art  vi   in ogni comunita vi sara una municipalita nominata dal popolo  e le di ei fanzioni saranno determinate dalla legge   art  xii   i delitti che meritano pena afflittiva   o infamante  saranno  giudicati dai giudici  eda un giurafo   art  viii   il re ha il diritto di far grazia  secondo le medesime regole  colle quali e ercita questa prerogativa in inghilterra   art ix   tutte le cause civili  criminali  di commercio  o di qualunque altra natura  saranno terminate in corsica in prima  ed ultima istanza   titolo vii   del tribunale straordinario   articolo primo   vi sara un tribunale straordinario composto di cinque giudici nominati  dal re  ed incaricati di giudicare  sull  accusa della camera del parlamento  o su quella del re  tutti i delitti di prevaricazione  o di alto tradimento  sempre pero coll intervenzione del giurato   art  ii   la natura dei detti delitti  e la forma del giudizio saranno determinati da una legge particolare   art  hi   i membri del tribunale non si uniranno  che nei casi in cui vi sara qualche decreto di accusa della camera  o del re  ed appena reso ilgiudizio saranno tenuti di sciogliersi   titolo vhi  della liberta individuale  e di quella della stampa   articolo primo    veruno non potra essere privato della di ini liberta  e proprieta  se non per ordine dei tribunali riconosciuti dalla legge  e nei casi  e secondo le forme da essa prescritte   art  u   qualunque sara arresiato  o messo in luogo di detenzione  dovra essere condotto fra ventiquattr  ore nanti il tribunale competente  perche la causa della sua detenzione sia giudicata secondo la legge   art  111   nel caso in cui lo arresto fosse dichiarato vessatorio  avra il diritto di riclamarei danni ed interessi nanti i tribunali competenti   art iv    la liberta della stampa e decretata  salvo a rispondere degli abusi secondo la legge  a  art  v  i  ogni corso potra liberamente uscire dal proprio paese  ed entravi colle di lui proprieta  uniformandosi ai tegolamenti  e leggi di polizia generale  pratizati in simili casi   titolo ix   della bandiera  e navigazione  corsa   articolo primo    la bandiera portera la testa di moro  unita colle armi  del re  secondo la forma   che sara comandata dal re   art  11   il re dara la medesima protezione al commercio  ed alla navigazione della corsica  che a quelli degli altri suoi sudditi   arti   il popolo di corsica altamente penetra to dai sentimenti di riconoscenza verso sua maesta    re della gran bretagna e la  nazione inglese  per la reale munificenza e protezione  con la quale la corsica e sempre stata trattata  e che gli viene piu particolarmente assicurata mediante il presente atto costituzionale   dichiara che riguardera come sno proprio ogni impegno  che in guerra  cin pace  sara intrapreso perla gloria di sua maesta  e per gli interessi dell impero della gran bretagna in generale   ed il parlamento di corsica si mostrera sempre propenso  e condiscendente ad adottare i regolamenti conciliabili colla presente sua costituzione  che per le estensione  e vantaggi del commercio esterno dell impero  e di tutte le sue dipendenze  saranno presi da sua maesta nel sno parlamento della gran bretagna   titolo x   della religione articolo primo   la religione cristiana  cattolica  apostolica romana  in tutta la sua purita evangelica  sara la sola nazionale in corsica  i  art  11   la camera del parlamento e autorizzata a prefiggere il numero delle parocchie  fissare la congrua  e prendere je misure per assicurare lo esercizio dell episcopato in corsica  concertando colla santa sede   art  hue   tutti gli  altri culti sono tolerati 
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="7" type="the" xml:lang="co">
+    <p>
+     teatru corsu di a muvra  a pulitica   cummedia in 4 atti di   seguitu   riassuntu gi cio chi precede  1 dui fratelli ors  antone e ghjlormu  elettori di u merre jacumone  omi di poca vulunta  so assaltati da e moglie  dorotea e fiordalice chi  avendu ricevutu visita e prumesse da u novu cuncurrenie  li volenu fa cambia partitu   queste obligheghianu i mariti di anda in merria a notte di u 4 ferraghiu per rendesi contu di e liste  a u  mo  mentu stessu duve u merre e messu a  u currente di u cambiamentu da sa   veriu  etettore fidu  e ghiuvanni  u so secretariunchi hanu avutu nova di a visita di u cuncurrente in casa di e duie cummari   ghiacumone  fissatu  e vantendusi di lu apboghiu di u judice di pace  decide di caccia di a lista eletturale i tre elettori chi ellu perde   scena it  i listessi  entranu ors antone e ghjilormu  ghjlormu  salutatu  o sgio merre  i  ors antone   bona $era a tutti   ghiacumone  dopu un occhiata a i so cumpagnoni    bona sera  bona sera   oh  oh  deh chi miraculu  voi altri  a st ora quindi   pigliate  pigliatevi duie sedie   maliziosu  avete fattu benissimu di vene ad ajutacci a passa sta veghja    ors antone e ghjlormuimbrugliati  si stanu arritti     ghjlormu   aibo   a ringraziabbi    ci ne andemu subitu     ghiacumone   diancine   qualcosa di primurosu  allora    ghjlormu  timicu    no    cum  ell e u quattru ferraghiu ci simu affaccati ancu noi per    per  sse liste eletturali     ghiacumone  cu risa maliziosa    oh  ok     e liste  e chi diamine ne vulete fa di e liste  voi  o jilo  un vi ne site mai impacchiatu  e quist annu     ghjlormu  imbarrazzatu    e piuttostu a curiusita ca     o sgio merre    duvete pensa   sapete be    ghiacumone   chi vulete chi io sapia e chi io pensi   alo  dite  dite u mutivu chi v arrega  i  ghjlormu   ah  nulla     di le volte  po accade ancu quellu errore    ghiacumone   mi pare ben di si  o jilo  chi noi siamu un pocu intravanati        ghjlormu   inno  inno  o sgio  merre  ma pertutte e cose  e cume  v aghiu dettu    un sbagliu     di le  volte     saveriu  seccu    ah  eppoi un ci e volte ne tetti  per quist annu credu chi qualchissia un vutera per sti loghi   ors antone   di quale parleriste  o save  cusi intieru    saveriu   deh  parlu di quelli chi mi sentenu    ors antone   or que le affare  poi     e duve avemu da vuta allora    saveriu   in calviari      cume site soliti a vutacci   ors antone   in calviani   aio voli ride  o save  chi a vegu e qual e chi dumanda a cacciacci da qui        saveriu  eiu  per lu criminacciu  un la sapiate soga chi a nova legge un permette piu di esse scritti in dui loghi    ghjlormu   ah  ah  quessu e un tradimentu chi tu ci faci   a ghiacumone  e voi  o sgio merre  permettite chi elli ci joghinu un tornu simile   ghiacumone   eiu  vi sbagliate  un ci so per nulla e per niente  eiu so cume pilatu   mi ne lavu e mani    gestu  eppo mira  qui un si discuta  farete  appellu       scena iii  i listessi piu dorotea e fiordalice chi entrenu di frombu  dorotea  in furia    faremu a  pellu   faremu appellu  parlate  si perche sapete chi u judice e   paru vostru  a sapemu chi bilan  cia face di ogni arba un fasciy pa voi  ma per sta volta un ci sara   bilancia ne cantaru  v ha da passi nant a u nasu  a  ghiacumone   chi ghie chi ghja  ssu scandalu in la casa cummunales  fiordalice   ghie chi cridiate a  fa cu i manzetti  ma ci simu ancu noi   ghjlormu  circhendu di paral  le cu e braccie    alo  aj61 sur  tite di qui chi questi un so loghi por voi altre  andate    alo  anda  tel    dorotea peftughiendu a ghjlor   mu e ors antone    fatecila finita voi  be      mansa di trinniconi a sapiamu be chi voi aviate da vene l qui a imbarbagliulabbi   saveriu   avemu da tullera  o sgio merre  chi ella duri una cagna  ta cusi in merria  i  dorotea  insu le furie   chi par li  tu  o furdano   soga so privi di i so diritti civilii nostri omi   hanu forse scruccunatu cume te o si so fatti chiappa cume te  in cor di a  mezza notte  arrubbendu i fasgioli secchi in le orte di li altri    saveriu   o sgio merre  o juva  prisenti e testimoni     dorotea   presenta e to    a ti vurria di tamanta   e sai  poi justamente ringrazia chi no  simu qui  o sinno ti vulia tampila i quattru jocculi chi ti hai in capu   saveriu   porcu mondu      si alsa  que ghie troppi forte    ghiuvanni  fendulu pusa   ao  alo  finimula  via  mn  fiordalice   eppo si tu  un la voli finisce  ricumenciala   ci ne sara ancu per te  o matanghe     ghiacumone   basta cusi   dicu  o sirino facciu un prucessu verbale da chi voi vi ne arricordite mira      dorotea   voi fate e vostre stacche  soga cridite di metteci paura per chi vo avete una sciarpa  ma un le avete piu per tantu  fatene a vostra festa   i  fiordalice   ie  vi ne dispiace di lenta u stampone   ma un vale a sturzula  ci vole a falacci    ghiuvanni   si vo  cuntinuate sta cumedia  sortu fora a chiama i guardia campesira    dorotea   vai  vai e chiamalu  quill altru avanzu di galera  corti  un ci manca piu ched eilu eppo site a u cumplettu    fio dalice   ie  quill altru padrone di tutti i cavuli di ste curtanile   e tuttu u vostru rinforzu    ghiuvanni    mezzu infuria  nes qu arricumandendusi    ma infine  o jente  rispettemu stu lucale e u primu magistratu cumunale    dorotea   magistratu  a mumenti ne farei un presidente  hai raggio di imbuffallu be   chi tantu un ci perdi nulla  ma rispetta  rispettalu tu chi ne hai fattu a to scioeca lattaghia   ghiacumone  su le furze    af lora un bastamicca  no  per dit santone  vulete chi io di a di mant a a legge  aspettate appena   piglia un fogliu di carta  te  o juva  scrivi custi      dorotea   scrivite e vostre an tenne a tutti   surtendu e u fiotdalice  ghjilormu e u fratellu  ma ci avete da sia   ci avete da sta  avete regnatu abbastanza    fiordalice  da lpusciu     eviva u sgio cavicchia    dorotea  surtendu la ultima     a bassu i frappuladori     ghiuvanni e saveriu si improw tanu per risponde ma ghiacumone le impedisce  fenduli pusa   saveriu   ma ci piglieranu pro  piu per manzi  o sgio merre 
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     per aprile  i  si vo  permeltite  di cose a dirvi aghiu   prestu ha da vene aprile  fiurisce ogni rusulaghiu   e per empie li so lani si ha da mova lu vespaghiu   g ha da mova ju vespaghiu  e  in aria  ogni buvone  inde vannata vini ottu   di corsi  femu attenzione  perch e ora di spartassi gunmarchia piu a u bughione   adaiu vostru accunsentu prestu sareti chiamati   gotereti a lu voslr usciu jo picchiu di i candidati chi so sempri li listessi  come in ji tempi passati   hanu da jugna a truvabbi a tutti  vecchj e zitelli   vi tuccaranu la manu parlenduvi da fratelli  prumettenduvi fontani  stradoni e tanti battelli   di  ssi corsi infrancisili tn vuteti per nissunu    fateli tutti listessi     biondu come ju brunu   o sinno saranu guai  sopratuttu a li operai   quelli si arricordaranu chi elli so mandati apposta   e saranu pronti a ia  la chiama cu la risposta    accettendu i nostri scritti  fendu vale i nostri dritti   perche i dritti lu avemu   un damaridemu favori   merifa la panna bianca quante a panna a tre culori  efin qui  nienti  ma nienti  da i nostri guvernatori   millerand a ci ha ben detta ind una parolla secca     o corsi  chi vi piegniti   unn aveti la acqua fresca     truvo bellu li aifoni  ela gustu di i fiadoni   colunia di riserva   corsica e cunsidarata  fau giandarme u duganeru   o partesine a la armata   tutti a serve a marianna per noi allri cusi ingrata   li aveti bell e be visia quist annu lu 3 ferraghiu   fecinu come la volpe  quandu jugni a ne pullinaghiu  i  dicendusi in se stessi   faremo nettu pullaghiu    u muscu li fermo in gola  li affari funu ritrosi   incu li so mani bioti  si ne escinu vergugnosi per racunta a lu marliere pochi provi fruttuosi   tott  i nostri candidati approvanu tutta questu  senza chiede a le elettore si ellu li ne da u permessu   demuli la ricumpensa      vi parlu 4 casu riflessu 
+  s
+    </p>
+    <docAuthor>
+     Leca di Furcatu
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     i partitanti  indu le nostre cuntrade  ci su i forti partitanti   di invernu cume di estate si accumpulcghianu in tanti per sunda li so tarreni  si li affari vanu avanti   indu le nostre baleghie  ci avemu li parlitanti  chi ci asseccanu le orecchie  cu li soni e cu li canti  quandu e piu brutta la manu   taudu mettenu li guanti   in le nostre mezzanie un mancanu i partilanti  si ell e per di le buggie   so peghiu ca li marcanti   anderanu in paradisu  chi hanu anch elli li so santi   inde lu nostru cunlornu  bollenu li partitanti  sempre  di notte di jornu   pensanu fatti birbanti    ma nun si abbedenu micca chi omu i stima lacramanti   inde la nostra cumuna  eccine gran partitanti   rotuleghianu cu a juna   e fendu opere impurtanti  ma ala fin  di li conli    chine vole si ne stanti    o povera e trista sorle   e forse pane pentitu    un sara picchiendu forte chi elli umbaci lu granitu     eiu credu  o partitanti   chi bo  averele capitu 
+  s
+    </p>
+    <docAuthor>
+     Ferdinandu Acquaviva
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     u prugressu avanza  a corsica rincula   amuvra tu chi conservi u dolce istintu  ta chi suspiri e ti tramanni u core  totta pensendu cun amor cursistu di vede riturna passate aurore   mura  chi piegni  tu  cunservatrice di u nostra onore e puru dialettu     yedi i fedeli chi u turmentu afilize    yivendu sottumessi ci  ne l aspetto   muvra  fu chi risiri en i ti amici i falti di un guvernu puzzulente    ma nun si ponu ottene li prudici  e contru a forza un po u resistente   ma percosa lagnarti  cara muvra  nun ti manca ne boschi ne pascura  da li alti monti a le piu basse piaghie trionfa cu prestigiu la nutora   ma prestu si ritorna a u naturale  sottu a ne tristu zu vernu e  le arie para   e cu forza majo si magnerane cume i primi francesi  carne cruda   pasturellu
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="11" type="poe" xml:lang="co">
+    <p>
+     a cigala e furmicula  a cigala canterina   sottu la frond a lu ascosu   lu veranu e la islalina canzuneghia a lu riposn  zin zin zin   da mane a sera  pe lu cantu e la primiera   sla sciurata a la friscura   un pensendu a la raccolta  di lu invernu unn ha primura   di istate face ribotta   senz alluca pruvisione  pe la gattiva staggione   quandu vense la cudrura  e chi pughio tramuntana  cu lejurnate di ardura  un ciavia granellu in tana  ci volse a circataghia   per truva da chi magna   dopu strinlusi u curghiolu  a famiglia cicalagnia   babbu cu mamma e figliolu si abbionu versu la aghia   ma le aghiale era mondu  spazzatu di tondu in tondu   mancu la ombra di un granellu  furmicuccia pe la via ne avia fattu u trascinellu  chi  lu invernu previdia   e di ju furmiculaghju    pien era fondu e granaghju   or cum ella era le affare critichissumu simai   a cigala inde a cumare   ando a pienghie li so guei  e ne casco mezza morla dopu francatu ja porta    scusate  vi scumudeghiu  mi impreslate un paniolu   eunpezza chi io dighjuneghiu  eiu culu mio figliolu   un temite  u renderaghiu quandu venera stu maghiu     sai chere a mio cucina   ma chi festi di istatina      ti feciu li serinati   cu la ghitarra aceurdati     ah  di estate soni e canti  tuttu que so li to stanti  ma questa un ti basta o cara  si travaglia e si rispara    ma  un vogli esse avara   entri inde ssu camerettu ed empi lu to sacchettu   ti succorgu per sta volla  ma   ghiudiziu a ja raccolta 
+  s
+    </p>
+    <docAuthor>
+     U Vecchiu Sindacu
+    </docAuthor>
+   </div>
+   <div n="12" type="poe" xml:lang="co">
+    <p>
+     si io possu  fajutu  a u mi amicu geroniqi   benche di arecchia sia pocu  furnita  pe la miu sorte pocu furtnnata  intesi la to chjama  cara amie u   di ju viali tre marzu in la jurnata  si io pudissi melte qualch inlrigu pe la to signurina tanta amata   credimi puru  amicacciu sinceru  eiu  per te  faria biancu 6 nera   vurristi chi io li canli una canzona incu la mio vuciaccia pocu strana  ma si a l aibern manca la curona  credu chi di ionacqualle e cosa vana  appraderaghiu fott a mio persona  che rimbombi di ombria a la sulana  e simai a cunvincela un ricsca  dicerai chi pigliavamu frescu   si l amor  fi rifiuta  un li fu dolu  accetta stu cunsigliu da
+  s
+    </p>
+    <docAuthor>
+     Tiolu
+    </docAuthor>
+   </div>
+   <div n="13" type="div" xml:lang="fr">
+    <p>
+     giurnali autonomia il a ete fait quelque bruit autour de la perquisition faite recemment dans les bureaux de l organe regionaliste 4 muvra  a vrai dire la presse insulaire n a revele aucune emotion de la chose et quand je dis qu elle ne revela ancune emotion je ne veux point dire qu elle n en eprouva aucune elle s abstint simplement de la manifester et pour des raisons assez mal definissables quelque chose comme si elle n osait approuver ou blamer je ne parle pas ici de cette presse speciale qui se traduit par une correspondarice avec des journaux continentmix celle la est la presse anonyme dont les informations se ressentent toujours par trop de cet anonymat  il est hors de doute que si l on posait a tous les journalistes corses cette question   approuvez vons ou non la campagne de a amuura  on verrait une levee de boucliers sous les especes de mains portees aux yeux et qui voudraient dire  cachez ce dessein que nons ne saurions voir  mais les mains seraient en pattes d oie comme celles des juges de phryne qui se voilaient la face sans se priver de regarder a travers leurs phalanges suffisamment ecariees pour cela  jean maki  la nouvelle carse  l'elezione di haguenau jusqu au jour de l election une vigonrense campagne a ete faite dans un certain nombre de journaux de paris contre la municipalite d haguenau et comme elle etait catholique les journaux anticlericaux les plus internationalistes n ont pas manque de faire preuve en cette occasion du patriotisme le plus chatouilleux ah 1es bons apotres  et comme ce jour la le patriotisme a eu du bon pour eux puisqu il leur fournissait l occasion de vigoureuses campagnes anticlericales  certains journaux moderes ont fait chorus avec eux par nationalisme on par respect hnmain sans prendre la peine d eludier la ques tion et sans meme s apercevoir des resultats deplorables que pouvait avoir leur attitude irreflechie  en admettant qu il y ait en alsace et en lorraine des hommes encore hesitanis entre deux patries ei que la question religieuse qui les preoccupe si gravement les tienne en suspens croil on qu on les gagnera par la suspicion ci l infimidation  cela n a pas reussi a l aijemagne 9 a saverne ses arroganis officiers insuitaient les alsaciens en les traitant en leur jargon de francais  comme des maladroils aujourd hui traitent trop d entre eux de boches  quel a ete le resultat de tout cela  une recrudescence d opposition a l allemagne qui s etant apergue un peu tard qu elle avait fait fausse ronte adoptait avant ja guerre a l egard de valsace lorraiine une politique de moderation  allons nous recommencer a notre propre detriment la meme erteur a hagnenau on a pretendu epurers une municipalite que pon trouvait impure  quel resultat a t on obtenu malgre toutes les attagnes et toutes les pressions la municipalite a ete reelue  la corse  texte de la declaration des droits de l homme et du citoyen commentes par un philosophe tcheque ami des corses des bretons des alsaciens et veritable ami anssi des francais  avl 4  la loi ne peut ordonner que ce qui est juste el utile elle ne peut defendre que ce qui est nuisible a la societe  la france emprisonne les federalistes  le federalisme est donc nefasie a l avenir de la france  et de l humanite   art 18  nul ne peul se vendre ni etre vendu la personne humaine n est pas une propriete  altenabile     su si nul ne peut se vendre ou etre vendu une nation personne morale n est pa non plus alienabte il n y a donc pas de plebiscites ni de traites valables engageant sa souverainete sor les nationalistes corses brelons etalsaciens sont dans leur droit absolu  toutes les lois francaises sont illegales en corse en bretagne et alsace et ie proclame hautement le droit des corses des bretons et alsaciens a la resistance contre l application de ces lois par des moyens de force equivalents a ceux utilises d abord pat le gouvernement francais pour l oppression  d ailleurs voici ce que disent les articles 34 et 33 des droiis  art 34   l y a oppression contre le corps social lorsqu un seul de ses membres est oppri art 35   quand le gouvernement viole les droils du peuple  quana un gouvernement viole les droits d un peuple ou d une portion du peuple l'insurrection est pour le peuple nu pour la portion du peuple opprime le plus sacre des droils et le plus indispensdble des deddirs  autres articles  art 26  chaque porlion du peuple souverain doil jouir du droit d exprimer sa volonte avec une entiere liberte  les alsaciens lorrains auront la jouissance pleiniere de ce droit pour les prochaines elections legislatives n est ce pas    art 28  un peuple a toujours le droit de revoir de reformer sa constitution une generalion ne peul assujellir a ces lois les generations futures  si l on pent admettre le dogme de l indivisibilite de la nalion francaise nul n a a se soumettre au dogme de l'indivisibilite et de lunite de yetat franco breton corse basquealsacien moi personnellement j admels simplement comme souhaitable l'existenee d une federation indissoluble franco bretonne basque alsacienne corse    la legalite de l'arrestation des autonomistes alsaciens  si je comprends bien le texte de loi invoque c est tous les francais qui ne sont pas bonapartistes qui devraient etre arretes  qu enpense le conseil d etat  5 conclusion en prenant ia defense de la bretagne de l alsaee et de la corse j ai conscience d etre un bon europeen un bon citoyen du monde et meme un bon ami de la france c est ce que ces messieurs anti federalistes ne veulent pas comprendre la france l europe etle monde ne vivront en paix ne seront assures de leur avenir que lorsqu il n y aura plus de nations opprimees politiquement ou economiquement mais plus rien que des nations libres federativement unies   francais aveugles qui croyez assurer votre avenir par un imperialisme forcene l ere federale du monde viendra malgre vous et il vous restera l opprobre ineffacable d avoir retarde son avenement  ah l autonemisme esi un danger pour la paix  oui pour la paix imperialisie  esperezun pen en la s d n  peuples opprimes mais comptez surtout sur vous memest  e  sa mikael de praka
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="14" type="feu" xml:lang="it">
+    <p>
+     ll generale entrando in palazzo  venne la anticamera ingombra di ne piu che non soleva  ci vibro pia uno sguardo  e gli parve ve e facce nuove  ma studioso di eticare verso il cavaliere franceoghi termine di convenienza  1 si trattenne a indagare  licen o su la soglia la compagnia enrel gabinetto coll oratore ed un te  il signor giacomo  il quale mecche si fosse riconciliato in ie co frati dopo lo incontro del dre casacconi  pure si sgomen tavaa trovarsegli sempre fra i piedi  domando ad altobello     e chi e quel frate che si chiude in conclave col generale e coll ambasciatore francese      costui si chiama buonfigliuolo guelfucci   appartiene all ordine dei servi di maria o vogliamo dire servita   io dicono uomo di molta dottrina e di prudenza grande  detta con molta eleganza di lingua  sicche in toscana lo chiamarono a parte della accademia  della crusca  custode  come saprete  della purezza del parlar toscano   il signor generale se lo tiene da molti anni per segretario  ed ba da lodarsene   ma ecco che esce del gabinetto   di vero fra guelfuccio comparso nelia sala fece intendere con urbanissime parole rincrescere al generale non potere sul subito acctgliere le persone ivi presenti 36o8 fortarle a non aspettare   tornasse  ro dopo la calata del sole  che avrebbe provveduto in modo da  trovarsi libero   taluni si partirono dicendo si  sarebbero fatti rivedere il giorno appresso   altri risolverono aspettare   solo una monna di bello aspetto e giovane ancora non si tenne contenta  ed incomincio a strillare    i    ho furia io  mi sono partita innanzi giorno da castirla  e non posso ritornare   si veramente e la via dell orto da castirla a corte  e poi ho furia io  bisogna che parli subito al generale  e gli voglio parlare     ma capite bene  buona donna la venivaammonendo il servita che il generale adesso sta in  faccende per lo stato         e se il generale fale sue faccende  io non posso mandare a male le mie  ho furia vi dico  ho furia  bisogna che inforni il pane dia da mangiare ai maiali   annacqui i fagioli  insomma ho furia   tanto e tale mandava schiamazzo costei  che il generale imporiunato dopa chiestane licenza al val  croissant  levatosi da sedere  si affaccio alla porta con volto torbo  interroganda      che bordello e questo   perche non cacciate via il temerario      non sarebbe un temerario  bensi una temeraria ma se merito questo nome  giudicherete poi   intanto bisogna che vi parli  ed ho furia     dunque sbrigatevi     vien qua  giacinto  vedete eh   che pezzo di figliuolo   sentiamo  quanto gli fate  ma voi non indovinereste di qui a mezza notte  pero ve lo diro addirittura io  perche ho furia   egli e entrato in sedici anni la festa di san giacomo e filippo apostoli       sbrigatevi vi dico     lasciatene il pensiero a me  che ho da tornare a casa infornare il pane  to per lo addietro non rifiniva mai rinfacciare a quesio pavero figliuolo di mangiarsi il pane a tradimento   perche come si trattava recarsi in mano una zappa sudava peggio di un cavallo bolso   sempre li con lo schioppo in mano  sempre erpicato pei comignoli del le valli     donna  pel vostro meglio vi consiglio andarvene       ma no   ma no  coll interrompermi mi fate perdere tempo  ed io ho furia   ieri dunque mirando che il mio zitello ammaniva lo schioppo per uscire di casa  gli ho detto   scioperataccio che sei  almeno  dacche da quella rocca in fuori non vuoi toccare altro  tu la sapessi maneggiare come ogni  fedele cristiano   gioco un seino  che non ti basta lo animo di ammazzarmi quel falco  che fa la ruota costasu  giacinto si ripose in tasca il misturino dei pallini che stava per arrovesciare dentro lo schioppo  e cavata dalla carchiera una palla la caccio nella canna  e mi rispose   adesso e troppo alto  intanto il falco calo  e  giacinto  mamma preparate il scino    ii falco giu come cencio bagnato  allora detti spesa al mio cervello e parlai  i    f 
+  s
+    </p>
+    <docAuthor>
+     D. Guerrazzi
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

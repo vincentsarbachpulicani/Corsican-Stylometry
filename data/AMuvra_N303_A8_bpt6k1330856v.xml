@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k1330856v
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k1330856v
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 303 | Année 8
+     </edition>
+     <date>
+      1927-11-20
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     nunu VIII — Numaru 303 I onu ui  - 7? Esce ogni dece iorni 20 Nuvembre 1927 I PS ga O tt.  MUVRA  GIURNALE DI E PIEVE DI CORSICA  ABBUNAMENTI:  in Corsica. . . 0.0.0... 12 franchi  In Francia  A PYEsteru. .....  . ....., 80  U Mumaru: 5 soldi  Direttore : Petru ROCCA  AMMINISTRAZIONE:  88, Corsu Grandval 88. — AIACCIU  Contu currente cu a posta — Marseglia 45,82
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     autonomia  risposte h molte quistioni di i nostri gumpatriotti    sariamu curiosi di sape u mutivu di u vostru rugnichime cuntinuvu  autonomia  a u  tonomia      un videmu i guadagni a tiracci  e ancu menu a pussibilita di tene in pede     dumandatela a li irlandesi  i maltesi e tant altri chi lu hanu suspirata dipoi seculi e seculi e chi hanu finitu per ottenela     ma chi burriste fa in un  isula povera cume a corsica  abbandunata ad ella stessa     cio chi ella face una serva chi lascia una padrona indebitata chi trova tutti li azzinghi per un dalli cio chi li ci vole e cio chi li rivene     chi muta  muga   dice u pruverbiu  tutte e nostre antiche padrone unn hanu fattu peghiu     di accordu   ed e per stu solu mutivu chi ell e megliu a diventa una volta per sempre padrona povara in lu so tafone  che esse serva circataghia insempiternu     vi lagnariste  dunque         di e differenze e di vindifferenze  cio chi bene a di  quale figli e quale figliani pe da  e orecchia sorda pe i nosfrisuspiri     ma cridite realmente di ttuva ne megliu direggenduvi da per voi      sicuramente  postu chi peghiu un si po esse    ma comu  in chi manera     cu e nostre ricchezze e a liberta cummerciale per pude franne u piu pruduttu pussibule     v intendite dunque ricchi   i    mancu povari si  e nostre tire  acque  boschi e ancu pefanu cio chi elle pudarianu    un vi rendite micca conhi di e spese furmidevuli chi di vurria a fa per ottene una  sita cunsequente da  sse ricezze chi voi mintuate   mil   sicuramente  si elle si ser  enlanu cusi scuccagnate     dipoi longu tempu chi malchissia ne avaria tiratu frut py gattive lingue   ma rive gliu  i nostri porci   duve i  ti ri ste sti denari senza con siani da di manu a intrapre fusi custose    duvelli si so indebitati  li altri chi un ne avianu  per fa i so affari  e    affari menu impurtanti pe a vita di e jenti     e amettendu chi boi abbiate i soldi  duve piglia li omi pe a manu di opera   videte chi pe i miseri travagli chi voi intraprendite i fate vene da fora     un ci serebbe piu maroccu ne indocina ne altri loghi di frebba gialla per ingollesi tutt i nostri bracci       e si sti bracci preferiscenu cio chi l e toccu a cio chi voi li prupunite      u corsu abbandona i so loghi appesu pe u collu e si ellu truvassi a guadagna a so vita in corsica si cuntenterebbe ancu di sta di mezzu corpu     ma perche dite tantu male di i funziunarii  dunque     fate sbagliu   noi  avemu sempre cunsideratu i funziunarii corsi cume vittime e micca come culpevuli di a nostra miseria  ne ricevimu tanti lagni chi elli un ponu lenta a la aria libera     e tante ritirate   tant anni di serviziu diggia fatti serebbe robba persa    chinega di paga u sudore di a jente merita u disdegnu generale  niga u pagamentu di unfunziunariu seria un azio  ne degna di mosca    unsite dunque micca amici diucummunismu     simu pe u rispettu di a robba altrui  e per noi  ancu quellu di a chiesa e di a chiesa     site dunque clericali     avemu a fede di li antichi e simu contr u laicismu     site bonapartisti  republicani     un capimu micca  sse parolle     ma infine  tenite a manca    a diritta  site sucialisti  realisti  qualcosa  infine     tutti imbrogli chi no  un circhemu mancu a capi e chi per noi so pari pari cume i gra  naghioli     ma chi site  diamine     simu corsi  i    corsi  corsi    ancu noi simu corsi     micca tutt a fattu      e chi ci mancarebbe       quella di esse corsi e basta   
+  s
+    </p>
+    <docAuthor>
+     Altore
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     a piu grande sfacciatezza di u seculu  u guvernu di lu umatellu poincare e di u puliziottu sarraut interdisce tre giurnali scritti in dialettu alsazianu   a grande nazione di u re sole  tarulata da u furmiculaghiu demagogicu  macagnata da peresiaugualitaria ciotta ogni jornu piu avanti in la catarazza duv elli finiscenu cu puzzulente angunia i stati punti da u buvone di a democrazia   la alsazia lorena   tutt i sapienti di u mondu intieru  cumpresu i sapienti francesi  a ricunoscenu   pruvincia di razza tedesca  di lingua tedesca  di custumi tedeschi  avia cunservatu sottuu stifale germanicu     u statutu speciale chi la abbisogna per ragione economiche e religiose chi un si ponu niga   ciocch ellu tullero  per forqa o per amore  u   regime di ferru     di i federici e di i guglielmi  a dolce mariannona un lu pobbe suppurta  ciocchi u stifale un bolse o un pobbe sfracica  u berittinu rossu a occhiu giacubinu  punendusi cume una mocca naniu le ideale di un populu  decidi di spegne una fiara chi un dava  cume a scia  luce rossa   e parolle sulenne di u petii pere  joffrea u principiu di a grande guerra  prumesse ufficialissime ma prumesse di circustanza  funu cunsiderate  dopu versaglia  da i guverni cartellisti o di unione naziunale cume palabre di ciarlattani  pulitichi  o vantardizie di denristi di piazza publica   messa in gabbia a cardelliva  addiu scagliola   u jazz band di un sciuvinismu di mal caducu avia da suprania i gridi di u paziente mentre chi omu li cacciava i mansillari ci una tinaglia ar  rughjnita   malgradu i zim  zim  bum   i piu furiosi  la alsazia lorena fece sente u so stridu di dulore easo ferma vulunta di mantene sane e so mastucatoghie   giurnali e publicazione  sorsenu naturalmente e seppenu  cu a semplice osservazione di i fatti  dimustra u pocu degnu accanimeniu di un guvernu centralizzatore e apparinatore  i  davanti a cusi salda affirmazione di una incuntestevule naziunalita  apiazza beauva u e a rue des saussaies fecenu a lampa lampa  e una legione di cusi detti giurnalisti di a  grande siampa e di u lucale lamponu feccia e calunnia nantu tuttu ciocchi ci era di pulitu   u risultatu un pago e spese  a tiratura di i fogli autonomisti crisci e multiplico   lu intieru populu di e pruvincie prutestatarie canto in coru lu innu sacru di a razza   u dodici scorsu  u guvernu di a ripublica francese  ha suppressu per decretu i tre impurtanti giurnali di li autonomisti di oltre vosgi a wahreit  a zukunft  a volksstine   diiprincipj immurtalix    di u 1789  i ripublicaui di u  927 si ne stughianu   u liberalismu scanna a liberta    u jallu sgrinfia piu crudelmente che la acula doppia   vecchiu e novu mondu ghiudicheghianu     a nostri fratelli di trava mandemu un a fflittu salutu   a muvra
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="3" type="his" xml:lang="co">
+    <p>
+     fole corse  una di u tritore  quandu u cruzzini era sempre cupartu a fureste folte  quandu ci eranu sempre li omi sinceri  1   bisluti di bilone  2   un pastore stava vicinu a tartavellu in pantanu  a la umbriccia  in faccia a u tritore chi un si chiamava ancu tritore a quella epuca  era solamente una grossa punta di petra grisgia   una notte di tempu latinu  ind  un celu stillatu lucia a piena luna  manc un soffiu in la aria quieta  u pastore si facia una cantaia  solu  prima di addurmintassi  un galopdu subitane u  e da a pineta sbocca uncavagliere di apparenza riccone e galantomu  questu dumandenduli lu alloghiu e a cena  u nostru pastore u prego di accumudassi  poi  pigliendu a so jumenia pe a brilla a purto a  stalla  e  ma eccuti ad un trattu chi a fera volia u capu e li dice     ascolta  o pasto  eiu so bianca a turtuliola di guagnu  e pe i me piccati so turnata a jumenta di u diavule   sta notte andemu  a chere le anime di i cristiani chi hanu sminticatu a so fede  sia attente  prima di sparte qualunque magnusca cun ellu  di fatti u segnu di a croce    sbalditu a la apprima  u pasiore si fece una prighera per dassi u curaghiu  poi  vultendu a u diavule li uffri latte e pane  dicendu      o sgio frustere  spartu vulinteri incu boscu ume pane e u me latte  ma prima di magna  si bo sete cristianu  farete cume me u segnu di a croce   ed ellu  u fece   santa madonna  lu omu alzendusi furiosu  li nascinu e corre in fronte e i so occhj ver di si missenu a luccica  esci come un iscemu  gridendu     o bianca a turtuliola  a faghiu da fa paga sta notte ti vogliu fa fa wna corsa da chi tu ne sia stanca per bitam eterna    si cugli  spruno i fianchi di a jumenta chi strido di dulore  turro majuronaearrabbiata  parfi zampitiendu talmente forte chi rumpia tuttu dund ella passava  e ghiunse in fondu di u jargalu ind un tragone   cula  bi era una petra piana  e uso pede di darretu ci fece un tafone prufondu   in  ssu tafone ci e avale un lavu neru chiamatu u lavu di u diavule   dopu  a jumenta indiavulata spicco un saltu versu laltramuntagna  caschendu  arraspiou monte  aierrefaloa l inghio  lasciendue coste rasine e rapidicce  e un muru di petranculi da duve surti una piscia  sottu  ssa piscia si vede ancoghie come un anca marcaia ind a petra e si chiama  lancone  le ancone  u diavule picchiava e sprunava  sempre   a jumenta spicco un altru saltu fina cima di u monte e ci sciacco una zampata tale chi ella u sparti in ire punte   st chiama dipoi u tritore  poi spari  e tutta nutinta ci fubbe una timpesta terribile  cu tutti i lagramanii e 1 diavuli scahnati chi currianu a messi nivuli trascinendu catene e fischiendu di malamorie   in cruzzini u pastore e a jente passonu a nuttata a priga   fola fuletta  schinchirilletta     ditemi a vostra   chi a meia e detta 
+  s
+    </p>
+    <docAuthor>
+     Anatra
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="fr">
+    <p>
+     rime di u sampetracciu les amateurs de litterature corse atrendaient avec impatience la puplication des poesies de ghiannettu notini dit u sampetracciu du nom de son village natal santo pietro di venaco notini etait deja tres populaire comme auteur et acteur dramatique on sait en effet qu il dirige avec autant de zele que d intelligence le pittoresque theatre di a muvra dont la devouee et infatigabie troupe a deja donne avec le plus grand succes et dans diverses communes de l ile des representations de pieces surtout de comedies en dialecte qui font bien augurer de l artdramatique corse d autre part notini avait chante lui meme en public plusieurs de ses chansons et avait obtenu de chaleureux applaudissements aussi l impression et la mise en vente du premier recueil de ses vers constituentelles un petit evenement litteraire dont chacun se rejouira unn tous ceux qui connaissent notini e 1 zi prouvent pour lui non seulement la x talent haute estime que merite son talent mais cette affection que gagnent tout 1 tels naturellementles hommes de coeur tels ti toc que lui ghiannettu notini est un des  representants les plus parfaits de notre  vieille race corse caractere droit fier  energiqueet en meme temps serviable   son regard degage a la fois une expression de force tranquille et contenue et de bonte profonde fermement attache out  e sur la de bonte profo a sa terre natale il faut le voir sur la i terrasse de sa chere maison familiale de santo pietro ou il sait accueillir ses hotes avec cette genereuse et charmante simplicite que l on se plaita retrouver dans son oeuvre les  rime qui viennent de paraitre aux editions de la  muvra continuent digrement la nouvelle serie commencee avec les recueils de codaccioni et d autres poetes de talent jerecommande atous les lettres de lire ce choix de poemes etde chansons ilsne fermeront pas le volume avant de l avoir termine et bien des vers se graveront d eux memes dans la memoire  preuve eclatante de leur excellence lelivreclos on le rouvrira maintes fois car l on s aper cevra vite que son auteur est un de ces compagnons dont on ne peut se passer e tout d abord ce poete du terroir  si dru si pittoresque a la verve si puis sante est un homme cultive il a beau nous dire que maigre son pere qui vou lait lui voir continuer ses etudes ila prefere etudier les champs les bois les makis et ecouter les oiseaux en realite il a su profiter des lecons qu il recut enfant et adolescent et rentre au village il s y est constitue une bonne bibliotheque ou il aimait a puiser au retour du travail yi parle une langue d une purete rare une langue qui n a rien d artificiel et qui sent son vieux sol corse a vingt lieues a la ronde tantot for te dure et apre comme les rochers et les gorges ou bondit le vecchio tantot douce aimable suave comme certains coins dela vallee du tavignano que l on voit rutiler au soleil des hauteurs de santo pietro si jamais auteur insulairea merite le nobie titre de poete paysan c est bien ghiannettu notini quia cetegard rappelle le bon charioun rieu le cultivateur du paradou aime de mistral chez lui rien de vulgaire de banal ni de plat rien non plus de sottement solennel aucune emphase tout est dans une juste mesure mais avec une variete de ton et une diver site de rythme qui denotent une abendance d inspiration et une maitrise d expression vraiment singulieres  le poete des champs apparait a travers tout le recueil mais principalement dans les pieces a sujet rustisque vindemia culori siccina etc mais il ne se contente pas de chanter la campagne et ses jabeurs varies ilen peint i aussi les habitants avec leurs habitudes leurs facons de vivre et de parler leurs qualites comme aussi leurs petites manies tout un peuple curieux et plein de vie et de couleur s agite dans les rime et notini sait nousle peindre avecune veritetoute simpathique qui n exclut du reste point la plaisanterie de bon aloi ni meme la franche ironie a cet egard sa veine se rattache a celle d un grossu minutu ou des oftave giocose de prete cuglielmi du reste ila lui meme mis en vers quelquesanecdotes joyeuses ou punte de minutu grossu il va meme plus loin il aborde la satire satire de moeurs ou satire so iale avec un succes complet il faut e voir railler sans mechancete ni coere virulente mais avec une finesse xempte d'indulgence les modes moternes impudiques les nouveaux riches vaniteux les speculateurs qui nous font la vie si chere san jeu de mots  i sait tourner contre les vices ou les grotesques d'impayabies chansons debordantes d esprit d une couleur parfois truculente et d une saveur si piquante jegarde encore le souvenir du poete chantant lui meme les strophes de  a moda  sur le champ de foire de casamaccioli au milieu d une foule enthousiamee  car notini est populaire dans le vrai sens de ce terme il est dis je profondement aime du peuple il faut reconnaitre du reste qu il aime lui meme ce peuple dont il est sorti peuple corse et terre corse il les aime par dessus tout les celebre et les chante la langue corse il en dit les louanges dans zia minichella dans parla corsu etc sa terre corse il la defendavec unejus te et rude force dans e fre piaghe ce homme au coeur sensible etdoux  li sez amizia l morti amore maternu cet homme qui a reve et cree lui me me de toutes pieces un theatre corse a la fois tresdivertissant et hautemer moral est un des espoirs de notre litte rature insulaire actuellement il es parmi les tout premiers de nos poete et les rime qu il vient de publier sont plus qu une promesse une realisa i tion remarquable un des beaux fleu rons de la muse corse un veritable e venement dans notre regionalisme cyr neen
+    </p>
+    <docAuthor>
+     P. Graziani
+    </docAuthor>
+   </div>
+   <div n="5" type="art" xml:lang="co">
+    <p>
+     fantasie  fola o verita   mi hanu dettu chi  imbitati da una persunalita in portu   un possu di si ell e u vecchiu o u novu  i capi di u partitu corsu auionomista si so scuntrati  cosa fatta cun intenzione  faccia a faccia cu un mandatariu di marianna   u dettu mandatariu avia sicuramenie pieni puteri postu chi parlo cusi      cari amici  so qui per pruponevi di abbanduna i vostri lavori e difrancisa i vostri nomi  averete  in scambiu  piazze e tituli da cumpensabbi largamente  maistrale sara di ora in poi  mistral 1   roi des poetes  avec minicai  leon et genty ses princes satellites   maistrale videndu chi un ci era  che duie vocali a supprime di u so veru nome di pueta corsu  e un i pensendu chi cio pudia diventa un  casus belli cui regiunalisti pru   venzali  avia accettatu  i    petru rocca pudara sceglie a so vulunta ira pierre de la koche  roche noire  de roquebrune de la roquebilliere     passendu a ghiannetiu  u sbattizzadore cuntinuo     per voi sera cosa facile  da direttore di u teatru dialettale  diventerete direttore di e gaites lyriques in parigi cu u nome e hiulu di jannet 1   averete cusi u diriiiu di da u stessu nome a u vostru erede chi si chiamera jeannet ii  ecc   per centu generazioni     ma ne aghiu dui  o mulizzo   mi pigli per un mezz omu o per un partigianu di u sconciu in frauda cume i pari toi  disse jannettu   u mandatariu un la si fece ri pete duie volie  e paulu graziani chi si aspitiova a sentesi chiama monsieur legracieux o de la grace  ebbe a furtuna di francassila 
+  s
+    </p>
+    <docAuthor>
+     L'Orsu d'Orezza
+    </docAuthor>
+   </div>
+   <div n="6" type="art" xml:lang="co">
+    <p>
+     cronaca aiaccina  timpesta   durante una settimana  un mare scatinatu si e sbattutu contru e nostre coste  nissuna imbarcazione di pesca unn essendu pussuta sorte  e stata carestia di pisciame pe i cunsumatori  e cuntinuvu fracibo pe i tinti piscadori  chi ha duvutu fa traversate cu sta simile marincalata si ne arricurdara  ma piu si ne arricurdaranu quelli chi si truvavanu sopra a u battellu di u jovi  1o scorsu  chi ba risicatu una gattivissima sorte   per cosa  i battelli chi un so adatti a gattive traversate un si fermanu in portu quande u mare e in forte timpesta      lume  signore  dopu tanti suspiri  avaremu   si sente di   a luce elettrica  chi piacere ind un ajacciu duve si videra quantu di notte che di jornu  ma    un gridemu micca troppu a u ladru  perche ci hanu mezzu che abituatu a e prumesse cu pochi fatti  e aspittemu  prima di da felicitazioni a chi ne ha pigliatu la iniziativa  seremu sempre attempu   carrughj e stradoni  u corsu napuleone  a u sorte di a citta versu a barriera cu u stradone chi u cuntinua so ind un lamentevule statu  in piu di a fanganiccia  oramai e a so staggione  chi elli un riescenu a impedi o chi elli un volenu impedi  le aperture di u sgottu costanu caru ad allargalle   fimpetramentu e fattu a solchi cume un veru campu di lavoru  chi ci passa a pedi un ci face sicuramente rimarca  ma chi e chiamatu a passacci sopra a un veiculu qualunque  un valenu e piu perfezziunate molle  bisogna a fa u salta salta da rompesi e reni  e tenesi a melza da chi ella un crepi in corpu   hanu jettatu tanti soldi per facci incadramature ripetute   a chi pro  postu chi lu impetramentu unn e micca fattu com ellu ci vurria  e chi aspettanu per fallu comu si deve una volta per sempre    o per una dicina di anni almenu   di a strada de sanguinare  un ne parlemu   solchi  e pocu di   chiamemule trincere piuttostu   u focu   dumenica a notte  versu o ore  u focu si dichiaro in lu sottu ettu diu ne  2  viale pasquale paoli  avanti chi i pumpieri di a citta fussinu uncolti e pronti a lutta contru e fiare  marinari di a difesa mobile eranu sosr a locu cu u so materiale  e u pericuu era alluntanatu in pocu tempu  felisitazioni a li avertenti   gumparazioni un fiacchenduci di ripete chi a vita e piu cara in ajacciu  be in le citta di u cuntinente cuntenemuci di mette sottu li occhj di u lettore i prezzi di a carne di macellu in tua  cittai di un dipartimentu assai inferiore in bestiame a  corsica    boie sceltu  senz ossu   5 65  carne a brodu  2 partasi da 3 franchi  vitellu sceltu  senz ossu   6 5o  muntone   5 5o u cusciottu  6 franchi e custigliole  5 franchi a spalla  3 5o a petterina e u collu  sti prezzi  si intende  so quelli di a libra   chi pensa di i nostri macellari ajaccini   cunferenza   sabbatu scorsu  a 8 ore e 1 2 di sera  le oratore mauriziu ricord  presentatu da u sgio mi  paoli sindacu di ajacciu e da u nostru paulu graziari  ba datu in la sala di e feste di u municipiu un applaudita cunferenza sopra a u geniu corsu di napuleone da vant a i pueti e rumanzieri  u felicite   mu da corsi    scola e igiene le assuciazione di  parenti di sculari  reunita a dumenica 23 ottobre in assemblea generale  fattu rimarca chi molte cattedre di prufessori di u cullegiu eranu vacanti  e chi da que i studii secundarii ne suffrianu  ha dicisu di fa dimarchie a u  mi nisteru di le istruzzione publica per chi rimediu ci sia purtatu   passendu a le esame di u lamentevule siatu de cullegiu fesch in cio chi si tratta igiene e ricunuscendu chi malgradu tutt e prumesse recente e luntane alcuna decisione e pigliata da parte di puteri incaricati  le assuciazione decide di dumande a u dettu ministeru spiegazioni sopra a u puntu duv ella ne e sta quistione e sopra soluzione chi ellu conta di piglia     decide  in uliimu  a cunvucazione inassemblea generale straordinaria pe 2 fine di lu annu  di manera a pude pi glia e misure utili e necessarie chi ella cumporta a situazione 
+  s
+    </p>
+    <docAuthor>
+     Pipistrellu
+    </docAuthor>
+   </div>
+   <div n="7" type="let" xml:lang="co">
+    <p>
+     lettara a i mio paisani di occhiatana  lione  6 nuvembre 1927   cari paisani   aghiu suppurtatu ancu troppu  oghi    i he e    ti  u saccu e colmu  e bisogna che u be a i vostri pedi  ne ringraziu stu cu lot  giosu jurnale chi mi permette di justia  cammi a i vostri occhj  per cunfondu    li 1  mio detrattori chi un cessanu di imbru  3 irchendu cusi di f fe  tammi  circhendu cusi di fammi pa per un essere vile e malfacente  ssa  i prossimu a sapete cume me  si pi assassina i1sicamen1le o muralmenio per mio contu  si ellu mi era tacca  sceghe averebbe preferitu a prima ma nera  ma soga u diavule ha ghiudica a chi unn aghiu apc abbastanza suffe tu e cerca gi fammi more a picculu focu   a cio chi e mio spalle banu avutu a suppurta sti pochi anni  e dipoi lon a iempu chi io auvaria esse sepellitu u campa a mio custituzione chi unn e cu me quelia di a idajo parte di membri di a mio sciarunata iamigiu  e u  dop a un battellu in mezza lx pesta  de fe ie a a wragdimentosi sboliari chi finisco nu sempre per arregiiesi a    y iondu da e mio rene   incemu dunque a u veru  lerte persone vanu gicenuu  storia ji noce  chi vo di casa ia lase ser meile a  isbeionu 1o4 e tamigne ighiustena u chi sse jammghe faranu megliu a un ncevemi  di ali  pruposiu chi so statu tinuti dino in ucchiziana innu scorsu un mi pouli piu lascia in  differente  e percio  racuntentuvi stu passu  vogliu circa di mette a nudu a maldicenza   avena u persu  cume vo sapete  tut ti a mio famiglia e qu pudescu piu ti forte iatighe a causa di e mio jerste di guerra  aghiu avutu da anda  a stan  tammi pane aitro  fer mezzu di una mio paisana so pussutu diventa un impiegatellu a i trammi in lione da auve vi scrivu in stu mumentu   un pudendu ringrazia aitrimente sia mio caritatevule paisana chi sarebbe una certa signora nunzia maria  andava suvente a rendeli visita pas sendu cusi  di lantu in taniu  un agra  devule mumentu cun ela e cu a figiio  la  amabiie e brava giovina vinteune  ma    allevata a moda di qui  un figlio  lu di a mio eta cumpiettava e nostre intime riunioni duv io era accettatu cu me un veru parente stretiu   st amicizia chi io cridia eterna duro circa tre anni  qui  tengu a dibbi  cari paisani  chi mas ebbi idea di maritam  mi ci una pinzuta  a mi lascio detta babbu per testamentu  mi e ci una corsa impinzutita   dunque  si io frequentava ste jente unn era  creanemi puru  che 2 titulu di amicizia  e basta  mai  a minima parolia di pratensione o altru e surtita di a mio bocca per circa di imparentammi cu sta famiglia  di altronde  sapia benissimu chi sta muderna   hebe   avia un amicu chi li piu mettia u matrimoniu dipoi tempi e tempi  sapia dino chi u fratellu ne feda altrettantiu ci una so amica di cula   chi ti face 1 astuziosa vecchia   per anticipa u matrimoniu di afigliola chi elia vidia andassine a le longhe  ti chiar pa u namuratu e li face crede chi io fiu rittava appressu a figiiola  questu  ce duiu a ti cumanda senza perde tempu nulla di grave fin qui ed eiu  smalizia tu  cuntinuava cume pe u solitu e mio frequente visite  ma ste visite un faci nu piu le affare di a signora nunzia me ria chi averebbe vulsutu  almenu me mentaneamente  aliuntanamrmi perpl  de di a u so futuru jennaru   a videte ava davide si e annimichitu     ne  aliora  chi ti imbenta a mastina  mi  allora  chi ti imbe ti chiappa a namurata di u figliolu el mette in chiucchinu chi era eio chi im pedia u so matrimoniu di marchia al lesta perche trascinava u figliolu a di a tre donne  to qui to qualla      chis ne so ciu   a povara zitella  di famo  peghiu rimprovari in termini che u  vogliu mancu mintua un mi valse a vi lelli pruva u cuntrariu  ma  guardate   ma  e cio che li cunsigliu    ma cil temi     aibo   piu parlava  piu pice  va focu  a ia fine  accecatu da 2 colle ra lilam pedu   e beh  ghiust appunti  e si ellu vole  li do ancu cinque cente franchi pur chi ellu vi lasci    a maldicenza avia purtatu i so mo ti ed eccu perchea signora nunzia ria cu a so schiera mi danu uni bre  tu di vagabondu e di metti fou  e murtificammi e fammi passa per co che un so   i ngn sian di   beccl  e di chi io paghiu servitu di  pe   emissariu  per ghinnghiene a 5o   u piu chi mi pena e di vede certe persone chi aghiu cunsideratt cum veri amici hanu datu creditu asse lunnie e  senza tene contu di e mi  spiegazione si alluntananu dame ne ma oh  tempu matura tuttu  anco i nespule     e pare chi sia cristu chi mandi  le abbene ci dera e so prove  per finisce vi diceraghiu  cari pal hi pi  chi si ellu ci fussi qualchissia ve per azardu avissi messu sta sign   2 nant a a u libru  di i sciocchi  chi ell  ci cacci   ed ella  cu di altri dino chia curamente mi ci hanu schiafate o5 li ne faccianu puru altrettantu  pe   se un so falatu  cume certb  to   stacciu camellu  un so mance  e chi elli a si caccinu puru di capii  gi aid o paisani ditemi un pocu d2 o banda pensate chi elli si trovinu asti glie e gattive lingue   dunde fo fi ta razza di  buvoni   di vere certi chiatanincu o dunde quill altra  5 ta da speluneatu    
+  s
+    </p>
+    <docAuthor>
+     Davide Colombani
+    </docAuthor>
+   </div>
+   <div n="8" type="poe" xml:lang="co">
+    <p>
+     addiu  o cara    raverebbe detta  quale ondu in ssa capitale  lena ci avessi da jutta be distinu fatale   pi truvatti  u  mio fiore  fin ja credu manc avale     i pe ricordi piu da  ella bella jurnata  ni pe una parolla sola  fasi ja me  namurata   rimarcai   to persona  appena chi fusti entrata   tvofardiani io rosula in giardinu   qu me apa ridente    ti i ci ne sia qu credo chi ci ne ca  com e te in  ssu cuntinente   pi unv aghio mai vistu amore cusi putente   g io ci pensu  a me culomba  ke tremu come un acellu  prestu  mi lasci qui solu  e ne pigli lu battellu  chi ti purtara juntanu  ind u to paese bellu    chi calmu sia lu mare  e fermu lu bastimentu    u mio cor sara cu te  fendu ju toiu cuntentu    e cosi  denduli vale   calmu ju mio sentimentu   scalendu in portu di ajacciu  in li bracci di a to mamma  pensatai a lu to caru  chi ne patera la brama   senti temanta tristizia insiavoce chi ti chiama    quandu junghierai cula  selutami lu vicinu pdammi nn basgiu  passendu  ala valle di rustinu    da carezze a tutti quanti   qin mio rosumarinu    u mio core e inturcinatu jinc una forte catena   ancu ta mi cunfidasti ato grandissima pena     sia pronta cume me pe la dulurosa scena   addiu  caru rusulaghiu chi avia  nu la me stanza   oh  quantu mi sara dura  cata  la nostra staccanza    ln miu fiore prelebatu l aghin aduratu abbastanza   prega vogliu a san michele  padrone di la cumuna   che ti di a longa vita  piena di amore e furtuna     per me  in stu tristu mondu  nameraghiu piu manc una 
+  s
+    </p>
+    <docAuthor>
+     Virgiliu Moracchini
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="co">
+    <p>
+     lettara  bilemi voi  o signer direttore   si seirnu femu noi lu tradimentu  so bramu di avenne coniscimento  seria pe ripara stu nostru errore   stjele chi io so corsu  eso di amore  e sempre agiscereghiu cu rispetto  si scrive u nostro bellu dialettu   e se ci vole  da corsu si more  rene  dui anni so finiti cosentu anch etu di mascu muveinu  pi gioie si canta totti uniti   vila chi tantu si dispreszal ...  fale speranza ci e chi  pian pianinu   torni come avanti una bellezza 
+  s
+    </p>
+    <docAuthor>
+     Cesari Sebbiu
+    </docAuthor>
+   </div>
+   <div n="10" type="poe" xml:lang="co">
+    <p>
+     carizunetta populare  o lettori  state a sente  che finita la islatina   soffia u ventu orribilmente da lu monte a la marina   u pastore cu li armenti versu  e piaghje si incamina   scappa a muvra da lu monte in li jorni piu urgenti  porta intrepida la fronte  fughie innanz a i freddi venti  si ella manca la pascura   cu timor batte di denti   scapp a timpara lu imbernu in la valle di cuccagna  ind un locu piattu e internu duva ben menu si bagna  quandu vene primavera   si ne colla a la muntagna   e bestie pa la campagna so cappiate a la sventura  una chiama e la altra lagna  e u pastore unn ha piu cura  pienghjenu di vera fame  senza furaggiu e pascura   si sente grida li agnelli  unu langue e lu aitru bela   so peghiu ca li urfanelli  vanu tissendu la tela     si la annata un bene megliu ghiocan a lu pela pela   aspettanu e laltarie   1 pastori in ln raghione   ci ne e par tutte le vie   da balagna a liamone   da marana a ghisonaccia  da portu vecchia a savone   la aria si e fatia piu scura cala in tarra la ruggiata   a castagna e gia matura  dolce frutta inzuccarata   lu aspettanu li francesi cume figlia innamurata   si sente suna ju testu   PS cocenu le ballotte    ci ne je sempre di restu fendu le veghie di notte  bolle u vinu in le cantine   e cantanu in le ribotte   1 vecchj di bianca criva cuglianu la castagna   passavanu la istatina sottu ne la friscura pagna  magnavanu la pulenda fatt a culor di lasagna   quelli chi benenu avale   da zitelli vanu in francia  si tinghienu artifiziali  tutti culvriti in faccia    so becchj prima di la ora  bene a morte e ji ci caccia 
+  s
+    </p>
+    <docAuthor>
+     Minicale
+    </docAuthor>
+   </div>
+   <div n="11" type="poe" xml:lang="co">
+    <p>
+     raconti  i vecchji in guerra  zi  tramone facia un pezzu di muru in lu so ortu   zi   mac mabon  u vulia insigna   e cusi  si sa liticati   zi  tramone avendu dettu a zi   mac mahon  chi ellu era un brutiu dentru e fora  quellu ha alzatu u bastone  ma fhana tinutu   ava  i dui vecchj so in guerra  e zi  tramone un po piu anda in lu so chiosu di chiarella   zi   mac mahon  ha fattu una mansa di petre in piazza  aspetta chi lu altru passi  e canta   in la piazza di u petrone ci vogliu pianta un pullone   chi ellu si godi lu frescu  duminicacciu tramone
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="12" type="poe" xml:lang="co">
+    <p>
+     zi  tramone un sorte di a so piazza  e  par passa u tempu  impara a u babbu di le espetiore di scole u jocu corsu di a scopa  u lascia taglia eppo si chiama  tuttu fieru      scopa  un pun  1     zi    mac mahon  rode lu agliu e aspetta chi lu altru vecchiu sia in altro per pude discorre anch ellu cu u babbu di le espettore e racuntalli a so battaglia     vous sape  il mi a pile bru dan el for  2   
+  s
+    </p>
+    <docAuthor>
+     Pianura
+    </docAuthor>
+   </div>
+   <div n="13" type="the" xml:lang="co">
+    <p>
+     teatru di a muvra  i successi di zuccone   riassuntu di cio chi e parutu  natale zuccone  impiegatellu in marseglia  ignurante e zuffu di vanita  rientre a u paese di i so genitori filumena e lisandru   a mamma  vana a par di u figliolu  intreccia un matrimoniu ci una certa rusina  figliola di u pruprietariu benestante jannone chi  a lu esempiu di una quantita di nostri vecchj paisani  preferisce un ghiennaru  impiegatu  a tutt altru partitu   tuttu e cumbinatu a lu avanzu e rusina e prumessa senza sapella  si tratta fra parenti e cu u sposu cume di una cosa  fatta  debisi pocu astuti di filumena  per le abbene  e  a sera stessa di u so arrivu  natale sera prisentatu a  so prumessa  intantu  sorte a fassi un giru in paese  poi  entre in lu caffe di mariuccia duve ci e ghiucadori di carte e un certu pasquale chi  curiosu senz avenne la aria  face palisa a u nostru impiegatellu a so cumbinazione di matrimoniu   natale   te   ava mi rappellu    ma cum omu si ruglia fora      fate  fate a vostra partita chi dev esse appassiunante   ghiucadori   pusendu e ridendu  scusaci  averemu u tempu ancu dopu per facci unachiacchierata   natale   ie un vi ginate   a pasquale  aio  o pasqua  pigliemuci qualcosa   pasquale   a ringraziatti  mi  aghiu u mio bicchieru servitu   natale   aio  posa  bun diu   posanu  allora  chi mi conti di stu paese cume annoiu in quant a me      pasquale   eh   ci e mezzu di cacciassilu    ci e u zappone  per quessa   natale   e ben  mo cher    varlami di altru  a terra e bassa   pasquale   ancu quessa e bera  allora  dipoi quandu  e    per assai   natale    vengu di debarca avale avale da u facco    e sai      un ti ne dicu niente  so schintatu    pasquale    simu in corsica  chi voli fa       natale   e dittila puru   ebbiva u cuntinente  per quessa   vede a mariuccia  te a chose      dopu fuccatuli a manu li carezza a faccia  sempre be   a pasquale  unn e micca male a moma  hein   mariuccia   ie    va benissimu  ma    tenite e vostre mani   natale   eh  bong sang     cusi salvatica    mariuccia   chi vulete    tuttu u mondu un po micca anda in marseglia per civilizzassi    natale   ah  mince    simu vecchie cunuscianze  quantunque      avanza torna a manu   mariuccia   e vulete tene o    vi crisimeghiu   si voi vulete chi io vi servi  ditela  o sinno guditevi a vostra pace  chi eiu unn aghiu tempu a sta qui per sente i vostri carambuli   si alluntana   natale   a pasquale  e ben mon vieux    a ella  serviteci allora  postu chi un ci e mezzu di discorre  chi pigli o pasqua    pasquale   mi  aghiu u mio bicchieru   natale   aio     a rinsa  allora   a mariuccia  a me  datemi vn    un  un   tiens  un coinfrea u triple sec   mariuccia   vi vulete ride di a jente  chi a vegu   unn e micca un seculu chi voi mancate da qui  e ci cunuscimu tutti  allora circate di un fa tantu le impurtante perche  a vi ripetu  e vostre lampiunate so for di staggione   natale   oh  la la  un si sa comu pigliabbi   datemi cio chi bi pare    un pastissu  teni    mariuccia   te  un siate cusi difficile  unn e u primu chi voi pigliate   passa da culandi    natale    a i cunsumatori  sentite qui  a zipessa  si ella fussi in  marseglia eppo fa cusi seria sicura di u so affare pe u cummerciu    un cunsumatore   chi boli fa  simu in corsica    natale   ah  quand memu      a pasquale  ti dicu chi si ella era cula  la avia da fa bede cum elle si coglienu e rosule  e po ringrazia chi io so in parolla o sinno  bai puru  anc qui    ci un pocu di tempul     pasquale   dici in beru  ti mariti      natale  ci vole be    mon ami    per cuntenta i parenti     pasquale   ma    qui  o in marseglia  mi diciarei chi io so curiosu    natale   manc appena  et puis  tutt e fattu  ti possu ancu di qual ell e   pasquale    malizzosu ah  inno    si tu credi     natale   eh  cu te     vecchj cumpagni     cala a voce  pigliu a rusina di mansiu ghiannone   pasquale    stupitu  rusina    natale   ie  rusina  ti epaita  perch ella ha a dota  forse   pasquale   ah  inno    e a nutizia fresca  eppo cridia piuttostu chi tu a ti avissi busca culandi   mariuccia    entrendu ci un bicchieru e una mezza di acqua  eccu  vi servu la acqua  i  natale   si   li piglia a manu  allora  un simu piu fasciati  madamicella   mariuccia    brusca  indeh      mi pare ben di si  chi bi appiate u u ciarbellu fasciatu     ripone e si ne va    natale   ah zut  vai puru  a mio chiuca  chi tu poi ringrazia le occasione  un ghiuru niente quantunque  perche    si tu mi caschi ind e patte     pasquale    curiosu lascia corre   so donne    natale   ghiustamente perch elle so donne  e per falli vede comu si cala u smuffiu a e pulle   pasquale   turnemu a noi  dunque  faci prestu  ssu matrimoniu   natale   ci e a di chi un ci e piu che a prisentazione a fassi   pasquale   chi prisentazione    natale   e prisentazione in famiglia  quoi  dumandalli a manu     fissa a data    briccolle di usanza  via   pasquale   ma qual e chi ti po capisce  un li hai ancu dumandata  allora    natale   e  no    1jn so ghiuntu che avale ava  e listessa  figurati  u babbu ha diggia fattu tuttu  micca chi ancu senza u babbu    cunuscimu u fruccu in st occasioni   pasquale    ridendu  ti credu  veramente  vegu chi in marseglia si ampara tuttu      a partita di scopa e finita     un ghiucadore    perdente  era justa  dipoi une poche di sere un ci ne pudii caccia una     lu altru jucadore    r dendu  ogni male vole scusa  or paga  intantu  i  u jucadore    perdente  o marit  quantu ci e    mariuccia    venendu  com e  e tocc a te stasera   u jucadore   je  un lu vedi cum ellu si campa di rise   a u so vincidore  vai  chi un la purtarei in paradisu        a mariuccia  dendu un cinquinu  te  pagati   mariuccia   cinque bicchieri    pasquale sei     natale   lasciate sta  so eiu chi rinsu   u jucadore   no  no  u jocu di carte e ghiocu di carte   cunsumatori   e ghiusta  chi perde paga  o sino un bale     natale   tant pis  allora  eppo caschera      mariuccia rende a muneta    si alzanu tutti e sortenu discurrendu e ridendu iu amicizia e dicendu   bona sera    cunsumatore   ti fermi iu  o pasqua    pasquale   un minutu    tempu di finisce u mio bicchieru   natale   ie    bona sera  noi ci fermemu un pocu    sorte lu ultimu cunsumatore   pasquale   allora  per rivenene a u nostru discorsu  ti accopj  via   ti poi vanta di casca be  sai piglienduti a rusina   sn  natale   beh  mon vieux  ci vole a sbrugliassi in sta vita    ah  lasciami regula anc a me u mio contu   chiama  madamicella    mariuccia   eccuci   natale    da un cinguinui voila  tenite tuttu   mariuccia  no grazie o sgio nata  qui unn usa mancia   un ci avete che u vostru bicchieru face dece soldi  si boi le avete  v sinno    caschera   natale   oh  mi affruntate  madamicella  e  puis  a pasquale lu aghiu imbitatu eiu   mariuccia   ava e pagatu  sera pe un altra volta   natale    a pasquale pigliemu a rinsetta  allora    aio  si dicerebbe chi ellu un ci e che salvatichi quindi   pasquale   alo  pigliemula   ma eh  o mari quantu casca    natale   e pagatevi  rida u cinquanu   mariuccia   dunque  trenta soldi   corta e rende a muneta     natale    avanzendu a manu  eppo femu e nostre paci  voyons  un siate cusi ruspettosa   mariuccia    denduli un pattone eccu u pacchisi e u tecchisi pe i mani longhi    1   le avete vulsutu      si alluntanana  or chiappati    natale     assaltatu  si alza cu a manu in faccia  chamea u va   si ell unn era pe    pe    ti vulia fa bede     pasquale  fendulu pusa  lascia corre   so donne  ti ripetu   natale   so donne  so donne     ancu quessa e bera  ca sinno le averebbe rimusciata  com a faut ancu   chi paisacciu  un ci e ca ghiente toccata  or andate a fa e manere a certe mule   mariuccia  da u so usciu  a tuccata ci e bella grossa  e vantatevine puru un picculu suggiornu in qualchi logu un bi farebbe male  e un bellu ambastu vi senderia benissimu  postu chi boi parlate di mule   natale    a pasquale  mi ne vo per un fa storie  sai  ma ci avemu da ritruva bai puru   si alza    pasquale   e ancu megliu  cu e donne un ci e che a perdeci   natale   di aufant plus  mi so scurdatu di u mio paltussiu  e cumencia a  rniscisce    beh  qui simu sempre di invernu    brrr    pasquale  tira un pocu tramuntana e bera  allora  a bedeci  o nata   natale   a bedeci  e    contu sopra a te cume garcon di onore pe v mio matrimoniu    e intesa    pasquale    tenendu a risa  un possu  so in billutu   natale   ben alors   mo cher    ma ti imbitu quantunque ad accumpagnammi  un mancherei   pasquale   bai puru  e intesa    sorte natale 
+  s
+    </p>
+    <docAuthor>
+     U Sampetracciu
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

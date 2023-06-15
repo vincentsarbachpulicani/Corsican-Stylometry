@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+    <respStmt>
+     <name>
+      Deborah Paci
+     </name>
+     <orgName>
+      Università di Bologna | Università di Modena e Reggio Emilia
+     </orgName>
+     <resp>
+      Supervision et inteprétation des résultats
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     BnF (Bibliothèque nationale de France)
+    </distributor>
+    <address>
+     <addrLine>
+      Bibliothèque François Mitterand
+     </addrLine>
+     <addrLine>
+      Quai François Mauriac
+     </addrLine>
+     <addrLine>
+      75706, Paris
+     </addrLine>
+     <addrLine>
+      France
+     </addrLine>
+    </address>
+    <idno type="ark">
+     bpt6k13307805
+    </idno>
+    <availability status="free">
+     <p>
+      https://gallica.bnf.fr/ark:/12148/bpt6k13307805
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+     <edition>
+      Numéro 186 | Année 6
+     </edition>
+     <date>
+      1925-01-18
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce aux fichiers ALTO mis à disposition par Gallica. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme Gallica de la BnF. Ces documents servent d'abord au mémoire de recherche en « Humanités numériques » de Vincent Sarbach-Pulicani. Ils servent également au projet d'article pour la revue « Umanistica digitale », issu d'une collaboration entre Deborah Paci et Vincent Sarbach-Pulicani.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="manchette" xml:lang="co">
+    <p>
+     2 4? né è Pi Sest' annata — Numaru 186 Esce a Dumenica it o sa Tanaghjiu tas ca Dumenica, u 18 Jnnaghiu 1925 GIURNALE DI È PIEVE DI CORSICA ABBUNAMENTI : 2 In Corsica. . Lu... « + +. +. 12 franchi In Francia. . A TPEsteru..,.......... 25 U Numaru:4 soldi Direttore : Petru ROCCA AMMINISTRAZIONE: 88, Corsu Grandval 38 ATACCIÙ.-..
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="co">
+    <p>
+     1925  lu annu vecchiu si ne e andatu magru e famitu cum ella era juntu   lu annu novu e affaccatu scalzu e senza camiscia  cume sant andria    i camalli di ajacciu e di bastia un hanu avutu bisognu di mettesi  in frusta par purta i bagagli di stu novu turistu chi vene a passa 365 jorni in la nostra isula  curunata  di scogli e cuparta di pruni    si no impittemu di pedi in le petre cascaremu di nasu in li stecchi  ma par noi un ci sara ca inciampi  o  lampemu un linzolu nefu sopra u passatu e chiudemu li occhj di avant a l avenire  chi sara ancu piu tristu        i figlioli di noe fecenu cusi par piatta e vargogne diu babbu briacu   i o  noi un avemu nulla par copre  e  piaghe di a nostra mamma a la agunia  e marmotte insunnulite si discetanu sempre  a  i primi toni di marzu       fe  sette scaldaletti chi no mantinemu in parrigi par copreci di vargogne un si spattanu ca in tempu di elezzione    quaridu si tratta di a corsica dicenu chi elli so tutt iinpiecicati cume tra cul e camiscia e hanu u curaggiu di parla di unione  fraterna e di focu patriotticu     ie  figremuei le unione chi po rigna dentru stu vispaghiu duva unu  un  po softre lu altru  e figurettuci u focu patriotticu chi si po  accende in ste carcazze  di  marmaru chi un battenu mancu sottu i martelli di lu infernu                 a sintenza e scrucciata e un ci resta piu  ca a parte da sti loghi si no vulemu scappa da a fame chi ci minaccia    i stracci chi falanu da u cielu coprenu  i tetti ma un si vede fume chi e case so tutte sbitate  vu tue dt   cu mulini di ziu pistellu e carcu di candileri di argentu cume u castellu di armida   a  cutriccia e ginarale  una donna scalza traversa a nivaghia par buscassi un carcu di legne da riscalda a nidicata chi aspetta u focu in mancanza di pane    e i  un umarellu gobu e spiumatu sorte di un siccarecciu di castagne  a so barba a paisoli ha pigliatu u culore di u fume  1 so calzoni affibbiati di un rocchiu scupinu  so a dui petti  e u culu tocca in tarra  ne questi so i chantillons piu muderni di la isula di billezza chi elli chiamanu i sdinticati di initiativa      piazza dunque a li animali chi ci e tuttu par elli enulla par noi    i etrizzine scappate da e fureste so in li castagni   a so carne nera e dolce cume quella di i cavalli un la magnarianu mancu i nostri raprisintanti famiti cume noi   un tagliolu di porci rumica di musu sottu e lecce di u castaldu stradate dijanda   i torduli affamati si lampanu sopra a li arburi par bicca qualchi granellu  i pettirrossi grossi cume palloni di asciugna  saltanu in la neve  u e parnice cu u lobbiu pienu a granelli di lustincu so tennare e parfumate  e biccazze chi campanu a vaimi arranghianu u palaticu a i furtunati chi e ponu mangna  elepre e li signari un temenu mancu piu i jacari chi so troppu magri parchi i padroni un li penu da pane    noi guardemu i  falchi par aria  e aspittemu i turisti par dacci ciocchi ci manca  si questi un faranu u so duvere ci pinsaranu e seife piaghe di a corsica  e si queste mancanu a li ingaggiamentisulenni frais sinet e fontaine ci trascinaranu gratisi versu novi monti enovi miserie 
+  s
+    </p>
+    <docAuthor>
+     U Monacu
+    </docAuthor>
+   </div>
+   <div n="2" type="art" xml:lang="co">
+    <p>
+     per di qual cosa allegri corsi      a francia ha nominatu una cummissione speciale cume quella chi ellu ci invio clemencea u in 19o8 per vede si tuttu cio chi gavini avia dettu in lu so famosu rapportu relalivu a u risanamentu un era mica una fola  sapete cio chi ne accadi      cosi strane   i quella ben di cummissione  di ritornu in parigi  disse a clemencea u     a corsica e talmente povera chi un ci truvariste mancu a cambia una pezza di cinque franchi  quant a e zinzale di a costa orientale  u sgio gavini purebbi ave ragione   ci ne deve esse molte e sara megliu a da qual cosa per sicca e padule   ma sapete  i corsi so rubaccia      si guardanu tutti in caterrocchiu  si vergognanu a travaglia aterra  so tuiti capi partilu  e tutti volenu esse impiegati o sullati per ave una ritirata e un titulu f      ec    cc    x allora clemencea u si tiro a  stamparia naziunale e fece mette in lu giurnale ufficiale di a republica francese una bracciaia di impusture  numaru di u 26 settembre 19o8   di si impusture ci ne e certe chine colla a puzza in cielu quand elle si rumenanu i  cume questa qui         cependant  personne ne meurt de faim   in corsica   di abord parceque la race est tres sobre   ensuite parceque le chef de parti distribue toutes les semaines quelques mesures de froment ou de seigle necessaires a le existence de ses partisans les plus pauvres  i    chi ne dite   ne vulete sente di altre     ma e dicieremu pocu a pocu perche un ci vole mica  abusa di a roba indigesta  dunque dopu aveci prisentatu a u publicu mundiale di una manera cusi perfida  cio a di ci un apparenza di frizione ma unicamente per metteei in ridiculu u   tigru   sudisfattu  di aveci fattu assaghia e so grinffie  cum ellu a eiavia prumessa dipoi longu tempu  fece vuta 11 5oo ooo franchi per stirpa e zinzale  chi dopu tandu so cresciute  perche i detti milioni un funu che vutati  un cunfundimu  e ancu  perche funu vutati   per spegne u focu accesu  in corti da quellu famosu cungressu chi fu pruvucatu  radunitu e presidutu da frassetto   un veru corsu a la antica   ghj eun peccatu chi ellu stia zittu dipoi      a su ciingressu si lento una parula tamanta chi prudusse lu effettu di una scrucciata di tonu in un cielu serenu   si parlo di separatismu        eccessu certamente  ma gridu naturale da vittima a boia  chi a francia deve evita di fa ripete  a un scoppiu tale  clemencea u  piu gattivu che scemu  vide u periculu e fece vuta cio che voi sapete  cummisione  e milioni chi si restonu in erba       ma almenu quellu cungressu deve resta per noi un insignamentu e un segnu di tempi novi    tempi di quistioni serie a risolve dopu avelle apprunfundite cun  discernimentu  tempi di decisioni punderate e tenaci  senza vane sbaccate   tempi  dinu  di fa  onore a  lingua corsa impieghendula per tratta di prugressu  esalta i nostri meriti e i nostri diritti  e per  cultivanne ancu a hitteratura  mica solu cuntendu stalbatoghj  piu o menu sinsati e piuo menu curretti  di a vita sfacciendata       dunque a cummissione clemencea u  chi ci avia da copre di oru  un ci cupri che di ridiculu  fenduci passa per una razzacia lendinosa di salvatichi galtivi e pigri came i pellirossi di le indie   dopu anni diciottu di si fatti storichi  a francia ci invia un alira cummissione per mascaraci una  volta di piu  perche i pinzuti un la ponu fa in cuscenza      parlendu di noic  vole chi elli ne dicanu male a ternumozzu    in tutti e chasse di a sucieta francese quand ellu si parla o si scrive sopra a corsica ci e maldicenza nera in versu ella  3   tutti i cuntinentali francesi chi ci facenu una visita si sciaccanu duie scurpacciate ludendu i nostri pruduti ancu u nostru bone cuore  e poi  di ritornu in gallia  gare aux   encorefoi v  i mancu a ricuniscenza canina    quella di u venire  e ti clemencea u  imil lerand  i ciocchipilati purtati da sari i sergent i venire tutie e cummissioni e soitu cummissioni  tigri e bracchi levrai ci hanu sempre tazzulatu senza aveci mai datu nisun ricunfortu  e poi vi dumandu un pocu cio chi ella ci ha da fa un altra volata di 22 corbi in corsica postu che u guvernu ci dice colpu  per colpu chi el un ci e solli in cascia   sara cusi pussibule chi i discendenti di a razza maestra chi fece scola a u mondu interu sianu trirusiti a u puniu di piglia busciche per lanterne   videmu   quella beata cummissione clemencea u un ne avera lastiatu scritti     u so famosu rapportu deve sente u fungu e u scarafagliulu ne le granaghje ministeriale ma deve sempre esiste  e allora  dopu avellu messu una stonda a u sole  si purebbe vede cio chi ci era a fa in corsica in 19o8  cio chi e statu fattu dipoi  zeru  e cio chi resta a fa   tuttu     quessu u contu u sa tira ancu niolo di u spulinu   i di altronde  perche so fatti i nostri  parlamentari     un puderanu fa a lista di i nostri bisogni mancu cume 1 maturaghioli chi elli ci volenu invia per cresce inutilmenie spesi a francia  e cio chi e piu disgrazievule ancu  a corsica chi elli traversaranu a 12o a la ora parlendu di a pulitica parigina in una fumata di essenza  di pulvaricciu e    di vinu vecchiu  ma videte e cosi di stu mondu  in corsica       sta cummissione sera certamente salutata di a candida cirnea cume una discesa di apostuli spendidor di grazie  perche     perche e populazioni so lasciate in la ignorenza   un li si conta che fole e sciabbulate  quandu ci sarebbi tantu bisognu di associale a   un muvimentu di rivendicazioni ghiuste fenduli vede e sente lu inghiustu chi e percote   mi pare di vede e di sente a moru ludendu  e calanche di piana  e merule  i fiadoni  u vinu vecchiu  u pairiottisme corsu e quellu di herriot  cusi a vita passa  dui stalbatoghj a veghia  duie visite cun tre chiacchiere pulitiche ci cuntentanu e a francia un dumanda megliu 
+  s
+    </p>
+    <docAuthor>
+     V. G. d'Altimonti
+    </docAuthor>
+   </div>
+   <div n="3" type="poe" xml:lang="co">
+    <p>
+     a ogni acellu azzarbicato a a costa pitricosa di una cullezza chi fidiegghia a sali  u mo paese ha in faccia a schena rosa $ di monte grossu  a manca upian di calvi  a i pedi li si sbuggina a vallata di calenzana  santa ristiduta  di amanduli e di alivi incurunata   gni mane u sole in ella risaluta    parche di u sole novu e prime accese   so soie  e  mentre u pianu   sempreauseioru di la ombra   dorme chetn  u mo paese ride in de a ince chi risciuma di oru     di   tra case vecchie e scure inghiargalati  i chiassi a giambe malsicure fan malsicuriipassi  e quellu chi inespertu ci fala a tarda sera  si ellu sculigne  e certu di fala a tumbulera  ma nant a u turcinale di u grossu spricchi u sole   ed eccu inde u mucale tutte e maggie di e fole     cume una cioccia in mezzu a i so piulelli  tra e case scure si alza a jegia bianca  bi mamma di i vicchiaconi e di i zitelli  di avelli sottu pale mai si stanca  1mbita cn u tintin di e so campane a i pochi chi ne resta  e all altri chiama andati pa se loghe a stanta u pane  e chi di ella  luntani  ne hanu a rama  poara jegia   in te un fiurisce le arte unn hai di marmu maca u battisteru   ma altra un ne trova da nisuna parte chi cume te luccichi a u mo pinseru  e e a un ebbu in te u battesimu  chi mi firmo cristianu    in te un mi dede a cresima di un vescu a sacra manu   in te imparonu a ghiugnesi e mo mani in prighera   in te matina e sera mamma curri a priga  in fe  innucente  la anima si allumino di fede  ln te imparain e laude di diu  chi tuttu vede  eadinvuea di a vergine u patruciniu santu  e chi sottu an so mantu siguru ugnunu sta  e fu a mogran dilizia  u mo invidiat onore di serve  cume li agnuli  a u cultu di u signore  di assiste a u sacrifiziu a i pedi di u ti altare  care mimorie  care  di a mo innucente eta         da sottu a a jegia una stradella torta  cusi infussata  in ghio  chi un la vi dicu  suminata di cotali  vi porta a u campusantu  in due ci era in anticu a jegia parrucchiale   san tume    quella fa abbandunata  fatte a nova  e po distrutta  nun si sa parche  chi mimoria di u fattu nun si trova  quajo dormenu i mei  mortiin de a pace di diu   rent a u mo core sempre vivi  rent a u mo core amante  chi i mi face bede anch ava chi li occhi ne so privi    pia pinsenduai mo morti   si popula a mente di vive finzione    ci e ugnunu prisente  ci e babbu  ci e mamma   fratelli cuggini  ci e zii ci e nipoti    parenti vicini  si ride  si piegne    si strignenu e mani  cun elli ritornanu   i jorni luntani  i jorni filici   chi a casa  chia ziglia paria troppu chiuga   pe a nostra famiglia    e   eramu in tanti in quella casa antica  piena di sole e piena di aligria  aparia a tuttu  e sempre a tutti amica   cu a pace in noi rignava la armunia  gioani e vecchi ci tiniamu cari  e si prigava    e diu ci binadia  a babbu li piacianu i patti chiari  mamma chiudia un occhiu a e zitillate  e ci indulcia i buccunelli amari  altru nun dicu   amici  ava pinsate si agghiu tuttu u judiziu  o vagghiu persu  stimendu u mopaese piu      scusate i  piu ca tutte e cita di lu universu  
+  s
+    </p>
+    <docAuthor>
+     U Babbuziu
+    </docAuthor>
+   </div>
+   <div n="4" type="art" xml:lang="it">
+    <p>
+     clemente xii e la corsica di teologia in un convento di italia  condotto a genova  il misero frate venne sottoposto alla tortura  ed avrebbe subito probabilmente lo estremo supplizio se il papa  non lo avesse salvato  minacciando la repubblica di pene spirituali  o nell isola le insurrezione era presso che generale  da ambe le parti si combatteva con violenza inaudita  guidati da giacinto paoli e da altri valorosi capi  i corsi che avevano occupate varie piazzeforti  non intendevano deporre le armi  se non a condizioni di avere una esistenza tollerabile  il ridurre pero alla obbedienza  uomini disposti a morire per la liberta  non era cosa facile per genova  alla quale facevano difetto buone truppe  non le rimase che di invocare  lo aiuto delle imperatore  carlo vi  il quale dopo essersi fatto un po pregare  promise di mandare nell isola per sottometterla   un corpo di 4ooo tedeschi  mediante il compenso mensile di trenta mila fiorini  sotto il comando del principe luigi di wurtemberg e del colonnello wachtendonk  questi mercenari sbarcarono in corsica nell agosto ed iniziarono senz altro le operazioni di guerra    in questa lotta perirono tremila corsi   l orgoglio genovese voleva la sua rivincita  il senato si era particolarmente offeso dal fatto che nel suddetto breve il papa  avesse fatto allusione all antico dominio esercitato dalla santa sede sull isola  diede ordine al proprio rappresentante a roma  certo bernabo  di fare su questo punto rimostranze a clemente ed incarico nel medesimo tempo i due cardinali genovesi residenti in curia  spinola ed imperiale  di dicchiarare che la buona fede di sua santita era stata sorpresa dall orticoni  che i corsi non meritavono la sua simpatia  avendo il cuore perverso  inolire si accusava il clero della isola  di fomentare la insurrezione  essere la repubblica spiacente di non vedere in questi suoi sudditi  nessun segno  di  ravvedimento per ottenere il perdono  queste ed altre peggiori accuse si leggevano nella risposta del doge  in data dell 11 luglio  al breve papale  si voleva puramente la sottomissione dei disgraziati corsi  poi si sarebbe provveduto a dare ad essi qualche soddisfazione  e dal bernabo  intanto  aiutato da un gesuita il padre gritta  ogni atto del forticoni  veniva spiato e screditato nella maniera piu incivile e menzegnera  egli si permise persino di invitare il papa a fare arrestare e tradurre in castel sant angelo  il canonico  reo di difendere coraggiosamente i diritti della sua patria  h cardinale segretario di stato banchieri  segretaniente favorevole ai genovesi  intimo all orticoni di moderare le sue pretese  e di manifestare meno animosita contro la repubblica  il pontefice in data del 21 luglio  in risposta al memoriale di ceccaldi e giafferi  promise che avrebbe fatto il pos  sibile per pacificare i corsi  ai quali pero consigliava il disarmo  e nel medesimo tempo li diffidava dal perseguitare gli ecclesiastici favorevoli alla repubblica  e li pregava di lasciare libere le comunicazioni maritime fra la isola e la liguria  l orticoni  il quale aveva di gia avuto confidenzialmente una copia di questo documento si rifiuto di trasmetterlo in corsica  i  canonico  che aveva trovato benevolo appoggio nel cardinale di polignac la cui madre era una ornano  sperava con la protezione di questo porporato di fare modificare il tenore della risposta  i  suo tentativo pero non riuscidato che il cardinale bentivoglio ambasciatore di spagna  potentissimo alla corte  non volle interessarsi della cosa   oa vista fallita la propria missione  dopo la risposta del senato genovese  comunicatagli dal papa  li orticoni decise di lasciare roma  prima di partire ando a ringraziare 11 sommo pontefice che lo ricevette amorevolmente e gli disse parole di conforto e di incoraggimento    beatissimo padre   rispose il canonico   giache abbiamo ritrovata inutile la vostra paterna mediazione  non abbiamo altro ricorso che alle nostre forze e alle nostre armi     abbandonata roma  si porto in toscana  ove  dall arcivescovo di pisa  primate di corsica  venne accolto con molta simpatia e deferenza  a firenze  ove pure si reco poco dopo  vide il granduca gian gastone de medeci  favorevole pienamente ai corsi  ma impotente ad essere joro di qualsiasi aiuto  sembra che nell udienza avuta da questo principe  rorticoni  gli avesse proposto la isola  quale commenda della toscana si trattava di cosa pero di assai difficile realizzazione  da firenze ando a vienna  a perorare la causa della sua patria  ebbe un colloquio col vecchio principe eugenio di savoia  il quale ottenne dall  imperatore la liberazione di ceccaldi  giafferi  aiteli e raffaelli  incarcerati a genova  malgrado il perdono concesso a questi  capi dei ribelli  dal princi pe di wurtemberg  ceccaldi si reco in ispagna  ove raggiunse il grado di colonnello  giafferi trovo ospitalita a venezia presso un di lui fratello che occupava una posizione eminente negli eserciti della serenissima ed aitelli e raffaelli si rifugi arono a roma  instancabile  li orticoni passo in ispagna  nella speranza di ottenere aiuti dalla corte di madrid  spingendola a fare valere gli antichi diritti della aragona  sulla corsica ma filippo v non giudico opportuno un simile tentativo   uguale passo egli fece alcuni anni dopo col re di napoli  ma purtroppo con esito negativo    nel 1737  dopo il regno di teodoro di neuhoff  lo troviamo in corsica lo anno appresso pero veniva bandito dalla isola  dal conte di boissieux comandante le forze francesi al servizio di genova  l agente francese  presso la repubblica  parlando dell orticoni  lo defini in una lettera   homme di esprit  la meilleure tete des revoltes    certo a che in corsica  egli godeva di molta autorita e prestigio  per il suo indomito amore alla patria e per la sua vita intemerata  delle sue missioni all estero  pubblico nel 1736 una relazione che non mi fu possibile ditro vare  riassumendo il nobile e generoso tentativo di clemente xii  a favore dei corsi  ando frustrato per la caparbieta della repubblica  la quale nel suo odio contro gli isolani  non seppe fare una saggia politica di tolleranza e di conciliazione  errore fatale che doveva costarle la perdita di un possesso cosi importante  in quanto a clemente xii  risulta che ancora nel 174o  vale a dire quasi alla vigilia  della sua morte  egli continuava ad interessarsi alla sorte del la corsica  ma senza alcun successo  
+  s
+    </p>
+    <docAuthor>
+     O. F. Tencajoli
+    </docAuthor>
+   </div>
+   <div n="5" type="cha" xml:lang="co">
+    <p>
+     vecchj canti corsi nanna di u cuscione addurmentati parpena  alegrezza di mammoni  chi aghiu da allesti la cena e da cosce li piloni pe u to tintu babbaredu  e pe li to fratidoni  quandu vo sareti grandi vi faremu lu vistitu  la camiscia  lu bunnedu e lu imbustu ben guarnitu di du pannu sfinazzatu chi si iesse a cortichiatu  vi daremu lu maritu allivatu a li stazzali  un bellissimu partitu  e sara lu capurali di li nostri montagnoli  picuraghi e capraghioli  quandu andareli spusata purtareti li frineri  ne andareti incavalciata cun tutti li mudaccheri  passereli insannicciata a caramusa imbuffata  lu sposu ne andra davanti culi so belli cusciali  vi saranu tutti quanti li so cugini earnali  a la zonza di  tavera vi faranu la spallera  quand arrivat a lu stazzu duve aveti poi da stani  surtera la succiaroni  i vi tuccara la mani e vi sara prisintatu un tinedu di caghiatu 
+  s
+    </p>
+    <docAuthor>
+     Inconnu
+    </docAuthor>
+   </div>
+   <div n="6" type="poe" xml:lang="co">
+    <p>
+     sirinatu sta sera  sottu a lu amatu purtellu  vene a canta le amore    scegliera lu mutivu lu piu bellu  e per te  lu vorrei cume quellu di pucellu a lu fiore  oh ditemi perche voi mi piattate o muri quellu lettu     o porte  perche voi state chiodatett o sfelle  perch un vi sete calate tutte annant a lu tettu  solu solu e senza chi io nunda speri  vicinu a te  mi sto    sfenditevi  ale di sogni leggieri   o sonnu   pigliati quelli occhi neri ma lu so core no   di vede le to gote surridenti  in un nidu di freicie  le labbre  rose annant a bianchi denti  sarebbe alluntanammi li  tormenti di ben spietate freccie   vorrei in lir corsu di tutt a  notte  vive in iu caldu elenu      carezzandu le to  freccie disciolte  pote dirti la mane quanti volte suspiro in fo senu   e quandu mezzanotte  lenta  scocca  fighiatti e dirmi   dorme    e si in luto riposu amor ti tocca    sente  in lu silenziu di a to bocca pienghiula lu mio nomel  curatti eo vorrei  tesoru amata      ma senza discitatti      arittu  e piu suvente inginocchiatu  e quandu lu cuprime si e scantatu  pianu pianu fasciatti  parlarti senza chi tu possa sente  e dirti cose scemme      sfrenendu lu so desideriu ardente  lu mio amore  cume un acqua corrente cappia cio chi li premme  lasciare  lu oscuru mezzu apartu    2     perch un raggiu di iuna  fa   ne     i ti  di lume e di carezze carcu  a fa luce cumeum ala di falcu la capillera bruna      e dinu chi la stella di luntanu     ae la piu spampillante   quassu si stacchi di a divina manu  voli  sinu a calassi pianu pianu   annant a ia to fronte  senterci sbattula cun gran dulce  lu mio core chi prega  lu silenziu sarebbe una carezze viderei spunta senz allegrezza  la alba  la alba nimica  piengu  piengu perche chi stasperai signore l un mi e data  troppu si attristera la mio roman difesu mi e lu sogliu di la stanz duve dorme la amata      dormi  dormi o cara   e chi lu to son   sia dulcissimu e lindu  per andassine chell aspetti lu jor lu f amantestara piettu in ur sco di freddu trimmulendu   dormi dormi fesor di tu mio am eo vegghiu cuntentu   e cume un lume accesu  lu mio e si cunsumma  si scola e si ne mi si more  e ti ama fantu      dormi dormi  ma chi in fondu di     vegghi sempre l amor   a stammi softu qui trovu piace dormi  e chi  du to core pensi a me      dormi dormi o tesor  
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="7" type="art" xml:lang="fr">
+    <p>
+     bilan  ii est bon utile meme a chaque fin d annee de faire a part soi le bilan de son action et de se demander quelle est la longueur du chemin parcouru les notes d examens retrospectifs nous font ifiesurer la grandeur et la necessite de notre besogne et nous donnent l'orgueil de feffort accompli il ya quelques annees a pareille epoque les idees regionalistes etaient totalements ignorees en corse la guerre avait chasse le souvenir bienfaisant de a cispra notre pays qui depuis longtemps etait attache au destinees de la france avait du suivre cette derniere dans la tourmente il en etait sorti epuise affaibli la grandeur de son sacrifice avait ete immense puisque quarante mille de ses enfants resterent couches sur les champs de carnage ceux la qui la guerre finie revinrent dans leurs foyers furent frappes du spectacle miserable que leur offrit leur patrie ils en vinrent alors a se demander la portee de leur sacrifice sa signification  l image de la petite patrie abandonnee a elle meme hanta leur cerveau elle  devint leur  constant souci cette misere qui leur etait tangible fut leur point de comparaison d avec tous les sacrifices que d innombrables fils de cyrnos avaient accompli sur tous les champs de bataille de l europe pour le plus grand renom dela france l ingratitude etait manifeste nos sacrifices avaient toujours ete consideres comme de justes tributs o generosite du peuple le plus liberal de la terre   cette ignorance dans laquelle ix france etait sur notre pays avait quelques raisons  la corse en effet avait ete assimilee aux autres departements francais en depit des clairs enseignements' de l histoire et dela geographie elle ne pouvait done pretendre a rien d autre que n importe quel departement francais ces autres departements etaient  airisi plus favorises car au point de vue economique ils etaient de beaucoup en avance sur nous une telle assimilation contre laquelle tout protestait etait un contre sens historique on en etait arrive a oublier que les caracteres nationaux demandent des realites radicalement distinctes et irreductibles contre un pareil etat de choses les anciens combattants que ne grisaientpas les promesses reellescelles la parce que nous faconnant a la ser vitude  de grasses sinecures conti nentales reagirent de tout leur etre ils s inquieterent car un pareil etat de fait menacait de durer toujours ils ne voulaient plus que la corse fut une eternelle sacrifiee une eternelle dupee il puiserent d autre part un nouveau courage a la vue de l ecceurantspectacle que leur offraient ceux de leurs compatriotes qui rubeant in servitutem et c est ainsi qu a la suite de ces diverses considerations est ne ce journal en quelques annees il a conquit une place enviee on peut en avoir la preuve dans les attaques detournees qu il recoit l elite tout autant que le peuple sont conquis des adhesions enthousiastes nous arrivent devant un auditoire chaque jour plus nombreux etplus attentif a muvra essaye de redonnera la corse son ame veritable cest chez elle et non ailleurs qu il faut maintenant chercher le pouls de la corse c est elle qu'on suit sans le dire c est elle qu on pille sans vergogne c est pourquoi nous devons voir dans notre succes le gage certain d un avenir plein de realisations quelqu un a dit que ce  qui mene le monde ce qui vient a bout de tout ici bas ce sont des minorires tenaces convaincues et bien dressees elles marchent de l avant et on les suit on emboite je pas derriere elles  nous avons conscience d etre cette minorite  n
+    </p>
+    <docAuthor>
+     Matteu Cirnensi
+    </docAuthor>
+   </div>
+   <div n="8" type="let" xml:lang="co">
+    <p>
+     una lettara a u sgio petru rocca direttore di a muvra sgio direttore  cume tanti altri giuvanotti  e necessita di u studiu mi hanu  perun tempu  esiliatu di corsica    purtantu  dio mi liberi  di scurdarmi di l   isula  e  luntanu dall occhi  mi pare chi io la abbia piu vicinua u core     vorrei  chi in la citta chiugulella di li alpi duve mi trovu persu  a muvra mi purtassi  in la so bocca un pocu dil aria nativa  in li so occhi  un pocu di quella fierta  in lu so pelu  cume un alitu di quelli profumi    i sa corre esalta  e un truvera fatiga a ghiunghie sinu a qui     a muvra deve esse a voce luntana  u filu chi ci lega sempre e a mamma  la isulella cara     deve esse la amica chi  in mezzu a i pinzuti  ci permette  qualchi volta di parla corsu ... deve esse per i corsi  soli e lun tani  cume w ritrattu da famiglia ci di tamata   na cosa chi si deve fighia ogni intu ti li mument di solitudine e a tristezza     ringrazienduv  vi pregu di man dammila  a cn
+  s
+    </p>
+    <docAuthor>
+     G. di la Grotta
+    </docAuthor>
+   </div>
+   <div n="9" type="poe" xml:lang="it">
+    <p>
+     sonetto alla  corsica die il mirifico mondo mi febo  un morte ll mitologico  lo afro ui annibale roma un cesare  e tu bicciola valle  un san piero  un de padi  un bonaparte  corsica mia  tu piimzin ogni parte dell immortalitate laftarco il calle  apprezza il tuo graictior  dona le spalle a questa arpia cheammorba e genio ed arte  dal reno al nilo  dal anubio al gange imperativamente erra  tuo nome e il golo  sangue tuo ispira e piange  vendetta  e il tuo flagel  sal empiognome pria ti ubriaca  poi ti sppa et ange   il puzzo ancor ti logorle chiome 
+  s
+    </p>
+    <docAuthor>
+     Dumenicu Cristini
+    </docAuthor>
+   </div>
+   <div n="10" type="art" xml:lang="fr">
+    <p>
+     a messieurs les eleveurs de la corse qu il me soit permis tout d'abord de remercier la presse de vouloir bien gracicusement nous ouvrir ses colonnes pour nous permettre de travailler dans l interet de l elevage en corse le cheval corse n'est pas encore assez connu il faut lui faire la reclame qu il merite f tout comme le pur sang arabe il peut se resumer en deux mots sobriete endurance comment maintenir et meme ameliorer la race corse  a cette question je repondrai  PSn imfusant du sang arabe  car l'arabe est l amelioration par excellence et qui s acclimate partout voila pourquoi l administration des haras a envoye comme etalons en corse des pur sang arabes des pursang angio arabes et des demi sang du midi possedant du sang arabe je ne m etendrai pas longuement sur les qualites du cheval corse il s agit tout simplement de le voir a l oeuvie quiconque prend une voiture de place et fait une course un peu longue est emerveille en voyant deux petits chevaux partir a une allure souple et cadencee et courrir ainsi jusqu a 20 kms sans memeavoir besoin de reprendre haleine   quant au caractere de ces chevaux il n en est pas de meilleur la preuve en est qu a la campagne vous rencontrez sur les routes ces petits animaux pleins de sang montes par des vieil lards des femmes et des enfants et conduits le plus souvent avec un simple licol sur le nez et maintenant que j ai fait l eloge du cheval corse parlons un peu de son elevage   une grande partie des eleveurs ne font saillir leurs poulinieres qu une annee sur deux sous pretexte de les laisser reposer c est la une routine qu il faut abandonner mais pour faire saillir chaque annee il faut appliquer les principes suivants entre8 et 9 mais sevrer le poulain diminuer le travail de la pouliniere et la bien nourrir neuf jours apres la mise bas il faut amener la pouliniere a l etalon et nela remettre au travail que d une facon tres progressive en travaillant ainsi serieusement les eleveurs seront recompenses de leurs eftorts leurs produits mieux reussis gagneront des courses ou seront ven dus a la remonte ou achetes par des particuliers du continent grace a la propagande que nous ferons en faveur des excellents chevaux corses dans une prochaine causerie je vous entretiendrai de a question des courses qui vont reprendre en 1925 ef qui vous apporteront un encourage ment qui vous est bien da le directeur de la station permanente d efalons de la corse
+    </p>
+    <docAuthor>
+     G. Desquilbet
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

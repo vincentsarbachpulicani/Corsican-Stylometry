@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1921_1
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     au point de vue regionaliste etant bien entendu que nous ne pouvons etre du meme cote que le tres honorable mais trop continental m doumer nous devons necessairement nous ranger a cote de ceux qui ne sont pas or si je suis bien renseigne m do1 mer ayant laisse m coty a la porte d senat se rapprocherait visiblement d m landry avec lequel il penserait echafauder une combinaison de politique insulaire et de repartition ministerielle  je n en voudrais pas trop raconte mais je crois pouvoir avancer qu il s pourrait que m m landry et doumei qui sont des fameliques du pouvoii s appuvassent mutuellement pour parti ciper dans le meme ministere aux joie et profits de l assiette au beurre  en outre m landry a cru devoir prononcer a ajaccio devant les representants des gouvernements francais et italien un discours nettement anti regionaliste a cote et autour des politiciens il y a des sagietes plus ou moins corses plus ou moins politiques  deux blocs ont l air de se disputer les faveurs de m coty qu un homme aussi riche que lui se presente et l un des deux blocs politico mutualistes se tournera vers le nouveau venu or il y a tellement de riches depuis la guerre et la concurrence dans les parfums est si apre  que    pour nous le mieux sera de fonder une association de combat regionaliste sans presidents honoraires ou effectifs mais avec des commissaires imposant une discipline rigide selon la formule  linea recta e disciplina   donc d un cote p o poli et l union generale avec un journal  l echo de la corse   de l autre cote albertini qu il nous est sympathique et grisoni avec autour d eux des combattants vrais des combattants jrorroraires et des anti combattants  une salade algero franco parigo corse   la corse en dernier leur organe presque officiel est  paris corse  de gaston colombani  j ai attaque assez vivement p o poli  pour pouvoir lui reprocher de nouveau d'avoir ete du cote de m doumer mais il faut dire ici que l un de ses collaborateurs a prononce a une reunion presidee effectivement par m coty un discours nettement regionaliste qui nous a satisfait et que depuis quelque temps l  echo  a ete correct avec nous    reste une inconnue formidable  me de moro giafferri qui je l ai remarque a la reunion du cafe voltaire a paris manie toujours de facon parfaite les foules insulaires les plus composites meme lorsqu elles comprennent comme c etait le cas une majorite d adversaires ti visa vis de moro notre attitude doit  eviter attentivement tout ce qui pourrait leloigner de nous car et je le dis parce que ce sera peut etre la realite de demain le grand tribun est fort capable de creer ou de grouper ce qui fera le grand parti corse  je resume pour les regionalistes les indispensables directives vis a vis de landry attitude agressive sinon menacante en faisant sentir a ce depute de la mer noire que nous entendons prendre une tres vive revanche des paroles exagerement anti corses qu il a prononcees et qu il saura bientot ce qu il en coute de chahuter  avec nous j vis a vis de moro mettre de l'eau dans natre vin pour lui prouver que l idee regionaliste est susceptible de s adapter pour des autres leur faire sentir des maintenant que la corse n est ni sur les fortifs parisiens ni en kabylie et que les leaders regionalistes ayant chacun un ruban tres rouge sur leurs cicatrices de guerre ne peuvent permettre a des embusques et a des femmes d embusques de mener les veuves et les combattants
+    </p>
+    <docAuthor>
+     Orsini d'Ampugnani
+    </docAuthor>
+   </div>
+   <div n="1" type="art" xml:lang="fr">
+    <p>
+     jeanne d arc en corse jeanne d arc est actuellement a l ordre du jour dans nos ecoles eglises cinemas  et theatres corses professeurs et instituteurs pour l edification de nos pauvres ecoliers insulaires commentent longue  ment l epopee de la visionnaire qui sauva  la france va  ta france la   a l eglise des predicateurs continentaux et meme corses  se disputent la   chaire deversent sur les fideles eu com  memoration de la mystique lorraine les  flots d une eloquence qui au point de vue  corse est du pur baragouin apres le sermon tout ce monde tres eroyant s age nouille et sa grandeur tres genoise fait  reciter la litanie de jeanne d arc  priez  pour nous  et pour la france  au cinema la vie de temps et trois nous assistons u remy a pequipee  de vaucouleurs mn desarroi de la cour de charles vil a la  prise d orleans au' sacre de reims et   a l autodafe de rouen dans cette derniere scene l illustre cauchon est particulierement reussi confortablement ins no talle sur l'estrade episcopale il donne  franchement illusion d'un monsieur qui  2a ne s en fait pas et qui desire que chacun participe a sa quietree  jehanne   la carriere historique et religieuse de  jeanne d arc est tellement etonnante tellement prodigieuse  qu il ne faut point s etonner si elle trouve un echo jusqu en  corse pourtant sil y a une histoire un x peuple moins apte a s assimiler et a   comprendre l epopee de cette paysanne francaise c est bien l histoire et le peuple est completement inconnu  chez nous tous les grands chefs corses  depuis giudice della rocca jusqu a pascal pao li en passant  par vincentello d istria jeau paul de leca et sampiero  soi des realistes qui consistent pour un idee positive  l idee de la patrie corse et qui n ont d autre espoir qu en la puissance de leur buts meme aux epoque les plus lamentables et les plus embrouillees de notre histoire une jeanne d ar corse n auvait eu aucun succeas dans no montagnes ses visions d autant  plu etranges et inopportunes qu elles for devier les lois naturelles de l histoire se seraient heurtees av bol scns d u peuple qui a pu etre un peuple de croquant un peuple de credules
+    </p>
+    <docAuthor>
+     P. di B.
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     A Muvra
+    </title>
+    <title type="sub">
+     Giurnale di e pieve di Corsica
+    </title>
+    <author>
+     <persName>
+      Petru Rocca
+     </persName>
+    </author>
+    <respStmt>
+     <name>
+      Vincent Sarbach-Pulicani
+     </name>
+     <orgName>
+      École nationale des chartes - PSL | Università di Pisa
+     </orgName>
+     <resp>
+      Encodage TEI, récolte et exploitation des données
+     </resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>
+     Archives Départementales de Corse du Sud
+    </distributor>
+    <address>
+     <addrLine>
+      Archives Départementales
+     </addrLine>
+     <addrLine>
+      Rue François Pietri
+     </addrLine>
+     <addrLine>
+      20000, Ajaccio
+     </addrLine>
+     <addrLine>
+      Corse, France
+     </addrLine>
+    </address>
+    <idno type="year_id">
+     1923_19
+    </idno>
+    <availability status="free">
+     <p>
+      http://archives.isula.corsica/Internet_THOT
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>
+      <persName>
+       Petru Rocca
+      </persName>
+     </author>
+     <title type="main">
+      A Muvra
+     </title>
+     <title type="sub">
+      Giurnale di e pieve di Corsica
+     </title>
+     <distributor>
+      Stamparia di A Muvra
+     </distributor>
+     <address>
+      <addrLine>
+       38 Cours Grandval
+      </addrLine>
+      <addrLine>
+       Aiacciu, Corsica
+      </addrLine>
+      <addrLine>
+       France
+      </addrLine>
+     </address>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <normalization>
+     <p>
+      Le texte a été mis en minuscule. Normalisation des césures selon le contexte  et suppression des tirets en fin de ligne pour homogénéiser les mots. La ponctuation a également été supprimée pour diminuer les conséquences du bruit de l'OCR.
+     </p>
+    </normalization>
+   </editorialDecl>
+   <projectDesc>
+    <p>
+     Utilisation de Tesseract OCR (cos + fra + ita). Documents segmentés à partir de fichiers UZN obtenus grâce à une segmentation obtenue avec Kraken et YALTAi. Il s'agit de la publication des transcriptions des numéros d'« A Muvra » disponibles sur la plateforme THOT des Archives Départementales de Corse.
+    </p>
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="cos"/>
+    <language ident="fra"/>
+    <language ident="ita"/>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div n="0" type="art" xml:lang="fr">
+    <p>
+     la corse est riche  j insiste pour que la verite penetre jusque dans les cervelles obeses bourrees par cent soixante ans de mensonges capables de nier l evidence elle meme la corse est riche plus riche encore elle sera de jour en jour si ceux qui l aiment s attendent avec foi a l oeuvre du relevement par le travail il est bien entendu et je ne me lasserai de le repeter que le relevement envisage est tout entier dependant de la mise en valeur immediate de nos ressources en fouille blanche la solution de ce probleme doit prier toute autre des que l ile sera dotee d un appareille electrique complet la question corse ne se posera plus elle sera resolue je l ai ecrit et je le soutiens la corse est a meme de disposer sans depenses excessive de 200 000 chevaux de force par la simple utilisation de ses torrents c est de cette force domestique que sorti ra brillant l avenir je ne suis pas un technicien helas et c est a peine si j ose plus avec mon coeur qu avec ma science effleurer un sujet aussi compte  de je me donnerai a signaler les possibilites de la region ajaccienne en force et lumiere je me hate d ajouter que deja des etudes serieuses ont ete faites de la question et que je divulgue de ces etudes lesquelles me paraissent vouees comme tant d autres at secret des cartonner administratifs le peu que j en connais avec l unique espoir de stimuler les inquietudes des cors s epris du so natal eceeures de son total abandon bar ceux la meme qui ont charge et sont payes pour les mettre en valeur timidement en termes sybillins pourquoi il y a quelques jours un quotidien de notre ville a jete dans l esprit de ses lecteurs deux mot marcuggio ghiataghia sans autres precisions ces deux mots designent deux pions jumeaux separes par une coupure a pic dominant l incomparable conque de tolle a l endroit precis ou le prunelle s ecoute par une fissure de deux metres de large a peine pour s en aller a la mer inutilement un barrage en cette fissure et le barrage couterait fort peu donnerait le resultat suivant un lac de 5 kilometres en longueur 2 en largeur avec une profondeur moyenne de 100 metres dont le fond se trouverait a 555 metres au dessus du niveau de la mer a une distance de 20 kilometres a vol d o seau de la capitale de l ile d une telle masse d eau m d ingenieur estime pouvoir tirer une moyenne de 72 200 h p ce qui serait parait il suffisant pour electricien le reseau trouillard des chemins de fer departementale pour relier tartine a la capitale par trains electriques et pour approvisionner en energie diverses industries d tres et deja envisages ce projet grandiose et facilement realisable depuis longtemps mari depuis longtemps au point verra il iamais son execution il serait desastreux et nous ne devons bas le tolerer qu une pareille affaire capable de donner un essor inoui a toute une moitie de la corse tombe dans le neant sous l action des forces mauvaises qui agissent sur l ile condamnee au madame le projet d n a qu un inconvenient celui d annihiler toute une commune car tolle y perdrait ses meilleures terres ses prairies es vergers uniques au monde tout le meme contre les compensations adequates qu on ne saurait leu contester les habitants de tolle consentiraient j en ai la certitude s atteindre a un sacrifice exige par le bien etre de la collectivite cyrneenne cependant si on allait se heurter a l obstination comprehensible de certains proprietaires il resterait la possibilite d utiliser le prunelle par la mise en execution du projet l egalement au point lequel par derivation de la riviere en evitant l inondation de la con que fertile donnerait des resultats sensiblement equivalents a ceux du projet
+    </p>
+    <docAuthor>
+     Cervoni
+    </docAuthor>
+   </div>
+  </body>
+ </text>
+</TEI>
